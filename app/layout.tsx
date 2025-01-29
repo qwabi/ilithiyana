@@ -25,7 +25,7 @@ export default function RootLayout({
     <html lang='en'>
       <body className={poppins.variable}>
         <Navbar />
-        <main className='w-full px-20 md:px-0'>{children}</main>
+        <main className='w-full px-2 md:px-0'>{children}</main>
         <CTA />
         <Footer />
       </body>
