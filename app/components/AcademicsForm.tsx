@@ -13,6 +13,7 @@ import {
 } from '@/components/ui/select';
 import { Label } from '@/components/ui/label';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
+import { submitFormData } from '../actions/form-actions';
 
 export default function AcademicsForm() {
   const [formData, setFormData] = useState({
@@ -62,6 +63,7 @@ export default function AcademicsForm() {
   const handleSubmit = async (e) => {
     e.preventDefault();
     // Here you would typically send the form data to your backend
+    submitFormData('academics', formData);
     console.log(formData);
     alert('Application submitted successfully! We will contact you shortly.');
   };
