@@ -1,15 +1,33 @@
-import { list } from '@vercel/blob';
+async function blobFetch(method: string, body?: any) {
+  const baseUrl =
+    process.env.NEXT_PUBLIC_API_BASE_URL || 'https://ilithiyana.vercel.app';
+  const url = new URL('/api/blob-proxy', baseUrl);
+
+  const response = await fetch(url.toString(), {
+    method,
+    headers: {
+      'Content-Type': 'application/json',
+    },
+    body: body ? JSON.stringify(body) : undefined,
+  });
+
+  if (!response.ok) {
+    throw new Error(`HTTP error! status: ${response.status}`);
+  }
+
+  return response.json();
+}
 
 export async function getSubmissions(type: string) {
   try {
-    const { blobs } = await list({
-      prefix: `${type}/submissions/`,
-      token: process.env.NEXT_PUBLIC_BLOB_ST_READ_WRITE_TOKEN,
-    });
+    const { blobs } = await blobFetch('GET');
+    const filteredBlobs = blobs.filter((blob: any) =>
+      blob.pathname.startsWith(`${type}/submissions/`)
+    );
 
     // Fetch and parse the JSON content for each blob
     const submissions = await Promise.all(
-      blobs.map(async (blob) => {
+      filteredBlobs.map(async (blob: any) => {
         const response = await fetch(blob.url);
         const data = await response.json();
         return {
@@ -22,6 +40,36 @@ export async function getSubmissions(type: string) {
     return submissions;
   } catch (error) {
     console.error(`Error fetching ${type} submissions:`, error);
+    throw error;
+  }
+}
+
+export async function putSubmission(type: string, data: any) {
+  const name = `${type}/submissions/${Date.now()}.json`;
+  const options = {
+    contentType: 'application/json',
+    token: process.env.NEXT_PUBLIC_BOB_ST_READ_WRITE,
+  };
+
+  try {
+    const result = await blobFetch('POST', {
+      name,
+      data: JSON.stringify(data),
+      options,
+    });
+    return result;
+  } catch (error) {
+    console.error(`Error putting ${type} submission:`, error);
+    throw error;
+  }
+}
+
+export async function deleteSubmission(url: string) {
+  try {
+    const result = await blobFetch('DELETE', { url });
+    return result;
+  } catch (error) {
+    console.error(`Error deleting submission:`, error);
     throw error;
   }
 }
