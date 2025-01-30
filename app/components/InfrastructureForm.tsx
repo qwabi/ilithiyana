@@ -13,7 +13,7 @@ import {
 } from '@/components/ui/select';
 import { Label } from '@/components/ui/label';
 import { submitFormData } from '../actions/form-actions';
-
+import { toast } from 'react-hot-toast';
 export default function InfrastructureForm() {
   const [formData, setFormData] = useState({
     companyName: '',
@@ -38,7 +38,17 @@ export default function InfrastructureForm() {
     e.preventDefault();
     submitFormData('infrastructure', formData);
     console.log(formData);
-    alert('Form submitted successfully!');
+    toast.success('Form submitted successfully!');
+    setFormData({
+      companyName: '',
+      contactPerson: '',
+      email: '',
+      phone: '',
+      serviceType: '',
+      projectDescription: '',
+      preferredDate: '',
+      preferredTime: '',
+    });
   };
 
   return (

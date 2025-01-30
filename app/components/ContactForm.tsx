@@ -6,6 +6,8 @@ import { Input } from '@/components/ui/input';
 import { Textarea } from '@/components/ui/textarea';
 import { Label } from '@/components/ui/label';
 import { submitFormData } from '../actions/form-actions';
+import { toast } from 'react-hot-toast';
+import { set } from 'date-fns';
 
 export default function ContactForm() {
   const [formData, setFormData] = useState({
@@ -27,7 +29,13 @@ export default function ContactForm() {
     e.preventDefault();
     submitFormData('contact', formData);
     console.log(formData);
-    alert('Message sent successfully!');
+    toast.success('Message sent successfully!');
+    setFormData({
+      name: '',
+      email: '',
+      phone: '',
+      message: '',
+    });
   };
 
   return (

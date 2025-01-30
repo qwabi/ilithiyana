@@ -13,6 +13,7 @@ import {
 } from '@/components/ui/select';
 import { Label } from '@/components/ui/label';
 import { submitFormData } from '../actions/form-actions';
+import { toast } from 'react-hot-toast';
 
 export default function VehicleCareForm() {
   const [formData, setFormData] = useState({
@@ -37,7 +38,16 @@ export default function VehicleCareForm() {
     e.preventDefault();
     submitFormData('vehicleCare', formData);
     console.log(formData);
-    alert('Form submitted successfully!');
+    toast.success('Form submitted successfully!');
+    setFormData({
+      companyName: '',
+      contactPerson: '',
+      email: '',
+      phone: '',
+      fleetSize: '',
+      serviceFrequency: '',
+      additionalNotes: '',
+    });
   };
 
   return (

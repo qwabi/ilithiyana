@@ -4,8 +4,7 @@ import { put } from '@vercel/blob';
 import { revalidatePath } from 'next/cache';
 
 export async function submitFormData(type: string, formData: any) {
-  const data = Object.fromEntries(formData);
-  const jsonData = JSON.stringify(data);
+  const jsonData = JSON.stringify(formData);
 
   try {
     const blob = await put(`${type}/submissions/${Date.now()}.json`, jsonData, {

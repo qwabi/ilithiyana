@@ -14,7 +14,8 @@ import {
 import { Label } from '@/components/ui/label';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { submitFormData } from '../actions/form-actions';
-
+import { set } from 'date-fns';
+import { toast } from 'react-hot-toast';
 export default function AcademicsForm() {
   const [formData, setFormData] = useState({
     // Parent/Guardian Information
@@ -65,7 +66,44 @@ export default function AcademicsForm() {
     // Here you would typically send the form data to your backend
     submitFormData('academics', formData);
     console.log(formData);
-    alert('Application submitted successfully! We will contact you shortly.');
+    toast.success(
+      'Application submitted successfully! We will contact you shortly.'
+    );
+    setFormData({
+      // Parent/Guardian Information
+      parentName: '',
+      parentSurname: '',
+      address: '',
+      cellNumber: '',
+      email: '',
+
+      // Learner Information
+      learnerName: '',
+      learnerSurname: '',
+      dateOfBirth: '',
+      schoolName: '',
+      grade: '',
+
+      // Subject Selection
+      subjects: [],
+      package: '',
+
+      // Schedule
+      availableDays: {
+        tuesday: false,
+        wednesday: false,
+        thursday: false,
+        friday: false,
+        saturday: false,
+      },
+      timeSlots: {
+        tuesday: { start: '', end: '' },
+        wednesday: { start: '', end: '' },
+        thursday: { start: '', end: '' },
+        friday: { start: '', end: '' },
+        saturday: { start: '', end: '' },
+      },
+    });
   };
 
   return (
