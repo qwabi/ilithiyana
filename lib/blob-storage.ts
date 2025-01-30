@@ -2,7 +2,7 @@ async function blobFetch(method: string, body?: any) {
   const baseUrl =
     process.env.NEXT_PUBLIC_API_BASE_URL || 'https://ilithiyana.vercel.app';
   const url = new URL('/api/blob-proxy', baseUrl);
-
+  console.log('fetching from url', url);
   const response = await fetch(url.toString(), {
     method,
     headers: {
@@ -20,6 +20,7 @@ async function blobFetch(method: string, body?: any) {
 
 export async function getSubmissions(type: string) {
   try {
+    console.log(`Fetching ${type} submissions`);
     const { blobs } = await blobFetch('GET');
     const filteredBlobs = blobs.filter((blob: any) =>
       blob.pathname.startsWith(`${type}/submissions/`)

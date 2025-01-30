@@ -10,9 +10,11 @@ export default function ContactSubmissions() {
   useEffect(() => {
     const fetchSubmissions = async () => {
       try {
+        console.log('Fetching contact submissions');
         const submissions = await getSubmissions('contact');
         toast.success(`Loaded ${submissions.length} contact submissions`);
       } catch (error) {
+        console.error('ERROR FETCHING', error);
         toast.error('Failed to load contact submissions');
       }
     };
