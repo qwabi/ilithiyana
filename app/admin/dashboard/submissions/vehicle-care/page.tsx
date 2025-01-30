@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, Suspense } from 'react';
+import { useEffect, useState, Suspense } from 'react';
 import { getSubmissions } from '@/lib/blob-storage';
 import { SubmissionCard } from '@/app/components/admin/SubmissionCard';
 import { Skeleton } from '@/components/ui/skeleton';
@@ -20,7 +20,22 @@ export default function VehicleCareSubmissions() {
 }
 
 async function SubmissionList() {
-  const submissions = await getSubmissions('vehicle-care');
+  const [submissions, setSubmissions] = useState([]);
+  useEffect(() => {
+    const fetchSubmissions = async () => {
+      try {
+        console.log('Fetching contact submissions');
+        const subs = await getSubmissions('contact');
+        setSubmissions(subs);
+        toast.success(`Loaded ${submissions.length} contact submissions`);
+      } catch (error) {
+        console.error('ERROR FETCHING', error);
+        toast.error('Failed to load contact submissions');
+      }
+    };
+
+    fetchSubmissions();
+  }, []);
 
   return (
     <>
