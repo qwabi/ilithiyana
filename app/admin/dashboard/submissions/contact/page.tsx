@@ -7,21 +7,6 @@ import { Skeleton } from '@/components/ui/skeleton';
 import toast from 'react-hot-toast';
 
 export default function ContactSubmissions() {
-  useEffect(() => {
-    const fetchSubmissions = async () => {
-      try {
-        console.log('Fetching contact submissions');
-        const submissions = await getSubmissions('contact');
-        toast.success(`Loaded ${submissions.length} contact submissions`);
-      } catch (error) {
-        console.error('ERROR FETCHING', error);
-        toast.error('Failed to load contact submissions');
-      }
-    };
-
-    fetchSubmissions();
-  }, []);
-
   return (
     <div>
       <h1 className='text-3xl font-bold mb-6'>Contact Submissions</h1>

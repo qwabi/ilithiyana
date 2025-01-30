@@ -7,19 +7,6 @@ import { Skeleton } from '@/components/ui/skeleton';
 import toast from 'react-hot-toast';
 
 export default function VehicleCareSubmissions() {
-  useEffect(() => {
-    const fetchSubmissions = async () => {
-      try {
-        const submissions = await getSubmissions('vehicle-care');
-        toast.success(`Loaded ${submissions.length} vehicle care submissions`);
-      } catch (error) {
-        toast.error('Failed to load vehicle care submissions');
-      }
-    };
-
-    fetchSubmissions();
-  }, []);
-
   return (
     <div>
       <h1 className='text-3xl font-bold mb-6'>Vehicle Care Submissions</h1>

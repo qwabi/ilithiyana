@@ -7,21 +7,6 @@ import { Skeleton } from '@/components/ui/skeleton';
 import toast from 'react-hot-toast';
 
 export default function InfrastructureSubmissions() {
-  useEffect(() => {
-    const fetchSubmissions = async () => {
-      try {
-        const submissions = await getSubmissions('infrastructure');
-        toast.success(
-          `Loaded ${submissions.length} infrastructure submissions`
-        );
-      } catch (error) {
-        toast.error('Failed to load infrastructure submissions');
-      }
-    };
-
-    fetchSubmissions();
-  }, []);
-
   return (
     <div>
       <h1 className='text-3xl font-bold mb-6'>Infrastructure Submissions</h1>
