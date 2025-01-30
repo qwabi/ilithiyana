@@ -4,7 +4,7 @@ import { type NextRequest, NextResponse } from 'next/server';
 export async function GET() {
   try {
     const result = await list({
-      token: process.env.NEXT_PUBLIC_BOB_ST_READ_WRITE,
+      token: process.env.NEXT_PUBLIC_BLOB_ST_READ_WRITE,
     });
     return NextResponse.json(result);
   } catch (error) {
