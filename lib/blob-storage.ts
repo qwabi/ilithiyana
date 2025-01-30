@@ -4,7 +4,7 @@ export async function getSubmissions(type: string) {
   try {
     const { blobs } = await list({
       prefix: `${type}/submissions/`,
-      token: process.env.NEXT_PUBLIC_BLOB_READ_WRITE_TOKEN,
+      token: process.env.NEXT_PUBLIC_BLOB_ST_READ_WRITE_TOKEN,
     });
 
     // Fetch and parse the JSON content for each blob

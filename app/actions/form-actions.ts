@@ -9,7 +9,7 @@ export async function submitFormData(type: string, formData: any) {
   try {
     const blob = await put(`${type}/submissions/${Date.now()}.json`, jsonData, {
       contentType: 'application/json',
-      token: process.env.NEXT_PUBLIC_BLOB_READ_WRITE_TOKEN,
+      token: process.env.NEXT_PUBLIC_BLOB_ST_READ_WRITE_TOKEN,
     });
 
     console.log(`Form data saved to ${blob.url}`);
