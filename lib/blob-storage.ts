@@ -50,7 +50,8 @@ export async function putSubmission(type: string, data: any) {
   const name = `${type}/submissions/${Date.now()}.json`;
   const options = {
     contentType: 'application/json',
-    token: process.env.NEXT_PUBLIC_BOB_ST_READ_WRITE,
+    token: process.env.NEXT_PUBLIC_BLOB_ST__READ_WRITE_TOKEN,
+    access: 'public',
   };
 
   try {
