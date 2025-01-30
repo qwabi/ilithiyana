@@ -41,7 +41,6 @@ export async function getSubmissions(type: string) {
     return submissions;
   } catch (error) {
     console.error(`Error fetching ${type} submissions:`, error);
-    throw error;
   }
 }
 
