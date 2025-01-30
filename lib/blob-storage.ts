@@ -12,8 +12,7 @@ async function blobFetch(method: string, body?: any) {
   });
 
   if (!response.ok) {
-    console.log(`HTTP error! status: ${response.status}`);
-    return [];
+    throw new Error(`HTTP error! status: ${response.status}`);
   }
 
   return response.json();
@@ -41,8 +40,8 @@ export async function getSubmissions(type: string) {
 
     return submissions;
   } catch (error) {
-    //console.log(`Error fetching ${type} submissions:`, error);
-    return [];
+    console.error(`Error fetching ${type} submissions:`, error);
+    throw error;
   }
 }
 
