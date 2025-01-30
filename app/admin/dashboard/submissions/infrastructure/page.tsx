@@ -43,10 +43,10 @@ async function SubmissionList() {
         <SubmissionCard
           key={submission.id}
           type='Infrastructure'
-          title={submission.title}
+          title='Project Inquiry'
           date={new Date(submission.date)}
-          status={submission.status}
-          details={submission.details}
+          status='Received'
+          details={submission}
         />
       ))}
     </>
