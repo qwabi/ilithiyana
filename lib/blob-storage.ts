@@ -32,10 +32,10 @@ export async function getSubmissions(type: string) {
       filteredBlobs.map(async (blob: any) => {
         const response = await fetch(blob.url);
         const data = await response.json();
-        const parsedData = JSON.parse(data);
+
         return {
           id: blob.pathname.split('/').pop()?.replace('.json', ''),
-          ...parsedData,
+          ...data,
         };
       })
     );
@@ -48,9 +48,8 @@ export async function getSubmissions(type: string) {
 }
 
 export async function putSubmission(type: string, data: any) {
-  const name = `${type}/submissions/${Date.now()}.json`;
+  const name = `${type}/submissions/${Date.now()}`;
   const options = {
-    contentType: 'application/json',
     token: process.env.NEXT_PUBLIC_BLOB_ST__READ_WRITE_TOKEN,
     access: 'public',
   };
@@ -58,7 +57,7 @@ export async function putSubmission(type: string, data: any) {
   try {
     const result = await blobFetch('POST', {
       name,
-      data: JSON.stringify(data),
+      data,
       options,
     });
     return result;
