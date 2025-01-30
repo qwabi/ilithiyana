@@ -12,7 +12,8 @@ async function blobFetch(method: string, body?: any) {
   });
 
   if (!response.ok) {
-    throw new Error(`HTTP error! status: ${response.status}`);
+    console.log(`HTTP error! status: ${response.status}`);
+    return [];
   }
 
   return response.json();
