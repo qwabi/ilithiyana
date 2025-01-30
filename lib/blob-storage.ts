@@ -32,9 +32,10 @@ export async function getSubmissions(type: string) {
       filteredBlobs.map(async (blob: any) => {
         const response = await fetch(blob.url);
         const data = await response.json();
+        const parsedData = JSON.parse(data);
         return {
           id: blob.pathname.split('/').pop()?.replace('.json', ''),
-          ...data,
+          ...parsedData,
         };
       })
     );
