@@ -1,15 +1,38 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url><loc>https://ilithiyana.co.za/admin/dashboard/submissions/infrastructure</loc><lastmod>2025-06-20T22:57:29.769Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://ilithiyana.co.za/admin/login</loc><lastmod>2025-06-20T22:57:29.769Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://ilithiyana.co.za/admin/dashboard/submissions/academics</loc><lastmod>2025-06-20T22:57:29.769Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://ilithiyana.co.za/academics</loc><lastmod>2025-06-20T22:57:29.769Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://ilithiyana.co.za/vehicle-care</loc><lastmod>2025-06-20T22:57:29.769Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://ilithiyana.co.za/about</loc><lastmod>2025-06-20T22:57:29.769Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://ilithiyana.co.za/infrastructure</loc><lastmod>2025-06-20T22:57:29.769Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://ilithiyana.co.za</loc><lastmod>2025-06-20T22:57:29.769Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://ilithiyana.co.za/contact</loc><lastmod>2025-06-20T22:57:29.769Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://ilithiyana.co.za/admin/dashboard/submissions/vehicle-care</loc><lastmod>2025-06-20T22:57:29.769Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://ilithiyana.co.za/admin/dashboard</loc><lastmod>2025-06-20T22:57:29.769Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://ilithiyana.co.za/admin/dashboard/submissions/contact</loc><lastmod>2025-06-20T22:57:29.769Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://ilithiyana.co.za/</loc>
+    <lastmod>2025-06-20T22:58:52.046Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ilithiyana.co.za/about</loc>
+    <lastmod>2025-06-20T22:58:52.045Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ilithiyana.co.za/academics</loc>
+    <lastmod>2025-06-20T22:58:52.045Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ilithiyana.co.za/contact</loc>
+    <lastmod>2025-06-20T22:58:52.046Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ilithiyana.co.za/infrastructure</loc>
+    <lastmod>2025-06-20T22:58:52.046Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ilithiyana.co.za/vehicle-care</loc>
+    <lastmod>2025-06-20T22:58:52.046Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
