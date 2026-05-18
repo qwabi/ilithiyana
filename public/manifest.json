@@ -1,0 +1,30 @@
+{
+  "name": "Ilithiyana Group",
+  "short_name": "Ilithiyana",
+  "description": "Ilithiyana Group delivers infrastructure, vehicle care, and academic support services with bookings and CRM workflows.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#111827",
+  "lang": "en-ZA",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Contact",
+      "url": "/contact",
+      "description": "Contact Ilithiyana Group"
+    },
+    {
+      "name": "About the developer",
+      "url": "/about-developer",
+      "description": "Learn about Ayabonga Qwabi"
+    }
+  ]
+}

@@ -61,6 +61,9 @@ const Footer = () => {
                   Contact Us
                 </Link>
               </li>
+                          <li>
+                <Link href="/about-developer" className="hover:text-current transition-colors">About the developer</Link>
+              </li>
             </ul>
           </div>
           <div className='w-full md:w-1/4 mb-6 md:mb-0'>
