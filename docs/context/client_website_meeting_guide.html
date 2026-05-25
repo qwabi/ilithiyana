@@ -1,0 +1,156 @@
+
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: var(--font-sans); }
+  .guide { padding: 1rem 0; max-width: 780px; }
+  .phase { border: 1px solid var(--color-border-tertiary); border-radius: var(--border-radius-lg); margin-bottom: 1rem; overflow: hidden; }
+  .phase-header { display: flex; align-items: center; gap: 12px; padding: 14px 18px; cursor: pointer; user-select: none; background: var(--color-background-secondary); }
+  .phase-num { width: 28px; height: 28px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 13px; font-weight: 500; flex-shrink: 0; }
+  .phase-title { font-size: 15px; font-weight: 500; color: var(--color-text-primary); flex: 1; }
+  .phase-tag { font-size: 11px; padding: 3px 8px; border-radius: 20px; font-weight: 500; }
+  .chevron { transition: transform 0.2s; color: var(--color-text-secondary); }
+  .phase-body { padding: 0 18px; max-height: 0; overflow: hidden; transition: max-height 0.3s ease, padding 0.2s; }
+  .phase-body.open { max-height: 800px; padding: 14px 18px 18px; }
+  .question-list { list-style: none; }
+  .question-list li { display: flex; gap: 10px; padding: 8px 0; border-bottom: 1px solid var(--color-border-tertiary); font-size: 14px; color: var(--color-text-primary); line-height: 1.5; }
+  .question-list li:last-child { border-bottom: none; }
+  .q-icon { color: var(--color-text-tertiary); flex-shrink: 0; margin-top: 2px; }
+  .tip { display: flex; gap: 10px; align-items: flex-start; background: var(--color-background-info); border-left: 3px solid var(--color-border-info); border-radius: 0 var(--border-radius-md) var(--border-radius-md) 0; padding: 10px 12px; margin-top: 12px; font-size: 13px; color: var(--color-text-info); line-height: 1.5; }
+  .p1 .phase-num { background: #EEF2FF; color: #3730A3; }
+  .p2 .phase-num { background: #F0FDF4; color: #166534; }
+  .p3 .phase-num { background: #FFF7ED; color: #9A3412; }
+  .p4 .phase-num { background: #FDF4FF; color: #6B21A8; }
+  .p5 .phase-num { background: #FFF1F2; color: #9F1239; }
+  .p1 .phase-tag { background: #EEF2FF; color: #3730A3; }
+  .p2 .phase-tag { background: #F0FDF4; color: #166534; }
+  .p3 .phase-tag { background: #FFF7ED; color: #9A3412; }
+  .p4 .phase-tag { background: #FDF4FF; color: #6B21A8; }
+  .p5 .phase-tag { background: #FFF1F2; color: #9F1239; }
+  .summary-bar { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 1rem; }
+  .badge { font-size: 12px; padding: 4px 10px; border-radius: 20px; background: var(--color-background-secondary); color: var(--color-text-secondary); border: 1px solid var(--color-border-tertiary); }
+  .webapp-flag { background: #FFF7ED; color: #9A3412; border-color: #FED7AA; font-weight: 500; }
+  .print-btn { float: right; font-size: 13px; padding: 6px 14px; border-radius: var(--border-radius-md); border: 1px solid var(--color-border-secondary); background: var(--color-background-primary); color: var(--color-text-secondary); cursor: pointer; }
+  .print-btn:hover { background: var(--color-background-secondary); }
+</style>
+<div class="guide">
+  <h2 class="sr-only">Client website meeting facilitation guide with question sections</h2>
+  <div class="summary-bar">
+    <span class="badge">5 phases</span>
+    <span class="badge">~30 questions</span>
+    <span class="badge webapp-flag"><i class="ti ti-layout-dashboard" aria-hidden="true"></i> website → web app scoping</span>
+    <button class="print-btn" onclick="window.print()"><i class="ti ti-printer" aria-hidden="true"></i> print</button>
+  </div>
+
+  <div class="phase p1">
+    <div class="phase-header" onclick="toggle(this)">
+      <div class="phase-num">1</div>
+      <span class="phase-title">Current website — what exists today</span>
+      <span class="phase-tag">Foundation</span>
+      <i class="ti ti-chevron-down chevron" aria-hidden="true"></i>
+    </div>
+    <div class="phase-body open">
+      <ul class="question-list">
+        <li><i class="ti ti-circle-dot q-icon" aria-hidden="true"></i>Can you walk us through your current website — what it does and who uses it?</li>
+        <li><i class="ti ti-circle-dot q-icon" aria-hidden="true"></i>What platform or technology is it built on? (WordPress, Wix, custom code, etc.)</li>
+        <li><i class="ti ti-circle-dot q-icon" aria-hidden="true"></i>Who manages and maintains it right now?</li>
+        <li><i class="ti ti-circle-dot q-icon" aria-hidden="true"></i>What's working well that you want to keep?</li>
+        <li><i class="ti ti-circle-dot q-icon" aria-hidden="true"></i>What's frustrating you or your users about it currently?</li>
+      </ul>
+      <div class="tip"><i class="ti ti-bulb" aria-hidden="true"></i> Ask them to share their screen if remote — seeing the live site avoids misunderstandings.</div>
+    </div>
+  </div>
+
+  <div class="phase p2">
+    <div class="phase-header" onclick="toggle(this)">
+      <div class="phase-num">2</div>
+      <span class="phase-title">Desired changes — what they want</span>
+      <span class="phase-tag">Core scope</span>
+      <i class="ti ti-chevron-down chevron" aria-hidden="true"></i>
+    </div>
+    <div class="phase-body open">
+      <ul class="question-list">
+        <li><i class="ti ti-circle-dot q-icon" aria-hidden="true"></i>What specific changes are you asking for? Walk me through them one by one.</li>
+        <li><i class="ti ti-circle-dot q-icon" aria-hidden="true"></i>For each change — is this a design/visual change, a content change, or a functional/behaviour change?</li>
+        <li><i class="ti ti-circle-dot q-icon" aria-hidden="true"></i>Do you have examples, screenshots, or competitor sites that show what you're envisioning?</li>
+        <li><i class="ti ti-circle-dot q-icon" aria-hidden="true"></i>Are these must-haves or nice-to-haves? Can you rank them?</li>
+        <li><i class="ti ti-circle-dot q-icon" aria-hidden="true"></i>Who will the end users of these changes be — same audience or a new one?</li>
+      </ul>
+      <div class="tip"><i class="ti ti-bulb" aria-hidden="true"></i> Document each change in a shared notes doc as they speak. Confirm your understanding after each one before moving on.</div>
+    </div>
+  </div>
+
+  <div class="phase p3">
+    <div class="phase-header" onclick="toggle(this)">
+      <div class="phase-num">3</div>
+      <span class="phase-title">Web app scope — the big shift</span>
+      <span class="phase-tag"><i class="ti ti-alert-triangle" aria-hidden="true"></i> Key phase</span>
+      <i class="ti ti-chevron-down chevron" aria-hidden="true"></i>
+    </div>
+    <div class="phase-body open">
+      <ul class="question-list">
+        <li><i class="ti ti-circle-dot q-icon" aria-hidden="true"></i>What makes this more than a website — what should users be able to <em>do</em> that they can't do now?</li>
+        <li><i class="ti ti-circle-dot q-icon" aria-hidden="true"></i>Will users need to create accounts or log in?</li>
+        <li><i class="ti ti-circle-dot q-icon" aria-hidden="true"></i>Will the app store, retrieve, or process user data?</li>
+        <li><i class="ti ti-circle-dot q-icon" aria-hidden="true"></i>Are there different roles or permission levels? (e.g. admin vs regular user)</li>
+        <li><i class="ti ti-circle-dot q-icon" aria-hidden="true"></i>Does it need to connect to any external systems? (payments, CRMs, APIs, databases)</li>
+        <li><i class="ti ti-circle-dot q-icon" aria-hidden="true"></i>Will users interact with each other, or is it each user working independently?</li>
+        <li><i class="ti ti-circle-dot q-icon" aria-hidden="true"></i>Does anything need to happen in real time? (notifications, live updates, chat)</li>
+      </ul>
+      <div class="tip"><i class="ti ti-bulb" aria-hidden="true"></i> This is where website becomes web app. Each "yes" here adds significant scope — flag it clearly so the client understands the implications on cost and timeline.</div>
+    </div>
+  </div>
+
+  <div class="phase p4">
+    <div class="phase-header" onclick="toggle(this)">
+      <div class="phase-num">4</div>
+      <span class="phase-title">Technical & business constraints</span>
+      <span class="phase-tag">Boundaries</span>
+      <i class="ti ti-chevron-down chevron" aria-hidden="true"></i>
+    </div>
+    <div class="phase-body">
+      <ul class="question-list">
+        <li><i class="ti ti-circle-dot q-icon" aria-hidden="true"></i>Do you have a preferred technology stack, or are you open to recommendations?</li>
+        <li><i class="ti ti-circle-dot q-icon" aria-hidden="true"></i>Are there any existing systems this must integrate with?</li>
+        <li><i class="ti ti-circle-dot q-icon" aria-hidden="true"></i>What's the rough budget range you're working with?</li>
+        <li><i class="ti ti-circle-dot q-icon" aria-hidden="true"></i>Who will own and maintain this after it's built — your team or ours?</li>
+        <li><i class="ti ti-circle-dot q-icon" aria-hidden="true"></i>Are there any compliance or data privacy requirements? (POPIA, GDPR, etc.)</li>
+        <li><i class="ti ti-circle-dot q-icon" aria-hidden="true"></i>Does this need to work on mobile, or is desktop sufficient?</li>
+      </ul>
+      <div class="tip"><i class="ti ti-bulb" aria-hidden="true"></i> Budget and ownership questions are often uncomfortable but essential — get them on the table early to avoid scope creep or handover surprises.</div>
+    </div>
+  </div>
+
+  <div class="phase p5">
+    <div class="phase-header" onclick="toggle(this)">
+      <div class="phase-num">5</div>
+      <span class="phase-title">Timeline, delivery & success</span>
+      <span class="phase-tag">Wrap-up</span>
+      <i class="ti ti-chevron-down chevron" aria-hidden="true"></i>
+    </div>
+    <div class="phase-body">
+      <ul class="question-list">
+        <li><i class="ti ti-circle-dot q-icon" aria-hidden="true"></i>Is there a hard deadline, or a preferred go-live date?</li>
+        <li><i class="ti ti-circle-dot q-icon" aria-hidden="true"></i>Are there any upcoming events or launches this needs to be ready for?</li>
+        <li><i class="ti ti-circle-dot q-icon" aria-hidden="true"></i>How would you like to stay updated during the project? (weekly calls, Slack, email)</li>
+        <li><i class="ti ti-circle-dot q-icon" aria-hidden="true"></i>Who on your side has final sign-off on designs and builds?</li>
+        <li><i class="ti ti-circle-dot q-icon" aria-hidden="true"></i>How will we know this project has been successful — what does a win look like for you?</li>
+      </ul>
+      <div class="tip"><i class="ti ti-bulb" aria-hidden="true"></i> End the meeting by summarising what you've heard and confirming next steps — who sends the brief, who does the follow-up, and by when.</div>
+    </div>
+  </div>
+</div>
+
+<script>
+function toggle(header) {
+  const body = header.nextElementSibling;
+  const chevron = header.querySelector('.chevron');
+  const isOpen = body.classList.contains('open');
+  body.classList.toggle('open', !isOpen);
+  chevron.style.transform = isOpen ? '' : 'rotate(180deg)';
+}
+document.querySelectorAll('.phase-header').forEach(h => {
+  const body = h.nextElementSibling;
+  const chevron = h.querySelector('.chevron');
+  if (body.classList.contains('open')) chevron.style.transform = 'rotate(180deg)';
+});
+</script>
