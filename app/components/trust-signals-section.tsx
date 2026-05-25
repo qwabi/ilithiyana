@@ -1,65 +1,75 @@
-import Image from "next/image"
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
+import { DM_Serif_Display, Plus_Jakarta_Sans } from 'next/font/google';
+import { positioning } from '@/lib/site-config';
+
+const dmSerif = DM_Serif_Display({
+  subsets: ['latin'],
+  weight: ['400'],
+});
+
+const jakarta = Plus_Jakarta_Sans({
+  subsets: ['latin'],
+  weight: ['400', '500'],
+});
+
+const accentBorders = [
+  'border-t-primary',
+  'border-t-secondary',
+  'border-t-accent',
+  'border-t-[hsl(199,100%,62%)]',
+] as const;
 
 const trustSignals = [
   {
-    title: "Certified Excellence",
-    description: "ISO 9001:2015 Certified for Quality Management Systems",
-    image:
-      "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    title: 'Small online classes',
+    description: `Learners study in focused groups with a ${positioning.ratio} setup so tutors can track progress.`,
   },
   {
-    title: "Industry Recognition",
-    description: "Winner of the 2023 South African Business Awards",
-    image:
-      "https://images.unsplash.com/photo-1531545514256-b1400bc00f31?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80",
+    title: 'Term progress reports',
+    description:
+      'Parents receive term reports on strengths, gaps, and what to focus on next — not just lesson attendance.',
   },
   {
-    title: "Government Approved",
-    description: "Registered supplier for South African government projects",
-    image:
-      "https://images.unsplash.com/photo-1526948128573-703ee1aeb6fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    title: 'Career guidance included',
+    description:
+      'Weekly Monday sessions on university applications, subject choices, and bursaries — part of every package.',
   },
   {
-    title: "Community Impact",
-    description: "Over 10,000 lives positively impacted through our initiatives",
-    image:
-      "https://images.unsplash.com/photo-1559027615-cd4628902d4a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    title: 'Open intake',
+    description: positioning.intake,
   },
-]
+];
 
 export function TrustSignalsSection() {
   return (
-    <section className="py-20 bg-white">
-      <div className="container mx-auto px-4">
-        <h2 className="text-3xl font-bold text-center mb-12 animate-fade-in">Why Choose Ilithiyana</h2>
-        <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
+    <section className={`bg-white py-20 ${jakarta.className}`}>
+      <div className='container mx-auto px-4'>
+        <h2
+          className={`${dmSerif.className} mb-4 text-center text-3xl text-[hsl(210,100%,25%)] md:text-4xl`}
+        >
+          Why families choose Ilithiyana Academics
+        </h2>
+        <p className='mx-auto mb-12 max-w-2xl text-center text-muted-foreground'>
+          Practical online tutoring built for school schedules and steady
+          academic growth.
+        </p>
+        <div className='mx-auto grid max-w-4xl gap-6 sm:grid-cols-2'>
           {trustSignals.map((signal, index) => (
-            <Card
-              key={index}
-              className="text-center hover:shadow-lg transition-shadow duration-300 animate-fade-in overflow-hidden"
-              style={{ animationDelay: `${index * 0.1}s` }}
+            <article
+              key={signal.title}
+              className={`rounded-xl border border-[hsl(214,32%,91%)] border-t-4 bg-white p-6 ${accentBorders[index]}`}
             >
-              <div className="relative h-48 w-full">
-                <Image
-                  src={signal.image || "/placeholder.svg"}
-                  alt={signal.title}
-                  layout="fill"
-                  objectFit="cover"
-                  className="transition-transform duration-300 hover:scale-110"
-                />
-              </div>
-              <CardHeader>
-                <CardTitle>{signal.title}</CardTitle>
-              </CardHeader>
-              <CardContent>
-                <p className="text-sm text-gray-600">{signal.description}</p>
-              </CardContent>
-            </Card>
+              <h3
+                className={`${dmSerif.className} mb-2 text-xl text-[hsl(210,100%,25%)]`}
+              >
+                {signal.title}
+              </h3>
+              <p className='text-sm leading-relaxed text-muted-foreground'>
+                {signal.description}
+              </p>
+            </article>
           ))}
         </div>
       </div>
     </section>
-  )
+  );
 }
-

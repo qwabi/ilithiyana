@@ -1,138 +1,98 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import Link from 'next/link';
-import Image from 'next/image';
-import { AnimatedButton } from '@/app/components/ui/animated-button';
+import { usePathname } from 'next/navigation';
 import { Menu, X } from 'lucide-react';
+import { Button } from '@/components/ui/button';
 import { cn } from '@/lib/utils';
+import { navLinks } from '@/lib/site-config';
+
+const navLinkClass =
+  'text-[13px] font-sans text-muted-foreground transition-colors hover:text-primary';
 
 export function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
-  const [isScrolled, setIsScrolled] = useState(false);
+  const pathname = usePathname();
 
-  useEffect(() => {
-    const handleScroll = () => {
-      setIsScrolled(window.scrollY > 0);
-    };
-    window.addEventListener('scroll', handleScroll);
-    return () => window.removeEventListener('scroll', handleScroll);
-  }, []);
+  const primaryLinks = navLinks.filter((link) => link.href !== '/apply-now');
+
+  const isActive = (href: string) =>
+    href === '/' ? pathname === '/' : pathname.startsWith(href);
 
   return (
-    <nav
-      className={cn(
-        'fixed top-0 left-0 right-0 z-50 transition-all duration-300 h-20',
-        isScrolled ? 'bg-white shadow-md' : 'bg-white/80 backdrop-blur-md'
-      )}
-    >
+    <nav className='fixed top-0 left-0 right-0 z-50 h-20 border-b-[0.5px] border-border bg-white'>
       <div className='container mx-auto px-4'>
-        <div className='flex items-center justify-between h-20'>
-          <Link href='/' className='flex items-center space-x-2'>
-            <Image
-              src='https://hebbkx1anhila5yf.public.blob.vercel-storage.com/q0olcnl5-YJlKFxUCPpfToECyNu1zQ1s90wWQRT.png'
-              alt='Ilithiyana Logo'
-              width={180}
-              height={60}
-              className='h-12 w-auto'
-            />
+        <div className='flex h-20 items-center justify-between'>
+          <Link href='/' className='font-display text-xl leading-tight md:text-2xl'>
+            <span className='text-[hsl(var(--primary-dark))]'>Ilithiyana</span>{' '}
+            <span className='text-primary'>Academics</span>
           </Link>
 
-          <div className='hidden md:flex items-center space-x-8'>
-            <Link
-              href='/'
-              className='text-sm font-medium text-gray-600 transition-colors hover:text-primary'
-            >
-              Home
-            </Link>
-            <Link
-              href='/about'
-              className='text-sm font-medium text-gray-600 transition-colors hover:text-primary'
-            >
-              About
-            </Link>
-            <Link
-              href='/academics'
-              className='text-sm font-medium text-gray-600 transition-colors hover:text-primary'
-            >
-              Academics
-            </Link>
-            <Link
-              href='/vehicle-care'
-              className='text-sm font-medium text-gray-600 transition-colors hover:text-primary'
-            >
-              Vehicle Care
-            </Link>
-            <Link
-              href='/infrastructure'
-              className='text-sm font-medium text-gray-600 transition-colors hover:text-primary'
-            >
-              Infrastructure
-            </Link>
-            <AnimatedButton asChild size='sm'>
-              <Link href='/contact'>Contact Us</Link>
-            </AnimatedButton>
-            <AnimatedButton
+          <div className='hidden items-center gap-8 md:flex'>
+            {primaryLinks.map((link) => (
+              <Link
+                key={link.href}
+                href={link.href}
+                className={cn(
+                  navLinkClass,
+                  isActive(link.href) && 'font-semibold text-primary'
+                )}
+              >
+                {link.label}
+              </Link>
+            ))}
+            <Button
               asChild
-              size='lg'
-              variant='outline'
-              className=' bg-white text-primary hover:bg-primary hover:text-white'
+              variant='secondary'
+              size='sm'
+              className='rounded-full px-5 font-semibold shadow-none'
             >
-              <Link href='/admin/login'>Login</Link>
-            </AnimatedButton>
+              <Link href='/apply-now'>Apply now</Link>
+            </Button>
           </div>
 
-          <button className='md:hidden' onClick={() => setIsOpen(!isOpen)}>
+          <button
+            type='button'
+            className='md:hidden'
+            onClick={() => setIsOpen(!isOpen)}
+            aria-expanded={isOpen}
+            aria-label={isOpen ? 'Close menu' : 'Open menu'}
+          >
             {isOpen ? (
-              <X className='text-gray-600' />
+              <X className='h-6 w-6 text-muted-foreground' />
             ) : (
-              <Menu className='text-gray-600' />
+              <Menu className='h-6 w-6 text-muted-foreground' />
             )}
           </button>
         </div>
 
-        {/* Mobile menu */}
         {isOpen && (
-          <div className='md:hidden absolute top-full left-0 right-0 bg-white shadow-lg p-4'>
-            <div className='flex flex-col space-y-4'>
-              <Link
-                href='/'
-                className='text-gray-600 hover:text-primary transition-colors'
-                onClick={() => setIsOpen(false)}
+          <div className='absolute left-0 right-0 top-full border-b-[0.5px] border-border bg-white p-4 shadow-sm md:hidden'>
+            <div className='flex flex-col gap-4'>
+              {primaryLinks.map((link) => (
+                <Link
+                  key={link.href}
+                  href={link.href}
+                  className={cn(
+                    navLinkClass,
+                    isActive(link.href) && 'font-semibold text-primary'
+                  )}
+                  onClick={() => setIsOpen(false)}
+                >
+                  {link.label}
+                </Link>
+              ))}
+              <Button
+                asChild
+                variant='secondary'
+                size='sm'
+                className='w-fit rounded-full px-5 font-semibold'
               >
-                Home
-              </Link>
-              <Link
-                href='/about'
-                className='text-gray-600 hover:text-primary transition-colors'
-                onClick={() => setIsOpen(false)}
-              >
-                About
-              </Link>
-              <Link
-                href='/academics'
-                className='text-gray-600 hover:text-primary transition-colors'
-                onClick={() => setIsOpen(false)}
-              >
-                Academics
-              </Link>
-              <Link
-                href='/vehicle-care'
-                className='text-gray-600 hover:text-primary transition-colors'
-                onClick={() => setIsOpen(false)}
-              >
-                Vehicle Care
-              </Link>
-              <Link
-                href='/infrastructure'
-                className='text-gray-600 hover:text-primary transition-colors'
-                onClick={() => setIsOpen(false)}
-              >
-                Infrastructure
-              </Link>
-              <AnimatedButton asChild size='sm' className='w-full'>
-                <Link href='/contact'>Contact Us</Link>
-              </AnimatedButton>
+                <Link href='/apply-now' onClick={() => setIsOpen(false)}>
+                  Apply now
+                </Link>
+              </Button>
             </div>
           </div>
         )}

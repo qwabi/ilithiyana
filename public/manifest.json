@@ -1,7 +1,7 @@
 {
-  "name": "Ilithiyana Group",
+  "name": "Ilithiyana Academics",
   "short_name": "Ilithiyana",
-  "description": "Ilithiyana Group delivers infrastructure, vehicle care, and academic support services with bookings and CRM workflows.",
+  "description": "Online tutoring for Grades 6–12 in Pure Maths, Natural Sciences, Life Sciences, English, and Physical Science.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
@@ -17,14 +17,14 @@
   ],
   "shortcuts": [
     {
-      "name": "Contact",
-      "url": "/contact",
-      "description": "Contact Ilithiyana Group"
+      "name": "Apply Now",
+      "url": "/apply-now",
+      "description": "Apply for online tutoring with Ilithiyana Academics"
     },
     {
-      "name": "About the developer",
-      "url": "/about-developer",
-      "description": "Learn about Ayabonga Qwabi"
+      "name": "Contact",
+      "url": "/contact",
+      "description": "Contact Ilithiyana Academics"
     }
   ]
 }

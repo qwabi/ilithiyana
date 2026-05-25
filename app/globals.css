@@ -4,20 +4,28 @@
 
 @layer base {
   :root {
+    --font-display: 'DM Serif Display', serif;
+    --font-sans: 'Plus Jakarta Sans', sans-serif;
+
     --background: 0 0% 100%;
     --foreground: 222.2 84% 4.9%;
 
-    /* Ilithiyana brand colors */
-    --primary: 210 100% 35%; /* Deep blue */
+    --primary: 210 100% 35%;
     --primary-foreground: 210 40% 98%;
+    --primary-dark: 210 100% 20%;
+    --primary-light: 210 100% 94%;
 
-    --secondary: 45 100% 50%; /* Gold */
-    --secondary-foreground: 222.2 47.4% 11.2%;
+    --secondary: 45 100% 50%;
+    --secondary-foreground: 45 100% 14%;
+    --secondary-light: 45 100% 93%;
 
-    --accent: 180 100% 35%; /* Turquoise */
-    --accent-foreground: 222.2 47.4% 11.2%;
+    --accent: 180 100% 35%;
+    --accent-foreground: 0 0% 100%;
+    --accent-light: 180 100% 93%;
+    --accent-dark: 180 100% 20%;
 
     --light-blue: 199 100% 62%;
+    --light-blue-light: 199 100% 93%;
 
     --card: 0 0% 100%;
     --card-foreground: 222.2 84% 4.9%;
@@ -33,9 +41,9 @@
 
     --border: 214.3 31.8% 91.4%;
     --input: 214.3 31.8% 91.4%;
-    --ring: 222.2 84% 4.9%;
+    --ring: 210 100% 35%;
 
-    --radius: 0.75rem;
+    --radius: 0.5rem;
   }
 }
 
@@ -43,9 +51,69 @@
   * {
     @apply border-border;
   }
+
   body {
-    @apply bg-background text-foreground antialiased;
+    @apply bg-background text-foreground antialiased font-sans;
+    font-family: var(--font-sans);
     padding-top: 5rem;
+  }
+}
+
+@layer components {
+  .font-display {
+    font-family: var(--font-display);
+  }
+
+  .font-sans {
+    font-family: var(--font-sans);
+  }
+
+  .hero-headline {
+    @apply font-display text-4xl md:text-5xl lg:text-6xl leading-[1.1] text-primary-dark;
+  }
+
+  .section-heading {
+    @apply font-display text-3xl md:text-4xl leading-tight text-foreground;
+  }
+
+  .subsection-heading {
+    @apply font-display text-2xl md:text-3xl leading-tight text-foreground;
+  }
+
+  .overline {
+    @apply font-sans text-xs md:text-sm font-semibold uppercase tracking-[0.2em] text-secondary-foreground;
+  }
+
+  .section-lead {
+    @apply font-sans text-lg md:text-xl leading-relaxed text-muted-foreground;
+  }
+
+  .body-text {
+    @apply font-sans text-base leading-relaxed text-foreground;
+  }
+
+  .stat-value {
+    @apply font-display text-4xl md:text-5xl text-primary;
+  }
+
+  .stat-label {
+    @apply font-sans text-sm font-medium text-muted-foreground;
+  }
+
+  .card-accent-blue {
+    @apply border-t-[3px] border-t-primary;
+  }
+
+  .card-accent-gold {
+    @apply border-t-[3px] border-t-secondary;
+  }
+
+  .card-accent-teal {
+    @apply border-t-[3px] border-t-accent;
+  }
+
+  .card-accent-sky {
+    @apply border-t-[3px] border-t-light-blue;
   }
 }
 
@@ -66,24 +134,12 @@
     transform: scale(1.05);
   }
 
-  .gradient-text {
-    @apply bg-gradient-to-r from-primary via-accent to-secondary bg-clip-text text-transparent;
-  }
-
-  .hover-glow {
-    @apply transition-all duration-300 hover:shadow-lg hover:shadow-primary/20;
-  }
-
   .animate-float {
     animation: float 3s ease-in-out infinite;
   }
 
-  .animate-pulse {
+  .animate-pulse-soft {
     animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
-  }
-
-  .btn-visible {
-    @apply bg-primary text-white hover:bg-primary/90;
   }
 }
 
@@ -133,30 +189,42 @@ html {
   scroll-behavior: smooth;
 }
 
-/* Add padding-top to main content */
 main {
-  @apply pt-0;
+  @apply pt-0 bg-background;
 }
 
-/* Style forms */
 form {
-  @apply shadow-lg border border-gray-200 rounded-lg p-6;
+  @apply border border-border rounded-lg p-6;
 }
 
-/* Center full-page forms */
 .full-page-form {
   @apply w-full mx-auto;
 }
 
-/* Two-column grid for form inputs */
 .form-grid {
   @apply grid md:grid-cols-2 gap-4;
 }
 
-/* Add padding for mobile and tablet devices */
 @media (max-width: 1024px) {
   .container {
     padding-left: 1rem;
     padding-right: 1rem;
+  }
+}
+
+@media print {
+  body {
+    padding-top: 0;
+  }
+
+  nav,
+  footer,
+  .checklist-no-print {
+    display: none !important;
+  }
+
+  .checklist-document {
+    max-width: 100%;
+    padding: 0;
   }
 }
