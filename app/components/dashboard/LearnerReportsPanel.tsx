@@ -1,6 +1,7 @@
 'use client';
 
 import Link from 'next/link';
+import { DeleteReportButton } from '@/app/components/dashboard/DeleteReportButton';
 import { Button } from '@/components/ui/button';
 
 export type ReportHistoryRow = {
@@ -61,16 +62,24 @@ export function LearnerReportsPanel({
                     {r.confirmed ? 'Saved' : 'Draft'}
                   </span>
                 </div>
-                <Link
-                  href={
-                    r.confirmed
-                      ? `/dashboard/reports/confirm/${r.id}?manual=true`
-                      : `/dashboard/reports/${learnerId}/add`
-                  }
-                  className='text-primary underline-offset-4 hover:underline'
-                >
-                  {r.confirmed ? 'View results' : 'Complete report'}
-                </Link>
+                <div className='flex flex-wrap items-center gap-3'>
+                  <Link
+                    href={
+                      r.confirmed
+                        ? `/dashboard/reports/confirm/${r.id}?manual=true`
+                        : `/dashboard/reports/${learnerId}/add`
+                    }
+                    className='text-primary underline-offset-4 hover:underline'
+                  >
+                    {r.confirmed ? 'View results' : 'Complete report'}
+                  </Link>
+                  <DeleteReportButton
+                    reportId={r.id}
+                    term={r.term}
+                    academicYear={r.academic_year}
+                    confirmed={r.confirmed}
+                  />
+                </div>
               </li>
             ))}
           </ul>

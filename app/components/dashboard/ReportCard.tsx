@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import { format } from 'date-fns';
+import { DeleteReportButton } from '@/app/components/dashboard/DeleteReportButton';
 import type { ReportListItem } from '@/lib/parent-dashboard-sections';
 
 function statusLabel(confirmed: boolean) {
@@ -39,16 +40,25 @@ export function ReportCard({ report }: { report: ReportListItem }) {
         </p>
       ) : null}
 
-      <Link
-        href={
-          report.confirmed
-            ? `/dashboard/reports/confirm/${report.id}?manual=true`
-            : `/dashboard/reports/${report.learner.id}/add`
-        }
-        className='mt-3 inline-block text-sm font-medium text-primary underline'
-      >
-        {needsAction ? 'Complete report →' : 'View results →'}
-      </Link>
+      <div className='mt-3 flex flex-wrap items-center gap-4'>
+        <Link
+          href={
+            report.confirmed
+              ? `/dashboard/reports/confirm/${report.id}?manual=true`
+              : `/dashboard/reports/${report.learner.id}/add`
+          }
+          className='text-sm font-medium text-primary underline'
+        >
+          {needsAction ? 'Complete report →' : 'View results →'}
+        </Link>
+        <DeleteReportButton
+          reportId={report.id}
+          term={report.term}
+          academicYear={report.academic_year}
+          confirmed={report.confirmed}
+          variant='card'
+        />
+      </div>
     </div>
   );
 }

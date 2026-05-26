@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { createServerSupabaseClient } from '@/lib/supabase/server';
 import { getLearnerForParentUser } from '@/lib/parent-learner-access';
 import { ReportConfirmForm } from '@/app/components/dashboard/ReportConfirmForm';
+import { ConfirmReportDeleteBar } from '@/app/components/dashboard/ConfirmReportDeleteBar';
 import { ManualReportSummary } from '@/app/components/dashboard/ManualReportSummary';
 import { DM_Serif_Display, Plus_Jakarta_Sans } from 'next/font/google';
 
@@ -100,6 +101,11 @@ export default async function ReportConfirmPage({
               level: e.level,
               band: e.band,
             }))}
+          />
+          <ConfirmReportDeleteBar
+            reportId={report_id}
+            term={report.term}
+            academicYear={report.academic_year}
           />
         </div>
       </div>

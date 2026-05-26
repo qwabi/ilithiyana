@@ -22,6 +22,8 @@ import {
   reportConfirmReminderEmail,
 } from '@/lib/email/templates';
 import { brand } from '@/lib/site-config';
+import { getLearnerForParentUser } from '@/lib/parent-learner-access';
+import { cascadeDeleteLearnerReport } from '@/lib/reports/delete-learner-report';
 import {
   getSubjectById,
   getSubjectsForGrade,
@@ -422,6 +424,84 @@ export async function confirmReportResults(
   revalidatePath('/dashboard/schedules');
   revalidatePath(`/dashboard/reports/confirm/${reportId}`);
   return { ok: true };
+}
+
+export async function deleteLearnerReport(reportId: string): Promise<
+  | { ok: true; learnerId: string }
+  | { ok: false; error: string }
+> {
+  const supabase = createServerSupabaseClient();
+  const {
+    data: { user },
+  } = await supabase.auth.getUser();
+  if (!user) return { ok: false, error: 'Not signed in' };
+
+  let service;
+  try {
+    service = createServiceClient();
+  } catch {
+    return {
+      ok: false,
+      error: 'Server configuration error. Please contact support.',
+    };
+  }
+
+  const { data: owned, error: ownedError } = await service
+    .from('learner_reports')
+    .select(
+      `
+      id,
+      learner_id,
+      learners!inner (
+        parent_id,
+        parents!inner ( profile_id )
+      )
+    `
+    )
+    .eq('id', reportId)
+    .maybeSingle();
+
+  if (ownedError) {
+    console.error('deleteLearnerReport ownership:', ownedError);
+    return { ok: false, error: 'Could not verify report access' };
+  }
+
+  if (!owned) return { ok: false, error: 'Report not found' };
+
+  const learner = owned.learners as {
+    parent_id: string;
+    parents: { profile_id: string } | { profile_id: string }[];
+  };
+  const parent = Array.isArray(learner.parents)
+    ? learner.parents[0]
+    : learner.parents;
+
+  if (parent?.profile_id !== user.id) {
+    const access = await getLearnerForParentUser(
+      user.id,
+      owned.learner_id as string
+    );
+    if (!access) {
+      return { ok: false, error: 'You do not have access to this report' };
+    }
+  }
+
+  const learnerId = owned.learner_id as string;
+
+  const result = await cascadeDeleteLearnerReport({
+    supabase: service,
+    reportId,
+    context: 'dashboard:deleteLearnerReport',
+  });
+
+  if (!result.ok) return result;
+
+  revalidatePath('/dashboard');
+  revalidatePath('/dashboard/schedules');
+  revalidatePath('/dashboard/reports');
+  revalidatePath(`/dashboard/reports/${learnerId}`);
+
+  return { ok: true, learnerId };
 }
 
 export async function sendReportConfirmReminder(reportId: string) {

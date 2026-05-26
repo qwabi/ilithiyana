@@ -1,4 +1,7 @@
+'use client';
+
 import Link from 'next/link';
+import { motion } from 'framer-motion';
 import { Users, FileText, Calendar, CreditCard } from 'lucide-react';
 
 const ICONS = {
@@ -23,12 +26,15 @@ export function EmptyState({
 
   return (
     <div className='flex flex-col items-center justify-center py-16 text-center'>
-      <div
+      <motion.div
+        initial={{ scale: 0.7, opacity: 0 }}
+        animate={{ scale: 1, opacity: 1 }}
+        transition={{ type: 'spring', stiffness: 260, damping: 20 }}
         className='mb-4 flex h-14 w-14 items-center justify-center rounded-full
                    bg-[hsl(210,100%,96%)]'
       >
         <Icon className='text-[hsl(210,100%,40%)]' size={24} />
-      </div>
+      </motion.div>
       <h3 className='mb-1 font-semibold text-foreground'>{title}</h3>
       <p className='max-w-sm text-sm text-muted-foreground'>{description}</p>
       {action ? (
