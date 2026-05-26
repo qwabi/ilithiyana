@@ -2,8 +2,10 @@ import { cn } from '@/lib/utils';
 
 const styles: Record<string, string> = {
   pending: 'bg-amber-100 text-amber-900',
+  documents_submitted: 'bg-blue-100 text-blue-900',
   approved: 'bg-emerald-100 text-emerald-900',
   rejected: 'bg-red-100 text-red-900',
+  suspended: 'bg-slate-200 text-slate-800',
   submitted: 'bg-blue-100 text-blue-900',
   draft: 'bg-slate-100 text-slate-800',
   active: 'bg-emerald-100 text-emerald-900',

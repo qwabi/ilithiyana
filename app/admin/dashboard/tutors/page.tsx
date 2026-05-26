@@ -1,21 +1,32 @@
-import { listPendingTutorsForAdmin } from '@/lib/tutor/actions';
-import { TutorVettingTable } from '@/app/components/admin/TutorVettingTable';
+import {
+  listAllTutorsForAdmin,
+  listIncompleteTutorProspects,
+} from '@/lib/tutor/actions';
+import { TutorsAdminPanel } from '@/app/components/admin/TutorsAdminPanel';
 
 const pageTitle =
   '[font-family:var(--font-dm-serif),serif] text-3xl font-normal tracking-tight text-foreground';
 
 export default async function AdminTutorsPage() {
-  const { data, error } = await listPendingTutorsForAdmin();
+  const [tutorsResult, prospectsResult] = await Promise.all([
+    listAllTutorsForAdmin(),
+    listIncompleteTutorProspects(),
+  ]);
+
+  const initialError = tutorsResult.error ?? prospectsResult.error;
 
   return (
     <div>
-      <h1 className={`${pageTitle} mb-2`}>Tutor vetting</h1>
+      <h1 className={`${pageTitle} mb-2`}>Tutors</h1>
       <p className='mb-8 text-muted-foreground'>
-        Review applications, documents, and approve or reject tutors.
+        All tutor applications and vetting statuses. Filter by status, open a
+        tutor to review documents, or see prospective tutors who have not
+        finished signup.
       </p>
-      <TutorVettingTable
-        initialRows={data as Parameters<typeof TutorVettingTable>[0]['initialRows']}
-        initialError={error}
+      <TutorsAdminPanel
+        tutors={tutorsResult.data}
+        prospects={prospectsResult.data}
+        initialError={initialError}
       />
     </div>
   );

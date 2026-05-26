@@ -40,7 +40,7 @@ export default async function AdminDashboard() {
     {
       name: 'Tutors awaiting vetting',
       value: kpis.tutorsAwaitingVetting,
-      description: 'Profile review queue',
+      description: 'Pending review — see all tutors',
       icon: UserCheck,
       href: '/admin/dashboard/tutors',
     },

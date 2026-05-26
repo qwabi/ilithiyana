@@ -29,7 +29,11 @@ export function TutorVettingActions({
     });
   };
 
-  if (currentStatus === 'approved' || currentStatus === 'rejected') {
+  if (
+    currentStatus === 'approved' ||
+    currentStatus === 'rejected' ||
+    currentStatus === 'suspended'
+  ) {
     return (
       <p className='text-sm text-muted-foreground capitalize'>
         Vetting: {currentStatus}

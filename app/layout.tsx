@@ -2,6 +2,7 @@ import "@/app/globals.css";
 import type { Metadata } from "next";
 import { DM_Serif_Display, Plus_Jakarta_Sans } from "next/font/google";
 import { AuthProvider } from "@/app/components/auth/AuthProvider";
+import { ConditionalMain } from "@/app/components/ConditionalMain";
 import { ConditionalNavbar } from "@/app/components/ConditionalNavbar";
 import Footer from "@/app/components/Footer";
 import { createServerSupabaseClient } from "@/lib/supabase/server";
@@ -101,7 +102,7 @@ export default async function RootLayout({
         <AuthProvider initialUser={initialUser}>
           <ConditionalNavbar />
           <Toaster />
-          <main className="w-full flex-1 px-2 md:px-0 pt-16">{children}</main>
+          <ConditionalMain>{children}</ConditionalMain>
           <Footer />
         </AuthProvider>
       </body>

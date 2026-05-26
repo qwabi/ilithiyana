@@ -407,6 +407,131 @@ export async function listPendingTutorsForAdmin() {
   return { data: data ?? [] };
 }
 
+export type AdminTutorListRow = {
+  id: string;
+  first_name: string;
+  last_name: string;
+  email: string;
+  subjects: string[];
+  created_at: string;
+  vetting_status: string;
+  province: string | null;
+  applied_at: string | null;
+  onboarding_complete: boolean;
+  vetted_at: string | null;
+};
+
+export type IncompleteTutorProspectRow = {
+  profile_id: string;
+  email: string | null;
+  full_name: string | null;
+  phone: string | null;
+  province: string | null;
+  created_at: string;
+};
+
+function unwrapTutorProfile(
+  raw: unknown
+): {
+  vetting_status: string;
+  province: string | null;
+  applied_at: string | null;
+  onboarding_complete: boolean;
+  vetted_at: string | null;
+} | null {
+  if (!raw) return null;
+  const row = Array.isArray(raw) ? raw[0] : raw;
+  if (!row || typeof row !== 'object') return null;
+  const p = row as Record<string, unknown>;
+  return {
+    vetting_status: String(p.vetting_status ?? 'pending'),
+    province: (p.province as string) ?? null,
+    applied_at: (p.applied_at as string) ?? null,
+    onboarding_complete: Boolean(p.onboarding_complete),
+    vetted_at: (p.vetted_at as string) ?? null,
+  };
+}
+
+/** All registered tutors with vetting profile (any status). */
+export async function listAllTutorsForAdmin(): Promise<{
+  data: AdminTutorListRow[];
+  error?: string;
+}> {
+  const supabase = createServiceClient();
+  const { data, error } = await supabase
+    .from('tutors')
+    .select(
+      `
+      id, first_name, last_name, email, subjects, created_at,
+      tutor_profiles (
+        vetting_status, province, applied_at, onboarding_complete, vetted_at
+      )
+    `
+    )
+    .order('created_at', { ascending: false });
+
+  if (error) return { data: [], error: error.message };
+
+  const rows: AdminTutorListRow[] = (data ?? []).map((row) => {
+    const profile = unwrapTutorProfile(row.tutor_profiles);
+    return {
+      id: row.id as string,
+      first_name: row.first_name as string,
+      last_name: row.last_name as string,
+      email: row.email as string,
+      subjects: (row.subjects as string[]) ?? [],
+      created_at: row.created_at as string,
+      vetting_status: profile?.vetting_status ?? 'pending',
+      province: profile?.province ?? null,
+      applied_at: profile?.applied_at ?? null,
+      onboarding_complete: profile?.onboarding_complete ?? false,
+      vetted_at: profile?.vetted_at ?? null,
+    };
+  });
+
+  return { data: rows };
+}
+
+/** Auth profiles with role tutor but no tutors row yet (signup incomplete). */
+export async function listIncompleteTutorProspects(): Promise<{
+  data: IncompleteTutorProspectRow[];
+  error?: string;
+}> {
+  const supabase = createServiceClient();
+
+  const [{ data: profiles, error: profileError }, { data: tutors, error: tutorError }] =
+    await Promise.all([
+      supabase
+        .from('profiles')
+        .select('id, email, full_name, phone, province, created_at')
+        .eq('role', 'tutor')
+        .order('created_at', { ascending: false }),
+      supabase.from('tutors').select('profile_id'),
+    ]);
+
+  if (profileError) return { data: [], error: profileError.message };
+  if (tutorError) return { data: [], error: tutorError.message };
+
+  const registered = new Set(
+    (tutors ?? [])
+      .map((t) => t.profile_id as string | null)
+      .filter((id): id is string => Boolean(id))
+  );
+
+  const data = (profiles ?? [])
+    .filter((p) => !registered.has(p.id as string))
+    .map((p) => ({
+      profile_id: p.id as string,
+      email: (p.email as string) ?? null,
+      full_name: (p.full_name as string) ?? null,
+      phone: (p.phone as string) ?? null,
+      province: (p.province as string) ?? null,
+      created_at: p.created_at as string,
+    }));
+
+  return { data };
+}
+
 export async function fetchTutorDocumentsForAdmin(tutorId: string) {
   try {
     const docs = await listTutorDocuments(tutorId);
