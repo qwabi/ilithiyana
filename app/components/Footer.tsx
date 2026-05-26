@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import { Mail, Phone, GraduationCap } from 'lucide-react';
-import { brand, contact, footerLinks } from '@/lib/site-config';
+import { brand, contact, footerSections } from '@/lib/site-config';
 
 const Footer = () => {
   return (
@@ -25,23 +25,29 @@ const Footer = () => {
             </p>
           </div>
 
-          {/* Quick links */}
-          <div className='w-full md:w-1/4'>
-            <h4 className='mb-4 text-xs font-bold uppercase tracking-widest text-primary-foreground/50'>
-              Quick Links
-            </h4>
-            <ul className='space-y-2.5 text-sm'>
-              {footerLinks.map((link) => (
-                <li key={link.href}>
-                  <Link
-                    href={link.href}
-                    className='text-primary-foreground/70 transition-colors hover:text-secondary'
-                  >
-                    {link.label}
-                  </Link>
-                </li>
+          {/* Link sections */}
+          <div className='w-full lg:flex-1'>
+            <div className='grid grid-cols-2 gap-x-8 gap-y-8 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5'>
+              {footerSections.map((section) => (
+                <div key={section.title}>
+                  <h4 className='mb-4 text-xs font-bold uppercase tracking-widest text-primary-foreground/50'>
+                    {section.title}
+                  </h4>
+                  <ul className='space-y-2.5 text-sm'>
+                    {section.links.map((link) => (
+                      <li key={link.href}>
+                        <Link
+                          href={link.href}
+                          className='text-primary-foreground/70 transition-colors hover:text-secondary'
+                        >
+                          {link.label}
+                        </Link>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
               ))}
-            </ul>
+            </div>
           </div>
 
           {/* Contact */}
