@@ -13,20 +13,55 @@ import type {
 export { getTutorSession, normalizeTutorProfile };
 export type { TutorWithProfile };
 
-export async function getTutorClasses(tutorId: string) {
+export type TutorClassWithCount = ClassRow & { enrollment_count: number };
+
+export async function getTutorClasses(
+  tutorId: string
+): Promise<TutorClassWithCount[]> {
   const supabase = createServiceClient();
-  const { data, error } = await supabase
+  const { data: classes, error } = await supabase
     .from('classes')
-    .select('*, learners (id, first_name, last_name, grade, school_name)')
+    .select(
+      `
+      id, subject, grade, band, band_label,
+      schedule_day, schedule_time, meet_link,
+      max_enrollment, is_active, schedule, level, learner_id, tutor_id, created_at
+    `
+    )
     .eq('tutor_id', tutorId)
     .eq('is_active', true)
-    .order('subject', { ascending: true });
+    .is('learner_id', null)
+    .order('schedule_day')
+    .order('schedule_time')
+    .order('subject');
 
   if (error) {
-    if (error.code === '42P01') return [] as ClassRow[];
+    if (error.code === '42P01') return [];
     throw error;
   }
-  return (data ?? []) as ClassRow[];
+
+  const ids = (classes ?? []).map((c) => c.id as string);
+  if (!ids.length) return [];
+
+  const { data: counts } = await supabase
+    .from('class_enrollments')
+    .select('class_id')
+    .eq('status', 'active')
+    .in('class_id', ids);
+
+  const countMap = (counts ?? []).reduce(
+    (m, r) => {
+      const cid = r.class_id as string;
+      m[cid] = (m[cid] ?? 0) + 1;
+      return m;
+    },
+    {} as Record<string, number>
+  );
+
+  return (classes ?? []).map((cls) => ({
+    ...(cls as ClassRow),
+    enrollment_count: countMap[cls.id as string] ?? 0,
+  }));
 }
 
 export async function getTutorTimesheets(tutorId: string) {
