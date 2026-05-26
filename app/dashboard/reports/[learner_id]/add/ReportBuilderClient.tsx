@@ -2,20 +2,19 @@
 
 import { useMemo, useState, useTransition } from 'react';
 import { useRouter } from 'next/navigation';
-import { Search, Plus, Trash2, CheckCircle, AlertCircle } from 'lucide-react';
+import { Trash2, CheckCircle, AlertCircle } from 'lucide-react';
 import {
   getSubjectsForGrade,
   nscLevel,
   nscDescriptor,
   levelToBand,
   subjectDisplayName,
-  type SubjectEntry,
 } from '@/lib/curriculum/subjects';
 import { saveManualReport } from '@/app/actions/report-actions';
 
-type AddedSubject = {
-  subject: SubjectEntry;
-  percentage: number | '';
+type ReportRow = {
+  subjectId: string;
+  percentage: string;
 };
 
 const TERMS = ['Term 1', 'Term 2', 'Term 3', 'Term 4', 'Year End'];
@@ -38,60 +37,49 @@ export function ReportBuilderClient({
   grade: number;
 }) {
   const router = useRouter();
-  const allSubjects = useMemo(() => getSubjectsForGrade(grade), [grade]);
+  const catalog = useMemo(
+    () => getSubjectsForGrade(grade).filter((s) => s.is_offered),
+    [grade]
+  );
 
-  const [query, setQuery] = useState('');
-  const [added, setAdded] = useState<AddedSubject[]>([]);
+  const [rows, setRows] = useState<ReportRow[]>([]);
   const [term, setTerm] = useState('Term 3');
   const [year, setYear] = useState(2026);
   const [error, setError] = useState<string | null>(null);
   const [pending, startTransition] = useTransition();
 
-  const addedIds = new Set(added.map((a) => a.subject.id));
-  const searchResults = useMemo(() => {
-    if (!query.trim()) return [];
-    const q = query.toLowerCase();
-    return allSubjects
-      .filter(
-        (s) =>
-          !addedIds.has(s.id) &&
-          (s.name.toLowerCase().includes(q) ||
-            (s.requires_level?.toLowerCase().includes(q) ?? false))
-      )
-      .slice(0, 8);
-  }, [query, allSubjects, addedIds]);
-
-  function addSubject(subject: SubjectEntry) {
-    setAdded((prev) => [...prev, { subject, percentage: '' }]);
-    setQuery('');
+  function addRow() {
+    const next = catalog.find((s) => !rows.some((r) => r.subjectId === s.id));
+    if (!next) return;
+    setRows((prev) => [...prev, { subjectId: next.id, percentage: '' }]);
   }
 
-  function removeSubject(id: string) {
-    setAdded((prev) => prev.filter((a) => a.subject.id !== id));
+  function removeRow(index: number) {
+    setRows((prev) => prev.filter((_, i) => i !== index));
   }
 
-  function updatePercentage(id: string, value: string) {
-    const num = parseInt(value, 10);
-    setAdded((prev) =>
-      prev.map((a) =>
-        a.subject.id === id
-          ? {
-              ...a,
-              percentage: Number.isNaN(num)
-                ? ''
-                : Math.min(100, Math.max(0, num)),
-            }
-          : a
-      )
-    );
-  }
+  const parsedRows = rows
+    .map((r) => ({
+      subjectId: r.subjectId,
+      percentage: parseInt(r.percentage, 10),
+    }))
+    .filter((r) => !Number.isNaN(r.percentage));
+
+  const subjectIds = parsedRows.map((r) => r.subjectId);
+  const hasDuplicateSubjects =
+    new Set(subjectIds).size !== subjectIds.length;
 
   const allFilled =
-    added.length > 0 && added.every((a) => a.percentage !== '');
-  const hasMissingPct = added.some((a) => a.percentage === '');
+    rows.length > 0 &&
+    rows.every((r) => {
+      const pct = parseInt(r.percentage, 10);
+      return !Number.isNaN(pct) && pct >= 0 && pct <= 100;
+    });
+
+  const hasMissingPct = rows.some((r) => r.percentage.trim() === '');
 
   function handleSave() {
-    if (!allFilled) return;
+    if (!allFilled || hasDuplicateSubjects) return;
     setError(null);
 
     startTransition(async () => {
@@ -99,10 +87,7 @@ export function ReportBuilderClient({
         learnerId,
         term,
         academicYear: year,
-        rows: added.map((a) => ({
-          subjectId: a.subject.id,
-          percentage: a.percentage as number,
-        })),
+        rows: parsedRows,
       });
 
       if (!result.ok) {
@@ -169,179 +154,120 @@ export function ReportBuilderClient({
 
       <div className='mb-4 rounded-xl border border-border bg-white p-5'>
         <p className='mb-3 text-xs font-semibold uppercase tracking-wide text-muted-foreground'>
-          Add subjects
+          Subject results
         </p>
-        <div className='relative'>
-          <Search
-            className='pointer-events-none absolute left-3 top-1/2 -translate-y-1/2 text-muted-foreground'
-            size={16}
-          />
-          <input
-            type='text'
-            value={query}
-            onChange={(e) => setQuery(e.target.value)}
-            placeholder='Search subjects — e.g. Mathematics, English HL, Life Sciences…'
-            className='w-full rounded-lg border border-input py-2.5 pl-9 pr-4 text-sm
-                       focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary/20'
-          />
-        </div>
 
-        {searchResults.length > 0 && (
-          <div className='mt-2 divide-y divide-border overflow-hidden rounded-lg border border-border'>
-            {searchResults.map((subject) => (
-              <button
-                key={subject.id}
-                type='button'
-                onClick={() => addSubject(subject)}
-                className='group flex w-full items-center justify-between px-4 py-3
-                           text-left text-sm transition-colors hover:bg-[hsl(210,100%,98%)]'
-              >
-                <div>
-                  <span className='font-medium text-foreground'>
-                    {subjectDisplayName(subject)}
-                  </span>
-                  {subject.is_offered ? (
-                    <span className='ml-2 rounded-full bg-[hsl(210,100%,96%)] px-1.5 py-0.5 text-xs font-semibold text-[hsl(210,100%,35%)]'>
-                      IA tutoring available
-                    </span>
-                  ) : null}
-                </div>
-                <Plus
-                  size={16}
-                  className='shrink-0 text-muted-foreground transition-colors group-hover:text-primary'
-                />
-              </button>
-            ))}
-          </div>
-        )}
-
-        {query.trim() && searchResults.length === 0 ? (
-          <p className='mt-2 px-1 text-xs text-muted-foreground'>
-            No subjects found for &quot;{query}&quot;. Try a different search term.
+        {rows.length === 0 ? (
+          <p className='text-sm text-muted-foreground'>
+            Add each subject from the list, then enter the percentage mark.
           </p>
         ) : null}
+
+        {rows.map((row, idx) => {
+          const sub = catalog.find((s) => s.id === row.subjectId);
+          const pct = parseInt(row.percentage, 10);
+          const level = !Number.isNaN(pct) ? nscLevel(pct) : null;
+          const band = level !== null ? levelToBand(level) : null;
+          const colors = level !== null ? levelColors(level) : null;
+
+          return (
+            <div
+              key={`${row.subjectId}-${idx}`}
+              className='mt-3 flex flex-wrap items-end gap-2 border-t border-border/60 pt-3 first:mt-0 first:border-t-0 first:pt-0'
+            >
+              <div className='min-w-[12rem] flex-1'>
+                <label className='mb-1 block text-xs font-semibold text-foreground'>
+                  Subject
+                </label>
+                <select
+                  value={row.subjectId}
+                  onChange={(e) =>
+                    setRows((prev) =>
+                      prev.map((r, i) =>
+                        i === idx ? { ...r, subjectId: e.target.value } : r
+                      )
+                    )
+                  }
+                  className='w-full rounded-lg border border-input bg-white px-3 py-2 text-sm'
+                >
+                  {catalog.map((s) => (
+                    <option key={s.id} value={s.id}>
+                      {subjectDisplayName(s)}
+                    </option>
+                  ))}
+                </select>
+              </div>
+              <div>
+                <label className='mb-1 block text-xs font-semibold text-foreground'>
+                  Mark (%)
+                </label>
+                <input
+                  type='number'
+                  min={0}
+                  max={100}
+                  placeholder='0–100'
+                  value={row.percentage}
+                  onChange={(e) =>
+                    setRows((prev) =>
+                      prev.map((r, i) =>
+                        i === idx ? { ...r, percentage: e.target.value } : r
+                      )
+                    )
+                  }
+                  className={`w-24 rounded-lg border px-2 py-2 text-center text-sm font-semibold focus:outline-none focus:ring-1 focus:ring-primary/20 ${
+                    row.percentage === ''
+                      ? 'border-amber-300 bg-amber-50'
+                      : 'border-input bg-white'
+                  }`}
+                />
+              </div>
+              {level !== null && colors ? (
+                <div className='flex flex-wrap items-center gap-2 pb-0.5'>
+                  <span
+                    className={`rounded-full px-2.5 py-1 text-xs font-bold ${colors.bg} ${colors.text}`}
+                  >
+                    L{level}
+                  </span>
+                  <span
+                    className={`rounded px-2 py-0.5 text-sm font-bold ${colors.bg} ${colors.text}`}
+                  >
+                    {band}
+                  </span>
+                  <span className='text-xs text-muted-foreground'>
+                    {nscDescriptor(level)}
+                  </span>
+                </div>
+              ) : null}
+              <button
+                type='button'
+                onClick={() => removeRow(idx)}
+                className='mb-0.5 flex h-9 w-9 items-center justify-center rounded-lg text-muted-foreground transition-colors hover:bg-muted/50 hover:text-destructive'
+                aria-label='Remove subject'
+              >
+                <Trash2 size={16} />
+              </button>
+            </div>
+          );
+        })}
+
+        <button
+          type='button'
+          onClick={addRow}
+          disabled={rows.length >= catalog.length}
+          className='mt-4 rounded-full border border-border px-4 py-2 text-sm font-medium text-foreground transition-colors hover:bg-muted/50 disabled:cursor-not-allowed disabled:opacity-50'
+        >
+          Add subject
+        </button>
       </div>
 
-      {added.length > 0 ? (
-        <div className='mb-4 overflow-hidden rounded-xl border border-border bg-white'>
-          <div className='flex items-center justify-between border-b border-border px-5 py-3'>
-            <p className='text-xs font-semibold uppercase tracking-wide text-muted-foreground'>
-              Subject results
-            </p>
-            <p className='text-xs text-muted-foreground'>
-              {added.length} subject{added.length !== 1 ? 's' : ''}
-            </p>
-          </div>
-
-          <div className='grid grid-cols-[1fr_90px_70px_60px_32px] gap-2 border-b border-border bg-muted/30 px-5 py-2'>
-            <p className='text-xs font-semibold text-muted-foreground'>Subject</p>
-            <p className='text-center text-xs font-semibold text-muted-foreground'>
-              Mark (%)
-            </p>
-            <p className='text-center text-xs font-semibold text-muted-foreground'>
-              Level
-            </p>
-            <p className='text-center text-xs font-semibold text-muted-foreground'>
-              Band
-            </p>
-            <span />
-          </div>
-
-          <div className='divide-y divide-border/60'>
-            {added.map((item) => {
-              const pct = item.percentage;
-              const level = typeof pct === 'number' ? nscLevel(pct) : null;
-              const band = level !== null ? levelToBand(level) : null;
-              const colors = level !== null ? levelColors(level) : null;
-
-              return (
-                <div
-                  key={item.subject.id}
-                  className='grid grid-cols-[1fr_90px_70px_60px_32px] items-center gap-2 px-5 py-3'
-                >
-                  <div>
-                    <p className='text-sm font-medium leading-tight text-foreground'>
-                      {subjectDisplayName(item.subject)}
-                    </p>
-                  </div>
-                  <input
-                    type='number'
-                    min={0}
-                    max={100}
-                    value={pct}
-                    onChange={(e) =>
-                      updatePercentage(item.subject.id, e.target.value)
-                    }
-                    placeholder='0–100'
-                    className={`w-full rounded-lg border px-2 py-1.5 text-center text-sm font-semibold focus:outline-none focus:ring-1 focus:ring-primary/20 ${
-                      pct === ''
-                        ? 'border-amber-300 bg-amber-50'
-                        : 'border-input bg-white'
-                    }`}
-                  />
-                  <div className='flex justify-center'>
-                    {level !== null && colors ? (
-                      <span
-                        className={`rounded-full px-2.5 py-1 text-xs font-bold ${colors.bg} ${colors.text}`}
-                      >
-                        L{level}
-                      </span>
-                    ) : (
-                      <span className='text-xs text-muted-foreground'>—</span>
-                    )}
-                  </div>
-                  <div className='flex justify-center'>
-                    {band !== null && colors ? (
-                      <span
-                        className={`rounded px-2 py-0.5 text-sm font-bold ${colors.bg} ${colors.text}`}
-                      >
-                        {band}
-                      </span>
-                    ) : (
-                      <span className='text-xs text-muted-foreground'>—</span>
-                    )}
-                  </div>
-                  <button
-                    type='button'
-                    onClick={() => removeSubject(item.subject.id)}
-                    className='flex justify-center text-muted-foreground transition-colors hover:text-destructive'
-                    aria-label='Remove subject'
-                  >
-                    <Trash2 size={15} />
-                  </button>
-                </div>
-              );
-            })}
-          </div>
-
-          {added.some((a) => a.percentage !== '') ? (
-            <div className='border-t border-border bg-muted/20 px-5 py-3'>
-              <p className='mb-1 text-xs font-medium text-muted-foreground'>
-                NSC rating scale
-              </p>
-              <div className='flex flex-wrap gap-1.5'>
-                {[7, 6, 5, 4, 3, 2, 1].map((lvl) => {
-                  const c = levelColors(lvl);
-                  return (
-                    <span
-                      key={lvl}
-                      className={`rounded-full px-2 py-0.5 text-xs font-medium ${c.bg} ${c.text}`}
-                    >
-                      {lvl} — {nscDescriptor(lvl).split(' ')[0]}
-                    </span>
-                  );
-                })}
-              </div>
-            </div>
-          ) : null}
+      {hasDuplicateSubjects ? (
+        <div className='mb-4 flex items-center gap-2 rounded-lg bg-amber-50 px-4 py-2.5 text-sm text-amber-900'>
+          <AlertCircle size={15} />
+          Each subject can only appear once.
         </div>
-      ) : (
-        <p className='py-8 text-center text-sm text-muted-foreground'>
-          Search for a subject above to get started.
-        </p>
-      )}
+      ) : null}
 
-      {hasMissingPct ? (
+      {hasMissingPct && rows.length > 0 ? (
         <div className='mb-4 flex items-center gap-2 rounded-lg bg-amber-50 px-4 py-2.5 text-sm text-amber-900'>
           <AlertCircle size={15} />
           Enter a percentage for every subject before saving.
@@ -366,7 +292,7 @@ export function ReportBuilderClient({
         <button
           type='button'
           onClick={handleSave}
-          disabled={!allFilled || pending}
+          disabled={!allFilled || hasDuplicateSubjects || pending}
           className='flex flex-1 items-center justify-center gap-2 rounded-full bg-accent py-2.5 text-sm font-bold text-[hsl(210,100%,12%)] transition-colors hover:bg-accent/90 disabled:cursor-not-allowed disabled:opacity-40'
         >
           {pending ? (

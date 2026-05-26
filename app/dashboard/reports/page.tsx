@@ -46,14 +46,14 @@ export default async function ReportsPage() {
     <div>
       <PageHeader
         title='School Reports'
-        description='Upload and manage school reports for each child. Reports are scanned automatically to set class levels.'
+        description='Enter and manage school report results for each child to set class levels.'
       />
 
       {Object.keys(byLearner).length === 0 ? (
         <EmptyState
           icon='file-text'
-          title='No reports uploaded yet'
-          description='Upload a school report for any of your children to help us place them in the right class.'
+          title='No reports added yet'
+          description='Enter school report results for any of your children to help us place them in the right class.'
           action={
             ctx.learnerIds.length > 0
               ? {
@@ -75,7 +75,7 @@ export default async function ReportsPage() {
                   </span>
                 </h2>
                 <Link
-                  href={`/dashboard/reports/${learner.id}/upload`}
+                  href={`/dashboard/reports/${learner.id}/add`}
                   className='text-sm font-medium text-primary hover:underline'
                 >
                   + Add report

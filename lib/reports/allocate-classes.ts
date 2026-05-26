@@ -1,4 +1,5 @@
 import { createServiceClient } from '@/lib/supabase/server';
+import { enrollLearnerInSubjectBand } from '@/lib/class-enrollments';
 import { buildClassLabel, type ClassBand } from '@/lib/reports/nsc';
 import { SUBJECT_CODES } from '@/lib/reports/subjects';
 import { sendEmail } from '@/lib/email';
@@ -83,6 +84,26 @@ export async function allocateLearnerToClasses(opts: {
     }
 
     if (!targetClassId) {
+      try {
+        const { data: learnerLevel } = await supabase
+          .from('learners')
+          .select('level')
+          .eq('id', opts.learnerId)
+          .maybeSingle();
+        await enrollLearnerInSubjectBand(
+          supabase,
+          opts.learnerId,
+          opts.grade,
+          subject,
+          band,
+          (learnerLevel?.level as string | null) ?? null
+        );
+        enrolled.push(classLabel);
+        continue;
+      } catch (fallbackErr) {
+        console.error('allocateLearnerToClasses fallback enroll:', fallbackErr);
+      }
+
       waitlisted.push(subject);
       await supabase.from('class_waitlist').insert({
         learner_id: opts.learnerId,

@@ -5,23 +5,21 @@ import {
   createServerSupabaseClient,
   createServiceClient,
 } from '@/lib/supabase/server';
-import { allocateLearnerToClasses } from '@/lib/reports/allocate-classes';
+import { allocationLog } from '@/lib/allocation-log';
+import {
+  allocateLearnerFromReportMarks,
+  extractionRowsToPlacementRows,
+} from '@/lib/reports/allocate-from-report';
 import {
   percentageToBand,
   percentageToLevel,
   bandChangeSeverity,
   type ClassBand,
 } from '@/lib/reports/nsc';
-import { processLearnerReport, createReportFromLeadStorage } from '@/lib/reports/process-report';
-import {
-  uploadApplicationDocument,
-  buildLearnerReportStoragePath,
-} from '@/lib/supabase/storage';
 import { sendEmail } from '@/lib/email';
 import {
   levelChangeAlertEmail,
   reportConfirmReminderEmail,
-  reportUploadedEmail,
 } from '@/lib/email/templates';
 import { brand } from '@/lib/site-config';
 import {
@@ -39,139 +37,6 @@ export type ExtractionInput = {
   is_offered: boolean;
   wrong_subject?: boolean;
 };
-
-export async function triggerReportOcrAfterPayment(opts: {
-  leadId: string;
-  learnerId: string;
-  applicationId: string;
-  reportStoragePath: string | null;
-  parentProfileId?: string | null;
-}) {
-  if (!opts.reportStoragePath) {
-    const supabase = createServiceClient();
-    await supabase
-      .from('applications')
-      .update({ allocation_status: 'pending_report' })
-      .eq('id', opts.applicationId);
-    await supabase
-      .from('learners')
-      .update({ allocation_status: 'pending_report' })
-      .eq('id', opts.learnerId);
-    return { reportId: null };
-  }
-
-  const reportId = await createReportFromLeadStorage({
-    learnerId: opts.learnerId,
-    applicationId: opts.applicationId,
-    storagePath: opts.reportStoragePath,
-    uploadedByProfileId: opts.parentProfileId ?? null,
-  });
-
-  void processLearnerReport(reportId).catch((e) =>
-    console.error('Background OCR error:', e)
-  );
-
-  return { reportId };
-}
-
-export async function uploadLearnerReport(
-  learnerId: string,
-  formData: FormData
-): Promise<{ ok: boolean; reportId?: string; error?: string }> {
-  const supabase = createServerSupabaseClient();
-  const {
-    data: { user },
-  } = await supabase.auth.getUser();
-  if (!user) return { ok: false, error: 'Not signed in' };
-
-  const file = formData.get('file');
-  const term = String(formData.get('term') ?? 'Year End');
-  const academicYear = parseInt(String(formData.get('academicYear') ?? new Date().getFullYear()), 10);
-
-  if (!file || !(file instanceof File)) {
-    return { ok: false, error: 'No file provided' };
-  }
-
-  if (file.size > 10 * 1024 * 1024) {
-    return { ok: false, error: 'File must be 10 MB or smaller' };
-  }
-
-  const allowed = new Set([
-    'application/pdf',
-    'image/jpeg',
-    'image/jpg',
-    'image/png',
-    'image/webp',
-  ]);
-  if (file.type && !allowed.has(file.type)) {
-    return { ok: false, error: 'Only PDF and image files are allowed' };
-  }
-
-  const { data: learner } = await supabase
-    .from('learners')
-    .select('id, first_name, last_name, parent_id, parents!inner(email, first_name, profile_id)')
-    .eq('id', learnerId)
-    .eq('parents.profile_id', user.id)
-    .single();
-
-  if (!learner) return { ok: false, error: 'Learner not found' };
-
-  const buffer = Buffer.from(await file.arrayBuffer());
-  const path = buildLearnerReportStoragePath(
-    learnerId,
-    term,
-    academicYear,
-    file.name
-  );
-
-  const { path: storedPath } = await uploadApplicationDocument(
-    buffer,
-    path,
-    file.type || undefined
-  );
-
-  const ext = file.name.split('.').pop()?.toLowerCase() ?? 'pdf';
-  const fileType =
-    ext === 'pdf' ? 'pdf' : ext === 'png' ? 'png' : ext === 'webp' ? 'webp' : 'jpg';
-
-  const service = createServiceClient();
-  const { data: report, error } = await service
-    .from('learner_reports')
-    .insert({
-      learner_id: learnerId,
-      uploaded_by: user.id,
-      file_url: storedPath,
-      file_type: fileType,
-      term,
-      academic_year: academicYear,
-      ocr_status: 'pending',
-    })
-    .select('id')
-    .single();
-
-  if (error || !report) {
-    return { ok: false, error: error?.message ?? 'Failed to save report' };
-  }
-
-  const parent = learner.parents as { email: string; first_name: string } | null;
-  if (parent?.email) {
-    const tpl = reportUploadedEmail({
-      parentName: parent.first_name,
-      learnerName: `${learner.first_name} ${learner.last_name}`,
-      term,
-      year: academicYear,
-    });
-    await sendEmail({ to: parent.email, subject: tpl.subject, html: tpl.html }).catch(
-      console.error
-    );
-  }
-
-  void processLearnerReport(report.id).catch(console.error);
-
-  revalidatePath(`/dashboard/reports/${learnerId}`);
-  revalidatePath('/dashboard/reports');
-  return { ok: true, reportId: report.id };
-}
 
 export type ManualReportRow = {
   subjectId: string;
@@ -223,6 +88,7 @@ export async function saveManualReport(input: {
 
   const parsedRows: {
     subject: NonNullable<ReturnType<typeof getSubjectById>>;
+    subjectId: string;
     percentage: number;
     displayName: string;
     level: number;
@@ -245,6 +111,7 @@ export async function saveManualReport(input: {
     const displayName = subjectDisplayName(subject);
     parsedRows.push({
       subject,
+      subjectId: subject.id,
       percentage: pct,
       displayName,
       level: percentageToLevel(pct),
@@ -326,49 +193,44 @@ export async function saveManualReport(input: {
 
   let allocationWarning: string | undefined;
 
-  const { data: app } = await service
-    .from('applications')
-    .select('id, subjects')
-    .eq('learner_id', learnerId)
-    .order('created_at', { ascending: false })
-    .limit(1)
-    .maybeSingle();
+  const placementRows = parsedRows.map((r) => ({
+    subjectId: r.subjectId,
+    tutoringName: r.tutoringName,
+    subject: { is_offered: r.subject.is_offered },
+    band: r.band,
+    percentage: r.percentage,
+  }));
 
-  const applicationId = app?.id;
-  const parent = learner.parents as {
-    email: string;
-    first_name: string;
-    last_name: string;
-  };
-  const enrolledSubjects =
-    (app?.subjects as string[]) ?? (learner.subjects as string[]) ?? [];
+  try {
+    const allocation = await allocateLearnerFromReportMarks({
+      supabase: service,
+      learnerId,
+      grade,
+      parsedRows: placementRows,
+      context: 'dashboard:saveManualReport',
+    });
 
-  const confirmedLevels = parsedRows
-    .filter((r) => r.tutoringName && r.subject.is_offered)
-    .map((r) => ({
-      subject: r.tutoringName!,
-      level: r.level,
-      band: r.band,
-      percentage: r.percentage,
-    }));
+    allocationLog('saveManualReport:allocation_result', {
+      learnerId,
+      reportId,
+      ...allocation,
+    });
 
-  if (applicationId && parent?.email && confirmedLevels.length > 0) {
-    try {
-      await allocateLearnerToClasses({
-        learnerId,
-        applicationId,
-        grade,
-        enrolledSubjects,
-        confirmedLevels,
-        parentEmail: parent.email,
-        parentName: parent.first_name,
-        learnerName: `${learner.first_name} ${learner.last_name}`,
-      });
-    } catch (err) {
-      console.error('saveManualReport allocation:', err);
+    if (
+      allocation.enrolledSubjectIds.length > 0 &&
+      allocation.sessionsCreated === 0
+    ) {
       allocationWarning =
-        'Results were saved but class placement may need a follow-up from our team.';
+        'Class placement was updated. Upcoming session times are still being scheduled — check Schedules shortly.';
     }
+  } catch (err) {
+    allocationLog('saveManualReport:allocation_error', {
+      learnerId,
+      reportId,
+      error: err instanceof Error ? err.message : String(err),
+    });
+    allocationWarning =
+      'Results were saved but class placement may need a follow-up from our team.';
   }
 
   revalidatePath('/dashboard');
@@ -523,41 +385,41 @@ export async function confirmReportResults(
     })
     .eq('id', reportId);
 
-  const { data: app } = await service
-    .from('applications')
-    .select('id, subjects')
-    .eq('learner_id', learner.id)
-    .order('created_at', { ascending: false })
-    .limit(1)
-    .maybeSingle();
-
-  const applicationId = app?.id;
-  const enrolledSubjects = (app?.subjects as string[]) ?? learner.subjects ?? [];
-
-  const confirmedLevels = offeredRows
-    .filter((r) => r.percentage != null)
-    .map((r) => ({
-      subject: r.subject_name_clean,
-      level: percentageToLevel(r.percentage!),
-      band: percentageToBand(r.percentage!) as ClassBand,
+  const placementRows = extractionRowsToPlacementRows(
+    offeredRows.map((r) => ({
+      subject_name_clean: r.subject_name_clean,
       percentage: r.percentage,
-    }));
+      is_offered: r.is_offered,
+      wrong_subject: r.wrong_subject,
+    })),
+    learner.grade
+  );
 
-  const parent = learner.parents;
-  if (applicationId && parent?.email) {
-    await allocateLearnerToClasses({
+  try {
+    const allocation = await allocateLearnerFromReportMarks({
+      supabase: service,
       learnerId: learner.id,
-      applicationId,
       grade: learner.grade,
-      enrolledSubjects,
-      confirmedLevels,
-      parentEmail: parent.email,
-      parentName: parent.first_name,
-      learnerName: `${learner.first_name} ${learner.last_name}`,
+      parsedRows: placementRows,
+      context: 'dashboard:confirmReportResults',
+    });
+
+    allocationLog('confirmReportResults:allocation_result', {
+      reportId,
+      learnerId: learner.id,
+      placementRowCount: placementRows.length,
+      ...allocation,
+    });
+  } catch (err) {
+    allocationLog('confirmReportResults:allocation_error', {
+      reportId,
+      learnerId: learner.id,
+      error: err instanceof Error ? err.message : String(err),
     });
   }
 
   revalidatePath('/dashboard');
+  revalidatePath('/dashboard/schedules');
   revalidatePath(`/dashboard/reports/confirm/${reportId}`);
   return { ok: true };
 }
