@@ -63,17 +63,59 @@ create table if not exists timesheet_sessions (
 
 create index if not exists timesheet_sessions_timesheet_idx on timesheet_sessions(timesheet_id);
 
+-- PK is profile_id (see 20260529150000); IF NOT EXISTS keeps that shape when both run.
 create table if not exists admin_profiles (
-  id uuid primary key references profiles(id) on delete cascade,
-  full_name text,
-  email text not null,
-  is_active boolean not null default true,
-  created_at timestamptz not null default now()
+  profile_id uuid primary key references profiles(id) on delete cascade,
+  title text,
+  can_approve_tutors boolean not null default true,
+  can_approve_timesheets boolean not null default true,
+  can_manage_applications boolean not null default true,
+  can_manage_payments boolean not null default true,
+  created_at timestamptz not null default now(),
+  updated_at timestamptz not null default now()
 );
+
+alter table admin_profiles
+  add column if not exists full_name text,
+  add column if not exists email text,
+  add column if not exists is_active boolean not null default true;
+
+-- Columns used by lib/types/tutor-admin.ts and admin tutor actions
+alter table tutor_profiles
+  add column if not exists qualifications text,
+  add column if not exists applied_at timestamptz not null default now(),
+  add column if not exists vetted_at timestamptz,
+  add column if not exists vetted_by uuid references profiles(id) on delete set null,
+  add column if not exists rejection_reason text,
+  add column if not exists bank_account_holder text,
+  add column if not exists bank_name text,
+  add column if not exists bank_account_number text,
+  add column if not exists bank_branch_code text,
+  add column if not exists id_number text,
+  add column if not exists grades_taught smallint[] not null default '{}',
+  add column if not exists vetting_notes text,
+  add column if not exists onboarding_complete boolean not null default false;
+
+alter table tutor_documents
+  add column if not exists mime_type text,
+  add column if not exists status text not null default 'pending',
+  add column if not exists notes text,
+  add column if not exists reviewed_at timestamptz,
+  add column if not exists reviewed_by uuid references profiles(id) on delete set null;
+
+alter table tutor_timesheets
+  add column if not exists period_start date,
+  add column if not exists period_end date,
+  add column if not exists submitted_at timestamptz;
 
 drop trigger if exists tutor_profiles_updated_at on tutor_profiles;
 create trigger tutor_profiles_updated_at
   before update on tutor_profiles
+  for each row execute function set_updated_at();
+
+drop trigger if exists admin_profiles_updated_at on admin_profiles;
+create trigger admin_profiles_updated_at
+  before update on admin_profiles
   for each row execute function set_updated_at();
 
 -- Auth helpers
@@ -246,6 +288,7 @@ create policy timesheet_sessions_tutor_all on timesheet_sessions
 
 drop policy if exists admin_profiles_admin_all on admin_profiles;
 drop policy if exists admin_profiles_self_select on admin_profiles;
+drop policy if exists admin_profiles_select_own on admin_profiles;
 
 create policy admin_profiles_admin_all on admin_profiles
   for all to authenticated
@@ -254,7 +297,7 @@ create policy admin_profiles_admin_all on admin_profiles
 
 create policy admin_profiles_self_select on admin_profiles
   for select to authenticated
-  using (id = auth.uid());
+  using (profile_id = auth.uid());
 
 grant select, insert, update, delete on tutor_profiles to authenticated, service_role;
 grant select, insert, update, delete on tutor_documents to authenticated, service_role;
