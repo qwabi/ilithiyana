@@ -51,6 +51,54 @@ export async function getTutorSession(): Promise<{
   };
 }
 
+/** Create or update Supabase Auth user for tutor signup (no email confirmation link). */
+export async function provisionTutorAuthUser(input: {
+  email: string;
+  password: string;
+  firstName: string;
+  lastName: string;
+}): Promise<{ userId: string; isNewUser: boolean }> {
+  const supabase = createServiceClient();
+  const email = input.email.trim().toLowerCase();
+  const fullName = `${input.firstName} ${input.lastName}`.trim();
+
+  const { data: listData } = await supabase.auth.admin.listUsers({
+    page: 1,
+    perPage: 200,
+  });
+  const existing = listData.users.find(
+    (u) => u.email?.toLowerCase() === email
+  );
+
+  if (existing) {
+    const { error: updateError } = await supabase.auth.admin.updateUserById(
+      existing.id,
+      {
+        password: input.password,
+        email_confirm: true,
+        user_metadata: { full_name: fullName, role: 'tutor' },
+      }
+    );
+    if (updateError) {
+      throw new Error(updateError.message);
+    }
+    return { userId: existing.id, isNewUser: false };
+  }
+
+  const { data: created, error: createError } =
+    await supabase.auth.admin.createUser({
+      email,
+      password: input.password,
+      email_confirm: true,
+      user_metadata: { full_name: fullName, role: 'tutor' },
+    });
+  if (createError || !created.user) {
+    throw new Error(createError?.message ?? 'Could not create account');
+  }
+
+  return { userId: created.user.id, isNewUser: true };
+}
+
 export async function provisionTutorAccount(input: {
   email: string;
   password: string;
@@ -136,15 +184,22 @@ export async function updateTutorVetting(
   opts?: { notes?: string; reviewedBy?: string }
 ) {
   const supabase = createServiceClient();
+  const now = new Date().toISOString();
+
+  // Match 20260529150000 schema (rejection_reason, vetted_at, vetted_by).
+  // Do not set vetting_notes / reviewed_at — absent until optional later migrations.
+  const patch: Record<string, unknown> = {
+    vetting_status: status,
+    rejection_reason:
+      status === 'rejected' ? (opts?.notes?.trim() || null) : null,
+    vetted_at:
+      status === 'approved' || status === 'rejected' ? now : null,
+    vetted_by: opts?.reviewedBy ?? null,
+  };
+
   const { data, error } = await supabase
     .from('tutor_profiles')
-    .update({
-      vetting_status: status,
-      vetting_notes: opts?.notes ?? null,
-      reviewed_at: new Date().toISOString(),
-      reviewed_by: opts?.reviewedBy ?? null,
-      onboarding_complete: status === 'approved',
-    })
+    .update(patch)
     .eq('tutor_id', tutorId)
     .select('*')
     .single();
