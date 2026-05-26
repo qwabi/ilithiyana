@@ -2,66 +2,84 @@ import Link from 'next/link';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import {
   GraduationCap,
-  MessageSquare,
-  CreditCard,
+  Users,
+  UserCheck,
   Clock,
+  CreditCard,
+  Banknote,
   UserPlus,
 } from 'lucide-react';
-import { getDashboardCounts } from '@/app/actions/admin-actions';
+import { AdminShell } from '@/app/components/admin/AdminShell';
+import { getDashboardKpis } from '@/app/actions/admin-actions';
 
-const pageTitle =
-  '[font-family:var(--font-dm-serif),serif] text-3xl font-normal tracking-tight text-foreground';
 const adminCard =
   'h-full rounded-xl border-[0.5px] border-border bg-white shadow-sm transition-shadow hover:shadow-md';
 
+function formatZar(cents: number) {
+  return `R ${(cents / 100).toLocaleString('en-ZA', { minimumFractionDigits: 2 })}`;
+}
+
 export default async function AdminDashboard() {
-  const counts = await getDashboardCounts();
+  const kpis = await getDashboardKpis();
 
   const cards = [
     {
-      name: 'Applications',
-      description: `${counts.pendingApplications} pending review`,
+      name: 'Active learners',
+      value: kpis.activeLearners,
+      description: 'Enrolled and active',
+      icon: Users,
+      href: '/admin/dashboard/learners',
+    },
+    {
+      name: 'Pending applications',
+      value: kpis.pendingApplications,
+      description: 'Awaiting review',
       icon: GraduationCap,
       href: '/admin/dashboard/applications',
-      count: counts.applications,
+    },
+    {
+      name: 'Tutors awaiting vetting',
+      value: kpis.tutorsAwaitingVetting,
+      description: 'Profile review queue',
+      icon: UserCheck,
+      href: '/admin/dashboard/tutors',
+    },
+    {
+      name: 'Pending timesheets',
+      value: kpis.pendingTimesheets,
+      description: 'Submitted, not approved',
+      icon: Clock,
+      href: '/admin/dashboard/timesheets',
+    },
+    {
+      name: 'Overdue subscriptions',
+      value: kpis.overdueSubscriptions,
+      description: 'Billing follow-up',
+      icon: CreditCard,
+      href: '/admin/dashboard/subscriptions',
+    },
+    {
+      name: 'Revenue (30 days)',
+      value: formatZar(kpis.revenueCents30d),
+      description: 'Completed payments',
+      icon: Banknote,
+      href: '/admin/dashboard/payments',
     },
     {
       name: 'Prospective parents',
-      description: `${counts.awaitingPaymentLeads} awaiting payment`,
+      value: kpis.awaitingPaymentLeads,
+      description: 'Awaiting payment',
       icon: UserPlus,
       href: '/admin/dashboard/leads',
-      count: counts.awaitingPaymentLeads,
-    },
-    {
-      name: 'Subscriptions',
-      description: 'Learner billing status',
-      icon: CreditCard,
-      href: '/admin/dashboard/subscriptions',
-      count: '—',
-    },
-    {
-      name: 'Timesheets',
-      description: 'Tutor session logs',
-      icon: Clock,
-      href: '/admin/dashboard/timesheets',
-      count: '—',
-    },
-    {
-      name: 'Contact messages',
-      description: 'General enquiries',
-      icon: MessageSquare,
-      href: '/admin/dashboard/submissions/contact',
-      count: counts.contactMessages,
     },
   ];
 
   return (
-    <div>
-      <h1 className={`${pageTitle} mb-2`}>Admin dashboard</h1>
-      <p className='mb-8 text-muted-foreground'>
-        Ilithiyana Academics — manage applications and enquiries.
-      </p>
-      <div className='grid gap-6 md:grid-cols-2 lg:grid-cols-4'>
+    <AdminShell
+      title='Admin dashboard'
+      description='Ilithiyana Academics — operations overview and quick links.'
+    >
+      <div className='grid gap-6 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4'>
         {cards.map((type) => (
           <Link key={type.name} href={type.href}>
             <Card className={adminCard}>
@@ -73,7 +91,7 @@ export default async function AdminDashboard() {
               </CardHeader>
               <CardContent>
                 <div className='text-2xl font-bold text-foreground'>
-                  {type.count}
+                  {type.value}
                 </div>
                 <p className='text-xs text-muted-foreground'>{type.description}</p>
               </CardContent>
@@ -81,6 +99,6 @@ export default async function AdminDashboard() {
           </Link>
         ))}
       </div>
-    </div>
+    </AdminShell>
   );
 }

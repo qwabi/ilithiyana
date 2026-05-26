@@ -1,6 +1,7 @@
 'use client';
 
 import { useCallback, useState, useTransition } from 'react';
+import Link from 'next/link';
 import { format } from 'date-fns';
 import toast from 'react-hot-toast';
 import { Button } from '@/components/ui/button';
@@ -257,6 +258,11 @@ export function ApplicationTable({
                   : ''}
               </p>
               <div className='flex flex-wrap gap-2'>
+                <Button variant='outline' size='sm' className='h-8' asChild>
+                  <Link href={`/admin/dashboard/applications/${app.id}`}>
+                    View details
+                  </Link>
+                </Button>
                 {app.report_storage_path || app.report_url ? (
                   <Button
                     variant='ghost'

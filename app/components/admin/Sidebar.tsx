@@ -23,40 +23,26 @@ import {
   LayoutDashboard,
   CalendarDays,
   UserPlus,
+  Users,
+  UserCircle,
+  UserCheck,
+  Banknote,
+  FileText,
 } from 'lucide-react';
 import { logoutAdmin } from '@/app/actions/admin-actions';
 
 const menuItems = [
-  {
-    name: 'Dashboard',
-    icon: LayoutDashboard,
-    href: '/admin/dashboard',
-  },
-  {
-    name: 'Applications',
-    icon: GraduationCap,
-    href: '/admin/dashboard/applications',
-  },
-  {
-    name: 'Prospective parents',
-    icon: UserPlus,
-    href: '/admin/dashboard/leads',
-  },
-  {
-    name: 'Subscriptions',
-    icon: CreditCard,
-    href: '/admin/dashboard/subscriptions',
-  },
-  {
-    name: 'Timesheets',
-    icon: Clock,
-    href: '/admin/dashboard/timesheets',
-  },
-  {
-    name: 'Classes',
-    icon: CalendarDays,
-    href: '/admin/dashboard/classes',
-  },
+  { name: 'Dashboard', icon: LayoutDashboard, href: '/admin/dashboard' },
+  { name: 'Applications', icon: GraduationCap, href: '/admin/dashboard/applications' },
+  { name: 'Prospective parents', icon: UserPlus, href: '/admin/dashboard/leads' },
+  { name: 'Learners', icon: Users, href: '/admin/dashboard/learners' },
+  { name: 'Parents', icon: UserCircle, href: '/admin/dashboard/parents' },
+  { name: 'Tutors', icon: UserCheck, href: '/admin/dashboard/tutors' },
+  { name: 'Classes', icon: CalendarDays, href: '/admin/dashboard/classes' },
+  { name: 'Timesheets', icon: Clock, href: '/admin/dashboard/timesheets' },
+  { name: 'Subscriptions', icon: CreditCard, href: '/admin/dashboard/subscriptions' },
+  { name: 'Payments', icon: Banknote, href: '/admin/dashboard/payments' },
+  { name: 'School reports', icon: FileText, href: '/admin/dashboard/reports' },
   {
     name: 'Contact messages',
     icon: MessageSquare,

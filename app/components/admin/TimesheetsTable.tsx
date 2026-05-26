@@ -1,6 +1,7 @@
 'use client';
 
 import { useState, useTransition } from 'react';
+import Link from 'next/link';
 import { format } from 'date-fns';
 import toast from 'react-hot-toast';
 import { Badge } from '@/components/ui/badge';
@@ -89,6 +90,11 @@ export function TimesheetsTable({ initialRows, initialError }: Props) {
                 <p className='text-muted-foreground'>
                   Submitted {format(new Date(row.created_at), 'd MMM yyyy')}
                 </p>
+                <Button variant='outline' size='sm' className='mt-2' asChild>
+                  <Link href={`/admin/dashboard/timesheets/${row.id}`}>
+                    View details
+                  </Link>
+                </Button>
                 {row.status === 'submitted' && (
                   <div className='flex gap-2 pt-2'>
                     <Button size='sm' onClick={() => updateStatus(row.id, 'approved')}>
