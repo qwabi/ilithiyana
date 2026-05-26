@@ -1,10 +1,15 @@
+'use client';
+
 import Link from 'next/link';
+import { motion } from 'framer-motion';
 
 type Action = {
   label: string;
   href: string;
   variant?: 'gold' | 'primary' | 'outline';
 };
+
+const MotionLink = motion.create(Link);
 
 export function PageHeader({
   title,
@@ -36,12 +41,14 @@ export function PageHeader({
         ) : null}
       </div>
       {action ? (
-        <Link
+        <MotionLink
           href={action.href}
+          whileHover={{ scale: 1.03 }}
+          whileTap={{ scale: 0.97 }}
           className={`rounded-full px-4 py-2 text-sm transition-colors ${btnClass}`}
         >
           {action.label}
-        </Link>
+        </MotionLink>
       ) : null}
     </div>
   );

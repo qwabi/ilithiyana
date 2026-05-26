@@ -1,6 +1,14 @@
 'use client';
 
 import Link from 'next/link';
+import { motion } from 'framer-motion';
+import {
+  Users,
+  Calendar,
+  FileText,
+  CreditCard,
+  type LucideIcon,
+} from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent } from '@/components/ui/card';
 import { cn } from '@/lib/utils';
@@ -47,6 +55,38 @@ export function ParentDashboard({ data }: { data: DashboardSession }) {
     data.profile?.full_name?.split(' ')[0] ?? data.parent.first_name;
 
   const hasOverdue = data.subscriptions.some((s) => s.status === 'overdue');
+
+  const quickLinks: {
+    title: string;
+    description: string;
+    href: string;
+    icon: LucideIcon;
+  }[] = [
+    {
+      title: 'My children',
+      description: `${data.learners.length} enrolled learner${data.learners.length !== 1 ? 's' : ''}`,
+      href: '/dashboard/children',
+      icon: Users,
+    },
+    {
+      title: 'Schedules',
+      description: 'Class timetable and join links',
+      href: '/dashboard/schedules',
+      icon: Calendar,
+    },
+    {
+      title: 'Reports',
+      description: 'Enter and review school report results',
+      href: '/dashboard/reports',
+      icon: FileText,
+    },
+    {
+      title: 'Subscriptions',
+      description: 'Billing and payment history',
+      href: '/dashboard/subscriptions',
+      icon: CreditCard,
+    },
+  ];
 
   return (
     <div className='space-y-8'>
@@ -149,26 +189,9 @@ export function ParentDashboard({ data }: { data: DashboardSession }) {
       )}
 
       <section className='grid gap-4 md:grid-cols-2 lg:grid-cols-4'>
-        <QuickLink
-          title='My children'
-          description={`${data.learners.length} enrolled learner${data.learners.length !== 1 ? 's' : ''}`}
-          href='/dashboard/children'
-        />
-        <QuickLink
-          title='Schedules'
-          description='Class timetable and join links'
-          href='/dashboard/schedules'
-        />
-        <QuickLink
-          title='Reports'
-          description='Enter and review school report results'
-          href='/dashboard/reports'
-        />
-        <QuickLink
-          title='Subscriptions'
-          description='Billing and payment history'
-          href='/dashboard/subscriptions'
-        />
+        {quickLinks.map((link) => (
+          <QuickLink key={link.href} {...link} />
+        ))}
       </section>
 
       {data.learners.length === 0 ? (
@@ -194,19 +217,31 @@ function QuickLink({
   title,
   description,
   href,
+  icon: Icon,
 }: {
   title: string;
   description: string;
   href: string;
+  icon: LucideIcon;
 }) {
   return (
-    <Link
-      href={href}
-      className='block rounded-xl border border-border bg-white p-5 shadow-sm
-                 transition-colors hover:border-primary/30 hover:bg-[hsl(210,100%,98%)]'
+    <motion.div
+      whileHover={{ y: -2, boxShadow: '0 4px 16px rgba(0,91,184,0.08)' }}
+      transition={{ duration: 0.15 }}
     >
-      <p className='font-medium text-foreground'>{title}</p>
-      <p className='mt-1 text-sm text-muted-foreground'>{description}</p>
-    </Link>
+      <Link
+        href={href}
+        className='flex items-start gap-3 rounded-xl border border-border bg-white p-5 shadow-sm
+                   transition-colors hover:border-primary/30 hover:bg-[hsl(210,100%,98%)]'
+      >
+        <div className='flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-primary/10'>
+          <Icon size={18} className='text-primary' />
+        </div>
+        <div>
+          <p className='font-medium text-foreground'>{title}</p>
+          <p className='mt-1 text-sm text-muted-foreground'>{description}</p>
+        </div>
+      </Link>
+    </motion.div>
   );
 }

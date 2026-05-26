@@ -2,6 +2,7 @@
 
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
+import { motion } from 'framer-motion';
 import {
   Users,
   Calendar,
@@ -101,12 +102,20 @@ export function Sidebar({ profile }: { profile: SidebarProfile }) {
             <Link
               key={item.href}
               href={item.href}
-              className={`flex items-center gap-3 rounded-lg px-3 py-2.5 text-sm font-medium transition-colors ${
+              className={`relative flex items-center gap-3 rounded-lg px-3 py-2.5 text-sm font-medium transition-colors ${
                 active
-                  ? 'bg-[hsl(210,100%,96%)] text-[hsl(210,100%,35%)]'
+                  ? 'text-[hsl(210,100%,35%)]'
                   : 'text-muted-foreground hover:bg-muted/50 hover:text-foreground'
               }`}
             >
+              {active ? (
+                <motion.div
+                  layoutId='sidebar-active-pill'
+                  className='absolute inset-0 rounded-lg bg-[hsl(210,100%,96%)]'
+                  style={{ zIndex: -1 }}
+                  transition={{ type: 'spring', stiffness: 350, damping: 30 }}
+                />
+              ) : null}
               <Icon
                 size={18}
                 className={

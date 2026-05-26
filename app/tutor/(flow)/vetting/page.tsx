@@ -1,6 +1,8 @@
 import Link from 'next/link';
 import { redirect } from 'next/navigation';
 import { Button } from '@/components/ui/button';
+import { TutorVettingPendingClock } from '@/app/tutor/_components/TutorVettingPendingClock';
+import { TutorVettingStatusBanner } from '@/app/tutor/_components/TutorVettingStatus';
 import { getTutorSession } from '@/lib/tutor/queries';
 
 export const dynamic = 'force-dynamic';
@@ -45,6 +47,7 @@ export default async function TutorVettingPage() {
 
   return (
     <div className='space-y-6'>
+      {profile.vetting_status === 'pending' ? <TutorVettingPendingClock /> : null}
       <div>
         <h1 className='[font-family:var(--font-dm-serif),serif] text-3xl text-[hsl(210,100%,25%)]'>
           {copy.title}
@@ -54,9 +57,7 @@ export default async function TutorVettingPage() {
         </p>
       </div>
 
-      <div className={`rounded-xl border p-4 text-sm ${copy.tone}`}>
-        {copy.body}
-      </div>
+      <TutorVettingStatusBanner copy={copy} />
 
       {profile.vetting_status === 'pending' ? (
         <p className='text-sm text-muted-foreground'>

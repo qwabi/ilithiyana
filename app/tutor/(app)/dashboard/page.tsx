@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
+import { TutorDashboardStatCards } from '@/app/tutor/_components/TutorDashboardStatCards';
 import { getTutorSession, getTutorClasses, getTutorTimesheets } from '@/lib/tutor/queries';
 
 export const dynamic = 'force-dynamic';
@@ -29,40 +30,19 @@ export default async function TutorDashboardPage() {
         </p>
       </div>
 
-      <div className='grid gap-4 sm:grid-cols-3'>
-        <Card>
-          <CardHeader className='pb-2'>
-            <CardTitle className='text-sm font-medium text-muted-foreground'>
-              Active classes
-            </CardTitle>
-          </CardHeader>
-          <CardContent>
-            <p className='text-3xl font-semibold'>{classes.length}</p>
-          </CardContent>
-        </Card>
-        <Card>
-          <CardHeader className='pb-2'>
-            <CardTitle className='text-sm font-medium text-muted-foreground'>
-              Timesheets pending review
-            </CardTitle>
-          </CardHeader>
-          <CardContent>
-            <p className='text-3xl font-semibold'>{pendingTimesheets.length}</p>
-          </CardContent>
-        </Card>
-        <Card>
-          <CardHeader className='pb-2'>
-            <CardTitle className='text-sm font-medium text-muted-foreground'>
-              Session rate
-            </CardTitle>
-          </CardHeader>
-          <CardContent>
-            <p className='text-3xl font-semibold'>
-              R{(session.tutor.session_rate_cents / 100).toFixed(0)}
-            </p>
-          </CardContent>
-        </Card>
-      </div>
+      <TutorDashboardStatCards
+        stats={[
+          { label: 'Active classes', value: String(classes.length) },
+          {
+            label: 'Timesheets pending review',
+            value: String(pendingTimesheets.length),
+          },
+          {
+            label: 'Session rate',
+            value: `R${(session.tutor.session_rate_cents / 100).toFixed(0)}`,
+          },
+        ]}
+      />
 
       <div className='flex flex-wrap gap-3'>
         <Button asChild>
