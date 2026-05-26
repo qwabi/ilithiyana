@@ -60,6 +60,11 @@ const subjectChipStyles: Record<string, string> = {
   'Life Sciences': 'bg-sky-50 border-sky-200 text-sky-900',
   English: 'bg-blue-50/90 border-blue-100 text-blue-800',
   'Natural Sciences': 'bg-teal-50/90 border-teal-100 text-teal-800',
+  'Social Sciences': 'bg-amber-50 border-amber-200 text-amber-900',
+  Technology: 'bg-violet-50 border-violet-200 text-violet-900',
+  'Economic Management Sciences': 'bg-emerald-50 border-emerald-200 text-emerald-900',
+  'Life Orientation': 'bg-rose-50 border-rose-200 text-rose-900',
+  'Creative Arts': 'bg-fuchsia-50 border-fuchsia-200 text-fuchsia-900',
 };
 
 const emptySchedule = () => ({

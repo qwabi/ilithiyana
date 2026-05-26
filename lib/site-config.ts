@@ -15,15 +15,13 @@ export const contact = {
   whatsapp: 'https://wa.me/27650310714',
 } as const;
 
-export const subjects = [
-  'Pure Maths',
-  'Natural Sciences',
-  'Life Sciences',
-  'English',
-  'Physical Science',
-] as const;
-
-export type Subject = (typeof subjects)[number];
+export {
+  TUTORING_SUBJECTS as subjects,
+  type TutoringSubject as Subject,
+  getTutoringSubjectsForGrade,
+  getCurriculumPhase,
+  isTutoringSubjectValidForGrade,
+} from '@/lib/curriculum/subjects';
 
 export const grades = [6, 7, 8, 9, 10, 11, 12] as const;
 

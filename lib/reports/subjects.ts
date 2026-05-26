@@ -1,4 +1,7 @@
-import { subjects as offeredSubjects } from '@/lib/site-config';
+import {
+  TUTORING_SUBJECTS as offeredSubjects,
+  type TutoringSubject,
+} from '@/lib/curriculum/subjects';
 
 /** Maps OCR / report labels to site-config subject names and short codes. */
 const NORMALIZE_MAP: Record<string, string> = {
@@ -23,6 +26,15 @@ const NORMALIZE_MAP: Record<string, string> = {
   'nat sci': 'Natural Sciences',
   'natural science': 'Natural Sciences',
   'natural sciences': 'Natural Sciences',
+  'social sciences': 'Social Sciences',
+  'social science': 'Social Sciences',
+  technology: 'Technology',
+  ems: 'Economic Management Sciences',
+  'economic management sciences': 'Economic Management Sciences',
+  'economic and management sciences': 'Economic Management Sciences',
+  'life orientation': 'Life Orientation',
+  lo: 'Life Orientation',
+  'creative arts': 'Creative Arts',
 };
 
 export const SUBJECT_CODES: Record<string, string> = {
@@ -31,6 +43,11 @@ export const SUBJECT_CODES: Record<string, string> = {
   'Life Sciences': 'LifeSci',
   English: 'English',
   'Natural Sciences': 'NatSci',
+  'Social Sciences': 'SocSci',
+  Technology: 'Tech',
+  'Economic Management Sciences': 'EMS',
+  'Life Orientation': 'LO',
+  'Creative Arts': 'CreatArts',
 };
 
 export function normalizeSubjectName(raw: string): {
@@ -40,7 +57,9 @@ export function normalizeSubjectName(raw: string): {
 } {
   const key = raw.trim().toLowerCase();
   const clean = NORMALIZE_MAP[key] ?? raw.trim();
-  const isOffered = (offeredSubjects as readonly string[]).includes(clean);
+  const isOffered = (offeredSubjects as readonly TutoringSubject[]).includes(
+    clean as TutoringSubject
+  );
   const subjectCode = isOffered ? (SUBJECT_CODES[clean] ?? clean.replace(/\s+/g, '')) : null;
   return { clean, isOffered, subjectCode };
 }

@@ -1,4 +1,3 @@
-import type { Subject } from "@/lib/site-config";
 import {
   percentageToLevel,
   percentageToBand,
@@ -8,6 +7,66 @@ import {
 
 export type { ClassBand };
 
+/** Canonical names stored on `classes.subject` and used across admin, enrollment, and reports. */
+export const TUTORING_SUBJECTS = [
+  "English",
+  "Pure Maths",
+  "Natural Sciences",
+  "Social Sciences",
+  "Technology",
+  "Economic Management Sciences",
+  "Life Orientation",
+  "Creative Arts",
+  "Physical Science",
+  "Life Sciences",
+] as const;
+
+export type TutoringSubject = (typeof TUTORING_SUBJECTS)[number];
+
+/** Weekly default slot (SAST) per tutoring subject — shared by class seeding and session generation. */
+export const TUTORING_SUBJECT_SCHEDULE_DAY: Record<TutoringSubject, string> = {
+  English: "wednesday",
+  "Pure Maths": "tuesday",
+  "Natural Sciences": "monday",
+  "Social Sciences": "thursday",
+  Technology: "friday",
+  "Economic Management Sciences": "monday",
+  "Life Orientation": "saturday",
+  "Creative Arts": "saturday",
+  "Physical Science": "thursday",
+  "Life Sciences": "friday",
+};
+
+export const TUTORING_SUBJECT_SCHEDULE_TIME: Partial<
+  Record<TutoringSubject, string>
+> = {
+  "Economic Management Sciences": "17:00",
+  "Life Orientation": "10:00",
+  "Creative Arts": "11:00",
+};
+
+const SENIOR_PHASE_GRADES = [6, 7, 8, 9] as const;
+const FET_GRADES = [10, 11, 12] as const;
+
+/** Display order for admin class groups and forms. */
+const SENIOR_TUTORING_ORDER: TutoringSubject[] = [
+  "English",
+  "Pure Maths",
+  "Natural Sciences",
+  "Social Sciences",
+  "Technology",
+  "Economic Management Sciences",
+  "Life Orientation",
+  "Creative Arts",
+];
+
+const FET_TUTORING_ORDER: TutoringSubject[] = [
+  "English",
+  "Pure Maths",
+  "Physical Science",
+  "Life Sciences",
+];
+
 export type SubjectEntry = {
   id: string;
   name: string;
@@ -16,8 +75,8 @@ export type SubjectEntry = {
   grades: number[];
   is_offered: boolean;
   requires_level?: "HL" | "FAL" | "SAL" | null;
-  /** Maps to site-config tutoring subject when is_offered */
-  tutoringSubject?: Subject | null;
+  /** Maps to canonical tutoring subject when is_offered */
+  tutoringSubject?: TutoringSubject | null;
 };
 
 export const JUNIOR_CONTENT_SUBJECTS: SubjectEntry[] = [
@@ -45,7 +104,8 @@ export const JUNIOR_CONTENT_SUBJECTS: SubjectEntry[] = [
     category: "content",
     phase: "junior",
     grades: [6, 7, 8, 9],
-    is_offered: false,
+    is_offered: true,
+    tutoringSubject: "Social Sciences",
   },
   {
     id: "technology",
@@ -53,7 +113,8 @@ export const JUNIOR_CONTENT_SUBJECTS: SubjectEntry[] = [
     category: "content",
     phase: "junior",
     grades: [6, 7, 8, 9],
-    is_offered: false,
+    is_offered: true,
+    tutoringSubject: "Technology",
   },
   {
     id: "economic-management-sciences",
@@ -61,7 +122,8 @@ export const JUNIOR_CONTENT_SUBJECTS: SubjectEntry[] = [
     category: "content",
     phase: "junior",
     grades: [6, 7, 8, 9],
-    is_offered: false,
+    is_offered: true,
+    tutoringSubject: "Economic Management Sciences",
   },
   {
     id: "life-orientation-junior",
@@ -69,7 +131,8 @@ export const JUNIOR_CONTENT_SUBJECTS: SubjectEntry[] = [
     category: "content",
     phase: "junior",
     grades: [6, 7, 8, 9],
-    is_offered: false,
+    is_offered: true,
+    tutoringSubject: "Life Orientation",
   },
   {
     id: "creative-arts",
@@ -77,7 +140,8 @@ export const JUNIOR_CONTENT_SUBJECTS: SubjectEntry[] = [
     category: "content",
     phase: "junior",
     grades: [6, 7, 8, 9],
-    is_offered: false,
+    is_offered: true,
+    tutoringSubject: "Creative Arts",
   },
 ];
 
@@ -427,8 +491,60 @@ export function subjectDisplayName(subject: SubjectEntry): string {
   return subject.name;
 }
 
-export function toTutoringSubjectName(subject: SubjectEntry): string | null {
+export function toTutoringSubjectName(
+  subject: SubjectEntry
+): TutoringSubject | null {
   return subject.tutoringSubject ?? null;
+}
+
+export function getCurriculumPhase(
+  grade: number
+): "senior" | "fet" | null {
+  if ((SENIOR_PHASE_GRADES as readonly number[]).includes(grade)) return "senior";
+  if ((FET_GRADES as readonly number[]).includes(grade)) return "fet";
+  return null;
+}
+
+/** Tutoring subjects Ilithiyana offers for a grade (CAPS Senior vs FET). */
+export function getTutoringSubjectsForGrade(grade: number): TutoringSubject[] {
+  const phase = getCurriculumPhase(grade);
+  if (phase === "senior") {
+    const offered = new Set(
+      getOfferedSubjectsForGrade(grade)
+        .map((s) => s.tutoringSubject)
+        .filter((s): s is TutoringSubject => s != null)
+    );
+    return SENIOR_TUTORING_ORDER.filter((s) => offered.has(s));
+  }
+  if (phase === "fet") {
+    const offered = new Set(
+      getOfferedSubjectsForGrade(grade)
+        .map((s) => s.tutoringSubject)
+        .filter((s): s is TutoringSubject => s != null)
+    );
+    return FET_TUTORING_ORDER.filter((s) => offered.has(s));
+  }
+  return [];
+}
+
+export function isTutoringSubjectValidForGrade(
+  grade: number,
+  subject: string
+): boolean {
+  return getTutoringSubjectsForGrade(grade).includes(subject as TutoringSubject);
+}
+
+export function scheduleForTutoringSubject(subject: string): {
+  schedule_day: string;
+  schedule_time: string;
+} {
+  const key = subject as TutoringSubject;
+  return {
+    schedule_day:
+      TUTORING_SUBJECT_SCHEDULE_DAY[key] ??
+      TUTORING_SUBJECT_SCHEDULE_DAY["Pure Maths"],
+    schedule_time: TUTORING_SUBJECT_SCHEDULE_TIME[key] ?? "18:00",
+  };
 }
 
 export function nscLevel(percentage: number): number {
