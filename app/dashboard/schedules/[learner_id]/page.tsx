@@ -1,8 +1,10 @@
 import Link from 'next/link';
+import { Suspense } from 'react';
 import { redirect } from 'next/navigation';
 import { EmptyState } from '@/app/components/dashboard/EmptyState';
 import { PageHeader } from '@/app/components/dashboard/PageHeader';
-import { ScheduleCard } from '@/app/components/dashboard/ScheduleCard';
+import { SchedulesView } from '@/app/components/dashboard/SchedulesView';
+import { SchedulesViewFallback } from '@/app/components/dashboard/SchedulesViewFallback';
 import { loadParentDashboardPage } from '@/lib/load-parent-dashboard';
 import { getParentSchedulesPage } from '@/lib/parent-dashboard-sections';
 
@@ -11,24 +13,25 @@ export const dynamic = 'force-dynamic';
 export default async function LearnerSchedulePage({
   params,
 }: {
-  params: { learner_id: string };
+  params: Promise<{ learner_id: string }>;
 }) {
+  const { learner_id } = await params;
   const state = await loadParentDashboardPage();
 
   if (state.status === 'unauthenticated') {
-    redirect(`/login?from=/dashboard/schedules/${params.learner_id}`);
+    redirect(`/login?from=/dashboard/schedules/${learner_id}`);
   }
 
   if (state.status === 'pending') {
     redirect('/dashboard');
   }
 
-  const learner = state.data.learners.find((l) => l.id === params.learner_id);
+  const learner = state.data.learners.find((l) => l.id === learner_id);
   if (!learner) {
     redirect('/dashboard/schedules');
   }
 
-  const items = await getParentSchedulesPage(state.data, params.learner_id);
+  const items = await getParentSchedulesPage(state.data, learner_id);
   const learnerName = `${learner.first_name} ${learner.last_name}`;
 
   return (
@@ -48,18 +51,16 @@ export default async function LearnerSchedulePage({
         <EmptyState
           icon='calendar'
           title='No classes scheduled yet'
-          description='Upload and confirm a school report to set class placement for this learner.'
+          description='Enter school report results to set class placement for this learner.'
           action={{
-            label: 'Upload report',
-            href: `/dashboard/reports/${params.learner_id}/upload`,
+            label: 'Add report',
+            href: `/dashboard/reports/${learner_id}/add`,
           }}
         />
       ) : (
-        <div className='mt-6 space-y-4'>
-          {items.map((item) => (
-            <ScheduleCard key={`${item.kind}-${item.id}`} item={item} />
-          ))}
-        </div>
+        <Suspense fallback={<SchedulesViewFallback />}>
+          <SchedulesView items={items} />
+        </Suspense>
       )}
     </div>
   );

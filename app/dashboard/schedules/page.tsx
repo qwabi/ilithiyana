@@ -1,7 +1,9 @@
+import { Suspense } from 'react';
 import { redirect } from 'next/navigation';
 import { EmptyState } from '@/app/components/dashboard/EmptyState';
 import { PageHeader } from '@/app/components/dashboard/PageHeader';
-import { ScheduleCard } from '@/app/components/dashboard/ScheduleCard';
+import { SchedulesView } from '@/app/components/dashboard/SchedulesView';
+import { SchedulesViewFallback } from '@/app/components/dashboard/SchedulesViewFallback';
 import { loadParentDashboardPage } from '@/lib/load-parent-dashboard';
 import { getParentSchedulesPage } from '@/lib/parent-dashboard-sections';
 
@@ -31,18 +33,16 @@ export default async function SchedulesPage() {
         <EmptyState
           icon='calendar'
           title='No classes scheduled yet'
-          description="Once we process your child's report and confirm their class placement, their schedule will appear here. This usually happens within 24 hours of uploading a school report."
+          description="Once we process your child's report results and confirm their class placement, their schedule will appear here. Add a report from the Reports section when you have new term marks."
           action={{
-            label: 'Upload a report',
+            label: 'Add a report',
             href: '/dashboard/reports',
           }}
         />
       ) : (
-        <div className='mt-6 space-y-4'>
-          {items.map((item) => (
-            <ScheduleCard key={`${item.kind}-${item.id}`} item={item} />
-          ))}
-        </div>
+        <Suspense fallback={<SchedulesViewFallback />}>
+          <SchedulesView items={items} />
+        </Suspense>
       )}
     </div>
   );
