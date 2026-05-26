@@ -113,7 +113,7 @@ export default function About() {
               <Link href='/apply-now'>Apply now for tutoring</Link>
             </Button>
           </div>
-          <div className='relative aspect-[3/2] overflow-hidden rounded-2xl border border-[hsl(214,32%,91%)]'>
+          <div className='img-hover-zoom relative aspect-[3/2] overflow-hidden rounded-2xl border border-[hsl(214,32%,91%)]'>
             <Image
               src='/students-in-class.jpg'
               alt='Learners studying online with Ilithiyana Academics'
@@ -134,9 +134,9 @@ export default function About() {
             <Image
               src={founder.image}
               alt={`${founder.name}, founder of ${brand.name}`}
-              width={200}
-              height={200}
-              className='shrink-0 rounded-full border border-[hsl(214,32%,91%)]'
+              width={240}
+              height={240}
+              className='h-[240px] w-[240px] shrink-0 rounded-3xl border border-[hsl(214,32%,91%)] object-cover shadow-lg'
             />
             <div className='space-y-4 text-muted-foreground'>
               <h3
@@ -185,6 +185,35 @@ export default function About() {
                   {card.body(gradeRange)}
                 </p>
               </article>
+            ))}
+          </div>
+          <div className='mt-8 grid grid-cols-1 gap-4 sm:grid-cols-3'>
+            {[
+              {
+                src: '/students-reading-notes-seen-from-the-back-of-the-class.jpg',
+                alt: 'Students reading notes in class',
+              },
+              {
+                src: '/girl-students-in-line.jpg',
+                alt: 'Students in school uniform',
+              },
+              {
+                src: '/students-at-school-in-class.jpg',
+                alt: 'Students learning in a classroom',
+              },
+            ].map((photo) => (
+              <div
+                key={photo.src}
+                className='animate-scale relative aspect-video overflow-hidden rounded-2xl border border-[hsl(214,32%,91%)]'
+              >
+                <Image
+                  src={photo.src}
+                  alt={photo.alt}
+                  fill
+                  className='object-cover'
+                  sizes='(max-width: 640px) 100vw, 33vw'
+                />
+              </div>
             ))}
           </div>
         </section>

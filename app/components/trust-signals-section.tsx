@@ -1,4 +1,8 @@
+'use client';
+
+import Image from 'next/image';
 import { Users, FileText, GraduationCap, Calendar } from 'lucide-react';
+import { ScrollReveal } from '@/components/ui/ScrollReveal';
 import { positioning } from '@/lib/site-config';
 
 const signals = [
@@ -56,28 +60,24 @@ export function TrustSignalsSection() {
   return (
     <section className='bg-white py-24 font-sans'>
       <div className='container mx-auto px-4'>
-
-        {/* Section heading */}
-        <div className='mx-auto mb-20 max-w-xl text-center'>
+        <ScrollReveal className='mx-auto mb-20 max-w-xl text-center'>
           <p className='overline mb-3 text-primary'>Why families choose us</p>
           <h2 className='font-display text-3xl text-primary-dark md:text-4xl'>
             Practical support that{' '}
             <em className='not-italic text-secondary'>actually shows up</em>
           </h2>
-        </div>
+        </ScrollReveal>
 
-        {/* Zigzag rows */}
         <div className='space-y-24'>
-          {signals.map((s) => (
-            <div
+          {signals.map((s, index) => (
+            <ScrollReveal
               key={s.title}
+              delay={index * 0.06}
               className={`grid items-center gap-12 md:grid-cols-2 ${
                 s.flip ? 'md:[&>*:first-child]:order-2' : ''
               }`}
             >
-              {/* Text side */}
               <div className='space-y-5'>
-                {/* Icon + badge row */}
                 <div className='flex items-center gap-3'>
                   <div className={`flex h-12 w-12 items-center justify-center rounded-2xl ${s.iconBg}`}>
                     <s.Icon className='h-6 w-6 text-white' />
@@ -95,24 +95,24 @@ export function TrustSignalsSection() {
                 </p>
               </div>
 
-              {/* Image side */}
               <div className='relative'>
-                {/* Coloured blob behind image */}
                 <div
                   className={`absolute -inset-4 rounded-[2.5rem] opacity-30 ${
                     s.flip ? 'bg-secondary-light' : 'bg-primary-light'
                   }`}
                 />
-                <div className='relative aspect-[4/3] overflow-hidden rounded-[1.75rem] border-4 border-white shadow-xl'>
-                  <img
+                <div className='img-hover-zoom relative aspect-[4/3] overflow-hidden rounded-[1.75rem] border-4 border-white shadow-xl'>
+                  <Image
                     src={s.img}
                     alt={s.imgAlt}
-                    className='h-full w-full object-cover'
+                    fill
+                    className='object-cover'
+                    sizes='(max-width: 768px) 100vw, 50vw'
                     loading='lazy'
                   />
                 </div>
               </div>
-            </div>
+            </ScrollReveal>
           ))}
         </div>
       </div>
