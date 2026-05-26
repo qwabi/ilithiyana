@@ -1,45 +1,29 @@
 import { NextResponse } from 'next/server';
 import type { NextRequest } from 'next/server';
-import { createHmac, timingSafeEqual } from 'crypto';
+import {
+  ADMIN_SESSION_COOKIE,
+  verifyAdminSessionToken,
+} from '@/lib/admin-session-token';
 import { updateSession } from '@/lib/supabase/middleware';
 
-const SESSION_COOKIE = 'ilithiyana_admin_session';
+const ONBOARDING_AUTH_REQUIRED_PREFIXES = [
+  '/onboarding/setup',
+  '/onboarding/reports',
+  '/onboarding/complete',
+] as const;
 
-function verifySessionToken(token: string): boolean {
-  const secret = process.env.ADMIN_SESSION_SECRET || 'dev-secret-change-me';
-  const parts = token.split('.');
-  if (parts.length !== 2) return false;
-
-  const [payloadB64, sig] = parts;
-  let payload: string;
-  try {
-    payload = Buffer.from(payloadB64, 'base64url').toString('utf8');
-  } catch {
-    return false;
-  }
-
-  const expected = createHmac('sha256', secret).update(payload).digest('hex');
-
-  try {
-    const sigBuf = Buffer.from(sig, 'hex');
-    const expectedBuf = Buffer.from(expected, 'hex');
-    if (sigBuf.length !== expectedBuf.length) return false;
-    if (!timingSafeEqual(sigBuf, expectedBuf)) return false;
-  } catch {
-    return false;
-  }
-
-  const [, expiresStr] = payload.split(':');
-  const expires = Number(expiresStr);
-  if (!expires || Date.now() > expires) return false;
-
-  return true;
+function requiresOnboardingAuth(pathname: string): boolean {
+  return ONBOARDING_AUTH_REQUIRED_PREFIXES.some(
+    (prefix) => pathname === prefix || pathname.startsWith(`${prefix}/`)
+  );
 }
 
 export async function middleware(request: NextRequest) {
   const { pathname } = request.nextUrl;
-  const adminToken = request.cookies.get(SESSION_COOKIE)?.value;
-  const isAdminAuthed = Boolean(adminToken && verifySessionToken(adminToken));
+  const adminToken = request.cookies.get(ADMIN_SESSION_COOKIE)?.value;
+  const isAdminAuthed = Boolean(
+    adminToken && (await verifyAdminSessionToken(adminToken))
+  );
 
   if (pathname.startsWith('/admin/dashboard')) {
     if (!isAdminAuthed) {
@@ -62,6 +46,20 @@ export async function middleware(request: NextRequest) {
       return NextResponse.redirect(loginUrl);
     }
     return supabaseResponse;
+  }
+
+  if (requiresOnboardingAuth(pathname)) {
+    const { supabaseResponse, user } = await updateSession(request);
+    if (!user) {
+      const loginUrl = new URL('/login', request.url);
+      loginUrl.searchParams.set('from', pathname);
+      return NextResponse.redirect(loginUrl);
+    }
+    return supabaseResponse;
+  }
+
+  if (pathname.startsWith('/onboarding')) {
+    return updateSession(request).then(({ supabaseResponse }) => supabaseResponse);
   }
 
   if (pathname === '/login') {
@@ -87,5 +85,6 @@ export const config = {
     '/login',
     '/apply-now/complete',
     '/auth/callback',
+    '/onboarding/:path*',
   ],
 };

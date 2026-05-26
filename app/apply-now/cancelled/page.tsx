@@ -1,35 +1,42 @@
-import { redirect } from 'next/navigation';
-import { buildPayfastReturnUrls } from '@/lib/payfast-return-urls';
-import { createServiceClient, isSupabaseConfigured } from '@/lib/supabase/server';
+import { redirect } from "next/navigation";
+import { buildPayfastReturnUrls } from "@/lib/payfast-return-urls";
+import {
+  createServiceClient,
+  isSupabaseConfigured,
+} from "@/lib/supabase/server";
 
 /** Legacy PayFast cancel path — forwards to /payment/return with full query params. */
 export default async function ApplyCancelledLegacyPage({
-  searchParams,
+  searchParams: searchParamsProp,
 }: {
-  searchParams: Record<string, string | string[] | undefined>;
+  searchParams:
+    | Promise<Record<string, string | string[] | undefined>>
+    | Record<string, string | string[] | undefined>;
 }) {
+  const searchParams = await Promise.resolve(searchParamsProp);
   const leadRaw = searchParams.lead ?? searchParams.application_id;
   const leadId = (Array.isArray(leadRaw) ? leadRaw[0] : leadRaw)?.trim();
 
   if (!leadId || !isSupabaseConfigured()) {
-    redirect('/payment/return?status=cancelled');
+    redirect("/payment/return?status=cancelled");
   }
 
   const supabase = createServiceClient();
   const { data: lead } = await supabase
-    .from('enrollment_leads')
-    .select('id, package_id, learner_first_name')
-    .eq('id', leadId)
+    .from("enrollment_leads")
+    .select("id, package_id, learner_first_name")
+    .eq("id", leadId)
     .maybeSingle();
 
   if (!lead) {
-    redirect('/payment/return?status=cancelled');
+    redirect("/payment/return?status=cancelled");
   }
 
   const flow =
-    (Array.isArray(searchParams.from) ? searchParams.from[0] : searchParams.from) ===
-    'dashboard'
-      ? ('dashboard' as const)
+    (Array.isArray(searchParams.from)
+      ? searchParams.from[0]
+      : searchParams.from) === "dashboard"
+      ? ("dashboard" as const)
       : undefined;
 
   const { cancelUrl } = buildPayfastReturnUrls({

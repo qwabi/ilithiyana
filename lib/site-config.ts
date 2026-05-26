@@ -70,15 +70,22 @@ export const positioning = {
   intake: 'Applications are open throughout the year.',
 } as const;
 
+/** Parent enrolment wizard entry (replaces legacy `/apply-now`). */
+export const onboardingStartPath = '/onboarding/account' as const;
+
+/** Parent dashboard sign-in (Supabase email + password). */
+export const parentLoginPath = '/login' as const;
+
 export const navLinks = [
   { href: '/', label: 'Home' },
   { href: '/about', label: 'About' },
-  { href: '/apply-now', label: 'Apply Now' },
+  { href: onboardingStartPath, label: 'Apply Now' },
   { href: '/contact', label: 'Contact' },
 ] as const;
 
 export const footerLinks = [
   ...navLinks,
+  { href: parentLoginPath, label: 'Log in' },
   { href: '/alternatives', label: 'Compare Tutoring Options' },
   { href: '/resources/subject-choice', label: 'Free Subject Checklist' },
   { href: '/career-guidance', label: 'Career Guidance' },
