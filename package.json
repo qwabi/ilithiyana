@@ -10,7 +10,8 @@
     "postbuild": "node scripts/generate-sitemap.mjs",
     "smoke-test": "npx tsx scripts/smoke-test.ts",
     "db:empty": "npx tsx scripts/empty-database.ts",
-    "db:regenerate-schedules": "npx tsx scripts/regenerate-class-schedules.ts"
+    "db:regenerate-schedules": "npx tsx scripts/regenerate-class-schedules.ts",
+    "provision:masande": "npx tsx scripts/provision-masande.ts"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.10.0",
