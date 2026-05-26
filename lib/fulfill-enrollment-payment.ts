@@ -7,7 +7,12 @@ import {
   paymentConfirmedEmail,
 } from '@/lib/email/templates';
 import { formatCents } from '@/lib/parent-dashboard-utils';
-import { triggerReportOcrAfterPayment } from '@/app/actions/report-actions';
+import { persistManualReportForLearner } from '@/lib/reports/persist-manual-report';
+import { assignLearnerToClassGroups } from '@/lib/class-enrollments';
+import {
+  normalizeSubjectIds,
+  subjectIdsToTutoringNames,
+} from '@/lib/curriculum/learner-subjects';
 
 export type FulfillPaymentResult =
   | { ok: true; alreadyPaid?: boolean; applicationId?: string }
@@ -118,17 +123,71 @@ export async function fulfillPaidEnrollmentLead(
       .eq('id', applicationId)
       .maybeSingle();
 
-    const reportPath =
-      (lead.report_storage_path as string | null) ??
-      (lead.report_url as string | null);
-
     if (appRow?.learner_id) {
-      void triggerReportOcrAfterPayment({
-        leadId,
-        learnerId: appRow.learner_id,
-        applicationId,
-        reportStoragePath: reportPath,
-      }).catch(console.error);
+      const { data: learnerRow } = await supabase
+        .from('learners')
+        .select('grade, level')
+        .eq('id', appRow.learner_id)
+        .maybeSingle();
+
+      const leadSubjectIds = normalizeSubjectIds(
+        (lead.subjects as string[] | null) ?? [],
+        learnerRow.grade
+      );
+      const tutoringSubjects = subjectIdsToTutoringNames(leadSubjectIds);
+      if (learnerRow && tutoringSubjects.length > 0) {
+        try {
+          await assignLearnerToClassGroups(
+            supabase,
+            appRow.learner_id,
+            learnerRow.grade,
+            learnerRow.level,
+            tutoringSubjects
+          );
+        } catch (e) {
+          console.error('assignLearnerToClassGroups:', e);
+        }
+      }
+
+      const schedule = lead.schedule as {
+        manualReport?: {
+          term: string;
+          academicYear: number;
+          rows: { subjectId: string; percentage: number }[];
+        };
+      } | null;
+
+      const manual = schedule?.manualReport;
+      if (manual?.rows?.length) {
+        console.info(
+          'fulfillPaidEnrollmentLead: report path=manual',
+          { leadId, learnerId: appRow.learner_id, rowCount: manual.rows.length }
+        );
+        const { data: parentRow } = await supabase
+          .from('parents')
+          .select('profile_id')
+          .eq('id', lead.parent_id as string)
+          .maybeSingle();
+
+        if (parentRow?.profile_id) {
+          void persistManualReportForLearner({
+            learnerId: appRow.learner_id,
+            term: manual.term,
+            academicYear: manual.academicYear,
+            rows: manual.rows,
+            confirmedByProfileId: parentRow.profile_id as string,
+          }).catch(console.error);
+        }
+      } else {
+        await supabase
+          .from('applications')
+          .update({ allocation_status: 'pending_report' })
+          .eq('id', applicationId);
+        await supabase
+          .from('learners')
+          .update({ allocation_status: 'pending_report' })
+          .eq('id', appRow.learner_id);
+      }
     }
   }
 

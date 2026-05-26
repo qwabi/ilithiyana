@@ -6,7 +6,7 @@ import {
   XCircle,
 } from 'lucide-react';
 import { Button } from '@/components/ui/button';
-import { contact } from '@/lib/site-config';
+import { contact, onboardingStartPath } from '@/lib/site-config';
 import { packageDisplayLabel } from '@/lib/payment-return-labels';
 import type { PaymentReturnView } from '@/lib/payfast-return-urls';
 import type { PaymentFulfillmentView } from '@/app/payment/return/page';
@@ -178,7 +178,7 @@ function CancelledContent({
     view.redirect ??
     (view.flow === 'dashboard'
       ? '/dashboard/children/add'
-      : `/apply-now?resume=${encodeURIComponent(view.applicationId)}`);
+      : `${onboardingStartPath}?resume=${encodeURIComponent(view.applicationId)}`);
 
   return (
     <>
@@ -206,7 +206,7 @@ function CancelledContent({
           <Link href={tryAgainHref}>Try payment again →</Link>
         </Button>
         <Button asChild variant='ghost' className='w-full rounded-full' size='lg'>
-          <Link href='/apply-now'>Back to application</Link>
+          <Link href={onboardingStartPath}>Back to application</Link>
         </Button>
       </div>
       <p className='mt-6 text-center text-xs text-muted-foreground'>

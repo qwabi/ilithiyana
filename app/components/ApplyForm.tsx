@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useState } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { Checkbox } from '@/components/ui/checkbox';
@@ -19,12 +19,15 @@ import {
 } from '../actions/application-actions';
 import { PayFastRedirectForm } from './PayFastRedirectForm';
 import {
+  getOfferedSubjectsForGrade,
+  subjectDisplayName,
+} from '@/lib/curriculum/subjects';
+import {
   brand,
   grades,
   packages,
   provinces,
   sessionInfo,
-  subjects,
   contact,
 } from '@/lib/site-config';
 import { Loader2 } from 'lucide-react';
@@ -89,25 +92,6 @@ const initialForm = {
   popiaConsent: false,
 };
 
-async function uploadReport(file: File, leadId: string) {
-  const body = new FormData();
-  body.append('file', file);
-  body.append('purpose', 'report');
-  body.append('leadId', leadId);
-
-  const res = await fetch('/api/upload', { method: 'POST', body });
-  const json = await res.json();
-
-  if (!res.ok) {
-    throw new Error(json.error ?? 'Upload failed');
-  }
-
-  return {
-    path: json.path as string,
-    url: json.url as string | undefined,
-  };
-}
-
 function FormSection({
   title,
   children,
@@ -164,7 +148,6 @@ export default function ApplyForm({
     resumeLeadId
   );
   const [resumeLoading, setResumeLoading] = useState(Boolean(resumeLeadId));
-  const [reportFile, setReportFile] = useState<File | null>(null);
   const [submitting, setSubmitting] = useState(false);
   const [payfastRedirect, setPayfastRedirect] = useState<{
     processUrl: string;
@@ -215,12 +198,23 @@ export default function ApplyForm({
     };
   }, [resumeLeadId]);
 
-  const toggleSubject = (subject: string, checked: boolean) => {
+  const gradeNum = parseInt(formData.grade, 10);
+  const offeredSubjects = useMemo(
+    () =>
+      gradeNum
+        ? getOfferedSubjectsForGrade(gradeNum).filter((s) => s.is_offered)
+        : [],
+    [gradeNum]
+  );
+
+  const toggleSubject = (subjectId: string, checked: boolean) => {
     setFormData((prev) => ({
       ...prev,
       subjects: checked
-        ? [...prev.subjects, subject]
-        : prev.subjects.filter((s) => s !== subject),
+        ? prev.subjects.length >= 4
+          ? prev.subjects
+          : [...prev.subjects, subjectId]
+        : prev.subjects.filter((s) => s !== subjectId),
     }));
   };
 
@@ -256,17 +250,11 @@ export default function ApplyForm({
 
     try {
       const leadId = resumeLeadIdState ?? crypto.randomUUID();
-      let reportStoragePath: string | undefined;
-      if (reportFile) {
-        const uploaded = await uploadReport(reportFile, leadId);
-        reportStoragePath = uploaded.path;
-      }
 
       const result = await startEnrollmentWithPayment({
         ...formData,
         grade: Number(formData.grade),
         leadId,
-        reportStoragePath,
         parentPassword: formData.parentPassword,
         parentPasswordConfirm: formData.parentPasswordConfirm,
         popiaConsent: true as const,
@@ -387,11 +375,10 @@ export default function ApplyForm({
             <div>
               <Label htmlFor='province'>Province</Label>
               <Select
-                value={formData.province}
+                value={formData.province || undefined}
                 onValueChange={(value) =>
                   setFormData({ ...formData, province: value })
                 }
-                required
               >
                 <SelectTrigger id='province' className='mt-1'>
                   <SelectValue placeholder='Select province' />
@@ -564,7 +551,7 @@ export default function ApplyForm({
             <Select
               value={formData.grade}
               onValueChange={(value) =>
-                setFormData({ ...formData, grade: value })
+                setFormData({ ...formData, grade: value, subjects: [] })
               }
               required
             >
@@ -586,28 +573,35 @@ export default function ApplyForm({
           <div className='space-y-3'>
             <Label>Subjects for tutoring</Label>
             <div className='flex flex-wrap gap-2'>
-              {subjects.map((subject) => {
-                const selected = formData.subjects.includes(subject);
-                const chipClass =
-                  subjectChipStyles[subject] ??
-                  'bg-[hsl(210,55%,96%)] border-[hsl(214,32%,91%)]';
-                return (
-                  <label
-                    key={subject}
-                    className={`inline-flex cursor-pointer items-center gap-2 rounded-full border px-3 py-1.5 text-sm transition-opacity ${chipClass} ${selected ? 'ring-2 ring-primary ring-offset-1' : 'opacity-70'}`}
-                  >
-                    <Checkbox
-                      id={subject}
-                      checked={selected}
-                      onCheckedChange={(checked) =>
-                        toggleSubject(subject, checked === true)
-                      }
-                      className='sr-only'
-                    />
-                    {subject}
-                  </label>
-                );
-              })}
+              {offeredSubjects.length > 0 ? (
+                offeredSubjects.map((sub) => {
+                  const selected = formData.subjects.includes(sub.id);
+                  const chipKey = sub.tutoringSubject ?? sub.id;
+                  const chipClass =
+                    subjectChipStyles[chipKey] ??
+                    'bg-[hsl(210,55%,96%)] border-[hsl(214,32%,91%)]';
+                  return (
+                    <label
+                      key={sub.id}
+                      className={`inline-flex cursor-pointer items-center gap-2 rounded-full border px-3 py-1.5 text-sm transition-opacity ${chipClass} ${selected ? 'ring-2 ring-primary ring-offset-1' : 'opacity-70'}`}
+                    >
+                      <Checkbox
+                        id={sub.id}
+                        checked={selected}
+                        onCheckedChange={(checked) =>
+                          toggleSubject(sub.id, checked === true)
+                        }
+                        className='sr-only'
+                      />
+                      {subjectDisplayName(sub)}
+                    </label>
+                  );
+                })
+              ) : (
+                <p className='text-sm text-muted-foreground'>
+                  Select a grade to see subjects we tutor.
+                </p>
+              )}
             </div>
           </div>
           <div className='mt-6'>
@@ -711,25 +705,11 @@ export default function ApplyForm({
           </div>
         </FormSection>
 
-        <FormSection title='Documents'>
-          <div className='space-y-4'>
-            <div>
-              <Label htmlFor='reportFile'>
-                Latest school report (PDF or image, optional)
-              </Label>
-              <Input
-                id='reportFile'
-                type='file'
-                accept='.pdf,.jpg,.jpeg,.png,.webp,application/pdf,image/jpeg,image/png,image/webp'
-                className='mt-1'
-                onChange={(e) => setReportFile(e.target.files?.[0] ?? null)}
-              />
-              <p className='mt-1 text-xs text-muted-foreground'>
-                Upload now for faster class placement, or add it later from your
-                dashboard. Max 10 MB.
-              </p>
-            </div>
-          </div>
+        <FormSection title='School report'>
+          <p className='text-sm text-muted-foreground'>
+            After payment you can enter your child&apos;s latest marks from your
+            dashboard using the report builder — no file upload needed.
+          </p>
           <p className='mt-4 text-sm text-muted-foreground'>
             Payment is completed securely via PayFast after you submit this form.
             No manual EFT proof is required.

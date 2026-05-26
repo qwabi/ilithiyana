@@ -1,10 +1,10 @@
 import { z } from 'zod';
+import { grades, packages, provinces } from '@/lib/site-config';
+import { subjectIdsFieldSchema } from '@/lib/validations/subject-ids';
 import {
-  grades,
-  packages,
-  provinces,
-  subjects,
-} from '@/lib/site-config';
+  normalizeSubjectIds,
+  validateSubjectIdsForGrade,
+} from '@/lib/curriculum/learner-subjects';
 import type {
   ApplicationSchedule,
   LearnerSnapshot,
@@ -13,7 +13,6 @@ import type {
 } from '@/lib/types/database';
 
 const provinceEnum = z.enum(provinces);
-const subjectEnum = z.enum(subjects);
 const packageIdEnum = z.enum([
   packages[0].id,
   packages[1].id,
@@ -65,21 +64,36 @@ export const learnerSnapshotSchema = z.object({
   level: z.string().trim().optional(),
 });
 
-export const applicationFormSchema = z.object({
-  parent: parentSnapshotSchema,
-  learner: learnerSnapshotSchema,
-  province: provinceEnum,
-  subjects: z
-    .array(subjectEnum)
-    .min(1, 'Select at least one subject'),
-  packageId: packageIdEnum,
-  schedule: applicationScheduleSchema,
-  reportUrl: z.string().url('Upload your latest school report').optional(),
-  paymentProofUrl: z
-    .string()
-    .url('Upload proof of payment')
-    .optional(),
-});
+export const applicationFormSchema = z
+  .object({
+    parent: parentSnapshotSchema,
+    learner: learnerSnapshotSchema,
+    province: provinceEnum,
+    subjects: subjectIdsFieldSchema(),
+    packageId: packageIdEnum,
+    schedule: applicationScheduleSchema,
+    reportUrl: z.string().url('Upload your latest school report').optional(),
+    paymentProofUrl: z
+      .string()
+      .url('Upload proof of payment')
+      .optional(),
+  })
+  .superRefine((data, ctx) => {
+    const grade = data.learner.grade;
+    const normalized = normalizeSubjectIds(data.subjects, grade);
+    const err = validateSubjectIdsForGrade(normalized, grade);
+    if (err) {
+      ctx.addIssue({
+        code: z.ZodIssueCode.custom,
+        path: ['subjects'],
+        message: err,
+      });
+    }
+  })
+  .transform((data) => ({
+    ...data,
+    subjects: normalizeSubjectIds(data.subjects, data.learner.grade),
+  }));
 
 export type ApplicationFormInput = z.input<typeof applicationFormSchema>;
 export type ApplicationFormValues = z.infer<typeof applicationFormSchema>;
@@ -133,19 +147,9 @@ export function legacyAcademicsFormToApplicationInput(raw: {
   reportUrl?: string;
   paymentProofUrl?: string;
 }): ApplicationFormInput {
-  const subjectMap: Record<string, (typeof subjects)[number]> = {
-    Mathematics: 'Pure Maths',
-    'Physical Sciences': 'Physical Science',
-    English: 'English',
-    'Life Sciences': 'Life Sciences',
-    'Natural Sciences': 'Natural Sciences',
-  };
-
-  const mappedSubjects = (raw.subjects ?? [])
-    .map((s) => subjectMap[s] ?? s)
-    .filter((s): s is (typeof subjects)[number] =>
-      (subjects as readonly string[]).includes(s)
-    );
+  const grade =
+    raw.grade != null && raw.grade !== '' ? Number(raw.grade) : 6;
+  const mappedSubjects = normalizeSubjectIds(raw.subjects ?? [], grade);
 
   let packageId = raw.package ?? packages[0].id;
   if (packageId === 'Package A') packageId = 'package-a';

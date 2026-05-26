@@ -11,6 +11,8 @@ import {
 } from '@/lib/payfast';
 import type { EnrollmentInput } from '@/lib/validations/enrollment';
 import type { EnrollmentLeadStatus } from '@/lib/types/database';
+import { deriveLearnerLevelFromReportRows } from '@/lib/reports/learner-level';
+import { normalizeSubjectIds } from '@/lib/curriculum/learner-subjects';
 
 export async function saveEnrollmentLead(
   data: EnrollmentInput
@@ -181,6 +183,22 @@ export async function saveAddChildLead(
 
   if (!parent) return { error: 'Parent account not found.' };
 
+  const fiveMinutesAgo = new Date(Date.now() - 5 * 60 * 1000).toISOString();
+  const { data: existing } = await supabase
+    .from('enrollment_leads')
+    .select('id')
+    .eq('parent_id', parentId)
+    .eq('learner_first_name', data.learnerFirstName)
+    .eq('learner_grade', data.grade)
+    .eq('status', 'awaiting_payment')
+    .eq('lead_type', 'add_child')
+    .gte('created_at', fiveMinutesAgo)
+    .maybeSingle();
+
+  if (existing) {
+    return { leadId: existing.id as string };
+  }
+
   const { data: row, error } = await supabase
     .from('enrollment_leads')
     .insert({
@@ -198,11 +216,15 @@ export async function saveAddChildLead(
       learner_date_of_birth: data.dateOfBirth,
       learner_school_name: data.schoolName,
       learner_grade: data.grade,
-      learner_level: data.level,
+      learner_level: data.manualReport
+        ? deriveLearnerLevelFromReportRows(data.manualReport.rows)
+        : 'Pending report',
       subjects: data.subjects,
       package_id: data.packageId,
-      schedule: {},
-      report_storage_path: data.reportStoragePath,
+      schedule: data.manualReport
+        ? { manualReport: data.manualReport }
+        : {},
+      report_storage_path: data.reportStoragePath ?? null,
       report_url: data.reportUrl ?? null,
       proof_url: data.proofUrl ?? null,
       amount_cents: amountCents,

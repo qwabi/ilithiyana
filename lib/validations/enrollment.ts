@@ -1,10 +1,10 @@
 import { z } from 'zod';
-import { provinces, subjects as subjectOptions } from '@/lib/site-config';
+import { provinces } from '@/lib/site-config';
+import { subjectIdsFieldSchema, withNormalizedSubjectIds } from '@/lib/validations/subject-ids';
 
 const provinceEnum = z.enum(provinces);
-const subjectEnum = z.enum(subjectOptions);
 
-export const enrollmentInputSchema = z.object({
+export const enrollmentInputSchema = withNormalizedSubjectIds(z.object({
   parentFirstName: z.string().min(1, 'Parent first name is required'),
   parentLastName: z.string().min(1, 'Parent surname is required'),
   parentEmail: z.string().email('Valid email is required'),
@@ -17,7 +17,7 @@ export const enrollmentInputSchema = z.object({
   dateOfBirth: z.string().min(1, 'Date of birth is required'),
   schoolName: z.string().min(1, 'School name is required'),
   grade: z.coerce.number().int().min(6).max(12),
-  subjects: z.array(subjectEnum).min(1, 'Select at least one subject'),
+  subjects: subjectIdsFieldSchema(),
   packageId: z.enum(['package-a', 'package-b']),
   schedule: z.object({
     availableDays: z.record(z.boolean()),
@@ -37,7 +37,7 @@ export const enrollmentInputSchema = z.object({
   }),
   parentPassword: z.string().default(''),
   parentPasswordConfirm: z.string().default(''),
-}).superRefine((data, ctx) => {
+})).superRefine((data, ctx) => {
   const hasPassword =
     data.parentPassword.length > 0 || data.parentPasswordConfirm.length > 0;
   if (!hasPassword) return;

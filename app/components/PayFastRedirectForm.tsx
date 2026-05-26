@@ -13,7 +13,7 @@ export function PayFastRedirectForm({
 
   useEffect(() => {
     formRef.current?.submit();
-  }, []);
+  }, [action, fields]);
 
   return (
     <form ref={formRef} method='POST' action={action} className='hidden'>

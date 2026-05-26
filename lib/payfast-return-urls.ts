@@ -19,6 +19,26 @@ export type BuildPayfastReturnUrlsInput = {
   redirect?: string;
 };
 
+/** PayFast return/cancel for parent onboarding (combined multi-child payment). */
+export function buildOnboardingPayfastReturnUrls(sessionId: string): {
+  returnUrl: string;
+  cancelUrl: string;
+} {
+  const base = appBaseUrl();
+  const returnUrl = new URL('/onboarding/setup', base);
+  returnUrl.searchParams.set('status', 'success');
+  returnUrl.searchParams.set('session_id', sessionId);
+
+  const cancelUrl = new URL('/onboarding/payment', base);
+  cancelUrl.searchParams.set('status', 'cancelled');
+  cancelUrl.searchParams.set('session_id', sessionId);
+
+  return {
+    returnUrl: returnUrl.toString(),
+    cancelUrl: cancelUrl.toString(),
+  };
+}
+
 export function buildPayfastReturnUrls(input: BuildPayfastReturnUrlsInput): {
   returnUrl: string;
   cancelUrl: string;

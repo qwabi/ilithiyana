@@ -1,6 +1,9 @@
 import { NextResponse } from 'next/server';
 import { PDFDocument, StandardFonts, rgb } from 'pdf-lib';
-import { createServerSupabaseClient } from '@/lib/supabase/server';
+import {
+  createServerSupabaseClient,
+  createServiceClient,
+} from '@/lib/supabase/server';
 import { formatCents } from '@/lib/parent-dashboard-utils';
 import { brand } from '@/lib/site-config';
 
@@ -8,8 +11,9 @@ export const runtime = 'nodejs';
 
 export async function GET(
   _request: Request,
-  { params }: { params: { paymentId: string } }
+  { params }: { params: Promise<{ paymentId: string }> }
 ) {
+  const { paymentId } = await params;
   const supabase = createServerSupabaseClient();
   const {
     data: { user },
@@ -19,13 +23,42 @@ export async function GET(
     return NextResponse.json({ error: 'Unauthorized' }, { status: 401 });
   }
 
-  const { data: payment, error } = await supabase
-    .from('payments')
-    .select('*')
-    .eq('id', params.paymentId)
+  const service = createServiceClient();
+  const { data: parent } = await service
+    .from('parents')
+    .select('id, first_name, last_name, email')
+    .eq('profile_id', user.id)
     .maybeSingle();
 
-  if (error || !payment || payment.status !== 'complete') {
+  if (!parent) {
+    return NextResponse.json({ error: 'Parent not found' }, { status: 404 });
+  }
+
+  let payment = (
+    await service
+      .from('payments')
+      .select('*')
+      .eq('id', paymentId)
+      .eq('parent_id', parent.id)
+      .maybeSingle()
+  ).data;
+
+  if (!payment) {
+    const { data: candidate } = await service
+      .from('payments')
+      .select('*, learners ( parent_id )')
+      .eq('id', paymentId)
+      .maybeSingle();
+
+    const learnerParent = (
+      candidate?.learners as { parent_id: string } | null
+    )?.parent_id;
+    if (candidate && learnerParent === parent.id) {
+      payment = candidate;
+    }
+  }
+
+  if (!payment || payment.status !== 'complete') {
     return NextResponse.json({ error: 'Not found' }, { status: 404 });
   }
 
@@ -41,6 +74,13 @@ export async function GET(
   page.drawText('Payment receipt', { x: 50, y, size: 14, font: bold });
   y -= 24;
   page.drawText(`Receipt ID: ${payment.id}`, { x: 50, y, size: 10, font });
+  y -= 16;
+  page.drawText(`Billed to: ${parent.first_name} ${parent.last_name}`, {
+    x: 50,
+    y,
+    size: 10,
+    font,
+  });
   y -= 16;
   page.drawText(
     `Date: ${new Date(payment.paid_at ?? payment.created_at).toLocaleString('en-ZA')}`,
@@ -68,7 +108,7 @@ export async function GET(
   return new NextResponse(Buffer.from(bytes), {
     headers: {
       'Content-Type': 'application/pdf',
-      'Content-Disposition': `attachment; filename="receipt-${payment.id.slice(0, 8)}.pdf"`,
+      'Content-Disposition': `inline; filename="receipt-${payment.id.slice(0, 8)}.pdf"`,
     },
   });
 }
