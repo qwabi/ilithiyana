@@ -8,3 +8,5 @@
 | 2026-05-25 | [parent-dashboard-sidebar](2026-05-25-parent-dashboard-sidebar-prompt.md) | Sidebar shell, section routes, add-child redirect, reports/schedules/subscriptions |
 | 2026-05-25 | [manual-report-builder](2026-05-25-manual-report-builder-prompt.md) | Two-path report entry: curriculum catalog, manual builder, saveManualReport |
 | 2026-05-25 | [competitor-alternatives-pages](2026-05-25-competitor-alternatives-pages-prompt.md) | SEO comparison hub, `/alternatives/[slug]`, `/vs/[slug]` for 12 competitors |
+| 2026-05-26 | [parent-onboarding-flow](2026-05-26-parent-onboarding-flow-prompt.md) | Six-step `/onboarding/*` wizard, `onboarding_sessions`, combined PayFast |
+| 2026-05-26 | [parent-onboarding-flow](2026-05-26-parent-onboarding-flow-prompt.md) | Six-step `/onboarding/*` wizard, sessions table, PayFast, dashboard resume |
