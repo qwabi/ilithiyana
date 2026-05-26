@@ -12,9 +12,17 @@ const ONBOARDING_AUTH_REQUIRED_PREFIXES = [
   '/onboarding/complete',
 ] as const;
 
+const TUTOR_PUBLIC_PATHS = ['/tutor/login', '/tutor/signup'] as const;
+
 function requiresOnboardingAuth(pathname: string): boolean {
   return ONBOARDING_AUTH_REQUIRED_PREFIXES.some(
     (prefix) => pathname === prefix || pathname.startsWith(`${prefix}/`)
+  );
+}
+
+function isTutorPublicPath(pathname: string): boolean {
+  return TUTOR_PUBLIC_PATHS.some(
+    (p) => pathname === p || pathname.startsWith(`${p}/`)
   );
 }
 
@@ -36,6 +44,24 @@ export async function middleware(request: NextRequest) {
 
   if (pathname === '/admin/login' && isAdminAuthed) {
     return NextResponse.redirect(new URL('/admin/dashboard', request.url));
+  }
+
+  if (pathname.startsWith('/tutor')) {
+    if (isTutorPublicPath(pathname)) {
+      const { supabaseResponse, user } = await updateSession(request);
+      if (user) {
+        return NextResponse.redirect(new URL('/tutor', request.url));
+      }
+      return supabaseResponse;
+    }
+
+    const { supabaseResponse, user } = await updateSession(request);
+    if (!user) {
+      const loginUrl = new URL('/tutor/login', request.url);
+      loginUrl.searchParams.set('from', pathname);
+      return NextResponse.redirect(loginUrl);
+    }
+    return supabaseResponse;
   }
 
   if (pathname.startsWith('/dashboard')) {
@@ -79,8 +105,10 @@ export async function middleware(request: NextRequest) {
 
 export const config = {
   matcher: [
+    '/admin/:path*',
     '/admin/dashboard/:path*',
     '/admin/login',
+    '/tutor/:path*',
     '/dashboard/:path*',
     '/login',
     '/apply-now/complete',
