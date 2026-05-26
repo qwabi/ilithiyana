@@ -336,3 +336,80 @@ export function reportConfirmReminderEmail(opts: {
     }),
   };
 }
+
+export function tutorApplicationReceivedEmail(opts: { tutorName: string }) {
+  return {
+    subject: `Tutor application received — ${brand.name}`,
+    html: emailLayout({
+      headline: 'Application received',
+      bodyHtml: `<p>Dear ${opts.tutorName},</p>
+<p>Thank you for applying to tutor with ${brand.name}. Our team will review your documents and respond within a few working days.</p>`,
+    }),
+  };
+}
+
+export function tutorVettingApprovedEmail(opts: {
+  tutorName: string;
+  portalUrl: string;
+}) {
+  return {
+    subject: `You're approved to tutor — ${brand.name}`,
+    html: emailLayout({
+      headline: 'Application approved',
+      bodyHtml: `<p>Dear ${opts.tutorName},</p>
+<p>Your tutor application has been approved. Sign in to view your schedule and submit timesheets.</p>`,
+      ctaLabel: 'Open tutor portal',
+      ctaHref: opts.portalUrl,
+    }),
+  };
+}
+
+export function tutorVettingRejectedEmail(opts: {
+  tutorName: string;
+  reason?: string;
+}) {
+  const reason = opts.reason
+    ? `<p><strong>Note:</strong> ${opts.reason}</p>`
+    : '';
+  return {
+    subject: `Tutor application update — ${brand.name}`,
+    html: emailLayout({
+      headline: 'Application not approved',
+      bodyHtml: `<p>Dear ${opts.tutorName},</p>
+<p>We are unable to approve your tutor application at this time.</p>${reason}
+<p>You may contact us at ${contact.email} if you have questions.</p>`,
+    }),
+  };
+}
+
+export function timesheetApprovedEmail(opts: {
+  tutorName: string;
+  monthPeriod: string;
+  amount: string;
+}) {
+  return {
+    subject: `Timesheet approved — ${opts.monthPeriod}`,
+    html: emailLayout({
+      headline: 'Timesheet approved',
+      bodyHtml: `<p>Dear ${opts.tutorName},</p>
+<p>Your timesheet for <strong>${opts.monthPeriod}</strong> was approved. Amount: <strong>${opts.amount}</strong>.</p>`,
+    }),
+  };
+}
+
+export function timesheetRejectedEmail(opts: {
+  tutorName: string;
+  monthPeriod: string;
+  notes?: string;
+}) {
+  const notes = opts.notes ? `<p><strong>Notes:</strong> ${opts.notes}</p>` : '';
+  return {
+    subject: `Timesheet needs revision — ${opts.monthPeriod}`,
+    html: emailLayout({
+      headline: 'Timesheet not approved',
+      bodyHtml: `<p>Dear ${opts.tutorName},</p>
+<p>Your timesheet for <strong>${opts.monthPeriod}</strong> was not approved.</p>${notes}
+<p>Please sign in to revise and resubmit.</p>`,
+    }),
+  };
+}
