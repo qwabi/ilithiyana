@@ -1,16 +1,18 @@
-import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { AdminShell } from '@/app/components/admin/AdminShell';
-import { ClassForm } from '@/app/components/admin/ClassForm';
-import { fetchClassById, fetchClasses } from '@/app/actions/admin-actions';
+import { GroupClassDetailPanel } from '@/app/components/admin/GroupClassDetailPanel';
+import {
+  fetchClassAdminOptions,
+  fetchGroupClassById,
+} from '@/app/actions/classes-admin';
 
 type Props = { params: Promise<{ id: string }> };
 
 export default async function ClassDetailPage({ params }: Props) {
   const { id } = await params;
-  const [{ data: cls, error }, { learners, tutors }] = await Promise.all([
-    fetchClassById(id),
-    fetchClasses(),
+  const [{ data, error }, { learners, tutors }] = await Promise.all([
+    fetchGroupClassById(id),
+    fetchClassAdminOptions(),
   ]);
 
   if (error) {
@@ -21,49 +23,36 @@ export default async function ClassDetailPage({ params }: Props) {
     );
   }
 
-  if (!cls) notFound();
+  if (!data) notFound();
 
-  const learner = cls.learners as {
-    id: string;
-    first_name: string;
-    last_name: string;
-  } | null;
+  const { cls, enrollments, enrollment_count } = data;
+  const bandPart = cls.band_label ?? (cls.band ? `Band ${cls.band}` : '');
 
   return (
     <AdminShell
       title={`${cls.subject} — Grade ${cls.grade}`}
-      description={
-        learner
-          ? `${learner.first_name} ${learner.last_name}`
-          : 'Edit class assignment'
-      }
+      description={bandPart}
       backHref='/admin/dashboard/classes'
-      backLabel='All classes'
-      actions={
-        learner ? (
-          <Link
-            href={`/admin/dashboard/learners/${learner.id}`}
-            className='text-sm font-medium text-primary hover:underline'
-          >
-            View learner
-          </Link>
-        ) : null
-      }
+      backLabel='All class groups'
     >
-      <ClassForm
-        learners={learners}
-        tutors={tutors}
-        initial={{
-          id: cls.id as string,
-          learner_id: cls.learner_id as string,
-          tutor_id: cls.tutor_id as string | null,
-          subject: cls.subject as string,
-          grade: cls.grade as number,
-          level: (cls.level as string | null) ?? null,
-          schedule: (cls.schedule as string | null) ?? null,
-          meet_link: (cls.meet_link as string | null) ?? null,
-        }}
-        redirectTo={`/admin/dashboard/classes/${id}`}
+      <GroupClassDetailPanel
+        cls={cls}
+        enrollments={enrollments as Parameters<
+          typeof GroupClassDetailPanel
+        >[0]['enrollments']}
+        enrollmentCount={enrollment_count}
+        tutors={tutors.map((t) => ({
+          id: t.id as string,
+          first_name: t.first_name as string,
+          last_name: t.last_name as string,
+        }))}
+        learners={learners.map((l) => ({
+          id: l.id,
+          first_name: l.first_name,
+          last_name: l.last_name,
+          grade: l.grade,
+          school_name: l.school_name,
+        }))}
       />
     </AdminShell>
   );

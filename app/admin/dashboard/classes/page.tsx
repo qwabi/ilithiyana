@@ -1,28 +1,16 @@
-import Link from 'next/link';
-import { Button } from '@/components/ui/button';
-import { ClassesManager } from '@/app/components/admin/ClassesManager';
 import { AdminShell } from '@/app/components/admin/AdminShell';
-import { fetchClasses } from '@/app/actions/admin-actions';
+import { ClassesManager } from '@/app/components/admin/ClassesManager';
+import { fetchGroupClasses } from '@/app/actions/classes-admin';
 
 export default async function ClassesPage() {
-  const { data, learners, tutors, error } = await fetchClasses();
+  const { data, error } = await fetchGroupClasses();
 
   return (
     <AdminShell
-      title='Class schedule'
-      description='Assign subjects, tutors, and session times for each learner. Parents see their schedule in the parent portal.'
-      actions={
-        <Button asChild size='sm'>
-          <Link href='/admin/dashboard/classes/new'>New class</Link>
-        </Button>
-      }
+      title='Class groups'
+      description='Shared classes by grade, subject, and performance band (A–D). Each group holds up to 8 learners.'
     >
-      <ClassesManager
-        initialClasses={data}
-        learners={learners}
-        tutors={tutors}
-        initialError={error}
-      />
+      <ClassesManager classes={data} initialError={error} />
     </AdminShell>
   );
 }
