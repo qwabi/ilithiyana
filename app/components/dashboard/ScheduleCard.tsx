@@ -18,15 +18,28 @@ export function ScheduleCard({ item }: { item: ScheduleListItem }) {
         <div className='flex flex-wrap items-center justify-between gap-4'>
           <div>
             <p className='font-medium text-foreground'>
-              {item.classInfo.subject} · Grade {item.classInfo.grade}
+              {item.classInfo.subject} — Grade {item.classInfo.grade}
+              {item.classInfo.bandLabel
+                ? ` · ${item.classInfo.bandLabel}`
+                : item.classInfo.band
+                  ? ` · Band ${item.classInfo.band}`
+                  : ''}
             </p>
             <p className='text-sm text-muted-foreground'>
-              {item.learner.first_name} {item.learner.last_name} · Grade{' '}
-              {item.learner.grade}
+              {item.learner.first_name} {item.learner.last_name}
             </p>
+            {item.classInfo.weeklySchedule ? (
+              <p className='text-sm text-muted-foreground'>
+                {item.classInfo.weeklySchedule}
+                {item.classInfo.tutorName
+                  ? ` · ${item.classInfo.tutorName}`
+                  : ''}
+              </p>
+            ) : null}
             <p className='text-sm text-muted-foreground'>
-              {format(new Date(item.scheduled_at), 'EEE d MMM · HH:mm')}
-              {item.classInfo.tutorName
+              {item.classInfo.weeklySchedule ? 'Next session: ' : ''}
+              {format(new Date(item.scheduled_at), 'EEE d MMM · HH:mm')} SAST
+              {!item.classInfo.weeklySchedule && item.classInfo.tutorName
                 ? ` · ${item.classInfo.tutorName}`
                 : ''}
             </p>
@@ -53,20 +66,34 @@ export function ScheduleCard({ item }: { item: ScheduleListItem }) {
   return (
     <div className='rounded-xl border border-border bg-white p-4 shadow-sm'>
       <p className='font-medium text-foreground'>
-        {item.classInfo.subject} · Grade {item.classInfo.grade}
+        {item.classInfo.subject} — Grade {item.classInfo.grade}
+        {item.classInfo.bandLabel
+          ? ` · ${item.classInfo.bandLabel}`
+          : item.classInfo.band
+            ? ` · Band ${item.classInfo.band}`
+            : ''}
       </p>
       <p className='text-sm text-muted-foreground'>
         {item.learner.first_name} {item.learner.last_name}
       </p>
       <p className='text-sm text-muted-foreground'>
-        {item.classInfo.schedule ?? 'Times to be confirmed'}
-        {item.classInfo.tutorName ? ` · ${item.classInfo.tutorName}` : ''}
+        {item.classInfo.weeklySchedule ?? 'Schedule TBC — contact us'}
+        {item.classInfo.tutorName ? ` · Tutor: ${item.classInfo.tutorName}` : ''}
       </p>
       {item.classInfo.meet_link ? (
+        <a
+          href={item.classInfo.meet_link}
+          target='_blank'
+          rel='noopener noreferrer'
+          className='mt-3 inline-block rounded-full bg-primary px-4 py-2 text-sm text-primary-foreground'
+        >
+          Join class
+        </a>
+      ) : (
         <p className='mt-2 text-xs text-muted-foreground'>
-          Google Meet link shared before each session
+          Meeting link coming soon
         </p>
-      ) : null}
+      )}
     </div>
   );
 }

@@ -1,7 +1,9 @@
 import { createServerSupabaseClient } from '@/lib/supabase/server';
 import { getParentDashboard } from '@/lib/parent-dashboard';
+import { formatWeeklySchedule } from '@/lib/schedules/format';
 import type {
   ApplicationRow,
+  ClassBand,
   ClassRow,
   ClassSessionRow,
   LearnerRow,
@@ -13,6 +15,11 @@ import type {
   TutorRow,
 } from '@/lib/types/database';
 import type { DashboardSession } from '@/lib/parent-dashboard-types';
+
+function relationOne<T>(value: T | T[] | null | undefined): T | null {
+  if (value == null) return null;
+  return Array.isArray(value) ? (value[0] ?? null) : value;
+}
 
 export type ParentContext = {
   parent: ParentRow;
@@ -200,10 +207,12 @@ export async function getParentReportsPage(
       id: string;
       needs_review: boolean;
     }[];
-    const learner = r.learners as Pick<
-      LearnerRow,
-      'id' | 'first_name' | 'last_name' | 'grade'
-    > | null;
+    const learner = relationOne(
+      r.learners as
+        | Pick<LearnerRow, 'id' | 'first_name' | 'last_name' | 'grade'>
+        | Pick<LearnerRow, 'id' | 'first_name' | 'last_name' | 'grade'>[]
+        | null
+    );
     return {
       id: r.id as string,
       file_url: r.file_url as string,
@@ -224,6 +233,16 @@ export async function getParentReportsPage(
   });
 }
 
+type ScheduleClassInfo = {
+  subject: string;
+  grade: number;
+  band: ClassBand | null;
+  bandLabel: string | null;
+  weeklySchedule: string | null;
+  meet_link: string | null;
+  tutorName: string | null;
+};
+
 export type ScheduleListItem =
   | {
       kind: 'session';
@@ -231,50 +250,37 @@ export type ScheduleListItem =
       scheduled_at: string;
       cancelled: boolean;
       learner: Pick<LearnerRow, 'id' | 'first_name' | 'last_name' | 'grade'>;
-      classInfo: {
-        subject: string;
-        grade: number;
-        meet_link: string | null;
-        tutorName: string | null;
-      };
+      classInfo: ScheduleClassInfo;
     }
   | {
       kind: 'legacy';
       id: string;
       learner: Pick<LearnerRow, 'id' | 'first_name' | 'last_name' | 'grade'>;
-      classInfo: {
-        subject: string;
-        grade: number;
-        schedule: string | null;
-        meet_link: string | null;
-        tutorName: string | null;
-      };
+      classInfo: ScheduleClassInfo;
     };
 
-// #region agent log
-function debugSchedulesPageLog(
-  hypothesisId: string,
-  message: string,
-  data: Record<string, unknown>
-) {
-  fetch('http://127.0.0.1:7402/ingest/d851579b-cb6d-4eb5-ad9a-a6e345f4c63d', {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-      'X-Debug-Session-Id': '5d33ef',
-    },
-    body: JSON.stringify({
-      sessionId: '5d33ef',
-      hypothesisId,
-      location: 'parent-dashboard-sections.ts:getParentSchedulesPage',
-      message,
-      data,
-      timestamp: Date.now(),
-    }),
-  }).catch(() => {});
+function scheduleClassInfo(
+  cls: ClassRow & {
+    tutors?: Pick<TutorRow, 'first_name' | 'last_name'> | null;
+  }
+): ScheduleClassInfo {
+  const tutor = cls.tutors;
+  return {
+    subject: cls.subject,
+    grade: cls.grade,
+    band: (cls.band as ClassBand | null) ?? null,
+    bandLabel: (cls.band_label as string | null) ?? null,
+    weeklySchedule: formatWeeklySchedule(
+      cls.schedule_day,
+      cls.schedule_time,
+      cls.schedule
+    ),
+    meet_link: cls.meet_link,
+    tutorName: tutor ? `${tutor.first_name} ${tutor.last_name}` : null,
+  };
 }
-// #endregion
 
+/** Parent schedule from class_enrollments → classes (see getParentDashboard). */
 export async function getParentSchedulesPage(
   data: DashboardSession,
   learnerIdFilter?: string
@@ -286,30 +292,22 @@ export async function getParentSchedulesPage(
   const learnerMap = new Map(learners.map((l) => [l.id, l]));
   const items: ScheduleListItem[] = [];
 
-  const classIds = new Set(
-    data.classes
-      .filter((c) => learnerMap.has(c.learner_id ?? ''))
-      .map((c) => c.id)
+  const enrolledClasses = data.classes.filter(
+    (c) => c.learner_id && learnerMap.has(c.learner_id)
   );
-
-  /** Group classes have null learner_id on `classes`; map from flattened dashboard rows. */
-  const learnerIdByClassId = new Map(
-    data.classes
-      .filter((c) => c.learner_id && learnerMap.has(c.learner_id))
-      .map((c) => [c.id, c.learner_id as string])
-  );
+  const enrolledClassIds = new Set(enrolledClasses.map((c) => c.id));
+  const classById = new Map(enrolledClasses.map((c) => [c.id, c]));
 
   for (const session of data.sessions) {
-    const cls = session.classes;
-    if (!cls) continue;
+    if (!enrolledClassIds.has(session.class_id)) continue;
 
-    const sessionLearnerId =
-      cls.learner_id ?? learnerIdByClassId.get(session.class_id);
-    if (!sessionLearnerId || !learnerMap.has(sessionLearnerId)) continue;
-    if (!classIds.has(session.class_id)) continue;
+    const enrolled = classById.get(session.class_id);
+    if (!enrolled?.learner_id) continue;
 
-    const learner = learnerMap.get(sessionLearnerId)!;
-    const tutor = cls.tutors;
+    const learner = learnerMap.get(enrolled.learner_id);
+    if (!learner) continue;
+
+    const cls = session.classes ?? enrolled;
     items.push({
       kind: 'session',
       id: session.id,
@@ -321,40 +319,27 @@ export async function getParentSchedulesPage(
         last_name: learner.last_name,
         grade: learner.grade,
       },
-      classInfo: {
-        subject: cls.subject,
-        grade: cls.grade,
-        meet_link: cls.meet_link,
-        tutorName: tutor
-          ? `${tutor.first_name} ${tutor.last_name}`
-          : null,
-      },
+      classInfo: scheduleClassInfo(cls),
     });
   }
 
-  for (const cls of data.classes) {
-    if (!cls.learner_id || !learnerMap.has(cls.learner_id)) continue;
+  for (const cls of enrolledClasses) {
     const hasSession = data.sessions.some((s) => s.class_id === cls.id);
     if (hasSession) continue;
 
-    const learner = learnerMap.get(cls.learner_id)!;
-    const tutor = cls.tutors;
+    const learner = learnerMap.get(cls.learner_id!);
+    if (!learner) continue;
+
     items.push({
       kind: 'legacy',
-      id: cls.id,
+      id: `${cls.learner_id}:${cls.id}`,
       learner: {
         id: learner.id,
         first_name: learner.first_name,
         last_name: learner.last_name,
         grade: learner.grade,
       },
-      classInfo: {
-        subject: cls.subject,
-        grade: cls.grade,
-        schedule: cls.schedule,
-        meet_link: cls.meet_link,
-        tutorName: tutor ? `${tutor.first_name} ${tutor.last_name}` : null,
-      },
+      classInfo: scheduleClassInfo(cls),
     });
   }
 
@@ -369,17 +354,6 @@ export async function getParentSchedulesPage(
     if (b.kind === 'session') return 1;
     return 0;
   });
-
-  // #region agent log
-  debugSchedulesPageLog('C', 'schedule page assembly', {
-    learnerFilter: learnerIdFilter ?? null,
-    learnerCount: learners.length,
-    classCount: data.classes.length,
-    sessionCount: data.sessions.length,
-    itemCount: items.length,
-    classIdsSize: classIds.size,
-  });
-  // #endregion
 
   return items;
 }

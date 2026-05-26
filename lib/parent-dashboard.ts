@@ -19,31 +19,6 @@ import type { DashboardSession } from '@/lib/parent-dashboard-types';
 export type { DashboardSession } from '@/lib/parent-dashboard-types';
 export { formatCents, subscriptionDisplayStatus } from '@/lib/parent-dashboard-utils';
 
-// #region agent log
-function debugSchedulesLog(
-  hypothesisId: string,
-  location: string,
-  message: string,
-  data: Record<string, unknown>
-) {
-  fetch('http://127.0.0.1:7402/ingest/d851579b-cb6d-4eb5-ad9a-a6e345f4c63d', {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-      'X-Debug-Session-Id': '5d33ef',
-    },
-    body: JSON.stringify({
-      sessionId: '5d33ef',
-      hypothesisId,
-      location,
-      message,
-      data,
-      timestamp: Date.now(),
-    }),
-  }).catch(() => {});
-}
-// #endregion
-
 /** Link parent row created at payment to auth user created at application. */
 async function linkParentByEmail(profileId: string, email: string): Promise<boolean> {
   try {
@@ -133,15 +108,7 @@ export async function getParentDashboard(): Promise<DashboardSession | null> {
           .eq('status', 'active')
       : Promise.resolve({ data: [], error: null });
 
-  const legacyClassesQuery =
-    learnerIds.length > 0
-      ? supabase
-          .from('classes')
-          .select('*, tutors (first_name, last_name)')
-          .in('learner_id', learnerIds)
-      : Promise.resolve({ data: [], error: null });
-
-  const [profileRes, appsRes, subsRes, paymentsRes, enrollmentsRes, legacyClassesRes, packagesRes] =
+  const [profileRes, appsRes, subsRes, paymentsRes, enrollmentsRes, packagesRes] =
     await Promise.all([
       supabase.from('profiles').select('*').eq('id', user.id).maybeSingle(),
       supabase
@@ -159,7 +126,6 @@ export async function getParentDashboard(): Promise<DashboardSession | null> {
         .select('*')
         .order('created_at', { ascending: false }),
       enrollmentsQuery,
-      legacyClassesQuery,
       supabase.from('packages').select('*').eq('is_active', true),
     ]);
 
@@ -173,24 +139,12 @@ export async function getParentDashboard(): Promise<DashboardSession | null> {
   })[] = [];
 
   if (enrolledClassIds.length > 0) {
-    const { data: catalog, error: catalogError } = await supabase
+    const { data: catalog } = await supabase
       .from('classes')
       .select('*, tutors ( first_name, last_name )')
       .in('id', enrolledClassIds);
 
     classCatalogRows = (catalog ?? []) as typeof classCatalogRows;
-
-    // #region agent log
-    debugSchedulesLog('A', 'parent-dashboard.ts:classes', 'class catalog for enrollments', {
-      enrollmentLinkCount: enrollmentLinks.length,
-      enrolledClassIds,
-      catalogRowCount: classCatalogRows.length,
-      catalogError: catalogError?.message ?? null,
-      missingClassIds: enrolledClassIds.filter(
-        (id) => !classCatalogRows.some((c) => c.id === id)
-      ),
-    });
-    // #endregion
   }
 
   const catalogById = new Map(classCatalogRows.map((c) => [c.id, c]));
@@ -207,24 +161,7 @@ export async function getParentDashboard(): Promise<DashboardSession | null> {
     ];
   });
 
-  const legacyClasses = ((legacyClassesRes.data ?? []) as ClassRow[]).map(
-    (cls) => ({
-      ...cls,
-      tutors:
-        (cls as ClassRow & { tutors?: { first_name: string; last_name: string } })
-          .tutors ?? null,
-    })
-  );
-
-  const seenClassKeys = new Set(
-    enrollmentClasses.map((c) => `${c.learner_id}:${c.id}`)
-  );
-  const mergedClasses = [
-    ...enrollmentClasses,
-    ...legacyClasses.filter(
-      (c) => c.learner_id && !seenClassKeys.has(`${c.learner_id}:${c.id}`)
-    ),
-  ];
+  const mergedClasses = enrollmentClasses;
 
   let sessions: DashboardSession['sessions'] = [];
   if (learnerIds.length > 0) {
@@ -239,15 +176,6 @@ export async function getParentDashboard(): Promise<DashboardSession | null> {
         .limit(200);
 
       sessions = (sessionRows ?? []) as DashboardSession['sessions'];
-
-      // #region agent log
-      debugSchedulesLog('B', 'parent-dashboard.ts:sessions', 'sessions query result', {
-        classIdCount: classIds.length,
-        sessionRowCount: sessionRows?.length ?? 0,
-        sessionsWithNullClass: (sessionRows ?? []).filter((s) => !s.classes).length,
-        mergedClassCount: mergedClasses.length,
-      });
-      // #endregion
     }
   }
 
