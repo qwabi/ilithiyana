@@ -26,7 +26,7 @@ export default async function SchedulesPage() {
     <div>
       <PageHeader
         title='Class Schedules'
-        description="Your children's upcoming classes. Join links appear about 30 minutes before class time."
+        description="Your children's upcoming classes. Use the join link when your tutor has shared one for the class."
       />
 
       {items.length === 0 ? (

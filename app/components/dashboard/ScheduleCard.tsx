@@ -1,5 +1,26 @@
+'use client';
+
 import { format, differenceInMinutes } from 'date-fns';
+import { motion } from 'framer-motion';
 import type { ScheduleListItem } from '@/lib/parent-dashboard-sections';
+
+function JoinClassLink({ href, imminent }: { href: string; imminent: boolean }) {
+  return (
+    <motion.a
+      whileHover={{ scale: 1.04 }}
+      whileTap={{ scale: 0.97 }}
+      href={href}
+      target='_blank'
+      rel='noopener noreferrer'
+      className='inline-flex items-center rounded-full bg-primary px-4 py-2 text-sm text-primary-foreground'
+    >
+      {imminent ? (
+        <span className='mr-2 inline-block h-2 w-2 animate-pulse rounded-full bg-green-400' />
+      ) : null}
+      Join class
+    </motion.a>
+  );
+}
 
 export function ScheduleCard({ item }: { item: ScheduleListItem }) {
   if (item.kind === 'session') {
@@ -7,11 +28,9 @@ export function ScheduleCard({ item }: { item: ScheduleListItem }) {
       new Date(item.scheduled_at),
       new Date()
     );
-    const showLink =
-      mins <= 30 &&
-      mins >= -120 &&
-      item.classInfo.meet_link &&
-      !item.cancelled;
+    const meetLink = item.classInfo.meet_link?.trim() || null;
+    const hasJoinLink = Boolean(meetLink) && !item.cancelled;
+    const imminent = hasJoinLink && mins <= 5 && mins >= -120;
 
     return (
       <div className='rounded-xl border border-border bg-white p-4 shadow-sm'>
@@ -44,18 +63,18 @@ export function ScheduleCard({ item }: { item: ScheduleListItem }) {
                 : ''}
             </p>
           </div>
-          {showLink ? (
-            <a
-              href={item.classInfo.meet_link!}
-              target='_blank'
-              rel='noopener noreferrer'
-              className='rounded-full bg-primary px-4 py-2 text-sm text-primary-foreground'
-            >
-              Join class
-            </a>
+          {hasJoinLink ? (
+            <div className='flex flex-col items-end gap-1'>
+              <JoinClassLink href={meetLink!} imminent={imminent} />
+              {mins > 30 ? (
+                <span className='text-xs text-muted-foreground'>
+                  Link ready — join when class starts
+                </span>
+              ) : null}
+            </div>
           ) : (
             <span className='text-xs text-muted-foreground'>
-              Link available at class time
+              Meeting link coming soon
             </span>
           )}
         </div>
@@ -81,14 +100,16 @@ export function ScheduleCard({ item }: { item: ScheduleListItem }) {
         {item.classInfo.tutorName ? ` · Tutor: ${item.classInfo.tutorName}` : ''}
       </p>
       {item.classInfo.meet_link ? (
-        <a
+        <motion.a
+          whileHover={{ scale: 1.04 }}
+          whileTap={{ scale: 0.97 }}
           href={item.classInfo.meet_link}
           target='_blank'
           rel='noopener noreferrer'
           className='mt-3 inline-block rounded-full bg-primary px-4 py-2 text-sm text-primary-foreground'
         >
           Join class
-        </a>
+        </motion.a>
       ) : (
         <p className='mt-2 text-xs text-muted-foreground'>
           Meeting link coming soon

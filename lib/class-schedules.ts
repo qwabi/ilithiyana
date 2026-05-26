@@ -108,6 +108,46 @@ export function computeNextSessionTime(
   return scheduledAtSast('tuesday', 18, 0, 0);
 }
 
+/**
+ * Remove upcoming sessions for classes this learner just left.
+ * Group classes with other active learners are left unchanged.
+ */
+export async function clearUpcomingSessionsForLearnerUnenrolledClasses(
+  supabase: ServiceClient,
+  learnerId: string,
+  classIds: string[],
+  context: string
+): Promise<number> {
+  if (!classIds.length) return 0;
+
+  const toClear: string[] = [];
+
+  for (const classId of classIds) {
+    const { data: cls } = await supabase
+      .from('classes')
+      .select('id, learner_id')
+      .eq('id', classId)
+      .maybeSingle();
+
+    if (cls?.learner_id === learnerId) {
+      toClear.push(classId);
+      continue;
+    }
+
+    const { count } = await supabase
+      .from('class_enrollments')
+      .select('id', { count: 'exact', head: true })
+      .eq('class_id', classId)
+      .eq('status', 'active');
+
+    if ((count ?? 0) === 0) {
+      toClear.push(classId);
+    }
+  }
+
+  return clearUpcomingSessionsForClassIds(supabase, toClear, context);
+}
+
 export async function clearUpcomingSessionsForClassIds(
   supabase: ServiceClient,
   classIds: string[],

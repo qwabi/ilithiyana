@@ -307,7 +307,8 @@ export async function getParentSchedulesPage(
     const learner = learnerMap.get(enrolled.learner_id);
     if (!learner) continue;
 
-    const cls = session.classes ?? enrolled;
+    // Prefer enrollment catalog row (includes admin meet_link) over nested session join.
+    const cls = enrolled;
     items.push({
       kind: 'session',
       id: session.id,
