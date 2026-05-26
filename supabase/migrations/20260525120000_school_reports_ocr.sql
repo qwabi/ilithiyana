@@ -148,6 +148,7 @@ alter table learner_subject_levels enable row level security;
 alter table class_waitlist enable row level security;
 alter table learner_level_change_alerts enable row level security;
 
+drop policy if exists learner_reports_parent_select on learner_reports;
 create policy learner_reports_parent_select on learner_reports
   for select to authenticated
   using (
@@ -160,6 +161,7 @@ create policy learner_reports_parent_select on learner_reports
     )
   );
 
+drop policy if exists learner_reports_parent_insert on learner_reports;
 create policy learner_reports_parent_insert on learner_reports
   for insert to authenticated
   with check (
@@ -172,11 +174,13 @@ create policy learner_reports_parent_insert on learner_reports
     )
   );
 
+drop policy if exists learner_reports_admin_all on learner_reports;
 create policy learner_reports_admin_all on learner_reports
   for all to authenticated
   using (is_admin())
   with check (is_admin());
 
+drop policy if exists report_extractions_parent_select on report_extractions;
 create policy report_extractions_parent_select on report_extractions
   for select to authenticated
   using (
@@ -190,11 +194,13 @@ create policy report_extractions_parent_select on report_extractions
     )
   );
 
+drop policy if exists report_extractions_admin_all on report_extractions;
 create policy report_extractions_admin_all on report_extractions
   for all to authenticated
   using (is_admin())
   with check (is_admin());
 
+drop policy if exists learner_subject_levels_parent_select on learner_subject_levels;
 create policy learner_subject_levels_parent_select on learner_subject_levels
   for select to authenticated
   using (
@@ -207,21 +213,25 @@ create policy learner_subject_levels_parent_select on learner_subject_levels
     )
   );
 
+drop policy if exists learner_subject_levels_admin_all on learner_subject_levels;
 create policy learner_subject_levels_admin_all on learner_subject_levels
   for all to authenticated
   using (is_admin())
   with check (is_admin());
 
+drop policy if exists class_waitlist_admin_all on class_waitlist;
 create policy class_waitlist_admin_all on class_waitlist
   for all to authenticated
   using (is_admin())
   with check (is_admin());
 
+drop policy if exists level_change_alerts_admin_all on learner_level_change_alerts;
 create policy level_change_alerts_admin_all on learner_level_change_alerts
   for all to authenticated
   using (is_admin())
   with check (is_admin());
 
+drop policy if exists level_change_alerts_tutor_select on learner_level_change_alerts;
 create policy level_change_alerts_tutor_select on learner_level_change_alerts
   for select to authenticated
   using (
