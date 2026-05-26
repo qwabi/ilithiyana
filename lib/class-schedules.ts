@@ -1,5 +1,9 @@
 import type { createServiceClient } from '@/lib/supabase/server';
 import { allocationLog } from '@/lib/allocation-log';
+import {
+  scheduleForTutoringSubject,
+  TUTORING_SUBJECT_SCHEDULE_DAY,
+} from '@/lib/curriculum/subjects';
 
 type ServiceClient = ReturnType<typeof createServiceClient>;
 
@@ -15,15 +19,16 @@ const DAY_INDEX: Record<string, number> = {
 
 /** Weekly class slots per subject (South Africa Standard Time, UTC+2). */
 const SUBJECT_SLOT_SAST: Record<string, { day: string; hour: number; minute: number }> =
-  {
-    'Pure Maths': { day: 'tuesday', hour: 18, minute: 0 },
-    'Pure Mathematics': { day: 'tuesday', hour: 18, minute: 0 },
-    'Natural Sciences': { day: 'monday', hour: 18, minute: 0 },
-    English: { day: 'wednesday', hour: 18, minute: 0 },
-    'Physical Science': { day: 'thursday', hour: 18, minute: 0 },
-    'Physical Sciences': { day: 'thursday', hour: 18, minute: 0 },
-    'Life Sciences': { day: 'friday', hour: 18, minute: 0 },
-  };
+  Object.fromEntries(
+    Object.entries(TUTORING_SUBJECT_SCHEDULE_DAY).map(([subject, day]) => {
+      const { schedule_time } = scheduleForTutoringSubject(subject);
+      const [hour, minute] = schedule_time.split(':').map((n) => parseInt(n, 10));
+      return [subject, { day, hour: hour || 18, minute: minute || 0 }];
+    })
+  );
+
+SUBJECT_SLOT_SAST['Pure Mathematics'] = SUBJECT_SLOT_SAST['Pure Maths'];
+SUBJECT_SLOT_SAST['Physical Sciences'] = SUBJECT_SLOT_SAST['Physical Science'];
 
 const FALLBACK_DAYS = [
   'monday',

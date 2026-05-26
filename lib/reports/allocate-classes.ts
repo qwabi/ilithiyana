@@ -76,7 +76,7 @@ export async function allocateLearnerToClasses(opts: {
         .eq('status', 'active');
 
       const current = count ?? 0;
-      const max = (cls.max_enrollment as number) ?? 3;
+      const max = (cls.max_enrollment as number) ?? 8;
       if (current < max) {
         targetClassId = cls.id;
         break;

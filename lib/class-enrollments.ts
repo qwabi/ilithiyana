@@ -22,6 +22,18 @@ type ServiceClient = ReturnType<typeof createServiceClient>;
 const DEFAULT_TUTOR_EMAIL = 'masande@ilithiyana.com';
 const LEGACY_TUTOR_EMAIL = 'masande@ilithiyana.co.za';
 
+import {
+  scheduleForTutoringSubject,
+  isTutoringSubjectValidForGrade,
+} from '@/lib/curriculum/subjects';
+
+const BAND_LABELS: Record<ClassBand, string> = {
+  A: 'Foundation (Level 1)',
+  B: 'Developing (Levels 2-3)',
+  C: 'Competent (Levels 4-5)',
+  D: 'Advanced (Levels 6-7)',
+};
+
 export async function getDefaultTutorId(
   supabase: ServiceClient
 ): Promise<string | null> {
@@ -96,6 +108,42 @@ async function cancelDuplicateSubjectEnrollments(
   });
 }
 
+async function activeEnrollmentCount(
+  supabase: ServiceClient,
+  classId: string
+): Promise<number> {
+  const { count } = await supabase
+    .from('class_enrollments')
+    .select('id', { count: 'exact', head: true })
+    .eq('class_id', classId)
+    .eq('status', 'active');
+  return count ?? 0;
+}
+
+async function findGroupWithSpace(
+  supabase: ServiceClient,
+  grade: number,
+  subject: string,
+  band: ClassBand
+): Promise<string | undefined> {
+  const { data: groups } = await supabase
+    .from('classes')
+    .select('id, max_enrollment')
+    .eq('grade', grade)
+    .eq('subject', subject)
+    .eq('band', band)
+    .eq('is_active', true)
+    .is('learner_id', null);
+
+  for (const group of groups ?? []) {
+    const enrolled = await activeEnrollmentCount(supabase, group.id as string);
+    if (enrolled < ((group.max_enrollment as number) ?? 8)) {
+      return group.id as string;
+    }
+  }
+  return undefined;
+}
+
 /** Enrol one learner into a shared grade/subject/band class group. */
 export async function enrollLearnerInSubjectBand(
   supabase: ServiceClient,
@@ -105,39 +153,42 @@ export async function enrollLearnerInSubjectBand(
   band: ClassBand,
   level: string | null
 ): Promise<void> {
-  let classId: string | undefined;
+  if (!isTutoringSubjectValidForGrade(grade, subject)) {
+    allocationLog('enrollInSubjectBand:invalid_subject_for_grade', {
+      learnerId,
+      grade,
+      subject,
+    });
+    return;
+  }
 
-  const { data: classGroup } = await supabase
-    .from('classes')
-    .select('id')
-    .eq('grade', grade)
-    .eq('subject', subject)
-    .eq('band', band)
-    .is('learner_id', null)
-    .maybeSingle();
-
-  classId = classGroup?.id;
+  let classId = await findGroupWithSpace(supabase, grade, subject, band);
 
   if (!classId) {
-    const { data: fallback } = await supabase
-      .from('classes')
-      .select('id')
-      .eq('grade', grade)
-      .eq('subject', subject)
-      .is('learner_id', null)
-      .limit(1)
-      .maybeSingle();
-    classId = fallback?.id;
+    const fallbackBands: ClassBand[] =
+      band === 'A'
+        ? ['B', 'C', 'D']
+        : band === 'B'
+          ? ['A', 'C', 'D']
+          : band === 'C'
+            ? ['D', 'B', 'A']
+            : ['C', 'B', 'A'];
+
+    for (const fb of fallbackBands) {
+      classId = await findGroupWithSpace(supabase, grade, subject, fb);
+      if (classId) break;
+    }
   }
 
   if (!classId) {
-    allocationLog('enrollInSubjectBand:create_class', {
+    allocationLog('enrollInSubjectBand:all_full_creating_overflow', {
       learnerId,
       grade,
       subject,
       band,
     });
     const tutorId = await getDefaultTutorId(supabase);
+    const { schedule_day, schedule_time } = scheduleForTutoringSubject(subject);
     const { data: created } = await supabase
       .from('classes')
       .insert({
@@ -146,6 +197,11 @@ export async function enrollLearnerInSubjectBand(
         grade,
         band,
         level,
+        band_label: BAND_LABELS[band],
+        schedule_day,
+        schedule_time,
+        max_enrollment: 8,
+        is_active: true,
         schedule: 'TBC',
         learner_id: null,
       })
