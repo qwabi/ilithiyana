@@ -76,6 +76,13 @@ export const onboardingStartPath = '/onboarding/account' as const;
 /** Parent dashboard sign-in (Supabase email + password). */
 export const parentLoginPath = '/login' as const;
 
+/** Tutor portal sign-up and sign-in. */
+export const tutorSignupPath = '/tutor/signup' as const;
+export const tutorLoginPath = '/tutor/login' as const;
+
+/** Marketing page for prospective tutors. */
+export const becomeTutorPath = '/become-a-tutor' as const;
+
 export const navLinks = [
   { href: '/', label: 'Home' },
   { href: '/about', label: 'About' },
@@ -83,13 +90,43 @@ export const navLinks = [
   { href: '/contact', label: 'Contact' },
 ] as const;
 
-export const footerLinks = [
-  ...navLinks,
-  { href: parentLoginPath, label: 'Log in' },
-  { href: '/alternatives', label: 'Compare Tutoring Options' },
-  { href: '/resources/subject-choice', label: 'Free Subject Checklist' },
-  { href: '/career-guidance', label: 'Career Guidance' },
-  { href: '/terms', label: 'Terms of Enrolment' },
-  { href: '/privacy', label: 'Privacy Policy' },
-  { href: '/site-index', label: 'Site Index' },
+export const footerSections = [
+  {
+    title: 'Explore',
+    links: [
+      { href: '/', label: 'Home' },
+      { href: '/about', label: 'About' },
+      { href: '/contact', label: 'Contact' },
+    ],
+  },
+  {
+    title: 'Enrol',
+    links: [
+      { href: onboardingStartPath, label: 'Apply Now' },
+      { href: parentLoginPath, label: 'Log in' },
+    ],
+  },
+  {
+    title: 'Tutors',
+    links: [
+      { href: becomeTutorPath, label: 'Become a Tutor' },
+      { href: tutorLoginPath, label: 'Tutor login' },
+    ],
+  },
+  {
+    title: 'Resources',
+    links: [
+      { href: '/alternatives', label: 'Compare Tutoring Options' },
+      { href: '/resources/subject-choice', label: 'Free Subject Checklist' },
+      { href: '/career-guidance', label: 'Career Guidance' },
+    ],
+  },
+  {
+    title: 'Legal',
+    links: [
+      { href: '/terms', label: 'Terms of Enrolment' },
+      { href: '/privacy', label: 'Privacy Policy' },
+      { href: '/site-index', label: 'Site Index' },
+    ],
+  },
 ] as const;

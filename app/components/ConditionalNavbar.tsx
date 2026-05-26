@@ -10,6 +10,8 @@ const HIDE_MARKETING_NAV_PREFIXES = [
   '/onboarding',
   '/payment/return',
   '/login',
+  '/tutor',
+  '/admin',
 ];
 
 const APP_FLOW_HEADER_PREFIXES = ['/onboarding', '/payment/return'];
