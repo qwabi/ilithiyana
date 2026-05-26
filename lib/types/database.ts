@@ -443,3 +443,16 @@ export interface SubmitContactMessageRpcArgs {
   p_phone?: string | null;
   p_message: string;
 }
+
+export type {
+  AdminProfileRow,
+  TimesheetSessionRow,
+  TimesheetWithSessions,
+  TutorAdminFilters,
+  TutorDocumentRow,
+  TutorDocumentStatus,
+  TutorDocumentType,
+  TutorProfileRow,
+  TutorProfileWithTutor,
+  TutorVettingStatus,
+} from '@/lib/types/tutor-admin';

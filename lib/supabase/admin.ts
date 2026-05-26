@@ -334,13 +334,302 @@ export async function listTutorsForAdmin() {
   const supabase = createServiceClient();
   const { data, error } = await supabase
     .from('tutors')
-    .select('id, first_name, last_name, email, session_rate_cents')
+    .select(
+      `
+      id,
+      first_name,
+      last_name,
+      email,
+      session_rate_cents,
+      subjects,
+      tutor_profiles (vetting_status)
+    `
+    )
+    .order('last_name', { ascending: true });
+  if (error) throw error;
+  return data ?? [];
+}
+
+export async function listParentsForAdmin() {
+  const supabase = createServiceClient();
+  const { data, error } = await supabase
+    .from('parents')
+    .select('id, first_name, last_name, email, phone, province, created_at')
     .order('last_name', { ascending: true });
   if (error) throw error;
   return (data ?? []) as Pick<
-    TutorRow,
-    'id' | 'first_name' | 'last_name' | 'email' | 'session_rate_cents'
+    ParentRow,
+    'id' | 'first_name' | 'last_name' | 'email' | 'phone' | 'province' | 'created_at'
   >[];
+}
+
+export async function getParentById(id: string) {
+  const supabase = createServiceClient();
+  const { data: parent, error } = await supabase
+    .from('parents')
+    .select('*')
+    .eq('id', id)
+    .maybeSingle();
+  if (error) throw error;
+  if (!parent) return null;
+
+  const { data: learners, error: learnersError } = await supabase
+    .from('learners')
+    .select('*')
+    .eq('parent_id', id)
+    .order('first_name', { ascending: true });
+  if (learnersError) throw learnersError;
+
+  return {
+    parent: parent as ParentRow,
+    learners: (learners ?? []) as LearnerRow[],
+  };
+}
+
+export async function getLearnerById(id: string) {
+  const supabase = createServiceClient();
+  const { data: learner, error } = await supabase
+    .from('learners')
+    .select('*, parents (*)')
+    .eq('id', id)
+    .maybeSingle();
+  if (error) throw error;
+  if (!learner) return null;
+
+  const [subsRes, classesRes, reportsRes] = await Promise.all([
+    supabase
+      .from('subscriptions')
+      .select('*')
+      .eq('learner_id', id)
+      .order('created_at', { ascending: false }),
+    supabase
+      .from('classes')
+      .select('*, tutors (id, first_name, last_name)')
+      .eq('learner_id', id)
+      .order('subject', { ascending: true }),
+    supabase
+      .from('learner_reports')
+      .select('*')
+      .eq('learner_id', id)
+      .order('uploaded_at', { ascending: false }),
+  ]);
+
+  if (subsRes.error) throw subsRes.error;
+  if (classesRes.error) throw classesRes.error;
+  if (reportsRes.error) throw reportsRes.error;
+
+  return {
+    learner: learner as LearnerRow & { parents: ParentRow | null },
+    subscriptions: subsRes.data ?? [],
+    classes: classesRes.data ?? [],
+    reports: (reportsRes.data ?? []) as LearnerReportRow[],
+  };
+}
+
+export async function getTutorById(id: string) {
+  const supabase = createServiceClient();
+  const { data, error } = await supabase
+    .from('tutors')
+    .select(
+      `
+      *,
+      tutor_profiles (*),
+      tutor_documents (*)
+    `
+    )
+    .eq('id', id)
+    .maybeSingle();
+  if (error) throw error;
+  if (!data) return null;
+
+  const row = data as TutorRow & {
+    tutor_profiles: TutorProfileRow | TutorProfileRow[] | null;
+    tutor_documents: TutorDocumentRow[] | null;
+  };
+
+  const profile = Array.isArray(row.tutor_profiles)
+    ? row.tutor_profiles[0] ?? null
+    : row.tutor_profiles;
+
+  return {
+    tutor: row,
+    profile,
+    documents: row.tutor_documents ?? [],
+  };
+}
+
+export async function updateTutorVetting(
+  tutorId: string,
+  status: TutorVettingStatus,
+  notes?: string
+) {
+  const supabase = createServiceClient();
+  const now = new Date().toISOString();
+  const { data, error } = await supabase
+    .from('tutor_profiles')
+    .update({
+      vetting_status: status,
+      rejection_reason:
+        status === 'rejected' ? (notes?.trim() || null) : null,
+      vetted_at:
+        status === 'approved' || status === 'rejected' ? now : null,
+    })
+    .eq('tutor_id', tutorId)
+    .select('*')
+    .single();
+  if (error) throw error;
+  return data as TutorProfileRow;
+}
+
+export async function getTimesheetById(id: string) {
+  const supabase = createServiceClient();
+  const { data, error } = await supabase
+    .from('tutor_timesheets')
+    .select(
+      `
+      *,
+      tutors (id, first_name, last_name, email, session_rate_cents),
+      timesheet_sessions (*)
+    `
+    )
+    .eq('id', id)
+    .maybeSingle();
+  if (error) throw error;
+  return data as TutorTimesheetWithTutor & {
+    timesheet_sessions?: TimesheetSessionRow[];
+  } | null;
+}
+
+export type TimesheetSessionRow = {
+  id: string;
+  timesheet_id: string;
+  session_date: string;
+  learner_id: string | null;
+  class_id: string | null;
+  subject: string | null;
+  duration_minutes: number;
+  notes: string | null;
+  created_at: string;
+};
+
+export async function getClassById(id: string) {
+  const supabase = createServiceClient();
+  const { data, error } = await supabase
+    .from('classes')
+    .select(
+      `
+      *,
+      learners (id, first_name, last_name, grade, school_name, parent_id),
+      tutors (id, first_name, last_name, email)
+    `
+    )
+    .eq('id', id)
+    .maybeSingle();
+  if (error) throw error;
+  return data;
+}
+
+export async function listPaymentsForAdmin(limit = 100) {
+  const supabase = createServiceClient();
+  const { data, error } = await supabase
+    .from('payments')
+    .select(
+      `
+      *,
+      learners (id, first_name, last_name),
+      parents (id, first_name, last_name, email)
+    `
+    )
+    .order('created_at', { ascending: false })
+    .limit(limit);
+  if (error) throw error;
+  return (data ?? []) as (PaymentRow & {
+    learners: Pick<LearnerRow, 'id' | 'first_name' | 'last_name'> | null;
+    parents: Pick<ParentRow, 'id' | 'first_name' | 'last_name' | 'email'> | null;
+  })[];
+}
+
+export async function listLearnerReportsForAdmin(limit = 100) {
+  const supabase = createServiceClient();
+  const { data, error } = await supabase
+    .from('learner_reports')
+    .select(
+      `
+      *,
+      learners (id, first_name, last_name, grade, parent_id, parents (first_name, last_name, email))
+    `
+    )
+    .order('uploaded_at', { ascending: false })
+    .limit(limit);
+  if (error) throw error;
+  return data ?? [];
+}
+
+export async function getAdminDashboardKpis() {
+  const supabase = createServiceClient();
+  const thirtyDaysAgo = new Date();
+  thirtyDaysAgo.setDate(thirtyDaysAgo.getDate() - 30);
+  const since = thirtyDaysAgo.toISOString();
+
+  const [
+    activeLearners,
+    pendingApplications,
+    tutorsAwaitingVetting,
+    pendingTimesheets,
+    overdueSubscriptions,
+    revenueRes,
+    awaitingPaymentLeads,
+    contactMessages,
+  ] = await Promise.all([
+    supabase
+      .from('learners')
+      .select('id', { count: 'exact', head: true })
+      .eq('status', 'active'),
+    supabase
+      .from('applications')
+      .select('id', { count: 'exact', head: true })
+      .eq('status', 'pending'),
+    supabase
+      .from('tutor_profiles')
+      .select('id', { count: 'exact', head: true })
+      .eq('vetting_status', 'pending'),
+    supabase
+      .from('tutor_timesheets')
+      .select('id', { count: 'exact', head: true })
+      .eq('status', 'submitted'),
+    supabase
+      .from('subscriptions')
+      .select('id', { count: 'exact', head: true })
+      .eq('status', 'overdue'),
+    supabase
+      .from('payments')
+      .select('amount_cents')
+      .eq('status', 'complete')
+      .gte('paid_at', since),
+    supabase
+      .from('enrollment_leads')
+      .select('id', { count: 'exact', head: true })
+      .eq('status', 'awaiting_payment'),
+    supabase
+      .from('contact_messages')
+      .select('id', { count: 'exact', head: true }),
+  ]);
+
+  const revenueCents = (revenueRes.data ?? []).reduce(
+    (sum, row) => sum + (row.amount_cents ?? 0),
+    0
+  );
+
+  return {
+    activeLearners: activeLearners.count ?? 0,
+    pendingApplications: pendingApplications.count ?? 0,
+    tutorsAwaitingVetting: tutorsAwaitingVetting.count ?? 0,
+    pendingTimesheets: pendingTimesheets.count ?? 0,
+    overdueSubscriptions: overdueSubscriptions.count ?? 0,
+    revenueCents30d: revenueCents,
+    awaitingPaymentLeads: awaitingPaymentLeads.count ?? 0,
+    contactMessages: contactMessages.count ?? 0,
+  };
 }
 
 /** Parent portal: lookup by guardian email (service role). */

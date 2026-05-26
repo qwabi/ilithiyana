@@ -14,18 +14,30 @@ import { createApplicationDocumentSignedUrl } from '@/lib/supabase/storage';
 import {
   createSubscriptionForLearner,
   deleteClass,
+  getAdminDashboardKpis,
+  getApplicationById,
+  getClassById,
+  getLearnerById,
+  getParentById,
+  getTimesheetById,
+  getTutorById,
   listClasses,
   listContactMessages,
+  listLearnerReportsForAdmin,
   listLearnersForAdmin,
+  listParentsForAdmin,
+  listPaymentsForAdmin,
   listSubscriptions,
   listTimesheets,
   listTutorsForAdmin,
   updateApplicationStatus as updateApplicationStatusAdmin,
   updateSubscriptionStatus,
   updateTimesheetStatus,
+  updateTutorVetting,
   upsertClass,
   type ClassInput,
 } from '@/lib/supabase/admin';
+import { createServerSupabaseClient } from '@/lib/supabase/server';
 import { sendApplicationStatusEmail } from '@/lib/email';
 import type {
   ApplicationRow,
@@ -35,9 +47,9 @@ import type {
   SubscriptionStatus,
   TimesheetStatus,
 } from '@/lib/types/database';
-
-export type { EnrollmentLeadFilters };
 import { revalidatePath } from 'next/cache';
+
+export type { EnrollmentLeadFilters } from '@/lib/types/database';
 
 const SESSION_MAX_AGE = 60 * 60 * 24 * 7;
 
@@ -49,22 +61,8 @@ export type ApplicationFilters = {
   status?: ApplicationStatus | '';
 };
 
-export async function loginAdmin(
-  email: string,
-  password: string
-): Promise<{ ok: true } | { ok: false; error: string }> {
-  const adminEmail = process.env.ADMIN_EMAIL;
-  const adminPassword = process.env.ADMIN_PASSWORD;
-
-  if (!adminEmail || !adminPassword) {
-    return { ok: false, error: 'Admin login is not configured on the server.' };
-  }
-
-  if (email.trim() !== adminEmail || password !== adminPassword) {
-    return { ok: false, error: 'Invalid email or password.' };
-  }
-
-  const token = await signAdminSessionToken(adminEmail, SESSION_MAX_AGE);
+async function setAdminSessionCookie(email: string) {
+  const token = await signAdminSessionToken(email, SESSION_MAX_AGE);
   const cookieStore = await cookies();
   cookieStore.set(ADMIN_SESSION_COOKIE, token, {
     httpOnly: true,
@@ -73,7 +71,58 @@ export async function loginAdmin(
     path: '/',
     maxAge: SESSION_MAX_AGE,
   });
+}
 
+export async function loginAdmin(
+  email: string,
+  password: string
+): Promise<{ ok: true } | { ok: false; error: string }> {
+  const normalizedEmail = email.trim().toLowerCase();
+
+  if (isSupabaseConfigured()) {
+    try {
+      const supabase = await createServerSupabaseClient();
+      const { data: authData, error: authError } =
+        await supabase.auth.signInWithPassword({
+          email: normalizedEmail,
+          password,
+        });
+
+      if (!authError && authData.user) {
+        const service = createServiceClient();
+        const { data: adminProfile } = await service
+          .from('admin_profiles')
+          .select('id, email, is_active')
+          .eq('id', authData.user.id)
+          .eq('is_active', true)
+          .maybeSingle();
+
+        if (adminProfile?.email) {
+          await setAdminSessionCookie(adminProfile.email);
+          return { ok: true };
+        }
+      }
+    } catch {
+      /* fall through to env credentials */
+    }
+  }
+
+  const adminEmail = process.env.ADMIN_EMAIL;
+  const adminPassword = process.env.ADMIN_PASSWORD;
+
+  if (!adminEmail || !adminPassword) {
+    return {
+      ok: false,
+      error:
+        'Admin login is not configured. Set Supabase admin_profiles or ADMIN_EMAIL / ADMIN_PASSWORD.',
+    };
+  }
+
+  if (normalizedEmail !== adminEmail.toLowerCase() || password !== adminPassword) {
+    return { ok: false, error: 'Invalid email or password.' };
+  }
+
+  await setAdminSessionCookie(adminEmail);
   return { ok: true };
 }
 
@@ -178,6 +227,7 @@ export async function updateApplicationStatus(
     }
 
     revalidatePath('/admin/dashboard/applications');
+    revalidatePath(`/admin/dashboard/applications/${id}`);
     revalidatePath('/admin/dashboard');
     revalidatePath('/admin/dashboard/subscriptions');
     return { ok: true };
@@ -320,9 +370,15 @@ export async function setTimesheetStatus(
   if (!isSupabaseConfigured()) {
     return { ok: false, error: 'Supabase is not configured.' };
   }
+  if (status === 'approved' || status === 'rejected') {
+    const { adminSetTimesheetStatus } = await import('@/lib/tutor/actions');
+    return adminSetTimesheetStatus(id, status, notes);
+  }
   try {
     await updateTimesheetStatus(id, status, notes);
     revalidatePath('/admin/dashboard/timesheets');
+    revalidatePath(`/admin/dashboard/timesheets/${id}`);
+    revalidatePath('/admin/dashboard');
     return { ok: true };
   } catch (e) {
     return {
@@ -378,6 +434,7 @@ export async function saveClass(
   try {
     await upsertClass(id, input);
     revalidatePath('/admin/dashboard/classes');
+    if (id) revalidatePath(`/admin/dashboard/classes/${id}`);
     return { ok: true };
   } catch (e) {
     return {
@@ -513,42 +570,241 @@ export async function listEnrollmentLeads(
   return { data: (data ?? []) as EnrollmentLeadRow[] };
 }
 
-export async function getDashboardCounts(): Promise<{
-  applications: number;
-  contactMessages: number;
+export type AdminDashboardKpis = {
+  activeLearners: number;
   pendingApplications: number;
+  tutorsAwaitingVetting: number;
+  pendingTimesheets: number;
+  overdueSubscriptions: number;
+  revenueCents30d: number;
   awaitingPaymentLeads: number;
-}> {
+  contactMessages: number;
+};
+
+export async function getDashboardKpis(): Promise<AdminDashboardKpis> {
   if (!isSupabaseConfigured()) {
     return {
-      applications: 0,
-      contactMessages: 0,
+      activeLearners: 0,
       pendingApplications: 0,
+      tutorsAwaitingVetting: 0,
+      pendingTimesheets: 0,
+      overdueSubscriptions: 0,
+      revenueCents30d: 0,
       awaitingPaymentLeads: 0,
+      contactMessages: 0,
     };
   }
 
-  const supabase = createServiceClient();
+  try {
+    return await getAdminDashboardKpis();
+  } catch {
+    return {
+      activeLearners: 0,
+      pendingApplications: 0,
+      tutorsAwaitingVetting: 0,
+      pendingTimesheets: 0,
+      overdueSubscriptions: 0,
+      revenueCents30d: 0,
+      awaitingPaymentLeads: 0,
+      contactMessages: 0,
+    };
+  }
+}
 
-  const [allApps, pendingApps, contact, awaitingLeads] = await Promise.all([
-    supabase.from('applications').select('id', { count: 'exact', head: true }),
-    supabase
-      .from('applications')
-      .select('id', { count: 'exact', head: true })
-      .eq('status', 'pending'),
-    supabase
-      .from('contact_messages')
-      .select('id', { count: 'exact', head: true }),
-    supabase
-      .from('enrollment_leads')
-      .select('id', { count: 'exact', head: true })
-      .eq('status', 'awaiting_payment'),
-  ]);
-
+/** @deprecated Use getDashboardKpis */
+export async function getDashboardCounts() {
+  const kpis = await getDashboardKpis();
   return {
-    applications: allApps.count ?? 0,
-    pendingApplications: pendingApps.count ?? 0,
-    contactMessages: contact.count ?? 0,
-    awaitingPaymentLeads: awaitingLeads.count ?? 0,
+    applications: kpis.pendingApplications,
+    contactMessages: kpis.contactMessages,
+    pendingApplications: kpis.pendingApplications,
+    awaitingPaymentLeads: kpis.awaitingPaymentLeads,
   };
+}
+
+export async function fetchApplicationById(id: string) {
+  if (!isSupabaseConfigured()) {
+    return { data: null, error: 'Supabase is not configured.' };
+  }
+  try {
+    const data = await getApplicationById(id);
+    return { data };
+  } catch (e) {
+    return {
+      data: null,
+      error: e instanceof Error ? e.message : 'Failed to load application',
+    };
+  }
+}
+
+export async function fetchLearners() {
+  if (!isSupabaseConfigured()) {
+    return { data: [], error: 'Supabase is not configured.' };
+  }
+  try {
+    const data = await listLearnersForAdmin();
+    return { data };
+  } catch (e) {
+    return {
+      data: [],
+      error: e instanceof Error ? e.message : 'Failed to load learners',
+    };
+  }
+}
+
+export async function fetchLearnerById(id: string) {
+  if (!isSupabaseConfigured()) {
+    return { data: null, error: 'Supabase is not configured.' };
+  }
+  try {
+    const data = await getLearnerById(id);
+    return { data };
+  } catch (e) {
+    return {
+      data: null,
+      error: e instanceof Error ? e.message : 'Failed to load learner',
+    };
+  }
+}
+
+export async function fetchParents() {
+  if (!isSupabaseConfigured()) {
+    return { data: [], error: 'Supabase is not configured.' };
+  }
+  try {
+    const data = await listParentsForAdmin();
+    return { data };
+  } catch (e) {
+    return {
+      data: [],
+      error: e instanceof Error ? e.message : 'Failed to load parents',
+    };
+  }
+}
+
+export async function fetchParentById(id: string) {
+  if (!isSupabaseConfigured()) {
+    return { data: null, error: 'Supabase is not configured.' };
+  }
+  try {
+    const data = await getParentById(id);
+    return { data };
+  } catch (e) {
+    return {
+      data: null,
+      error: e instanceof Error ? e.message : 'Failed to load parent',
+    };
+  }
+}
+
+export async function fetchTutors() {
+  if (!isSupabaseConfigured()) {
+    return { data: [], error: 'Supabase is not configured.' };
+  }
+  try {
+    const data = await listTutorsForAdmin();
+    return { data };
+  } catch (e) {
+    return {
+      data: [],
+      error: e instanceof Error ? e.message : 'Failed to load tutors',
+    };
+  }
+}
+
+export async function fetchTutorById(id: string) {
+  if (!isSupabaseConfigured()) {
+    return { data: null, error: 'Supabase is not configured.' };
+  }
+  try {
+    const data = await getTutorById(id);
+    return { data };
+  } catch (e) {
+    return {
+      data: null,
+      error: e instanceof Error ? e.message : 'Failed to load tutor',
+    };
+  }
+}
+
+export async function setTutorVettingStatus(
+  tutorId: string,
+  status: 'approved' | 'rejected',
+  notes?: string
+) {
+  if (!isSupabaseConfigured()) {
+    return { ok: false, error: 'Supabase is not configured.' };
+  }
+  try {
+    await updateTutorVetting(tutorId, status, notes);
+    revalidatePath('/admin/dashboard/tutors');
+    revalidatePath(`/admin/dashboard/tutors/${tutorId}`);
+    revalidatePath('/admin/dashboard');
+    return { ok: true };
+  } catch (e) {
+    return {
+      ok: false,
+      error: e instanceof Error ? e.message : 'Vetting update failed',
+    };
+  }
+}
+
+export async function fetchTimesheetById(id: string) {
+  if (!isSupabaseConfigured()) {
+    return { data: null, error: 'Supabase is not configured.' };
+  }
+  try {
+    const data = await getTimesheetById(id);
+    return { data };
+  } catch (e) {
+    return {
+      data: null,
+      error: e instanceof Error ? e.message : 'Failed to load timesheet',
+    };
+  }
+}
+
+export async function fetchClassById(id: string) {
+  if (!isSupabaseConfigured()) {
+    return { data: null, error: 'Supabase is not configured.' };
+  }
+  try {
+    const data = await getClassById(id);
+    return { data };
+  } catch (e) {
+    return {
+      data: null,
+      error: e instanceof Error ? e.message : 'Failed to load class',
+    };
+  }
+}
+
+export async function fetchPayments() {
+  if (!isSupabaseConfigured()) {
+    return { data: [], error: 'Supabase is not configured.' };
+  }
+  try {
+    const data = await listPaymentsForAdmin();
+    return { data };
+  } catch (e) {
+    return {
+      data: [],
+      error: e instanceof Error ? e.message : 'Failed to load payments',
+    };
+  }
+}
+
+export async function fetchReports() {
+  if (!isSupabaseConfigured()) {
+    return { data: [], error: 'Supabase is not configured.' };
+  }
+  try {
+    const data = await listLearnerReportsForAdmin();
+    return { data };
+  } catch (e) {
+    return {
+      data: [],
+      error: e instanceof Error ? e.message : 'Failed to load reports',
+    };
+  }
 }
