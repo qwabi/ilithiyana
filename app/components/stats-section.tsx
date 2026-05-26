@@ -1,42 +1,39 @@
-/** Verifiable stats only — no unconfirmed learner counts or satisfaction %. */
-
+/** Stats section — gold background, large serif numbers. */
 const stats = [
-  { display: '1:3', label: 'Max tutor-to-learner ratio' },
-  { display: '6–12', label: 'Grades we support' },
-  { display: '5', label: 'Core subjects offered' },
-  { display: '9', label: 'South African provinces' },
+  { display: '1:3', label: 'Max tutor-to-learner ratio', color: 'text-primary-dark' },
+  { display: '6–12', label: 'Grades we support', color: 'text-primary-dark' },
+  { display: '5', label: 'Core subjects offered', color: 'text-primary-dark' },
+  { display: '9', label: 'South African provinces', color: 'text-primary-dark' },
 ] as const;
 
 export function StatsSection() {
   return (
-    <section className='bg-[hsl(210,55%,96%)] py-20 font-sans'>
+    <section className='bg-secondary py-16 font-sans'>
       <div className='container mx-auto px-4'>
-        <h2 className='font-display mb-4 text-center text-3xl text-[hsl(210,100%,25%)] md:text-4xl'>
-          Built for South African families
-        </h2>
-        <p className='mx-auto mb-12 max-w-2xl text-center text-muted-foreground'>
-          Structured online tutoring with career guidance included in every
-          package — registered as {''}
-          <span className='font-medium text-foreground'>
-            Ilithiyana (Pty) Ltd
-          </span>
-          .
+
+        {/* Eyebrow */}
+        <p className='mb-10 text-center text-xs font-bold uppercase tracking-widest text-secondary-foreground/60'>
+          The Ilithiyana difference
         </p>
-        <div className='grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-4'>
+
+        {/* Stats row */}
+        <div className='grid grid-cols-2 gap-6 md:grid-cols-4'>
           {stats.map((stat) => (
-            <div
-              key={stat.label}
-              className='rounded-xl border border-[hsl(214,32%,91%)] bg-white px-6 py-8 text-center'
-            >
-              <p className='font-display text-4xl text-[hsl(210,100%,25%)] md:text-5xl'>
+            <div key={stat.label} className='text-center'>
+              <p className='font-display text-5xl leading-none text-primary-dark md:text-6xl'>
                 {stat.display}
               </p>
-              <p className='mt-2 text-sm font-medium text-muted-foreground'>
+              <p className='mt-3 text-sm font-semibold text-secondary-foreground/75'>
                 {stat.label}
               </p>
             </div>
           ))}
         </div>
+
+        {/* Registered business note */}
+        <p className='mt-10 text-center text-xs text-secondary-foreground/50'>
+          Ilithiyana (Pty) Ltd · Reg. 2020/652431/07 · POPIA compliant
+        </p>
       </div>
     </section>
   );

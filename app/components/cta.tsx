@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import { Button } from '@/components/ui/button';
-import { brand, positioning } from '@/lib/site-config';
+import { brand, positioning, onboardingStartPath } from '@/lib/site-config';
 
 export function CTA() {
   return (
@@ -19,7 +19,7 @@ export function CTA() {
           size='lg'
           className='rounded-full px-8 font-semibold shadow-none'
         >
-          <Link href='/apply-now'>Apply now</Link>
+          <Link href={onboardingStartPath}>Apply now</Link>
         </Button>
       </div>
     </section>
