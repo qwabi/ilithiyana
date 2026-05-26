@@ -17,8 +17,23 @@ export type SubscriptionStatus =
   | 'cancelled';
 export type PreferredContactMethod = 'email' | 'whatsapp';
 export type EnrollmentLeadType = 'initial' | 'add_child';
+export type OnboardingStep =
+  | 'account'
+  | 'children'
+  | 'payment'
+  | 'setup'
+  | 'reports'
+  | 'complete';
+export type OnboardingPaymentStatus = 'pending' | 'complete' | 'cancelled';
 export type LearnerStatus = 'active' | 'paused' | 'inactive';
-export type TimesheetStatus = 'submitted' | 'approved' | 'rejected';
+export type TimesheetStatus = 'draft' | 'submitted' | 'approved' | 'rejected';
+export type TutorVettingStatus = 'pending' | 'approved' | 'rejected';
+export type TutorDocumentType =
+  | 'id_document'
+  | 'qualification'
+  | 'cv'
+  | 'police_clearance'
+  | 'other';
 export type PaymentStatus = 'pending' | 'complete' | 'failed' | 'cancelled';
 export type EnrollmentLeadStatus =
   | 'awaiting_payment'
@@ -71,6 +86,7 @@ export interface LearnerRow {
   school_name: string;
   grade: number;
   level: string | null;
+  /** Curriculum subject ids — see `lib/curriculum/subjects.ts`. */
   subjects: string[];
   status: LearnerStatus;
   created_at: string;
@@ -159,6 +175,60 @@ export interface TutorRow {
   created_at: string;
 }
 
+export interface TutorProfileRow {
+  id: string;
+  tutor_id: string;
+  phone: string | null;
+  id_number: string | null;
+  bio: string | null;
+  province: string | null;
+  grades_taught: number[];
+  vetting_status: TutorVettingStatus;
+  vetting_notes: string | null;
+  reviewed_at: string | null;
+  reviewed_by: string | null;
+  onboarding_complete: boolean;
+  created_at: string;
+  updated_at: string;
+}
+
+export interface TutorDocumentRow {
+  id: string;
+  tutor_id: string;
+  document_type: TutorDocumentType;
+  storage_path: string;
+  file_name: string | null;
+  uploaded_at: string;
+}
+
+export interface TimesheetSessionRow {
+  id: string;
+  timesheet_id: string;
+  session_date: string;
+  learner_id: string | null;
+  class_id: string | null;
+  subject: string | null;
+  duration_minutes: number;
+  notes: string | null;
+  created_at: string;
+}
+
+export interface AdminProfileRow {
+  id: string;
+  full_name: string | null;
+  email: string;
+  is_active: boolean;
+  created_at: string;
+}
+
+export interface TutorWithProfileRow extends TutorRow {
+  tutor_profiles: TutorProfileRow | null;
+}
+
+export interface TutorTimesheetWithSessions extends TutorTimesheetRow {
+  timesheet_sessions: TimesheetSessionRow[];
+}
+
 export interface TutorTimesheetRow {
   id: string;
   tutor_id: string;
@@ -212,7 +282,7 @@ export interface LearnerReportRow {
   learner_id: string;
   application_id: string | null;
   uploaded_by: string | null;
-  file_url: string;
+  file_url: string | null;
   file_type: string;
   term: string;
   academic_year: number;

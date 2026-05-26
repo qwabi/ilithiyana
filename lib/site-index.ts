@@ -36,9 +36,9 @@ export const siteIndexSections: SiteIndexSection[] = [
       { href: '/', label: 'Home', description: 'Online CAPS tutoring overview' },
       { href: '/about', label: 'About', description: 'Founder, programme, and trust' },
       {
-        href: '/apply-now',
+        href: '/onboarding/account',
         label: 'Apply Now',
-        description: 'Enrolment application and PayFast checkout',
+        description: 'Parent enrolment wizard and PayFast checkout',
       },
       { href: '/contact', label: 'Contact', description: 'Email, phone, WhatsApp' },
       {
@@ -88,7 +88,13 @@ export const siteIndexSections: SiteIndexSection[] = [
     title: 'Enrolment flow',
     description: 'Pages reached during or after applying.',
     links: [
-      { href: '/apply-now', label: 'Start application' },
+      { href: '/onboarding/account', label: 'Start enrolment' },
+      { href: '/onboarding/children', label: 'Choose packages' },
+      { href: '/onboarding/payment', label: 'PayFast checkout' },
+      { href: '/onboarding/setup', label: 'Child profiles (after payment)' },
+      { href: '/onboarding/reports', label: 'School reports (optional)' },
+      { href: '/onboarding/complete', label: 'Enrolment complete' },
+      { href: '/apply-now', label: 'Apply Now (redirect)', description: 'Redirects to onboarding' },
       {
         href: '/apply-now/success',
         label: 'Application success',
@@ -117,45 +123,18 @@ export const siteIndexSections: SiteIndexSection[] = [
     title: 'Parent dashboard',
     description: 'Sign in required — for enrolled families.',
     links: [
-      { href: '/login', label: 'Login' },
+      { href: '/login', label: 'Log in' },
       { href: '/dashboard', label: 'Dashboard home' },
       { href: '/dashboard/children', label: 'Children' },
       { href: '/dashboard/children/add', label: 'Add a child' },
       { href: '/dashboard/add-child', label: 'Add child (alternate route)' },
       { href: '/dashboard/subscriptions', label: 'Subscriptions' },
-      { href: '/dashboard/reports', label: 'School reports' },
       {
-        href: '/dashboard/reports/[learner_id]',
-        label: 'Reports per learner',
-        description: 'Replace [learner_id] with your child’s ID',
-      },
-      {
-        href: '/dashboard/reports/[learner_id]/add',
-        label: 'Add report for learner',
-      },
-      {
-        href: '/dashboard/reports/[learner_id]/upload',
-        label: 'Upload report',
-      },
-      {
-        href: '/dashboard/reports/confirm/[report_id]',
-        label: 'Confirm report OCR',
-        description: 'Replace [report_id] after upload',
+        href: '/dashboard/reports',
+        label: 'School reports',
+        description: 'Per-learner report builder and results open from here after login',
       },
       { href: '/dashboard/schedules', label: 'Class schedules' },
-      {
-        href: '/dashboard/schedules/[learner_id]',
-        label: 'Schedule per learner',
-      },
-    ],
-  },
-  {
-    id: 'portals',
-    title: 'Other portals',
-    description: 'Role-specific areas (access varies).',
-    links: [
-      { href: '/portal/parent', label: 'Parent portal' },
-      { href: '/portal/tutor', label: 'Tutor portal' },
     ],
   },
   {

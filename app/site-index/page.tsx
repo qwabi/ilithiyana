@@ -4,6 +4,11 @@ import { brand } from '@/lib/site-config';
 import { pageMetadata } from '@/lib/seo';
 import { siteIndexPath, siteIndexSections } from '@/lib/site-index';
 
+/** Next.js <Link> does not support dynamic segment placeholders in href. */
+function isNavigableHref(href: string): boolean {
+  return !href.includes('[') && !href.includes(']');
+}
+
 export const metadata: Metadata = pageMetadata({
   title: 'Site Index',
   description: `Browse all pages on ${brand.name} — marketing, resources, enrolment, parent dashboard, and admin.`,
@@ -38,9 +43,18 @@ export default function SiteIndexPage() {
               <ul className='mt-4 divide-y divide-border rounded-xl border border-border bg-white'>
                 {section.links.map((link) => {
                   const isExternalXml = link.href.endsWith('.xml');
+                  const navigable = isNavigableHref(link.href);
+                  const rowClass =
+                    'flex flex-col gap-1 px-4 py-3 sm:flex-row sm:items-center sm:justify-between';
                   const row = (
                     <>
-                      <span className='font-medium text-primary'>
+                      <span
+                        className={
+                          navigable
+                            ? 'font-medium text-primary'
+                            : 'font-medium text-foreground'
+                        }
+                      >
                         {link.label}
                       </span>
                       <span className='font-mono text-xs text-muted-foreground sm:text-right'>
@@ -53,17 +67,19 @@ export default function SiteIndexPage() {
                       {isExternalXml ? (
                         <a
                           href={link.href}
-                          className='flex flex-col gap-1 px-4 py-3 transition-colors hover:bg-[hsl(210,55%,96%)] sm:flex-row sm:items-center sm:justify-between'
+                          className={`${rowClass} transition-colors hover:bg-[hsl(210,55%,96%)]`}
                         >
                           {row}
                         </a>
-                      ) : (
+                      ) : navigable ? (
                         <Link
                           href={link.href}
-                          className='flex flex-col gap-1 px-4 py-3 transition-colors hover:bg-[hsl(210,55%,96%)] sm:flex-row sm:items-center sm:justify-between'
+                          className={`${rowClass} transition-colors hover:bg-[hsl(210,55%,96%)]`}
                         >
                           {row}
                         </Link>
+                      ) : (
+                        <div className={rowClass}>{row}</div>
                       )}
                       {link.description ? (
                         <p className='border-t border-border/60 px-4 py-2 text-xs text-muted-foreground'>

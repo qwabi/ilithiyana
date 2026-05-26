@@ -1,6 +1,32 @@
 import { brand, contact } from '@/lib/site-config';
 import { emailLayout } from '@/lib/email/templates/layout';
 
+const siteUrl =
+  () =>
+  process.env.NEXT_PUBLIC_SITE_URL?.replace(/\/$/, '') || brand.siteUrl;
+
+export function subjectChoiceChecklistEmail(opts: {
+  firstName?: string;
+  checklistUrl: string;
+  applyUrl: string;
+}) {
+  const greeting = opts.firstName ? `Hi ${opts.firstName},` : 'Hi there,';
+  return {
+    subject: `Your CAPS subject choice checklist — ${brand.name}`,
+    html: emailLayout({
+      headline: 'Your subject choice checklist',
+      bodyHtml: `<p>${greeting}</p>
+<p>Thanks for requesting the <strong>CAPS Subject Choice Checklist</strong> from ${brand.name}.</p>
+<p>Use it before Grade 10 selection (and to review FET subjects) so your child&apos;s package matches university, TVET, or career goals.</p>
+<p style="margin:24px 0 0;font-size:15px;color:#475569;">You can print or save the page as a PDF from your browser (Print → Save as PDF).</p>
+<p style="margin:24px 0 0;">When you are ready for small-group online tutoring with weekly career guidance included, <a href="${opts.applyUrl}" style="color:#0066cc;font-weight:600;">apply now</a>.</p>
+<p style="margin:24px 0 0;font-size:14px;color:#64748b;">You received this because you signed up on our website. Reply to this email if you have questions. See our privacy policy on ${siteUrl()}/privacy.</p>`,
+      ctaLabel: 'Open your checklist',
+      ctaHref: opts.checklistUrl,
+    }),
+  };
+}
+
 export function welcomeSetPasswordEmail(opts: {
   parentName: string;
   inviteLink: string | null;

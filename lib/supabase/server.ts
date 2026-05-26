@@ -48,17 +48,19 @@ export function createServerSupabaseClient() {
     );
   }
 
+  // Next.js 15+ returns a Promise from cookies(); must await before getAll/set.
   const cookieStore = cookies();
 
   return createServerClient(url, key, {
     cookies: {
-      getAll() {
-        return cookieStore.getAll();
+      async getAll() {
+        return (await cookieStore).getAll();
       },
-      setAll(cookiesToSet) {
+      async setAll(cookiesToSet) {
         try {
+          const store = await cookieStore;
           cookiesToSet.forEach(({ name, value, options }) =>
-            cookieStore.set(name, value, options)
+            store.set(name, value, options)
           );
         } catch {
           // Called from Server Component; middleware refreshes session.
