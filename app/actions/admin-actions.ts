@@ -21,7 +21,7 @@ import {
   getParentById,
   getTimesheetById,
   getTutorById,
-  listClasses,
+  listGroupClassesForAdmin,
   listContactMessages,
   listLearnerReportsForAdmin,
   listLearnersForAdmin,
@@ -92,8 +92,8 @@ export async function loginAdmin(
         const service = createServiceClient();
         const { data: adminProfile } = await service
           .from('admin_profiles')
-          .select('id, email, is_active')
-          .eq('id', authData.user.id)
+          .select('profile_id, email, is_active')
+          .eq('profile_id', authData.user.id)
           .eq('is_active', true)
           .maybeSingle();
 
@@ -409,7 +409,7 @@ export async function fetchClasses() {
   }
   try {
     const [data, learners, tutors] = await Promise.all([
-      listClasses(),
+      listGroupClassesForAdmin(),
       listLearnersForAdmin(),
       listTutorsForAdmin(),
     ]);

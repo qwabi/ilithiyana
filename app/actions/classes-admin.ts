@@ -1,24 +1,29 @@
 'use server';
 
 import { revalidatePath } from 'next/cache';
+import { regenerateSessionsForLearnerEnrollments } from '@/lib/class-schedules';
 import {
-  deleteClass,
-  listClasses,
+  enrollLearnerInGroupClass,
+  getGroupClassById,
+  listGroupClassesForAdmin,
   listLearnersForAdmin,
   listTutorsForAdmin,
-  upsertClass,
-  type ClassInput,
+  unenrollLearnerFromGroupClass,
+  updateGroupClass,
+  type GroupClassUpdateInput,
 } from '@/lib/supabase/admin';
 import { createServiceClient, isSupabaseConfigured } from '@/lib/supabase/server';
-import type { ClassRow } from '@/lib/types/database';
+import type { GroupClassWithCount } from '@/lib/types/database';
 
-export async function listClassesForAdmin(learnerId?: string) {
+export async function fetchGroupClasses(): Promise<{
+  data: GroupClassWithCount[];
+  error?: string;
+}> {
   if (!isSupabaseConfigured()) {
     return { data: [], error: 'Supabase is not configured.' };
   }
-
   try {
-    const data = await listClasses(learnerId);
+    const data = await listGroupClassesForAdmin();
     return { data };
   } catch (e) {
     return {
@@ -28,97 +33,118 @@ export async function listClassesForAdmin(learnerId?: string) {
   }
 }
 
-export async function listClassCatalogTutors() {
-  if (!isSupabaseConfigured()) {
-    return { data: [], error: 'Supabase is not configured.' };
-  }
-
-  try {
-    const data = await listTutorsForAdmin();
-    return { data };
-  } catch (e) {
-    return {
-      data: [],
-      error: e instanceof Error ? e.message : 'Failed to load tutors',
-    };
-  }
-}
-
-export async function listClassCatalogLearners() {
-  if (!isSupabaseConfigured()) {
-    return { data: [], error: 'Supabase is not configured.' };
-  }
-
-  try {
-    const data = await listLearnersForAdmin();
-    return { data };
-  } catch (e) {
-    return {
-      data: [],
-      error: e instanceof Error ? e.message : 'Failed to load learners',
-    };
-  }
-}
-
-export async function saveClass(
-  id: string | null,
-  input: ClassInput
-): Promise<{ data: ClassRow | null; error?: string }> {
+export async function fetchGroupClassById(id: string) {
   if (!isSupabaseConfigured()) {
     return { data: null, error: 'Supabase is not configured.' };
   }
-
   try {
-    const data = await upsertClass(id, input);
-    revalidatePath('/admin/dashboard/classes');
+    const data = await getGroupClassById(id);
     return { data };
   } catch (e) {
     return {
       data: null,
-      error: e instanceof Error ? e.message : 'Could not save class',
+      error: e instanceof Error ? e.message : 'Failed to load class',
     };
   }
 }
 
-export async function removeClass(
-  id: string
+export async function fetchClassAdminOptions() {
+  if (!isSupabaseConfigured()) {
+    return { learners: [], tutors: [], error: 'Supabase is not configured.' };
+  }
+  try {
+    const [learners, tutors] = await Promise.all([
+      listLearnersForAdmin(),
+      listTutorsForAdmin(),
+    ]);
+    return { learners, tutors };
+  } catch (e) {
+    return {
+      learners: [],
+      tutors: [],
+      error: e instanceof Error ? e.message : 'Failed to load options',
+    };
+  }
+}
+
+export async function updateGroupClassSettings(
+  id: string,
+  input: GroupClassUpdateInput
 ): Promise<{ ok: boolean; error?: string }> {
   if (!isSupabaseConfigured()) {
     return { ok: false, error: 'Supabase is not configured.' };
   }
-
+  if (input.max_enrollment < 1 || input.max_enrollment > 8) {
+    return { ok: false, error: 'Max enrollment must be between 1 and 8.' };
+  }
   try {
-    await deleteClass(id);
+    await updateGroupClass(id, input);
     revalidatePath('/admin/dashboard/classes');
+    revalidatePath(`/admin/dashboard/classes/${id}`);
+    revalidatePath('/dashboard/schedules');
+    revalidatePath('/tutor/schedule');
     return { ok: true };
   } catch (e) {
     return {
       ok: false,
-      error: e instanceof Error ? e.message : 'Could not delete class',
+      error: e instanceof Error ? e.message : 'Could not update class',
     };
   }
 }
 
-export async function listClassEnrollments(classId: string) {
+export async function enrollLearnerInClass(
+  classId: string,
+  learnerId: string
+): Promise<{ ok: boolean; error?: string }> {
   if (!isSupabaseConfigured()) {
-    return { data: [], error: 'Supabase is not configured.' };
+    return { ok: false, error: 'Supabase is not configured.' };
   }
+  try {
+    const supabase = createServiceClient();
+    await enrollLearnerInGroupClass(classId, learnerId);
+    await regenerateSessionsForLearnerEnrollments(
+      supabase,
+      learnerId,
+      'admin:enroll'
+    );
+    revalidatePath('/admin/dashboard/classes');
+    revalidatePath(`/admin/dashboard/classes/${classId}`);
+    revalidatePath('/dashboard/schedules');
+    revalidatePath('/tutor/schedule');
+    return { ok: true };
+  } catch (e) {
+    return {
+      ok: false,
+      error: e instanceof Error ? e.message : 'Could not enroll learner',
+    };
+  }
+}
 
-  const supabase = createServiceClient();
-  const { data, error } = await supabase
-    .from('class_enrollments')
-    .select(
-      `
-      id,
-      learner_id,
-      status,
-      enrolled_at,
-      learners ( id, first_name, last_name, grade, school_name )
-    `
-    )
-    .eq('class_id', classId)
-    .order('enrolled_at', { ascending: false });
-
-  if (error) return { data: [], error: error.message };
-  return { data: data ?? [] };
+export async function unenrollLearnerFromClass(
+  enrollmentId: string,
+  learnerId: string,
+  classId: string
+): Promise<{ ok: boolean; error?: string }> {
+  if (!isSupabaseConfigured()) {
+    return { ok: false, error: 'Supabase is not configured.' };
+  }
+  try {
+    const supabase = createServiceClient();
+    await unenrollLearnerFromGroupClass(enrollmentId);
+    await regenerateSessionsForLearnerEnrollments(
+      supabase,
+      learnerId,
+      'admin:unenroll'
+    );
+    revalidatePath('/admin/dashboard/classes');
+    revalidatePath(`/admin/dashboard/classes/${classId}`);
+    revalidatePath('/dashboard/schedules');
+    revalidatePath('/tutor/schedule');
+    return { ok: true };
+  } catch (e) {
+    return {
+      ok: false,
+      error: e instanceof Error ? e.message : 'Could not remove learner',
+    };
+  }
 }

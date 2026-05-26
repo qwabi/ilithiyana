@@ -4,8 +4,10 @@ import type {
   ApplicationRow,
   ApplicationStatus,
   ApplicationWithRelations,
+  ClassBand,
   ClassRow,
   ContactMessageRow,
+  GroupClassWithCount,
   LearnerReportRow,
   LearnerRow,
   ParentRow,
@@ -280,21 +282,80 @@ export async function listClasses(learnerId?: string) {
 }
 
 export type ClassInput = {
-  learner_id: string;
+  learner_id?: string | null;
   tutor_id?: string | null;
   subject: string;
   grade: number;
+  band?: ClassBand | null;
+  band_label?: string | null;
+  schedule_day?: string | null;
+  schedule_time?: string | null;
+  meet_link?: string | null;
+  max_enrollment?: number;
+  is_active?: boolean;
   level?: string | null;
   schedule?: string | null;
-  meet_link?: string | null;
 };
+
+export type GroupClassUpdateInput = {
+  tutor_id: string | null;
+  schedule_day: string | null;
+  schedule_time: string | null;
+  meet_link: string | null;
+  max_enrollment: number;
+  is_active: boolean;
+};
+
+type TutorNamePick = Pick<TutorRow, 'id' | 'first_name' | 'last_name'>;
+
+function unwrapTutorRelation(
+  tutors:
+    | TutorNamePick
+    | TutorNamePick[]
+    | (TutorNamePick | null | undefined)[]
+    | null
+    | undefined
+): TutorNamePick | null {
+  if (!tutors) return null;
+  if (Array.isArray(tutors)) {
+    return tutors.find((t): t is TutorNamePick => t != null) ?? null;
+  }
+  return tutors;
+}
+
+function parseScheduleDay(schedule: string): string | null {
+  const lower = schedule.toLowerCase();
+  if (lower.startsWith('mon')) return 'monday';
+  if (lower.startsWith('tue')) return 'tuesday';
+  if (lower.startsWith('wed')) return 'wednesday';
+  if (lower.startsWith('thu')) return 'thursday';
+  if (lower.startsWith('fri')) return 'friday';
+  if (lower.startsWith('sat')) return 'saturday';
+  return null;
+}
+
+function parseScheduleTime(schedule: string): string | null {
+  const match = schedule.match(/(\d{2}:\d{2})/);
+  return match ? match[1] : null;
+}
 
 export async function upsertClass(id: string | null, input: ClassInput) {
   const supabase = createServiceClient();
+  const scheduleDay =
+    input.schedule_day ?? parseScheduleDay(input.schedule ?? '') ?? null;
+  const scheduleTime =
+    input.schedule_time ?? parseScheduleTime(input.schedule ?? '') ?? null;
+
+  const payload = {
+    ...input,
+    schedule_day: scheduleDay,
+    schedule_time: scheduleTime,
+  };
+
   if (id) {
     const { data, error } = await supabase
       .from('classes')
-      .update(input)
+      .update(payload)
       .eq('id', id)
       .select('*')
       .single();
@@ -304,11 +365,202 @@ export async function upsertClass(id: string | null, input: ClassInput) {
 
   const { data, error } = await supabase
     .from('classes')
-    .insert(input)
+    .insert(payload)
     .select('*')
     .single();
   if (error) throw error;
   return data as ClassRow;
+}
+
+/** Admin: list group classes (learner_id = null) with active enrollment counts. */
+export async function listGroupClassesForAdmin(): Promise<GroupClassWithCount[]> {
+  const supabase = createServiceClient();
+  const { data: classes, error } = await supabase
+    .from('classes')
+    .select(
+      `
+      id, learner_id, tutor_id, subject, grade, band, band_label,
+      schedule_day, schedule_time, meet_link, max_enrollment, is_active,
+      schedule, level, created_at,
+      tutors (id, first_name, last_name)
+    `
+    )
+    .is('learner_id', null)
+    .order('grade')
+    .order('subject')
+    .order('band');
+
+  if (error) throw error;
+
+  const ids = (classes ?? []).map((c) => c.id as string);
+  if (!ids.length) return [];
+
+  const { data: counts } = await supabase
+    .from('class_enrollments')
+    .select('class_id')
+    .eq('status', 'active')
+    .in('class_id', ids);
+
+  const countMap = (counts ?? []).reduce(
+    (m, r) => {
+      const cid = r.class_id as string;
+      m[cid] = (m[cid] ?? 0) + 1;
+      return m;
+    },
+    {} as Record<string, number>
+  );
+
+  return (classes ?? []).map((row) => {
+    const { tutors: tutorsRaw, ...rest } = row as ClassRow & {
+      tutors?: GroupClassWithCount['tutors'] | GroupClassWithCount['tutors'][];
+    };
+    return {
+      ...(rest as ClassRow),
+      enrollment_count: countMap[rest.id] ?? 0,
+      tutors: unwrapTutorRelation(tutorsRaw ?? null),
+    };
+  });
+}
+
+/** Admin: single group class with active enrollments. */
+export async function getGroupClassById(id: string) {
+  const supabase = createServiceClient();
+  const { data: cls, error } = await supabase
+    .from('classes')
+    .select(
+      `
+      id, learner_id, tutor_id, subject, grade, band, band_label,
+      schedule_day, schedule_time, meet_link, max_enrollment, is_active,
+      schedule, level, created_at,
+      tutors (id, first_name, last_name, email)
+    `
+    )
+    .eq('id', id)
+    .is('learner_id', null)
+    .maybeSingle();
+
+  if (error) throw error;
+  if (!cls) return null;
+
+  const { data: enrollments } = await supabase
+    .from('class_enrollments')
+    .select(
+      `
+      id, learner_id, status, enrolled_at,
+      learners (id, first_name, last_name, grade, school_name)
+    `
+    )
+    .eq('class_id', id)
+    .eq('status', 'active')
+    .order('enrolled_at');
+
+  const { count } = await supabase
+    .from('class_enrollments')
+    .select('id', { count: 'exact', head: true })
+    .eq('class_id', id)
+    .eq('status', 'active');
+
+  const { tutors: tutorsRaw, ...clsRest } = cls as ClassRow & {
+    tutors?:
+      | Pick<TutorRow, 'id' | 'first_name' | 'last_name' | 'email'>
+      | Pick<TutorRow, 'id' | 'first_name' | 'last_name' | 'email'>[];
+  };
+
+  return {
+    cls: {
+      ...(clsRest as ClassRow),
+      tutors: unwrapTutorRelation(
+        tutorsRaw as
+          | Pick<TutorRow, 'id' | 'first_name' | 'last_name' | 'email'>
+          | Pick<TutorRow, 'id' | 'first_name' | 'last_name' | 'email'>[]
+          | null
+          | undefined
+      ),
+    },
+    enrollments: enrollments ?? [],
+    enrollment_count: count ?? 0,
+  };
+}
+
+export async function updateGroupClass(id: string, input: GroupClassUpdateInput) {
+  const supabase = createServiceClient();
+  const { data, error } = await supabase
+    .from('classes')
+    .update(input)
+    .eq('id', id)
+    .select('*')
+    .single();
+  if (error) throw error;
+  return data as ClassRow;
+}
+
+export async function enrollLearnerInGroupClass(
+  classId: string,
+  learnerId: string
+) {
+  const supabase = createServiceClient();
+
+  const { data: cls, error: clsError } = await supabase
+    .from('classes')
+    .select('max_enrollment, grade, subject, band, is_active, learner_id')
+    .eq('id', classId)
+    .single();
+
+  if (clsError || !cls) throw new Error('Class not found');
+  if (cls.learner_id != null) throw new Error('Not a group class');
+  if (!cls.is_active) throw new Error('Class is not active');
+
+  const { count } = await supabase
+    .from('class_enrollments')
+    .select('id', { count: 'exact', head: true })
+    .eq('class_id', classId)
+    .eq('status', 'active');
+
+  const max = cls.max_enrollment ?? 8;
+  if ((count ?? 0) >= max) {
+    throw new Error(`Class is full (max ${max} learners)`);
+  }
+
+  const { data: existing } = await supabase
+    .from('class_enrollments')
+    .select('id, class_id, classes!inner(subject, grade)')
+    .eq('learner_id', learnerId)
+    .eq('status', 'active');
+
+  const duplicates = (existing ?? []).filter((row) => {
+    const c = row.classes as { subject: string; grade: number } | { subject: string; grade: number }[];
+    const meta = Array.isArray(c) ? c[0] : c;
+    return (
+      meta?.subject === cls?.subject &&
+      meta?.grade === cls?.grade &&
+      row.class_id !== classId
+    );
+  });
+
+  if (duplicates.length) {
+    await supabase
+      .from('class_enrollments')
+      .update({ status: 'cancelled' })
+      .in(
+        'id',
+        duplicates.map((d) => d.id as string)
+      );
+  }
+
+  const { error } = await supabase.from('class_enrollments').upsert(
+    { class_id: classId, learner_id: learnerId, status: 'active' },
+    { onConflict: 'learner_id,class_id' }
+  );
+  if (error) throw error;
+}
+
+export async function unenrollLearnerFromGroupClass(enrollmentId: string) {
+  const supabase = createServiceClient();
+  const { error } = await supabase
+    .from('class_enrollments')
+    .update({ status: 'cancelled' })
+    .eq('id', enrollmentId);
+  if (error) throw error;
 }
 
 export async function deleteClass(id: string) {

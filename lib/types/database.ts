@@ -267,15 +267,31 @@ export interface ClassRow {
   subject: string;
   grade: number;
   level: string | null;
-  band?: ClassBand | null;
+  band: ClassBand | null;
+  band_label: string | null;
   subject_code?: string | null;
-  max_enrollment?: number;
+  max_enrollment: number;
   class_label?: string | null;
   schedule: string | null;
+  schedule_day: string | null;
+  schedule_time: string | null;
   meet_link: string | null;
-  is_active?: boolean;
+  is_active: boolean;
   created_at: string;
 }
+
+export interface ClassEnrollmentRow {
+  id: string;
+  class_id: string;
+  learner_id: string;
+  status: 'active' | 'cancelled';
+  enrolled_at: string;
+}
+
+export type GroupClassWithCount = ClassRow & {
+  enrollment_count: number;
+  tutors?: Pick<TutorRow, 'id' | 'first_name' | 'last_name'> | null;
+};
 
 export interface LearnerReportRow {
   id: string;
@@ -444,15 +460,3 @@ export interface SubmitContactMessageRpcArgs {
   p_message: string;
 }
 
-export type {
-  AdminProfileRow,
-  TimesheetSessionRow,
-  TimesheetWithSessions,
-  TutorAdminFilters,
-  TutorDocumentRow,
-  TutorDocumentStatus,
-  TutorDocumentType,
-  TutorProfileRow,
-  TutorProfileWithTutor,
-  TutorVettingStatus,
-} from '@/lib/types/tutor-admin';
