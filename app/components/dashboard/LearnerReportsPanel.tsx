@@ -8,7 +8,6 @@ export type ReportHistoryRow = {
   term: string;
   academic_year: number;
   uploaded_at: string;
-  ocr_status: string;
   confirmed: boolean;
 };
 
@@ -31,15 +30,10 @@ export function LearnerReportsPanel({
           Add a new report at the end of each term to update levels and class
           placement.
         </p>
-        <div className='mt-3 flex flex-wrap gap-3'>
+        <div className='mt-3'>
           <Button asChild variant='default' className='rounded-full'>
-            <Link href={`/dashboard/reports/${learnerId}/upload`}>
-              Add report
-            </Link>
-          </Button>
-          <Button asChild variant='outline' className='rounded-full'>
             <Link href={`/dashboard/reports/${learnerId}/add`}>
-              Enter manually
+              Add report
             </Link>
           </Button>
         </div>
@@ -48,7 +42,7 @@ export function LearnerReportsPanel({
       <div>
         <h3 className='mb-3 font-medium'>History</h3>
         {reports.length === 0 ? (
-          <p className='text-sm text-muted-foreground'>No reports uploaded yet.</p>
+          <p className='text-sm text-muted-foreground'>No reports added yet.</p>
         ) : (
           <ul className='divide-y rounded-lg border bg-white'>
             {reports.map((r) => (
@@ -64,15 +58,18 @@ export function LearnerReportsPanel({
                     {new Date(r.uploaded_at).toLocaleDateString('en-ZA')}
                   </span>
                   <span className='ml-2 rounded-full bg-muted px-2 py-0.5 text-xs'>
-                    {r.ocr_status}
-                    {r.confirmed ? ' · confirmed' : ''}
+                    {r.confirmed ? 'Saved' : 'Draft'}
                   </span>
                 </div>
                 <Link
-                  href={`/dashboard/reports/confirm/${r.id}`}
+                  href={
+                    r.confirmed
+                      ? `/dashboard/reports/confirm/${r.id}?manual=true`
+                      : `/dashboard/reports/${learnerId}/add`
+                  }
                   className='text-primary underline-offset-4 hover:underline'
                 >
-                  {r.confirmed ? 'View results' : 'Confirm results'}
+                  {r.confirmed ? 'View results' : 'Complete report'}
                 </Link>
               </li>
             ))}

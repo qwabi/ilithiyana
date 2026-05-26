@@ -1,5 +1,7 @@
 import { redirect } from 'next/navigation';
 import type { Metadata } from 'next';
+import { DashboardTopBar } from '@/app/components/dashboard/DashboardTopBar';
+import { OnboardingResumeBanner } from '@/app/components/dashboard/OnboardingResumeBanner';
 import { Sidebar } from '@/app/components/dashboard/Sidebar';
 import { loadDashboardShellProfile } from '@/lib/parent-dashboard-sections';
 import { createServerSupabaseClient } from '@/lib/supabase/server';
@@ -39,7 +41,11 @@ export default async function DashboardLayout({
     >
       <Sidebar profile={profile} />
       <div className='flex min-w-0 flex-1 flex-col'>
-        <main className='flex-1 p-6 lg:p-8'>{children}</main>
+        <DashboardTopBar />
+        <main className='flex-1 p-6 lg:p-8'>
+          <OnboardingResumeBanner userId={user.id} email={user.email} />
+          {children}
+        </main>
       </div>
     </div>
   );

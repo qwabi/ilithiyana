@@ -104,7 +104,7 @@ export function TutorPortal({ initialTutor }: Props) {
             variant='secondary'
             className='h-11 w-full font-semibold'
           >
-            {isPending ? 'Checking…' : 'Continue'}
+            {isPending ? 'Signing in…' : 'Sign in'}
           </Button>
         </CardContent>
       </Card>

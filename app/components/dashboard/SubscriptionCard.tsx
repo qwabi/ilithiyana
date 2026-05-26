@@ -57,7 +57,8 @@ export function SubscriptionCard({ subscription }: { subscription: Sub }) {
             {format(new Date(subscription.next_billing_date), 'd MMM yyyy')}
           </p>
         ) : null}
-        {subscription.status === 'overdue' ? (
+        {subscription.status === 'overdue' ||
+        subscription.status === 'pending' ? (
           <form action='/api/payfast/checkout' method='post' className='pt-2'>
             <input
               type='hidden'
@@ -69,7 +70,7 @@ export function SubscriptionCard({ subscription }: { subscription: Sub }) {
               className='rounded-full bg-accent px-4 py-2 text-sm font-bold
                          text-[hsl(210,100%,12%)] hover:bg-accent/90'
             >
-              Pay now
+              {subscription.status === 'overdue' ? 'Pay overdue' : 'Pay now'}
             </button>
           </form>
         ) : null}

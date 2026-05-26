@@ -65,7 +65,8 @@ export async function loginParentPortal(): Promise<{
 }
 
 export async function logoutParentPortal() {
-  cookies().delete(PARENT_COOKIE);
+  const cookieStore = await cookies();
+  cookieStore.delete(PARENT_COOKIE);
 }
 
 export async function getParentPortalSession() {
@@ -90,7 +91,8 @@ export async function loginTutorPortal(
     }
 
     const token = signValue(tutor.id);
-    cookies().set(TUTOR_COOKIE, token, {
+    const cookieStore = await cookies();
+    cookieStore.set(TUTOR_COOKIE, token, {
       httpOnly: true,
       secure: process.env.NODE_ENV === 'production',
       sameSite: 'lax',
@@ -105,11 +107,13 @@ export async function loginTutorPortal(
 }
 
 export async function logoutTutorPortal() {
-  cookies().delete(TUTOR_COOKIE);
+  const cookieStore = await cookies();
+  cookieStore.delete(TUTOR_COOKIE);
 }
 
 export async function getTutorPortalSession() {
-  const tutorId = verifySignedValue(cookies().get(TUTOR_COOKIE)?.value);
+  const cookieStore = await cookies();
+  const tutorId = verifySignedValue(cookieStore.get(TUTOR_COOKIE)?.value);
   if (!tutorId || !isSupabaseConfigured()) return null;
 
   try {
@@ -132,7 +136,8 @@ export async function submitTutorTimesheetAction(input: {
   monthPeriod: string;
   sessionsCount: number;
 }): Promise<{ ok: true } | { ok: false; error: string }> {
-  const tutorId = verifySignedValue(cookies().get(TUTOR_COOKIE)?.value);
+  const cookieStore = await cookies();
+  const tutorId = verifySignedValue(cookieStore.get(TUTOR_COOKIE)?.value);
   if (!tutorId) {
     return { ok: false, error: 'Please sign in again.' };
   }

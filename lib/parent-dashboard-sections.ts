@@ -168,7 +168,6 @@ export type ReportListItem = {
   file_type: string;
   term: string;
   academic_year: number;
-  ocr_status: string;
   confirmed: boolean;
   uploaded_at: string;
   learner: Pick<LearnerRow, 'id' | 'first_name' | 'last_name' | 'grade'>;
@@ -188,7 +187,7 @@ export async function getParentReportsPage(
     .select(
       `
       id, file_url, file_type, term, academic_year,
-      ocr_status, confirmed, uploaded_at, learner_id,
+      confirmed, uploaded_at, learner_id,
       learners ( id, first_name, last_name, grade ),
       report_extractions ( id, needs_review )
     `
@@ -211,7 +210,6 @@ export async function getParentReportsPage(
       file_type: r.file_type as string,
       term: r.term as string,
       academic_year: r.academic_year as number,
-      ocr_status: r.ocr_status as string,
       confirmed: r.confirmed as boolean,
       uploaded_at: r.uploaded_at as string,
       learner: learner ?? {
@@ -253,6 +251,30 @@ export type ScheduleListItem =
       };
     };
 
+// #region agent log
+function debugSchedulesPageLog(
+  hypothesisId: string,
+  message: string,
+  data: Record<string, unknown>
+) {
+  fetch('http://127.0.0.1:7402/ingest/d851579b-cb6d-4eb5-ad9a-a6e345f4c63d', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'X-Debug-Session-Id': '5d33ef',
+    },
+    body: JSON.stringify({
+      sessionId: '5d33ef',
+      hypothesisId,
+      location: 'parent-dashboard-sections.ts:getParentSchedulesPage',
+      message,
+      data,
+      timestamp: Date.now(),
+    }),
+  }).catch(() => {});
+}
+// #endregion
+
 export async function getParentSchedulesPage(
   data: DashboardSession,
   learnerIdFilter?: string
@@ -270,12 +292,23 @@ export async function getParentSchedulesPage(
       .map((c) => c.id)
   );
 
+  /** Group classes have null learner_id on `classes`; map from flattened dashboard rows. */
+  const learnerIdByClassId = new Map(
+    data.classes
+      .filter((c) => c.learner_id && learnerMap.has(c.learner_id))
+      .map((c) => [c.id, c.learner_id as string])
+  );
+
   for (const session of data.sessions) {
     const cls = session.classes;
-    if (!cls?.learner_id || !learnerMap.has(cls.learner_id)) continue;
+    if (!cls) continue;
+
+    const sessionLearnerId =
+      cls.learner_id ?? learnerIdByClassId.get(session.class_id);
+    if (!sessionLearnerId || !learnerMap.has(sessionLearnerId)) continue;
     if (!classIds.has(session.class_id)) continue;
 
-    const learner = learnerMap.get(cls.learner_id)!;
+    const learner = learnerMap.get(sessionLearnerId)!;
     const tutor = cls.tutors;
     items.push({
       kind: 'session',
@@ -336,6 +369,17 @@ export async function getParentSchedulesPage(
     if (b.kind === 'session') return 1;
     return 0;
   });
+
+  // #region agent log
+  debugSchedulesPageLog('C', 'schedule page assembly', {
+    learnerFilter: learnerIdFilter ?? null,
+    learnerCount: learners.length,
+    classCount: data.classes.length,
+    sessionCount: data.sessions.length,
+    itemCount: items.length,
+    classIdsSize: classIds.size,
+  });
+  // #endregion
 
   return items;
 }

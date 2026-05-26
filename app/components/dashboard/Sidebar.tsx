@@ -10,7 +10,7 @@ import {
   LayoutDashboard,
   GraduationCap,
 } from 'lucide-react';
-import { signOut } from '@/app/actions/auth-actions';
+import { LogoutButton } from '@/app/components/auth/LogoutButton';
 import { brand } from '@/lib/site-config';
 
 const NAV_ITEMS = [
@@ -119,17 +119,8 @@ export function Sidebar({ profile }: { profile: SidebarProfile }) {
         })}
       </nav>
 
-      <div className='border-t border-border px-3 py-4'>
-        <form action={signOut}>
-          <button
-            type='submit'
-            className='w-full rounded-lg px-3 py-2.5 text-left text-sm font-medium
-                       text-muted-foreground transition-colors hover:bg-muted/50
-                       hover:text-foreground'
-          >
-            Sign out
-          </button>
-        </form>
+      <div className='mt-auto border-t border-border px-3 py-4'>
+        <LogoutButton className='w-full justify-start' />
       </div>
     </aside>
   );

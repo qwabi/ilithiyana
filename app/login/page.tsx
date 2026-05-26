@@ -1,16 +1,20 @@
-import { LoginForm } from '@/app/components/auth/LoginForm';
-import { brand } from '@/lib/site-config';
-import { DM_Serif_Display, Plus_Jakarta_Sans } from 'next/font/google';
-import type { Metadata } from 'next';
-import { pageMetadata } from '@/lib/seo';
+import { LoginForm } from "@/app/components/auth/LoginForm";
+import { brand } from "@/lib/site-config";
+import { DM_Serif_Display, Plus_Jakarta_Sans } from "next/font/google";
+import type { Metadata } from "next";
+import { pageMetadata } from "@/lib/seo";
+import { Navbar } from "../components/navbar";
 
-const dmSerif = DM_Serif_Display({ subsets: ['latin'], weight: ['400'] });
-const jakarta = Plus_Jakarta_Sans({ subsets: ['latin'], weight: ['400', '500'] });
+const dmSerif = DM_Serif_Display({ subsets: ["latin"], weight: ["400"] });
+const jakarta = Plus_Jakarta_Sans({
+  subsets: ["latin"],
+  weight: ["400", "500"],
+});
 
 export const metadata: Metadata = pageMetadata({
-  title: 'Parent login',
+  title: "Log in",
   description: `Sign in to your ${brand.name} parent dashboard.`,
-  path: '/login',
+  path: "/login",
   noIndex: true,
 });
 
@@ -19,11 +23,10 @@ export default function LoginPage({
 }: {
   searchParams: { from?: string; redirect?: string; lead?: string };
 }) {
-  const redirectTo =
-    searchParams.redirect ?? searchParams.from ?? '/dashboard';
-  const leadQuery = searchParams.lead ? `?lead=${searchParams.lead}` : '';
+  const redirectTo = searchParams.redirect ?? searchParams.from ?? "/dashboard";
+  const leadQuery = searchParams.lead ? `?lead=${searchParams.lead}` : "";
   const dashboardTarget =
-    redirectTo === '/dashboard' && searchParams.lead
+    redirectTo === "/dashboard" && searchParams.lead
       ? `/dashboard${leadQuery}`
       : redirectTo;
 
@@ -31,13 +34,13 @@ export default function LoginPage({
     <div
       className={`container mx-auto max-w-md px-4 py-16 ${jakarta.className}`}
     >
-      <h1
-        className={`${dmSerif.className} text-3xl text-[hsl(210,100%,25%)]`}
-      >
-        Parent login
+      <Navbar />
+      <div className="mt-14"></div>
+      <h1 className={`${dmSerif.className} text-3xl text-[hsl(210,100%,25%)]`}>
+        Log in
       </h1>
-      <p className='mt-2 text-sm text-muted-foreground'>
-        Sign in with the email and password you chose when you applied.
+      <p className="mt-2 text-sm text-muted-foreground">
+        Sign in with the email and password you chose when you enrolled.
       </p>
       <LoginForm redirectTo={dashboardTarget} />
     </div>

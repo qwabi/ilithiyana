@@ -53,7 +53,7 @@ export async function startAddChildPayment(
 
   const checkout = await initiateAddChildCheckout(saved.leadId);
   if ('error' in checkout) {
-    return { success: false, message: checkout.error };
+    return { success: false, message: checkout.error ?? 'Payment failed' };
   }
 
   return {

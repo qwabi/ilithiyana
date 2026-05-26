@@ -1,7 +1,9 @@
 import Link from 'next/link';
 import { Calendar, FileText } from 'lucide-react';
+import { SyncLearnerScheduleButton } from '@/app/components/dashboard/SyncLearnerScheduleButton';
 import { subscriptionDisplayStatus } from '@/lib/parent-dashboard-utils';
 import { cn } from '@/lib/utils';
+import { formatSubjectLabels, resolveLearnerSubjectIds } from '@/lib/curriculum/learner-subjects';
 import type { ChildrenPageLearner } from '@/lib/parent-dashboard-sections';
 
 function StatusPill({ status }: { status: string }) {
@@ -30,10 +32,10 @@ function StatusPill({ status }: { status: string }) {
 export function ChildCard({ learner }: { learner: ChildrenPageLearner }) {
   const subscription = learner.subscriptions[0];
   const application = learner.applications[0];
-  const subjects =
-    learner.subjects?.length > 0
-      ? learner.subjects
-      : [];
+  const subjectLabels = formatSubjectLabels(
+    resolveLearnerSubjectIds(learner.subjects, learner.grade),
+    learner.grade
+  );
 
   return (
     <div
@@ -53,15 +55,15 @@ export function ChildCard({ learner }: { learner: ChildrenPageLearner }) {
         {subscription ? <StatusPill status={subscription.status} /> : null}
       </div>
 
-      {subjects.length > 0 ? (
+      {subjectLabels.length > 0 ? (
         <div className='mb-4 flex flex-wrap gap-1.5'>
-          {subjects.map((s) => (
+          {subjectLabels.map((label) => (
             <span
-              key={s}
+              key={label}
               className='rounded-full bg-[hsl(210,100%,96%)] px-2 py-0.5
                          text-xs font-medium text-[hsl(210,100%,35%)]'
             >
-              {s}
+              {label}
             </span>
           ))}
         </div>
@@ -82,6 +84,13 @@ export function ChildCard({ learner }: { learner: ChildrenPageLearner }) {
             : ''}
         </p>
       ) : null}
+
+      <div className='mb-3 border-t border-border pt-3'>
+        <SyncLearnerScheduleButton
+          learnerId={learner.id}
+          learnerName={`${learner.first_name} ${learner.last_name}`}
+        />
+      </div>
 
       <div className='flex gap-4 border-t border-border pt-3'>
         <Link

@@ -98,18 +98,14 @@ export function ParentDashboard({ data }: { data: DashboardSession }) {
               >
                 <span>
                   {p.learnerName}
-                  {p.ocrStatus === 'processing' || p.ocrStatus === 'pending'
-                    ? ' — still reading report…'
-                    : ' — ready to review'}
+                  {' — ready to review'}
                 </span>
-                {(p.ocrStatus === 'complete' || p.ocrStatus === 'failed') && (
-                  <Link
-                    href={`/dashboard/reports/confirm/${p.reportId}`}
-                    className='font-medium text-primary underline'
-                  >
-                    Review results
-                  </Link>
-                )}
+                <Link
+                  href={`/dashboard/reports/confirm/${p.reportId}`}
+                  className='font-medium text-primary underline'
+                >
+                  Review results
+                </Link>
               </li>
             ))}
           </ul>
@@ -165,7 +161,7 @@ export function ParentDashboard({ data }: { data: DashboardSession }) {
         />
         <QuickLink
           title='Reports'
-          description='Upload and confirm school reports'
+          description='Enter and review school report results'
           href='/dashboard/reports'
         />
         <QuickLink

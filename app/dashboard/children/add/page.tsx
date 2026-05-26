@@ -25,8 +25,9 @@ export default async function AddChildPage() {
         Add a child
       </h1>
       <p className='mt-2 text-sm text-muted-foreground'>
-        Select a package, enter learner details, upload documents, and complete
-        payment. Each child requires their own subscription.
+        Select a package, enter learner details, and add their latest school report marks
+        marks (or upload a file), then complete payment. Each child requires
+        their own subscription.
       </p>
       <div className='mt-8 max-w-xl'>
         <AddChildWizard />
