@@ -1,7 +1,14 @@
 'use server';
 
 import { cookies } from 'next/headers';
-import { createHmac } from 'crypto';
+import {
+  ADMIN_SESSION_COOKIE,
+  signAdminSessionToken,
+} from '@/lib/admin-session-token';
+import {
+  formatSubjectLabels,
+  resolveLearnerSubjectIds,
+} from '@/lib/curriculum/learner-subjects';
 import { createServiceClient, isSupabaseConfigured } from '@/lib/supabase/server';
 import { createApplicationDocumentSignedUrl } from '@/lib/supabase/storage';
 import {
@@ -32,7 +39,6 @@ import type {
 export type { EnrollmentLeadFilters };
 import { revalidatePath } from 'next/cache';
 
-const SESSION_COOKIE = 'ilithiyana_admin_session';
 const SESSION_MAX_AGE = 60 * 60 * 24 * 7;
 
 export type ApplicationFilters = {
@@ -42,19 +48,6 @@ export type ApplicationFilters = {
   package_id?: string;
   status?: ApplicationStatus | '';
 };
-
-function getSessionSecret() {
-  return process.env.ADMIN_SESSION_SECRET || 'dev-secret-change-me';
-}
-
-function signSession(email: string): string {
-  const expires = Date.now() + SESSION_MAX_AGE * 1000;
-  const payload = `${email}:${expires}`;
-  const sig = createHmac('sha256', getSessionSecret())
-    .update(payload)
-    .digest('hex');
-  return `${Buffer.from(payload).toString('base64url')}.${sig}`;
-}
 
 export async function loginAdmin(
   email: string,
@@ -71,8 +64,9 @@ export async function loginAdmin(
     return { ok: false, error: 'Invalid email or password.' };
   }
 
-  const token = signSession(adminEmail);
-  cookies().set(SESSION_COOKIE, token, {
+  const token = await signAdminSessionToken(adminEmail, SESSION_MAX_AGE);
+  const cookieStore = await cookies();
+  cookieStore.set(ADMIN_SESSION_COOKIE, token, {
     httpOnly: true,
     secure: process.env.NODE_ENV === 'production',
     sameSite: 'lax',
@@ -84,7 +78,8 @@ export async function loginAdmin(
 }
 
 export async function logoutAdmin() {
-  cookies().delete(SESSION_COOKIE);
+  const cookieStore = await cookies();
+  cookieStore.delete(ADMIN_SESSION_COOKIE);
 }
 
 export async function listApplications(
@@ -240,7 +235,13 @@ export async function exportApplicationsCSV(
       app.status,
       app.province,
       app.package_id,
-      (app.subjects ?? []).join('; '),
+      formatSubjectLabels(
+        resolveLearnerSubjectIds(
+          app.subjects ?? [],
+          Number(snapshotStr(learner, 'grade')) || 10
+        ),
+        Number(snapshotStr(learner, 'grade')) || 10
+      ).join('; '),
       snapshotStr(parent, 'firstName'),
       snapshotStr(parent, 'lastName'),
       snapshotStr(parent, 'email'),

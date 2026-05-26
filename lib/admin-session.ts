@@ -11,7 +11,8 @@ function sign(value: string): string {
 
 export async function setAdminSession() {
   const token = sign('admin');
-  cookies().set(COOKIE_NAME, token, {
+  const cookieStore = await cookies();
+  cookieStore.set(COOKIE_NAME, token, {
     httpOnly: true,
     secure: process.env.NODE_ENV === 'production',
     sameSite: 'lax',
@@ -21,11 +22,13 @@ export async function setAdminSession() {
 }
 
 export async function clearAdminSession() {
-  cookies().delete(COOKIE_NAME);
+  const cookieStore = await cookies();
+  cookieStore.delete(COOKIE_NAME);
 }
 
 export async function isAdminAuthenticated(): Promise<boolean> {
-  const token = cookies().get(COOKIE_NAME)?.value;
+  const cookieStore = await cookies();
+  const token = cookieStore.get(COOKIE_NAME)?.value;
   if (!token) return false;
   const expected = sign('admin');
   try {

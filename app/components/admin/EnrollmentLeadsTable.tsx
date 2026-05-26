@@ -11,6 +11,10 @@ import {
 } from '@/components/ui/select';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { cn } from '@/lib/utils';
+import {
+  formatSubjectLabels,
+  resolveLearnerSubjectIds,
+} from '@/lib/curriculum/learner-subjects';
 import { packages, provinces } from '@/lib/site-config';
 import type {
   EnrollmentLeadRow,
@@ -213,7 +217,13 @@ export function EnrollmentLeadsTable({
                 </p>
                 <p>
                   <span className='text-muted-foreground'>Subjects:</span>{' '}
-                  {(lead.subjects ?? []).join(', ')}
+                  {formatSubjectLabels(
+                    resolveLearnerSubjectIds(
+                      lead.subjects ?? [],
+                      lead.learner_grade
+                    ),
+                    lead.learner_grade
+                  ).join(', ')}
                 </p>
                 <p className='text-xs text-muted-foreground'>
                   Created {format(new Date(lead.created_at), 'dd MMM yyyy HH:mm')}
