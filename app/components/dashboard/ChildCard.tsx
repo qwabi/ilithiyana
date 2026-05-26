@@ -1,4 +1,7 @@
+'use client';
+
 import Link from 'next/link';
+import { motion } from 'framer-motion';
 import { Calendar, FileText } from 'lucide-react';
 import { SyncLearnerScheduleButton } from '@/app/components/dashboard/SyncLearnerScheduleButton';
 import { subscriptionDisplayStatus } from '@/lib/parent-dashboard-utils';
@@ -38,9 +41,11 @@ export function ChildCard({ learner }: { learner: ChildrenPageLearner }) {
   );
 
   return (
-    <div
+    <motion.div
       className='rounded-xl border border-border border-t-4 border-t-primary
                  bg-white p-5 shadow-sm'
+      whileHover={{ y: -3, boxShadow: '0 8px 24px rgba(0,91,184,0.10)' }}
+      transition={{ duration: 0.2 }}
     >
       <div className='mb-3 flex items-start justify-between'>
         <div>
@@ -57,14 +62,17 @@ export function ChildCard({ learner }: { learner: ChildrenPageLearner }) {
 
       {subjectLabels.length > 0 ? (
         <div className='mb-4 flex flex-wrap gap-1.5'>
-          {subjectLabels.map((label) => (
-            <span
+          {subjectLabels.map((label, index) => (
+            <motion.span
               key={label}
+              initial={{ opacity: 0, scale: 0.85 }}
+              animate={{ opacity: 1, scale: 1 }}
+              transition={{ delay: index * 0.05 }}
               className='rounded-full bg-[hsl(210,100%,96%)] px-2 py-0.5
                          text-xs font-medium text-[hsl(210,100%,35%)]'
             >
               {label}
-            </span>
+            </motion.span>
           ))}
         </div>
       ) : null}
@@ -110,6 +118,6 @@ export function ChildCard({ learner }: { learner: ChildrenPageLearner }) {
           Reports
         </Link>
       </div>
-    </div>
+    </motion.div>
   );
 }

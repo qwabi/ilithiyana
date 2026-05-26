@@ -108,7 +108,7 @@ async function cancelDuplicateSubjectEnrollments(
   });
 }
 
-async function activeEnrollmentCount(
+export async function activeEnrollmentCount(
   supabase: ServiceClient,
   classId: string
 ): Promise<number> {
