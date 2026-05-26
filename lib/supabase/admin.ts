@@ -6,17 +6,22 @@ import type {
   ApplicationWithRelations,
   ClassRow,
   ContactMessageRow,
+  LearnerReportRow,
   LearnerRow,
   ParentRow,
+  PaymentRow,
   SubmitApplicationRpcArgs,
   SubmitContactMessageRpcArgs,
   SubscriptionFilters,
   SubscriptionRow,
   SubscriptionWithLearner,
   TimesheetFilters,
+  TutorDocumentRow,
+  TutorProfileRow,
   TutorRow,
   TutorTimesheetRow,
   TutorTimesheetWithTutor,
+  TutorVettingStatus,
 } from '@/lib/types/database';
 import { packageAmountCents } from '@/lib/payfast';
 

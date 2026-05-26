@@ -116,3 +116,71 @@ export async function sendSubscriptionReminderEmail(opts: {
   });
   return sendEmail({ to: opts.to, subject: tpl.subject, html: tpl.html });
 }
+
+export async function sendTutorVettingEmail(opts: {
+  to: string;
+  tutorName: string;
+  status: 'approved' | 'rejected';
+  reason?: string;
+}) {
+  const {
+    tutorVettingApprovedEmail,
+    tutorVettingRejectedEmail,
+  } = await import('@/lib/email/templates');
+  const site =
+    process.env.NEXT_PUBLIC_SITE_URL?.replace(/\/$/, '') || brand.siteUrl;
+
+  const tpl =
+    opts.status === 'approved'
+      ? tutorVettingApprovedEmail({
+          tutorName: opts.tutorName,
+          portalUrl: `${site}/tutor/dashboard`,
+        })
+      : tutorVettingRejectedEmail({
+          tutorName: opts.tutorName,
+          reason: opts.reason,
+        });
+
+  return sendEmail({ to: opts.to, subject: tpl.subject, html: tpl.html });
+}
+
+export async function sendTimesheetStatusEmail(opts: {
+  to: string;
+  tutorName: string;
+  monthPeriod: string;
+  status: 'approved' | 'rejected';
+  amountCents?: number;
+  notes?: string;
+}) {
+  const { timesheetApprovedEmail, timesheetRejectedEmail } = await import(
+    '@/lib/email/templates'
+  );
+  const amount =
+    opts.amountCents != null
+      ? `R${(opts.amountCents / 100).toFixed(2)}`
+      : '';
+
+  const tpl =
+    opts.status === 'approved'
+      ? timesheetApprovedEmail({
+          tutorName: opts.tutorName,
+          monthPeriod: opts.monthPeriod,
+          amount,
+        })
+      : timesheetRejectedEmail({
+          tutorName: opts.tutorName,
+          monthPeriod: opts.monthPeriod,
+          notes: opts.notes,
+        });
+
+  return sendEmail({ to: opts.to, subject: tpl.subject, html: tpl.html });
+}
+
+export async function sendTutorApplicationReceivedEmail(opts: {
+  to: string;
+  tutorName: string;
+}) {
+  const { tutorApplicationReceivedEmail } = await import('@/lib/email/templates');
+  const tpl = tutorApplicationReceivedEmail({ tutorName: opts.tutorName });
+  return sendEmail({ to: opts.to, subject: tpl.subject, html: tpl.html });
+}
