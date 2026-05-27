@@ -11,18 +11,23 @@ import {
   nscLevel,
   nscDescriptor,
 } from '@/lib/curriculum/subjects';
-import { saveManualReport } from '@/app/actions/report-actions';
+import {
+  saveManualReport,
+  saveOnboardingManualReport,
+} from '@/app/actions/report-actions';
 import toast from 'react-hot-toast';
 
 const TERMS = ['Term 1', 'Term 2', 'Term 3', 'Term 4', 'Year End'];
 
 export function ReportEntryInline({
+  sessionId,
   learnerId,
   learnerName,
   grade,
   onSaved,
   onSkip,
 }: {
+  sessionId?: string;
   learnerId: string;
   learnerName: string;
   grade: number;
@@ -59,12 +64,20 @@ export function ReportEntryInline({
     }
 
     startTransition(async () => {
-      const result = await saveManualReport({
-        learnerId,
-        term,
-        academicYear: year,
-        rows: parsed,
-      });
+      const result = sessionId
+        ? await saveOnboardingManualReport({
+            sessionId,
+            learnerId,
+            term,
+            academicYear: year,
+            rows: parsed,
+          })
+        : await saveManualReport({
+            learnerId,
+            term,
+            academicYear: year,
+            rows: parsed,
+          });
       if (!result.ok) {
         toast.error(result.error);
         return;
