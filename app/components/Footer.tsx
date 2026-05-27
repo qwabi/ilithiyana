@@ -1,108 +1,85 @@
 import Link from 'next/link';
-import { Facebook, Mail, Phone } from 'lucide-react';
+import { Mail, Phone, GraduationCap } from 'lucide-react';
+import { brand, contact, footerSections } from '@/lib/site-config';
 
 const Footer = () => {
   return (
-    <footer className='bg-primary text-white py-8'>
+    <footer className='bg-primary-dark py-14 font-sans text-primary-foreground'>
       <div className='container mx-auto px-4'>
-        <div className='flex flex-wrap justify-between'>
-          <div className='w-full md:w-1/4 mb-6 md:mb-0'>
-            <h3 className='text-2xl font-bold mb-4'>Ilithiyana Group</h3>
-            <p>Registration Number: 2020/652431/07</p>
+        <div className='flex flex-wrap justify-between gap-10'>
+
+          {/* Brand */}
+          <div className='w-full md:w-1/4'>
+            <div className='mb-4 flex items-center gap-2'>
+              <div className='flex h-9 w-9 items-center justify-center rounded-full bg-primary'>
+                <GraduationCap className='h-5 w-5 text-white' />
+              </div>
+              <span className='font-display text-2xl'>
+                <span className='text-white'>Ilithiyana</span>{' '}
+                <span className='text-secondary'>Academics</span>
+              </span>
+            </div>
+            <p className='mb-2 text-sm text-primary-foreground/75'>{brand.tagline}</p>
+            <p className='text-xs text-primary-foreground/50'>
+              Reg. {brand.registrationNumber}
+            </p>
           </div>
-          <div className='w-full md:w-1/4 mb-6 md:mb-0'>
-            <h4 className='text-lg font-semibold mb-4'>Quick Links</h4>
-            <ul className='space-y-2'>
-              <li>
-                <Link
-                  href='/'
-                  className='hover:text-secondary transition-colors'
-                >
-                  Home
-                </Link>
-              </li>
-              <li>
-                <Link
-                  href='/about'
-                  className='hover:text-secondary transition-colors'
-                >
-                  About Us
-                </Link>
-              </li>
-              <li>
-                <Link
-                  href='/academics'
-                  className='hover:text-secondary transition-colors'
-                >
-                  Academics
-                </Link>
-              </li>
-              <li>
-                <Link
-                  href='/vehicle-care'
-                  className='hover:text-secondary transition-colors'
-                >
-                  Vehicle Care
-                </Link>
-              </li>
-              <li>
-                <Link
-                  href='/infrastructure'
-                  className='hover:text-secondary transition-colors'
-                >
-                  Infrastructure Services
-                </Link>
-              </li>
-              <li>
-                <Link
-                  href='/contact'
-                  className='hover:text-secondary transition-colors'
-                >
-                  Contact Us
-                </Link>
-              </li>
-                          <li>
-                <Link href="/about-developer" className="hover:text-current transition-colors">About the developer</Link>
-              </li>
-            </ul>
-          </div>
-          <div className='w-full md:w-1/4 mb-6 md:mb-0'>
-            <h4 className='text-lg font-semibold mb-4'>Contact Us</h4>
-            <div className='space-y-2'>
-              <p className='flex items-center'>
-                <Mail className='mr-2' />
-                <a
-                  href='mailto:info@ilithiyana.co.za'
-                  className='hover:text-secondary transition-colors'
-                >
-                  info@ilithiyana.co.za
-                </a>
-              </p>
-              <p className='flex items-center'>
-                <Phone className='mr-2' />
-                <a
-                  href='tel:0650310714'
-                  className='hover:text-secondary transition-colors'
-                >
-                  065 031 0714
-                </a>
-              </p>
+
+          {/* Link sections */}
+          <div className='w-full lg:flex-1'>
+            <div className='grid grid-cols-2 gap-x-8 gap-y-8 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5'>
+              {footerSections.map((section) => (
+                <div key={section.title}>
+                  <h4 className='mb-4 text-xs font-bold uppercase tracking-widest text-primary-foreground/50'>
+                    {section.title}
+                  </h4>
+                  <ul className='space-y-2.5 text-sm'>
+                    {section.links.map((link) => (
+                      <li key={link.href}>
+                        <Link
+                          href={link.href}
+                          className='text-primary-foreground/70 transition-colors hover:text-secondary'
+                        >
+                          {link.label}
+                        </Link>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              ))}
             </div>
           </div>
+
+          {/* Contact */}
           <div className='w-full md:w-1/4'>
-            <h4 className='text-lg font-semibold mb-4'>Follow Us</h4>
-            <div className='flex space-x-4'>
-              <a href='#' className='hover:text-secondary transition-colors'>
-                <Facebook />
-              </a>
+            <h4 className='mb-4 text-xs font-bold uppercase tracking-widest text-primary-foreground/50'>
+              Contact
+            </h4>
+            <div className='space-y-3 text-sm'>
+              <p className='flex items-center gap-2'>
+                <Mail className='h-4 w-4 shrink-0 text-secondary' />
+                <a
+                  href={`mailto:${contact.email}`}
+                  className='text-primary-foreground/70 transition-colors hover:text-secondary'
+                >
+                  {contact.email}
+                </a>
+              </p>
+              <p className='flex items-center gap-2'>
+                <Phone className='h-4 w-4 shrink-0 text-secondary' />
+                <a
+                  href={`tel:${contact.phoneTel}`}
+                  className='text-primary-foreground/70 transition-colors hover:text-secondary'
+                >
+                  {contact.phone}
+                </a>
+              </p>
             </div>
           </div>
         </div>
-        <div className='mt-8 text-center'>
-          <p>
-            &copy; {new Date().getFullYear()} Ilithiyana (Pty) Ltd. All rights
-            reserved.
-          </p>
+
+        <div className='mt-10 border-t border-white/10 pt-6 text-center text-xs text-primary-foreground/40'>
+          &copy; {new Date().getFullYear()} {brand.legalName}. All rights reserved.
         </div>
       </div>
     </footer>

@@ -4,20 +4,28 @@
 
 @layer base {
   :root {
+    --font-display: "DM Serif Display", serif;
+    --font-sans: "Plus Jakarta Sans", sans-serif;
+
     --background: 0 0% 100%;
     --foreground: 222.2 84% 4.9%;
 
-    /* Ilithiyana brand colors */
-    --primary: 210 100% 35%; /* Deep blue */
+    --primary: 210 100% 35%;
     --primary-foreground: 210 40% 98%;
+    --primary-dark: 210 100% 20%;
+    --primary-light: 210 100% 94%;
 
-    --secondary: 45 100% 50%; /* Gold */
-    --secondary-foreground: 222.2 47.4% 11.2%;
+    --secondary: 45 100% 50%;
+    --secondary-foreground: 45 100% 14%;
+    --secondary-light: 45 100% 93%;
 
-    --accent: 180 100% 35%; /* Turquoise */
-    --accent-foreground: 222.2 47.4% 11.2%;
+    --accent: 180 100% 35%;
+    --accent-foreground: 0 0% 100%;
+    --accent-light: 180 100% 93%;
+    --accent-dark: 180 100% 20%;
 
     --light-blue: 199 100% 62%;
+    --light-blue-light: 199 100% 93%;
 
     --card: 0 0% 100%;
     --card-foreground: 222.2 84% 4.9%;
@@ -33,9 +41,9 @@
 
     --border: 214.3 31.8% 91.4%;
     --input: 214.3 31.8% 91.4%;
-    --ring: 222.2 84% 4.9%;
+    --ring: 210 100% 35%;
 
-    --radius: 0.75rem;
+    --radius: 0.5rem;
   }
 }
 
@@ -43,9 +51,160 @@
   * {
     @apply border-border;
   }
+
   body {
-    @apply bg-background text-foreground antialiased;
-    padding-top: 5rem;
+    @apply bg-background text-foreground antialiased font-sans;
+    font-family: var(--font-sans);
+  }
+}
+
+@layer components {
+  .font-display {
+    font-family: var(--font-display);
+  }
+
+  .font-sans {
+    font-family: var(--font-sans);
+  }
+
+  .hero-headline {
+    @apply font-display text-4xl md:text-5xl lg:text-6xl leading-[1.1] text-primary-dark;
+  }
+
+  .section-heading {
+    @apply font-display text-3xl md:text-4xl leading-tight text-foreground;
+  }
+
+  .subsection-heading {
+    @apply font-display text-2xl md:text-3xl leading-tight text-foreground;
+  }
+
+  .overline {
+    @apply font-sans text-xs md:text-sm font-semibold uppercase tracking-[0.2em] text-secondary-foreground;
+  }
+
+  .section-lead {
+    @apply font-sans text-lg md:text-xl leading-relaxed text-muted-foreground;
+  }
+
+  .body-text {
+    @apply font-sans text-base leading-relaxed text-foreground;
+  }
+
+  .stat-value {
+    @apply font-display text-4xl md:text-5xl text-primary;
+  }
+
+  .stat-label {
+    @apply font-sans text-sm font-medium text-muted-foreground;
+  }
+
+  .card-accent-blue {
+    @apply border-t-[3px] border-t-primary;
+  }
+
+  .card-accent-gold {
+    @apply border-t-[3px] border-t-secondary;
+  }
+
+  .card-accent-teal {
+    @apply border-t-[3px] border-t-accent;
+  }
+
+  .card-accent-sky {
+    @apply border-t-[3px] border-t-light-blue;
+  }
+
+  .blob-shape {
+    border-radius: 60% 40% 30% 70% / 60% 30% 70% 40%;
+  }
+
+  .nav-link-animated {
+    @apply relative;
+  }
+
+  .nav-link-animated::after {
+    content: "";
+    @apply absolute -bottom-0.5 left-0 h-0.5 w-full origin-left scale-x-0 bg-primary transition-transform duration-300 ease-out;
+  }
+
+  .nav-link-animated:hover::after,
+  .nav-link-animated[data-active="true"]::after {
+    @apply scale-x-100;
+  }
+
+  .badge-shimmer {
+    @apply relative overflow-hidden;
+  }
+
+  .badge-shimmer::after {
+    content: "";
+    @apply pointer-events-none absolute inset-0;
+    background: linear-gradient(
+      105deg,
+      transparent 35%,
+      rgba(255, 255, 255, 0.4) 50%,
+      transparent 65%
+    );
+    transform: translateX(-120%);
+    animation: badgeShimmer 2.8s ease-in-out infinite;
+  }
+
+  .img-hover-zoom {
+    @apply overflow-hidden;
+  }
+
+  .img-hover-zoom img {
+    @apply transition-transform duration-500 ease-out;
+  }
+
+  .group.img-hover-zoom:hover img {
+    @apply scale-105;
+  }
+
+  @keyframes wiggle {
+    0%,
+    100% {
+      transform: rotate(-2deg);
+    }
+    50% {
+      transform: rotate(2deg);
+    }
+  }
+
+  .animate-wiggle {
+    animation: wiggle 3s ease-in-out infinite;
+  }
+
+  @keyframes bounceIn {
+    0% {
+      transform: scale(0.8);
+      opacity: 0;
+    }
+    70% {
+      transform: scale(1.05);
+      opacity: 1;
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+
+  .animate-bounce-in {
+    animation: bounceIn 0.5s ease-out forwards;
+  }
+
+  .wave-bottom::after {
+    content: "";
+    display: block;
+    height: 60px;
+    background: inherit;
+    clip-path: ellipse(55% 100% at 50% 0%);
+    position: absolute;
+    bottom: -59px;
+    left: 0;
+    right: 0;
+    z-index: 1;
   }
 }
 
@@ -66,24 +225,57 @@
     transform: scale(1.05);
   }
 
-  .gradient-text {
-    @apply bg-gradient-to-r from-primary via-accent to-secondary bg-clip-text text-transparent;
-  }
-
-  .hover-glow {
-    @apply transition-all duration-300 hover:shadow-lg hover:shadow-primary/20;
-  }
-
   .animate-float {
     animation: float 3s ease-in-out infinite;
   }
 
-  .animate-pulse {
+  .animate-pulse-soft {
     animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
   }
 
-  .btn-visible {
-    @apply bg-primary text-white hover:bg-primary/90;
+  .img-hover-zoom {
+    overflow: hidden;
+  }
+
+  .img-hover-zoom img {
+    transition: transform 0.5s ease;
+  }
+
+  .img-hover-zoom:hover img {
+    transform: scale(1.04);
+  }
+
+  @keyframes skeleton-shimmer {
+    0% {
+      background-position: -200% 0;
+    }
+    100% {
+      background-position: 200% 0;
+    }
+  }
+
+  .skeleton-shimmer {
+    background: linear-gradient(
+      90deg,
+      hsl(var(--muted)) 25%,
+      hsl(var(--border)) 50%,
+      hsl(var(--muted)) 75%
+    );
+    background-size: 200% 100%;
+    animation: skeleton-shimmer 1.8s ease-in-out infinite;
+  }
+
+  @keyframes spin-slow {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+
+  .spin-slow {
+    animation: spin-slow 8s linear infinite;
   }
 }
 
@@ -119,6 +311,16 @@
   }
 }
 
+@keyframes badgeShimmer {
+  0%,
+  100% {
+    transform: translateX(-120%);
+  }
+  50% {
+    transform: translateX(120%);
+  }
+}
+
 @keyframes pulse {
   0%,
   100% {
@@ -129,34 +331,185 @@
   }
 }
 
+@keyframes wiggle {
+  0%,
+  100% {
+    transform: rotate(-8deg) scale(1.05);
+  }
+  50% {
+    transform: rotate(8deg) scale(1.1);
+  }
+}
+.animate-wiggle {
+  animation: wiggle 2.5s ease-in-out infinite;
+}
+
+@keyframes bounceIn {
+  0% {
+    transform: scale(0.7);
+    opacity: 0;
+  }
+  70% {
+    transform: scale(1.08);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+.animate-bounce-in {
+  animation: bounceIn 0.45s ease-out forwards;
+}
+
 html {
   scroll-behavior: smooth;
 }
 
-/* Add padding-top to main content */
 main {
-  @apply pt-0;
+  @apply pt-0 bg-background;
 }
 
-/* Style forms */
 form {
-  @apply shadow-lg border border-gray-200 rounded-lg p-6;
+  @apply border border-border rounded-lg p-6;
 }
 
-/* Center full-page forms */
 .full-page-form {
   @apply w-full mx-auto;
 }
 
-/* Two-column grid for form inputs */
 .form-grid {
   @apply grid md:grid-cols-2 gap-4;
 }
 
-/* Add padding for mobile and tablet devices */
 @media (max-width: 1024px) {
   .container {
     padding-left: 1rem;
     padding-right: 1rem;
+  }
+}
+
+/* Improved skeleton shimmer (replaces plain pulse) */
+@keyframes skeleton-shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+.skeleton-shimmer {
+  background: linear-gradient(
+    90deg,
+    hsl(var(--muted)) 25%,
+    hsl(var(--border)) 50%,
+    hsl(var(--muted)) 75%
+  );
+  background-size: 200% 100%;
+  animation: skeleton-shimmer 1.8s ease-in-out infinite;
+}
+
+/* Nav underline animation (used in navbar) */
+.nav-link-animated {
+  position: relative;
+}
+
+.nav-link-animated::after {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background: hsl(var(--primary));
+  transition: width 0.25s ease;
+  border-radius: 2px;
+}
+
+.nav-link-animated:hover::after,
+.nav-link-animated[data-active='true']::after {
+  width: 100%;
+}
+
+/* Image hover zoom utility */
+.img-hover-zoom {
+  overflow: hidden;
+}
+
+.img-hover-zoom img {
+  transition: transform 0.5s ease;
+}
+
+.img-hover-zoom:hover img {
+  transform: scale(1.04);
+}
+
+/* Badge shimmer */
+@keyframes shimmer-badge {
+  0% {
+    background-position: -200% center;
+  }
+  100% {
+    background-position: 200% center;
+  }
+}
+
+.badge-shimmer {
+  background: linear-gradient(
+    90deg,
+    hsl(var(--secondary)) 0%,
+    hsl(45, 100%, 65%) 50%,
+    hsl(var(--secondary)) 100%
+  );
+  background-size: 200% auto;
+  animation: shimmer-badge 3s linear infinite;
+  -webkit-background-clip: text;
+  background-clip: text;
+}
+
+/* Smooth page entry */
+@keyframes page-enter {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.page-enter {
+  animation: page-enter 0.35s ease-out both;
+}
+
+/* Tutor vetting clock */
+@keyframes spin-slow {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.spin-slow {
+  animation: spin-slow 8s linear infinite;
+}
+
+@media print {
+  body {
+    padding-top: 0;
+  }
+
+  nav,
+  footer,
+  .checklist-no-print {
+    display: none !important;
+  }
+
+  .checklist-document {
+    max-width: 100%;
+    padding: 0;
   }
 }

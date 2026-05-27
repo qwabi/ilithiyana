@@ -1,0 +1,443 @@
+# Meeting Transcription
+
+  Meeting started: 24/05/2026, 13:40:27
+  Duration: 77 minutes
+  Participants: Ayabonga Qwabi, Masande Dudula
+
+  [View original transcript](https://app.tactiq.io/api/2/u/m/r/usjo1jGhgSR6jdXuwKNL?o=txt)
+
+    ## Detailed summary with citation
+
+# Meeting Summary
+
+## Current website and application flow
+- The current website is mainly informational and does not yet accept applications directly, so parents are sent a PDF application form instead. Parents either print and fill it out or complete it digitally, then send it back with payment details. [08:50]
+- The manual application process creates extra admin work because the information from returned forms is scanned or emailed, then manually entered into Excel and filtered by the team. [11:13]
+- A key goal is to move the application process onto the website so that parent, learner, school, location, grade, and other details are captured directly and stored safely in a system instead of being retyped. [11:13] [23:16]
+
+## Payments and subscription handling
+- The current model is package-based, with parents paying for lesson bundles rather than a true subscription; parents must be reminded manually when a new payment cycle starts. [09:39] [10:22]
+- There was discussion of adding recurring billing, but the parent may not always want to pay every month, especially during holidays, so flexibility is important. [10:22] [12:23]
+- Two payment approaches were discussed: PayFast for recurring billing and a reminder-based flow using Yoco plus notifications. It was clarified that the current setup relies more on EFT than card payments, so PayFast or another EFT-friendly gateway is needed. [12:44] [14:25] [14:59]
+- A lower-cost reminder strategy was preferred for now: payment reminders can be sent manually, or later automated by email, WhatsApp, or SMS. Email was identified as the most practical and cheapest option. [16:00] [16:27] [17:08]
+
+## Parent reminders and communication
+- WhatsApp reminders were considered, but the cost and need for a Twilio subscription made it less attractive for the current scale of the business. [15:28]
+- The preferred short-term approach is to send payment reminder messages manually via WhatsApp because the number of parents is still relatively small. [16:00]
+- Email reminders were highlighted as a free or low-cost option, with a service that can handle up to a high monthly volume, which is more than enough for the current needs. [16:27]
+
+## Database, CRM, and data management
+- A major pain point is the need to capture application data once and keep it in a structured database, instead of repeatedly copying it into spreadsheets. [11:43] [17:31]
+- The proposed solution is to build a database-backed system where applicants become users, their data is stored centrally, and both parents and administrators can view relevant information after logging in. [18:17]
+- The system should include separate pages for children, parents, subscriptions, and applications, with clear statuses such as paid, pending, or confirmed. Exporting to Excel or PDF should also be possible. [19:03] [19:40] [20:09]
+- The purpose of this is not just administration, but also long-term CRM-style relationship management and remarketing to families later if needed. [18:17]
+
+## Scheduling classes and virtual delivery
+- Classes are currently scheduled using Google Meet and Google Calendar, with recurring events created manually each week and links copied into the virtual classroom area. This process is time-consuming. [24:18] [24:58]
+- The long-term vision is for students to log into the platform and see their schedule, the classes they need to attend, the tutor responsible, and ideally a join link that appears when it is time for class. [38:51] [39:14]
+- The current workflow uses Google Meet notifications and the host receives alerts when a class is about to start, then manually checks whether the session happened. [39:42] [40:25]
+
+## Application criteria, allocation, and learner grouping
+- Applications are always open, with no fixed closing date, and are submitted continuously throughout the term. [25:33] [25:52]
+- When applications are received, the learner is allocated mainly by grade, level, and subject choice. Grade and level are the main factors used to place learners quickly into the right classes. [26:16] [26:49]
+- The business groups learners into very small classes, usually a tutor-to-learner ratio of 1:3, and sometimes fewer depending on demand. [21:10] [21:50]
+- Learners are also grouped by subject and level, and the platform should eventually automate this allocation from the application form instead of doing it manually. [26:49] [27:39] [23:16]
+- The application form includes parental details, learner details, school name, grade, subjects, package selection, and supporting documents such as the latest academic report and proof of payment. [49:11] [49:49]
+- The business rejects some applications when the requested subject is not offered, such as accounting or geography, since the service only covers selected subjects. [54:43] [55:29]
+
+## Packages, pricing, and revenue model
+- Two packages were discussed: Package A as the recommended full package, and Package B as an exam-prep-oriented option. [56:30]
+- Package A was described as a monthly plan that includes eight lessons and some additional career guidance sessions. Package B is a lighter plan, paid per lesson or structured differently for exam preparation. [56:30] [57:58]
+- Pricing is currently flat across subjects and levels, though this may change in future as the business expands into different school phases. [59:14] [59:43]
+- The tutor rate is also flat per session, with tutors paid hourly/session-based rather than per learner. [01:00:03]
+
+## Tutor management and payroll
+- Tutors currently submit monthly timesheets or log sheets covering the period from the 26th of one month to the 25th of the next. Each class is logged and multiplied by the agreed session rate. [32:23] [33:57]
+- These sheets are treated like invoices, and the calculated amount is what tutors get paid at month end. [35:21] [36:02]
+- The business wants to automate tutor submission and approval so that the system can collect session data, send it to the admin for review, and allow approve/reject workflows with resubmission if needed. [43:28] [43:59]
+- There is interest in integrating this workflow with SMEasy so that once payments or session data are approved, it can feed into finance and accounting records automatically. [01:01:27] [01:02:00]
+
+## User roles and system access
+- The intended user roles are parents, learners, tutors, and the admin team. [38:39] [38:52]
+- Tutors are currently using their own Gmail accounts, but the business wants them to have organization-managed accounts for better control and security. [41:27] [42:10]
+- The admin wants central visibility over finance, subscriptions, parents, and learners from one console, instead of managing everything through scattered tools. [42:10] [42:52]
+
+## Documents and onboarding
+- Parents are generally required to submit only the application form, the learner’s school report, and proof of payment; no ID copy is needed. [44:24] [44:55]
+- The application form captures the parent/guardian name, contact number, email, learner age, school name, current grade, subjects, package choice, and other required details. [49:11] [49:49]
+- The team also runs a short onboarding session of about 30 minutes to help parents understand how the online learning process works and how to access class links. [50:49] [51:39]
+
+## Reporting and progress tracking
+- Tutors are expected to produce term reports summarizing learner performance, progress, strengths, and weaker areas. [52:49] [53:17]
+- The business does not use formal exams; instead, it assesses learners by performance and subject-level progress. [53:46]
+
+## Marketing and growth
+- A major business concern is marketing and getting the service in front of more people, since the concept has already been proven and the main challenge is awareness. [01:06:33] [01:07:08]
+- A suggested growth strategy was to earn backlinks and credibility from schools, universities, and education-sector websites by having them write about the service and link to the site. [01:14:37] [01:16:24]
+- The discussion ended with a plan for ongoing collaboration rather than a one-off build, so the product and marketing foundation can be improved over time. [01:07:34] [01:08:51]
+
+  
+
+  
+    ## Highlights
+
+    > 10:22 Masande Dudula: Okay, the lessons on Donna, and then if you wish to continue, we have to process the payment they're not supposed. So, if there was an option for a subscription so that it automatically subscribes with Quebec for the entire year. Then, that would be the ideal, but also giving them that. Um, they decide. Okay, I want to continue. Now, I want to. I don't want to continue when it's holidays. Some kids would opt not to have a classes, especially all grade 10, because, like EO day, and then. That's why, before that month, and then Apple after June. To pay the payments manually. But the issue that I'm getting application. It's.
+> 14:59 Ayabonga Qwabi: also around the EFT payment issue.
+> 15:18 Ayabonga Qwabi: Yeah, yeah, so we can do payments like that? But then there's the issue of if we have to remind parents via SMS.
+> 18:50 Ayabonga Qwabi: So, whenever payment is due, if a payment is due on there on their on their subscription, they will see it on the textbook app payment is Jew, and then they click the pay button, and then they pay immediately there.
+> 22:39 Masande Dudula: shooter. No great 11 people and create so. We call them both classrooms so that your own the shake, your love classes, and all of that Michelle Empire. But I do want something simple? There's something that post speak to that, so that because I, as the long term goal or the
+> 23:16 Masande Dudula: So? Yeah, so yes, the WhatsApp, I mean, the the Excel, that's the? The information or the data that I get from the PDF? That documents, then I would then. Translate manually. Create the columns manually and the filters. That's what I want to remove when they submit the application. It already filters them based on location. Great performance.
+> 25:33 Masande Dudula: They're always open Asana closing date open date. Okay, now the applications are opening at the theme of the. That's why we received.
+> 30:34 Ayabonga Qwabi: And how do you currently assign tutors to a class?
+> 35:14 Masande Dudula: Okay, so this is the spreadsheet that the tutors submit every month.
+> 35:21 Masande Dudula: So, this is for April, so. All the classes. Anna. So, from the 26th. Oops! From the 26, uh, to the 25th of April. So, for physical Sciences 27, which was one session, it multiplies by 200, and then it's about. And then I get that total. That device control charge. I gave them e e tablets, which they are. Basically paying them back to own them at a later stages. Probably so that 1092 run is what the tutor will be paid, so they basically submit these spreadsheets
+> 37:09 Masande Dudula: So, Nalena, all of its things that we are currently doing, work towards building something they throw, because execiation he is. So, the steam would lower gate actually, and if that session happened, it logs it as a one so that it sends me. The spreadsheet was okay, Jesus, the salaries that is due for the month of.
+> 43:03 Ayabonga Qwabi: Okay. Yeah, now I hear you. We can definitely make it possible for whenever the tutors want to submit for the month. It also when they submit, uh to, in order to get payment, they can, uh. Well, actually. Actually, I don't think they will need. To submit themselves, we can make it automated.
+> 50:16 Masande Dudula: So this game always what I wanted is? To sub an eye on the website organia on the PDF, where you can just click the good name. I mean good names and type it in with labtopia orphania. And it again and? Email it again. So, as soon as you are a, you finish filling in this information and clicking submit will receive it from our side on the website.
+> 53:17 Masande Dudula: Also, the parent would then have to submit after that term, so that even Club
+> 59:43 Masande Dudula: Based on the grade and all of that. A high school or efet, we're going to have a different package for fft that is
+> 01:02:00 Masande Dudula: Yeah, 280. But same. I enjoy their services because languard incisions are manually. Income, statements, and all of that sales into when it comes to SAS. I just downloaded us into. It also links to my to my bank account, so all the transactions income and explaining makes it so, so nice. Just trying to look for? One. One case lead. So that you just see the? So all I do input on the pay slip is just the income, which will be the. The raids for that month, and then the expenditure will be the device, uh. Deductions in the news ballet and then. You click submit and then.
+> 01:02:59 Masande Dudula: Okay, just get an email, which is protected by their ID numbers. All of those
+> 01:06:52 Masande Dudula: Because Israel is is marketing because this is a it's a world old machine, we've
+> 01:12:49 Ayabonga Qwabi: Section about the business, then section. Number two is the student application process and then section number. It's parent payments and then section number four, it's class scheduling, and then section number five is shooter assignment and management. Then, session number six is roles, access, and delivery.
+
+  ## Transcript
+
+  00:00 Ayabonga Qwabi: De.
+07:59 Masande Dudula: All right.
+08:09 Ayabonga Qwabi: Uh, we can go through the stuff left try and keeping in English so that you can capture. I'm using a plugin here that is gonna try. Transcript the whole meeting from you, and if I take notes, no. Okay, wait, I'm gonna ask you a couple of questions. Um. Can you tell me about your current process? What do you do? How do you capture students? And watch your website is showing and how do you use your current website right now?
+08:50 Masande Dudula: Okay, so the current website was was basically for information when when I have said it because? I think that part here application was not transferring or sending things.
+09:00 Ayabonga Qwabi: Hi, I'm transcribing this call with my Tactiq AI Extension. https://tactiq.io/r/transcribing
+09:06 Masande Dudula: So, I was, like, I, I think we did Drew a party application was not sending through information. So, what we would talk and walk if? We reply with the application form, which will be a PDF and then the parent would either print it and fill it in Japan. They fill it in on. They have adopt, and then they send it through, and then they. The application form also has e banking details.
+09:39 Masande Dudula: So, based on the package that they're doing, which most of them would do a package a. Which is a thousand Rand for eight lessons, so low process a Thousand. And then based on air payment. Time, which most of them is usually month end. I think there's full about 15. So I would share you all the classes of the letter to stretch out the whole month, which was the true classes or two lessons a week, which are then last them for a month, so that by the time Google, they are then processing the subscription again, because it's not a subscription thing. I would have to remind them.
+10:22 Masande Dudula: Okay, the lessons on Donna, and then if you wish to continue, we have to process the payment they're not supposed. So, if there was an option for a subscription so that it automatically subscribes with Quebec for the entire year. Then, that would be the ideal, but also giving them that. Um, they decide. Okay, I want to continue. Now, I want to. I don't want to continue when it's holidays. Some kids would opt not to have a classes, especially all grade 10, because, like EO day, and then. That's why, before that month, and then Apple after June. To pay the payments manually. But the issue that I'm getting application. It's.
+11:13 Masande Dudula: Or on the website itself so that it sends the information directly safely based on the application sections. The name, the same name, the name of the school, the parent, the location where they live so that yeah, or based on region. But okay, this is the profit. This is the province where we have footprint. These are the grades that mostly apply to diesel. Inside is data because currently, it's a manual thing way.
+11:43 Masande Dudula: I get the application form. Felicia, which is a PDF that was scanned again, is the email addresses as. And I need to punch that manually on my Excel sheet essentialing, where I've got the different filters. So, if you know all to made that process, so it's mostly. My pain points is that application? Gathering that just seamlessly and the the pay gate options, but okay? Do they fill in the application on the website and they make the payments on the website and the option to subscribe?
+12:23 Ayabonga Qwabi: Okay, okay. Um, the way is to to to to collect payments in South Africa. Prime minister. They are reoccurring. But then, you mentioned that the parents might not want to pay for certain months. For example, when it's on holidays.
+12:41 Masande Dudula: Yes.
+12:44 Ayabonga Qwabi: So, I have two suggestions. That you might require your your input. The first one is pay fast. There's a there's a Gateway in South Africa called payfest, and they do
+12:55 Masande Dudula: Okay.
+12:59 Ayabonga Qwabi: recurring, uh, Billings. So, if you create if you have a subscription on your website and you would like to? Create a greater way to to to charge the client on a monthly regular basis. As possible, and we use pay fast for that. But you need to sign up on pay first, and you need to have a registered business. I mean, then you need to provide them with your FICA documentation and stuff like that, like your CIPC documentation.
+13:31 Masande Dudula: Okay.
+13:32 Ayabonga Qwabi: And then there's option number two that the option number two is Yoko. Um, Yoko doesn't do recurring payments, but I suppose we can do something for you. That is going to remind the parents when it's their payment date. So, payment date. We can send the WhatsApp message to the parents.
+13:51 Masande Dudula: Okay.
+13:55 Ayabonga Qwabi: By telling them that it's time for them to to make a payment on their on their subscription at Ely TR. Or, we can send an SMS, or we can send an email. Those are the things that we can do with your can also process payments, but your core process is card. It means only your code doesn't process EFT payment, but payfest does. Sorry.
+14:25 Masande Dudula: Yeah, no, because fast, it's mostly. In fact, it's only EFT payment. Since we are virtual, we don't have like a store where parents would have to go and and meet us physical, so the card payment option is out here.
+14:39 Ayabonga Qwabi: Okay, so, so then we can. We can try and use, uh, pay fast, but then we can also try and use also. There's also as well also also supports EFT actually. Also, also has better support for EFT payments. Uh, they support instant efts and stuff like that. There's a lot of options with
+14:55 Masande Dudula: Okay.
+14:59 Ayabonga Qwabi: also around the EFT payment issue.
+15:05 Ayabonga Qwabi: So we can either use them or we can either use pay fast. I will share some links at the end of this message so that you can check. Also and pay fast. So?
+15:15 Masande Dudula: Okay, I love it. It's perfect.
+15:18 Ayabonga Qwabi: Yeah, yeah, so we can do payments like that? But then there's the issue of if we have to remind parents via SMS.
+15:28 Ayabonga Qwabi: Or Whatsapp. It's going to be a bit costly. You're going to need a twilio subscription. There's a website called twilio. Which they offer is the offer services on WhatsApp and SMSing. What you do is you buy a number that is from South Africa, and that number you can use it for your business to send smss to your clients. Or, you can use it for WhatsApp to send WhatsApp notifications to your client. But if you're going to send
+15:57 Masande Dudula: Now, I see.
+15:59 Ayabonga Qwabi: WhatsApp? Huh?
+16:00 Masande Dudula: I think for now, we'll do it in Italian because we don't have a lot of numbers like a lot of subscriptions. It's, it's something that we can do manually encloe to Whatsapp. Like the reminders to say, okay. Um, yeah, it's. It's that time where they need to subscribe because we don't have a lot of parents for this term only F6.
+16:27 Ayabonga Qwabi: Okay, and then there's. There's also the said option now, but I don't know how, how, how, how much your clients the parents use emails? The the the email option is basically free. We can use a program called to resend emails. They have they say they have like a limit of 3000 emails pay month, so I don't think I don't think you send 3000 emails per month so?
+16:57 Masande Dudula: Yeah, no, I don't.
+16:58 Ayabonga Qwabi: Yeah, so whenever a parent has has to be reminded of their payment or subscription, we can send them a notification via emails.
+17:08 Masande Dudula: Okay, okay, oh, that one will work.
+17:09 Ayabonga Qwabi: Yeah, and that. Yeah, that option is basically free. And, uh, yeah. So, it's, it's this payment gauge. It's either, which choose Payfest, or also, and then we can do reminders for parents via emails.
+17:25 Masande Dudula: Okay. No, I think that one that one will be fine. And then, like, what's up, go do it manually. What's up number eight?
+17:31 Ayabonga Qwabi: But then? Yeah, then. Now, your other paint point was the fact that. You have to take the whatever was provided by the parents as an application, and you have to convert it into Excel sheets. I have another solution for that. But this one is going to involve a database. So, whenever I, I assume Mr Sandy that every time you collect the parents details, you would like to keep them in a in someplace safe way. You can recommend with them or remarket to them at a later time or stage. When you have a discount something available, so?
+18:13 Masande Dudula: Is is? Yeah, right.
+18:17 Ayabonga Qwabi: Yeah, that's basically customer relationship management. So, what I can build for you? I can do. We can have a database, but it's going to be hosted on super based. When a parent fills in details and applies? They become a user of elytiana. Then they stay on the system, then they can see when they log in. They can see what subscriptions they have. And for which children and stuff like that? So they can see the stuff that lithia provides them.
+18:45 Masande Dudula: Okay.
+18:50 Ayabonga Qwabi: So, whenever payment is due, if a payment is due on there on their on their subscription, they will see it on the textbook app payment is Jew, and then they click the pay button, and then they pay immediately there.
+19:03 Ayabonga Qwabi: Yeah, so that can be done. When a parent creates, applies, and creates a subscription. So, this is how we can work. The product can apply when they apply they pay after they they pay, then they are on the LED system. And then, once that is done. Once that is, done you. What happens is we process the information? And we save it to the database on a table, and then you you can log in. And then you can see a page with all this the children.
+19:40 Ayabonga Qwabi: And then you can see a page with all the subscriptions, and then you can see a page with all the parents.
+19:48 Masande Dudula: Yes.
+19:49 Ayabonga Qwabi: Yeah, you can see different pages based on the different kinds of people. Then, you can also see a page with all the applications and pay application. You can see whether it was paid or whether it was not paid or payment is pending or payment has been confirmed and stuff like that.
+20:07 Masande Dudula: That's, that's what I'm looking for.
+20:09 Ayabonga Qwabi: Yes. And then, on each page you, then you can then export the data to either an Excel file or export it to a PDF file. However, you want to see that data.
+20:21 Masande Dudula: Yeah.
+20:22 Ayabonga Qwabi: Yeah, yeah, so we can build that for you. Would you be interested in that?
+20:28 Masande Dudula: No, definitely as that's. That's what I want, because I want to reduce lender, yeah, of manually. Doing these things, like manually transferring the data on Excel and younger land. Because even if I transfer to an Excel, I, I still need to build the Excel file with all the custom tables so that it speaks to me when I want to check preprovance. I felt one. Okay, I've got so many Learners in Eastern Cape or osnk and great buying based on. The so, basically, you Revenue is.
+21:10 Masande Dudula: The tutor to Learner ratio is one is to three. So in one class, a tutor would be teaching three Learners, but there's actually it's not just any learner says. Filterish are based on in EPA from NCIS on the previously, and then 11, 1, and level two, yeah, 11a, and then mixing them to three. If there is two great 11 about two women's, then in that class, that will be true.
+21:50 Ayabonga Qwabi: I'm sure.
+21:50 Masande Dudula: And then, if there's another one that applies, then there will be three. And then we don't call more than three persons is dealing with those two liners. So, in that spreadsheet, based on? The report your previous year. I also then need to filter them where level so that I allocate them to opia. Okay, on this facial Castro WhatsApp groups on our virtual caption, but later family next year or the year after. I want to also have our own features I using Whatsapp was currently just is today, so you can imagine how many WhatsApp books I have on the piano.
+22:34 Masande Dudula: Sell for because rookie 11 meth Ametics. I will have three Learners and the
+22:35 Ayabonga Qwabi: Oh yeah.
+22:39 Masande Dudula: shooter. No great 11 people and create so. We call them both classrooms so that your own the shake, your love classes, and all of that Michelle Empire. But I do want something simple? There's something that post speak to that, so that because I, as the long term goal or the
+22:57 Masande Dudula: long-term vision value 10, is actually. Full or online school? Party. And then we don't know how long the chucha ring will stretch, but where we are going is online Line schooling.
+23:15 Ayabonga Qwabi: Well, okay, so you, yeah, okay, yeah, go for it.
+23:16 Masande Dudula: So? Yeah, so yes, the WhatsApp, I mean, the the Excel, that's the? The information or the data that I get from the PDF? That documents, then I would then. Translate manually. Create the columns manually and the filters. That's what I want to remove when they submit the application. It already filters them based on location. Great performance.
+23:49 Masande Dudula: Gender. All of the I know we don't have changed. But all of those critical things. The name of the school and all of those things and the contact details the email. The cell phone numbers.
+24:03 Ayabonga Qwabi: Beautiful! This is great! This is great! Sunday, okay you you. Also, we can also do that for you, um. We can have a way that. Um, you can schedule classes. We can have a way that we can come.
+24:18 Masande Dudula: Yes. Currently, I'm just using Google Mage because the class is a to the platform. Is C7 size Global made songs when the parents of Life. The House by Session Z8book them down into two physics, two meds, two life sciences, and one English. And then why do I create is on on Google meet? And then I create recurring, then fagas at dates, and does about okay, Wednesday at 7 pm, and then okay, you're carrying the. The parent gets an email. And then to run from Tuesday to Saturday. So every Sunday.
+24:58 Masande Dudula: Is corner the following week and the team was? Google mate has already created the links is Conor calendars. I just take those links in this five on the virtual classroom. Okay, got a class? But currently, I'm doing that, and now it was done. You can imagine the time consuming.
+25:19 Ayabonga Qwabi: Yeah, yeah. Yeah, sorry. One question, um, do you always accept applications, or do you accept applications at a certain time in the month, or are they always all the time?
+25:33 Masande Dudula: They're always open Asana closing date open date. Okay, now the applications are opening at the theme of the. That's why we received.
+25:47 Masande Dudula: Sure that we are seeing. Now, it's the case applications.
+25:52 Ayabonga Qwabi: Okay now!
+25:52 Masande Dudula: They are recurring.
+25:54 Ayabonga Qwabi: Now, take me through. What happened when you receive an application? What do we do you take the application you process it? And you, you filter the student and schedule them into a certain class. And they they attend on certain days and stuff like that. Can you take me just through that process?
+26:16 Masande Dudula: Okay, so the parent, since through the application form with that data and processes the payment, and then okay, then based on the grade. I want us to build something in the long term that will already allocate the craziom data based on the application for so. What I would do manual, so the the things that I must take to allocate Google it's the grade. So if we've got great 10, it will then allocate 10, but okay, tennis, ABC, and D, okay, level six, and then they just want to get to level seven or they want to maintain level seven.
+26:49 Masande Dudula: And then a gold level one level two, so it's the grade. It's the level that will be able to allocate quickly and then based on those two things paste on the subjects.
+27:14 Ayabonga Qwabi: Okay, okay.
+27:18 Masande Dudula: Or pestering because we've got different tutors who have got a match tutor, English Tudor physics tutor. Laugh science is Jude? So, that's first subject. So far, one layer is a formats, but for English 10 C.
+27:39 Ayabonga Qwabi: Okay, okay.
+27:39 Masande Dudula: Because level 6 and then? And then we allocate them like that, and then they're mobile based on. Because there is in a subscription, then we need to break down as sessions to cover all the subjects as subscribe. Okay, because the subscription is not piss subject, you can. You can break down your eight lessons for Westerns that you want to attend. So, the left, the performance of the subject, the more classes. And then, if you are level D or Level C in English, then you can only just attend one pass squid English.
+28:22 Ayabonga Qwabi: Okay. Yeah, I see.
+28:24 Masande Dudula: Yeah, and then that came. Also, Howard allocate manual virtual Castro. Yeah, apple just hold on hold.
+28:35 Ayabonga Qwabi: Okay.
+29:02 Masande Dudula: Show us so, yeah? So, so basically, I said, but we then kept the subjects
+29:03 Ayabonga Qwabi: Yes, I'm here.
+29:10 Masande Dudula: because we don't want to. Send the English subject since in one subscription because they would end up done is a month, so we kept them to four subjects. All of our subscriber in one subscription? And then, based on his data since layers. So on Google meet. I would create, um, I think the option I choose by is events because the events would put the title they need title the subject, that is, that it's the it's the it's the subjects underscore great 11 or grade 11a, okay, 11 B, and then this created the tutor pagui invited. About.
+29:59 Masande Dudula: And then it. It goes out, then I take that link. Every Sunday, I put the links for the coming week. Eight classes on my corner this week on the different virtual classroom, so I Google. And one, okay, Nas emittings that for this week, the song is receive them work out under the subscribe, but just a reminder, just a reminder for the coming week. And then get they attend. Those sessions session is one hour, and then yeah.
+30:34 Ayabonga Qwabi: And how do you currently assign tutors to a class?
+30:39 Masande Dudula: Okay, so each other's currently it's tutors per subject, so I only have four tutors, including myself, nay. So I've got a physics guy. She does all the all the grades like a up to great. G, so he does everything because we don't have a lot of Learners subscribed currently. Then the the the, the the one subject, or okay, the one tutor? Their subject is still enough for now.
+31:14 Ayabonga Qwabi: Okay and?
+31:15 Masande Dudula: Yeah, so the the physics through that part in the long run we want to have one tutor that will obviously be looking at based on the the teaching skills and? The and the abilities of the Tudor clamby I prefer. It will just focus on or on all levels in all level D, and then we've got another tutor that's just focusing on OA no B. But for now, we don't want to recruit more tutors because we are. We haven't broken even yet. In fact, we break even some months because, like, tutor to the tutor to learner ratio? Is intentional to cover the course. If it was a one-on-one, then we would be making a loss because.
+31:58 Masande Dudula: In one subscription, year 1000 Rand Elena is attending for eight sessions, but the tutor is paid per session. So that thousand Rand is not able to cover.
+32:11 Ayabonga Qwabi: On that. Note on that, note how okay you were you were talking about the tutor and the session? Can you tell me how do you currently manage your tutors, and how, how do you manage the app payment?
+32:23 Masande Dudula: Okay, so the tutors what they doing on the 26th. I've got a spreadsheet. Where it's like a a log sheet for them, so that spreadsheet maybe let me try and? I was also sharing screen summer.
+32:38 Ayabonga Qwabi: Yeah, you can share your screen here.
+32:40 Masande Dudula: Okay, let me try. I'm using my tablet, so I'm just hoping that. Regeneration. Okay, let's open this one. So, just want to show you how the spreadsheet is, like, so each others they are not paid. Every lesson, they they're paid end of the month. But I want to show you how? How that one goes? Okay, so I've created a spreadsheet. Let me just share my screen. So, our months ran from. Our months run from. Okay, now this is. Uh, there aren't from the 25th to the.
+33:57 Masande Dudula: 20 okay? This is the wrong one. Let me just get one from the emails, so by basically. What happens is? That log sheet inundates most from the 26th of the month to the 25th of the month, so 99, class 8, we are okay. I had a class if you be class A1 is one, and then it will multiply by. The the rate, which is 200 friends. And then, at the end of that month.
+34:33 Ayabonga Qwabi: 200 Trends per class.
+34:38 Masande Dudula: Yes, the class.
+34:40 Ayabonga Qwabi: Okay.
+34:42 Masande Dudula: Okay.
+34:46 Ayabonga Qwabi: Uh, I don't see your screen anymore.
+34:46 Masande Dudula: Because I'm trying to open any?
+34:49 Ayabonga Qwabi: I don't see your screen anymore.
+35:01 Masande Dudula: Okay, I want to share it now. Okay, can you see it now?
+35:12 Ayabonga Qwabi: Yeah.
+35:14 Masande Dudula: Okay, so this is the spreadsheet that the tutors submit every month.
+35:21 Masande Dudula: So, this is for April, so. All the classes. Anna. So, from the 26th. Oops! From the 26, uh, to the 25th of April. So, for physical Sciences 27, which was one session, it multiplies by 200, and then it's about. And then I get that total. That device control charge. I gave them e e tablets, which they are. Basically paying them back to own them at a later stages. Probably so that 1092 run is what the tutor will be paid, so they basically submit these spreadsheets
+36:02 Masande Dudula: as invoices, or or log Shades or timesheets. If I can put it that way, and then all the tutors will then be paid at the end of the month. For, for all of these sessions, how I hours, and so you can, you will see that Gap. Like APO all day where they didn't have BLS, and so was the best thing, and all of them. And then they then resume for the following time. So these are the different tabs. The tutor will then keep this same spreadsheet as a minus TML and at the end of every month. So, this is from February.
+36:37 Masande Dudula: And then these are the sessions and also for the for the for the physical sciences and semble Plies with Live Sciences is the same name of the Tutor, the same the subject, and then some Italian. And then we've got. This can work as one data to sell K for our finances. This is what went towards. Salaries for the tutors from the beginning of the year to the to the end of the year.
+37:05 Ayabonga Qwabi: Okay. I see Mr Sun.
+37:09 Masande Dudula: So, Nalena, all of its things that we are currently doing, work towards building something they throw, because execiation he is. So, the steam would lower gate actually, and if that session happened, it logs it as a one so that it sends me. The spreadsheet was okay, Jesus, the salaries that is due for the month of.
+37:39 Masande Dudula: May based on the subjects and the tutors.
+37:45 Ayabonga Qwabi: Okay. Uh, this is all good information Sunday. And I'm happy that you shared it with me. Now, what? I'm thinking out of your system. You are it? You're running a system right now, but you just don't have the is. You just don't have an interface to
+37:58 Masande Dudula: Yeah.
+38:01 Ayabonga Qwabi: work it with.
+38:02 Masande Dudula: Yeah.
+38:04 Ayabonga Qwabi: You really need an interface that you can work it with. Um, so, like, I said, you are going to have a database now. But this data is, uh, it runs on super base. It's called super. The website is called superbase.com. You can check it out. What they basically offer they offer are the ability to to. To store files. And then they offer the ability to run a database, and then they offer the ability to to manage, um, users.
+38:39 Ayabonga Qwabi: So, your users, your current users? Are parents? And then there are tutors. And then there are students, and then it's you. So on your system.
+38:51 Masande Dudula: Yes.
+38:52 Ayabonga Qwabi: On your system. Students should be able to log in and see their classes their schedule for their classes. Uh, which classes are they going to attend and when?
+39:00 Masande Dudula: Yeah.
+39:03 Ayabonga Qwabi: And which is going to be responsible for that class.
+39:03 Masande Dudula: Yeah.
+39:08 Ayabonga Qwabi: Right, I don't know. I don't know if you also want them to be able to click the
+39:08 Masande Dudula: Yeah. Yes.
+39:14 Ayabonga Qwabi: link to view or to join the class. Because if you are running on assist team, then when, when it's class time that the Apple tell them okay, today you have a class at 3 P.M, then when is 3 P.M, it will tell them that it's time for the classrooms that are you available. And then if they are available, let's say yes, then they will click a link to join the class. You don't have to send them a link on WhatsApp or something like that, the link will be. The link will be also generated for Google meet.
+39:42 Masande Dudula: Yeah, yes, yes, so currently with Google mates. That's that's what I'm doing, but because have emails or they don't have devices or whatever the case may be, so the links that I send on Sunday, it's links that are already. Sent, or or, or shake your prior, and then the tutor would get a notifications because I'm the host. I, I get notifications every time there's a class. Yes, okay, there's a class set starting now. I think women records as a meeting.
+40:25 Masande Dudula: Yeah, there's a there's a meeting that's gonna start now then. All I do now, from my side, is to just check one. Okay, did that meeting happen? Or was Adria Guild or the tutors so that I can note it on my side as well?
+40:43 Ayabonga Qwabi: Yeah, I'm thinking about a lot of things, but then there are batches constraints, because okay, automatic bases. Uh, what budget are you running on to to run the system?
+40:54 Masande Dudula: Because later, it's just Google made so. My daily subscription. Because it's in dollars. It fluctuates, but around Faker or and average is 107 India ends a month.
+41:11 Ayabonga Qwabi: Okay, okay.
+41:12 Masande Dudula: So, that's why I have my, my gym, my cheese suit. So, I've got my, my Google Drive. Scheduling this sessions and be able to record them and all of those things.
+41:26 Ayabonga Qwabi: Yeah.
+41:27 Masande Dudula: Watching the part, this one it's per user. So I'm the only user now for the tutors. I'm currently using their own Gmail addresses, but I really outwatch them to also be edited on the organization, like the name. Don't say name at Lydiana for the tutor so that they can have. They are. Functions in the system because what I realized with using their Gmail. There's also security issues candy when they are part of the organization. I'm able to control his music into from the Edmund for the from the admin. Console from my side. Yeah.
+42:10 Ayabonga Qwabi: Yes, yeah, I was.
+42:10 Masande Dudula: But just gorgeous Central that I believe G suit has and I haven't explored. There is from what you are from from whatever you you have in mind in terms of building let's. Let's think around. Chisel, and what more can we explore Parkway? So, when I go on my organization console, I've got all the information there, like, my judgment, Finance. Subscriptions, parents, Learners, and all of that. So, I think my main tool is, is this, uh, Chase suit? I think this one is business. Yeah.
+43:03 Ayabonga Qwabi: Okay. Yeah, now I hear you. We can definitely make it possible for whenever the tutors want to submit for the month. It also when they submit, uh to, in order to get payment, they can, uh. Well, actually. Actually, I don't think they will need. To submit themselves, we can make it automated.
+43:28 Masande Dudula: Yeah.
+43:28 Ayabonga Qwabi: Uh, when the month ends or when your months when your calendar month ends. Then, and we can automate that it sends, uh, whatever. Payment stuff was needed from the tutors. It sends them to you. And then you see and view them. You can approve or reject.
+43:46 Masande Dudula: Yes, yes.
+43:49 Ayabonga Qwabi: And then, when you reject with the message, and then the tutor can see that, and then they can resubmit it again with the correct stuff like that, so it will be
+43:59 Masande Dudula: Yeah.
+44:00 Ayabonga Qwabi: a whole life cycle process that we can, uh. Facilitate.
+44:05 Masande Dudula: Yes.
+44:06 Ayabonga Qwabi: And then, um, if you would like as well. Since you are using juice suit, if you still want to keep you so we can make it possible that whenever one of those things is approved, it also creates it on your g-suit, or that you can also see the Excel sheet on your YouTube. Yeah.
+44:23 Masande Dudula: Yes, yeah.
+44:24 Ayabonga Qwabi: Okay. Um, this is good. This is good, but I still have some a couple of questions. Around the system. Do do the parents, uh, need to provide you with any documents when they are
+44:32 Masande Dudula: Sure.
+44:37 Ayabonga Qwabi: creating an application like IDs, School reports, consent forms, and stuff like that.
+44:44 Masande Dudula: It's just the application form and the score report. I don't need IDs copy Actually.
+44:49 Ayabonga Qwabi: Okay.
+44:55 Masande Dudula: So, what I would? Well, what I would just request from the I think the
+44:56 Ayabonga Qwabi: Sorry.
+45:00 Masande Dudula: application form has? A as a death date? So that we can just record the age of the Learners.
+45:08 Ayabonga Qwabi: Okay.
+45:08 Masande Dudula: But from the parents report the application form a profile payment car.
+45:17 Ayabonga Qwabi: Okay, okay, okay?
+45:21 Masande Dudula: But the application form does have the datums. The application form also.
+45:21 Ayabonga Qwabi: Okay, cool.
+45:26 Masande Dudula: As let me just quickly open an application form. Just want to see if I've got an application form? That I can open. So that Reborn, bye. So, this is the information that you would then put if I'm the city see.
+46:16 Ayabonga Qwabi: Uh, you're not sure.
+46:19 Masande Dudula: Oh sorry. Is the updated one anyway? Let me just. This one. The website on their website. Against. I'm just sending it on this device so that. Deviation on the screens. 80s.
+47:45 Masande Dudula: Is a?
+48:02 Ayabonga Qwabi: Okay.
+48:52 Masande Dudula: Okay, just let me know when you can see Edge. Okay, so this is the PDF cable.
+49:08 Ayabonga Qwabi: Oh, one, sec. Yeah.
+49:11 Masande Dudula: Okay, so this is the information. So for Section A is the parental Guardian to be the names, the name, how much traditional number and email address, then section B learner? It's just for the age in the name of school. And the current grade. Then these are the subjects. So up there will then take something on that form. Again, we'll go. Whatever can be a dropped hour that will list the different subjects. These tick boxes artification the subjects up to four.
+49:46 Masande Dudula: In one subscription, and then these are the two packages that we have package a and package B. And then section D. This is the information that I need, so isn't that they will. They need to attach just the learner latest academic report, which is for the previous year and then approve of payment, and this application form and the account number reference the name of Lena. And that's it. So it's just two pages.
+50:16 Masande Dudula: So this game always what I wanted is? To sub an eye on the website organia on the PDF, where you can just click the good name. I mean good names and type it in with labtopia orphania. And it again and? Email it again. So, as soon as you are a, you finish filling in this information and clicking submit will receive it from our side on the website.
+50:45 Masande Dudula: Yeah, but currently they feel in this.
+50:46 Ayabonga Qwabi: Nice.
+50:49 Masande Dudula: And then send it to an email or on WhatsApp, because there's also that option near WhatsApp, where then we will receive it on WhatsApp. We confirming, I mean, for many, and? Then. Proof of payment. If now, your attention, because sometimes they just send the form against process the payment later, then we share your decisions based on those dates. We do have, like, sort of onboarding session. There is about 30 minutes that we show you with the parent. I understand about how this program works well. Okay, the sessions will be just to get an idea how this online thing will because our instances names they don't know. This online the future.
+51:39 Masande Dudula: I think that they used to, but only so it's new for them. So, example understand is ban. How will they receive the link than also thinking Internet, and then we just set your their Assessions. It tutorials, they just get a link Twitter. It's like waiting for a link, it's like. Uh, it's a bad example, but I Uber. Looks like an Uber, then you just get a question. So okay, Nancy, classy, yeah, then, that specific Twitter would get a link for that specific subject, but obviously because we've got the virtual classroom download classroom for that great and level before. Grade 10 was great, 10 hey. Full or level one.
+52:32 Masande Dudula: Then get. They are able to engage them all feather on the virtual WhatsApp
+52:32 Ayabonga Qwabi: Yeah, okay, and to the students we apply each term, or like the students each
+52:36 Masande Dudula: groups. Yeah. No, no.
+52:44 Ayabonga Qwabi: time or year, or is the enrollment ongoing?
+52:49 Masande Dudula: Then, is only going. The only thing is the subscription, so if the pardon makes the payment, then we assume India go back. But what they need to do at the end of the term. So, at the end of the term, the tutor is also great reports for the term, like Richard reports. Just stayed overviews and weaknesses or Landing areas of the London. Just comprehensive overview of how the three months went.
+53:17 Masande Dudula: Also, the parent would then have to submit after that term, so that even Club
+53:28 Masande Dudula: one eventually 10. Be then, because don't have our own exams or our own assessments. We rate the performance.
+53:46 Ayabonga Qwabi: Okay.
+53:46 Masande Dudula: Great. Based on specific Mark, I mean for this specific 10, otherwise the application Italy want. The only thing it's just Google okay? Last time. Go on. Foggy application is. So, because I've got eight sessions in myself completely, want that to be Mets and the physics, so that muscles. But now, four minutes and no English.
+54:30 Ayabonga Qwabi: Okay, and um. Okay, I hear you suddenly. When an application is made, do you automatically approve all the applications that you reject?
+54:43 Masande Dudula: No, there's no applications. Uh, would inquire art. You can categorize that as a reaction because it examples are even from the WhatsApp. Sometimes organization, we only do events and science subjects we don't do history. Don't do geography. We don't do accounting. They want to enroll their kids for accounting. Then, that's a rejection plan. If you can put it that way, but because the application already has the subject selected, then
+55:27 Ayabonga Qwabi: Yeah, yeah.
+55:29 Masande Dudula: we will reject the application because Google share the subjects that we do, but from the inquiries. Yes, we do. Reject applications is a accounting or geography or cat or whatever, because we don't do those.
+55:47 Ayabonga Qwabi: Okay. Okay, nice, nice. I think I've gotten some good information in there, but I
+55:49 Masande Dudula: Yeah.
+55:52 Ayabonga Qwabi: still have a lot of questions in it, but I'm just gonna take the top.
+55:55 Masande Dudula: No, definitely.
+55:58 Ayabonga Qwabi: I'm just gonna take the top balance for now, and uh, let's go into the payment
+55:58 Masande Dudula: Yeah.
+56:02 Ayabonga Qwabi: structure.
+56:04 Masande Dudula: Okay.
+56:05 Ayabonga Qwabi: Is there a flat monthly fee or is there they do? They pay per session, or is there like a package that parents can choose from and stuff like that, like?
+56:17 Masande Dudula: Yeah, yeah.
+56:18 Ayabonga Qwabi: Do they pay per session, or do they pay pay or a flight monthly fee? Or can they choose that the one package one or package two or package three. Do you have like bundles and stuff like that?
+56:30 Masande Dudula: Yes, yes, yes, yes, sir. Good question. I've got that here. So, these are the two application formula where this, uh?
+56:38 Ayabonga Qwabi: Yeah.
+56:39 Masande Dudula: These two packages package a, which is recommended full package, and we've got package B, which is ideal for exam prep. So, password when the inquirer will we send them this application form, it's about free structure. So, this is the fee structure, it says. Package a is a thousand Rand a month 30, 000 run a month would include four hours of personalized career guidance. So, e-care guidances on that since? Why? Every Monday for all the Learners. It's it's a free thing then I attended, but every Mondays I've got a session with all the Learners that have subscribed. We talk about University applications. We talk about subject choices. We talk about anything for one hour, so, or affili Peppers, and then in the eight hours of lessons for any of the offered subjects. So it's a subject today. That's why we decide one okay out of the eight sessions out of the eight sessions? How do you want to split a subject, um, for one subject, then, like eight session, okay? One Saturday, and then the package B is the.
+58:10 Masande Dudula: One that is per lesson. So this one is a flat rate that gives you eight sessions of package a then package. B is PayPal. Let's say this is the one we say. We're we're recommend for exam friend for the entire year. Idol, but the age sessions one is, is the one that is almost like a flat monthly monthly rate, but we kept that one to four to four subjects when the subject is. A is a five or more than that.
+59:00 Masande Dudula: Thengether, I would have to do a separate subscription or Plan B pay 2000 for 16 sessions a month.
+59:09 Ayabonga Qwabi: And that. Do your face differ by subject or correct level or the tutor, I assume they don't.
+59:14 Masande Dudula: Nausea fan. No, they are, they are the same.
+59:17 Ayabonga Qwabi: Okay.
+59:17 Masande Dudula: They are the same.
+59:19 Ayabonga Qwabi: Okay, cool.
+59:19 Masande Dudula: But those are the things that we want to want to amend. This. This is, this is not the updated one. It's 1300 now. The package a, and then it's 190 package B. But industry for now.
+59:38 Ayabonga Qwabi: Okay.
+59:43 Masande Dudula: Based on the grade and all of that. A high school or efet, we're going to have a different package for fft that is
+59:51 Masande Dudula: grade 10, grade 11, grade 12, and then okay, six, seven, and eight and nine will be a different. Nancy Airport. For now, they're all the same.
+01:00:03 Ayabonga Qwabi: Okay.
+01:00:03 Masande Dudula: And then also for the tutors. The tutors are also paid the same flat rate, for for each session, because its session is an hour. So it's a it's a it's a per hour rate.
+01:00:16 Ayabonga Qwabi: Okay, nice, nice, nice, nice, nice, nice. And do you generate invoices for the parents?
+01:00:25 Masande Dudula: No, we don't generate invoices for the parents. Yeah, that's something that maybe would have to to do.
+01:00:34 Ayabonga Qwabi: Okay.
+01:00:34 Masande Dudula: We don't generating voices for the parents party. The the tutors we do have face lips for the tutors so far. In for accounting for our? For our finances, we use smes.
+01:00:52 Ayabonga Qwabi: Yeah, fair of it.
+01:00:54 Masande Dudula: Yeah, so we do. We use we are subscribed to SM easy, so SME is the. That's our financial statements. Our as well. Income statements and? It also has Italian HR, so HR, all our different shooters zero to Starship without. So, when it comes that date young day 26, when they send me those spreadsheet. I look at those spreadsheets and then the Apache. Maybe let me show you one. Do I have a page sleep? One Paisley can just show you.
+01:01:27 Ayabonga Qwabi: Would you like to integrate with SMEZ? Like, have your your system connected to SMEZ, so that when sessions and stuff happens. And then, it's payments and stuff like that. It communicates with smes and smes is just automatically fills in those details.
+01:01:44 Masande Dudula: Can they do that?
+01:01:45 Ayabonga Qwabi: Here you can.
+01:01:48 Masande Dudula: Yeah, no, definitely man, because? People who are paying them.
+01:01:53 Ayabonga Qwabi: Yeah.
+01:01:53 Masande Dudula: I think it's worth 200.
+01:01:57 Ayabonga Qwabi: Yeah.
+01:02:00 Masande Dudula: Yeah, 280. But same. I enjoy their services because languard incisions are manually. Income, statements, and all of that sales into when it comes to SAS. I just downloaded us into. It also links to my to my bank account, so all the transactions income and explaining makes it so, so nice. Just trying to look for? One. One case lead. So that you just see the? So all I do input on the pay slip is just the income, which will be the. The raids for that month, and then the expenditure will be the device, uh. Deductions in the news ballet and then. You click submit and then.
+01:02:59 Masande Dudula: Okay, just get an email, which is protected by their ID numbers. All of those
+01:03:05 Masande Dudula: settings, the ID numbers I created them when I was doing. The subscription. Okay, let's look at this one, please.
+01:03:22 Ayabonga Qwabi: Um, you're not shutting.
+01:03:24 Masande Dudula: I'm trying to open it. Or it's locked is? Number.
+01:03:56 Masande Dudula: And I had no idea USA music and also. And I'm sure it doesn't come at the extra Cosmos because it's part of. Their service.
+01:04:05 Ayabonga Qwabi: Yeah.
+01:04:08 Masande Dudula: No, then we'll have to have a recession with smes so that. Support. Now, how best we can? Do this thing.
+01:04:16 Ayabonga Qwabi: Yeah.
+01:04:16 Masande Dudula: Because yeah, when it comes to month end your the admin, I do.
+01:04:22 Ayabonga Qwabi: Yeah, that can all with it.
+01:04:22 Masande Dudula: Because. Yeah, your ultimate, because when I need to, okay, this is, uh, let me. Share my screen. I don't want to be inputting the information, but okay for this. For this one, Nancy amounted Nancy deductions, then to everything. For this one. Okay, so what are their input? Is this one Life Sciences or English?
+01:04:50 Ayabonga Qwabi: No one's like, yeah, I can see it.
+01:04:59 Masande Dudula: Based on that spreadsheet, which was. Once again, because 200, so upper, she probably had, uh. Five lessons. And then we. Is a n****, the total that Excel spreadsheet, and then the devices nine percent of that which will go to the deductions that the net pay, which will be that 19. So, at then, I just go through. The the banking banking app, then process those. They're already beneficiaries on our.
+01:05:34 Masande Dudula: Banking app, and then we just process those 19, and then later it's automated goes straight to them.
+01:05:41 Ayabonga Qwabi: Do you have?
+01:05:42 Masande Dudula: On their inboxes from SM is.
+01:05:44 Ayabonga Qwabi: Do you have problems? Do you have provinces that you offer your services to, or is it everywhere?
+01:05:52 Masande Dudula: South Africa. We did get one and quality for LSU.
+01:05:55 Ayabonga Qwabi: And Africa as well out of South Africa.
+01:06:04 Masande Dudula: Party is a bit different, so we haven't subscribed to that one part because the medicine science you're all kind of. Metal science is. We do want to go beyond South Africa.
+01:06:25 Ayabonga Qwabi: Yeah, okay, okay, okay?
+01:06:26 Masande Dudula: Yeah, no, it's definitely want to go be on South Africa.
+01:06:31 Ayabonga Qwabi: Okay, cool. I hear you.
+01:06:33 Masande Dudula: Ions. My pain point at the stage, which I really want to put a lot of. Resources, Financial resources is marketing.
+01:06:40 Ayabonga Qwabi: Effort.
+01:06:44 Masande Dudula: I wonder what we started Language? Google, don't I want us to explore that Google landed and page don't?
+01:06:52 Ayabonga Qwabi: Yeah.
+01:06:52 Masande Dudula: Because Israel is is marketing because this is a it's a world old machine, we've
+01:07:00 Masande Dudula: we've proved the concept. We've proved the market ecorner. It's just a matter of getting it out there.
+01:07:08 Ayabonga Qwabi: Yeah, I will get.
+01:07:08 Masande Dudula: Because it has a lot of potential. It has a lot of potential, but I did have one lady marketing, but Ebay Pangea, so? She sent me along. WhatsApp is demanding blah, and I'm, like, okay, you know what, I think, who is? I'm gonna need him full time on boardwork, and both the marketing ends this thing here. Yeah, it.
+01:07:34 Ayabonga Qwabi: Yeah, yeah, those were my thoughts. I was going to actually suggest that, and at the end of this of this meeting, because the way I. On Sunday, we have two approaches that we can take here. The first one is, I can build the whole system for you. Uh, once, and then step away. Or I can, I can accept the the 1.5 as a deposit, and then what I do is I stay on the system. I build a system every day.
+01:08:02 Masande Dudula: Yes.
+01:08:04 Ayabonga Qwabi: And I improve it. And then I suggest some things that we can potentially explore, maybe later stages.
+01:08:08 Masande Dudula: Yeah. Yes, so that you get the full picture of file in Italian hours because I don't want it to be. Once offended, you're not like a service provider I got from said that is just waiting to invoice. So say that, and then, which is what happened last year. Yeah, I was so upset, then guy did something, and it was not what I wanted, and they just got their money into something.
+01:08:39 Masande Dudula: And when I want to deal with you directly, I don't want to be a service provider
+01:08:39 Ayabonga Qwabi: Yes.
+01:08:43 Masande Dudula: that will be. Yeah, and on a long term basis, not just only ones off front door.
+01:08:51 Ayabonga Qwabi: Yeah, I do offer that service. It's called technical co-founder as a service. I'll share with you a link on. I'll share with you a link on WhatsApp or on what
+01:08:57 Masande Dudula: Yeah.
+01:09:01 Ayabonga Qwabi: it is, so it's a service that I do. I, I do it for a lot of clients because I
+01:09:03 Masande Dudula: Okay.
+01:09:08 Ayabonga Qwabi: meet a lot of friends in my field of work about Funa is like an app. They want to build an app to have a vision and a dream about this setting app and system like that. You don't have the manpower to build it all. They don't have the
+01:09:17 Masande Dudula: Yeah.
+01:09:20 Ayabonga Qwabi: financial resources to build it because it gets because, like, for example, you
+01:09:24 Masande Dudula: Yeah.
+01:09:26 Ayabonga Qwabi: can start from 30, 000 going to 90, going to even five.
+01:09:31 Masande Dudula: Imagine.
+01:09:32 Ayabonga Qwabi: Yeah, so it's a lot.
+01:09:32 Masande Dudula: I think that guy was like 8 000.
+01:09:38 Ayabonga Qwabi: So, myself.
+01:09:38 Masande Dudula: Not like, yeah, no, that was just the wasted.
+01:09:42 Ayabonga Qwabi: Sorry about that. So is technical for under the service I join you, and then you take the dream life. Like, for example, I'm working with. Me somewhat. It is. University foreign.
+01:10:21 Masande Dudula: Yeah.
+01:10:22 Ayabonga Qwabi: I'm working with them glow idea. Now! Still, yeah.
+01:10:45 Masande Dudula: Okay.
+01:10:53 Ayabonga Qwabi: Togolo in natives and conditions because? Now, phone again contributic project monthly because for the project and stuff
+01:10:58 Masande Dudula: Yeah.
+01:11:03 Ayabonga Qwabi: like that.
+01:11:04 Masande Dudula: Yeah.
+01:11:06 Ayabonga Qwabi: Basically, I'm invested in the project and called Justin. Jay is a person who's
+01:11:11 Masande Dudula: So, just provide.
+01:11:13 Ayabonga Qwabi: just. Yeah, bro invested on the project.
+01:11:14 Masande Dudula: Yeah.
+01:11:18 Ayabonga Qwabi: Um. So that the different ways, uh, to skin this cat, but it depends. But seeing that whole Lithia is an already thing that's out there.
+01:11:37 Masande Dudula: And okay. Yeah.
+01:11:49 Ayabonga Qwabi: Now, let's be happy to be just to be part of the team and. And, of course, this is your your thing, but I can. I'm just looking just to be part of the team, and then we can take the thing forward. See, because I see.
+01:12:03 Masande Dudula: Yeah. No, definitely. Yes.
+01:12:09 Ayabonga Qwabi: I think is. This is a huge system, and it's a huge system, and then we can work
+01:12:12 Masande Dudula: Yeah.
+01:12:17 Ayabonga Qwabi: and. So, come back as bonus by CC builder. So no conversation says, I have, maybe not. When I'm playing, maybe we can never
+01:12:22 Masande Dudula: Yeah.
+01:12:26 Ayabonga Qwabi: ever again, but how we're gonna work together?
+01:12:30 Masande Dudula: No, definitely.
+01:12:30 Ayabonga Qwabi: For now, psychology. The psychology information.
+01:12:38 Masande Dudula: Okay.
+01:12:40 Ayabonga Qwabi: Notes and stuff to collect. Generic section is the six sections is.
+01:12:49 Masande Dudula: Okay.
+01:12:49 Ayabonga Qwabi: Section about the business, then section. Number two is the student application process and then section number. It's parent payments and then section number four, it's class scheduling, and then section number five is shooter assignment and management. Then, session number six is roles, access, and delivery.
+01:13:11 Ayabonga Qwabi: By delivery.
+01:13:16 Masande Dudula: Yeah.
+01:13:17 Ayabonga Qwabi: I don't think any meeting yet is our last are that long because I think it's by
+01:13:17 Masande Dudula: Thanks, all content. Yeah.
+01:13:26 Ayabonga Qwabi: hour to 30 minutes or something like that, but Marcus Kobe just from where we are.
+01:13:36 Masande Dudula: Okay, what's that? Oh no, I don't have time at three. Yeah, I need to be off.
+01:13:41 Ayabonga Qwabi: You don't have?
+01:13:44 Masande Dudula: That's just five minutes.
+01:13:46 Ayabonga Qwabi: Then what I'm going to do?
+01:13:46 Masande Dudula: But I think saying this or notes, and then. And so communicate, if we, if we need to shake you like, calls us like other information you can. We can also text, and then just to mail as and when.
+01:14:02 Ayabonga Qwabi: Yeah, I'm going to send you the.
+01:14:02 Masande Dudula: As is.
+01:14:04 Ayabonga Qwabi: I'm going to send you the questions I'm going to. I'm going to take the questions and write them down this and WhatsApp, and then you can answer them at
+01:14:09 Masande Dudula: Okay.
+01:14:11 Ayabonga Qwabi: your time.
+01:14:11 Masande Dudula: Okay, all right. No perfect, perfect. No, I'm great, I asked.
+01:14:18 Ayabonga Qwabi: Yeah.
+01:14:20 Masande Dudula: I'm clear, do you think about the marketing thing again? Are you? Because there's a guy always Graphics like, um. Subscription.
+01:14:34 Ayabonga Qwabi: Sunday.
+01:14:34 Masande Dudula: Yeah.
+01:14:37 Ayabonga Qwabi: What you, what you, what you really need at this point in stage, is you need stuff written about you by schools?
+01:14:46 Masande Dudula: Okay.
+01:14:48 Ayabonga Qwabi: You need. If a school has a website and there's a Blog or somewhere, they write things. You need one or three or five school, one to five schools writing about you and what they they found out that the students who go to your classes. Yeah, If you can get five schools to write like five people in the education sector about internet, if they can write about you and Link your website, those are called backlinks then. Next time. Next time your parents is, this is students. Because.
+01:15:43 Masande Dudula: So?
+01:15:44 Ayabonga Qwabi: Yeah, it's. I think it's cuter Pro for something like that?
+01:15:46 Masande Dudula: Future Pro.
+01:15:47 Ayabonga Qwabi: I think it's Twitter Pro or something like that. Oh. So, if you can? Basically information from real legit sources. So, if you can get that managed to get that, but I can set the foundation and
+01:16:15 Masande Dudula: Okay, yes.
+01:16:19 Ayabonga Qwabi: lay your foundation for that too. Yeah.
+01:16:23 Masande Dudula: Okay.
+01:16:24 Ayabonga Qwabi: But that when that happens guys Siri.
+01:16:29 Masande Dudula: Yeah, yeah, all right. No perfect. Now, let's do that. I just let's do that, bro.
+01:16:37 Ayabonga Qwabi: Yeah.
+01:16:42 Masande Dudula: All right. No awesome, no nam. I'm going to look for those sources and try and get that. Command that I can start. Collaborating with and getting that content out there.
+01:16:57 Ayabonga Qwabi: Yeah. And it is.
+  

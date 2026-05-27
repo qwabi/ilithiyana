@@ -1,4 +1,11 @@
 User-agent: *
 Allow: /
+Disallow: /admin
+Disallow: /dashboard
+Disallow: /login
+Disallow: /portal
+Disallow: /api
+Disallow: /welcome
+Disallow: /payment
 
 Sitemap: https://ilithiyana.co.za/sitemap.xml

@@ -7,19 +7,35 @@ try {
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  eslint: {
-    ignoreDuringBuilds: true,
+  async redirects() {
+    return [
+      {
+        source: '/academics',
+        destination: '/apply-now',
+        permanent: true,
+      },
+      {
+        source: '/vehicle-care',
+        destination: '/',
+        permanent: true,
+      },
+      {
+        source: '/infrastructure',
+        destination: '/',
+        permanent: true,
+      },
+      {
+        source: '/portal/parent',
+        destination: '/dashboard',
+        permanent: true,
+      },
+    ]
   },
   typescript: {
     ignoreBuildErrors: true,
   },
   images: {
-    unoptimized: true,
-  },
-  experimental: {
-    webpackBuildWorker: true,
-    parallelServerBuildTraces: true,
-    parallelServerCompiles: true,
+    formats: ['image/avif', 'image/webp'],
   },
 }
 

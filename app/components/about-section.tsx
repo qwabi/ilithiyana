@@ -1,40 +1,111 @@
-import Image from "next/image"
-import { AnimatedButton } from "@/app/components/ui/animated-button"
-import Link from "next/link"
+'use client';
+
+import Image from 'next/image';
+import Link from 'next/link';
+import { Button } from '@/components/ui/button';
+import { ScrollReveal } from '@/components/ui/scroll-reveal';
+import { StaggerChildren, StaggerItem } from '@/components/ui/stagger';
+import { brand, positioning } from '@/lib/site-config';
+
+const chips = [
+  { label: 'Black-owned', bg: 'bg-primary text-white' },
+  { label: 'Reg. 2020/652431/07', bg: 'bg-white text-primary border border-border' },
+  { label: 'POPIA compliant', bg: 'bg-accent-light text-accent-dark' },
+] as const;
 
 export function AboutSection() {
   return (
-    <section className="py-20 bg-gray-50">
-      <div className="container mx-auto px-4">
-        <div className="grid md:grid-cols-2 gap-12 items-center">
+    <section className="relative overflow-hidden bg-primary-light py-24 font-sans">
+      <svg
+        viewBox="0 0 200 160"
+        aria-hidden
+        className="pointer-events-none absolute -right-10 top-1/2 h-[380px] w-[480px] -translate-y-1/2 text-primary opacity-[0.05]"
+      >
+        <path
+          fill="currentColor"
+          d="M100 8 L8 48 L100 88 L192 48 Z M36 64 L36 112 C36 128 64 144 100 144 C136 144 164 128 164 112 L164 64 L100 96 Z"
+        />
+      </svg>
+
+      <div className="container relative z-10 mx-auto px-4">
+        <div className="grid items-center gap-14 md:grid-cols-2">
+          <ScrollReveal className="relative">
+            <div className="absolute -inset-4 rounded-[2.5rem] bg-white opacity-60" />
+            <div className="group img-hover-zoom relative aspect-[4/3] overflow-hidden rounded-[1.75rem] border-4 border-white shadow-2xl">
+              <Image
+                src="/students-happy-sharing-notes.jpg"
+                alt="Learners collaborating during a tutoring session"
+                fill
+                className="object-cover"
+                sizes="(max-width: 768px) 100vw, 50vw"
+              />
+            </div>
+            <div
+              className="animate-bounce-in absolute -bottom-4 -right-4 z-10 flex items-center gap-3 rounded-2xl border border-border bg-white px-4 py-3 shadow-lg"
+              style={{ animationDelay: '0.4s', animationFillMode: 'both' }}
+            >
+              <div className="h-10 w-10 overflow-hidden rounded-full border-2 border-secondary">
+                <Image
+                  src="/Masande.jpg"
+                  alt="Masande Dudula, founder"
+                  width={40}
+                  height={40}
+                  className="object-cover"
+                />
+              </div>
+              <div>
+                <p className="text-sm font-bold text-foreground">Masande Dudula</p>
+                <p className="text-xs text-muted-foreground">Founder</p>
+              </div>
+            </div>
+          </ScrollReveal>
+
           <div className="space-y-6">
-            <h2 className="text-4xl font-bold text-primary animate-fade-in">About Ilithiyana</h2>
-            <p className="text-lg text-gray-700 animate-slide-up">
-              Ilithiyana Consulting is a 100% black-owned enterprise committed to contributing to South Africa's
-              economic growth and community development. Founded by Masande Dudula, we specialize in Academics, Vehicle
-              Care, Infrastructure Services, and Community Foundations.
-            </p>
-            <p className="text-lg text-gray-700 animate-slide-up" style={{ animationDelay: "0.2s" }}>
-              Our mission is to deliver excellence, create opportunities, and drive social impact across various sectors
-              of the South African economy. We are guided by our core values of honesty, reliability, and integrity in
-              every aspect of our operations.
-            </p>
-            <AnimatedButton asChild className="mt-4">
-              <Link href="/about">Learn More About Us</Link>
-            </AnimatedButton>
-          </div>
-          <div className="relative h-[400px] rounded-lg overflow-hidden shadow-xl animate-fade-in">
-            <Image
-              src="https://images.unsplash.com/photo-1531206715517-5c0ba140b2b8?auto=format&fit=crop&q=80&w=2070"
-              alt="Ilithiyana Team"
-              layout="fill"
-              objectFit="cover"
-              className="transition-transform duration-300 hover:scale-105"
-            />
+            <ScrollReveal>
+              <p className="overline text-primary">Our story</p>
+              <h2 className="font-display text-3xl text-primary-dark md:text-4xl">
+                About {brand.name}
+              </h2>
+            </ScrollReveal>
+
+            <ScrollReveal delay={0.06}>
+              <p className="text-lg leading-relaxed text-muted-foreground">
+                {brand.name} helps South African learners in Grades 6–12 build
+                real confidence in key subjects through structured online tutoring.
+                Founded by Masande Dudula, the focus has always been on accessible,
+                high-quality support — not scattered PDFs and WhatsApp threads.
+              </p>
+            </ScrollReveal>
+
+            <ScrollReveal delay={0.1}>
+              <p className="text-lg leading-relaxed text-muted-foreground">
+                Classes run in small groups ({positioning.ratio}) so every learner
+                gets the attention they deserve. {positioning.intake}
+              </p>
+            </ScrollReveal>
+
+            <StaggerChildren className="flex flex-wrap gap-2 pt-2">
+              {chips.map(({ label, bg }) => (
+                <StaggerItem key={label}>
+                  <span className={`rounded-full px-3 py-1 text-xs font-semibold ${bg}`}>
+                    {label}
+                  </span>
+                </StaggerItem>
+              ))}
+            </StaggerChildren>
+
+            <ScrollReveal delay={0.14}>
+              <Button
+                asChild
+                variant="outline"
+                className="rounded-full border-2 border-primary text-primary hover:bg-white"
+              >
+                <Link href="/about">Learn more about us</Link>
+              </Button>
+            </ScrollReveal>
           </div>
         </div>
       </div>
     </section>
-  )
+  );
 }
-

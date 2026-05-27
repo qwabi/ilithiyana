@@ -1,65 +1,121 @@
-import Image from "next/image"
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
+'use client';
 
-const trustSignals = [
+import Image from 'next/image';
+import { Users, FileText, GraduationCap, Calendar } from 'lucide-react';
+import { ScrollReveal } from '@/components/ui/ScrollReveal';
+import { positioning } from '@/lib/site-config';
+
+const signals = [
   {
-    title: "Certified Excellence",
-    description: "ISO 9001:2015 Certified for Quality Management Systems",
-    image:
-      "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    Icon: Users,
+    iconBg: 'bg-primary',
+    badge: '1:3 ratio',
+    badgeBg: 'bg-primary-light text-primary',
+    title: 'Never lost in a crowd',
+    description:
+      'Maximum 3 learners per tutor — always. Your child is seen, heard, and helped every single session, not just when they raise their hand.',
+    img: '/students-looking-at-a-textbook-2-students.jpg',
+    imgAlt: 'Two students studying with a textbook',
+    flip: false,
   },
   {
-    title: "Industry Recognition",
-    description: "Winner of the 2023 South African Business Awards",
-    image:
-      "https://images.unsplash.com/photo-1531545514256-b1400bc00f31?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80",
+    Icon: GraduationCap,
+    iconBg: 'bg-accent',
+    badge: 'Free with every plan',
+    badgeBg: 'bg-accent-light text-accent-dark',
+    title: 'Career guidance, included',
+    description:
+      'Weekly Monday sessions on university applications, subject choices, bursaries, and life-after-school planning — in every package, at zero extra cost.',
+    img: '/african-teacher-teaching-students-listening.jpg',
+    imgAlt: 'Teacher with students listening in class',
+    flip: true,
   },
   {
-    title: "Government Approved",
-    description: "Registered supplier for South African government projects",
-    image:
-      "https://images.unsplash.com/photo-1526948128573-703ee1aeb6fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    Icon: FileText,
+    iconBg: 'bg-secondary',
+    badge: 'Every term',
+    badgeBg: 'bg-secondary-light text-secondary-foreground',
+    title: 'You see the progress',
+    description:
+      'Term reports on strengths, gaps, and what to focus on next. Not just session attendance — actual insight into how your child is growing.',
+    img: '/student-answering-questions-on-the-board-with-teacher.jpg',
+    imgAlt: 'Student answering at the board with teacher nearby',
+    flip: false,
   },
   {
-    title: "Community Impact",
-    description: "Over 10,000 lives positively impacted through our initiatives",
-    image:
-      "https://images.unsplash.com/photo-1559027615-cd4628902d4a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    Icon: Calendar,
+    iconBg: 'bg-light-blue',
+    badge: 'Always open',
+    badgeBg: 'bg-light-blue-light text-primary-dark',
+    title: 'Apply any time',
+    description:
+      `No fixed intake dates. ${positioning.intake} Your child can start when they need help — not when an arbitrary calendar allows.`,
+    img: '/students-happy.jpg',
+    imgAlt: 'Happy students at school',
+    flip: true,
   },
-]
+];
 
 export function TrustSignalsSection() {
   return (
-    <section className="py-20 bg-white">
-      <div className="container mx-auto px-4">
-        <h2 className="text-3xl font-bold text-center mb-12 animate-fade-in">Why Choose Ilithiyana</h2>
-        <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
-          {trustSignals.map((signal, index) => (
-            <Card
-              key={index}
-              className="text-center hover:shadow-lg transition-shadow duration-300 animate-fade-in overflow-hidden"
-              style={{ animationDelay: `${index * 0.1}s` }}
+    <section className='bg-white py-24 font-sans'>
+      <div className='container mx-auto px-4'>
+        <ScrollReveal className='mx-auto mb-20 max-w-xl text-center'>
+          <p className='overline mb-3 text-primary'>Why families choose us</p>
+          <h2 className='font-display text-3xl text-primary-dark md:text-4xl'>
+            Practical support that{' '}
+            <em className='not-italic text-secondary'>actually shows up</em>
+          </h2>
+        </ScrollReveal>
+
+        <div className='space-y-24'>
+          {signals.map((s, index) => (
+            <ScrollReveal
+              key={s.title}
+              delay={index * 0.06}
+              className={`grid items-center gap-12 md:grid-cols-2 ${
+                s.flip ? 'md:[&>*:first-child]:order-2' : ''
+              }`}
             >
-              <div className="relative h-48 w-full">
-                <Image
-                  src={signal.image || "/placeholder.svg"}
-                  alt={signal.title}
-                  layout="fill"
-                  objectFit="cover"
-                  className="transition-transform duration-300 hover:scale-110"
-                />
+              <div className='space-y-5'>
+                <div className='flex items-center gap-3'>
+                  <div className={`flex h-12 w-12 items-center justify-center rounded-2xl ${s.iconBg}`}>
+                    <s.Icon className='h-6 w-6 text-white' />
+                  </div>
+                  <span className={`rounded-full px-3 py-1 text-xs font-bold ${s.badgeBg}`}>
+                    {s.badge}
+                  </span>
+                </div>
+
+                <h3 className='font-display text-2xl text-primary-dark md:text-3xl'>
+                  {s.title}
+                </h3>
+                <p className='text-base leading-relaxed text-muted-foreground'>
+                  {s.description}
+                </p>
               </div>
-              <CardHeader>
-                <CardTitle>{signal.title}</CardTitle>
-              </CardHeader>
-              <CardContent>
-                <p className="text-sm text-gray-600">{signal.description}</p>
-              </CardContent>
-            </Card>
+
+              <div className='relative'>
+                <div
+                  className={`absolute -inset-4 rounded-[2.5rem] opacity-30 ${
+                    s.flip ? 'bg-secondary-light' : 'bg-primary-light'
+                  }`}
+                />
+                <div className='img-hover-zoom relative aspect-[4/3] overflow-hidden rounded-[1.75rem] border-4 border-white shadow-xl'>
+                  <Image
+                    src={s.img}
+                    alt={s.imgAlt}
+                    fill
+                    className='object-cover'
+                    sizes='(max-width: 768px) 100vw, 50vw'
+                    loading='lazy'
+                  />
+                </div>
+              </div>
+            </ScrollReveal>
           ))}
         </div>
       </div>
     </section>
-  )
+  );
 }
-

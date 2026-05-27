@@ -1,69 +1,99 @@
-import ContactForm from "../components/ContactForm"
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
-import { Mail, Phone, MapPin } from "lucide-react"
+import ContactForm from '../components/ContactForm';
+import { contact, brand } from '@/lib/site-config';
+import { Mail, Phone, MessageCircle } from 'lucide-react';
+import { DM_Serif_Display, Plus_Jakarta_Sans } from 'next/font/google';
+import type { Metadata } from 'next';
+import { pageMetadata } from '@/lib/seo';
 
-export default function Contact() {
+const dmSerif = DM_Serif_Display({
+  subsets: ['latin'],
+  weight: ['400'],
+});
+
+const jakarta = Plus_Jakarta_Sans({
+  subsets: ['latin'],
+  weight: ['400', '500'],
+});
+
+export const metadata: Metadata = pageMetadata({
+  title: 'Contact',
+  description: `Get in touch with ${brand.name} — email, phone, or WhatsApp.`,
+  path: '/contact',
+});
+
+const contactChannels = [
+  {
+    title: 'Email',
+    icon: Mail,
+    href: `mailto:${contact.email}`,
+    label: contact.email,
+    border: 'border-t-primary',
+  },
+  {
+    title: 'Phone',
+    icon: Phone,
+    href: `tel:${contact.phoneTel}`,
+    label: contact.phone,
+    border: 'border-t-accent',
+  },
+  {
+    title: 'WhatsApp',
+    icon: MessageCircle,
+    href: contact.whatsapp,
+    label: 'Chat on WhatsApp',
+    border: 'border-t-[hsl(199,100%,62%)]',
+    external: true,
+  },
+] as const;
+
+export default function ContactPage() {
   return (
-    <div className="container mx-auto py-8">
-      <h1 className="text-4xl font-bold mb-8">Contact Us</h1>
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-        <div>
-          <p className="text-lg mb-6">
-            We'd love to hear from you. Please fill out the form below or use our contact information to get in touch
-            with us.
-          </p>
-          <div className="space-y-4">
-            <Card>
-              <CardHeader>
-                <CardTitle className="flex items-center">
-                  <Mail className="mr-2" /> Email
-                </CardTitle>
-              </CardHeader>
-              <CardContent>
-                <p>info@ilithiyana.com</p>
-              </CardContent>
-            </Card>
-            <Card>
-              <CardHeader>
-                <CardTitle className="flex items-center">
-                  <Phone className="mr-2" /> Phone
-                </CardTitle>
-              </CardHeader>
-              <CardContent>
-                <p>+27 123 456 789</p>
-              </CardContent>
-            </Card>
-            <Card>
-              <CardHeader>
-                <CardTitle className="flex items-center">
-                  <MapPin className="mr-2" /> Address
-                </CardTitle>
-              </CardHeader>
-              <CardContent>
-                <p>123 Main Street, Johannesburg, South Africa</p>
-              </CardContent>
-            </Card>
-          </div>
+    <div className={`container mx-auto px-4 py-12 md:py-16 ${jakarta.className}`}>
+      <header className='mb-10 max-w-2xl'>
+        <h1
+          className={`${dmSerif.className} mb-3 text-4xl text-[hsl(210,100%,25%)] md:text-5xl`}
+        >
+          Contact us
+        </h1>
+        <p className='text-lg text-muted-foreground'>
+          We would love to hear from you. Send a message using the form, or reach{' '}
+          {brand.name} directly by email, phone, or WhatsApp.
+        </p>
+        <p className='mt-3 text-sm text-muted-foreground'>
+          {brand.legalName} ({brand.registrationNumber}) · Fully online tutoring
+          for families across all nine South African provinces. No physical
+          classroom — sessions run on Google Meet.
+        </p>
+      </header>
+
+      <div className='grid grid-cols-1 gap-10 lg:grid-cols-2 lg:gap-12'>
+        <div className='space-y-4'>
+          {contactChannels.map((channel) => (
+            <article
+              key={channel.title}
+              className={`rounded-xl border border-[hsl(214,32%,91%)] border-t-4 bg-white p-5 ${channel.border}`}
+            >
+              <h2 className='mb-2 flex items-center gap-2 text-sm font-semibold uppercase tracking-wide text-muted-foreground'>
+                <channel.icon className='h-5 w-5 text-primary' aria-hidden />
+                {channel.title}
+              </h2>
+              <a
+                href={channel.href}
+                className='text-lg font-medium text-primary hover:underline'
+                {...('external' in channel && channel.external
+                  ? { target: '_blank', rel: 'noopener noreferrer' }
+                  : {})}
+              >
+                {channel.label}
+              </a>
+            </article>
+          ))}
         </div>
+
         <div>
           <ContactForm />
         </div>
       </div>
-      <div className="mt-12">
-        <h2 className="text-2xl font-bold mb-4">Our Location</h2>
-        <div className="aspect-w-16 aspect-h-9">
-          <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d114584.73401841099!2d28.047284668359375!3d-26.204103!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1e950c68f0406a51%3A0x238ac9d9b1d34041!2sJohannesburg%2C%20South%20Africa!5e0!3m2!1sen!2sus!4v1623317982469!5m2!1sen!2sus"
-            width="600"
-            height="450"
-            style={{ border: 0 }}
-            allowFullScreen=""
-            loading="lazy"
-            className="w-full h-full rounded-lg shadow-lg"
-          ></iframe>
-        </div>
-      </div>
     </div>
-  )
+  );
 }
-

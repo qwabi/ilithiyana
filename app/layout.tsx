@@ -1,57 +1,66 @@
-import '@/app/globals.css';
-import type { Metadata } from 'next';
-import { Poppins } from 'next/font/google';
-import { Navbar } from '@/app/components/navbar';
-import { CTA } from '@/app/components/cta';
-import Footer from '@/app/components/Footer';
-import { Toaster } from 'react-hot-toast';
-const poppins = Poppins({
-  subsets: ['latin'],
-  weight: ['400', '500', '600', '700'],
-  variable: '--font-poppins',
+import "@/app/globals.css";
+import type { Metadata } from "next";
+import { DM_Serif_Display, Plus_Jakarta_Sans } from "next/font/google";
+import { AuthProvider } from "@/app/components/auth/AuthProvider";
+import { ConditionalMain } from "@/app/components/ConditionalMain";
+import { ConditionalNavbar } from "@/app/components/ConditionalNavbar";
+import Footer from "@/app/components/Footer";
+import { createServerSupabaseClient } from "@/lib/supabase/server";
+import { OrganizationJsonLd } from "@/app/components/organization-json-ld";
+import { Toaster } from "react-hot-toast";
+import { brand } from "@/lib/site-config";
+import { siteDescription } from "@/lib/seo";
+
+const dmSerif = DM_Serif_Display({
+  subsets: ["latin"],
+  weight: ["400"],
+  variable: "--font-display",
+  display: "swap",
+});
+
+const plusJakarta = Plus_Jakarta_Sans({
+  subsets: ["latin"],
+  weight: ["400", "500", "600"],
+  variable: "--font-sans",
+  display: "swap",
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://ilithiyana.co.za"),
+  metadataBase: new URL(brand.siteUrl),
   title: {
-    default: "Ilithiyana Group | Multi-Service Bookings And CRM Website",
-    template: "%s | Ilithiyana Group",
+    default: `${brand.name} | ${brand.tagline}`,
+    template: `%s | ${brand.name}`,
   },
-  description: "Ilithiyana Group delivers infrastructure, vehicle care, and academic support services with bookings and CRM workflows.",
+  description: siteDescription,
   keywords: [
-    "Ilithiyana Group",
-    "Mthatha services",
-    "infrastructure services",
-    "vehicle care",
-    "academic support"
-],
-  authors: [{ name: "Ilithiyana Group" }],
-  creator: "Ilithiyana Group",
-  publisher: "Ilithiyana Group",
-  alternates: {
-    canonical: "https://ilithiyana.co.za",
-  },
+    brand.name,
+    "online tutoring South Africa",
+    "matric tutoring online",
+    "grade 12 maths tutor online",
+    "small group online tutoring",
+    "Pure Maths tutor",
+    "Life Sciences tutor",
+    "Physical Science tutor",
+  ],
+  authors: [{ name: brand.name }],
+  creator: brand.name,
+  publisher: brand.legalName,
   openGraph: {
-    type: 'website',
-    locale: 'en_ZA',
-    url: "https://ilithiyana.co.za",
-    siteName: "Ilithiyana Group",
-    title: "Ilithiyana Group | Multi-Service Bookings And CRM Website",
-    description: "Ilithiyana Group delivers infrastructure, vehicle care, and academic support services with bookings and CRM workflows.",
+    type: "website",
+    locale: "en_ZA",
+    siteName: brand.name,
     images: [
       {
-        url: '/og-image.jpg',
+        url: "/og-image.jpg",
         width: 1200,
         height: 630,
-        alt: "Ilithiyana Group social preview",
+        alt: `${brand.name} — online tutoring for Grades 6–12`,
       },
     ],
   },
   twitter: {
-    card: 'summary_large_image',
-    title: "Ilithiyana Group",
-    description: "Ilithiyana Group delivers infrastructure, vehicle care, and academic support services with bookings and CRM workflows.",
-    images: ['/og-image.jpg'],
+    card: "summary_large_image",
+    images: ["/og-image.jpg"],
   },
   robots: {
     index: true,
@@ -59,31 +68,44 @@ export const metadata: Metadata = {
     googleBot: {
       index: true,
       follow: true,
-      'max-video-preview': -1,
-      'max-image-preview': 'large',
-      'max-snippet': -1,
+      "max-video-preview": -1,
+      "max-image-preview": "large",
+      "max-snippet": -1,
     },
   },
-  manifest: '/manifest.json',
-}
+  manifest: "/manifest.json",
+};
 
-export default function RootLayout({
-
-
+export default async function RootLayout({
   children,
 }: {
   children: React.ReactNode;
 }) {
+  let initialUser = null;
+  try {
+    const supabase = createServerSupabaseClient();
+    const {
+      data: { user },
+    } = await supabase.auth.getUser();
+    initialUser = user;
+  } catch {
+    initialUser = null;
+  }
+
   return (
-    <html lang='en-ZA'><body className={poppins.variable}>
-        <Navbar />
-        <Toaster />
-        <main className='w-full px-2 md:px-0'>{children}</main>
-        <CTA />
-        <Footer />
+    <html
+      lang="en-ZA"
+      className={`${dmSerif.variable} ${plusJakarta.variable}`}
+    >
+      <body className="font-sans flex min-h-screen flex-col antialiased">
+        <OrganizationJsonLd />
+        <AuthProvider initialUser={initialUser}>
+          <ConditionalNavbar />
+          <Toaster />
+          <ConditionalMain>{children}</ConditionalMain>
+          <Footer />
+        </AuthProvider>
       </body>
     </html>
   );
 }
-
-import './globals.css';

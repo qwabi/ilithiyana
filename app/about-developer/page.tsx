@@ -1,18 +1,15 @@
-import type { Metadata } from "next";
+import type { Metadata } from 'next';
 import AboutAyabonga from './AboutAyabonga';
+import { pageMetadata } from '@/lib/seo';
 
 export const metadata: Metadata = {
-  title: "Built by Ayabonga Qwabi | Ilithiyana Group",
-  description: "Ilithiyana Group was built by Ayabonga Qwabi, a Senior Product Engineer specialising in Infrastructure services, Vehicle care, Academic support and...",
-  alternates: {
-    canonical: "https://ilithiyana.co.za/about-developer",
-  },
-  openGraph: {
-    title: "Built by Ayabonga Qwabi | Ilithiyana Group",
-    description: "Ilithiyana Group was built by Ayabonga Qwabi, a Senior Product Engineer specialising in Infrastructure services, Vehicle care, Academic support and...",
-    url: "https://ilithiyana.co.za/about-developer",
-    type: 'profile',
-  },
+  ...pageMetadata({
+    title: 'Website developer',
+    description:
+      'Technical credits for the Ilithiyana Academics website — built by Ayabonga Qwabi, Qwabi Engineering.',
+    path: '/about-developer',
+    noIndex: true,
+  }),
 };
 
 const personJsonLd = {

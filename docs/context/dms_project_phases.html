@@ -1,0 +1,190 @@
+
+<h2 class="sr-only">DMS eCommerce platform — project phase breakdown with payment schedule for Eastern Projects</h2>
+
+<style>
+.ep-accent { color: #B8862A; }
+.phase-card { background: var(--color-background-primary); border: 0.5px solid var(--color-border-tertiary); border-radius: var(--border-radius-lg); padding: 1rem 1.25rem; margin-bottom: 10px; }
+.phase-header { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px; }
+.phase-num { font-size: 10px; font-weight: 500; letter-spacing: 0.1em; color: #B8862A; margin-bottom: 3px; }
+.phase-title { font-size: 15px; font-weight: 500; color: var(--color-text-primary); margin: 0; }
+.phase-sub { font-size: 12px; color: var(--color-text-secondary); margin: 2px 0 0; }
+.phase-price { font-size: 14px; font-weight: 500; color: var(--color-text-primary); background: var(--color-background-secondary); border: 0.5px solid var(--color-border-secondary); border-radius: var(--border-radius-md); padding: 4px 12px; white-space: nowrap; }
+.phase-days { font-size: 11px; color: var(--color-text-tertiary); text-align: right; margin-top: 3px; }
+.deliverable-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 6px; }
+.del-tag { display: flex; align-items: center; gap: 6px; font-size: 12px; color: var(--color-text-secondary); padding: 5px 8px; background: var(--color-background-secondary); border-radius: var(--border-radius-md); }
+.del-tag i { font-size: 13px; color: #B8862A; flex-shrink: 0; }
+.payment-bar { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 8px; margin-bottom: 20px; }
+.pay-block { border-radius: var(--border-radius-md); padding: 12px 14px; border: 0.5px solid var(--color-border-tertiary); }
+.pay-label { font-size: 11px; color: var(--color-text-tertiary); margin-bottom: 4px; }
+.pay-trigger { font-size: 11px; color: var(--color-text-secondary); margin-top: 3px; }
+.pay-amount { font-size: 18px; font-weight: 500; color: var(--color-text-primary); }
+.total-strip { background: #1C1410; border-radius: var(--border-radius-lg); padding: 1rem 1.25rem; display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; }
+.section-lbl { font-size: 11px; font-weight: 500; letter-spacing: 0.08em; text-transform: uppercase; color: var(--color-text-tertiary); margin: 0 0 12px; }
+</style>
+
+<div style="padding: 1rem 0;">
+
+<p class="section-lbl">Project summary</p>
+<div class="total-strip">
+  <div>
+    <div style="font-size: 12px; color: #C8B89A; margin-bottom: 2px;">DMS eCommerce Platform</div>
+    <div style="font-size: 22px; font-weight: 500; color: #FAF5EE;">R101,280</div>
+    <div style="font-size: 11px; color: #8C7A5E; margin-top: 2px;">57 build days · 5 phases · Eastern Projects</div>
+  </div>
+  <div style="text-align: right;">
+    <div style="font-size: 11px; color: #8C7A5E; margin-bottom: 4px;">Est. duration</div>
+    <div style="font-size: 16px; font-weight: 500; color: #D4A853;">4 – 5 months</div>
+  </div>
+</div>
+
+<p class="section-lbl">Payment schedule</p>
+<div class="payment-bar">
+  <div class="pay-block" style="border-left: 3px solid #D4A853; border-radius: 0 var(--border-radius-md) var(--border-radius-md) 0;">
+    <div class="pay-label">Deposit — 33%</div>
+    <div class="pay-amount">R33,424</div>
+    <div class="pay-trigger">Due on contract signing</div>
+  </div>
+  <div class="pay-block" style="border-left: 3px solid #B8862A; border-radius: 0 var(--border-radius-md) var(--border-radius-md) 0;">
+    <div class="pay-label">Milestone — 33%</div>
+    <div class="pay-amount">R33,424</div>
+    <div class="pay-trigger">Due on Phase 3 sign-off</div>
+  </div>
+  <div class="pay-block" style="border-left: 3px solid #8C7A5E; border-radius: 0 var(--border-radius-md) var(--border-radius-md) 0;">
+    <div class="pay-label">Final — 33%</div>
+    <div class="pay-amount">R33,432</div>
+    <div class="pay-trigger">Due on go-live delivery</div>
+  </div>
+</div>
+
+<p class="section-lbl">Build phases</p>
+
+<div class="phase-card">
+  <div class="phase-header">
+    <div>
+      <div class="phase-num">Phase 1 · Days 1–10</div>
+      <p class="phase-title">Discovery, design & architecture</p>
+      <p class="phase-sub">Foundation work — nothing visible yet, everything built right</p>
+    </div>
+    <div style="text-align:right;">
+      <div class="phase-price">R17,760</div>
+      <div class="phase-days">10 days</div>
+    </div>
+  </div>
+  <div class="deliverable-grid">
+    <div class="del-tag"><i class="ti ti-layout" aria-hidden="true"></i>UI/UX wireframes</div>
+    <div class="del-tag"><i class="ti ti-palette" aria-hidden="true"></i>Brand & design system</div>
+    <div class="del-tag"><i class="ti ti-database" aria-hidden="true"></i>Database architecture</div>
+    <div class="del-tag"><i class="ti ti-sitemap" aria-hidden="true"></i>Tech stack setup</div>
+    <div class="del-tag"><i class="ti ti-file-description" aria-hidden="true"></i>Scope document</div>
+    <div class="del-tag"><i class="ti ti-users" aria-hidden="true"></i>Supplier integration plan</div>
+  </div>
+</div>
+
+<div class="phase-card">
+  <div class="phase-header">
+    <div>
+      <div class="phase-num">Phase 2 · Days 11–25</div>
+      <p class="phase-title">Storefront, catalogue & accounts</p>
+      <p class="phase-sub">The live-facing store — customers can browse and register</p>
+    </div>
+    <div style="text-align:right;">
+      <div class="phase-price">R26,640</div>
+      <div class="phase-days">15 days</div>
+    </div>
+  </div>
+  <div class="deliverable-grid">
+    <div class="del-tag"><i class="ti ti-device-mobile" aria-hidden="true"></i>Mobile-responsive storefront</div>
+    <div class="del-tag"><i class="ti ti-category" aria-hidden="true"></i>Product catalogue & categories</div>
+    <div class="del-tag"><i class="ti ti-search" aria-hidden="true"></i>Search & filter system</div>
+    <div class="del-tag"><i class="ti ti-user" aria-hidden="true"></i>Customer accounts & profiles</div>
+    <div class="del-tag"><i class="ti ti-shopping-cart" aria-hidden="true"></i>Cart & wishlist</div>
+    <div class="del-tag"><i class="ti ti-photo" aria-hidden="true"></i>Promotional banners</div>
+  </div>
+</div>
+
+<div class="phase-card" style="border-color: #B8862A;">
+  <div class="phase-header">
+    <div>
+      <div class="phase-num">Phase 3 · Days 26–38</div>
+      <p class="phase-title">Payments, checkout & BNPL</p>
+      <p class="phase-sub">Money flows — secure checkout with SA payment options</p>
+    </div>
+    <div style="text-align:right;">
+      <div class="phase-price">R23,040</div>
+      <div class="phase-days">13 days</div>
+    </div>
+  </div>
+  <div style="font-size:11px; color:#B8862A; margin-bottom:8px; display:flex; align-items:center; gap:4px;"><i class="ti ti-alert-circle" style="font-size:13px;" aria-hidden="true"></i>Milestone payment triggered on sign-off of this phase</div>
+  <div class="deliverable-grid">
+    <div class="del-tag"><i class="ti ti-credit-card" aria-hidden="true"></i>PayFast integration</div>
+    <div class="del-tag"><i class="ti ti-credit-card" aria-hidden="true"></i>Ozow / Peach / Yoco</div>
+    <div class="del-tag"><i class="ti ti-calendar-due" aria-hidden="true"></i>Payflex & PayJustNow</div>
+    <div class="del-tag"><i class="ti ti-calendar-due" aria-hidden="true"></i>Mobicred & Payeasy</div>
+    <div class="del-tag"><i class="ti ti-lock" aria-hidden="true"></i>Secure checkout flow</div>
+    <div class="del-tag"><i class="ti ti-receipt" aria-hidden="true"></i>Order confirmation system</div>
+  </div>
+</div>
+
+<div class="phase-card">
+  <div class="phase-header">
+    <div>
+      <div class="phase-num">Phase 4 · Days 39–50</div>
+      <p class="phase-title">Dropship, inventory & fulfilment</p>
+      <p class="phase-sub">Operations layer — orders flow automatically to suppliers</p>
+    </div>
+    <div style="text-align:right;">
+      <div class="phase-price">R21,312</div>
+      <div class="phase-days">12 days</div>
+    </div>
+  </div>
+  <div class="deliverable-grid">
+    <div class="del-tag"><i class="ti ti-building-store" aria-hidden="true"></i>Supplier portal & feeds</div>
+    <div class="del-tag"><i class="ti ti-arrows-exchange" aria-hidden="true"></i>Auto order forwarding</div>
+    <div class="del-tag"><i class="ti ti-package" aria-hidden="true"></i>Real-time inventory sync</div>
+    <div class="del-tag"><i class="ti ti-map-pin" aria-hidden="true"></i>Delivery tracking</div>
+    <div class="del-tag"><i class="ti ti-alert-triangle" aria-hidden="true"></i>Oversell prevention</div>
+    <div class="del-tag"><i class="ti ti-settings-automation" aria-hidden="true"></i>Fulfilment automation</div>
+  </div>
+</div>
+
+<div class="phase-card">
+  <div class="phase-header">
+    <div>
+      <div class="phase-num">Phase 5 · Days 51–57</div>
+      <p class="phase-title">Marketing, QA & go-live</p>
+      <p class="phase-sub">Polish, test, launch — platform handed over live</p>
+    </div>
+    <div style="text-align:right;">
+      <div class="phase-price">R12,528</div>
+      <div class="phase-days">7 days</div>
+    </div>
+  </div>
+  <div class="deliverable-grid">
+    <div class="del-tag"><i class="ti ti-brain" aria-hidden="true"></i>AI recommendations</div>
+    <div class="del-tag"><i class="ti ti-star" aria-hidden="true"></i>Reviews & ratings</div>
+    <div class="del-tag"><i class="ti ti-ticket" aria-hidden="true"></i>Discount & coupon engine</div>
+    <div class="del-tag"><i class="ti ti-gift" aria-hidden="true"></i>Loyalty & referral system</div>
+    <div class="del-tag"><i class="ti ti-checklist" aria-hidden="true"></i>Full QA & load testing</div>
+    <div class="del-tag"><i class="ti ti-rocket" aria-hidden="true"></i>Production go-live</div>
+  </div>
+</div>
+
+<div style="margin-top: 16px; display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 8px;">
+  <div style="background: var(--color-background-secondary); border-radius: var(--border-radius-md); padding: 10px 14px;">
+    <div style="font-size: 11px; color: var(--color-text-tertiary); margin-bottom: 3px;">Monthly retainer</div>
+    <div style="font-size: 14px; font-weight: 500; color: var(--color-text-primary);">R8,000 – R15,000</div>
+    <div style="font-size: 11px; color: var(--color-text-tertiary); margin-top: 2px;">Post go-live support</div>
+  </div>
+  <div style="background: var(--color-background-secondary); border-radius: var(--border-radius-md); padding: 10px 14px;">
+    <div style="font-size: 11px; color: var(--color-text-tertiary); margin-bottom: 3px;">Hosting & infra</div>
+    <div style="font-size: 14px; font-weight: 500; color: var(--color-text-primary);">R3,500 – R6,000/mo</div>
+    <div style="font-size: 11px; color: var(--color-text-tertiary); margin-top: 2px;">Billed separately</div>
+  </div>
+  <div style="background: var(--color-background-secondary); border-radius: var(--border-radius-md); padding: 10px 14px;">
+    <div style="font-size: 11px; color: var(--color-text-tertiary); margin-bottom: 3px;">Warranty period</div>
+    <div style="font-size: 14px; font-weight: 500; color: var(--color-text-primary);">30 days</div>
+    <div style="font-size: 11px; color: var(--color-text-tertiary); margin-top: 2px;">Bug fixes included</div>
+  </div>
+</div>
+
+</div>
