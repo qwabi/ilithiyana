@@ -11,3 +11,4 @@
 | 2026-05-26 | [parent-onboarding-flow](2026-05-26-parent-onboarding-flow-prompt.md) | Six-step `/onboarding/*` wizard, `onboarding_sessions`, combined PayFast |
 | 2026-05-26 | [parent-onboarding-flow](2026-05-26-parent-onboarding-flow-prompt.md) | Six-step `/onboarding/*` wizard, sessions table, PayFast, dashboard resume |
 | 2026-05-26 | [classes-group-model-overhaul](2026-05-26-classes-group-model-overhaul-prompt.md) | Group classes A–D, structured schedule, admin/tutor/parent schedule, Masande provisioning |
+| 2026-05-27 | [subjects-offered-backfill](2026-05-27-subjects-offered-backfill-prompt.md) | Subjects offered site-wide, DB validation + backfill |
