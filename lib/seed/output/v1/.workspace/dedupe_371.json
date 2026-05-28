@@ -1,0 +1,15 @@
+{
+  "faculties": [
+    {
+      "id": "fac:371:148ede3030e5",
+      "institutionId": "371",
+      "name": "Education",
+      "sourceFile": "lib/seed/prospectuses/university-of-the-western-cape.pdf",
+      "sourceUrl": "https://www.uwc.ac.za/files/files/UWC-2027-Application-Guide.pdf"
+    }
+  ],
+  "programmes": [],
+  "admissions_rules": [],
+  "aps_rules": [],
+  "llm_calls": 0
+}

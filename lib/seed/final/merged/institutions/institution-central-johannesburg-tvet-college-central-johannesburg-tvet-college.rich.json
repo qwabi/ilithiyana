@@ -1,0 +1,85 @@
+{
+  "institution": {
+    "id": "institution:central-johannesburg-tvet-college",
+    "slug": "central-johannesburg-tvet-college",
+    "institution_id_raw": "306",
+    "name": "Central Johannesburg TVET College",
+    "institution_type": "tvet-college",
+    "city": "Johannesburg",
+    "province": "Gauteng",
+    "official_website": "https://cjc.edu.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/306/central-johannesburg-tvet-college",
+    "source_paths": [
+      "generated/v3/institutions.enriched.json",
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "sector": "higher education",
+      "province": "Gauteng",
+      "city": "Johannesburg",
+      "physical_address": "5 Ubla Avenue (off Princess of Wales Terrace), Parktown, Johannesburg",
+      "postal_address": "Private Bag 70500, Houghton, 2041",
+      "contact_emails": [
+        "examellispark@cjc.edu.za",
+        "nsfas@cjc.edu.za",
+        "examparktown@cjc.edu.za",
+        "registration@cjc.edu.za",
+        "examalexandra@cjc.edu.za",
+        "studentfinance@cjc.edu.za",
+        "5006info@cjc.edu.co.za",
+        "5002info@cjc.edu.co.za",
+        "examlanglaagte@cjc.edu.za",
+        "info@cjc.edu.co.za",
+        "examsmit@cjc.edu.za",
+        "5003info@cjc.edu.co.za",
+        "6000info@cjc.edu.co.za",
+        "examtroyeville@cjc.edu.za",
+        "info@cjc.edu.za",
+        "examriverlea@cjc.edu.za",
+        "finance@cjc.edu.za",
+        "5007info@cjc.edu.co.za",
+        "5001info@cjc.edu.co.za"
+      ],
+      "contact_phone_numbers": [
+        "011 351 6000"
+      ],
+      "application_url": "https://cjc.edu.za/",
+      "socials": {
+        "facebook": "https://www.facebook.com/Central-Johannesburg-TVET-College-1064845146930530",
+        "instagram": "https://www.instagram.com/centraljohannesburgtvetcollege/",
+        "linkedin": "https://www.linkedin.com/company/central-johannesburg-tvet-college/",
+        "x": "https://twitter.com/CentralTvet",
+        "youtube": ""
+      },
+      "accreditation": {
+        "dh et": "Accredited",
+        "saqa": null
+      },
+      "sources": [
+        "https://nationalgovernment.co.za/units/view/306/central-johannesburg-tvet-college",
+        "https://cjc.edu.za/"
+      ],
+      "qualification_types": [
+        "NC(V)",
+        "Nated (Report 191)",
+        "Skills Programmes",
+        "Apprenticeships"
+      ],
+      "nsfas_supported": true,
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

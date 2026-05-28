@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "institution_id": "380",
+    "slug": "west-coast-tvet-college",
+    "name": "West Coast TVET College",
+    "institution_type": "tvet-college",
+    "province": null,
+    "city": "Malmesbury",
+    "official_website": "https://www.westcoastcollege.co.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/380/west-coast-tvet-college",
+    "application_url": "https://www.westcoastcollege.co.za/students/how-to-apply/",
+    "prospectus_url": null,
+    "nsfas_supported": true,
+    "distance_learning": null,
+    "accreditation": {
+      "dh et": "Accredited",
+      "saqa": null
+    },
+    "qualification_types": [
+      "NC(V)",
+      "Nated (Report 191)",
+      "Skills Programmes",
+      "Apprenticeships"
+    ]
+  },
+  "profile": {},
+  "contact": {
+    "emails": [
+      "info@westcoastcollege.co.za"
+    ],
+    "phone_numbers": [
+      "022 482 1143"
+    ],
+    "physical_address": "2 Loedolf, Malmesbury, 7299",
+    "postal_address": "PO Box 935, Malmesbury, 7299",
+    "socials": {
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "x": "",
+      "youtube": ""
+    }
+  },
+  "campuses": [],
+  "faculties": [],
+  "programmes": [],
+  "admission": {
+    "aps_name": null,
+    "aps_calculation_notes": null,
+    "minimum_aps_for_bachelors": null,
+    "minimum_aps_for_diplomas": null,
+    "minimum_entry_note": null,
+    "life_orientation_cap": null,
+    "aps_rules": [],
+    "programme_requirements": []
+  },
+  "sources": [
+    "generated/v3/institutions.enriched.json",
+    "institutions.json"
+  ],
+  "_stats": {
+    "campuses_count": 0,
+    "faculties_count": 0,
+    "programmes_count": 0,
+    "aps_rules_count": 0,
+    "adm_reqs_count": 0
+  }
+}

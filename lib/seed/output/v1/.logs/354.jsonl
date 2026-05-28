@@ -1,0 +1,10 @@
+{"ts": 1779893350.9872792, "institutionId": "354", "event": "preprocess_done", "matched_files": ["/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/sekhukhune-tvet-college-web.txt"], "chunks_created": 9, "skipped_chunk_reasons": [{"reason": "chunk_too_small", "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/sekhukhune-tvet-college-web.txt", "chunk_index": 5, "chars": 12}]}
+{"ts": 1779893351.0043561, "institutionId": "354", "event": "extract_done", "extracted_programmes_count": 4, "llm_calls": 0, "faculties_found": 0, "chunks_processed": 9}
+{"ts": 1779893351.007754, "institutionId": "354", "event": "normalize_done", "faculties": 0, "programmes": 4}
+{"ts": 1779893351.012387, "institutionId": "354", "event": "dedupe_done", "programmes_before": 4, "programmes_after": 4}
+{"ts": 1779893351.0135272, "institutionId": "354", "event": "institution_pipeline_complete", "etlStatus": "ok", "total_llm_calls_institution": 0}
+{"ts": 1779893406.8842082, "institutionId": "354", "event": "preprocess_resumed", "artifact": ".workspace/chunks_354.json"}
+{"ts": 1779893406.884524, "institutionId": "354", "event": "extract_resumed", "artifact": ".workspace/extract_354.json"}
+{"ts": 1779893406.884722, "institutionId": "354", "event": "normalize_resumed", "artifact": ".workspace/normalize_354.json"}
+{"ts": 1779893406.885154, "institutionId": "354", "event": "dedupe_resumed", "artifact": ".workspace/dedupe_354.json"}
+{"ts": 1779893406.885168, "institutionId": "354", "event": "institution_pipeline_complete", "etlStatus": "ok", "total_llm_calls_institution": 0}

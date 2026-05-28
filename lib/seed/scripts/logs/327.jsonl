@@ -1,0 +1,5 @@
+{"ts": 1779897477.5341609, "institutionId": "327", "event": "preprocess_done", "matched_files": ["/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/coastal-tvet-college.pdf"], "chunks_created": 0, "skipped_chunk_reasons": []}
+{"ts": 1779897477.534528, "institutionId": "327", "event": "extract_done", "extracted_programmes_count": 0, "llm_calls": 0, "faculties_found": 0, "chunks_processed": 0}
+{"ts": 1779897477.534881, "institutionId": "327", "event": "normalize_done", "faculties": 0, "programmes": 0}
+{"ts": 1779897477.535312, "institutionId": "327", "event": "dedupe_done", "programmes_before": 0, "programmes_after": 0}
+{"ts": 1779897477.535635, "institutionId": "327", "event": "institution_pipeline_complete", "etlStatus": "no_programmes_extracted", "total_llm_calls_institution": 0}

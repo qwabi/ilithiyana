@@ -1,0 +1,22 @@
+{
+  "institutionId": "317",
+  "stages": {
+    "preprocess": {
+      "ok": true,
+      "artifact": ".workspace/chunks_317.json"
+    },
+    "extract": {
+      "ok": true,
+      "artifact": ".workspace/extract_317.json"
+    },
+    "normalize": {
+      "ok": true,
+      "artifact": ".workspace/normalize_317.json"
+    },
+    "dedupe": {
+      "ok": true,
+      "artifact": ".workspace/dedupe_317.json"
+    }
+  },
+  "version": 1
+}

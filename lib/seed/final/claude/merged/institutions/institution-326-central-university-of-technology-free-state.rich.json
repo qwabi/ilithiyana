@@ -1,0 +1,3506 @@
+{
+  "meta": {
+    "institution_id": "326",
+    "slug": "central-university-of-technology-free-state",
+    "name": "Central University of Technology, Free State",
+    "institution_type": "university-of-technology",
+    "province": "Free State",
+    "city": "Bloemfontein",
+    "official_website": "https://www.cut.ac.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/326/central-university-of-technology-free-state",
+    "application_url": "https://enroll.cut.ac.za/pls/prodi41/w99pkg.mi_login",
+    "prospectus_url": null,
+    "nsfas_supported": true,
+    "distance_learning": null,
+    "accreditation": {
+      "dh et": "Accredited",
+      "saqa": "Registered"
+    },
+    "qualification_types": [
+      "National Diploma",
+      "BTech",
+      "Advanced Diploma",
+      "Postgraduate"
+    ]
+  },
+  "profile": {},
+  "contact": {
+    "emails": [
+      "suppliers@cut.ac.za.for",
+      "ethuto@cut.ac.za",
+      "financeinfo@cut.ac.za"
+    ],
+    "phone_numbers": [
+      "+27 051 507 4417",
+      "+27 051 507 3237",
+      "051 507 3911",
+      "+27 051 507 3911",
+      "+27057 910 3555",
+      "+27 057 910 3500",
+      "+27 051 507 4444",
+      "+27 057 910 3799"
+    ],
+    "physical_address": "20 President Brand Street, Westdene, Bloemfontein, 9300",
+    "postal_address": "Private Bag X20539, Bloemfontein, 9300",
+    "socials": {
+      "facebook": "https://www.facebook.com/pages/Central-University-of-Technology-Free-State-CUT/203078629714777?sk=wall",
+      "instagram": "",
+      "linkedin": "https://www.linkedin.com/school/central-university-of-technology-free-state/mycompany/?viewAsMember=true",
+      "x": "https://twitter.com/cutfsonline",
+      "youtube": "http://www.youtube.com/user/CUTFreeState/feed"
+    }
+  },
+  "campuses": [],
+  "faculties": [
+    {
+      "id": null,
+      "name": "Health Environmental Sciences NQF",
+      "overview": null,
+      "kind": null
+    },
+    {
+      "id": null,
+      "name": "Management Sciences NQF",
+      "overview": null,
+      "kind": null
+    },
+    {
+      "id": null,
+      "name": "Humanities NQF",
+      "overview": null,
+      "kind": null
+    },
+    {
+      "id": "fac:8678f6d16c6d",
+      "name": "Accounting and Auditing",
+      "overview": "Faculty of Management Sciences — Accounting and Auditing",
+      "kind": "department"
+    },
+    {
+      "id": "fac:431a23a26a6c",
+      "name": "Agriculture",
+      "overview": "Faculty of Health and Environmental Sciences — Agriculture",
+      "kind": "department"
+    },
+    {
+      "id": "fac:73d86d50f588",
+      "name": "Built Environment",
+      "overview": "Faculty of Engineering, Built Environment and Information Technology — Built Environment",
+      "kind": "department"
+    },
+    {
+      "id": "fac:9a8e055131ea",
+      "name": "Business Management",
+      "overview": "Faculty of Management Sciences — Business Management",
+      "kind": "department"
+    },
+    {
+      "id": "fac:eaa0164b91af",
+      "name": "Business Support Studies",
+      "overview": "Faculty of Management Sciences — Business Support Studies",
+      "kind": "department"
+    },
+    {
+      "id": "fac:bedbcfe79cd3",
+      "name": "Centre for Applied Food Sustainability and -Biotechnology (CAFSaB)",
+      "overview": "Faculty of Health and Environmental Sciences — Centre for Applied Food Sustainability and -Biotechnology (CAFSaB)",
+      "kind": "department"
+    },
+    {
+      "id": "fac:2f9bdf2fbc0e",
+      "name": "Centre for Enterprise and Entrepreneurship Studies",
+      "overview": "Faculty of Management Sciences — Centre for Enterprise and Entrepreneurship Studies",
+      "kind": "department"
+    },
+    {
+      "id": "fac:1b91242d766b",
+      "name": "Centre for Innovation in Learning and Teaching (CILT)",
+      "overview": "Faculty of Teaching and Learning — Centre for Innovation in Learning and Teaching (CILT)",
+      "kind": "department"
+    },
+    {
+      "id": "fac:37e23a13aa35",
+      "name": "Centre for Quality of Health and Living (CQHL)",
+      "overview": "Faculty of Health and Environmental Sciences — Centre for Quality of Health and Living (CQHL)",
+      "kind": "department"
+    },
+    {
+      "id": "fac:c9183e40d69c",
+      "name": "Civil Engineering",
+      "overview": "Faculty of Engineering, Built Environment and Information Technology — Civil Engineering",
+      "kind": "department"
+    },
+    {
+      "id": "fac:fb9602863676",
+      "name": "Clinical Sciences",
+      "overview": "Faculty of Health and Environmental Sciences — Clinical Sciences",
+      "kind": "department"
+    },
+    {
+      "id": "fac:215dc70b3c52",
+      "name": "Communication Sciences",
+      "overview": "Faculty of Humanities — Communication Sciences",
+      "kind": "department"
+    },
+    {
+      "id": "fac:aa3d0b4d1055",
+      "name": "Design and Studio Art",
+      "overview": "Faculty of Humanities — Design and Studio Art",
+      "kind": "department"
+    },
+    {
+      "id": "fac:4665ab8a27dc",
+      "name": "Disability Unit",
+      "overview": "Faculty of Teaching and Learning — Disability Unit",
+      "kind": "department"
+    },
+    {
+      "id": "fac:9fec9e634479",
+      "name": "Educational and Professional Studies",
+      "overview": "Faculty of Humanities — Educational and Professional Studies",
+      "kind": "department"
+    },
+    {
+      "id": "fac:55fee362dcf7",
+      "name": "Electrical, Electronic and Computer Engineering",
+      "overview": "Faculty of Engineering, Built Environment and Information Technology — Electrical, Electronic and Computer Engineering",
+      "kind": "department"
+    },
+    {
+      "id": "fac:9cefc3c5ab23",
+      "name": "Entrepreneurship Development Unit",
+      "overview": "Faculty of Management Sciences — Entrepreneurship Development Unit",
+      "kind": "department"
+    },
+    {
+      "id": "fac:18ab78dedb2c",
+      "name": "Faculty of Engineering, Built Environment and Information Technology",
+      "overview": "Faculty of Engineering, Built Environment and Information Technology",
+      "kind": "faculty"
+    },
+    {
+      "id": "fac:03480c876971",
+      "name": "Faculty of Health and Environmental Sciences",
+      "overview": "Faculty of Health and Environmental Sciences",
+      "kind": "faculty"
+    },
+    {
+      "id": "fac:de3e600ecc72",
+      "name": "Faculty of Humanities",
+      "overview": "Faculty of Humanities",
+      "kind": "faculty"
+    },
+    {
+      "id": "fac:1f1ba6a7548f",
+      "name": "Faculty of Management Sciences",
+      "overview": "Faculty of Management Sciences",
+      "kind": "faculty"
+    },
+    {
+      "id": "fac:a2f537e3247a",
+      "name": "Faculty of Teaching and Learning",
+      "overview": "Faculty of Teaching and Learning",
+      "kind": "faculty"
+    },
+    {
+      "id": "fac:b13bc8c73f40",
+      "name": "Government Management",
+      "overview": "Faculty of Management Sciences — Government Management",
+      "kind": "department"
+    },
+    {
+      "id": "fac:c313bcf9e1fc",
+      "name": "Graduate School",
+      "overview": "Postgraduate Students — Graduate School",
+      "kind": "school"
+    },
+    {
+      "id": "fac:943ec10878f5",
+      "name": "Health Sciences",
+      "overview": "Faculty of Health and Environmental Sciences — Health Sciences",
+      "kind": "department"
+    },
+    {
+      "id": "fac:63905d4b32f4",
+      "name": "Hospitality Management",
+      "overview": "Faculty of Management Sciences — Hospitality Management",
+      "kind": "department"
+    },
+    {
+      "id": "fac:64d7debf7750",
+      "name": "Information Technology",
+      "overview": "Faculty of Engineering, Built Environment and Information Technology — Information Technology",
+      "kind": "department"
+    },
+    {
+      "id": "fac:14bb7b2ebe7d",
+      "name": "Language and Social Sciences Education",
+      "overview": "Faculty of Humanities — Language and Social Sciences Education",
+      "kind": "department"
+    },
+    {
+      "id": "fac:e1b630900e74",
+      "name": "Life Sciences",
+      "overview": "Faculty of Health and Environmental Sciences — Life Sciences",
+      "kind": "department"
+    },
+    {
+      "id": "fac:319c9ec20ebe",
+      "name": "Mathematical and Physical Sciences",
+      "overview": "Faculty of Engineering, Built Environment and Information Technology — Mathematical and Physical Sciences",
+      "kind": "department"
+    },
+    {
+      "id": "fac:e2d91cbdef34",
+      "name": "Mathematics, Science and Technology Education",
+      "overview": "Faculty of Humanities — Mathematics, Science and Technology Education",
+      "kind": "department"
+    },
+    {
+      "id": "fac:a394677fb88f",
+      "name": "Mechanical and Mechatronic Engineering",
+      "overview": "Faculty of Engineering, Built Environment and Information Technology — Mechanical and Mechatronic Engineering",
+      "kind": "department"
+    },
+    {
+      "id": "fac:4ae14d12adfa",
+      "name": "Post Graduate Studies in Education",
+      "overview": "Faculty of Humanities — Post Graduate Studies in Education",
+      "kind": "department"
+    },
+    {
+      "id": "fac:15923b2deb76",
+      "name": "Tourism and Event Management",
+      "overview": "Faculty of Management Sciences — Tourism and Event Management",
+      "kind": "department"
+    }
+  ],
+  "programmes": [
+    {
+      "id": "prog:f950966ea5e4",
+      "name": "(SP & FET): Computer Science",
+      "normalized_name": "(SP & FET): Computer Science",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": "7",
+      "faculty_name": "Faculty of Humanities",
+      "department": null,
+      "duration": "3 years full-time",
+      "study_mode": "Full-time",
+      "campus": null,
+      "programme_code": "computer-science",
+      "saqa_code": null,
+      "min_aps": 27,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:416454ab7173",
+      "name": "(SP & FET): Economic and Management Sciences",
+      "normalized_name": "(SP & FET): Economic and Management Sciences",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": "7",
+      "faculty_name": "Faculty of Humanities",
+      "department": null,
+      "duration": "3 years full-time",
+      "study_mode": "Full-time",
+      "campus": null,
+      "programme_code": "economic-and-management-sciences",
+      "saqa_code": null,
+      "min_aps": 27,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:aef2623ec0a8",
+      "name": "(SP & FET): Language Education",
+      "normalized_name": "(SP & FET): Language Education",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": "7",
+      "faculty_name": "Faculty of Humanities",
+      "department": null,
+      "duration": "3 years full-time",
+      "study_mode": "Full-time",
+      "campus": null,
+      "programme_code": "language-education",
+      "saqa_code": null,
+      "min_aps": 27,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:30173bb20d34",
+      "name": "(SP & FET): Mathematics",
+      "normalized_name": "(SP & FET): Mathematics",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": "7",
+      "faculty_name": "Faculty of Humanities",
+      "department": null,
+      "duration": "3 years full-time",
+      "study_mode": "Full-time",
+      "campus": null,
+      "programme_code": "mathematics",
+      "saqa_code": null,
+      "min_aps": 27,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:820f5ebd9680",
+      "name": "(SP & FET): Natural Sciences",
+      "normalized_name": "(SP & FET): Natural Sciences",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": "7",
+      "faculty_name": "Faculty of Humanities",
+      "department": null,
+      "duration": "3 years full-time",
+      "study_mode": "Full-time",
+      "campus": null,
+      "programme_code": "natural-sciences",
+      "saqa_code": null,
+      "min_aps": 27,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:089f884c3ad9",
+      "name": "(SP & FET): Technology",
+      "normalized_name": "(SP & FET): Technology",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": "7",
+      "faculty_name": "Faculty of Humanities",
+      "department": null,
+      "duration": "3 years full-time",
+      "study_mode": "Full-time",
+      "campus": null,
+      "programme_code": "technology-0",
+      "saqa_code": null,
+      "min_aps": 27,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:0f70261ba8da",
+      "name": "Accountancy",
+      "normalized_name": "Accountancy",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": "8",
+      "faculty_name": "Faculty of Management Sciences",
+      "department": null,
+      "duration": "4 years full-time",
+      "study_mode": "Full-time",
+      "campus": null,
+      "programme_code": "management-sciences-in-accountancy",
+      "saqa_code": null,
+      "min_aps": 30,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:b455d2612c98",
+      "name": "Agricultural Extension",
+      "normalized_name": "Agricultural Extension",
+      "qualification_type": "Advanced Diploma",
+      "qualification_level": null,
+      "nqf_level": "7",
+      "faculty_name": "Faculty of Health and Environmental Sciences",
+      "department": null,
+      "duration": "1 year full-time",
+      "study_mode": "Full-time; part-time per prospectus",
+      "campus": null,
+      "programme_code": "agricultural-extension",
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:682fe487cd32",
+      "name": "Agricultural Management",
+      "normalized_name": "Agricultural Management",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "nqf_level": "6",
+      "faculty_name": "Faculty of Health and Environmental Sciences",
+      "department": null,
+      "duration": "2 years full-time",
+      "study_mode": "Full-time",
+      "campus": null,
+      "programme_code": "dip-agricultural-management",
+      "saqa_code": null,
+      "min_aps": 27,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:5540a0406291",
+      "name": "Applied Management",
+      "normalized_name": "Applied Management",
+      "qualification_type": "Advanced Diploma",
+      "qualification_level": null,
+      "nqf_level": "7",
+      "faculty_name": "Faculty of Management Sciences",
+      "department": null,
+      "duration": "1 year full-time",
+      "study_mode": "Full-time; part-time per prospectus",
+      "campus": null,
+      "programme_code": "advanced-diploma-applied-management",
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:a393f7928bb3",
+      "name": "Biomedical Technology",
+      "normalized_name": "Biomedical Technology",
+      "qualification_type": "Masters",
+      "qualification_level": null,
+      "nqf_level": "9",
+      "faculty_name": "Faculty of Health and Environmental Sciences",
+      "department": null,
+      "duration": "1 year minimum full-time; 2 years minimum part-time",
+      "study_mode": "Full-time; part-time per prospectus",
+      "campus": null,
+      "programme_code": "masters-health-sciences-biomedical-technology",
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:834d6754393f",
+      "name": "Civil Engineering",
+      "normalized_name": "Civil Engineering",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "nqf_level": "6",
+      "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+      "department": null,
+      "duration": "2 years full-time",
+      "study_mode": "Full-time",
+      "campus": null,
+      "programme_code": "civil-engineering",
+      "saqa_code": null,
+      "min_aps": 32,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:c7077f77c6ab",
+      "name": "Community Development Work",
+      "normalized_name": "Community Development Work",
+      "qualification_type": "Higher Certificate",
+      "qualification_level": null,
+      "nqf_level": "5",
+      "faculty_name": "Faculty of Management Sciences",
+      "department": null,
+      "duration": "1 year full-time",
+      "study_mode": "Full-time",
+      "campus": null,
+      "programme_code": "community-development-work",
+      "saqa_code": null,
+      "min_aps": 27,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:ded93d3dbc23",
+      "name": "Computer networking",
+      "normalized_name": "Computer networking",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "nqf_level": "6",
+      "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+      "department": null,
+      "duration": "2 years full-time",
+      "study_mode": "Full-time",
+      "campus": null,
+      "programme_code": "computer-networking",
+      "saqa_code": null,
+      "min_aps": 27,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:15cdcc5bcd49",
+      "name": "Construction",
+      "normalized_name": "Construction",
+      "qualification_type": "Higher Certificate",
+      "qualification_level": null,
+      "nqf_level": "5",
+      "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+      "department": null,
+      "duration": "1 year full-time",
+      "study_mode": "Full-time",
+      "campus": null,
+      "programme_code": "construction",
+      "saqa_code": null,
+      "min_aps": 27,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:cc5b6c74a91f",
+      "name": "Construction Management",
+      "normalized_name": "Construction Management",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": "7",
+      "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+      "department": null,
+      "duration": "3 years full-time",
+      "study_mode": "Full-time",
+      "campus": null,
+      "programme_code": "construction-management",
+      "saqa_code": null,
+      "min_aps": 32,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:d8f6c978a29d",
+      "name": "Dental Assisting",
+      "normalized_name": "Dental Assisting",
+      "qualification_type": "Higher Certificate",
+      "qualification_level": null,
+      "nqf_level": "5",
+      "faculty_name": "Faculty of Health and Environmental Sciences",
+      "department": null,
+      "duration": "1 year full-time",
+      "study_mode": "Full-time",
+      "campus": null,
+      "programme_code": "dental-assisting",
+      "saqa_code": null,
+      "min_aps": 27,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:f92b1e00375b",
+      "name": "Design and Studio Art",
+      "normalized_name": "Design and Studio Art",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "nqf_level": "6",
+      "faculty_name": "Faculty of Humanities",
+      "department": null,
+      "duration": "2 years full-time",
+      "study_mode": "Full-time",
+      "campus": null,
+      "programme_code": "design-and-studio-art",
+      "saqa_code": null,
+      "min_aps": 27,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:307404c186da",
+      "name": "Design Technology",
+      "normalized_name": "Design Technology",
+      "qualification_type": "Advanced Diploma",
+      "qualification_level": null,
+      "nqf_level": "7",
+      "faculty_name": "Faculty of Humanities",
+      "department": null,
+      "duration": "1 year full-time",
+      "study_mode": "Full-time; part-time per prospectus",
+      "campus": null,
+      "programme_code": "design-technology",
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:c0b2d18964f5",
+      "name": "Doctor of Education",
+      "normalized_name": "Doctor of Education",
+      "qualification_type": "Doctorate",
+      "qualification_level": null,
+      "nqf_level": "10",
+      "faculty_name": "Faculty of Humanities",
+      "department": null,
+      "duration": "2 years minimum full-time; 3 years minimum part-time",
+      "study_mode": "Full-time; part-time per prospectus",
+      "campus": null,
+      "programme_code": "doctor-of-education-postgrad-studies",
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:88c275f7f155",
+      "name": "Doctorate (Management Sciences)",
+      "normalized_name": "Doctorate (Management Sciences)",
+      "qualification_type": "Doctorate",
+      "qualification_level": null,
+      "nqf_level": "10",
+      "faculty_name": "Faculty of Management Sciences",
+      "department": null,
+      "duration": "2 years minimum full-time; 3 years minimum part-time",
+      "study_mode": "Full-time; part-time per prospectus",
+      "campus": null,
+      "programme_code": "postgraduate-studies-management-sciences",
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:b7fe40f79608",
+      "name": "Educational Management",
+      "normalized_name": "Educational Management",
+      "qualification_type": "Honours",
+      "qualification_level": null,
+      "nqf_level": "8",
+      "faculty_name": "Faculty of Humanities",
+      "department": null,
+      "duration": "1 year full-time; 2 years part-time",
+      "study_mode": "Full-time; part-time per prospectus",
+      "campus": null,
+      "programme_code": "educational-management",
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:1fefc2584d41",
+      "name": "Electrical Engineering",
+      "normalized_name": "Electrical Engineering",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": "7",
+      "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+      "department": null,
+      "duration": "3 years full-time",
+      "study_mode": "Full-time",
+      "campus": null,
+      "programme_code": "engineering-technology-in-electrical-engineer",
+      "saqa_code": null,
+      "min_aps": 32,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:fff632a522a4",
+      "name": "Entrepreneurial Management",
+      "normalized_name": "Entrepreneurial Management",
+      "qualification_type": "Honours",
+      "qualification_level": null,
+      "nqf_level": "8",
+      "faculty_name": "Faculty of Management Sciences",
+      "department": null,
+      "duration": "1 year full-time; 2 years part-time",
+      "study_mode": "Full-time; part-time per prospectus",
+      "campus": null,
+      "programme_code": "postgrad-diploma-entrepreneurial-management",
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:78f6d7c002cc",
+      "name": "Environmental Health",
+      "normalized_name": "Environmental Health",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": "8",
+      "faculty_name": "Faculty of Health and Environmental Sciences",
+      "department": null,
+      "duration": "4 years full-time",
+      "study_mode": "Full-time",
+      "campus": null,
+      "programme_code": "environmental-health-0",
+      "saqa_code": null,
+      "min_aps": 30,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:051d4fe3f70f",
+      "name": "Foundation Phase Teaching",
+      "normalized_name": "Foundation Phase Teaching",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": "7",
+      "faculty_name": "Faculty of Humanities",
+      "department": null,
+      "duration": "3 years full-time",
+      "study_mode": "Full-time",
+      "campus": null,
+      "programme_code": "foundation-phase-teaching",
+      "saqa_code": null,
+      "min_aps": 27,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:07bef19f6876",
+      "name": "Health and Safety Management",
+      "normalized_name": "Health and Safety Management",
+      "qualification_type": "Honours",
+      "qualification_level": null,
+      "nqf_level": "8",
+      "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+      "department": null,
+      "duration": "1 year full-time; 2 years part-time",
+      "study_mode": "Full-time; part-time per prospectus",
+      "campus": null,
+      "programme_code": "pd-health-and-safety-management",
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:481f0c1900e5",
+      "name": "Health and Safety Management (Construction)",
+      "normalized_name": "Health and Safety Management (Construction)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": "7",
+      "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+      "department": null,
+      "duration": "3 years full-time",
+      "study_mode": "Full-time",
+      "campus": null,
+      "programme_code": "health-and-safety-management",
+      "saqa_code": null,
+      "min_aps": 32,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:af2c6eb20311",
+      "name": "Health Management",
+      "normalized_name": "Health Management",
+      "qualification_type": "Advanced Diploma",
+      "qualification_level": null,
+      "nqf_level": "7",
+      "faculty_name": "Faculty of Health and Environmental Sciences",
+      "department": null,
+      "duration": "1 year full-time",
+      "study_mode": "Full-time; part-time per prospectus",
+      "campus": null,
+      "programme_code": "health-management",
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:c9a3b33343b0",
+      "name": "Health Science: Medical Laboratory Sciences",
+      "normalized_name": "Health Science: Medical Laboratory Sciences",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": "8",
+      "faculty_name": "Faculty of Health and Environmental Sciences",
+      "department": null,
+      "duration": "4 years full-time",
+      "study_mode": "Full-time",
+      "campus": null,
+      "programme_code": "bachelor-health-sciences-medical-lab-science",
+      "saqa_code": null,
+      "min_aps": 30,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:078058a9400d",
+      "name": "Health Sciences in Clinical Technology",
+      "normalized_name": "Health Sciences in Clinical Technology",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": "8",
+      "faculty_name": "Faculty of Health and Environmental Sciences",
+      "department": null,
+      "duration": "4 years full-time",
+      "study_mode": "Full-time",
+      "campus": null,
+      "programme_code": "bachelor-health-sciences-clinical-tech",
+      "saqa_code": null,
+      "min_aps": 30,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:7769eaae4b4c",
+      "name": "Higher Education (Teaching and Learning)",
+      "normalized_name": "Higher Education (Teaching and Learning)",
+      "qualification_type": "Honours",
+      "qualification_level": null,
+      "nqf_level": "8",
+      "faculty_name": "Faculty of Humanities",
+      "department": null,
+      "duration": "1 year full-time; 2 years part-time",
+      "study_mode": "Full-time; part-time per prospectus",
+      "campus": null,
+      "programme_code": "higher-education",
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:547086ce5068",
+      "name": "Hospitality Management",
+      "normalized_name": "Hospitality Management",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "nqf_level": "6",
+      "faculty_name": "Faculty of Management Sciences",
+      "department": null,
+      "duration": "2 years full-time",
+      "study_mode": "Full-time",
+      "campus": null,
+      "programme_code": "hospitality-management",
+      "saqa_code": null,
+      "min_aps": 27,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:47379e3cc02c",
+      "name": "Human Resources Management",
+      "normalized_name": "Human Resources Management",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "nqf_level": "6",
+      "faculty_name": "Faculty of Management Sciences",
+      "department": null,
+      "duration": "2 years full-time",
+      "study_mode": "Full-time",
+      "campus": null,
+      "programme_code": "human-resources-management",
+      "saqa_code": null,
+      "min_aps": 27,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:1f1b1b1baad8",
+      "name": "Hydrology and Water Resources Management",
+      "normalized_name": "Hydrology and Water Resources Management",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": "7",
+      "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+      "department": null,
+      "duration": "3 years full-time",
+      "study_mode": "Full-time",
+      "campus": null,
+      "programme_code": "hydrology-and-water-resources-management",
+      "saqa_code": null,
+      "min_aps": 28,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:dd7751c78943",
+      "name": "Information Technology",
+      "normalized_name": "Information Technology",
+      "qualification_type": "Higher Certificate",
+      "qualification_level": null,
+      "nqf_level": "5",
+      "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+      "department": null,
+      "duration": "1 year full-time",
+      "study_mode": "Full-time",
+      "campus": null,
+      "programme_code": "information-technology-2",
+      "saqa_code": null,
+      "min_aps": 27,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:30a84985e4c3",
+      "name": "Internal Auditing",
+      "normalized_name": "Internal Auditing",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": "8",
+      "faculty_name": "Faculty of Management Sciences",
+      "department": null,
+      "duration": "4 years full-time",
+      "study_mode": "Full-time",
+      "campus": null,
+      "programme_code": "internal-auditing-1",
+      "saqa_code": null,
+      "min_aps": 30,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:ba54cd00862a",
+      "name": "Language Practice",
+      "normalized_name": "Language Practice",
+      "qualification_type": "Advanced Diploma",
+      "qualification_level": null,
+      "nqf_level": "7",
+      "faculty_name": "Faculty of Humanities",
+      "department": null,
+      "duration": "1 year full-time",
+      "study_mode": "Full-time; part-time per prospectus",
+      "campus": null,
+      "programme_code": "advanced-diploma-language-practice",
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:95c1e3f7db37",
+      "name": "Language Practice and Media Studies",
+      "normalized_name": "Language Practice and Media Studies",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "nqf_level": "6",
+      "faculty_name": "Faculty of Humanities",
+      "department": null,
+      "duration": "2 years full-time",
+      "study_mode": "Full-time",
+      "campus": null,
+      "programme_code": "language-practice-and-media-studies-1",
+      "saqa_code": null,
+      "min_aps": 27,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:700fb157018e",
+      "name": "Logistics and Transportation Management",
+      "normalized_name": "Logistics and Transportation Management",
+      "qualification_type": "Advanced Diploma",
+      "qualification_level": null,
+      "nqf_level": "7",
+      "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+      "department": null,
+      "duration": "1 year full-time",
+      "study_mode": "Full-time; part-time per prospectus",
+      "campus": null,
+      "programme_code": "logistics-and-transportation-management",
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:6d05cc170b54",
+      "name": "Management",
+      "normalized_name": "Management",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "nqf_level": "6",
+      "faculty_name": "Faculty of Management Sciences",
+      "department": null,
+      "duration": "2 years full-time",
+      "study_mode": "Full-time",
+      "campus": null,
+      "programme_code": "diploma-management",
+      "saqa_code": null,
+      "min_aps": 30,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:ee309548eea7",
+      "name": "Management Sciences",
+      "normalized_name": "Management Sciences",
+      "qualification_type": "Masters",
+      "qualification_level": null,
+      "nqf_level": "9",
+      "faculty_name": "Faculty of Management Sciences",
+      "department": null,
+      "duration": "1 year minimum full-time; 2 years minimum part-time",
+      "study_mode": "Full-time; part-time per prospectus",
+      "campus": null,
+      "programme_code": "master-of-philosophy-mphil-in-management-scie",
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:927890e6fc7e",
+      "name": "Marketing",
+      "normalized_name": "Marketing",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "nqf_level": "6",
+      "faculty_name": "Faculty of Management Sciences",
+      "department": null,
+      "duration": "2 years full-time",
+      "study_mode": "Full-time",
+      "campus": null,
+      "programme_code": "marketing-2",
+      "saqa_code": null,
+      "min_aps": 27,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:10fac0f5587c",
+      "name": "Masters (Management Sciences)",
+      "normalized_name": "Masters (Management Sciences)",
+      "qualification_type": "Masters",
+      "qualification_level": null,
+      "nqf_level": "9",
+      "faculty_name": "Faculty of Management Sciences",
+      "department": null,
+      "duration": "1 year minimum full-time; 2 years minimum part-time",
+      "study_mode": "Full-time; part-time per prospectus",
+      "campus": null,
+      "programme_code": "postgraduate-studies-management-sciences",
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:3cc65f2f2a87",
+      "name": "Mathematics for Engineering Technology",
+      "normalized_name": "Mathematics for Engineering Technology",
+      "qualification_type": "Higher Certificate",
+      "qualification_level": null,
+      "nqf_level": "5",
+      "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+      "department": null,
+      "duration": "1 year full-time",
+      "study_mode": "Full-time",
+      "campus": null,
+      "programme_code": "hc-mathematics-for-engineering-technology",
+      "saqa_code": null,
+      "min_aps": 27,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:a9458fe5145d",
+      "name": "Mechanical Engineering",
+      "normalized_name": "Mechanical Engineering",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": "7",
+      "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+      "department": null,
+      "duration": "3 years full-time",
+      "study_mode": "Full-time",
+      "campus": null,
+      "programme_code": "engineering-technology-mechanical-0",
+      "saqa_code": null,
+      "min_aps": 32,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:9ee801a2239b",
+      "name": "MEd",
+      "normalized_name": "MEd",
+      "qualification_type": "Masters",
+      "qualification_level": null,
+      "nqf_level": "9",
+      "faculty_name": "Faculty of Humanities",
+      "department": null,
+      "duration": "1 year minimum full-time; 2 years minimum part-time",
+      "study_mode": "Full-time; part-time per prospectus",
+      "campus": null,
+      "programme_code": "master-of-education-postgrad-studies",
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:8a586be5bb1d",
+      "name": "Media Studies",
+      "normalized_name": "Media Studies",
+      "qualification_type": "Advanced Diploma",
+      "qualification_level": null,
+      "nqf_level": "7",
+      "faculty_name": "Faculty of Humanities",
+      "department": null,
+      "duration": "1 year full-time",
+      "study_mode": "Full-time; part-time per prospectus",
+      "campus": null,
+      "programme_code": "advanced-diploma-media-studies",
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:5d49a53edeaa",
+      "name": "Monitoring and Evaluation",
+      "normalized_name": "Monitoring and Evaluation",
+      "qualification_type": "Advanced Diploma",
+      "qualification_level": null,
+      "nqf_level": "7",
+      "faculty_name": "Faculty of Management Sciences",
+      "department": null,
+      "duration": "1 year full-time",
+      "study_mode": "Full-time; part-time per prospectus",
+      "campus": null,
+      "programme_code": "advdip-monitoring-evaluation",
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:f0dc3d854df7",
+      "name": "Office Management and Technology",
+      "normalized_name": "Office Management and Technology",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "nqf_level": "6",
+      "faculty_name": "Faculty of Management Sciences",
+      "department": null,
+      "duration": "2 years full-time",
+      "study_mode": "Full-time",
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": 27,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:334435d93a1d",
+      "name": "Postgraduate Certificate In Education (PGCE)",
+      "normalized_name": "Postgraduate Certificate In Education (PGCE)",
+      "qualification_type": "Advanced Diploma",
+      "qualification_level": null,
+      "nqf_level": "7",
+      "faculty_name": "Faculty of Humanities",
+      "department": null,
+      "duration": "1 year full-time",
+      "study_mode": "Full-time; part-time per prospectus",
+      "campus": null,
+      "programme_code": "postgraduate-certificate-in-education-pgce",
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:1d9683387aaa",
+      "name": "Project Management",
+      "normalized_name": "Project Management",
+      "qualification_type": "Honours",
+      "qualification_level": null,
+      "nqf_level": "8",
+      "faculty_name": "Faculty of Management Sciences",
+      "department": null,
+      "duration": "1 year full-time; 2 years part-time",
+      "study_mode": "Full-time; part-time per prospectus",
+      "campus": null,
+      "programme_code": "postgrad-diploma-project-management",
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:3f3d7a712d39",
+      "name": "Public Management",
+      "normalized_name": "Public Management",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "nqf_level": "6",
+      "faculty_name": "Faculty of Management Sciences",
+      "department": null,
+      "duration": "2 years full-time",
+      "study_mode": "Full-time",
+      "campus": null,
+      "programme_code": "public-management",
+      "saqa_code": null,
+      "min_aps": 27,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:b0ab65899977",
+      "name": "Quantity Surveying",
+      "normalized_name": "Quantity Surveying",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": "7",
+      "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+      "department": null,
+      "duration": "3 years full-time",
+      "study_mode": "Full-time",
+      "campus": null,
+      "programme_code": "quantity-surveying",
+      "saqa_code": null,
+      "min_aps": 32,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:59f2cf0956b2",
+      "name": "Radiography in Diagnostics",
+      "normalized_name": "Radiography in Diagnostics",
+      "qualification_type": "Honours",
+      "qualification_level": null,
+      "nqf_level": "8",
+      "faculty_name": "Faculty of Health and Environmental Sciences",
+      "department": null,
+      "duration": "1 year full-time; 2 years part-time",
+      "study_mode": "Full-time; part-time per prospectus",
+      "campus": null,
+      "programme_code": "radiography-in-diagnostics",
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:23bec50eab9e",
+      "name": "Renewable Energy Technologies",
+      "normalized_name": "Renewable Energy Technologies",
+      "qualification_type": "Higher Certificate",
+      "qualification_level": null,
+      "nqf_level": "5",
+      "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+      "department": null,
+      "duration": "1 year full-time",
+      "study_mode": "Full-time",
+      "campus": null,
+      "programme_code": "renewable-energy-technologies",
+      "saqa_code": null,
+      "min_aps": 27,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:5eb91c3d7500",
+      "name": "Somatology",
+      "normalized_name": "Somatology",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "nqf_level": "6",
+      "faculty_name": "Faculty of Health and Environmental Sciences",
+      "department": null,
+      "duration": "2 years full-time",
+      "study_mode": "Full-time",
+      "campus": null,
+      "programme_code": "somatology",
+      "saqa_code": null,
+      "min_aps": 27,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:2c2b0026bffc",
+      "name": "Studio Art",
+      "normalized_name": "Studio Art",
+      "qualification_type": "Advanced Diploma",
+      "qualification_level": null,
+      "nqf_level": "7",
+      "faculty_name": "Faculty of Humanities",
+      "department": null,
+      "duration": "1 year full-time",
+      "study_mode": "Full-time; part-time per prospectus",
+      "campus": null,
+      "programme_code": "studio-art-0",
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:90ef1ed3fc1d",
+      "name": "Therapeutic Services",
+      "normalized_name": "Therapeutic Services",
+      "qualification_type": "Advanced Diploma",
+      "qualification_level": null,
+      "nqf_level": "7",
+      "faculty_name": "Faculty of Health and Environmental Sciences",
+      "department": null,
+      "duration": "1 year full-time",
+      "study_mode": "Full-time; part-time per prospectus",
+      "campus": null,
+      "programme_code": "adv-dip-therapeutic-services",
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:b9bfbfe3926d",
+      "name": "Tourism Management",
+      "normalized_name": "Tourism Management",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "nqf_level": "6",
+      "faculty_name": "Faculty of Management Sciences",
+      "department": null,
+      "duration": "2 years full-time",
+      "study_mode": "Full-time",
+      "campus": null,
+      "programme_code": "tourism-management",
+      "saqa_code": null,
+      "min_aps": 28,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:2c94b0f68f5e",
+      "name": "Urban Development",
+      "normalized_name": "Urban Development",
+      "qualification_type": "Honours",
+      "qualification_level": null,
+      "nqf_level": "8",
+      "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+      "department": null,
+      "duration": "1 year full-time; 2 years part-time",
+      "study_mode": "Full-time; part-time per prospectus",
+      "campus": null,
+      "programme_code": "postgraduate-diploma-in-construction-urban-de",
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    }
+  ],
+  "admission": {
+    "aps_name": null,
+    "aps_calculation_notes": null,
+    "minimum_aps_for_bachelors": null,
+    "minimum_aps_for_diplomas": null,
+    "minimum_entry_note": null,
+    "life_orientation_cap": null,
+    "aps_rules": [
+      {
+        "id": "aps:6602d7d7851c",
+        "scope": "programme",
+        "min_aps": 28,
+        "programme": "Hydrology and Water Resources Management",
+        "excerpt": "Minimum points 28 for Hydrology and Water Resources Management"
+      },
+      {
+        "id": "aps:9b36d520e166",
+        "scope": "programme",
+        "min_aps": 30,
+        "programme": "Health Sciences in Clinical Technology",
+        "excerpt": "Minimum points 30 for Health Sciences in Clinical Technology"
+      },
+      {
+        "id": "aps:bf3e00028a29",
+        "scope": "programme",
+        "min_aps": 32,
+        "programme": "Construction Management",
+        "excerpt": "Minimum points 32 for Construction Management"
+      },
+      {
+        "id": "aps:e4047f53044d",
+        "scope": "institution",
+        "min_aps": 27,
+        "programme": null,
+        "excerpt": "Minimum points to study at CUT are 27. Between 24 and 26 you may be eligible for the selection test."
+      }
+    ],
+    "programme_requirements": [
+      {
+        "institution_id": "326",
+        "institution_name": "Central University of Technology, Free State",
+        "rule_type": "institution_minimum",
+        "programme_name": null,
+        "faculty_name": null,
+        "detail": "Minimum APS to study at CUT is 27. Applicants with APS 24-26 may be eligible for a selection test if places remain.",
+        "aps_minimum": 27,
+        "subjects_compulsory": null,
+        "subject_or_groups": null,
+        "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "source_excerpt": "Minimum points to study at CUT are 27.",
+        "extraction_confidence": 0.92,
+        "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "institution_minimum",
+        "id": "adm:038c52d1e101",
+        "institutionId": "326"
+      },
+      {
+        "institution_id": "326",
+        "institution_name": "Central University of Technology, Free State",
+        "rule_type": "programme_minimum",
+        "programme_name": "Internal Auditing",
+        "faculty_name": "Faculty of Management Sciences",
+        "detail": "Minimum APS 30. Minimum level of achievement: Mathematics level 3 minimum; Mathematical Literacy level 5 minimum; Accounting level 6 minimum; English level 4 minimum. Life Orientation counts as 1 point. APS 24-26 may qualify for selection test if space allows.",
+        "aps_minimum": 30,
+        "subjects_compulsory": [
+          "Mathematics level 3 minimum",
+          "Mathematical Literacy level 5 minimum",
+          "Accounting level 6 minimum",
+          "English level 4 minimum"
+        ],
+        "subject_or_groups": [
+          {
+            "subject_code": "M",
+            "subject_name": "Mathematics",
+            "minimum_level": 3
+          },
+          {
+            "subject_code": "ML",
+            "subject_name": "Mathematical Literacy",
+            "minimum_level": 5
+          },
+          {
+            "subject_code": "A",
+            "subject_name": "Accounting",
+            "minimum_level": 6
+          },
+          {
+            "subject_code": "E",
+            "subject_name": "English",
+            "minimum_level": 4
+          }
+        ],
+        "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "source_excerpt": "NQF 8 (Bachelor) Internal Auditing APS 30",
+        "extraction_confidence": 0.92,
+        "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "programme_minimum",
+        "id": "adm:0636a9183551",
+        "institutionId": "326"
+      },
+      {
+        "institution_id": "326",
+        "institution_name": "Central University of Technology, Free State",
+        "rule_type": "programme_minimum",
+        "programme_name": "(SP & FET): Technology",
+        "faculty_name": "Faculty of Humanities",
+        "detail": "Minimum APS 27. Minimum level of achievement: Mathematics level 4 minimum; Physical Sciences level 4 minimum; English level 4 minimum; Life Orientation level 4 minimum. Life Orientation counts as 1 point. APS 24-26 may qualify for selection test if space allows.",
+        "aps_minimum": 27,
+        "subjects_compulsory": [
+          "Mathematics level 4 minimum",
+          "Physical Sciences level 4 minimum",
+          "English level 4 minimum",
+          "Life Orientation level 4 minimum"
+        ],
+        "subject_or_groups": [
+          {
+            "subject_code": "M",
+            "subject_name": "Mathematics",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "PS",
+            "subject_name": "Physical Sciences",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "E",
+            "subject_name": "English",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "LO",
+            "subject_name": "Life Orientation",
+            "minimum_level": 4
+          }
+        ],
+        "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "source_excerpt": "NQF 7 (Bachelor) (SP & FET): Technology APS 27",
+        "extraction_confidence": 0.92,
+        "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "programme_minimum",
+        "id": "adm:0985db6ca0eb",
+        "institutionId": "326"
+      },
+      {
+        "institution_id": "326",
+        "institution_name": "Central University of Technology, Free State",
+        "rule_type": "programme_minimum",
+        "programme_name": "Electrical Engineering",
+        "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+        "detail": "Minimum APS 32. Minimum level of achievement: Mathematics level 4 minimum; Physical Sciences level 4 minimum; English level 4 minimum; English level 4 minimum. Life Orientation counts as 1 point. APS 24-26 may qualify for selection test if space allows.",
+        "aps_minimum": 32,
+        "subjects_compulsory": [
+          "Mathematics level 4 minimum",
+          "Physical Sciences level 4 minimum",
+          "English level 4 minimum",
+          "English level 4 minimum"
+        ],
+        "subject_or_groups": [
+          {
+            "subject_code": "M",
+            "subject_name": "Mathematics",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "PS",
+            "subject_name": "Physical Sciences",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "E",
+            "subject_name": "English",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "E",
+            "subject_name": "English",
+            "minimum_level": 4
+          }
+        ],
+        "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "source_excerpt": "NQF 7 (Bachelor) Electrical Engineering APS 32",
+        "extraction_confidence": 0.92,
+        "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "programme_minimum",
+        "id": "adm:0bbb5e12d7f1",
+        "institutionId": "326"
+      },
+      {
+        "institution_id": "326",
+        "institution_name": "Central University of Technology, Free State",
+        "rule_type": "programme_minimum",
+        "programme_name": "Language Practice and Media Studies",
+        "faculty_name": "Faculty of Humanities",
+        "detail": "Minimum APS 27. Minimum level of achievement: English level 5 minimum; Life Orientation level 4 minimum; Languages level 5 minimum. Life Orientation counts as 1 point. APS 24-26 may qualify for selection test if space allows.",
+        "aps_minimum": 27,
+        "subjects_compulsory": [
+          "English level 5 minimum",
+          "Life Orientation level 4 minimum",
+          "Languages level 5 minimum"
+        ],
+        "subject_or_groups": [
+          {
+            "subject_code": "E",
+            "subject_name": "English",
+            "minimum_level": 5
+          },
+          {
+            "subject_code": "LO",
+            "subject_name": "Life Orientation",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "L",
+            "subject_name": "Languages",
+            "minimum_level": 5
+          }
+        ],
+        "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "source_excerpt": "NQF 6 (Dip) Language Practice and Media Studies APS 27",
+        "extraction_confidence": 0.92,
+        "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "programme_minimum",
+        "id": "adm:0dcaf16f5841",
+        "institutionId": "326"
+      },
+      {
+        "institution_id": "326",
+        "institution_name": "Central University of Technology, Free State",
+        "rule_type": "programme_minimum",
+        "programme_name": "Tourism Management",
+        "faculty_name": "Faculty of Management Sciences",
+        "detail": "Minimum APS 28. Minimum level of achievement: Mathematics level 4 minimum. Life Orientation counts as 1 point. APS 24-26 may qualify for selection test if space allows.",
+        "aps_minimum": 28,
+        "subjects_compulsory": [
+          "Mathematics level 4 minimum"
+        ],
+        "subject_or_groups": [
+          {
+            "subject_code": "M",
+            "subject_name": "Mathematics",
+            "minimum_level": 4
+          }
+        ],
+        "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "source_excerpt": "NQF 6 (Dip) Tourism Management APS 28",
+        "extraction_confidence": 0.92,
+        "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "programme_minimum",
+        "id": "adm:13cf48110ebd",
+        "institutionId": "326"
+      },
+      {
+        "institution_id": "326",
+        "institution_name": "Central University of Technology, Free State",
+        "rule_type": "programme_minimum",
+        "programme_name": "Mechanical Engineering",
+        "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+        "detail": "Minimum APS 32. Minimum level of achievement: Mathematics level 5 minimum; Physical Sciences level 4 minimum; English level 3 minimum; English level 3 minimum. Life Orientation counts as 1 point. APS 24-26 may qualify for selection test if space allows.",
+        "aps_minimum": 32,
+        "subjects_compulsory": [
+          "Mathematics level 5 minimum",
+          "Physical Sciences level 4 minimum",
+          "English level 3 minimum",
+          "English level 3 minimum"
+        ],
+        "subject_or_groups": [
+          {
+            "subject_code": "M",
+            "subject_name": "Mathematics",
+            "minimum_level": 5
+          },
+          {
+            "subject_code": "PS",
+            "subject_name": "Physical Sciences",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "E",
+            "subject_name": "English",
+            "minimum_level": 3
+          },
+          {
+            "subject_code": "E",
+            "subject_name": "English",
+            "minimum_level": 3
+          }
+        ],
+        "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "source_excerpt": "NQF 7 (Bachelor) Mechanical Engineering APS 32",
+        "extraction_confidence": 0.92,
+        "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "programme_minimum",
+        "id": "adm:148531db389d",
+        "institutionId": "326"
+      },
+      {
+        "institution_id": "326",
+        "institution_name": "Central University of Technology, Free State",
+        "rule_type": "programme_minimum",
+        "programme_name": "Renewable Energy Technologies",
+        "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+        "detail": "Minimum APS 27. Minimum level of achievement: Mathematics level 4 minimum; Physical Sciences level 4 minimum. Life Orientation counts as 1 point. APS 24-26 may qualify for selection test if space allows.",
+        "aps_minimum": 27,
+        "subjects_compulsory": [
+          "Mathematics level 4 minimum",
+          "Physical Sciences level 4 minimum"
+        ],
+        "subject_or_groups": [
+          {
+            "subject_code": "M",
+            "subject_name": "Mathematics",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "PS",
+            "subject_name": "Physical Sciences",
+            "minimum_level": 4
+          }
+        ],
+        "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "source_excerpt": "NQF 5 (HCert) Renewable Energy Technologies APS 27",
+        "extraction_confidence": 0.92,
+        "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "programme_minimum",
+        "id": "adm:2122b0fa14df",
+        "institutionId": "326"
+      },
+      {
+        "institution_id": "326",
+        "institution_name": "Central University of Technology, Free State",
+        "rule_type": "programme_minimum",
+        "programme_name": "Office Management and Technology",
+        "faculty_name": "Faculty of Management Sciences",
+        "detail": "Minimum APS 27. Minimum level of achievement: Mathematics level 4 minimum; Life Orientation level 4 minimum. Life Orientation counts as 1 point. APS 24-26 may qualify for selection test if space allows.",
+        "aps_minimum": 27,
+        "subjects_compulsory": [
+          "Mathematics level 4 minimum",
+          "Life Orientation level 4 minimum"
+        ],
+        "subject_or_groups": [
+          {
+            "subject_code": "M",
+            "subject_name": "Mathematics",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "LO",
+            "subject_name": "Life Orientation",
+            "minimum_level": 4
+          }
+        ],
+        "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "source_excerpt": "NQF 6 (Dip) Office Management and Technology APS 27",
+        "extraction_confidence": 0.92,
+        "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "programme_minimum",
+        "id": "adm:25ae5213ab9a",
+        "institutionId": "326"
+      },
+      {
+        "institution_id": "326",
+        "institution_name": "Central University of Technology, Free State",
+        "rule_type": "programme_minimum",
+        "programme_name": "(SP & FET): Mathematics",
+        "faculty_name": "Faculty of Humanities",
+        "detail": "Minimum APS 27. Minimum level of achievement: Mathematics level 4 minimum; Physical Sciences level 4 minimum; English level 4 minimum; Life Orientation level 4 minimum. Life Orientation counts as 1 point. APS 24-26 may qualify for selection test if space allows.",
+        "aps_minimum": 27,
+        "subjects_compulsory": [
+          "Mathematics level 4 minimum",
+          "Physical Sciences level 4 minimum",
+          "English level 4 minimum",
+          "Life Orientation level 4 minimum"
+        ],
+        "subject_or_groups": [
+          {
+            "subject_code": "M",
+            "subject_name": "Mathematics",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "PS",
+            "subject_name": "Physical Sciences",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "E",
+            "subject_name": "English",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "LO",
+            "subject_name": "Life Orientation",
+            "minimum_level": 4
+          }
+        ],
+        "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "source_excerpt": "NQF 7 (Bachelor) (SP & FET): Mathematics APS 27",
+        "extraction_confidence": 0.92,
+        "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "programme_minimum",
+        "id": "adm:32da1f39890f",
+        "institutionId": "326"
+      },
+      {
+        "institution_id": "326",
+        "institution_name": "Central University of Technology, Free State",
+        "rule_type": "programme_minimum",
+        "programme_name": "Health and Safety Management (Construction)",
+        "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+        "detail": "Minimum APS 32. Minimum level of achievement: Mathematics level 4 minimum; Physical Sciences level 4 minimum; English level 4 minimum; Life Orientation level 4 minimum; English level 4 minimum. Life Orientation counts as 1 point. APS 24-26 may qualify for selection test if space allows.",
+        "aps_minimum": 32,
+        "subjects_compulsory": [
+          "Mathematics level 4 minimum",
+          "Physical Sciences level 4 minimum",
+          "English level 4 minimum",
+          "Life Orientation level 4 minimum",
+          "English level 4 minimum"
+        ],
+        "subject_or_groups": [
+          {
+            "subject_code": "M",
+            "subject_name": "Mathematics",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "PS",
+            "subject_name": "Physical Sciences",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "E",
+            "subject_name": "English",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "LO",
+            "subject_name": "Life Orientation",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "E",
+            "subject_name": "English",
+            "minimum_level": 4
+          }
+        ],
+        "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "source_excerpt": "NQF 7 (Bachelor) Health and Safety Management (Construction) APS 32",
+        "extraction_confidence": 0.92,
+        "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "programme_minimum",
+        "id": "adm:340b85210c55",
+        "institutionId": "326"
+      },
+      {
+        "institution_id": "326",
+        "institution_name": "Central University of Technology, Free State",
+        "rule_type": "programme_minimum",
+        "programme_name": "Information Technology",
+        "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+        "detail": "Minimum APS 27. Minimum level of achievement: Mathematics level 3 minimum; Mathematical Literacy level 6 minimum; English level 4 minimum; Life Orientation level 4 minimum; English level 4 minimum. Life Orientation counts as 1 point. APS 24-26 may qualify for selection test if space allows.",
+        "aps_minimum": 27,
+        "subjects_compulsory": [
+          "Mathematics level 3 minimum",
+          "Mathematical Literacy level 6 minimum",
+          "English level 4 minimum",
+          "Life Orientation level 4 minimum",
+          "English level 4 minimum"
+        ],
+        "subject_or_groups": [
+          {
+            "subject_code": "M",
+            "subject_name": "Mathematics",
+            "minimum_level": 3
+          },
+          {
+            "subject_code": "ML",
+            "subject_name": "Mathematical Literacy",
+            "minimum_level": 6
+          },
+          {
+            "subject_code": "E",
+            "subject_name": "English",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "LO",
+            "subject_name": "Life Orientation",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "E",
+            "subject_name": "English",
+            "minimum_level": 4
+          }
+        ],
+        "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "source_excerpt": "NQF 5 (HCert) Information Technology APS 27",
+        "extraction_confidence": 0.92,
+        "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "programme_minimum",
+        "id": "adm:3574959bad74",
+        "institutionId": "326"
+      },
+      {
+        "institution_id": "326",
+        "institution_name": "Central University of Technology, Free State",
+        "rule_type": "programme_minimum",
+        "programme_name": "(SP & FET): Computer Science",
+        "faculty_name": "Faculty of Humanities",
+        "detail": "Minimum APS 27. Minimum level of achievement: Mathematics level 4 minimum; English level 4 minimum; Life Orientation level 4 minimum. Life Orientation counts as 1 point. APS 24-26 may qualify for selection test if space allows.",
+        "aps_minimum": 27,
+        "subjects_compulsory": [
+          "Mathematics level 4 minimum",
+          "English level 4 minimum",
+          "Life Orientation level 4 minimum"
+        ],
+        "subject_or_groups": [
+          {
+            "subject_code": "M",
+            "subject_name": "Mathematics",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "E",
+            "subject_name": "English",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "LO",
+            "subject_name": "Life Orientation",
+            "minimum_level": 4
+          }
+        ],
+        "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "source_excerpt": "NQF 7 (Bachelor) (SP & FET): Computer Science APS 27",
+        "extraction_confidence": 0.92,
+        "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "programme_minimum",
+        "id": "adm:392c4d5c70a4",
+        "institutionId": "326"
+      },
+      {
+        "institution_id": "326",
+        "institution_name": "Central University of Technology, Free State",
+        "rule_type": "programme_minimum",
+        "programme_name": "Electrical Engineering",
+        "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+        "detail": "Minimum APS 27. Minimum level of achievement: Mathematics level 4 minimum; Physical Sciences level 4 minimum; English level 4 minimum; English level 4 minimum. Life Orientation counts as 1 point. APS 24-26 may qualify for selection test if space allows.",
+        "aps_minimum": 27,
+        "subjects_compulsory": [
+          "Mathematics level 4 minimum",
+          "Physical Sciences level 4 minimum",
+          "English level 4 minimum",
+          "English level 4 minimum"
+        ],
+        "subject_or_groups": [
+          {
+            "subject_code": "M",
+            "subject_name": "Mathematics",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "PS",
+            "subject_name": "Physical Sciences",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "E",
+            "subject_name": "English",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "E",
+            "subject_name": "English",
+            "minimum_level": 4
+          }
+        ],
+        "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "source_excerpt": "NQF 6 (Dip) Electrical Engineering APS 27",
+        "extraction_confidence": 0.92,
+        "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "programme_minimum",
+        "id": "adm:3ad5115ec31e",
+        "institutionId": "326"
+      },
+      {
+        "institution_id": "326",
+        "institution_name": "Central University of Technology, Free State",
+        "rule_type": "programme_minimum",
+        "programme_name": "Agricultural Management",
+        "faculty_name": "Faculty of Health and Environmental Sciences",
+        "detail": "Minimum APS 27. Minimum level of achievement: Mathematics level 4 minimum; Mathematical Literacy level 4 minimum; Physical Sciences level 4 minimum; Life Sciences level 4 minimum; English level 4 minimum; Life Orientation level 4 minimum; Languages level 4 minimum; Accounting level 4 minimum; Agricultural Sciences level 4 minimum. Life Orientation counts as 1 point. APS 24-26 may qualify for selection test if space allows.",
+        "aps_minimum": 27,
+        "subjects_compulsory": [
+          "Mathematics level 4 minimum",
+          "Mathematical Literacy level 4 minimum",
+          "Physical Sciences level 4 minimum",
+          "Life Sciences level 4 minimum",
+          "English level 4 minimum",
+          "Life Orientation level 4 minimum",
+          "Languages level 4 minimum",
+          "Accounting level 4 minimum",
+          "Agricultural Sciences level 4 minimum"
+        ],
+        "subject_or_groups": [
+          {
+            "subject_code": "M",
+            "subject_name": "Mathematics",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "ML",
+            "subject_name": "Mathematical Literacy",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "PS",
+            "subject_name": "Physical Sciences",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "LS",
+            "subject_name": "Life Sciences",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "E",
+            "subject_name": "English",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "LO",
+            "subject_name": "Life Orientation",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "L",
+            "subject_name": "Languages",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "A",
+            "subject_name": "Accounting",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "AS",
+            "subject_name": "Agricultural Sciences",
+            "minimum_level": 4
+          }
+        ],
+        "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "source_excerpt": "NQF 6 (Dip) Agricultural Management APS 27",
+        "extraction_confidence": 0.92,
+        "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "programme_minimum",
+        "id": "adm:4e209e3fb1dc",
+        "institutionId": "326"
+      },
+      {
+        "institution_id": "326",
+        "institution_name": "Central University of Technology, Free State",
+        "rule_type": "programme_minimum",
+        "programme_name": "Management",
+        "faculty_name": "Faculty of Management Sciences",
+        "detail": "Minimum APS 30. Minimum level of achievement: English level 4 minimum. Life Orientation counts as 1 point. APS 24-26 may qualify for selection test if space allows.",
+        "aps_minimum": 30,
+        "subjects_compulsory": [
+          "English level 4 minimum"
+        ],
+        "subject_or_groups": [
+          {
+            "subject_code": "E",
+            "subject_name": "English",
+            "minimum_level": 4
+          }
+        ],
+        "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "source_excerpt": "NQF 6 (Dip) Management APS 30",
+        "extraction_confidence": 0.92,
+        "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "programme_minimum",
+        "id": "adm:56c437b6b7ec",
+        "institutionId": "326"
+      },
+      {
+        "institution_id": "326",
+        "institution_name": "Central University of Technology, Free State",
+        "rule_type": "programme_minimum",
+        "programme_name": "Community Development Work",
+        "faculty_name": "Faculty of Management Sciences",
+        "detail": "Minimum APS 27. Minimum level of achievement: English level 4 minimum. Life Orientation counts as 1 point. APS 24-26 may qualify for selection test if space allows.",
+        "aps_minimum": 27,
+        "subjects_compulsory": [
+          "English level 4 minimum"
+        ],
+        "subject_or_groups": [
+          {
+            "subject_code": "E",
+            "subject_name": "English",
+            "minimum_level": 4
+          }
+        ],
+        "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "source_excerpt": "NQF 5 (HCert) Community Development Work APS 27",
+        "extraction_confidence": 0.92,
+        "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "programme_minimum",
+        "id": "adm:570ae99cd276",
+        "institutionId": "326"
+      },
+      {
+        "institution_id": "326",
+        "institution_name": "Central University of Technology, Free State",
+        "rule_type": "programme_minimum",
+        "programme_name": "Design and Studio Art",
+        "faculty_name": "Faculty of Humanities",
+        "detail": "Minimum APS 27. Minimum level of achievement: English level 4 minimum; Life Orientation level 4 minimum. Life Orientation counts as 1 point. APS 24-26 may qualify for selection test if space allows.",
+        "aps_minimum": 27,
+        "subjects_compulsory": [
+          "English level 4 minimum",
+          "Life Orientation level 4 minimum"
+        ],
+        "subject_or_groups": [
+          {
+            "subject_code": "E",
+            "subject_name": "English",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "LO",
+            "subject_name": "Life Orientation",
+            "minimum_level": 4
+          }
+        ],
+        "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "source_excerpt": "NQF 6 (Dip) Design and Studio Art APS 27",
+        "extraction_confidence": 0.92,
+        "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "programme_minimum",
+        "id": "adm:6b87c0acdeb0",
+        "institutionId": "326"
+      },
+      {
+        "institution_id": "326",
+        "institution_name": "Central University of Technology, Free State",
+        "rule_type": "programme_minimum",
+        "programme_name": "Mathematics for Engineering Technology",
+        "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+        "detail": "Minimum APS 27. Minimum level of achievement: Mathematics level 2 minimum; Physical Sciences level 4 minimum; English level 3 minimum; English level 3 minimum. Life Orientation counts as 1 point. APS 24-26 may qualify for selection test if space allows.",
+        "aps_minimum": 27,
+        "subjects_compulsory": [
+          "Mathematics level 2 minimum",
+          "Physical Sciences level 4 minimum",
+          "English level 3 minimum",
+          "English level 3 minimum"
+        ],
+        "subject_or_groups": [
+          {
+            "subject_code": "M",
+            "subject_name": "Mathematics",
+            "minimum_level": 2
+          },
+          {
+            "subject_code": "PS",
+            "subject_name": "Physical Sciences",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "E",
+            "subject_name": "English",
+            "minimum_level": 3
+          },
+          {
+            "subject_code": "E",
+            "subject_name": "English",
+            "minimum_level": 3
+          }
+        ],
+        "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "source_excerpt": "NQF 5 (HCert) Mathematics for Engineering Technology APS 27",
+        "extraction_confidence": 0.92,
+        "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "programme_minimum",
+        "id": "adm:836f49b37ef7",
+        "institutionId": "326"
+      },
+      {
+        "institution_id": "326",
+        "institution_name": "Central University of Technology, Free State",
+        "rule_type": "programme_minimum",
+        "programme_name": "Hydrology and Water Resources Management",
+        "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+        "detail": "Minimum APS 28. Minimum level of achievement: Mathematics level 4 minimum; Physical Sciences level 4 minimum; Life Sciences level 4 minimum; English level 4 minimum; English level 4 minimum. Life Orientation counts as 1 point. APS 24-26 may qualify for selection test if space allows.",
+        "aps_minimum": 28,
+        "subjects_compulsory": [
+          "Mathematics level 4 minimum",
+          "Physical Sciences level 4 minimum",
+          "Life Sciences level 4 minimum",
+          "English level 4 minimum",
+          "English level 4 minimum"
+        ],
+        "subject_or_groups": [
+          {
+            "subject_code": "M",
+            "subject_name": "Mathematics",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "PS",
+            "subject_name": "Physical Sciences",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "LS",
+            "subject_name": "Life Sciences",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "E",
+            "subject_name": "English",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "E",
+            "subject_name": "English",
+            "minimum_level": 4
+          }
+        ],
+        "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "source_excerpt": "NQF 7 (Bachelor) Hydrology and Water Resources Management APS 28",
+        "extraction_confidence": 0.92,
+        "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "programme_minimum",
+        "id": "adm:8e8c60bd7af9",
+        "institutionId": "326"
+      },
+      {
+        "institution_id": "326",
+        "institution_name": "Central University of Technology, Free State",
+        "rule_type": "programme_minimum",
+        "programme_name": "Marketing",
+        "faculty_name": "Faculty of Management Sciences",
+        "detail": "Minimum APS 27. Minimum level of achievement: Mathematics level 4 minimum; Life Orientation level 4 minimum; English level 4 minimum. Life Orientation counts as 1 point. APS 24-26 may qualify for selection test if space allows.",
+        "aps_minimum": 27,
+        "subjects_compulsory": [
+          "Mathematics level 4 minimum",
+          "Life Orientation level 4 minimum",
+          "English level 4 minimum"
+        ],
+        "subject_or_groups": [
+          {
+            "subject_code": "M",
+            "subject_name": "Mathematics",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "LO",
+            "subject_name": "Life Orientation",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "E",
+            "subject_name": "English",
+            "minimum_level": 4
+          }
+        ],
+        "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "source_excerpt": "NQF 6 (Dip) Marketing APS 27",
+        "extraction_confidence": 0.92,
+        "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "programme_minimum",
+        "id": "adm:905085085433",
+        "institutionId": "326"
+      },
+      {
+        "institution_id": "326",
+        "institution_name": "Central University of Technology, Free State",
+        "rule_type": "programme_minimum",
+        "programme_name": "(SP & FET): Language Education",
+        "faculty_name": "Faculty of Humanities",
+        "detail": "Minimum APS 27. Minimum level of achievement: English level 4 minimum; Life Orientation level 4 minimum; Languages level 4 minimum. Life Orientation counts as 1 point. APS 24-26 may qualify for selection test if space allows.",
+        "aps_minimum": 27,
+        "subjects_compulsory": [
+          "English level 4 minimum",
+          "Life Orientation level 4 minimum",
+          "Languages level 4 minimum"
+        ],
+        "subject_or_groups": [
+          {
+            "subject_code": "E",
+            "subject_name": "English",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "LO",
+            "subject_name": "Life Orientation",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "L",
+            "subject_name": "Languages",
+            "minimum_level": 4
+          }
+        ],
+        "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "source_excerpt": "NQF 7 (Bachelor) (SP & FET): Language Education APS 27",
+        "extraction_confidence": 0.92,
+        "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "programme_minimum",
+        "id": "adm:9f3b0a861bf4",
+        "institutionId": "326"
+      },
+      {
+        "institution_id": "326",
+        "institution_name": "Central University of Technology, Free State",
+        "rule_type": "programme_minimum",
+        "programme_name": "Foundation Phase Teaching",
+        "faculty_name": "Faculty of Humanities",
+        "detail": "Minimum APS 27. Minimum level of achievement: English level 4 minimum; Languages level 4 minimum. Life Orientation counts as 1 point. APS 24-26 may qualify for selection test if space allows.",
+        "aps_minimum": 27,
+        "subjects_compulsory": [
+          "English level 4 minimum",
+          "Languages level 4 minimum"
+        ],
+        "subject_or_groups": [
+          {
+            "subject_code": "E",
+            "subject_name": "English",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "L",
+            "subject_name": "Languages",
+            "minimum_level": 4
+          }
+        ],
+        "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "source_excerpt": "NQF 7 (Bachelor) Foundation Phase Teaching APS 27",
+        "extraction_confidence": 0.92,
+        "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "programme_minimum",
+        "id": "adm:a6827ad9f1fc",
+        "institutionId": "326"
+      },
+      {
+        "institution_id": "326",
+        "institution_name": "Central University of Technology, Free State",
+        "rule_type": "programme_minimum",
+        "programme_name": "Accountancy",
+        "faculty_name": "Faculty of Management Sciences",
+        "detail": "Minimum APS 30. Minimum level of achievement: Mathematics level 3 minimum; Mathematical Literacy level 4 minimum; Accounting level 5 minimum; English level 4 minimum. Life Orientation counts as 1 point. APS 24-26 may qualify for selection test if space allows.",
+        "aps_minimum": 30,
+        "subjects_compulsory": [
+          "Mathematics level 3 minimum",
+          "Mathematical Literacy level 4 minimum",
+          "Accounting level 5 minimum",
+          "English level 4 minimum"
+        ],
+        "subject_or_groups": [
+          {
+            "subject_code": "M",
+            "subject_name": "Mathematics",
+            "minimum_level": 3
+          },
+          {
+            "subject_code": "ML",
+            "subject_name": "Mathematical Literacy",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "A",
+            "subject_name": "Accounting",
+            "minimum_level": 5
+          },
+          {
+            "subject_code": "E",
+            "subject_name": "English",
+            "minimum_level": 4
+          }
+        ],
+        "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "source_excerpt": "NQF 8 (Bachelor) Accountancy APS 30",
+        "extraction_confidence": 0.92,
+        "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "programme_minimum",
+        "id": "adm:a6cdf9fdd0bd",
+        "institutionId": "326"
+      },
+      {
+        "institution_id": "326",
+        "institution_name": "Central University of Technology, Free State",
+        "rule_type": "programme_minimum",
+        "programme_name": "Construction",
+        "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+        "detail": "Minimum APS 27. Minimum level of achievement: Mathematics level 4 minimum; Physical Sciences level 4 minimum. Life Orientation counts as 1 point. APS 24-26 may qualify for selection test if space allows.",
+        "aps_minimum": 27,
+        "subjects_compulsory": [
+          "Mathematics level 4 minimum",
+          "Physical Sciences level 4 minimum"
+        ],
+        "subject_or_groups": [
+          {
+            "subject_code": "M",
+            "subject_name": "Mathematics",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "PS",
+            "subject_name": "Physical Sciences",
+            "minimum_level": 4
+          }
+        ],
+        "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "source_excerpt": "NQF 5 (HCert) Construction APS 27",
+        "extraction_confidence": 0.92,
+        "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "programme_minimum",
+        "id": "adm:b0f35b6116fa",
+        "institutionId": "326"
+      },
+      {
+        "institution_id": "326",
+        "institution_name": "Central University of Technology, Free State",
+        "rule_type": "programme_minimum",
+        "programme_name": "Dental Assisting",
+        "faculty_name": "Faculty of Health and Environmental Sciences",
+        "detail": "Minimum APS 27. Minimum level of achievement: Life Sciences level 4 minimum; English level 4 minimum; Life Orientation level 4 minimum. Life Orientation counts as 1 point. APS 24-26 may qualify for selection test if space allows.",
+        "aps_minimum": 27,
+        "subjects_compulsory": [
+          "Life Sciences level 4 minimum",
+          "English level 4 minimum",
+          "Life Orientation level 4 minimum"
+        ],
+        "subject_or_groups": [
+          {
+            "subject_code": "LS",
+            "subject_name": "Life Sciences",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "E",
+            "subject_name": "English",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "LO",
+            "subject_name": "Life Orientation",
+            "minimum_level": 4
+          }
+        ],
+        "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "source_excerpt": "NQF 5 (HCert) Dental Assisting APS 27",
+        "extraction_confidence": 0.92,
+        "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "programme_minimum",
+        "id": "adm:b48d4857f6da",
+        "institutionId": "326"
+      },
+      {
+        "institution_id": "326",
+        "institution_name": "Central University of Technology, Free State",
+        "rule_type": "programme_minimum",
+        "programme_name": "(SP & FET): Economic and Management Sciences",
+        "faculty_name": "Faculty of Humanities",
+        "detail": "Minimum APS 27. Minimum level of achievement: Mathematics level 4 minimum; English level 4 minimum; Life Orientation level 4 minimum; Accounting level 4 minimum. Life Orientation counts as 1 point. APS 24-26 may qualify for selection test if space allows.",
+        "aps_minimum": 27,
+        "subjects_compulsory": [
+          "Mathematics level 4 minimum",
+          "English level 4 minimum",
+          "Life Orientation level 4 minimum",
+          "Accounting level 4 minimum"
+        ],
+        "subject_or_groups": [
+          {
+            "subject_code": "M",
+            "subject_name": "Mathematics",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "E",
+            "subject_name": "English",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "LO",
+            "subject_name": "Life Orientation",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "A",
+            "subject_name": "Accounting",
+            "minimum_level": 4
+          }
+        ],
+        "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "source_excerpt": "NQF 7 (Bachelor) (SP & FET): Economic and Management Sciences APS 27",
+        "extraction_confidence": 0.92,
+        "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "programme_minimum",
+        "id": "adm:bbd0539ebbc1",
+        "institutionId": "326"
+      },
+      {
+        "institution_id": "326",
+        "institution_name": "Central University of Technology, Free State",
+        "rule_type": "programme_minimum",
+        "programme_name": "Mechanical Engineering",
+        "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+        "detail": "Minimum APS 27. Minimum level of achievement: Mathematics level 4 minimum; Physical Sciences level 4 minimum; English level 3 minimum; English level 3 minimum. Life Orientation counts as 1 point. APS 24-26 may qualify for selection test if space allows.",
+        "aps_minimum": 27,
+        "subjects_compulsory": [
+          "Mathematics level 4 minimum",
+          "Physical Sciences level 4 minimum",
+          "English level 3 minimum",
+          "English level 3 minimum"
+        ],
+        "subject_or_groups": [
+          {
+            "subject_code": "M",
+            "subject_name": "Mathematics",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "PS",
+            "subject_name": "Physical Sciences",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "E",
+            "subject_name": "English",
+            "minimum_level": 3
+          },
+          {
+            "subject_code": "E",
+            "subject_name": "English",
+            "minimum_level": 3
+          }
+        ],
+        "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "source_excerpt": "NQF 6 (Dip) Mechanical Engineering APS 27",
+        "extraction_confidence": 0.92,
+        "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "programme_minimum",
+        "id": "adm:bd51944b4084",
+        "institutionId": "326"
+      },
+      {
+        "institution_id": "326",
+        "institution_name": "Central University of Technology, Free State",
+        "rule_type": "programme_minimum",
+        "programme_name": "Human Resources Management",
+        "faculty_name": "Faculty of Management Sciences",
+        "detail": "Minimum APS 27. Minimum level of achievement: Mathematics level 4 minimum; Life Orientation level 4 minimum; English level 4 minimum. Life Orientation counts as 1 point. APS 24-26 may qualify for selection test if space allows.",
+        "aps_minimum": 27,
+        "subjects_compulsory": [
+          "Mathematics level 4 minimum",
+          "Life Orientation level 4 minimum",
+          "English level 4 minimum"
+        ],
+        "subject_or_groups": [
+          {
+            "subject_code": "M",
+            "subject_name": "Mathematics",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "LO",
+            "subject_name": "Life Orientation",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "E",
+            "subject_name": "English",
+            "minimum_level": 4
+          }
+        ],
+        "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "source_excerpt": "NQF 6 (Dip) Human Resources Management APS 27",
+        "extraction_confidence": 0.92,
+        "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "programme_minimum",
+        "id": "adm:c333188b67d9",
+        "institutionId": "326"
+      },
+      {
+        "institution_id": "326",
+        "institution_name": "Central University of Technology, Free State",
+        "rule_type": "programme_minimum",
+        "programme_name": "Quantity Surveying",
+        "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+        "detail": "Minimum APS 32. Minimum level of achievement: Mathematics level 4 minimum; Physical Sciences level 4 minimum; Life Sciences level 4 minimum; English level 4 minimum; Life Orientation level 4 minimum; Languages level 4 minimum; Accounting level 4 minimum; Agricultural Sciences level 4 minimum; English level 4 minimum; Business Studies level 4 minimum; Information Technology level 4 minimum. Life Orientation counts as 1 point. APS 24-26 may qualify for selection test if space allows.",
+        "aps_minimum": 32,
+        "subjects_compulsory": [
+          "Mathematics level 4 minimum",
+          "Physical Sciences level 4 minimum",
+          "Life Sciences level 4 minimum",
+          "English level 4 minimum",
+          "Life Orientation level 4 minimum",
+          "Languages level 4 minimum",
+          "Accounting level 4 minimum",
+          "Agricultural Sciences level 4 minimum",
+          "English level 4 minimum",
+          "Business Studies level 4 minimum",
+          "Information Technology level 4 minimum"
+        ],
+        "subject_or_groups": [
+          {
+            "subject_code": "M",
+            "subject_name": "Mathematics",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "PS",
+            "subject_name": "Physical Sciences",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "LS",
+            "subject_name": "Life Sciences",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "E",
+            "subject_name": "English",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "LO",
+            "subject_name": "Life Orientation",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "L",
+            "subject_name": "Languages",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "A",
+            "subject_name": "Accounting",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "AS",
+            "subject_name": "Agricultural Sciences",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "E",
+            "subject_name": "English",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "BS",
+            "subject_name": "Business Studies",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "IT",
+            "subject_name": "Information Technology",
+            "minimum_level": 4
+          }
+        ],
+        "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "source_excerpt": "NQF 7 (Bachelor) Quantity Surveying APS 32",
+        "extraction_confidence": 0.92,
+        "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "programme_minimum",
+        "id": "adm:c3405cece97b",
+        "institutionId": "326"
+      },
+      {
+        "institution_id": "326",
+        "institution_name": "Central University of Technology, Free State",
+        "rule_type": "programme_minimum",
+        "programme_name": "Computer networking",
+        "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+        "detail": "Minimum APS 27. Minimum level of achievement: Mathematics level 3 minimum; Mathematical Literacy level 6 minimum; English level 4 minimum; Life Orientation level 4 minimum; English level 4 minimum; Information Technology level 3 minimum. Life Orientation counts as 1 point. APS 24-26 may qualify for selection test if space allows.",
+        "aps_minimum": 27,
+        "subjects_compulsory": [
+          "Mathematics level 3 minimum",
+          "Mathematical Literacy level 6 minimum",
+          "English level 4 minimum",
+          "Life Orientation level 4 minimum",
+          "English level 4 minimum",
+          "Information Technology level 3 minimum"
+        ],
+        "subject_or_groups": [
+          {
+            "subject_code": "M",
+            "subject_name": "Mathematics",
+            "minimum_level": 3
+          },
+          {
+            "subject_code": "ML",
+            "subject_name": "Mathematical Literacy",
+            "minimum_level": 6
+          },
+          {
+            "subject_code": "E",
+            "subject_name": "English",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "LO",
+            "subject_name": "Life Orientation",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "E",
+            "subject_name": "English",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "IT",
+            "subject_name": "Information Technology",
+            "minimum_level": 3
+          }
+        ],
+        "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "source_excerpt": "NQF 6 (Dip) Computer networking APS 27",
+        "extraction_confidence": 0.92,
+        "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "programme_minimum",
+        "id": "adm:c6ae67a6e0f7",
+        "institutionId": "326"
+      },
+      {
+        "institution_id": "326",
+        "institution_name": "Central University of Technology, Free State",
+        "rule_type": "programme_minimum",
+        "programme_name": "(SP & FET): Natural Sciences",
+        "faculty_name": "Faculty of Humanities",
+        "detail": "Minimum APS 27. Minimum level of achievement: Mathematics level 4 minimum; Physical Sciences level 4 minimum; Life Sciences level 4 minimum; English level 4 minimum; Life Orientation level 4 minimum. Life Orientation counts as 1 point. APS 24-26 may qualify for selection test if space allows.",
+        "aps_minimum": 27,
+        "subjects_compulsory": [
+          "Mathematics level 4 minimum",
+          "Physical Sciences level 4 minimum",
+          "Life Sciences level 4 minimum",
+          "English level 4 minimum",
+          "Life Orientation level 4 minimum"
+        ],
+        "subject_or_groups": [
+          {
+            "subject_code": "M",
+            "subject_name": "Mathematics",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "PS",
+            "subject_name": "Physical Sciences",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "LS",
+            "subject_name": "Life Sciences",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "E",
+            "subject_name": "English",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "LO",
+            "subject_name": "Life Orientation",
+            "minimum_level": 4
+          }
+        ],
+        "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "source_excerpt": "NQF 7 (Bachelor) (SP & FET): Natural Sciences APS 27",
+        "extraction_confidence": 0.92,
+        "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "programme_minimum",
+        "id": "adm:d4ea37b6f4fb",
+        "institutionId": "326"
+      },
+      {
+        "institution_id": "326",
+        "institution_name": "Central University of Technology, Free State",
+        "rule_type": "programme_minimum",
+        "programme_name": "Civil Engineering",
+        "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+        "detail": "Minimum APS 32. Minimum level of achievement: Mathematics level 4 minimum; Mathematical Literacy level 4 minimum; Physical Sciences level 4 minimum; English level 4 minimum; Life Orientation level 4 minimum; English level 4 minimum. Life Orientation counts as 1 point. APS 24-26 may qualify for selection test if space allows.",
+        "aps_minimum": 32,
+        "subjects_compulsory": [
+          "Mathematics level 4 minimum",
+          "Mathematical Literacy level 4 minimum",
+          "Physical Sciences level 4 minimum",
+          "English level 4 minimum",
+          "Life Orientation level 4 minimum",
+          "English level 4 minimum"
+        ],
+        "subject_or_groups": [
+          {
+            "subject_code": "M",
+            "subject_name": "Mathematics",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "ML",
+            "subject_name": "Mathematical Literacy",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "PS",
+            "subject_name": "Physical Sciences",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "E",
+            "subject_name": "English",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "LO",
+            "subject_name": "Life Orientation",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "E",
+            "subject_name": "English",
+            "minimum_level": 4
+          }
+        ],
+        "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "source_excerpt": "NQF 6 (Dip) Civil Engineering APS 32",
+        "extraction_confidence": 0.92,
+        "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "programme_minimum",
+        "id": "adm:e1d341a66b0a",
+        "institutionId": "326"
+      },
+      {
+        "institution_id": "326",
+        "institution_name": "Central University of Technology, Free State",
+        "rule_type": "programme_minimum",
+        "programme_name": "Public Management",
+        "faculty_name": "Faculty of Management Sciences",
+        "detail": "Minimum APS 27. Minimum level of achievement: English level 4 minimum. Life Orientation counts as 1 point. APS 24-26 may qualify for selection test if space allows.",
+        "aps_minimum": 27,
+        "subjects_compulsory": [
+          "English level 4 minimum"
+        ],
+        "subject_or_groups": [
+          {
+            "subject_code": "E",
+            "subject_name": "English",
+            "minimum_level": 4
+          }
+        ],
+        "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "source_excerpt": "NQF 6 (Dip) Public Management APS 27",
+        "extraction_confidence": 0.92,
+        "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "programme_minimum",
+        "id": "adm:e9d5af9b0ef5",
+        "institutionId": "326"
+      },
+      {
+        "institution_id": "326",
+        "institution_name": "Central University of Technology, Free State",
+        "rule_type": "programme_minimum",
+        "programme_name": "Hospitality Management",
+        "faculty_name": "Faculty of Management Sciences",
+        "detail": "Minimum APS 27. Minimum level of achievement: Mathematics level 4 minimum; Life Orientation level 4 minimum. Life Orientation counts as 1 point. APS 24-26 may qualify for selection test if space allows.",
+        "aps_minimum": 27,
+        "subjects_compulsory": [
+          "Mathematics level 4 minimum",
+          "Life Orientation level 4 minimum"
+        ],
+        "subject_or_groups": [
+          {
+            "subject_code": "M",
+            "subject_name": "Mathematics",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "LO",
+            "subject_name": "Life Orientation",
+            "minimum_level": 4
+          }
+        ],
+        "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "source_excerpt": "NQF 6 (Dip) Hospitality Management APS 27",
+        "extraction_confidence": 0.92,
+        "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "programme_minimum",
+        "id": "adm:e9d6f41ec192",
+        "institutionId": "326"
+      },
+      {
+        "institution_id": "326",
+        "institution_name": "Central University of Technology, Free State",
+        "rule_type": "programme_minimum",
+        "programme_name": "Health Science: Medical Laboratory Sciences",
+        "faculty_name": "Faculty of Health and Environmental Sciences",
+        "detail": "Minimum APS 30. Minimum level of achievement: Mathematics level 4 minimum; Physical Sciences level 4 minimum; Life Sciences level 4 minimum; English level 4 minimum; Life Orientation level 4 minimum. Life Orientation counts as 1 point. APS 24-26 may qualify for selection test if space allows.",
+        "aps_minimum": 30,
+        "subjects_compulsory": [
+          "Mathematics level 4 minimum",
+          "Physical Sciences level 4 minimum",
+          "Life Sciences level 4 minimum",
+          "English level 4 minimum",
+          "Life Orientation level 4 minimum"
+        ],
+        "subject_or_groups": [
+          {
+            "subject_code": "M",
+            "subject_name": "Mathematics",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "PS",
+            "subject_name": "Physical Sciences",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "LS",
+            "subject_name": "Life Sciences",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "E",
+            "subject_name": "English",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "LO",
+            "subject_name": "Life Orientation",
+            "minimum_level": 4
+          }
+        ],
+        "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "source_excerpt": "NQF 8 (Bachelor) Health Science: Medical Laboratory Sciences APS 30",
+        "extraction_confidence": 0.92,
+        "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "programme_minimum",
+        "id": "adm:ea413e2cc49d",
+        "institutionId": "326"
+      },
+      {
+        "institution_id": "326",
+        "institution_name": "Central University of Technology, Free State",
+        "rule_type": "programme_minimum",
+        "programme_name": "Health Sciences in Clinical Technology",
+        "faculty_name": "Faculty of Health and Environmental Sciences",
+        "detail": "Minimum APS 30. Minimum level of achievement: Mathematics level 4 minimum; Physical Sciences level 4 minimum; Life Sciences level 4 minimum; English level 4 minimum; Life Orientation level 4 minimum. Life Orientation counts as 1 point. APS 24-26 may qualify for selection test if space allows.",
+        "aps_minimum": 30,
+        "subjects_compulsory": [
+          "Mathematics level 4 minimum",
+          "Physical Sciences level 4 minimum",
+          "Life Sciences level 4 minimum",
+          "English level 4 minimum",
+          "Life Orientation level 4 minimum"
+        ],
+        "subject_or_groups": [
+          {
+            "subject_code": "M",
+            "subject_name": "Mathematics",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "PS",
+            "subject_name": "Physical Sciences",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "LS",
+            "subject_name": "Life Sciences",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "E",
+            "subject_name": "English",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "LO",
+            "subject_name": "Life Orientation",
+            "minimum_level": 4
+          }
+        ],
+        "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "source_excerpt": "NQF 8 (Bachelor) Health Sciences in Clinical Technology APS 30",
+        "extraction_confidence": 0.92,
+        "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "programme_minimum",
+        "id": "adm:ec17f62a4751",
+        "institutionId": "326"
+      },
+      {
+        "institution_id": "326",
+        "institution_name": "Central University of Technology, Free State",
+        "rule_type": "programme_minimum",
+        "programme_name": "Construction Management",
+        "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+        "detail": "Minimum APS 32. Minimum level of achievement: Mathematics level 5 minimum; Physical Sciences level 5 minimum; English level 5 minimum; English level 5 minimum. Life Orientation counts as 1 point. APS 24-26 may qualify for selection test if space allows.",
+        "aps_minimum": 32,
+        "subjects_compulsory": [
+          "Mathematics level 5 minimum",
+          "Physical Sciences level 5 minimum",
+          "English level 5 minimum",
+          "English level 5 minimum"
+        ],
+        "subject_or_groups": [
+          {
+            "subject_code": "M",
+            "subject_name": "Mathematics",
+            "minimum_level": 5
+          },
+          {
+            "subject_code": "PS",
+            "subject_name": "Physical Sciences",
+            "minimum_level": 5
+          },
+          {
+            "subject_code": "E",
+            "subject_name": "English",
+            "minimum_level": 5
+          },
+          {
+            "subject_code": "E",
+            "subject_name": "English",
+            "minimum_level": 5
+          }
+        ],
+        "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "source_excerpt": "NQF 7 (BCon) Construction Management APS 32",
+        "extraction_confidence": 0.92,
+        "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "programme_minimum",
+        "id": "adm:ee0c232a916a",
+        "institutionId": "326"
+      },
+      {
+        "institution_id": "326",
+        "institution_name": "Central University of Technology, Free State",
+        "rule_type": "programme_minimum",
+        "programme_name": "Somatology",
+        "faculty_name": "Faculty of Health and Environmental Sciences",
+        "detail": "Minimum APS 27. Minimum level of achievement: Physical Sciences level 4 minimum; Life Sciences level 4 minimum; English level 4 minimum; Life Orientation level 4 minimum. Life Orientation counts as 1 point. APS 24-26 may qualify for selection test if space allows.",
+        "aps_minimum": 27,
+        "subjects_compulsory": [
+          "Physical Sciences level 4 minimum",
+          "Life Sciences level 4 minimum",
+          "English level 4 minimum",
+          "Life Orientation level 4 minimum"
+        ],
+        "subject_or_groups": [
+          {
+            "subject_code": "PS",
+            "subject_name": "Physical Sciences",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "LS",
+            "subject_name": "Life Sciences",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "E",
+            "subject_name": "English",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "LO",
+            "subject_name": "Life Orientation",
+            "minimum_level": 4
+          }
+        ],
+        "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "source_excerpt": "NQF 6 (Dip) Somatology APS 27",
+        "extraction_confidence": 0.92,
+        "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "programme_minimum",
+        "id": "adm:ef0ca909f0de",
+        "institutionId": "326"
+      },
+      {
+        "institution_id": "326",
+        "institution_name": "Central University of Technology, Free State",
+        "rule_type": "programme_minimum",
+        "programme_name": "Environmental Health",
+        "faculty_name": "Faculty of Health and Environmental Sciences",
+        "detail": "Minimum APS 30. Minimum level of achievement: Mathematics level 4 minimum; Physical Sciences level 4 minimum; Life Sciences level 4 minimum; English level 4 minimum; Life Orientation level 4 minimum. Life Orientation counts as 1 point. APS 24-26 may qualify for selection test if space allows.",
+        "aps_minimum": 30,
+        "subjects_compulsory": [
+          "Mathematics level 4 minimum",
+          "Physical Sciences level 4 minimum",
+          "Life Sciences level 4 minimum",
+          "English level 4 minimum",
+          "Life Orientation level 4 minimum"
+        ],
+        "subject_or_groups": [
+          {
+            "subject_code": "M",
+            "subject_name": "Mathematics",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "PS",
+            "subject_name": "Physical Sciences",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "LS",
+            "subject_name": "Life Sciences",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "E",
+            "subject_name": "English",
+            "minimum_level": 4
+          },
+          {
+            "subject_code": "LO",
+            "subject_name": "Life Orientation",
+            "minimum_level": 4
+          }
+        ],
+        "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "source_excerpt": "NQF 8 (Bachelor) Environmental Health APS 30",
+        "extraction_confidence": 0.92,
+        "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "programme_minimum",
+        "id": "adm:fe37c6389490",
+        "institutionId": "326"
+      }
+    ]
+  },
+  "sources": [
+    "generated/v3/institutions.enriched.json",
+    "institutions.json"
+  ],
+  "_stats": {
+    "campuses_count": 0,
+    "faculties_count": 37,
+    "programmes_count": 61,
+    "aps_rules_count": 4,
+    "adm_reqs_count": 40
+  }
+}

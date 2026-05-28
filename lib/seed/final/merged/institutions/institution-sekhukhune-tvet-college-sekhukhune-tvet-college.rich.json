@@ -1,0 +1,860 @@
+{
+  "institution": {
+    "id": "institution:sekhukhune-tvet-college",
+    "slug": "sekhukhune-tvet-college",
+    "institution_id_raw": "354",
+    "name": "Sekhukhune TVET College",
+    "institution_type": "tvet-college",
+    "city": "Motetema-A",
+    "province": "",
+    "official_website": "https://www.sekhukhunetvet.edu.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/354/sekhukhune-tvet-college",
+    "source_paths": [
+      "generated/v3/institutions.enriched.json",
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "sector": "higher education",
+      "city": "Motetema-A",
+      "physical_address": "A, Motetema-A, 0473",
+      "postal_address": "Private Bag X8660, Groblersdal, 0470",
+      "contact_phone_numbers": [
+        "013 269 0021",
+        "013 269 0278",
+        "013 216 0021"
+      ],
+      "application_url": "https://www.sekhukhunetvet.edu.za/student-support/introduction.html",
+      "socials": {
+        "facebook": "https://www.facebook.com/SekhukhuneTVETCollegeOfficial",
+        "instagram": "",
+        "linkedin": "",
+        "x": "",
+        "youtube": ""
+      },
+      "accreditation": {
+        "dh et": "Accredited",
+        "saqa": null
+      },
+      "sources": [
+        "https://nationalgovernment.co.za/units/view/354/sekhukhune-tvet-college",
+        "https://www.sekhukhunetvet.edu.za/"
+      ],
+      "qualification_types": [
+        "NC(V)",
+        "Nated (Report 191)",
+        "Skills Programmes",
+        "Apprenticeships"
+      ],
+      "nsfas_supported": true,
+      "student_accommodation": true,
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [
+    {
+      "id": "faculty:sekhukhune-tvet-college--business-studies--school",
+      "institution_slug": "sekhukhune-tvet-college",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "Business Studies",
+      "kind": "school",
+      "overview": null,
+      "source_excerpt": "WE OFFER THE FOLLOWING BUSINESS STUDIES",
+      "extraction_confidence": 0.88,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:sekhukhune-tvet-college--cn-phatudi-campus--campus",
+      "institution_slug": "sekhukhune-tvet-college",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "Cn Phatudi Campus",
+      "kind": "campus",
+      "overview": null,
+      "source_excerpt": "CN PHATUDI CAMPUS (",
+      "extraction_confidence": 0.85,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:sekhukhune-tvet-college--cs-barlow-campus--campus",
+      "institution_slug": "sekhukhune-tvet-college",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "Cs Barlow Campus",
+      "kind": "campus",
+      "overview": null,
+      "source_excerpt": "CS BARLOW CAMPUS (",
+      "extraction_confidence": 0.85,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:sekhukhune-tvet-college--engineering-studies--school",
+      "institution_slug": "sekhukhune-tvet-college",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "Engineering Studies",
+      "kind": "school",
+      "overview": null,
+      "source_excerpt": "WE OFFER THE FOLLOWING ENGINEERING STUDIES",
+      "extraction_confidence": 0.88,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:sekhukhune-tvet-college--ncv--college",
+      "institution_slug": "sekhukhune-tvet-college",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "NCV",
+      "kind": "college",
+      "overview": null,
+      "source_excerpt": "WE OFFER THE FOLLOWING NCV",
+      "extraction_confidence": 0.88,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    }
+  ],
+  "faculties_all": [
+    {
+      "id": "faculty:sekhukhune-tvet-college--business-studies--school",
+      "institution_slug": "sekhukhune-tvet-college",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "Business Studies",
+      "kind": "school",
+      "overview": null,
+      "source_excerpt": "WE OFFER THE FOLLOWING BUSINESS STUDIES",
+      "extraction_confidence": 0.88,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:sekhukhune-tvet-college--cn-phatudi-campus--campus",
+      "institution_slug": "sekhukhune-tvet-college",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "Cn Phatudi Campus",
+      "kind": "campus",
+      "overview": null,
+      "source_excerpt": "CN PHATUDI CAMPUS (",
+      "extraction_confidence": 0.85,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:sekhukhune-tvet-college--cs-barlow-campus--campus",
+      "institution_slug": "sekhukhune-tvet-college",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "Cs Barlow Campus",
+      "kind": "campus",
+      "overview": null,
+      "source_excerpt": "CS BARLOW CAMPUS (",
+      "extraction_confidence": 0.85,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:sekhukhune-tvet-college--engineering-studies--school",
+      "institution_slug": "sekhukhune-tvet-college",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "Engineering Studies",
+      "kind": "school",
+      "overview": null,
+      "source_excerpt": "WE OFFER THE FOLLOWING ENGINEERING STUDIES",
+      "extraction_confidence": 0.88,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:sekhukhune-tvet-college--ncv--college",
+      "institution_slug": "sekhukhune-tvet-college",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "NCV",
+      "kind": "college",
+      "overview": null,
+      "source_excerpt": "WE OFFER THE FOLLOWING NCV",
+      "extraction_confidence": 0.88,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    }
+  ],
+  "programmes_best": [
+    {
+      "id": "programme:sekhukhune-tvet-college--assistant-management-report-191-n4-n6",
+      "institution_slug": "sekhukhune-tvet-college",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "Assistant Management (Report 191 N4–N6)",
+      "normalized_name": "Assistant Management (Report 191 N4–N6)",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": "Business Studies",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "– Assistant Management",
+      "extraction_confidence": 0.9,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:sekhukhune-tvet-college--civil-engineering-report-191-n4-n6",
+      "institution_slug": "sekhukhune-tvet-college",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "Civil Engineering (Report 191 N4–N6)",
+      "normalized_name": "Civil Engineering (Report 191 N4–N6)",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": "Engineering Studies",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "– Civil Engineering",
+      "extraction_confidence": 0.9,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:sekhukhune-tvet-college--electrical-engineering-report-191-n4-n6",
+      "institution_slug": "sekhukhune-tvet-college",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "Electrical Engineering (Report 191 N4–N6)",
+      "normalized_name": "Electrical Engineering (Report 191 N4–N6)",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": "Engineering Studies",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "– Electrical Engineering",
+      "extraction_confidence": 0.9,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:sekhukhune-tvet-college--financial-management-report-191-n4-n6",
+      "institution_slug": "sekhukhune-tvet-college",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "Financial Management (Report 191 N4–N6)",
+      "normalized_name": "Financial Management (Report 191 N4–N6)",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": "Business Studies",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "– Financial Management",
+      "extraction_confidence": 0.9,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:sekhukhune-tvet-college--human-resource-management-report-191-n4-n6",
+      "institution_slug": "sekhukhune-tvet-college",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "Human Resource Management (Report 191 N4–N6)",
+      "normalized_name": "Human Resource Management (Report 191 N4–N6)",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": "Business Studies",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "– Human Resource Management",
+      "extraction_confidence": 0.9,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:sekhukhune-tvet-college--marketing-management-report-191-n4-n6",
+      "institution_slug": "sekhukhune-tvet-college",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "Marketing Management (Report 191 N4–N6)",
+      "normalized_name": "Marketing Management (Report 191 N4–N6)",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": "Business Studies",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "– Marketing Management",
+      "extraction_confidence": 0.9,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:sekhukhune-tvet-college--mechanical-engineering-report-191-n4-n6",
+      "institution_slug": "sekhukhune-tvet-college",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "Mechanical Engineering (Report 191 N4–N6)",
+      "normalized_name": "Mechanical Engineering (Report 191 N4–N6)",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": "Engineering Studies",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "– Mechanical Engineering",
+      "extraction_confidence": 0.9,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:sekhukhune-tvet-college--msc-degrees",
+      "institution_slug": "sekhukhune-tvet-college",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "MSc Degrees",
+      "normalized_name": "MSc Degrees",
+      "qualification_type": "Masters",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "MSc Degrees",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:sekhukhune-tvet-college--ncv-electrical-infrastructure",
+      "institution_slug": "sekhukhune-tvet-college",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "NCV Electrical Infrastructure",
+      "normalized_name": "NCV Electrical Infrastructure",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": "NCV Programmes",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "– Electrical Infrastructure",
+      "extraction_confidence": 0.9,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:sekhukhune-tvet-college--ncv-engineering-related-design",
+      "institution_slug": "sekhukhune-tvet-college",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "NCV Engineering & Related Design",
+      "normalized_name": "NCV Engineering & Related Design",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": "NCV Programmes",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "– Engineering & Related Design",
+      "extraction_confidence": 0.9,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:sekhukhune-tvet-college--ncv-it-computer-science",
+      "institution_slug": "sekhukhune-tvet-college",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "NCV IT & Computer Science",
+      "normalized_name": "NCV IT & Computer Science",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": "NCV Programmes",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "– IT & Computer Science",
+      "extraction_confidence": 0.9,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:sekhukhune-tvet-college--ncv-level-2",
+      "institution_slug": "sekhukhune-tvet-college",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "NCV LEVEL 2",
+      "normalized_name": "NCV LEVEL 2",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NCV LEVEL 2",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:sekhukhune-tvet-college--ncv-management",
+      "institution_slug": "sekhukhune-tvet-college",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "NCV Management",
+      "normalized_name": "NCV Management",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": "NCV Programmes",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "– Management",
+      "extraction_confidence": 0.9,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:sekhukhune-tvet-college--ncv-marketing",
+      "institution_slug": "sekhukhune-tvet-college",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "NCV Marketing",
+      "normalized_name": "NCV Marketing",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": "NCV Programmes",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "– Marketing",
+      "extraction_confidence": 0.9,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:sekhukhune-tvet-college--ncv-office-administration",
+      "institution_slug": "sekhukhune-tvet-college",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "NCV Office Administration",
+      "normalized_name": "NCV Office Administration",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": "NCV Programmes",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "– Office Administration",
+      "extraction_confidence": 0.9,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    }
+  ],
+  "programmes_all": [
+    {
+      "id": "programme:sekhukhune-tvet-college--assistant-management-report-191-n4-n6",
+      "institution_slug": "sekhukhune-tvet-college",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "Assistant Management (Report 191 N4–N6)",
+      "normalized_name": "Assistant Management (Report 191 N4–N6)",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": "Business Studies",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "– Assistant Management",
+      "extraction_confidence": 0.9,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:sekhukhune-tvet-college--civil-engineering-report-191-n4-n6",
+      "institution_slug": "sekhukhune-tvet-college",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "Civil Engineering (Report 191 N4–N6)",
+      "normalized_name": "Civil Engineering (Report 191 N4–N6)",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": "Engineering Studies",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "– Civil Engineering",
+      "extraction_confidence": 0.9,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:sekhukhune-tvet-college--electrical-engineering-report-191-n4-n6",
+      "institution_slug": "sekhukhune-tvet-college",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "Electrical Engineering (Report 191 N4–N6)",
+      "normalized_name": "Electrical Engineering (Report 191 N4–N6)",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": "Engineering Studies",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "– Electrical Engineering",
+      "extraction_confidence": 0.9,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:sekhukhune-tvet-college--financial-management-report-191-n4-n6",
+      "institution_slug": "sekhukhune-tvet-college",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "Financial Management (Report 191 N4–N6)",
+      "normalized_name": "Financial Management (Report 191 N4–N6)",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": "Business Studies",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "– Financial Management",
+      "extraction_confidence": 0.9,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:sekhukhune-tvet-college--human-resource-management-report-191-n4-n6",
+      "institution_slug": "sekhukhune-tvet-college",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "Human Resource Management (Report 191 N4–N6)",
+      "normalized_name": "Human Resource Management (Report 191 N4–N6)",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": "Business Studies",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "– Human Resource Management",
+      "extraction_confidence": 0.9,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:sekhukhune-tvet-college--marketing-management-report-191-n4-n6",
+      "institution_slug": "sekhukhune-tvet-college",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "Marketing Management (Report 191 N4–N6)",
+      "normalized_name": "Marketing Management (Report 191 N4–N6)",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": "Business Studies",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "– Marketing Management",
+      "extraction_confidence": 0.9,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:sekhukhune-tvet-college--mechanical-engineering-report-191-n4-n6",
+      "institution_slug": "sekhukhune-tvet-college",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "Mechanical Engineering (Report 191 N4–N6)",
+      "normalized_name": "Mechanical Engineering (Report 191 N4–N6)",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": "Engineering Studies",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "– Mechanical Engineering",
+      "extraction_confidence": 0.9,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:sekhukhune-tvet-college--msc-degrees",
+      "institution_slug": "sekhukhune-tvet-college",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "MSc Degrees",
+      "normalized_name": "MSc Degrees",
+      "qualification_type": "Masters",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "MSc Degrees",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:sekhukhune-tvet-college--ncv-electrical-infrastructure",
+      "institution_slug": "sekhukhune-tvet-college",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "NCV Electrical Infrastructure",
+      "normalized_name": "NCV Electrical Infrastructure",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": "NCV Programmes",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "– Electrical Infrastructure",
+      "extraction_confidence": 0.9,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:sekhukhune-tvet-college--ncv-engineering-related-design",
+      "institution_slug": "sekhukhune-tvet-college",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "NCV Engineering & Related Design",
+      "normalized_name": "NCV Engineering & Related Design",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": "NCV Programmes",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "– Engineering & Related Design",
+      "extraction_confidence": 0.9,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:sekhukhune-tvet-college--ncv-it-computer-science",
+      "institution_slug": "sekhukhune-tvet-college",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "NCV IT & Computer Science",
+      "normalized_name": "NCV IT & Computer Science",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": "NCV Programmes",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "– IT & Computer Science",
+      "extraction_confidence": 0.9,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:sekhukhune-tvet-college--ncv-level-2",
+      "institution_slug": "sekhukhune-tvet-college",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "NCV LEVEL 2",
+      "normalized_name": "NCV LEVEL 2",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NCV LEVEL 2",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:sekhukhune-tvet-college--ncv-management",
+      "institution_slug": "sekhukhune-tvet-college",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "NCV Management",
+      "normalized_name": "NCV Management",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": "NCV Programmes",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "– Management",
+      "extraction_confidence": 0.9,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:sekhukhune-tvet-college--ncv-marketing",
+      "institution_slug": "sekhukhune-tvet-college",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "NCV Marketing",
+      "normalized_name": "NCV Marketing",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": "NCV Programmes",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "– Marketing",
+      "extraction_confidence": 0.9,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:sekhukhune-tvet-college--ncv-office-administration",
+      "institution_slug": "sekhukhune-tvet-college",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "NCV Office Administration",
+      "normalized_name": "NCV Office Administration",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": "NCV Programmes",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "– Office Administration",
+      "extraction_confidence": 0.9,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    }
+  ],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 5,
+    "faculties_all": 5,
+    "programmes_best": 15,
+    "programmes_all": 15
+  }
+}

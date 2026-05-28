@@ -1,0 +1,459 @@
+{
+  "faculties": [
+    {
+      "id": "fac:369:9d51bffbd57c",
+      "institutionId": "369",
+      "name": "AGRISCIENCES",
+      "sourceFile": "lib/seed/prospectuses/stellenbosch-university.pdf",
+      "sourceUrl": "https://files.su.ac.za/public/undergraduate/documents/2025-07/prospectus.pdf"
+    },
+    {
+      "id": "fac:369:5b0b8a5d0d67",
+      "institutionId": "369",
+      "name": "ECONOMIC AND",
+      "sourceFile": "lib/seed/prospectuses/stellenbosch-university.pdf",
+      "sourceUrl": "https://files.su.ac.za/public/undergraduate/documents/2025-07/prospectus.pdf"
+    },
+    {
+      "id": "fac:369:174bd23fea84",
+      "institutionId": "369",
+      "name": "Education yearbook on the website",
+      "sourceFile": "lib/seed/prospectuses/stellenbosch-university.pdf",
+      "sourceUrl": "https://files.su.ac.za/public/undergraduate/documents/2025-07/prospectus.pdf"
+    },
+    {
+      "id": "fac:369:43f6c58cbe71",
+      "institutionId": "369",
+      "name": "EDUCATION",
+      "sourceFile": "lib/seed/prospectuses/stellenbosch-university.pdf",
+      "sourceUrl": "https://files.su.ac.za/public/undergraduate/documents/2025-07/prospectus.pdf"
+    },
+    {
+      "id": "fac:369:7900539be0a6",
+      "institutionId": "369",
+      "name": "MEDICINE",
+      "sourceFile": "lib/seed/prospectuses/stellenbosch-university.pdf",
+      "sourceUrl": "https://files.su.ac.za/public/undergraduate/documents/2025-07/prospectus.pdf"
+    },
+    {
+      "id": "fac:369:7912c459a608",
+      "institutionId": "369",
+      "name": "SCIENCE",
+      "sourceFile": "lib/seed/prospectuses/stellenbosch-university.pdf",
+      "sourceUrl": "https://files.su.ac.za/public/undergraduate/documents/2025-07/prospectus.pdf"
+    },
+    {
+      "id": "fac:369:8750ea2749c0",
+      "institutionId": "369",
+      "name": "THEOLOGY",
+      "sourceFile": "lib/seed/prospectuses/stellenbosch-university.pdf",
+      "sourceUrl": "https://files.su.ac.za/public/undergraduate/documents/2025-07/prospectus.pdf"
+    },
+    {
+      "id": "fac:364:3e88725c392e",
+      "institutionId": "364",
+      "name": "Art, Design",
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf"
+    },
+    {
+      "id": "fac:364:7cdd5783df23",
+      "institutionId": "364",
+      "name": "Education",
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf"
+    },
+    {
+      "id": "fac:364:d8d076ade533",
+      "institutionId": "364",
+      "name": "Engineering and",
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf"
+    },
+    {
+      "id": "fac:364:3383d229b146",
+      "institutionId": "364",
+      "name": "Health Sciences",
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf"
+    },
+    {
+      "id": "fac:364:c7dd2269d3cd",
+      "institutionId": "364",
+      "name": "Science",
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf"
+    },
+    {
+      "id": "fac:364:a86d462b6396",
+      "institutionId": "364",
+      "name": "Tourism and Hospitality",
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf"
+    },
+    {
+      "id": "fac:364:2a64f7135a21",
+      "institutionId": "364",
+      "name": "Law also has various research institutes and",
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf"
+    },
+    {
+      "id": "fac:352:cead64a690a1",
+      "institutionId": "352",
+      "name": "Commerce, Faculty of Pharmacy, Faculty of Education and Faculty of Law",
+      "sourceFile": "lib/seed/prospectuses/rhodes-university.pdf",
+      "sourceUrl": "https://www.ru.ac.za/media/rhodesuniversity/content/registrar/documents/information/studentrecruitment/RU_READY_Undergraduate_Prospectus_2026_DIGITAL_A5_Landscape_24pp_18Mar2026.pdf"
+    },
+    {
+      "id": "fac:367:efe91174a8a4",
+      "institutionId": "367",
+      "name": "Veterinary Science 19",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+    },
+    {
+      "id": "fac:367:22012191dc24",
+      "institutionId": "367",
+      "name": "Theology and Religion",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+    },
+    {
+      "id": "fac:367:0379645cea37",
+      "institutionId": "367",
+      "name": "Veterinary Science",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+    },
+    {
+      "id": "fac:367:0dae488fa5c7",
+      "institutionId": "367",
+      "name": "Natural and Agricultural Sciences",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+    },
+    {
+      "id": "fac:367:d7bd136df39f",
+      "institutionId": "367",
+      "name": "Humanities",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+    },
+    {
+      "id": "fac:367:3383d229b146",
+      "institutionId": "367",
+      "name": "Health Sciences",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+    },
+    {
+      "id": "fac:367:914ba907bdde",
+      "institutionId": "367",
+      "name": "Economic and Management",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+    },
+    {
+      "id": "fac:367:8628a70f4280",
+      "institutionId": "367",
+      "name": "Engineering, Built Environment",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+    },
+    {
+      "id": "fac:367:7cdd5783df23",
+      "institutionId": "367",
+      "name": "Education",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+    },
+    {
+      "id": "fac:367:e4806dc43d13",
+      "institutionId": "367",
+      "name": "Economic and Management Sciences",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+    },
+    {
+      "id": "fac:367:4eb5220decb9",
+      "institutionId": "367",
+      "name": "Engineering, Built Environment and Information Technology",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+    },
+    {
+      "id": "fac:367:a5c8e8e29386",
+      "institutionId": "367",
+      "name": "ENGINEERING",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+    },
+    {
+      "id": "fac:367:7c1c1daad28c",
+      "institutionId": "367",
+      "name": "Health Sciences, please consult a student advisor. To make an",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+    },
+    {
+      "id": "fac:367:c642acae3d79",
+      "institutionId": "367",
+      "name": "Humanities website",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+    },
+    {
+      "id": "fac:367:507b84cd8afa",
+      "institutionId": "367",
+      "name": "Veterinary Science website",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+    },
+    {
+      "id": "fac:373:7912c459a608",
+      "institutionId": "373",
+      "name": "SCIENCE",
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf"
+    },
+    {
+      "id": "fac:373:d7bd136df39f",
+      "institutionId": "373",
+      "name": "Humanities",
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf"
+    },
+    {
+      "id": "fac:373:ac9be24234a1",
+      "institutionId": "373",
+      "name": "Law: 1, Law Clinic: 1",
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf"
+    },
+    {
+      "id": "fac:373:131d016a8f44",
+      "institutionId": "373",
+      "name": "Health Sciences: Prof TM Mulaudzi",
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf"
+    },
+    {
+      "id": "fac:342:a5c8e8e29386",
+      "institutionId": "342",
+      "name": "ENGINEERING",
+      "sourceFile": "lib/seed/prospectuses/mangosuthu-university-of-technology.pdf",
+      "sourceUrl": "https://www.mut.ac.za/"
+    },
+    {
+      "id": "fac:342:cfdccec66ef5",
+      "institutionId": "342",
+      "name": "MANAGEMENT SCIENCES",
+      "sourceFile": "lib/seed/prospectuses/mangosuthu-university-of-technology.pdf",
+      "sourceUrl": "https://www.mut.ac.za/"
+    },
+    {
+      "id": "fac:347:a5c8e8e29386",
+      "institutionId": "347",
+      "name": "ENGINEERING",
+      "sourceFile": "lib/seed/prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourceUrl": "https://publications.mandela.ac.za/publications/media/Store/documents/Prospective%20students/2026-MandelaUni-Undergraduate-Guide.pdf"
+    },
+    {
+      "id": "fac:347:85471884d5d1",
+      "institutionId": "347",
+      "name": "BUSINESS AND",
+      "sourceFile": "lib/seed/prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourceUrl": "https://publications.mandela.ac.za/publications/media/Store/documents/Prospective%20students/2026-MandelaUni-Undergraduate-Guide.pdf"
+    },
+    {
+      "id": "fac:347:7cdd5783df23",
+      "institutionId": "347",
+      "name": "Education",
+      "sourceFile": "lib/seed/prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourceUrl": "https://publications.mandela.ac.za/publications/media/Store/documents/Prospective%20students/2026-MandelaUni-Undergraduate-Guide.pdf"
+    },
+    {
+      "id": "fac:347:bd15962c5cee",
+      "institutionId": "347",
+      "name": "Engineering, the Built Environment",
+      "sourceFile": "lib/seed/prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourceUrl": "https://publications.mandela.ac.za/publications/media/Store/documents/Prospective%20students/2026-MandelaUni-Undergraduate-Guide.pdf"
+    },
+    {
+      "id": "fac:347:f93202fa3db8",
+      "institutionId": "347",
+      "name": "ARCHITECTURE",
+      "sourceFile": "lib/seed/prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourceUrl": "https://publications.mandela.ac.za/publications/media/Store/documents/Prospective%20students/2026-MandelaUni-Undergraduate-Guide.pdf"
+    },
+    {
+      "id": "fac:347:3383d229b146",
+      "institutionId": "347",
+      "name": "Health Sciences",
+      "sourceFile": "lib/seed/prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourceUrl": "https://publications.mandela.ac.za/publications/media/Store/documents/Prospective%20students/2026-MandelaUni-Undergraduate-Guide.pdf"
+    },
+    {
+      "id": "fac:347:d7bd136df39f",
+      "institutionId": "347",
+      "name": "Humanities",
+      "sourceFile": "lib/seed/prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourceUrl": "https://publications.mandela.ac.za/publications/media/Store/documents/Prospective%20students/2026-MandelaUni-Undergraduate-Guide.pdf"
+    },
+    {
+      "id": "fac:347:c7dd2269d3cd",
+      "institutionId": "347",
+      "name": "Science",
+      "sourceFile": "lib/seed/prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourceUrl": "https://publications.mandela.ac.za/publications/media/Store/documents/Prospective%20students/2026-MandelaUni-Undergraduate-Guide.pdf"
+    },
+    {
+      "id": "fac:347:cbcfec8a1054",
+      "institutionId": "347",
+      "name": "Business & Economic Sciences",
+      "sourceFile": "lib/seed/prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourceUrl": "https://publications.mandela.ac.za/publications/media/Store/documents/Prospective%20students/2026-MandelaUni-Undergraduate-Guide.pdf"
+    },
+    {
+      "id": "fac:347:f8cb107b48d5",
+      "institutionId": "347",
+      "name": "Engineering, the Built Environment & Technology",
+      "sourceFile": "lib/seed/prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourceUrl": "https://publications.mandela.ac.za/publications/media/Store/documents/Prospective%20students/2026-MandelaUni-Undergraduate-Guide.pdf"
+    },
+    {
+      "id": "fac:347:e5543c651c8a",
+      "institutionId": "347",
+      "name": "Science: Natural Resource Science and Management Cluster",
+      "sourceFile": "lib/seed/prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourceUrl": "https://publications.mandela.ac.za/publications/media/Store/documents/Prospective%20students/2026-MandelaUni-Undergraduate-Guide.pdf"
+    },
+    {
+      "id": "fac:307:6e76d608c55e",
+      "institutionId": "307",
+      "name": "BUSINESS",
+      "sourceFile": "lib/seed/prospectuses/eastcape-midlands-tvet-college.pdf",
+      "sourceUrl": "https://emcol.co.za/"
+    },
+    {
+      "id": "fac:307:59b99127057b",
+      "institutionId": "307",
+      "name": "ART &",
+      "sourceFile": "lib/seed/prospectuses/eastcape-midlands-tvet-college.pdf",
+      "sourceUrl": "https://emcol.co.za/"
+    },
+    {
+      "id": "fac:359:9905db97459c",
+      "institutionId": "359",
+      "name": "Science Part 8",
+      "sourceFile": "lib/seed/prospectuses/tshwane-university-of-technology.pdf",
+      "sourceUrl": "https://www.tut.ac.za/"
+    },
+    {
+      "id": "fac:365:5efa7bf9af98",
+      "institutionId": "365",
+      "name": "Medicine achieves this",
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf"
+    },
+    {
+      "id": "fac:370:8209328bd7e6",
+      "institutionId": "370",
+      "name": "Theology and Religion 39",
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf"
+    },
+    {
+      "id": "fac:370:22012191dc24",
+      "institutionId": "370",
+      "name": "Theology and Religion",
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf"
+    },
+    {
+      "id": "fac:370:6f4c7b247f8a",
+      "institutionId": "370",
+      "name": "THE HUMANITIES",
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf"
+    },
+    {
+      "id": "fac:413:79b65557baa4",
+      "institutionId": "413",
+      "name": "Pharmacy",
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/"
+    },
+    {
+      "id": "fac:371:7cdd5783df23",
+      "institutionId": "371",
+      "name": "Education",
+      "sourceFile": "lib/seed/prospectuses/university-of-the-western-cape.pdf",
+      "sourceUrl": "https://www.uwc.ac.za/files/files/UWC-2027-Application-Guide.pdf"
+    },
+    {
+      "id": "fac:366:f70277aa13f8",
+      "institutionId": "366",
+      "name": "MANAGEMENT AND LAW",
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/"
+    },
+    {
+      "id": "fac:366:d34d8ff0d099",
+      "institutionId": "366",
+      "name": "Agricultural and",
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/"
+    },
+    {
+      "id": "fac:366:0c5e3d284209",
+      "institutionId": "366",
+      "name": "Computational and",
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/"
+    },
+    {
+      "id": "fac:366:117d74f399db",
+      "institutionId": "366",
+      "name": "HEALTH SCIENCES",
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/"
+    },
+    {
+      "id": "fac:366:7900539be0a6",
+      "institutionId": "366",
+      "name": "MEDICINE",
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/"
+    },
+    {
+      "id": "fac:366:776abf18fa98",
+      "institutionId": "366",
+      "name": "SOCIAL SCIENCES",
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/"
+    },
+    {
+      "id": "fac:331:7ea65cd8ac93",
+      "institutionId": "331",
+      "name": "Engineering 18",
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+      "sourceUrl": "https://eec.edu.za/"
+    },
+    {
+      "id": "fac:331:09c456870af8",
+      "institutionId": "331",
+      "name": "Engineering 28",
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+      "sourceUrl": "https://eec.edu.za/"
+    },
+    {
+      "id": "fac:331:a5c8e8e29386",
+      "institutionId": "331",
+      "name": "ENGINEERING",
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+      "sourceUrl": "https://eec.edu.za/"
+    }
+  ]
+}

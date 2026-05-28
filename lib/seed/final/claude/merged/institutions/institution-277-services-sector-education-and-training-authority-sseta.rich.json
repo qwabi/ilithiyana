@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "institution_id": "277",
+    "slug": "services-sector-education-and-training-authority-sseta",
+    "name": "Services Sector Education and Training Authority (SSETA)",
+    "institution_type": "seta",
+    "province": "Gauteng",
+    "city": "Johannesburg",
+    "official_website": "https://www.servicesseta.org.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/277/services-sector-education-and-training-authority-sseta",
+    "application_url": "https://dgportal.servicesseta.org.za/dg/",
+    "prospectus_url": null,
+    "nsfas_supported": null,
+    "distance_learning": null,
+    "accreditation": {
+      "dh et": null,
+      "saqa": null
+    },
+    "qualification_types": null
+  },
+  "profile": {},
+  "contact": {
+    "emails": [
+      "08mary-annp@serviceseta.org.za",
+      "2792hlengiwed@serviceseta.org.za",
+      "2282melisac@serviceseta.org.za",
+      "2266ecprovince@serviceseta.org.za",
+      "customercare@serviceseta.org.za",
+      "wspdocs@serviceseta.org.za",
+      "2644roelofvr@serviceseta.org.za",
+      "gautengpo@serviceseta.org.za",
+      "roelofvr@serviceseta.org.za",
+      "serviceseta.org.zawspdocs@serviceseta.org.zawspdocs",
+      "wspdocs@serviceseta.org.zawspdocs",
+      "2639melisac@serviceseta.org.za",
+      "ecprovince@serviceseta.org.za"
+    ],
+    "phone_numbers": [
+      "0872832802",
+      "0116948681",
+      "011 276 9600",
+      "0112769647"
+    ],
+    "physical_address": "15 Sherborne Road, Parktown, Johannesburg",
+    "postal_address": "PO Box 3322, Houghton, Johannesburg, 2193",
+    "socials": {
+      "facebook": "https://www.facebook.com/ServicesSETA?mibextid=LQQJ4d",
+      "instagram": "https://www.instagram.com/servicesseta_/",
+      "linkedin": "https://za.linkedin.com/company/services-seta",
+      "x": "https://twitter.com/serviceseta?lang=en",
+      "youtube": "https://www.youtube.com/channel/UCIQ6dfIcFXBNtUUqiKdM85g"
+    }
+  },
+  "campuses": [],
+  "faculties": [
+    {
+      "id": null,
+      "name": "Higher Education and Training",
+      "overview": null,
+      "kind": null
+    }
+  ],
+  "programmes": [],
+  "admission": {
+    "aps_name": null,
+    "aps_calculation_notes": null,
+    "minimum_aps_for_bachelors": null,
+    "minimum_aps_for_diplomas": null,
+    "minimum_entry_note": null,
+    "life_orientation_cap": null,
+    "aps_rules": [],
+    "programme_requirements": []
+  },
+  "sources": [
+    "institutions.json"
+  ],
+  "_stats": {
+    "campuses_count": 0,
+    "faculties_count": 1,
+    "programmes_count": 0,
+    "aps_rules_count": 0,
+    "adm_reqs_count": 0
+  }
+}

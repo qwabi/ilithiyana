@@ -1,0 +1,67 @@
+{
+  "institution": {
+    "id": "institution:vuselela-tvet-college",
+    "slug": "vuselela-tvet-college",
+    "institution_id_raw": "377",
+    "name": "Vuselela TVET College",
+    "institution_type": "tvet-college",
+    "city": "Klerksdorp",
+    "province": "North West",
+    "official_website": "https://vuselelacollege.co.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/377/vuselela-tvet-college",
+    "source_paths": [
+      "generated/v3/institutions.enriched.json",
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "sector": "higher education",
+      "province": "North West",
+      "city": "Klerksdorp",
+      "physical_address": "8 Bram Fischer Street, Klerksdorp, 2571",
+      "contact_emails": [
+        "info@vuselelacollege.co.za"
+      ],
+      "contact_phone_numbers": [
+        "018 406 7800"
+      ],
+      "application_url": "https://vuselelacollege.co.za/how-to-apply/",
+      "socials": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": "",
+        "x": "",
+        "youtube": "https://www.youtube.com/channel/UCNrdmCUiWMwiA2XzfVeJ_gA"
+      },
+      "accreditation": {
+        "dh et": "Accredited",
+        "saqa": null
+      },
+      "sources": [
+        "https://nationalgovernment.co.za/units/view/377/vuselela-tvet-college",
+        "https://vuselelacollege.co.za/"
+      ],
+      "qualification_types": [
+        "NC(V)",
+        "Nated (Report 191)",
+        "Skills Programmes",
+        "Apprenticeships"
+      ],
+      "nsfas_supported": true,
+      "student_accommodation": true,
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

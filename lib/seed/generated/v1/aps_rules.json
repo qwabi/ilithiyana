@@ -1,0 +1,1876 @@
+{
+  "aps_rules": [
+    {
+      "id": "aps:364:aps|standalone|37|60099",
+      "institutionId": "364",
+      "programmeId": null,
+      "minAps": 37,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 60099,
+        "char_end": 60108,
+        "excerpt": "APS of 37"
+      }
+    },
+    {
+      "id": "aps:364:aps|standalone|6|74781",
+      "institutionId": "364",
+      "programmeId": null,
+      "minAps": 6,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 74781,
+        "char_end": 74786,
+        "excerpt": "APS 6"
+      }
+    },
+    {
+      "id": "aps:364:aps|standalone|6|103225",
+      "institutionId": "364",
+      "programmeId": null,
+      "minAps": 6,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 103225,
+        "char_end": 103230,
+        "excerpt": "APS 6"
+      }
+    },
+    {
+      "id": "aps:364:aps|standalone|5|123745",
+      "institutionId": "364",
+      "programmeId": null,
+      "minAps": 5,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 123745,
+        "char_end": 123750,
+        "excerpt": "APS 5"
+      }
+    },
+    {
+      "id": "aps:364:aps|standalone|5|124587",
+      "institutionId": "364",
+      "programmeId": null,
+      "minAps": 5,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 124587,
+        "char_end": 124592,
+        "excerpt": "APS 5"
+      }
+    },
+    {
+      "id": "aps:364:aps|standalone|27|142735",
+      "institutionId": "364",
+      "programmeId": null,
+      "minAps": 27,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 142735,
+        "char_end": 142741,
+        "excerpt": "APS 27"
+      }
+    },
+    {
+      "id": "aps:364:aps|standalone|27|143582",
+      "institutionId": "364",
+      "programmeId": null,
+      "minAps": 27,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 143582,
+        "char_end": 143588,
+        "excerpt": "APS 27"
+      }
+    },
+    {
+      "id": "aps:364:aps|standalone|24|148175",
+      "institutionId": "364",
+      "programmeId": null,
+      "minAps": 24,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 148175,
+        "char_end": 148181,
+        "excerpt": "APS 24"
+      }
+    },
+    {
+      "id": "aps:364:aps|standalone|24|149236",
+      "institutionId": "364",
+      "programmeId": null,
+      "minAps": 24,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 149236,
+        "char_end": 149242,
+        "excerpt": "APS 24"
+      }
+    },
+    {
+      "id": "aps:352:aps|standalone|40|9860",
+      "institutionId": "352",
+      "programmeId": null,
+      "minAps": 40,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/rhodes-university.pdf",
+      "sourceUrl": "https://www.ru.ac.za/media/rhodesuniversity/content/registrar/documents/information/studentrecruitment/RU_READY_Undergraduate_Prospectus_2026_DIGITAL_A5_Landscape_24pp_18Mar2026.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+        "char_start": 9860,
+        "char_end": 9869,
+        "excerpt": "APS of 40"
+      }
+    },
+    {
+      "id": "aps:349:aps|standalone|8|5729",
+      "institutionId": "349",
+      "programmeId": null,
+      "minAps": 8,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/north-west-university.pdf",
+      "sourceUrl": "https://studies.nwu.ac.za/sites/studies.nwu.ac.za/files/files/undergrad/2025-Grade-12-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+        "char_start": 5729,
+        "char_end": 5737,
+        "excerpt": "APS of 8"
+      }
+    },
+    {
+      "id": "aps:349:aps|standalone|31|18212",
+      "institutionId": "349",
+      "programmeId": null,
+      "minAps": 31,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/north-west-university.pdf",
+      "sourceUrl": "https://studies.nwu.ac.za/sites/studies.nwu.ac.za/files/files/undergrad/2025-Grade-12-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+        "char_start": 18212,
+        "char_end": 18221,
+        "excerpt": "APS of 31"
+      }
+    },
+    {
+      "id": "aps:349:aps|standalone|22|45692",
+      "institutionId": "349",
+      "programmeId": null,
+      "minAps": 22,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/north-west-university.pdf",
+      "sourceUrl": "https://studies.nwu.ac.za/sites/studies.nwu.ac.za/files/files/undergrad/2025-Grade-12-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+        "char_start": 45692,
+        "char_end": 45709,
+        "excerpt": "minimum APS of 22"
+      }
+    },
+    {
+      "id": "aps:349:aps|standalone|22|45700",
+      "institutionId": "349",
+      "programmeId": null,
+      "minAps": 22,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/north-west-university.pdf",
+      "sourceUrl": "https://studies.nwu.ac.za/sites/studies.nwu.ac.za/files/files/undergrad/2025-Grade-12-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+        "char_start": 45700,
+        "char_end": 45709,
+        "excerpt": "APS of 22"
+      }
+    },
+    {
+      "id": "aps:367:aps|standalone|30|70300",
+      "institutionId": "367",
+      "programmeId": null,
+      "minAps": 30,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 70300,
+        "char_end": 70317,
+        "excerpt": "minimum APS of 30"
+      }
+    },
+    {
+      "id": "aps:367:aps|standalone|30|70308",
+      "institutionId": "367",
+      "programmeId": null,
+      "minAps": 30,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 70308,
+        "char_end": 70317,
+        "excerpt": "APS of 30"
+      }
+    },
+    {
+      "id": "aps:367:aps|standalone|30|70943",
+      "institutionId": "367",
+      "programmeId": null,
+      "minAps": 30,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 70943,
+        "char_end": 70960,
+        "excerpt": "minimum APS of 30"
+      }
+    },
+    {
+      "id": "aps:367:aps|standalone|30|70951",
+      "institutionId": "367",
+      "programmeId": null,
+      "minAps": 30,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 70951,
+        "char_end": 70960,
+        "excerpt": "APS of 30"
+      }
+    },
+    {
+      "id": "aps:367:aps|standalone|30|71822",
+      "institutionId": "367",
+      "programmeId": null,
+      "minAps": 30,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 71822,
+        "char_end": 71839,
+        "excerpt": "minimum APS of 30"
+      }
+    },
+    {
+      "id": "aps:367:aps|standalone|30|71830",
+      "institutionId": "367",
+      "programmeId": null,
+      "minAps": 30,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 71830,
+        "char_end": 71839,
+        "excerpt": "APS of 30"
+      }
+    },
+    {
+      "id": "aps:367:aps|standalone|28|71903",
+      "institutionId": "367",
+      "programmeId": null,
+      "minAps": 28,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 71903,
+        "char_end": 71920,
+        "excerpt": "minimum APS of 28"
+      }
+    },
+    {
+      "id": "aps:367:aps|standalone|28|71911",
+      "institutionId": "367",
+      "programmeId": null,
+      "minAps": 28,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 71911,
+        "char_end": 71920,
+        "excerpt": "APS of 28"
+      }
+    },
+    {
+      "id": "aps:367:aps|standalone|30|73115",
+      "institutionId": "367",
+      "programmeId": null,
+      "minAps": 30,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 73115,
+        "char_end": 73132,
+        "excerpt": "minimum APS of 30"
+      }
+    },
+    {
+      "id": "aps:367:aps|standalone|30|73123",
+      "institutionId": "367",
+      "programmeId": null,
+      "minAps": 30,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 73123,
+        "char_end": 73132,
+        "excerpt": "APS of 30"
+      }
+    },
+    {
+      "id": "aps:367:aps|standalone|30|73777",
+      "institutionId": "367",
+      "programmeId": null,
+      "minAps": 30,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 73777,
+        "char_end": 73794,
+        "excerpt": "minimum APS of 30"
+      }
+    },
+    {
+      "id": "aps:367:aps|standalone|30|73785",
+      "institutionId": "367",
+      "programmeId": null,
+      "minAps": 30,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 73785,
+        "char_end": 73794,
+        "excerpt": "APS of 30"
+      }
+    },
+    {
+      "id": "aps:367:aps|standalone|30|74326",
+      "institutionId": "367",
+      "programmeId": null,
+      "minAps": 30,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 74326,
+        "char_end": 74343,
+        "excerpt": "minimum APS of 30"
+      }
+    },
+    {
+      "id": "aps:367:aps|standalone|30|74334",
+      "institutionId": "367",
+      "programmeId": null,
+      "minAps": 30,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 74334,
+        "char_end": 74343,
+        "excerpt": "APS of 30"
+      }
+    },
+    {
+      "id": "aps:367:aps|standalone|30|76070",
+      "institutionId": "367",
+      "programmeId": null,
+      "minAps": 30,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 76070,
+        "char_end": 76087,
+        "excerpt": "minimum APS of 30"
+      }
+    },
+    {
+      "id": "aps:367:aps|standalone|30|76078",
+      "institutionId": "367",
+      "programmeId": null,
+      "minAps": 30,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 76078,
+        "char_end": 76087,
+        "excerpt": "APS of 30"
+      }
+    },
+    {
+      "id": "aps:367:aps|standalone|30|77760",
+      "institutionId": "367",
+      "programmeId": null,
+      "minAps": 30,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 77760,
+        "char_end": 77777,
+        "excerpt": "minimum APS of 30"
+      }
+    },
+    {
+      "id": "aps:367:aps|standalone|30|77768",
+      "institutionId": "367",
+      "programmeId": null,
+      "minAps": 30,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 77768,
+        "char_end": 77777,
+        "excerpt": "APS of 30"
+      }
+    },
+    {
+      "id": "aps:367:aps|standalone|28|77841",
+      "institutionId": "367",
+      "programmeId": null,
+      "minAps": 28,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 77841,
+        "char_end": 77858,
+        "excerpt": "minimum APS of 28"
+      }
+    },
+    {
+      "id": "aps:367:aps|standalone|28|77849",
+      "institutionId": "367",
+      "programmeId": null,
+      "minAps": 28,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 77849,
+        "char_end": 77858,
+        "excerpt": "APS of 28"
+      }
+    },
+    {
+      "id": "aps:367:aps|standalone|32|79337",
+      "institutionId": "367",
+      "programmeId": null,
+      "minAps": 32,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 79337,
+        "char_end": 79346,
+        "excerpt": "APS of 32"
+      }
+    },
+    {
+      "id": "aps:367:aps|standalone|30|80088",
+      "institutionId": "367",
+      "programmeId": null,
+      "minAps": 30,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 80088,
+        "char_end": 80105,
+        "excerpt": "minimum APS of 30"
+      }
+    },
+    {
+      "id": "aps:367:aps|standalone|30|80096",
+      "institutionId": "367",
+      "programmeId": null,
+      "minAps": 30,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 80096,
+        "char_end": 80105,
+        "excerpt": "APS of 30"
+      }
+    },
+    {
+      "id": "aps:367:aps|standalone|28|80169",
+      "institutionId": "367",
+      "programmeId": null,
+      "minAps": 28,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 80169,
+        "char_end": 80186,
+        "excerpt": "minimum APS of 28"
+      }
+    },
+    {
+      "id": "aps:367:aps|standalone|28|80177",
+      "institutionId": "367",
+      "programmeId": null,
+      "minAps": 28,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 80177,
+        "char_end": 80186,
+        "excerpt": "APS of 28"
+      }
+    },
+    {
+      "id": "aps:367:aps|standalone|30|80686",
+      "institutionId": "367",
+      "programmeId": null,
+      "minAps": 30,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 80686,
+        "char_end": 80703,
+        "excerpt": "minimum APS of 30"
+      }
+    },
+    {
+      "id": "aps:367:aps|standalone|30|80694",
+      "institutionId": "367",
+      "programmeId": null,
+      "minAps": 30,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 80694,
+        "char_end": 80703,
+        "excerpt": "APS of 30"
+      }
+    },
+    {
+      "id": "aps:367:aps|standalone|28|80767",
+      "institutionId": "367",
+      "programmeId": null,
+      "minAps": 28,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 80767,
+        "char_end": 80784,
+        "excerpt": "minimum APS of 28"
+      }
+    },
+    {
+      "id": "aps:367:aps|standalone|28|80775",
+      "institutionId": "367",
+      "programmeId": null,
+      "minAps": 28,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 80775,
+        "char_end": 80784,
+        "excerpt": "APS of 28"
+      }
+    },
+    {
+      "id": "aps:367:aps|standalone|30|81115",
+      "institutionId": "367",
+      "programmeId": null,
+      "minAps": 30,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 81115,
+        "char_end": 81132,
+        "excerpt": "minimum APS of 30"
+      }
+    },
+    {
+      "id": "aps:367:aps|standalone|30|81123",
+      "institutionId": "367",
+      "programmeId": null,
+      "minAps": 30,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 81123,
+        "char_end": 81132,
+        "excerpt": "APS of 30"
+      }
+    },
+    {
+      "id": "aps:367:aps|standalone|28|81196",
+      "institutionId": "367",
+      "programmeId": null,
+      "minAps": 28,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 81196,
+        "char_end": 81213,
+        "excerpt": "minimum APS of 28"
+      }
+    },
+    {
+      "id": "aps:367:aps|standalone|28|81204",
+      "institutionId": "367",
+      "programmeId": null,
+      "minAps": 28,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 81204,
+        "char_end": 81213,
+        "excerpt": "APS of 28"
+      }
+    },
+    {
+      "id": "aps:367:aps|standalone|30|82488",
+      "institutionId": "367",
+      "programmeId": null,
+      "minAps": 30,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 82488,
+        "char_end": 82505,
+        "excerpt": "minimum APS of 30"
+      }
+    },
+    {
+      "id": "aps:367:aps|standalone|30|82496",
+      "institutionId": "367",
+      "programmeId": null,
+      "minAps": 30,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 82496,
+        "char_end": 82505,
+        "excerpt": "APS of 30"
+      }
+    },
+    {
+      "id": "aps:367:aps|standalone|28|82569",
+      "institutionId": "367",
+      "programmeId": null,
+      "minAps": 28,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 82569,
+        "char_end": 82586,
+        "excerpt": "minimum APS of 28"
+      }
+    },
+    {
+      "id": "aps:367:aps|standalone|28|82577",
+      "institutionId": "367",
+      "programmeId": null,
+      "minAps": 28,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 82577,
+        "char_end": 82586,
+        "excerpt": "APS of 28"
+      }
+    },
+    {
+      "id": "aps:367:aps|standalone|38|83736",
+      "institutionId": "367",
+      "programmeId": null,
+      "minAps": 38,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 83736,
+        "char_end": 83745,
+        "excerpt": "APS of 38"
+      }
+    },
+    {
+      "id": "aps:373:aps|standalone|28|16174",
+      "institutionId": "373",
+      "programmeId": null,
+      "minAps": 28,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 16174,
+        "char_end": 16183,
+        "excerpt": "APS of 28"
+      }
+    },
+    {
+      "id": "aps:412:aps|standalone|24|150",
+      "institutionId": "412",
+      "programmeId": null,
+      "minAps": 24,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "sourceUrl": "https://www.ump.ac.za/getattachment/Study-with-us/Application-Process/Online-Applications/Undergraduate-Programmes.pdf.aspx?lang=en-US",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+        "char_start": 150,
+        "char_end": 175,
+        "excerpt": "Admission Point Score: 24"
+      }
+    },
+    {
+      "id": "aps:412:aps|standalone|32|511",
+      "institutionId": "412",
+      "programmeId": null,
+      "minAps": 32,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "sourceUrl": "https://www.ump.ac.za/getattachment/Study-with-us/Application-Process/Online-Applications/Undergraduate-Programmes.pdf.aspx?lang=en-US",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+        "char_start": 511,
+        "char_end": 536,
+        "excerpt": "Admission Point Score: 32"
+      }
+    },
+    {
+      "id": "aps:412:aps|standalone|19|839",
+      "institutionId": "412",
+      "programmeId": null,
+      "minAps": 19,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "sourceUrl": "https://www.ump.ac.za/getattachment/Study-with-us/Application-Process/Online-Applications/Undergraduate-Programmes.pdf.aspx?lang=en-US",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+        "char_start": 839,
+        "char_end": 864,
+        "excerpt": "Admission Point Score: 19"
+      }
+    },
+    {
+      "id": "aps:412:aps|standalone|32|1415",
+      "institutionId": "412",
+      "programmeId": null,
+      "minAps": 32,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "sourceUrl": "https://www.ump.ac.za/getattachment/Study-with-us/Application-Process/Online-Applications/Undergraduate-Programmes.pdf.aspx?lang=en-US",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+        "char_start": 1415,
+        "char_end": 1440,
+        "excerpt": "Admission Point Score: 32"
+      }
+    },
+    {
+      "id": "aps:412:aps|standalone|28|1648",
+      "institutionId": "412",
+      "programmeId": null,
+      "minAps": 28,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "sourceUrl": "https://www.ump.ac.za/getattachment/Study-with-us/Application-Process/Online-Applications/Undergraduate-Programmes.pdf.aspx?lang=en-US",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+        "char_start": 1648,
+        "char_end": 1673,
+        "excerpt": "Admission Point Score: 28"
+      }
+    },
+    {
+      "id": "aps:412:aps|standalone|30|2547",
+      "institutionId": "412",
+      "programmeId": null,
+      "minAps": 30,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "sourceUrl": "https://www.ump.ac.za/getattachment/Study-with-us/Application-Process/Online-Applications/Undergraduate-Programmes.pdf.aspx?lang=en-US",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+        "char_start": 2547,
+        "char_end": 2572,
+        "excerpt": "Admission Point Score: 30"
+      }
+    },
+    {
+      "id": "aps:412:aps|standalone|32|2786",
+      "institutionId": "412",
+      "programmeId": null,
+      "minAps": 32,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "sourceUrl": "https://www.ump.ac.za/getattachment/Study-with-us/Application-Process/Online-Applications/Undergraduate-Programmes.pdf.aspx?lang=en-US",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+        "char_start": 2786,
+        "char_end": 2811,
+        "excerpt": "Admission Point Score: 32"
+      }
+    },
+    {
+      "id": "aps:412:aps|standalone|30|3418",
+      "institutionId": "412",
+      "programmeId": null,
+      "minAps": 30,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "sourceUrl": "https://www.ump.ac.za/getattachment/Study-with-us/Application-Process/Online-Applications/Undergraduate-Programmes.pdf.aspx?lang=en-US",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+        "char_start": 3418,
+        "char_end": 3443,
+        "excerpt": "Admission Point Score: 30"
+      }
+    },
+    {
+      "id": "aps:412:aps|standalone|20|4065",
+      "institutionId": "412",
+      "programmeId": null,
+      "minAps": 20,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "sourceUrl": "https://www.ump.ac.za/getattachment/Study-with-us/Application-Process/Online-Applications/Undergraduate-Programmes.pdf.aspx?lang=en-US",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+        "char_start": 4065,
+        "char_end": 4090,
+        "excerpt": "Admission Point Score: 20"
+      }
+    },
+    {
+      "id": "aps:412:aps|standalone|23|4610",
+      "institutionId": "412",
+      "programmeId": null,
+      "minAps": 23,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "sourceUrl": "https://www.ump.ac.za/getattachment/Study-with-us/Application-Process/Online-Applications/Undergraduate-Programmes.pdf.aspx?lang=en-US",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+        "char_start": 4610,
+        "char_end": 4635,
+        "excerpt": "Admission Point Score: 23"
+      }
+    },
+    {
+      "id": "aps:412:aps|standalone|30|4868",
+      "institutionId": "412",
+      "programmeId": null,
+      "minAps": 30,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "sourceUrl": "https://www.ump.ac.za/getattachment/Study-with-us/Application-Process/Online-Applications/Undergraduate-Programmes.pdf.aspx?lang=en-US",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+        "char_start": 4868,
+        "char_end": 4893,
+        "excerpt": "Admission Point Score: 30"
+      }
+    },
+    {
+      "id": "aps:412:aps|standalone|24|5564",
+      "institutionId": "412",
+      "programmeId": null,
+      "minAps": 24,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "sourceUrl": "https://www.ump.ac.za/getattachment/Study-with-us/Application-Process/Online-Applications/Undergraduate-Programmes.pdf.aspx?lang=en-US",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+        "char_start": 5564,
+        "char_end": 5589,
+        "excerpt": "Admission Point Score: 24"
+      }
+    },
+    {
+      "id": "aps:412:aps|standalone|26|6170",
+      "institutionId": "412",
+      "programmeId": null,
+      "minAps": 26,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "sourceUrl": "https://www.ump.ac.za/getattachment/Study-with-us/Application-Process/Online-Applications/Undergraduate-Programmes.pdf.aspx?lang=en-US",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+        "char_start": 6170,
+        "char_end": 6195,
+        "excerpt": "Admission Point Score: 26"
+      }
+    },
+    {
+      "id": "aps:412:aps|standalone|30|6537",
+      "institutionId": "412",
+      "programmeId": null,
+      "minAps": 30,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "sourceUrl": "https://www.ump.ac.za/getattachment/Study-with-us/Application-Process/Online-Applications/Undergraduate-Programmes.pdf.aspx?lang=en-US",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+        "char_start": 6537,
+        "char_end": 6562,
+        "excerpt": "Admission Point Score: 30"
+      }
+    },
+    {
+      "id": "aps:412:aps|standalone|30|7267",
+      "institutionId": "412",
+      "programmeId": null,
+      "minAps": 30,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "sourceUrl": "https://www.ump.ac.za/getattachment/Study-with-us/Application-Process/Online-Applications/Undergraduate-Programmes.pdf.aspx?lang=en-US",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+        "char_start": 7267,
+        "char_end": 7292,
+        "excerpt": "Admission Point Score: 30"
+      }
+    },
+    {
+      "id": "aps:412:aps|standalone|32|8279",
+      "institutionId": "412",
+      "programmeId": null,
+      "minAps": 32,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "sourceUrl": "https://www.ump.ac.za/getattachment/Study-with-us/Application-Process/Online-Applications/Undergraduate-Programmes.pdf.aspx?lang=en-US",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+        "char_start": 8279,
+        "char_end": 8304,
+        "excerpt": "Admission Point Score: 32"
+      }
+    },
+    {
+      "id": "aps:412:aps|standalone|26|8872",
+      "institutionId": "412",
+      "programmeId": null,
+      "minAps": 26,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "sourceUrl": "https://www.ump.ac.za/getattachment/Study-with-us/Application-Process/Online-Applications/Undergraduate-Programmes.pdf.aspx?lang=en-US",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+        "char_start": 8872,
+        "char_end": 8897,
+        "excerpt": "Admission Point Score: 26"
+      }
+    },
+    {
+      "id": "aps:365:aps|standalone|26|47763",
+      "institutionId": "365",
+      "programmeId": null,
+      "minAps": 26,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 47763,
+        "char_end": 47769,
+        "excerpt": "APS 26"
+      }
+    },
+    {
+      "id": "aps:365:aps|standalone|28|48990",
+      "institutionId": "365",
+      "programmeId": null,
+      "minAps": 28,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 48990,
+        "char_end": 48996,
+        "excerpt": "APS 28"
+      }
+    },
+    {
+      "id": "aps:365:aps|standalone|28|128474",
+      "institutionId": "365",
+      "programmeId": null,
+      "minAps": 28,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 128474,
+        "char_end": 128483,
+        "excerpt": "APS of 28"
+      }
+    },
+    {
+      "id": "aps:365:aps|standalone|26|129016",
+      "institutionId": "365",
+      "programmeId": null,
+      "minAps": 26,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 129016,
+        "char_end": 129025,
+        "excerpt": "APS of 26"
+      }
+    },
+    {
+      "id": "aps:365:aps|standalone|30|135965",
+      "institutionId": "365",
+      "programmeId": null,
+      "minAps": 30,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 135965,
+        "char_end": 135980,
+        "excerpt": "APS score of 30"
+      }
+    },
+    {
+      "id": "aps:365:aps|standalone|30|143846",
+      "institutionId": "365",
+      "programmeId": null,
+      "minAps": 30,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 143846,
+        "char_end": 143852,
+        "excerpt": "APS 30"
+      }
+    },
+    {
+      "id": "aps:365:aps|standalone|30|144807",
+      "institutionId": "365",
+      "programmeId": null,
+      "minAps": 30,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 144807,
+        "char_end": 144813,
+        "excerpt": "APS 30"
+      }
+    },
+    {
+      "id": "aps:365:aps|standalone|30|146040",
+      "institutionId": "365",
+      "programmeId": null,
+      "minAps": 30,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 146040,
+        "char_end": 146049,
+        "excerpt": "APS of 30"
+      }
+    },
+    {
+      "id": "aps:365:aps|standalone|30|147250",
+      "institutionId": "365",
+      "programmeId": null,
+      "minAps": 30,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 147250,
+        "char_end": 147259,
+        "excerpt": "APS of 30"
+      }
+    },
+    {
+      "id": "aps:365:aps|standalone|30|149213",
+      "institutionId": "365",
+      "programmeId": null,
+      "minAps": 30,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 149213,
+        "char_end": 149222,
+        "excerpt": "APS of 30"
+      }
+    },
+    {
+      "id": "aps:365:aps|standalone|33|150123",
+      "institutionId": "365",
+      "programmeId": null,
+      "minAps": 33,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 150123,
+        "char_end": 150132,
+        "excerpt": "APS of 33"
+      }
+    },
+    {
+      "id": "aps:365:aps|standalone|33|151308",
+      "institutionId": "365",
+      "programmeId": null,
+      "minAps": 33,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 151308,
+        "char_end": 151317,
+        "excerpt": "APS of 33"
+      }
+    },
+    {
+      "id": "aps:365:aps|standalone|30|152570",
+      "institutionId": "365",
+      "programmeId": null,
+      "minAps": 30,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 152570,
+        "char_end": 152579,
+        "excerpt": "APS of 30"
+      }
+    },
+    {
+      "id": "aps:365:aps|standalone|30|154296",
+      "institutionId": "365",
+      "programmeId": null,
+      "minAps": 30,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 154296,
+        "char_end": 154305,
+        "excerpt": "APS of 30"
+      }
+    },
+    {
+      "id": "aps:365:aps|standalone|30|155475",
+      "institutionId": "365",
+      "programmeId": null,
+      "minAps": 30,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 155475,
+        "char_end": 155484,
+        "excerpt": "APS of 30"
+      }
+    },
+    {
+      "id": "aps:365:aps|standalone|30|157589",
+      "institutionId": "365",
+      "programmeId": null,
+      "minAps": 30,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 157589,
+        "char_end": 157604,
+        "excerpt": "APS score of 30"
+      }
+    },
+    {
+      "id": "aps:365:Degree|f6a01ec2a83e|ba (visual art):30",
+      "institutionId": "365",
+      "programmeId": "prog:365:Degree|f6a01ec2a83e|ba (visual art)",
+      "minAps": 30,
+      "scope": "programme",
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf"
+    },
+    {
+      "id": "aps:365:aps|standalone|30|173764",
+      "institutionId": "365",
+      "programmeId": null,
+      "minAps": 30,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 173764,
+        "char_end": 173773,
+        "excerpt": "APS of 30"
+      }
+    },
+    {
+      "id": "aps:365:aps|standalone|32|181441",
+      "institutionId": "365",
+      "programmeId": null,
+      "minAps": 32,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 181441,
+        "char_end": 181458,
+        "excerpt": "minimum APS of 32"
+      }
+    },
+    {
+      "id": "aps:365:aps|standalone|32|181449",
+      "institutionId": "365",
+      "programmeId": null,
+      "minAps": 32,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 181449,
+        "char_end": 181458,
+        "excerpt": "APS of 32"
+      }
+    },
+    {
+      "id": "aps:365:aps|standalone|28|184877",
+      "institutionId": "365",
+      "programmeId": null,
+      "minAps": 28,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 184877,
+        "char_end": 184883,
+        "excerpt": "APS 28"
+      }
+    },
+    {
+      "id": "aps:365:aps|standalone|32|185015",
+      "institutionId": "365",
+      "programmeId": null,
+      "minAps": 32,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 185015,
+        "char_end": 185024,
+        "excerpt": "APS of 32"
+      }
+    },
+    {
+      "id": "aps:365:aps|standalone|30|187469",
+      "institutionId": "365",
+      "programmeId": null,
+      "minAps": 30,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 187469,
+        "char_end": 187478,
+        "excerpt": "APS of 30"
+      }
+    },
+    {
+      "id": "aps:365:aps|standalone|35|187812",
+      "institutionId": "365",
+      "programmeId": null,
+      "minAps": 35,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 187812,
+        "char_end": 187821,
+        "excerpt": "APS of 35"
+      }
+    },
+    {
+      "id": "aps:365:aps|standalone|32|188329",
+      "institutionId": "365",
+      "programmeId": null,
+      "minAps": 32,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 188329,
+        "char_end": 188338,
+        "excerpt": "APS of 32"
+      }
+    },
+    {
+      "id": "aps:365:aps|standalone|35|188518",
+      "institutionId": "365",
+      "programmeId": null,
+      "minAps": 35,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 188518,
+        "char_end": 188524,
+        "excerpt": "APS 35"
+      }
+    },
+    {
+      "id": "aps:365:aps|standalone|33|188889",
+      "institutionId": "365",
+      "programmeId": null,
+      "minAps": 33,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 188889,
+        "char_end": 188895,
+        "excerpt": "APS 33"
+      }
+    },
+    {
+      "id": "aps:365:aps|standalone|37|189044",
+      "institutionId": "365",
+      "programmeId": null,
+      "minAps": 37,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 189044,
+        "char_end": 189050,
+        "excerpt": "APS 37"
+      }
+    },
+    {
+      "id": "aps:365:aps|standalone|26|190871",
+      "institutionId": "365",
+      "programmeId": null,
+      "minAps": 26,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 190871,
+        "char_end": 190877,
+        "excerpt": "APS 26"
+      }
+    },
+    {
+      "id": "aps:365:Degree|b5508e98e435|bcom:28",
+      "institutionId": "365",
+      "programmeId": "prog:365:Degree|b5508e98e435|bcom",
+      "minAps": 28,
+      "scope": "programme",
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf"
+    },
+    {
+      "id": "aps:365:aps|standalone|28|191134",
+      "institutionId": "365",
+      "programmeId": null,
+      "minAps": 28,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 191134,
+        "char_end": 191140,
+        "excerpt": "APS 28"
+      }
+    },
+    {
+      "id": "aps:343:aps|standalone|24|19916",
+      "institutionId": "343",
+      "programmeId": null,
+      "minAps": 24,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/mopani-south-tvet-college.pdf",
+      "sourceUrl": "https://mopanicollege.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/mopani-south-tvet-college.pdf",
+        "char_start": 19916,
+        "char_end": 19931,
+        "excerpt": "APS score of 24"
+      }
+    },
+    {
+      "id": "aps:343:aps|standalone|24|57825",
+      "institutionId": "343",
+      "programmeId": null,
+      "minAps": 24,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/mopani-south-tvet-college.pdf",
+      "sourceUrl": "https://mopanicollege.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/mopani-south-tvet-college.pdf",
+        "char_start": 57825,
+        "char_end": 57840,
+        "excerpt": "APS score of 24"
+      }
+    },
+    {
+      "id": "aps:343:NATED|062dadb07aaa|n5 certificate:29",
+      "institutionId": "343",
+      "programmeId": "prog:343:NATED|062dadb07aaa|n5 certificate",
+      "minAps": 29,
+      "scope": "programme",
+      "sourceFile": "lib/seed/prospectuses/mopani-south-tvet-college.pdf",
+      "sourceUrl": "https://mopanicollege.edu.za/"
+    },
+    {
+      "id": "aps:343:NATED|57d8fa0fea64|n4 certificate:29",
+      "institutionId": "343",
+      "programmeId": "prog:343:NATED|57d8fa0fea64|n4 certificate",
+      "minAps": 29,
+      "scope": "programme",
+      "sourceFile": "lib/seed/prospectuses/mopani-south-tvet-college.pdf",
+      "sourceUrl": "https://mopanicollege.edu.za/"
+    },
+    {
+      "id": "aps:343:NATED|2991a6b8d1aa|n6 certificate:29",
+      "institutionId": "343",
+      "programmeId": "prog:343:NATED|2991a6b8d1aa|n6 certificate",
+      "minAps": 29,
+      "scope": "programme",
+      "sourceFile": "lib/seed/prospectuses/mopani-south-tvet-college.pdf",
+      "sourceUrl": "https://mopanicollege.edu.za/"
+    },
+    {
+      "id": "aps:343:aps|standalone|29|66440",
+      "institutionId": "343",
+      "programmeId": null,
+      "minAps": 29,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/mopani-south-tvet-college.pdf",
+      "sourceUrl": "https://mopanicollege.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/mopani-south-tvet-college.pdf",
+        "char_start": 66440,
+        "char_end": 66455,
+        "excerpt": "APS Score of 29"
+      }
+    },
+    {
+      "id": "aps:337:aps|standalone|24|5220",
+      "institutionId": "337",
+      "programmeId": null,
+      "minAps": 24,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+      "sourceUrl": "https://goldfieldstvet.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+        "char_start": 5220,
+        "char_end": 5235,
+        "excerpt": "APS score of 24"
+      }
+    },
+    {
+      "id": "aps:337:NCV|67e7d17759c8|nc(v) l2:22",
+      "institutionId": "337",
+      "programmeId": "prog:337:NCV|67e7d17759c8|nc(v) l2",
+      "minAps": 22,
+      "scope": "programme",
+      "sourceFile": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+      "sourceUrl": "https://goldfieldstvet.edu.za/"
+    },
+    {
+      "id": "aps:337:aps|standalone|22|5302",
+      "institutionId": "337",
+      "programmeId": null,
+      "minAps": 22,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+      "sourceUrl": "https://goldfieldstvet.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+        "char_start": 5302,
+        "char_end": 5317,
+        "excerpt": "APS score of 22"
+      }
+    },
+    {
+      "id": "aps:337:NCV|b5644ec3803a|nc(v) l3:20",
+      "institutionId": "337",
+      "programmeId": "prog:337:NCV|b5644ec3803a|nc(v) l3",
+      "minAps": 20,
+      "scope": "programme",
+      "sourceFile": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+      "sourceUrl": "https://goldfieldstvet.edu.za/"
+    },
+    {
+      "id": "aps:337:aps|standalone|20|5403",
+      "institutionId": "337",
+      "programmeId": null,
+      "minAps": 20,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+      "sourceUrl": "https://goldfieldstvet.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+        "char_start": 5403,
+        "char_end": 5418,
+        "excerpt": "APS score of 20"
+      }
+    },
+    {
+      "id": "aps:337:NCV|0b8628209db7|nc(v) l4:18",
+      "institutionId": "337",
+      "programmeId": "prog:337:NCV|0b8628209db7|nc(v) l4",
+      "minAps": 18,
+      "scope": "programme",
+      "sourceFile": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+      "sourceUrl": "https://goldfieldstvet.edu.za/"
+    },
+    {
+      "id": "aps:337:aps|standalone|18|5504",
+      "institutionId": "337",
+      "programmeId": null,
+      "minAps": 18,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+      "sourceUrl": "https://goldfieldstvet.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+        "char_start": 5504,
+        "char_end": 5519,
+        "excerpt": "APS score of 18"
+      }
+    },
+    {
+      "id": "aps:337:aps|standalone|24|9508",
+      "institutionId": "337",
+      "programmeId": null,
+      "minAps": 24,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+      "sourceUrl": "https://goldfieldstvet.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+        "char_start": 9508,
+        "char_end": 9523,
+        "excerpt": "APS score of 24"
+      }
+    },
+    {
+      "id": "aps:337:aps|standalone|24|10807",
+      "institutionId": "337",
+      "programmeId": null,
+      "minAps": 24,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+      "sourceUrl": "https://goldfieldstvet.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+        "char_start": 10807,
+        "char_end": 10822,
+        "excerpt": "APS score of 24"
+      }
+    },
+    {
+      "id": "aps:337:aps|standalone|25|11963",
+      "institutionId": "337",
+      "programmeId": null,
+      "minAps": 25,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+      "sourceUrl": "https://goldfieldstvet.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+        "char_start": 11963,
+        "char_end": 11978,
+        "excerpt": "APS score of 25"
+      }
+    },
+    {
+      "id": "aps:337:aps|standalone|24|13159",
+      "institutionId": "337",
+      "programmeId": null,
+      "minAps": 24,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+      "sourceUrl": "https://goldfieldstvet.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+        "char_start": 13159,
+        "char_end": 13174,
+        "excerpt": "APS score of 24"
+      }
+    },
+    {
+      "id": "aps:337:aps|standalone|24|14153",
+      "institutionId": "337",
+      "programmeId": null,
+      "minAps": 24,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+      "sourceUrl": "https://goldfieldstvet.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+        "char_start": 14153,
+        "char_end": 14168,
+        "excerpt": "APS score of 24"
+      }
+    },
+    {
+      "id": "aps:337:aps|standalone|24|15191",
+      "institutionId": "337",
+      "programmeId": null,
+      "minAps": 24,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+      "sourceUrl": "https://goldfieldstvet.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+        "char_start": 15191,
+        "char_end": 15206,
+        "excerpt": "APS score of 24"
+      }
+    },
+    {
+      "id": "aps:337:aps|standalone|24|19308",
+      "institutionId": "337",
+      "programmeId": null,
+      "minAps": 24,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+      "sourceUrl": "https://goldfieldstvet.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+        "char_start": 19308,
+        "char_end": 19323,
+        "excerpt": "APS score of 24"
+      }
+    },
+    {
+      "id": "aps:337:aps|standalone|22|19460",
+      "institutionId": "337",
+      "programmeId": null,
+      "minAps": 22,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+      "sourceUrl": "https://goldfieldstvet.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+        "char_start": 19460,
+        "char_end": 19475,
+        "excerpt": "APS score of 22"
+      }
+    },
+    {
+      "id": "aps:337:aps|standalone|20|19625",
+      "institutionId": "337",
+      "programmeId": null,
+      "minAps": 20,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+      "sourceUrl": "https://goldfieldstvet.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+        "char_start": 19625,
+        "char_end": 19640,
+        "excerpt": "APS score of 20"
+      }
+    },
+    {
+      "id": "aps:337:aps|standalone|18|19778",
+      "institutionId": "337",
+      "programmeId": null,
+      "minAps": 18,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+      "sourceUrl": "https://goldfieldstvet.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+        "char_start": 19778,
+        "char_end": 19793,
+        "excerpt": "APS score of 18"
+      }
+    },
+    {
+      "id": "aps:337:aps|standalone|24|21818",
+      "institutionId": "337",
+      "programmeId": null,
+      "minAps": 24,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+      "sourceUrl": "https://goldfieldstvet.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+        "char_start": 21818,
+        "char_end": 21833,
+        "excerpt": "APS score of 24"
+      }
+    },
+    {
+      "id": "aps:337:aps|standalone|24|22925",
+      "institutionId": "337",
+      "programmeId": null,
+      "minAps": 24,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+      "sourceUrl": "https://goldfieldstvet.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+        "char_start": 22925,
+        "char_end": 22940,
+        "excerpt": "APS score of 24"
+      }
+    },
+    {
+      "id": "aps:337:aps|standalone|22|23078",
+      "institutionId": "337",
+      "programmeId": null,
+      "minAps": 22,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+      "sourceUrl": "https://goldfieldstvet.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+        "char_start": 23078,
+        "char_end": 23093,
+        "excerpt": "APS score of 22"
+      }
+    },
+    {
+      "id": "aps:337:aps|standalone|20|23242",
+      "institutionId": "337",
+      "programmeId": null,
+      "minAps": 20,
+      "scope": "institution",
+      "sourceFile": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+      "sourceUrl": "https://goldfieldstvet.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+        "char_start": 23242,
+        "char_end": 23257,
+        "excerpt": "APS score of 20"
+      }
+    }
+  ]
+}

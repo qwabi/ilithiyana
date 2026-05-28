@@ -1,0 +1,37 @@
+{
+  "institution_file_map": {
+    "306": [
+      "prospectuses/central-johannesburg-tvet-college-web.txt"
+    ],
+    "309": [
+      "prospectuses/ikhala-tvet-college-web.txt"
+    ],
+    "311": [
+      "prospectuses/letaba-tvet-college-web.txt"
+    ],
+    "320": [
+      "prospectuses/tshwane-south-tvet-college-web.txt"
+    ],
+    "323": [
+      "prospectuses/buffalo-city-tvet-college-web.txt"
+    ],
+    "341": [
+      "prospectuses/majuba-tvet-college-web.txt"
+    ],
+    "354": [
+      "prospectuses/sekhukhune-tvet-college-web.txt"
+    ],
+    "356": [
+      "prospectuses/taletso-tvet-college-web.txt"
+    ],
+    "360": [
+      "prospectuses/umfolozi-tvet-college-web.txt"
+    ],
+    "361": [
+      "prospectuses/umgungundlovu-tvet-college-web.txt"
+    ],
+    "377": [
+      "prospectuses/vuselela-tvet-college-web.txt"
+    ]
+  }
+}

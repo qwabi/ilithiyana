@@ -1,0 +1,21 @@
+{
+  "institution_id": "351",
+  "institution_name": "Port Elizabeth TVET College",
+  "institution_type": "tvet-college",
+  "source_file": "Port-Elizabeth-TVET-College-PDF-NCV-INSIDE.pdf",
+  "campuses": [],
+  "admission_policy": {
+    "aps_name": null,
+    "aps_calculation_notes": null,
+    "minimum_aps_for_bachelors": null,
+    "minimum_aps_for_diplomas": null,
+    "minimum_entry_note": null,
+    "life_orientation_cap": null,
+    "source_excerpt": "<<PDF_EXTRACTOR:pypdf>> QUALIFICATION SUBJECTS COVERED VOCATIONAL ACTIVITIES CAREER OPPORTUNITIES BUSINESS STUDIES - DOWER CAMPUS Office Administration Ÿ Business Practice Ÿ Office Practice Ÿ Office Data Processing Ÿ Applied Accounting / New Venture Creations Ÿ Coordinate office correspondence Ÿ Type letters, reports, memoranda, agendas, minutes Ÿ Maintain equipment and station",
+    "extraction_confidence": 0.4
+  },
+  "faculties": [],
+  "programmes": [],
+  "admission_rules": [],
+  "aps_rules": []
+}

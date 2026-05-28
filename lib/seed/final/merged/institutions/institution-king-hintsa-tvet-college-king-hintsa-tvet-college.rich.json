@@ -1,0 +1,753 @@
+{
+  "institution": {
+    "id": "institution:king-hintsa-tvet-college",
+    "slug": "king-hintsa-tvet-college",
+    "institution_id_raw": "310",
+    "name": "King Hintsa TVET College",
+    "institution_type": "tvet-college",
+    "city": "Butterworth",
+    "province": "Eastern Cape",
+    "official_website": "https://www.khc.edu.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/310/king-hintsa-tvet-college",
+    "source_paths": [
+      "generated/v3/institutions.enriched.json",
+      "institutions.json",
+      "result.json",
+      "workik/batch1/cursor/institution-310-king-hintsa-tvet-college.json",
+      "workik/batch1/online/king-hintsa.json"
+    ],
+    "profile": {
+      "sector": "higher education",
+      "province": "Eastern Cape",
+      "city": "Butterworth",
+      "physical_address": "218 Mthatha Road, Butterworth, 4960",
+      "postal_address": "Private Bag X3018, Butterworth, 4960",
+      "contact_emails": [
+        "addressinfo@khc.edu.za",
+        "e@q.crf",
+        "b@0.gbre",
+        "info@khc.edu.za",
+        "u@gcckeu.jy",
+        "7b@6.dh",
+        "y-s@s.pn"
+      ],
+      "contact_phone_numbers": [
+        "047 401 6400"
+      ],
+      "application_url": "https://www.khc.edu.za/applications/how-to-apply/",
+      "prospectus_url": "https://www.khc.edu.za/wp-content/uploads/2025/11/2025-College-Prospectus.pdf",
+      "socials": {
+        "facebook": "https://www.facebook.com/KingHintsaFetCollege/",
+        "instagram": "https://www.instagram.com/king_hintsa_tvet/",
+        "linkedin": "",
+        "x": "https://twitter.com/king_hintsacol",
+        "youtube": "https://www.youtube.com/@kinghintsacollege383"
+      },
+      "accreditation": {
+        "dh et": "Accredited",
+        "saqa": null
+      },
+      "sources": [
+        "https://nationalgovernment.co.za/units/view/310/king-hintsa-tvet-college",
+        "https://www.khc.edu.za/"
+      ],
+      "qualification_types": [
+        "NC(V)",
+        "Nated (Report 191)",
+        "Skills Programmes",
+        "Apprenticeships"
+      ],
+      "short_name": ""
+    }
+  },
+  "campuses": [
+    {
+      "id": "campus:king-hintsa-tvet-college--msobomvu",
+      "institution_slug": "king-hintsa-tvet-college",
+      "name": "Msobomvu",
+      "city": "Butterworth",
+      "province": "Eastern Cape",
+      "is_main": true,
+      "source_paths": [
+        "workik/batch1/online/king-hintsa.json"
+      ]
+    },
+    {
+      "id": "campus:king-hintsa-tvet-college--centane",
+      "institution_slug": "king-hintsa-tvet-college",
+      "name": "Centane",
+      "city": "Centane",
+      "province": "Eastern Cape",
+      "is_main": false,
+      "source_paths": [
+        "workik/batch1/online/king-hintsa.json"
+      ]
+    },
+    {
+      "id": "campus:king-hintsa-tvet-college--dutywa",
+      "institution_slug": "king-hintsa-tvet-college",
+      "name": "Dutywa",
+      "city": "Idutywa",
+      "province": "Eastern Cape",
+      "is_main": false,
+      "source_paths": [
+        "workik/batch1/online/king-hintsa.json"
+      ]
+    },
+    {
+      "id": "campus:king-hintsa-tvet-college--teko",
+      "institution_slug": "king-hintsa-tvet-college",
+      "name": "Teko",
+      "city": "Butterworth",
+      "province": "Eastern Cape",
+      "is_main": false,
+      "source_paths": [
+        "workik/batch1/online/king-hintsa.json"
+      ]
+    },
+    {
+      "id": "campus:king-hintsa-tvet-college--willowvale",
+      "institution_slug": "king-hintsa-tvet-college",
+      "name": "Willowvale",
+      "city": "Willowvale",
+      "province": "Eastern Cape",
+      "is_main": false,
+      "source_paths": [
+        "workik/batch1/online/king-hintsa.json"
+      ]
+    }
+  ],
+  "faculties_best": [
+    {
+      "id": "faculty:king-hintsa-tvet-college--agriculture-engineering-teko-msobomvu",
+      "institution_slug": "king-hintsa-tvet-college",
+      "institution_name": "King Hintsa TVET College",
+      "name": "Agriculture & Engineering (Teko/Msobomvu)",
+      "kind": null,
+      "overview": "Focuses on Primary Agriculture and core artisanships.",
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/king-hintsa.json"
+      ]
+    },
+    {
+      "id": "faculty:king-hintsa-tvet-college--business-utility-dutywa-willowvale-centane",
+      "institution_slug": "king-hintsa-tvet-college",
+      "institution_name": "King Hintsa TVET College",
+      "name": "Business & Utility (Dutywa/Willowvale/Centane)",
+      "kind": null,
+      "overview": "Focuses on Marketing, IT, Tourism, and Logistics.",
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/king-hintsa.json"
+      ]
+    }
+  ],
+  "faculties_all": [
+    {
+      "id": "faculty:king-hintsa-tvet-college--agriculture-engineering-teko-msobomvu",
+      "institution_slug": "king-hintsa-tvet-college",
+      "institution_name": "King Hintsa TVET College",
+      "name": "Agriculture & Engineering (Teko/Msobomvu)",
+      "kind": null,
+      "overview": "Focuses on Primary Agriculture and core artisanships.",
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/king-hintsa.json"
+      ]
+    },
+    {
+      "id": "faculty:king-hintsa-tvet-college--business-utility-dutywa-willowvale-centane",
+      "institution_slug": "king-hintsa-tvet-college",
+      "institution_name": "King Hintsa TVET College",
+      "name": "Business & Utility (Dutywa/Willowvale/Centane)",
+      "kind": null,
+      "overview": "Focuses on Marketing, IT, Tourism, and Logistics.",
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/king-hintsa.json"
+      ]
+    }
+  ],
+  "programmes_best": [
+    {
+      "id": "programme:king-hintsa-tvet-college--report-191",
+      "institution_slug": "king-hintsa-tvet-college",
+      "institution_name": "King Hintsa TVET College",
+      "name": "REPORT 191",
+      "normalized_name": "REPORT 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "REPORT 191",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-310-king-hintsa-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:king-hintsa-tvet-college--nc-v-primary-agriculture--teko",
+      "institution_slug": "king-hintsa-tvet-college",
+      "institution_name": "King Hintsa TVET College",
+      "name": "NC(V) Primary Agriculture",
+      "normalized_name": "NC(V) Primary Agriculture",
+      "qualification_type": "NC(V)",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": "Teko",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "Agriculture",
+          "minimum_nsc_level": 3
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "minimum_nsc_level": 3
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/king-hintsa.json"
+      ]
+    },
+    {
+      "id": "programme:king-hintsa-tvet-college--nated-electrical-engineering--msobomvu",
+      "institution_slug": "king-hintsa-tvet-college",
+      "institution_name": "King Hintsa TVET College",
+      "name": "NATED Electrical Engineering",
+      "normalized_name": "NATED Electrical Engineering",
+      "qualification_type": "NATED",
+      "qualification_level": "N4-N6",
+      "faculty_name": null,
+      "campus": "Msobomvu",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 45
+        },
+        {
+          "subject": "Physical Science",
+          "minimum_percentage": 45
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/king-hintsa.json"
+      ]
+    },
+    {
+      "id": "programme:king-hintsa-tvet-college--nc-v-marketing--dutywa",
+      "institution_slug": "king-hintsa-tvet-college",
+      "institution_name": "King Hintsa TVET College",
+      "name": "NC(V) Marketing",
+      "normalized_name": "NC(V) Marketing",
+      "qualification_type": "NC(V)",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": "Dutywa",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/king-hintsa.json"
+      ]
+    },
+    {
+      "id": "programme:king-hintsa-tvet-college--nc-v-information-technology--dutywa",
+      "institution_slug": "king-hintsa-tvet-college",
+      "institution_name": "King Hintsa TVET College",
+      "name": "NC(V) Information Technology",
+      "normalized_name": "NC(V) Information Technology",
+      "qualification_type": "NC(V)",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": "Dutywa",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 40
+        },
+        {
+          "subject": "English",
+          "minimum_percentage": 40
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/king-hintsa.json"
+      ]
+    },
+    {
+      "id": "programme:king-hintsa-tvet-college--nc-v-tourism--centane",
+      "institution_slug": "king-hintsa-tvet-college",
+      "institution_name": "King Hintsa TVET College",
+      "name": "NC(V) Tourism",
+      "normalized_name": "NC(V) Tourism",
+      "qualification_type": "NC(V)",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": "Centane",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "Business Studies",
+          "minimum_percentage": 50
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "minimum_percentage": 30
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/king-hintsa.json"
+      ]
+    },
+    {
+      "id": "programme:king-hintsa-tvet-college--nc-v-transport-and-logistics--willowvale",
+      "institution_slug": "king-hintsa-tvet-college",
+      "institution_name": "King Hintsa TVET College",
+      "name": "NC(V) Transport and Logistics",
+      "normalized_name": "NC(V) Transport and Logistics",
+      "qualification_type": "NC(V)",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": "Willowvale",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "English",
+          "minimum_percentage": 50
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 40
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/king-hintsa.json"
+      ]
+    },
+    {
+      "id": "programme:king-hintsa-tvet-college--nc-v-hospitality--centane",
+      "institution_slug": "king-hintsa-tvet-college",
+      "institution_name": "King Hintsa TVET College",
+      "name": "NC(V) Hospitality",
+      "normalized_name": "NC(V) Hospitality",
+      "qualification_type": "NC(V)",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": "Centane",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "Life Science",
+          "minimum_percentage": 40
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "minimum_percentage": 30
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/king-hintsa.json"
+      ]
+    },
+    {
+      "id": "programme:king-hintsa-tvet-college--nc-v-engineering-and-related-design--teko",
+      "institution_slug": "king-hintsa-tvet-college",
+      "institution_name": "King Hintsa TVET College",
+      "name": "NC(V) Engineering and Related Design",
+      "normalized_name": "NC(V) Engineering and Related Design",
+      "qualification_type": "NC(V)",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": "Teko",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "Mathematics",
+          "minimum_nsc_level": 3
+        },
+        {
+          "subject": "Physical Science",
+          "minimum_nsc_level": 3
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/king-hintsa.json"
+      ]
+    }
+  ],
+  "programmes_all": [
+    {
+      "id": "programme:king-hintsa-tvet-college--report-191",
+      "institution_slug": "king-hintsa-tvet-college",
+      "institution_name": "King Hintsa TVET College",
+      "name": "REPORT 191",
+      "normalized_name": "REPORT 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "REPORT 191",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-310-king-hintsa-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:king-hintsa-tvet-college--report-191",
+      "institution_slug": "king-hintsa-tvet-college",
+      "institution_name": "King Hintsa TVET College",
+      "name": "REPORT 191",
+      "normalized_name": "REPORT 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "REPORT 191",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-310-king-hintsa-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:king-hintsa-tvet-college--report-191",
+      "institution_slug": "king-hintsa-tvet-college",
+      "institution_name": "King Hintsa TVET College",
+      "name": "REPORT 191",
+      "normalized_name": "REPORT 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "REPORT 191",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-310-king-hintsa-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:king-hintsa-tvet-college--nc-v-primary-agriculture--teko",
+      "institution_slug": "king-hintsa-tvet-college",
+      "institution_name": "King Hintsa TVET College",
+      "name": "NC(V) Primary Agriculture",
+      "normalized_name": "NC(V) Primary Agriculture",
+      "qualification_type": "NC(V)",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": "Teko",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "Agriculture",
+          "minimum_nsc_level": 3
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "minimum_nsc_level": 3
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/king-hintsa.json"
+      ]
+    },
+    {
+      "id": "programme:king-hintsa-tvet-college--nated-electrical-engineering--msobomvu",
+      "institution_slug": "king-hintsa-tvet-college",
+      "institution_name": "King Hintsa TVET College",
+      "name": "NATED Electrical Engineering",
+      "normalized_name": "NATED Electrical Engineering",
+      "qualification_type": "NATED",
+      "qualification_level": "N4-N6",
+      "faculty_name": null,
+      "campus": "Msobomvu",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 45
+        },
+        {
+          "subject": "Physical Science",
+          "minimum_percentage": 45
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/king-hintsa.json"
+      ]
+    },
+    {
+      "id": "programme:king-hintsa-tvet-college--nc-v-marketing--dutywa",
+      "institution_slug": "king-hintsa-tvet-college",
+      "institution_name": "King Hintsa TVET College",
+      "name": "NC(V) Marketing",
+      "normalized_name": "NC(V) Marketing",
+      "qualification_type": "NC(V)",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": "Dutywa",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/king-hintsa.json"
+      ]
+    },
+    {
+      "id": "programme:king-hintsa-tvet-college--nc-v-information-technology--dutywa",
+      "institution_slug": "king-hintsa-tvet-college",
+      "institution_name": "King Hintsa TVET College",
+      "name": "NC(V) Information Technology",
+      "normalized_name": "NC(V) Information Technology",
+      "qualification_type": "NC(V)",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": "Dutywa",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 40
+        },
+        {
+          "subject": "English",
+          "minimum_percentage": 40
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/king-hintsa.json"
+      ]
+    },
+    {
+      "id": "programme:king-hintsa-tvet-college--nc-v-tourism--centane",
+      "institution_slug": "king-hintsa-tvet-college",
+      "institution_name": "King Hintsa TVET College",
+      "name": "NC(V) Tourism",
+      "normalized_name": "NC(V) Tourism",
+      "qualification_type": "NC(V)",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": "Centane",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "Business Studies",
+          "minimum_percentage": 50
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "minimum_percentage": 30
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/king-hintsa.json"
+      ]
+    },
+    {
+      "id": "programme:king-hintsa-tvet-college--nc-v-transport-and-logistics--willowvale",
+      "institution_slug": "king-hintsa-tvet-college",
+      "institution_name": "King Hintsa TVET College",
+      "name": "NC(V) Transport and Logistics",
+      "normalized_name": "NC(V) Transport and Logistics",
+      "qualification_type": "NC(V)",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": "Willowvale",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "English",
+          "minimum_percentage": 50
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 40
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/king-hintsa.json"
+      ]
+    },
+    {
+      "id": "programme:king-hintsa-tvet-college--nc-v-hospitality--centane",
+      "institution_slug": "king-hintsa-tvet-college",
+      "institution_name": "King Hintsa TVET College",
+      "name": "NC(V) Hospitality",
+      "normalized_name": "NC(V) Hospitality",
+      "qualification_type": "NC(V)",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": "Centane",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "Life Science",
+          "minimum_percentage": 40
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "minimum_percentage": 30
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/king-hintsa.json"
+      ]
+    },
+    {
+      "id": "programme:king-hintsa-tvet-college--nc-v-engineering-and-related-design--teko",
+      "institution_slug": "king-hintsa-tvet-college",
+      "institution_name": "King Hintsa TVET College",
+      "name": "NC(V) Engineering and Related Design",
+      "normalized_name": "NC(V) Engineering and Related Design",
+      "qualification_type": "NC(V)",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": "Teko",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "Mathematics",
+          "minimum_nsc_level": 3
+        },
+        {
+          "subject": "Physical Science",
+          "minimum_nsc_level": 3
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/king-hintsa.json"
+      ]
+    }
+  ],
+  "counts": {
+    "campuses": 5,
+    "faculties_best": 2,
+    "faculties_all": 2,
+    "programmes_best": 9,
+    "programmes_all": 11
+  }
+}

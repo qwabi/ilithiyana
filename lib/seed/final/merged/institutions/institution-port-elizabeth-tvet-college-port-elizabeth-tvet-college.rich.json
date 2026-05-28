@@ -1,0 +1,531 @@
+{
+  "institution": {
+    "id": "institution:port-elizabeth-tvet-college",
+    "slug": "port-elizabeth-tvet-college",
+    "institution_id_raw": "351",
+    "name": "Port Elizabeth TVET College",
+    "institution_type": "tvet-college",
+    "city": "Gqeberha",
+    "province": "Eastern Cape",
+    "official_website": "http://www.pecollege.edu.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/351/port-elizabeth-tvet-college",
+    "source_paths": [
+      "generated/v3/institutions.enriched.json",
+      "institutions.json",
+      "result.json",
+      "workik/batch1/cursor/institution-351-port-elizabeth-tvet-college.json",
+      "workik/batch1/online/pe-tvet.json"
+    ],
+    "profile": {
+      "sector": "higher education",
+      "province": "Eastern Cape",
+      "city": "Gqeberha",
+      "physical_address": "1 Richmond Park Drive, Richmond Hill, Port Elizabeth Central, Gqeberha, 6001",
+      "postal_address": "Private Bag X6040, Port Elizabeth, 6000",
+      "contact_emails": [
+        "pecom@pec.edu.za"
+      ],
+      "contact_phone_numbers": [
+        "041 509 6200",
+        "041 509 6076",
+        "072 726 9560",
+        "041 509 6450",
+        "064 056 8224",
+        "041 509 6000",
+        "041 509 6300",
+        "063 936 8901",
+        "073 699 4999",
+        "068 551 4810"
+      ],
+      "application_url": "http://www.pecollege.edu.za/admission-requirements/",
+      "socials": {
+        "facebook": "https://www.facebook.com/petvetcollege600",
+        "instagram": "",
+        "linkedin": "",
+        "x": "",
+        "youtube": ""
+      },
+      "accreditation": {
+        "dh et": "Accredited",
+        "saqa": null
+      },
+      "sources": [
+        "https://nationalgovernment.co.za/units/view/351/port-elizabeth-tvet-college",
+        "http://www.pecollege.edu.za/"
+      ],
+      "qualification_types": [
+        "NC(V)",
+        "Nated (Report 191)",
+        "Skills Programmes",
+        "Apprenticeships"
+      ],
+      "nsfas_supported": true,
+      "student_accommodation": true,
+      "short_name": ""
+    }
+  },
+  "campuses": [
+    {
+      "id": "campus:port-elizabeth-tvet-college--russell-road",
+      "institution_slug": "port-elizabeth-tvet-college",
+      "name": "Russell Road",
+      "city": "Gqeberha",
+      "province": null,
+      "is_main": true,
+      "source_paths": [
+        "workik/batch1/online/pe-tvet.json"
+      ]
+    },
+    {
+      "id": "campus:port-elizabeth-tvet-college--dower",
+      "institution_slug": "port-elizabeth-tvet-college",
+      "name": "Dower",
+      "city": "Gqeberha",
+      "province": null,
+      "is_main": false,
+      "source_paths": [
+        "workik/batch1/online/pe-tvet.json"
+      ]
+    },
+    {
+      "id": "campus:port-elizabeth-tvet-college--struandale",
+      "institution_slug": "port-elizabeth-tvet-college",
+      "name": "Struandale",
+      "city": "Gqeberha",
+      "province": null,
+      "is_main": false,
+      "source_paths": [
+        "workik/batch1/online/pe-tvet.json"
+      ]
+    }
+  ],
+  "faculties_best": [
+    {
+      "id": "faculty:port-elizabeth-tvet-college--business-studies",
+      "institution_slug": "port-elizabeth-tvet-college",
+      "institution_name": "Port Elizabeth TVET College",
+      "name": "Business Studies",
+      "kind": null,
+      "overview": "Marketing, Finance, HR, and Management Assistant.",
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/pe-tvet.json"
+      ]
+    },
+    {
+      "id": "faculty:port-elizabeth-tvet-college--engineering-utility",
+      "institution_slug": "port-elizabeth-tvet-college",
+      "institution_name": "Port Elizabeth TVET College",
+      "name": "Engineering & Utility",
+      "kind": null,
+      "overview": "Mechatronics, Civil, Electrical, and Hospitality/Tourism.",
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/pe-tvet.json"
+      ]
+    }
+  ],
+  "faculties_all": [
+    {
+      "id": "faculty:port-elizabeth-tvet-college--business-studies",
+      "institution_slug": "port-elizabeth-tvet-college",
+      "institution_name": "Port Elizabeth TVET College",
+      "name": "Business Studies",
+      "kind": null,
+      "overview": "Marketing, Finance, HR, and Management Assistant.",
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/pe-tvet.json"
+      ]
+    },
+    {
+      "id": "faculty:port-elizabeth-tvet-college--engineering-utility",
+      "institution_slug": "port-elizabeth-tvet-college",
+      "institution_name": "Port Elizabeth TVET College",
+      "name": "Engineering & Utility",
+      "kind": null,
+      "overview": "Mechatronics, Civil, Electrical, and Hospitality/Tourism.",
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/pe-tvet.json"
+      ]
+    }
+  ],
+  "programmes_best": [
+    {
+      "id": "programme:port-elizabeth-tvet-college--nc-v-mechatronics--struandale",
+      "institution_slug": "port-elizabeth-tvet-college",
+      "institution_name": "Port Elizabeth TVET College",
+      "name": "NC(V) Mechatronics",
+      "normalized_name": "NC(V) Mechatronics",
+      "qualification_type": "NC(V)",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": "Struandale",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/pe-tvet.json"
+      ]
+    },
+    {
+      "id": "programme:port-elizabeth-tvet-college--nc-v-safety-in-society--dower",
+      "institution_slug": "port-elizabeth-tvet-college",
+      "institution_name": "Port Elizabeth TVET College",
+      "name": "NC(V) Safety in Society",
+      "normalized_name": "NC(V) Safety in Society",
+      "qualification_type": "NC(V)",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": "Dower",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/pe-tvet.json"
+      ]
+    },
+    {
+      "id": "programme:port-elizabeth-tvet-college--nated-financial-management--russell-road",
+      "institution_slug": "port-elizabeth-tvet-college",
+      "institution_name": "Port Elizabeth TVET College",
+      "name": "NATED Financial Management",
+      "normalized_name": "NATED Financial Management",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": "Russell Road",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "Accounting",
+          "notes": "Core module throughout N4-N6."
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/pe-tvet.json"
+      ]
+    },
+    {
+      "id": "programme:port-elizabeth-tvet-college--nc-v-transport-logistics--dower",
+      "institution_slug": "port-elizabeth-tvet-college",
+      "institution_name": "Port Elizabeth TVET College",
+      "name": "NC(V) Transport & Logistics",
+      "normalized_name": "NC(V) Transport & Logistics",
+      "qualification_type": "NC(V)",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": "Dower",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/pe-tvet.json"
+      ]
+    },
+    {
+      "id": "programme:port-elizabeth-tvet-college--nated-management-assistant--dower",
+      "institution_slug": "port-elizabeth-tvet-college",
+      "institution_name": "Port Elizabeth TVET College",
+      "name": "NATED Management Assistant",
+      "normalized_name": "NATED Management Assistant",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": "Dower",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/pe-tvet.json"
+      ]
+    },
+    {
+      "id": "programme:port-elizabeth-tvet-college--nc-v-information-technology--russell-road",
+      "institution_slug": "port-elizabeth-tvet-college",
+      "institution_name": "Port Elizabeth TVET College",
+      "name": "NC(V) Information Technology",
+      "normalized_name": "NC(V) Information Technology",
+      "qualification_type": "NC(V)",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": "Russell Road",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/pe-tvet.json"
+      ]
+    },
+    {
+      "id": "programme:port-elizabeth-tvet-college--nc-v-engineering-related-design--struandale",
+      "institution_slug": "port-elizabeth-tvet-college",
+      "institution_name": "Port Elizabeth TVET College",
+      "name": "NC(V) Engineering & Related Design",
+      "normalized_name": "NC(V) Engineering & Related Design",
+      "qualification_type": "NC(V)",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": "Struandale",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/pe-tvet.json"
+      ]
+    },
+    {
+      "id": "programme:port-elizabeth-tvet-college--nated-public-management--dower",
+      "institution_slug": "port-elizabeth-tvet-college",
+      "institution_name": "Port Elizabeth TVET College",
+      "name": "NATED Public Management",
+      "normalized_name": "NATED Public Management",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": "Dower",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/pe-tvet.json"
+      ]
+    }
+  ],
+  "programmes_all": [
+    {
+      "id": "programme:port-elizabeth-tvet-college--nc-v-mechatronics--struandale",
+      "institution_slug": "port-elizabeth-tvet-college",
+      "institution_name": "Port Elizabeth TVET College",
+      "name": "NC(V) Mechatronics",
+      "normalized_name": "NC(V) Mechatronics",
+      "qualification_type": "NC(V)",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": "Struandale",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/pe-tvet.json"
+      ]
+    },
+    {
+      "id": "programme:port-elizabeth-tvet-college--nc-v-safety-in-society--dower",
+      "institution_slug": "port-elizabeth-tvet-college",
+      "institution_name": "Port Elizabeth TVET College",
+      "name": "NC(V) Safety in Society",
+      "normalized_name": "NC(V) Safety in Society",
+      "qualification_type": "NC(V)",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": "Dower",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/pe-tvet.json"
+      ]
+    },
+    {
+      "id": "programme:port-elizabeth-tvet-college--nated-financial-management--russell-road",
+      "institution_slug": "port-elizabeth-tvet-college",
+      "institution_name": "Port Elizabeth TVET College",
+      "name": "NATED Financial Management",
+      "normalized_name": "NATED Financial Management",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": "Russell Road",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "Accounting",
+          "notes": "Core module throughout N4-N6."
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/pe-tvet.json"
+      ]
+    },
+    {
+      "id": "programme:port-elizabeth-tvet-college--nc-v-transport-logistics--dower",
+      "institution_slug": "port-elizabeth-tvet-college",
+      "institution_name": "Port Elizabeth TVET College",
+      "name": "NC(V) Transport & Logistics",
+      "normalized_name": "NC(V) Transport & Logistics",
+      "qualification_type": "NC(V)",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": "Dower",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/pe-tvet.json"
+      ]
+    },
+    {
+      "id": "programme:port-elizabeth-tvet-college--nated-management-assistant--dower",
+      "institution_slug": "port-elizabeth-tvet-college",
+      "institution_name": "Port Elizabeth TVET College",
+      "name": "NATED Management Assistant",
+      "normalized_name": "NATED Management Assistant",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": "Dower",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/pe-tvet.json"
+      ]
+    },
+    {
+      "id": "programme:port-elizabeth-tvet-college--nc-v-information-technology--russell-road",
+      "institution_slug": "port-elizabeth-tvet-college",
+      "institution_name": "Port Elizabeth TVET College",
+      "name": "NC(V) Information Technology",
+      "normalized_name": "NC(V) Information Technology",
+      "qualification_type": "NC(V)",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": "Russell Road",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/pe-tvet.json"
+      ]
+    },
+    {
+      "id": "programme:port-elizabeth-tvet-college--nc-v-engineering-related-design--struandale",
+      "institution_slug": "port-elizabeth-tvet-college",
+      "institution_name": "Port Elizabeth TVET College",
+      "name": "NC(V) Engineering & Related Design",
+      "normalized_name": "NC(V) Engineering & Related Design",
+      "qualification_type": "NC(V)",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": "Struandale",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/pe-tvet.json"
+      ]
+    },
+    {
+      "id": "programme:port-elizabeth-tvet-college--nated-public-management--dower",
+      "institution_slug": "port-elizabeth-tvet-college",
+      "institution_name": "Port Elizabeth TVET College",
+      "name": "NATED Public Management",
+      "normalized_name": "NATED Public Management",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": "Dower",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/pe-tvet.json"
+      ]
+    }
+  ],
+  "counts": {
+    "campuses": 3,
+    "faculties_best": 2,
+    "faculties_all": 2,
+    "programmes_best": 8,
+    "programmes_all": 8
+  }
+}

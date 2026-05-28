@@ -1,0 +1,2208 @@
+{
+  "faculties": [],
+  "programmes": [
+    {
+      "id": "prog:363:Postgraduate|8c89570eff78|honours qualification, a prospective student must",
+      "institutionId": "363",
+      "name": "Honours qualification, a prospective student must",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 75325,
+        "char_end": 75374,
+        "excerpt": "Honours qualification, a prospective student must"
+      },
+      "normalization_key": "Postgraduate|8c89570eff78|honours qualification, a prospective student must"
+    },
+    {
+      "id": "prog:363:Postgraduate|630d96732f93|bachelor of honours degree following a threeyear bachelor's degree at the univer",
+      "institutionId": "363",
+      "name": "Bachelor of Honours degree following a threeyear Bachelor's degree at the University; or",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 76440,
+        "char_end": 76528,
+        "excerpt": "Bachelor of Honours degree following a threeyear Bachelor's degree at the University; or"
+      },
+      "normalization_key": "Postgraduate|630d96732f93|bachelor of honours degree following a threeyear bachelor's degree at the univer"
+    },
+    {
+      "id": "prog:363:Postgraduate|2635cf081443|honours degree or equivalent nqf",
+      "institutionId": "363",
+      "name": "Honours degree or equivalent NQF",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 77008,
+        "char_end": 77040,
+        "excerpt": "Honours degree or equivalent NQF"
+      },
+      "normalization_key": "Postgraduate|2635cf081443|honours degree or equivalent nqf"
+    },
+    {
+      "id": "prog:363:Postgraduate|25eb2e746d7a|honours qualification at nqf level",
+      "institutionId": "363",
+      "name": "Honours qualification at NQF Level",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 79959,
+        "char_end": 79993,
+        "excerpt": "Honours qualification at NQF Level"
+      },
+      "normalization_key": "Postgraduate|25eb2e746d7a|honours qualification at nqf level"
+    },
+    {
+      "id": "prog:363:Postgraduate|a3bb4b82a4e5|honours qualification",
+      "institutionId": "363",
+      "name": "Honours qualification",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 80992,
+        "char_end": 81013,
+        "excerpt": "Honours qualification"
+      },
+      "normalization_key": "Postgraduate|a3bb4b82a4e5|honours qualification"
+    },
+    {
+      "id": "prog:363:Postgraduate|072d25fd66e8|honours degree or a postgraduate diploma from the",
+      "institutionId": "363",
+      "name": "honours degree or a postgraduate diploma from the",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 89383,
+        "char_end": 89432,
+        "excerpt": "honours degree or a postgraduate diploma from the"
+      },
+      "normalization_key": "Postgraduate|072d25fd66e8|honours degree or a postgraduate diploma from the"
+    },
+    {
+      "id": "prog:363:Postgraduate|a8bd89baa030|honours degree is a postgraduate specialisation qualification, which prepares",
+      "institutionId": "363",
+      "name": "honours degree is a postgraduate specialisation qualification, which prepares",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 91420,
+        "char_end": 91497,
+        "excerpt": "honours degree is a postgraduate specialisation qualification, which prepares"
+      },
+      "normalization_key": "Postgraduate|a8bd89baa030|honours degree is a postgraduate specialisation qualification, which prepares"
+    },
+    {
+      "id": "prog:363:Postgraduate|af2f710f89a2|honours degree must include conducting research under supervision,",
+      "institutionId": "363",
+      "name": "honours degree must include conducting research under supervision,",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 91714,
+        "char_end": 91780,
+        "excerpt": "honours degree must include conducting research under supervision,"
+      },
+      "normalization_key": "Postgraduate|af2f710f89a2|honours degree must include conducting research under supervision,"
+    },
+    {
+      "id": "prog:363:Postgraduate|190d03eacbab|honours degree is generally multi - or interdisciplinary, which serves",
+      "institutionId": "363",
+      "name": "honours degree is generally multi - or interdisciplinary, which serves",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 91936,
+        "char_end": 92006,
+        "excerpt": "honours degree is generally multi - or interdisciplinary, which serves"
+      },
+      "normalization_key": "Postgraduate|190d03eacbab|honours degree is generally multi - or interdisciplinary, which serves"
+    },
+    {
+      "id": "prog:363:Postgraduate|33dfcd565842|honours degree shall comprise not less than 120 credits at nqf level",
+      "institutionId": "363",
+      "name": "honours degree shall comprise not less than 120 credits at NQF level",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 92459,
+        "char_end": 92527,
+        "excerpt": "honours degree shall comprise not less than 120 credits at NQF level"
+      },
+      "normalization_key": "Postgraduate|33dfcd565842|honours degree shall comprise not less than 120 credits at nqf level"
+    },
+    {
+      "id": "prog:363:Postgraduate|6827cdfe092c|honours degree shall extend over not less than two consecutive",
+      "institutionId": "363",
+      "name": "honours degree shall extend over not less than two consecutive",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 92726,
+        "char_end": 92788,
+        "excerpt": "honours degree shall extend over not less than two consecutive"
+      },
+      "normalization_key": "Postgraduate|6827cdfe092c|honours degree shall extend over not less than two consecutive"
+    },
+    {
+      "id": "prog:363:Postgraduate|03f7b3908223|honours qualification shall include:",
+      "institutionId": "363",
+      "name": "honours qualification shall include:",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 93955,
+        "char_end": 93991,
+        "excerpt": "honours qualification shall include:"
+      },
+      "normalization_key": "Postgraduate|03f7b3908223|honours qualification shall include:"
+    },
+    {
+      "id": "prog:363:Postgraduate|edf06660c410|honours degree shall have their research",
+      "institutionId": "363",
+      "name": "honours degree shall have their research",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 94432,
+        "char_end": 94472,
+        "excerpt": "honours degree shall have their research"
+      },
+      "normalization_key": "Postgraduate|edf06660c410|honours degree shall have their research"
+    },
+    {
+      "id": "prog:363:Postgraduate|ac2ebd0d76af|honours degree is required to submit a",
+      "institutionId": "363",
+      "name": "honours degree is required to submit a",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 95471,
+        "char_end": 95509,
+        "excerpt": "honours degree is required to submit a"
+      },
+      "normalization_key": "Postgraduate|ac2ebd0d76af|honours degree is required to submit a"
+    },
+    {
+      "id": "prog:363:Postgraduate|0c82d9f0ff7d|honours",
+      "institutionId": "363",
+      "name": "honours",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 95634,
+        "char_end": 95641,
+        "excerpt": "honours"
+      },
+      "normalization_key": "Postgraduate|0c82d9f0ff7d|honours"
+    },
+    {
+      "id": "prog:363:Postgraduate|53ad1418e4f0|honours degrees",
+      "institutionId": "363",
+      "name": "HONOURS DEGREES",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 111439,
+        "char_end": 111454,
+        "excerpt": "HONOURS DEGREES"
+      },
+      "normalization_key": "Postgraduate|53ad1418e4f0|honours degrees"
+    },
+    {
+      "id": "prog:363:Postgraduate|ac1b7b31d3f4|bachelor of honours qualification, the candidate must obtain:",
+      "institutionId": "363",
+      "name": "bachelor of honours qualification, the candidate must obtain:",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 111743,
+        "char_end": 111804,
+        "excerpt": "bachelor of honours qualification, the candidate must obtain:"
+      },
+      "normalization_key": "Postgraduate|ac1b7b31d3f4|bachelor of honours qualification, the candidate must obtain:"
+    },
+    {
+      "id": "prog:363:Postgraduate|62dbb6a392f3|bachelor of honours qualification",
+      "institutionId": "363",
+      "name": "bachelor of honours qualification",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 112273,
+        "char_end": 112306,
+        "excerpt": "bachelor of honours qualification"
+      },
+      "normalization_key": "Postgraduate|62dbb6a392f3|bachelor of honours qualification"
+    },
+    {
+      "id": "prog:363:Postgraduate|757fa616d162|honours programme.",
+      "institutionId": "363",
+      "name": "honours programme.",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 112646,
+        "char_end": 112664,
+        "excerpt": "honours programme."
+      },
+      "normalization_key": "Postgraduate|757fa616d162|honours programme."
+    },
+    {
+      "id": "prog:363:Postgraduate|d5f312a18311|honours programme, shall comply with the general assessment",
+      "institutionId": "363",
+      "name": "honours programme, shall comply with the general assessment",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 112997,
+        "char_end": 113056,
+        "excerpt": "honours programme, shall comply with the general assessment"
+      },
+      "normalization_key": "Postgraduate|d5f312a18311|honours programme, shall comply with the general assessment"
+    },
+    {
+      "id": "prog:363:Postgraduate|ad7c7a8e98b3|doctorate",
+      "institutionId": "363",
+      "name": "DOCTORATE",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 237581,
+        "char_end": 237590,
+        "excerpt": "DOCTORATE"
+      },
+      "normalization_key": "Postgraduate|ad7c7a8e98b3|doctorate"
+    },
+    {
+      "id": "prog:363:Postgraduate|1703c1a64d2d|doctorate pattern, black silk faced, down each side in",
+      "institutionId": "363",
+      "name": "Doctorate pattern, black silk faced, down each side in",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 237767,
+        "char_end": 237821,
+        "excerpt": "Doctorate pattern, black silk faced, down each side in"
+      },
+      "normalization_key": "Postgraduate|1703c1a64d2d|doctorate pattern, black silk faced, down each side in"
+    },
+    {
+      "id": "prog:363:Postgraduate|c94049ebc6f6|phd science, d",
+      "institutionId": "363",
+      "name": "PhD Science, D",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 238036,
+        "char_end": 238050,
+        "excerpt": "PhD Science, D"
+      },
+      "normalization_key": "Postgraduate|c94049ebc6f6|phd science, d"
+    },
+    {
+      "id": "prog:363:Postgraduate|92fdb600f144|phd agric: silk of the colour distinctive of the degree, lined with gold",
+      "institutionId": "363",
+      "name": "PhD Agric: Silk of the colour distinctive of the degree, lined with gold",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 238058,
+        "char_end": 238130,
+        "excerpt": "PhD Agric: Silk of the colour distinctive of the degree, lined with gold"
+      },
+      "normalization_key": "Postgraduate|92fdb600f144|phd agric: silk of the colour distinctive of the degree, lined with gold"
+    },
+    {
+      "id": "prog:363:Postgraduate|e3745e55292d|phd science silver grey (153) d",
+      "institutionId": "363",
+      "name": "PhD Science Silver grey (153) D",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 238371,
+        "char_end": 238402,
+        "excerpt": "PhD Science Silver grey (153) D"
+      },
+      "normalization_key": "Postgraduate|e3745e55292d|phd science silver grey (153) d"
+    },
+    {
+      "id": "prog:363:Postgraduate|f240f0048bee|phd agric emerald green (213)",
+      "institutionId": "363",
+      "name": "PhD Agric Emerald green (213)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 238425,
+        "char_end": 238454,
+        "excerpt": "PhD Agric Emerald green (213)"
+      },
+      "normalization_key": "Postgraduate|f240f0048bee|phd agric emerald green (213)"
+    },
+    {
+      "id": "prog:363:Postgraduate|ed5088c9595a|master of social sciences",
+      "institutionId": "363",
+      "name": "Master of Social Sciences",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 239067,
+        "char_end": 239092,
+        "excerpt": "Master of Social Sciences"
+      },
+      "normalization_key": "Postgraduate|ed5088c9595a|master of social sciences"
+    },
+    {
+      "id": "prog:363:Postgraduate|ed5088c9595a|master of social sciences",
+      "institutionId": "363",
+      "name": "Master of Social Sciences",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 239118,
+        "char_end": 239143,
+        "excerpt": "Master of Social Sciences"
+      },
+      "normalization_key": "Postgraduate|ed5088c9595a|master of social sciences"
+    },
+    {
+      "id": "prog:363:Postgraduate|8dd3675016ae|masters of social sciences",
+      "institutionId": "363",
+      "name": "Masters of Social Sciences",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 239188,
+        "char_end": 239214,
+        "excerpt": "Masters of Social Sciences"
+      },
+      "normalization_key": "Postgraduate|8dd3675016ae|masters of social sciences"
+    },
+    {
+      "id": "prog:363:Postgraduate|324e0e82bdad|master of social science",
+      "institutionId": "363",
+      "name": "Master of Social Science",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 239466,
+        "char_end": 239490,
+        "excerpt": "Master of Social Science"
+      },
+      "normalization_key": "Postgraduate|324e0e82bdad|master of social science"
+    },
+    {
+      "id": "prog:363:Postgraduate|fa9a02e79d5e|master of administration",
+      "institutionId": "363",
+      "name": "Master of Administration",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 239536,
+        "char_end": 239560,
+        "excerpt": "Master of Administration"
+      },
+      "normalization_key": "Postgraduate|fa9a02e79d5e|master of administration"
+    },
+    {
+      "id": "prog:363:Postgraduate|fa9a02e79d5e|master of administration",
+      "institutionId": "363",
+      "name": "Master of Administration",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 239654,
+        "char_end": 239678,
+        "excerpt": "Master of Administration"
+      },
+      "normalization_key": "Postgraduate|fa9a02e79d5e|master of administration"
+    },
+    {
+      "id": "prog:363:Postgraduate|67afb43752f2|msc geography except that a green cord is sewn onto the",
+      "institutionId": "363",
+      "name": "MSc Geography except that a green cord is sewn onto the",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 240011,
+        "char_end": 240066,
+        "excerpt": "MSc Geography except that a green cord is sewn onto the"
+      },
+      "normalization_key": "Postgraduate|67afb43752f2|msc geography except that a green cord is sewn onto the"
+    },
+    {
+      "id": "prog:363:Postgraduate|e3eed0fbed15|honours bachelors",
+      "institutionId": "363",
+      "name": "HONOURS BACHELORS",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 240084,
+        "char_end": 240101,
+        "excerpt": "HONOURS BACHELORS"
+      },
+      "normalization_key": "Postgraduate|e3eed0fbed15|honours bachelors"
+    },
+    {
+      "id": "prog:363:Postgraduate|4791d8652bc6|hons)",
+      "institutionId": "363",
+      "name": "Hons)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 240108,
+        "char_end": 240113,
+        "excerpt": "Hons)"
+      },
+      "normalization_key": "Postgraduate|4791d8652bc6|hons)"
+    },
+    {
+      "id": "prog:363:Degree|970f519c2cad|ba",
+      "institutionId": "363",
+      "name": "BA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 240629,
+        "char_end": 240631,
+        "excerpt": "BA"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:363:Degree|970f519c2cad|ba",
+      "institutionId": "363",
+      "name": "BA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 240847,
+        "char_end": 240849,
+        "excerpt": "BA"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:363:Postgraduate|4791d8652bc6|hons)",
+      "institutionId": "363",
+      "name": "Hons)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 240863,
+        "char_end": 240868,
+        "excerpt": "Hons)"
+      },
+      "normalization_key": "Postgraduate|4791d8652bc6|hons)"
+    },
+    {
+      "id": "prog:363:Degree|5f75057e98ee|bsc",
+      "institutionId": "363",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 240934,
+        "char_end": 240937,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:363:Degree|970f519c2cad|ba",
+      "institutionId": "363",
+      "name": "BA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 241578,
+        "char_end": 241580,
+        "excerpt": "BA"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:363:Degree|970f519c2cad|ba",
+      "institutionId": "363",
+      "name": "BA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 241596,
+        "char_end": 241598,
+        "excerpt": "BA"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:363:Degree|970f519c2cad|ba",
+      "institutionId": "363",
+      "name": "BA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 242099,
+        "char_end": 242101,
+        "excerpt": "BA"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:363:Degree|5f75057e98ee|bsc",
+      "institutionId": "363",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 242590,
+        "char_end": 242593,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:363:Degree|970f519c2cad|ba",
+      "institutionId": "363",
+      "name": "BA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 242849,
+        "char_end": 242851,
+        "excerpt": "BA"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:363:Degree|0d328d956787|ba (fine arts)",
+      "institutionId": "363",
+      "name": "BA (Fine Arts)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 243345,
+        "char_end": 243359,
+        "excerpt": "BA (Fine Arts)"
+      },
+      "normalization_key": "Degree|0d328d956787|ba (fine arts)"
+    },
+    {
+      "id": "prog:363:Degree|0d328d956787|ba (fine arts)",
+      "institutionId": "363",
+      "name": "BA (Fine Arts)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 243742,
+        "char_end": 243756,
+        "excerpt": "BA (Fine Arts)"
+      },
+      "normalization_key": "Degree|0d328d956787|ba (fine arts)"
+    },
+    {
+      "id": "prog:363:Degree|970f519c2cad|ba",
+      "institutionId": "363",
+      "name": "BA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 243789,
+        "char_end": 243791,
+        "excerpt": "BA"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:363:Degree|970f519c2cad|ba",
+      "institutionId": "363",
+      "name": "BA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 243948,
+        "char_end": 243950,
+        "excerpt": "BA"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:363:Degree|970f519c2cad|ba",
+      "institutionId": "363",
+      "name": "BA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 244109,
+        "char_end": 244111,
+        "excerpt": "BA"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:363:Diploma|c86bbebd4b6e|diploma in human rights",
+      "institutionId": "363",
+      "name": "Diploma in Human Rights",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 244162,
+        "char_end": 244185,
+        "excerpt": "Diploma in Human Rights"
+      },
+      "normalization_key": "Diploma|c86bbebd4b6e|diploma in human rights"
+    },
+    {
+      "id": "prog:363:Diploma|3071ff2e9c89|diploma in higher education teaching",
+      "institutionId": "363",
+      "name": "Diploma in Higher Education Teaching",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 244388,
+        "char_end": 244424,
+        "excerpt": "Diploma in Higher Education Teaching"
+      },
+      "normalization_key": "Diploma|3071ff2e9c89|diploma in higher education teaching"
+    },
+    {
+      "id": "prog:363:Diploma|c9d242828983|diploma in archives and records management",
+      "institutionId": "363",
+      "name": "Diploma in Archives and Records Management",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 244692,
+        "char_end": 244734,
+        "excerpt": "Diploma in Archives and Records Management"
+      },
+      "normalization_key": "Diploma|c9d242828983|diploma in archives and records management"
+    },
+    {
+      "id": "prog:363:Postgraduate|16ad9ab99d9f|honours masters doctorate",
+      "institutionId": "363",
+      "name": "Honours Masters Doctorate",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 250182,
+        "char_end": 250207,
+        "excerpt": "Honours Masters Doctorate"
+      },
+      "normalization_key": "Postgraduate|16ad9ab99d9f|honours masters doctorate"
+    },
+    {
+      "id": "prog:363:Postgraduate|16ad9ab99d9f|honours masters doctorate",
+      "institutionId": "363",
+      "name": "Honours Masters Doctorate",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 251258,
+        "char_end": 251283,
+        "excerpt": "Honours Masters Doctorate"
+      },
+      "normalization_key": "Postgraduate|16ad9ab99d9f|honours masters doctorate"
+    },
+    {
+      "id": "prog:363:Postgraduate|054797d61675|phd (university of floria, usa), mph",
+      "institutionId": "363",
+      "name": "PhD (University of Floria, USA), MPH",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 294988,
+        "char_end": 295024,
+        "excerpt": "PhD (University of Floria, USA), MPH"
+      },
+      "normalization_key": "Postgraduate|054797d61675|phd (university of floria, usa), mph"
+    },
+    {
+      "id": "prog:363:Degree|5f75057e98ee|bsc",
+      "institutionId": "363",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 295065,
+        "char_end": 295068,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:363:Postgraduate|232735f1dce8|hons",
+      "institutionId": "363",
+      "name": "Hons",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 295069,
+        "char_end": 295073,
+        "excerpt": "Hons"
+      },
+      "normalization_key": "Postgraduate|232735f1dce8|hons"
+    },
+    {
+      "id": "prog:363:Postgraduate|9151a3fbf5e3|hons (business management) ufh.",
+      "institutionId": "363",
+      "name": "Hons (Business Management) UFH.",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 295203,
+        "char_end": 295234,
+        "excerpt": "Hons (Business Management) UFH."
+      },
+      "normalization_key": "Postgraduate|9151a3fbf5e3|hons (business management) ufh."
+    },
+    {
+      "id": "prog:363:Postgraduate|f1b0bc1d5feb|phd & msocsc (ufh",
+      "institutionId": "363",
+      "name": "PhD & MSocSc (UFH",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 295316,
+        "char_end": 295333,
+        "excerpt": "PhD & MSocSc (UFH"
+      },
+      "normalization_key": "Postgraduate|f1b0bc1d5feb|phd & msocsc (ufh"
+    },
+    {
+      "id": "prog:363:Degree|970f519c2cad|ba",
+      "institutionId": "363",
+      "name": "BA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 295403,
+        "char_end": 295405,
+        "excerpt": "BA"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:363:Degree|970f519c2cad|ba",
+      "institutionId": "363",
+      "name": "BA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 295429,
+        "char_end": 295431,
+        "excerpt": "BA"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:363:Postgraduate|232735f1dce8|hons",
+      "institutionId": "363",
+      "name": "Hons",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 295432,
+        "char_end": 295436,
+        "excerpt": "Hons"
+      },
+      "normalization_key": "Postgraduate|232735f1dce8|hons"
+    },
+    {
+      "id": "prog:363:Postgraduate|288b0c762d24|honours in human movement sciences (ufh)",
+      "institutionId": "363",
+      "name": "Honours in Human Movement Sciences (UFH)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 295639,
+        "char_end": 295679,
+        "excerpt": "Honours in Human Movement Sciences (UFH)"
+      },
+      "normalization_key": "Postgraduate|288b0c762d24|honours in human movement sciences (ufh)"
+    },
+    {
+      "id": "prog:363:Postgraduate|9703531b1ed8|diploma in archives & records management; master of",
+      "institutionId": "363",
+      "name": "Diploma in Archives & Records Management; Master of",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 296062,
+        "char_end": 296113,
+        "excerpt": "Diploma in Archives & Records Management; Master of"
+      },
+      "normalization_key": "Postgraduate|9703531b1ed8|diploma in archives & records management; master of"
+    },
+    {
+      "id": "prog:363:Degree|5f75057e98ee|bsc",
+      "institutionId": "363",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 296207,
+        "char_end": 296210,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:363:Degree|5f75057e98ee|bsc",
+      "institutionId": "363",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 296236,
+        "char_end": 296239,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:363:Postgraduate|1e9f78e3dc7d|hons (animal sci); msc agric (animal sci) ufh",
+      "institutionId": "363",
+      "name": "Hons (Animal Sci); MSc Agric (Animal Sci) UFH",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 296246,
+        "char_end": 296291,
+        "excerpt": "Hons (Animal Sci); MSc Agric (Animal Sci) UFH"
+      },
+      "normalization_key": "Postgraduate|1e9f78e3dc7d|hons (animal sci); msc agric (animal sci) ufh"
+    },
+    {
+      "id": "prog:363:Postgraduate|91a61a19ed9e|hons),",
+      "institutionId": "363",
+      "name": "Hons),",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 296395,
+        "char_end": 296401,
+        "excerpt": "Hons),"
+      },
+      "normalization_key": "Postgraduate|91a61a19ed9e|hons),"
+    },
+    {
+      "id": "prog:363:Degree|970f519c2cad|ba",
+      "institutionId": "363",
+      "name": "BA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 296471,
+        "char_end": 296473,
+        "excerpt": "BA"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:363:Degree|970f519c2cad|ba",
+      "institutionId": "363",
+      "name": "BA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 296495,
+        "char_end": 296497,
+        "excerpt": "BA"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:363:Postgraduate|0006682c36c0|hons ufh",
+      "institutionId": "363",
+      "name": "Hons UFH",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 296512,
+        "char_end": 296520,
+        "excerpt": "Hons UFH"
+      },
+      "normalization_key": "Postgraduate|0006682c36c0|hons ufh"
+    },
+    {
+      "id": "prog:363:Degree|5f75057e98ee|bsc",
+      "institutionId": "363",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 296646,
+        "char_end": 296649,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:363:Degree|5f75057e98ee|bsc",
+      "institutionId": "363",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 296651,
+        "char_end": 296654,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:363:Postgraduate|ca255596b94b|hons; msc in environmental",
+      "institutionId": "363",
+      "name": "Hons; MSc in Environmental",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 296655,
+        "char_end": 296681,
+        "excerpt": "Hons; MSc in Environmental"
+      },
+      "normalization_key": "Postgraduate|ca255596b94b|hons; msc in environmental"
+    },
+    {
+      "id": "prog:363:Degree|5f75057e98ee|bsc",
+      "institutionId": "363",
+      "name": "BSC",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 296792,
+        "char_end": 296795,
+        "excerpt": "BSC"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:363:Postgraduate|c2ecf65b81a2|m.sc. biotechnology (ufs)",
+      "institutionId": "363",
+      "name": "M.Sc. Biotechnology (UFS)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 299500,
+        "char_end": 299525,
+        "excerpt": "M.Sc. Biotechnology (UFS)"
+      },
+      "normalization_key": "Postgraduate|c2ecf65b81a2|m.sc. biotechnology (ufs)"
+    },
+    {
+      "id": "prog:363:Degree|e4c4c6d37dd6|b.sc",
+      "institutionId": "363",
+      "name": "B.Sc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 299526,
+        "char_end": 299530,
+        "excerpt": "B.Sc"
+      },
+      "normalization_key": "Degree|e4c4c6d37dd6|b.sc"
+    },
+    {
+      "id": "prog:363:Postgraduate|88db7fff6f8f|hons (communication) ufh",
+      "institutionId": "363",
+      "name": "Hons (Communication) UFH",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 299692,
+        "char_end": 299716,
+        "excerpt": "Hons (Communication) UFH"
+      },
+      "normalization_key": "Postgraduate|88db7fff6f8f|hons (communication) ufh"
+    },
+    {
+      "id": "prog:363:Postgraduate|d382852878fc|phd in media studies nmu",
+      "institutionId": "363",
+      "name": "PhD in Media Studies NMU",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 299741,
+        "char_end": 299765,
+        "excerpt": "PhD in Media Studies NMU"
+      },
+      "normalization_key": "Postgraduate|d382852878fc|phd in media studies nmu"
+    },
+    {
+      "id": "prog:363:Postgraduate|8bdd03ef39ac|m.sc. social protection financing (university of",
+      "institutionId": "363",
+      "name": "M.Sc. Social Protection Financing (University of",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 299879,
+        "char_end": 299927,
+        "excerpt": "M.Sc. Social Protection Financing (University of"
+      },
+      "normalization_key": "Postgraduate|8bdd03ef39ac|m.sc. social protection financing (university of"
+    },
+    {
+      "id": "prog:363:Diploma|ee449b5ca8f0|diploma in social protection (uj)",
+      "institutionId": "363",
+      "name": "Diploma in Social Protection (UJ)",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 299952,
+        "char_end": 299985,
+        "excerpt": "Diploma in Social Protection (UJ)"
+      },
+      "normalization_key": "Diploma|ee449b5ca8f0|diploma in social protection (uj)"
+    },
+    {
+      "id": "prog:363:Postgraduate|77c514a523ff|hons (political science) ufh",
+      "institutionId": "363",
+      "name": "Hons (Political Science) UFH",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 300197,
+        "char_end": 300225,
+        "excerpt": "Hons (Political Science) UFH"
+      },
+      "normalization_key": "Postgraduate|77c514a523ff|hons (political science) ufh"
+    },
+    {
+      "id": "prog:363:Degree|ea67d603f127|b.com",
+      "institutionId": "363",
+      "name": "B.Com",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 300394,
+        "char_end": 300399,
+        "excerpt": "B.Com"
+      },
+      "normalization_key": "Degree|ea67d603f127|b.com"
+    },
+    {
+      "id": "prog:363:Postgraduate|97f8ae0f7bf3|honours industrial psychology (ufh)",
+      "institutionId": "363",
+      "name": "Honours Industrial Psychology (UFH)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 300400,
+        "char_end": 300435,
+        "excerpt": "Honours Industrial Psychology (UFH)"
+      },
+      "normalization_key": "Postgraduate|97f8ae0f7bf3|honours industrial psychology (ufh)"
+    },
+    {
+      "id": "prog:363:Diploma|15141a4e6710|diploma in higher education and training (pgdhet)",
+      "institutionId": "363",
+      "name": "Diploma in Higher Education and Training (PGDHET)",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 302277,
+        "char_end": 302326,
+        "excerpt": "Diploma in Higher Education and Training (PGDHET)"
+      },
+      "normalization_key": "Diploma|15141a4e6710|diploma in higher education and training (pgdhet)"
+    },
+    {
+      "id": "prog:363:Degree|9099977e5b07|ba(sw)",
+      "institutionId": "363",
+      "name": "BA(SW)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 303005,
+        "char_end": 303011,
+        "excerpt": "BA(SW)"
+      },
+      "normalization_key": "Degree|9099977e5b07|ba(sw)"
+    },
+    {
+      "id": "prog:363:Postgraduate|35e94a87120d|hons) (psych) up;",
+      "institutionId": "363",
+      "name": "Hons) (Psych) UP;",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 303026,
+        "char_end": 303043,
+        "excerpt": "Hons) (Psych) UP;"
+      },
+      "normalization_key": "Postgraduate|35e94a87120d|hons) (psych) up;"
+    },
+    {
+      "id": "prog:363:Degree|321fd99c4122|bcom (unitra)",
+      "institutionId": "363",
+      "name": "BCom (Unitra)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 303250,
+        "char_end": 303263,
+        "excerpt": "BCom (Unitra)"
+      },
+      "normalization_key": "Degree|321fd99c4122|bcom (unitra)"
+    },
+    {
+      "id": "prog:363:Postgraduate|178ae4005ecf|hons, b. ed, hde (unitra), m. ed",
+      "institutionId": "363",
+      "name": "Hons, B. ED, HDE (UNITRA), M. Ed",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 303477,
+        "char_end": 303509,
+        "excerpt": "Hons, B. ED, HDE (UNITRA), M. Ed"
+      },
+      "normalization_key": "Postgraduate|178ae4005ecf|hons, b. ed, hde (unitra), m. ed"
+    },
+    {
+      "id": "prog:363:Degree|44cbe33da3a6|ba (ed)",
+      "institutionId": "363",
+      "name": "BA (Ed)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 304022,
+        "char_end": 304029,
+        "excerpt": "BA (Ed)"
+      },
+      "normalization_key": "Degree|44cbe33da3a6|ba (ed)"
+    },
+    {
+      "id": "prog:363:Degree|4c4bc1ea32d6|bed (unitra)",
+      "institutionId": "363",
+      "name": "BEd (Unitra)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 304039,
+        "char_end": 304051,
+        "excerpt": "BEd (Unitra)"
+      },
+      "normalization_key": "Degree|4c4bc1ea32d6|bed (unitra)"
+    },
+    {
+      "id": "prog:363:Degree|c5052532c220|bed",
+      "institutionId": "363",
+      "name": "BEd",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 304053,
+        "char_end": 304056,
+        "excerpt": "BEd"
+      },
+      "normalization_key": "Degree|c5052532c220|bed"
+    },
+    {
+      "id": "prog:363:Postgraduate|1e10f5b5fc03|phd {ufh),",
+      "institutionId": "363",
+      "name": "PhD {UFH),",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 304079,
+        "char_end": 304089,
+        "excerpt": "PhD {UFH),"
+      },
+      "normalization_key": "Postgraduate|1e10f5b5fc03|phd {ufh),"
+    },
+    {
+      "id": "prog:363:Postgraduate|91a61a19ed9e|hons),",
+      "institutionId": "363",
+      "name": "Hons),",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 304188,
+        "char_end": 304194,
+        "excerpt": "Hons),"
+      },
+      "normalization_key": "Postgraduate|91a61a19ed9e|hons),"
+    },
+    {
+      "id": "prog:363:Postgraduate|ad2d305de53d|hons), madmin",
+      "institutionId": "363",
+      "name": "Hons), MAdmin",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 304327,
+        "char_end": 304340,
+        "excerpt": "Hons), MAdmin"
+      },
+      "normalization_key": "Postgraduate|ad2d305de53d|hons), madmin"
+    },
+    {
+      "id": "prog:363:Degree|970f519c2cad|ba",
+      "institutionId": "363",
+      "name": "BA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 304516,
+        "char_end": 304518,
+        "excerpt": "BA"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:363:Postgraduate|382dbdefc70a|hons (uwc), hde (cput), icdl.",
+      "institutionId": "363",
+      "name": "Hons (UWC), HDE (CPUT), ICDL.",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 304519,
+        "char_end": 304548,
+        "excerpt": "Hons (UWC), HDE (CPUT), ICDL."
+      },
+      "normalization_key": "Postgraduate|382dbdefc70a|hons (uwc), hde (cput), icdl."
+    },
+    {
+      "id": "prog:363:Postgraduate|4791d8652bc6|hons)",
+      "institutionId": "363",
+      "name": "Hons)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 304634,
+        "char_end": 304639,
+        "excerpt": "Hons)"
+      },
+      "normalization_key": "Postgraduate|4791d8652bc6|hons)"
+    },
+    {
+      "id": "prog:363:Postgraduate|d29362ee420d|masters in economics (ufh), certificate in",
+      "institutionId": "363",
+      "name": "Masters in Economics (UFH), Certificate in",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 304850,
+        "char_end": 304892,
+        "excerpt": "Masters in Economics (UFH), Certificate in"
+      },
+      "normalization_key": "Postgraduate|d29362ee420d|masters in economics (ufh), certificate in"
+    },
+    {
+      "id": "prog:363:Postgraduate|2cc397fbd265|hons) (ufh), m,admin",
+      "institutionId": "363",
+      "name": "Hons) (UFH), M,Admin",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 305107,
+        "char_end": 305127,
+        "excerpt": "Hons) (UFH), M,Admin"
+      },
+      "normalization_key": "Postgraduate|2cc397fbd265|hons) (ufh), m,admin"
+    },
+    {
+      "id": "prog:363:Degree|e4c4c6d37dd6|b.sc",
+      "institutionId": "363",
+      "name": "B.Sc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 305301,
+        "char_end": 305305,
+        "excerpt": "B.Sc"
+      },
+      "normalization_key": "Degree|e4c4c6d37dd6|b.sc"
+    },
+    {
+      "id": "prog:363:Diploma|b6721cfd6bce|diploma in higher education for academic",
+      "institutionId": "363",
+      "name": "Diploma in Higher Education for Academic",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 305366,
+        "char_end": 305406,
+        "excerpt": "Diploma in Higher Education for Academic"
+      },
+      "normalization_key": "Diploma|b6721cfd6bce|diploma in higher education for academic"
+    },
+    {
+      "id": "prog:363:Postgraduate|f48042f30e65|hons) is (ufh)",
+      "institutionId": "363",
+      "name": "Hons) IS (UFH)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 306008,
+        "char_end": 306022,
+        "excerpt": "Hons) IS (UFH)"
+      },
+      "normalization_key": "Postgraduate|f48042f30e65|hons) is (ufh)"
+    },
+    {
+      "id": "prog:363:Postgraduate|0aa1c2a259d5|phd and msocsc candidates on a variety of social sciences",
+      "institutionId": "363",
+      "name": "PhD and MSocSc candidates on a variety of social sciences",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 309414,
+        "char_end": 309471,
+        "excerpt": "PhD and MSocSc candidates on a variety of social sciences"
+      },
+      "normalization_key": "Postgraduate|0aa1c2a259d5|phd and msocsc candidates on a variety of social sciences"
+    },
+    {
+      "id": "prog:363:Postgraduate|60c56ca30f9b|phd, and msocsc students intern as research",
+      "institutionId": "363",
+      "name": "PhD, and MSocSc students intern as research",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 309503,
+        "char_end": 309546,
+        "excerpt": "PhD, and MSocSc students intern as research"
+      },
+      "normalization_key": "Postgraduate|60c56ca30f9b|phd, and msocsc students intern as research"
+    },
+    {
+      "id": "prog:363:Postgraduate|6b2a51969f2d|phd, university of",
+      "institutionId": "363",
+      "name": "PhD, University of",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 310702,
+        "char_end": 310720,
+        "excerpt": "PhD, University of"
+      },
+      "normalization_key": "Postgraduate|6b2a51969f2d|phd, university of"
+    },
+    {
+      "id": "prog:363:Postgraduate|15d818d810df|phd, national university of science &",
+      "institutionId": "363",
+      "name": "PhD, National University of Science &",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 310869,
+        "char_end": 310906,
+        "excerpt": "PhD, National University of Science &"
+      },
+      "normalization_key": "Postgraduate|15d818d810df|phd, national university of science &"
+    },
+    {
+      "id": "prog:363:Postgraduate|38808e2613cb|phd, rhodes university, south",
+      "institutionId": "363",
+      "name": "PhD, Rhodes University, South",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 311024,
+        "char_end": 311053,
+        "excerpt": "PhD, Rhodes University, South"
+      },
+      "normalization_key": "Postgraduate|38808e2613cb|phd, rhodes university, south"
+    },
+    {
+      "id": "prog:363:Postgraduate|d510dbd41ec4|phd, university of pretoria, south",
+      "institutionId": "363",
+      "name": "PhD, University of Pretoria, South",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 311151,
+        "char_end": 311185,
+        "excerpt": "PhD, University of Pretoria, South"
+      },
+      "normalization_key": "Postgraduate|d510dbd41ec4|phd, university of pretoria, south"
+    },
+    {
+      "id": "prog:363:Postgraduate|73789870910e|mcom, university of fort hare, south",
+      "institutionId": "363",
+      "name": "MCom, University of Fort Hare, South",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+      "sourceUrl": "https://www.ufh.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-fort-hare.pdf",
+        "char_start": 311270,
+        "char_end": 311306,
+        "excerpt": "MCom, University of Fort Hare, South"
+      },
+      "normalization_key": "Postgraduate|73789870910e|mcom, university of fort hare, south"
+    }
+  ],
+  "admissions_rules": [],
+  "aps_rules": [],
+  "llm_calls": 0
+}

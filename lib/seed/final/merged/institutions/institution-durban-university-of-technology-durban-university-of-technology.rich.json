@@ -1,0 +1,188 @@
+{
+  "institution": {
+    "id": "institution:durban-university-of-technology",
+    "slug": "durban-university-of-technology",
+    "institution_id_raw": "329",
+    "name": "Durban University of Technology",
+    "institution_type": "university-of-technology",
+    "city": "Durban",
+    "province": "KwaZulu-Natal",
+    "official_website": "https://www.dut.ac.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/329/durban-university-of-technology",
+    "source_paths": [
+      "enriched_universities.json",
+      "generated/v3/institutions.enriched.json",
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "sector": "higher education",
+      "province": "KwaZulu-Natal",
+      "city": "Durban",
+      "physical_address": "Steve Biko Campus, Cnr Botanic Gardens & Steve Biko Roads, Berwyn Court, Durban",
+      "postal_address": "PO Box 1334, Durban, 4000",
+      "contact_emails": [
+        "debtorspmb@dut.ac.za",
+        "debtorsdbn@dut.ac.za",
+        "info@dut.ac.za"
+      ],
+      "contact_phone_numbers": [
+        "031 373 5826",
+        "031 373 3134",
+        "031 373 6523",
+        "031 373 5164",
+        "033 845 8951",
+        "031 373 6031",
+        "031 373 2553",
+        "031 373 5152",
+        "033 845 8800",
+        "083 913 5006",
+        "031 373 2702",
+        "031 373 2000",
+        "031 373 3040",
+        "031 373 6040",
+        "031 373 2506",
+        "031 373 2446",
+        "031 373 2566",
+        "031 373 2186",
+        "031 373 6519",
+        "031 373 5441",
+        "033 845 8890",
+        "031 373 2718",
+        "031 373 2717",
+        "033 845 8815",
+        "031 373 2379",
+        "031 373 6521",
+        "031 373 6520"
+      ],
+      "application_url": "https://www.dut.ac.za/wp-content/uploads/2025/06/How-to-Apply-2026.pdf",
+      "socials": {
+        "facebook": "https://www.facebook.com/DurbanUniversityofTechnology",
+        "instagram": "https://www.instagram.com/dut_official1/",
+        "linkedin": "",
+        "x": "https://twitter.com/dut_tweets",
+        "youtube": "https://www.youtube.com/user/DutCampusTv"
+      },
+      "accreditation": {
+        "dh et": "Accredited",
+        "saqa": "Registered"
+      },
+      "sources": [
+        "https://nationalgovernment.co.za/units/view/329/durban-university-of-technology",
+        "https://www.dut.ac.za/"
+      ],
+      "qualification_types": [
+        "National Diploma",
+        "BTech",
+        "Advanced Diploma",
+        "Postgraduate"
+      ],
+      "nsfas_supported": true,
+      "short_name": "DUT",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/e/e4/Durban_University_of_Technology_logo.png",
+      "colors": [
+        "Baby blue",
+        "purple",
+        "green",
+        "red",
+        "royal blue",
+        "light purple"
+      ],
+      "motto": "Creative. Distinctive. Impactful.",
+      "type": "University of Technology",
+      "languages": [],
+      "student_estimate": 31991,
+      "sports_affiliations": []
+    }
+  },
+  "campuses": [
+    {
+      "id": "campus:durban-university-of-technology--brickfield-campus",
+      "institution_slug": "durban-university-of-technology",
+      "name": "Brickfield Campus",
+      "city": "Durban",
+      "province": null,
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:durban-university-of-technology--city-campus",
+      "institution_slug": "durban-university-of-technology",
+      "name": "City Campus",
+      "city": "Durban",
+      "province": null,
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:durban-university-of-technology--indumiso-campus",
+      "institution_slug": "durban-university-of-technology",
+      "name": "Indumiso Campus",
+      "city": "Pietermaritzburg",
+      "province": null,
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:durban-university-of-technology--ml-sultan-campus",
+      "institution_slug": "durban-university-of-technology",
+      "name": "ML Sultan Campus",
+      "city": "Durban",
+      "province": null,
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:durban-university-of-technology--ritson-campus",
+      "institution_slug": "durban-university-of-technology",
+      "name": "Ritson Campus",
+      "city": "Durban",
+      "province": null,
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:durban-university-of-technology--riverside-campus",
+      "institution_slug": "durban-university-of-technology",
+      "name": "Riverside Campus",
+      "city": "Pietermaritzburg",
+      "province": null,
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:durban-university-of-technology--steve-biko-campus",
+      "institution_slug": "durban-university-of-technology",
+      "name": "Steve Biko Campus",
+      "city": "Durban",
+      "province": null,
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    }
+  ],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 7,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

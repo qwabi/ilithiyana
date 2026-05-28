@@ -1,0 +1,99 @@
+{
+  "meta": {
+    "institution_id": "344",
+    "slug": "motheo-tvet-college",
+    "name": "Motheo TVET College",
+    "institution_type": "tvet-college",
+    "province": "Free State",
+    "city": "Bloemfontein",
+    "official_website": "https://www.motheotvet.edu.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/344/motheo-tvet-college",
+    "application_url": "https://www.motheotvet.edu.za",
+    "prospectus_url": "https://www.motheotvet.edu.za/prospectus.html",
+    "nsfas_supported": true,
+    "distance_learning": null,
+    "accreditation": {
+      "dh et": "Accredited",
+      "saqa": null
+    },
+    "qualification_types": [
+      "NC(V)",
+      "Nated (Report 191)",
+      "Skills Programmes",
+      "Apprenticeships"
+    ]
+  },
+  "profile": {},
+  "contact": {
+    "phone_numbers": [
+      "051 411 2000",
+      "051 813 8625",
+      "051 041 7850",
+      "051 813 9017",
+      "051 873 5200",
+      "051 409 3300",
+      "051 813 9012",
+      "051 406 9300",
+      "051 813 9010",
+      "079 023 9203",
+      "051 813 9011"
+    ],
+    "physical_address": "Cnr St Georges & Aliwal Streets, Bloemfontein, 9300",
+    "postal_address": "Private Bag X20509, Bloemfontein, 9300",
+    "socials": {
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "x": "",
+      "youtube": ""
+    }
+  },
+  "campuses": [],
+  "faculties": [],
+  "programmes": [
+    {
+      "id": "prog:f49243f8f719",
+      "name": "NCV Level 2",
+      "normalized_name": "NCV Level 2",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    }
+  ],
+  "admission": {
+    "aps_name": null,
+    "aps_calculation_notes": null,
+    "minimum_aps_for_bachelors": null,
+    "minimum_aps_for_diplomas": null,
+    "minimum_entry_note": null,
+    "life_orientation_cap": null,
+    "aps_rules": [],
+    "programme_requirements": []
+  },
+  "sources": [
+    "generated/v3/institutions.enriched.json",
+    "institutions.json"
+  ],
+  "_stats": {
+    "campuses_count": 0,
+    "faculties_count": 0,
+    "programmes_count": 1,
+    "aps_rules_count": 0,
+    "adm_reqs_count": 0
+  }
+}

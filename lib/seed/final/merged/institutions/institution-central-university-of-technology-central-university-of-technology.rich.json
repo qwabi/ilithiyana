@@ -1,0 +1,33 @@
+{
+  "institution": {
+    "id": "institution:central-university-of-technology",
+    "slug": "central-university-of-technology",
+    "institution_id_raw": null,
+    "name": "Central University of Technology",
+    "institution_type": "University of Technology",
+    "city": null,
+    "province": null,
+    "official_website": null,
+    "detail_source": null,
+    "source_paths": [
+      "enriched_universities.json"
+    ],
+    "profile": {
+      "short_name": "CUT",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/5/54/Central_University_of_Technology_logo.png",
+      "type": "University of Technology"
+    }
+  },
+  "campuses": [],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "institution": {
+    "id": "institution:buffalo-city-tvet-college",
+    "slug": "buffalo-city-tvet-college",
+    "institution_id_raw": "323",
+    "name": "Buffalo City TVET College",
+    "institution_type": "tvet-college",
+    "city": "Southernwood",
+    "province": "Eastern Cape",
+    "official_website": "http://www.bccollege.co.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/323/buffalo-city-tvet-college",
+    "source_paths": [
+      "generated/v3/institutions.enriched.json",
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "sector": "higher education",
+      "province": "Eastern Cape",
+      "city": "Southernwood",
+      "physical_address": "Cnr Lukin Road & King Street, East London, Southernwood, 5200",
+      "postal_address": "Private Bag X9016, East London, 5200",
+      "contact_emails": [
+        "stmreception2@bccollege.co.za",
+        "infodesk@bccollege.co.za",
+        "marketing1@bccollege.co.za"
+      ],
+      "contact_phone_numbers": [
+        "043 704 9262/01",
+        "043 880 0177"
+      ],
+      "application_url": "https://bccollege.co.za/how-to-apply/",
+      "socials": {
+        "facebook": "https://www.facebook.com/p/Buffalo-City-TVET-College-100090518823120",
+        "instagram": "",
+        "linkedin": "",
+        "x": "",
+        "youtube": "https://www.youtube.com/@BuffaloCityTVETCollege"
+      },
+      "accreditation": {
+        "dh et": "Accredited",
+        "saqa": null
+      },
+      "sources": [
+        "https://nationalgovernment.co.za/units/view/323/buffalo-city-tvet-college",
+        "http://www.bccollege.co.za/"
+      ],
+      "qualification_types": [
+        "NC(V)",
+        "Nated (Report 191)",
+        "Skills Programmes",
+        "Apprenticeships"
+      ],
+      "nsfas_supported": true,
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

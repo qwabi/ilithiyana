@@ -1,0 +1,40 @@
+{
+  "chunks": [
+    {
+      "type": "other",
+      "text": "* All transitional applications must comply with the decision made by the Senate on June 7, 2024\n*The applicant must attach a full academic record",
+      "institutionId": "375",
+      "source_file": "lib/seed/prospectuses/vaal-university-of-technology.pdf",
+      "start_char": 0,
+      "end_char": 146
+    },
+    {
+      "type": "programme",
+      "text": "* Please note that the deadline for transition applications from National Diploma to Diploma is 30 June 2026, while the deadline for BTech",
+      "institutionId": "375",
+      "source_file": "lib/seed/prospectuses/vaal-university-of-technology.pdf",
+      "start_char": 147,
+      "end_char": 285
+    },
+    {
+      "type": "programme",
+      "text": "to Advanced Diploma transition applications is 30 November 2026.\nNo transition applications will be considered after these dates.\nNON-ALIGNED\nQUALIFICATION\nND: ANALYTICAL CHEM ALIGNED QUALIFICATION DIP ANALYTICAL\nCHEM\nOLD MODULE\nNAME\nOLD MODULE\nCODE\nPASS\nMARK\nNEW SUBJECT NAME NEW SUBJECT\nCODE\nApplicant Date\nSurname & Initials:\nID Number:\nStudent No:\nAddress:\nTel no / Cell:\nE\n-\nmail\nAPPLICATION FOR TRANSITIONING FROM A\nPHASED-OUT QUALIFICATION TO A\nNEW/CURRENT QUALIFICATION\n*Must be completed by the Department:\nOutstanding Modules:\nName of Module Code of the module\nComments:\nRecommendation and Comments by the Department:\nA student meets all the\nrequirements\nYes/No Comments:\nStudent does not meet\nthe requirements\nComments:\nReferred to RPL Yes/No Comments:\n*For the Recognition of Prior Learning (RPL), and the department must follow the RPL policy and processes where applicable:\nHead of Department (Natural Sciences) Date",
+      "institutionId": "375",
+      "source_file": "lib/seed/prospectuses/vaal-university-of-technology.pdf",
+      "start_char": 286,
+      "end_char": 1216
+    },
+    {
+      "type": "faculty",
+      "text": "Approval by the Faculty via (FMC/ FTLQ):\nA student meets all the\nrequirements\nYes/No Comments:\nStudent does not meet\nthe requirements\nComments:\nReferred to RPL Yes/No Comments:\nExecutive Dean (FACS) Date",
+      "institutionId": "375",
+      "source_file": "lib/seed/prospectuses/vaal-university-of-technology.pdf",
+      "start_char": 1217,
+      "end_char": 1420
+    }
+  ],
+  "matched_files": [
+    "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/vaal-university-of-technology.pdf"
+  ],
+  "skipped_chunks": []
+}

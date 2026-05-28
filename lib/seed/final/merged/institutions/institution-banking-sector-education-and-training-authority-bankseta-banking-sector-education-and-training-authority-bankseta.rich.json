@@ -1,0 +1,60 @@
+{
+  "institution": {
+    "id": "institution:banking-sector-education-and-training-authority-bankseta",
+    "slug": "banking-sector-education-and-training-authority-bankseta",
+    "institution_id_raw": "201",
+    "name": "Banking Sector Education and Training Authority (BANKSETA)",
+    "institution_type": "seta",
+    "city": "Centurion",
+    "province": "Gauteng",
+    "official_website": "https://bankseta.org.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/201/banking-sector-education-and-training-authority-bankseta",
+    "source_paths": [
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "sector": "training",
+      "province": "Gauteng",
+      "city": "Centurion",
+      "physical_address": "Building C2, Eco Origin Office Park, Eco-Park Estate, 349 Witch-Hazel Ave, Highveld, Centurion, 0144",
+      "postal_address": "PO Box 11678, Vorna Valley, 1686",
+      "contact_emails": [
+        "bankseta@tip-offs.com",
+        "info@bankseta.org.za",
+        "bankseta@tip-offs.co.za"
+      ],
+      "contact_phone_numbers": [
+        "011 805 9661"
+      ],
+      "socials": {
+        "facebook": "https://www.facebook.com/TheBankSeta",
+        "instagram": "",
+        "linkedin": "https://www.linkedin.com/company/the-bankseta",
+        "x": "https://twitter.com/thebankingseta",
+        "youtube": "https://www.youtube.com/user/thebankseta"
+      },
+      "accreditation": {
+        "dh et": null,
+        "saqa": null
+      },
+      "sources": [
+        "https://nationalgovernment.co.za/units/view/201/banking-sector-education-and-training-authority-bankseta",
+        "https://bankseta.org.za/"
+      ],
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

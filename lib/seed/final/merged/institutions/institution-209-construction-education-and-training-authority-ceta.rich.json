@@ -1,0 +1,30 @@
+{
+  "institution": {
+    "institution_id": "209",
+    "name": "Construction Education and Training Authority (CETA)",
+    "institution_type": "seta",
+    "city": "Midrand",
+    "province": "Gauteng",
+    "official_website": "https://www.ceta.org.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/209/construction-education-and-training-authority-ceta",
+    "source_paths": [
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

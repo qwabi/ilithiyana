@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "institution_id": "271",
+    "slug": "public-service-sector-education-and-training-authority-pseta",
+    "name": "Public Service Sector Education and Training Authority (PSETA)",
+    "institution_type": "seta",
+    "province": "Gauteng",
+    "city": "Pretoria",
+    "official_website": "https://pseta.org.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/271/public-service-sector-education-and-training-authority-pseta",
+    "application_url": null,
+    "prospectus_url": null,
+    "nsfas_supported": null,
+    "distance_learning": null,
+    "accreditation": {
+      "dh et": null,
+      "saqa": null
+    },
+    "qualification_types": null
+  },
+  "profile": {},
+  "contact": {
+    "emails": [
+      "minahk@pseta.org.za",
+      "rapulep@pseta.org.za",
+      "communications@pseta.org.za",
+      "mokotom@pseta.org.za",
+      "koketsom@pseta.org.za",
+      "nthabisengk@pseta.org.za"
+    ],
+    "phone_numbers": [
+      "012 423 5728",
+      "012 423 5738",
+      "012 423 5755",
+      "012 423 5700",
+      "012 423 5768",
+      "012 423 5710",
+      "012 423 5749"
+    ],
+    "physical_address": "Woodpecker Building, Hillcrest Office Park, 177 Dyer Road, Hillcrest, Pretoria, 0083",
+    "postal_address": "PO Box 11303, Hatfield, 0028",
+    "socials": {
+      "facebook": "https://www.facebook.com/Public-Service-Sector-Education-Training-Authority-PSETA-101941525365553/",
+      "instagram": "",
+      "linkedin": "",
+      "x": "",
+      "youtube": ""
+    }
+  },
+  "campuses": [],
+  "faculties": [],
+  "programmes": [],
+  "admission": {
+    "aps_name": null,
+    "aps_calculation_notes": null,
+    "minimum_aps_for_bachelors": null,
+    "minimum_aps_for_diplomas": null,
+    "minimum_entry_note": null,
+    "life_orientation_cap": null,
+    "aps_rules": [],
+    "programme_requirements": []
+  },
+  "sources": [
+    "institutions.json"
+  ],
+  "_stats": {
+    "campuses_count": 0,
+    "faculties_count": 0,
+    "programmes_count": 0,
+    "aps_rules_count": 0,
+    "adm_reqs_count": 0
+  }
+}

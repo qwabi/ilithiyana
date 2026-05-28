@@ -1,0 +1,60 @@
+{
+  "institution_id": "ufh",
+  "institution_name": "University of Fort Hare",
+  "institution_type": "university",
+  "source_file": "batch1/University-Of-Fort-Hare-(UFH)-Prospectus-2025.pdf",
+  "campuses": [
+    {
+      "name": "Alice",
+      "city": "Alice",
+      "province": "Eastern Cape",
+      "is_main": true
+    },
+    {
+      "name": "East London",
+      "city": "East London",
+      "province": "Eastern Cape",
+      "is_main": false
+    }
+  ],
+  "admission_policy": {
+    "aps_name": "Admission Point Score (APS)",
+    "aps_calculation_notes": "Calculation includes Life Orientation, often required at level 4 (50-59%). Higher APS often required for Math Literacy applicants.",
+    "minimum_aps_for_bachelors": 28,
+    "life_orientation_cap": 4,
+    "source_excerpt": "Life Orientation 4 (50-59%) is generally required for admission calculation.",
+    "extraction_confidence": 0.92
+  },
+  "programmes": [
+    {
+      "name": "Bachelor of Laws (LLB)",
+      "normalized_name": "Bachelor of Laws",
+      "qualification_type": "Bachelor",
+      "qualification_level": "NQF 8",
+      "faculty_name": "Faculty of Law",
+      "programme_code": "21525",
+      "min_aps": 30,
+      "subjects_compulsory": [
+        {
+          "subject": "English",
+          "minimum_nsc_level": 4,
+          "minimum_percentage": 50,
+          "notes": "4 (50-59%)"
+        }
+      ],
+      "subject_or_groups": [
+        {
+          "description": "Mathematics OR Mathematical Literacy OR Technical Mathematics",
+          "options": [
+            "Mathematics",
+            "Mathematical Literacy",
+            "Technical Mathematics"
+          ],
+          "minimum_nsc_level": 3,
+          "minimum_percentage": 40
+        }
+      ],
+      "extraction_confidence": 0.95
+    }
+  ]
+}

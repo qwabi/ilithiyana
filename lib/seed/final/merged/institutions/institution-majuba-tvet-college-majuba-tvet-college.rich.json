@@ -1,0 +1,64 @@
+{
+  "institution": {
+    "id": "institution:majuba-tvet-college",
+    "slug": "majuba-tvet-college",
+    "institution_id_raw": "341",
+    "name": "Majuba TVET College",
+    "institution_type": "tvet-college",
+    "city": "Newcastle",
+    "province": "",
+    "official_website": "https://www.majuba.edu.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/341/majuba-tvet-college",
+    "source_paths": [
+      "generated/v3/institutions.enriched.json",
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "sector": "higher education",
+      "city": "Newcastle",
+      "physical_address": "83 Allen Street, Newcastle, 2490",
+      "postal_address": "PO Box 5613, Newcastle, 2940",
+      "contact_phone_numbers": [
+        "034 326 4888",
+        "034 326 4889"
+      ],
+      "application_url": "https://manage.learnerprofiler.com/account/clientlogin/413076aa-02ab-44ad-979e-f8f81f5973f6?a=Register",
+      "socials": {
+        "facebook": "https://www.facebook.com/MajubaTVETCollege/",
+        "instagram": "https://www.instagram.com/majuba_tvet_college/?hl=en",
+        "linkedin": "",
+        "x": "https://twitter.com/majuba_college?lang=en",
+        "youtube": "https://www.youtube.com/channel/UC6_aP45V23ysJmrICPUdJ7w"
+      },
+      "accreditation": {
+        "dh et": "Accredited",
+        "saqa": null
+      },
+      "sources": [
+        "https://nationalgovernment.co.za/units/view/341/majuba-tvet-college",
+        "https://www.majuba.edu.za/"
+      ],
+      "qualification_types": [
+        "NC(V)",
+        "Nated (Report 191)",
+        "Skills Programmes",
+        "Apprenticeships"
+      ],
+      "nsfas_supported": true,
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

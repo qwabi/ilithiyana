@@ -1,0 +1,124 @@
+{
+  "institution": {
+    "institution_id": "329",
+    "name": "Durban University of Technology",
+    "institution_type": "university-of-technology",
+    "city": "Durban",
+    "province": "KwaZulu-Natal",
+    "official_website": "https://www.dut.ac.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/329/durban-university-of-technology",
+    "source_paths": [
+      "enriched_universities.json",
+      "generated/v3/institutions.enriched.json",
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "short_name": "DUT",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/e/e4/Durban_University_of_Technology_logo.png",
+      "colors": [
+        "Baby blue",
+        "purple",
+        "green",
+        "red",
+        "royal blue",
+        "light purple"
+      ],
+      "motto": "Creative. Distinctive. Impactful.",
+      "type": "University of Technology",
+      "languages": [],
+      "student_estimate": 31991,
+      "sports_affiliations": []
+    }
+  },
+  "campuses": [
+    {
+      "id": "camp:4c9f1e75afecc81a",
+      "institution_id": "329",
+      "name": "Brickfield Campus",
+      "city": "Durban",
+      "province": null,
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "camp:200b8aa557fbe284",
+      "institution_id": "329",
+      "name": "City Campus",
+      "city": "Durban",
+      "province": null,
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "camp:0fdc98b5add1bc11",
+      "institution_id": "329",
+      "name": "Indumiso Campus",
+      "city": "Pietermaritzburg",
+      "province": null,
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "camp:305f0f4175ebdda8",
+      "institution_id": "329",
+      "name": "ML Sultan Campus",
+      "city": "Durban",
+      "province": null,
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "camp:62874ab41d69a1b6",
+      "institution_id": "329",
+      "name": "Ritson Campus",
+      "city": "Durban",
+      "province": null,
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "camp:62bfb3eeacf76097",
+      "institution_id": "329",
+      "name": "Riverside Campus",
+      "city": "Pietermaritzburg",
+      "province": null,
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "camp:de4af1ff403f20be",
+      "institution_id": "329",
+      "name": "Steve Biko Campus",
+      "city": "Durban",
+      "province": null,
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    }
+  ],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 7,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

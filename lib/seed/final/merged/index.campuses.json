@@ -1,0 +1,1039 @@
+{
+  "campuses": [
+    {
+      "id": "campus:durban-university-of-technology--brickfield-campus",
+      "institution_slug": "durban-university-of-technology",
+      "name": "Brickfield Campus",
+      "city": "Durban",
+      "province": null,
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:durban-university-of-technology--city-campus",
+      "institution_slug": "durban-university-of-technology",
+      "name": "City Campus",
+      "city": "Durban",
+      "province": null,
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:durban-university-of-technology--indumiso-campus",
+      "institution_slug": "durban-university-of-technology",
+      "name": "Indumiso Campus",
+      "city": "Pietermaritzburg",
+      "province": null,
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:durban-university-of-technology--ml-sultan-campus",
+      "institution_slug": "durban-university-of-technology",
+      "name": "ML Sultan Campus",
+      "city": "Durban",
+      "province": null,
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:durban-university-of-technology--ritson-campus",
+      "institution_slug": "durban-university-of-technology",
+      "name": "Ritson Campus",
+      "city": "Durban",
+      "province": null,
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:durban-university-of-technology--riverside-campus",
+      "institution_slug": "durban-university-of-technology",
+      "name": "Riverside Campus",
+      "city": "Pietermaritzburg",
+      "province": null,
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:durban-university-of-technology--steve-biko-campus",
+      "institution_slug": "durban-university-of-technology",
+      "name": "Steve Biko Campus",
+      "city": "Durban",
+      "province": null,
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:ikhala-tvet-college--aliwal-north",
+      "institution_slug": "ikhala-tvet-college",
+      "name": "Aliwal North",
+      "city": "Aliwal North",
+      "province": "Eastern Cape",
+      "is_main": false,
+      "source_paths": [
+        "workik/batch1/online/ikhala.json",
+        "workik/batch1/online/ikhala2.json"
+      ]
+    },
+    {
+      "id": "campus:ikhala-tvet-college--ezibeleni",
+      "institution_slug": "ikhala-tvet-college",
+      "name": "Ezibeleni",
+      "city": "Queenstown",
+      "province": "Eastern Cape",
+      "is_main": true,
+      "source_paths": [
+        "workik/batch1/online/ikhala.json",
+        "workik/batch1/online/ikhala2.json"
+      ]
+    },
+    {
+      "id": "campus:ikhala-tvet-college--komani",
+      "institution_slug": "ikhala-tvet-college",
+      "name": "Komani",
+      "city": "Queenstown",
+      "province": "Eastern Cape",
+      "is_main": false,
+      "source_paths": [
+        "workik/batch1/online/ikhala2.json"
+      ]
+    },
+    {
+      "id": "campus:ikhala-tvet-college--queen-nonesi",
+      "institution_slug": "ikhala-tvet-college",
+      "name": "Queen Nonesi",
+      "city": "Lady Frere",
+      "province": "Eastern Cape",
+      "is_main": false,
+      "source_paths": [
+        "workik/batch1/online/ikhala2.json"
+      ]
+    },
+    {
+      "id": "campus:ikhala-tvet-college--sterkspruit",
+      "institution_slug": "ikhala-tvet-college",
+      "name": "Sterkspruit",
+      "city": "Sterkspruit",
+      "province": "Eastern Cape",
+      "is_main": false,
+      "source_paths": [
+        "workik/batch1/online/ikhala2.json"
+      ]
+    },
+    {
+      "id": "campus:king-hintsa-tvet-college--centane",
+      "institution_slug": "king-hintsa-tvet-college",
+      "name": "Centane",
+      "city": "Centane",
+      "province": "Eastern Cape",
+      "is_main": false,
+      "source_paths": [
+        "workik/batch1/online/king-hintsa.json"
+      ]
+    },
+    {
+      "id": "campus:king-hintsa-tvet-college--dutywa",
+      "institution_slug": "king-hintsa-tvet-college",
+      "name": "Dutywa",
+      "city": "Idutywa",
+      "province": "Eastern Cape",
+      "is_main": false,
+      "source_paths": [
+        "workik/batch1/online/king-hintsa.json"
+      ]
+    },
+    {
+      "id": "campus:king-hintsa-tvet-college--msobomvu",
+      "institution_slug": "king-hintsa-tvet-college",
+      "name": "Msobomvu",
+      "city": "Butterworth",
+      "province": "Eastern Cape",
+      "is_main": true,
+      "source_paths": [
+        "workik/batch1/online/king-hintsa.json"
+      ]
+    },
+    {
+      "id": "campus:king-hintsa-tvet-college--teko",
+      "institution_slug": "king-hintsa-tvet-college",
+      "name": "Teko",
+      "city": "Butterworth",
+      "province": "Eastern Cape",
+      "is_main": false,
+      "source_paths": [
+        "workik/batch1/online/king-hintsa.json"
+      ]
+    },
+    {
+      "id": "campus:king-hintsa-tvet-college--willowvale",
+      "institution_slug": "king-hintsa-tvet-college",
+      "name": "Willowvale",
+      "city": "Willowvale",
+      "province": "Eastern Cape",
+      "is_main": false,
+      "source_paths": [
+        "workik/batch1/online/king-hintsa.json"
+      ]
+    },
+    {
+      "id": "campus:nelson-mandela-university--2nd-avenue",
+      "institution_slug": "nelson-mandela-university",
+      "name": "2nd Avenue",
+      "city": null,
+      "province": null,
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:nelson-mandela-university--bird-street",
+      "institution_slug": "nelson-mandela-university",
+      "name": "Bird Street",
+      "city": null,
+      "province": null,
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:nelson-mandela-university--campus",
+      "institution_slug": "nelson-mandela-university",
+      "name": "Campus",
+      "city": null,
+      "province": null,
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:nelson-mandela-university--george",
+      "institution_slug": "nelson-mandela-university",
+      "name": "George",
+      "city": "George",
+      "province": null,
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:nelson-mandela-university--missionvale",
+      "institution_slug": "nelson-mandela-university",
+      "name": "Missionvale",
+      "city": "Gqeberha",
+      "province": null,
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:nelson-mandela-university--south",
+      "institution_slug": "nelson-mandela-university",
+      "name": "South",
+      "city": null,
+      "province": null,
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:north-west-university--mahikeng-campus",
+      "institution_slug": "north-west-university",
+      "name": "Mahikeng Campus",
+      "city": "Mahikeng",
+      "province": "North West",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:north-west-university--potchefstroom-campus",
+      "institution_slug": "north-west-university",
+      "name": "Potchefstroom Campus",
+      "city": "Potchefstroom",
+      "province": "North West",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:north-west-university--vanderbijlpark-campus",
+      "institution_slug": "north-west-university",
+      "name": "Vanderbijlpark Campus",
+      "city": "Vanderbijlpark",
+      "province": "Gauteng",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:port-elizabeth-tvet-college--dower",
+      "institution_slug": "port-elizabeth-tvet-college",
+      "name": "Dower",
+      "city": "Gqeberha",
+      "province": null,
+      "is_main": false,
+      "source_paths": [
+        "workik/batch1/online/pe-tvet.json"
+      ]
+    },
+    {
+      "id": "campus:port-elizabeth-tvet-college--russell-road",
+      "institution_slug": "port-elizabeth-tvet-college",
+      "name": "Russell Road",
+      "city": "Gqeberha",
+      "province": null,
+      "is_main": true,
+      "source_paths": [
+        "workik/batch1/online/pe-tvet.json"
+      ]
+    },
+    {
+      "id": "campus:port-elizabeth-tvet-college--struandale",
+      "institution_slug": "port-elizabeth-tvet-college",
+      "name": "Struandale",
+      "city": "Gqeberha",
+      "province": null,
+      "is_main": false,
+      "source_paths": [
+        "workik/batch1/online/pe-tvet.json"
+      ]
+    },
+    {
+      "id": "campus:rhodes-university--main-campus",
+      "institution_slug": "rhodes-university",
+      "name": "Main Campus",
+      "city": "Makhanda",
+      "province": "Eastern Cape",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:sefako-makgatho-health-sciences-university--ga-rankuwa-campus",
+      "institution_slug": "sefako-makgatho-health-sciences-university",
+      "name": "Ga-Rankuwa Campus",
+      "city": "Ga-Rankuwa",
+      "province": "Gauteng",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:stellenbosch-university--bellville-park-campus",
+      "institution_slug": "stellenbosch-university",
+      "name": "Bellville Park Campus",
+      "city": "Bellville",
+      "province": "Western Cape",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:stellenbosch-university--saldanha-campus",
+      "institution_slug": "stellenbosch-university",
+      "name": "Saldanha Campus",
+      "city": "Saldanha Bay",
+      "province": "Western Cape",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:stellenbosch-university--stellenbosch-campus",
+      "institution_slug": "stellenbosch-university",
+      "name": "Stellenbosch Campus",
+      "city": "Stellenbosch",
+      "province": "Western Cape",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:stellenbosch-university--tygerberg-campus",
+      "institution_slug": "stellenbosch-university",
+      "name": "Tygerberg Campus",
+      "city": "Bellville",
+      "province": "Western Cape",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:stellenbosch-university--ukwanda-rural-clinical-school",
+      "institution_slug": "stellenbosch-university",
+      "name": "Ukwanda Rural Clinical School",
+      "city": "Worcester",
+      "province": "Western Cape",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:tshwane-university-of-technology--arcadia-campus",
+      "institution_slug": "tshwane-university-of-technology",
+      "name": "Arcadia Campus",
+      "city": "Pretoria",
+      "province": "Gauteng",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:tshwane-university-of-technology--arts-campus",
+      "institution_slug": "tshwane-university-of-technology",
+      "name": "Arts Campus",
+      "city": "Pretoria",
+      "province": "Gauteng",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:tshwane-university-of-technology--ga-rankuwa-campus",
+      "institution_slug": "tshwane-university-of-technology",
+      "name": "Ga-Rankuwa Campus",
+      "city": "Ga-Rankuwa",
+      "province": "Gauteng",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:tshwane-university-of-technology--pretoria-campus",
+      "institution_slug": "tshwane-university-of-technology",
+      "name": "Pretoria Campus",
+      "city": "Pretoria West",
+      "province": "Gauteng",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:university-of-cape-town--breakwater-lodge-campus",
+      "institution_slug": "university-of-cape-town",
+      "name": "Breakwater Lodge Campus",
+      "city": "V&A Waterfront",
+      "province": "Western Cape",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:university-of-cape-town--health-sciences-campus",
+      "institution_slug": "university-of-cape-town",
+      "name": "Health Sciences Campus",
+      "city": "Observatory",
+      "province": "Western Cape",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:university-of-cape-town--hiddingh-campus",
+      "institution_slug": "university-of-cape-town",
+      "name": "Hiddingh Campus",
+      "city": "Cape Town CBD",
+      "province": "Western Cape",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:university-of-cape-town--lower-campus",
+      "institution_slug": "university-of-cape-town",
+      "name": "Lower Campus",
+      "city": "Rondebosch",
+      "province": "Western Cape",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:university-of-cape-town--middle-campus",
+      "institution_slug": "university-of-cape-town",
+      "name": "Middle Campus",
+      "city": "Rondebosch",
+      "province": "Western Cape",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:university-of-cape-town--upper-campus",
+      "institution_slug": "university-of-cape-town",
+      "name": "Upper Campus",
+      "city": "Rondebosch",
+      "province": "Western Cape",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:university-of-fort-hare--alice",
+      "institution_slug": "university-of-fort-hare",
+      "name": "Alice",
+      "city": "Alice",
+      "province": "Eastern Cape",
+      "is_main": true,
+      "source_paths": [
+        "workik/batch1/online/ufh.json",
+        "workik/batch1/online/ufh3.json"
+      ]
+    },
+    {
+      "id": "campus:university-of-fort-hare--alice-campus",
+      "institution_slug": "university-of-fort-hare",
+      "name": "Alice Campus",
+      "city": "Alice",
+      "province": "Eastern Cape",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:university-of-fort-hare--bhisho",
+      "institution_slug": "university-of-fort-hare",
+      "name": "Bhisho",
+      "city": "Bhisho",
+      "province": "Eastern Cape",
+      "is_main": false,
+      "source_paths": [
+        "workik/batch1/online/ufh3.json"
+      ]
+    },
+    {
+      "id": "campus:university-of-fort-hare--bhisho-campus",
+      "institution_slug": "university-of-fort-hare",
+      "name": "Bhisho Campus",
+      "city": "Bhisho",
+      "province": "Eastern Cape",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:university-of-fort-hare--east-london",
+      "institution_slug": "university-of-fort-hare",
+      "name": "East London",
+      "city": "East London",
+      "province": "Eastern Cape",
+      "is_main": false,
+      "source_paths": [
+        "workik/batch1/online/ufh.json",
+        "workik/batch1/online/ufh3.json"
+      ]
+    },
+    {
+      "id": "campus:university-of-fort-hare--east-london-campus",
+      "institution_slug": "university-of-fort-hare",
+      "name": "East London Campus",
+      "city": "East London",
+      "province": "Eastern Cape",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:university-of-johannesburg--auckland-park-bunting-road-apb",
+      "institution_slug": "university-of-johannesburg",
+      "name": "Auckland Park Bunting Road (APB)",
+      "city": "Johannesburg",
+      "province": "Gauteng",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:university-of-johannesburg--auckland-park-kingsway-apk",
+      "institution_slug": "university-of-johannesburg",
+      "name": "Auckland Park Kingsway (APK)",
+      "city": "Johannesburg",
+      "province": "Gauteng",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:university-of-johannesburg--doornfontein-dfc",
+      "institution_slug": "university-of-johannesburg",
+      "name": "Doornfontein (DFC)",
+      "city": "Johannesburg",
+      "province": "Gauteng",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:university-of-johannesburg--soweto-swc",
+      "institution_slug": "university-of-johannesburg",
+      "name": "Soweto (SWC)",
+      "city": "Johannesburg",
+      "province": "Gauteng",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:university-of-kwazulu-natal--edgewood-campus",
+      "institution_slug": "university-of-kwazulu-natal",
+      "name": "Edgewood Campus",
+      "city": "Pinetown",
+      "province": "KwaZulu-Natal",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:university-of-kwazulu-natal--howard-college-campus",
+      "institution_slug": "university-of-kwazulu-natal",
+      "name": "Howard College Campus",
+      "city": "Durban",
+      "province": "KwaZulu-Natal",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:university-of-kwazulu-natal--nelson-mandela-school-of-medicine",
+      "institution_slug": "university-of-kwazulu-natal",
+      "name": "Nelson Mandela School of Medicine",
+      "city": "Durban",
+      "province": "KwaZulu-Natal",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:university-of-kwazulu-natal--pietermaritzburg-campus",
+      "institution_slug": "university-of-kwazulu-natal",
+      "name": "Pietermaritzburg Campus",
+      "city": "Pietermaritzburg",
+      "province": "KwaZulu-Natal",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:university-of-kwazulu-natal--westville-campus",
+      "institution_slug": "university-of-kwazulu-natal",
+      "name": "Westville Campus",
+      "city": "Westville",
+      "province": "KwaZulu-Natal",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:university-of-limpopo--turfloop-campus",
+      "institution_slug": "university-of-limpopo",
+      "name": "Turfloop Campus",
+      "city": "Mankweng",
+      "province": "Limpopo",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:university-of-pretoria--gibs-campus",
+      "institution_slug": "university-of-pretoria",
+      "name": "GIBS Campus",
+      "city": "Illovo",
+      "province": "Gauteng",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:university-of-pretoria--groenkloof-campus",
+      "institution_slug": "university-of-pretoria",
+      "name": "Groenkloof Campus",
+      "city": "Groenkloof",
+      "province": "Gauteng",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:university-of-pretoria--hatfield-campus",
+      "institution_slug": "university-of-pretoria",
+      "name": "Hatfield Campus",
+      "city": "Hatfield",
+      "province": "Gauteng",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:university-of-pretoria--hillcrest-campus",
+      "institution_slug": "university-of-pretoria",
+      "name": "Hillcrest Campus",
+      "city": "Hatfield",
+      "province": "Gauteng",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:university-of-pretoria--mamelodi-campus",
+      "institution_slug": "university-of-pretoria",
+      "name": "Mamelodi Campus",
+      "city": "Mamelodi",
+      "province": "Gauteng",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:university-of-pretoria--onderstepoort-campus",
+      "institution_slug": "university-of-pretoria",
+      "name": "Onderstepoort Campus",
+      "city": "Onderstepoort",
+      "province": "Gauteng",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:university-of-pretoria--prinshof-campus",
+      "institution_slug": "university-of-pretoria",
+      "name": "Prinshof Campus",
+      "city": "Pretoria",
+      "province": "Gauteng",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:university-of-south-africa--florida-campus",
+      "institution_slug": "university-of-south-africa",
+      "name": "Florida Campus",
+      "city": "Johannesburg",
+      "province": "Gauteng",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:university-of-south-africa--muckleneuk-campus",
+      "institution_slug": "university-of-south-africa",
+      "name": "Muckleneuk Campus",
+      "city": "Pretoria",
+      "province": "Gauteng",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:university-of-south-africa--sunnyside-campus",
+      "institution_slug": "university-of-south-africa",
+      "name": "Sunnyside Campus",
+      "city": "Pretoria",
+      "province": "Gauteng",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:university-of-the-free-state--bloemfontein-campus",
+      "institution_slug": "university-of-the-free-state",
+      "name": "Bloemfontein Campus",
+      "city": "Bloemfontein",
+      "province": "Free State",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:university-of-the-free-state--qwaqwa-campus",
+      "institution_slug": "university-of-the-free-state",
+      "name": "Qwaqwa Campus",
+      "city": "Phuthaditjhaba",
+      "province": "Free State",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:university-of-the-free-state--south-campus",
+      "institution_slug": "university-of-the-free-state",
+      "name": "South Campus",
+      "city": "Bloemfontein",
+      "province": "Free State",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:university-of-the-western-cape--main-campus",
+      "institution_slug": "university-of-the-western-cape",
+      "name": "Main Campus",
+      "city": "Bellville",
+      "province": "Western Cape",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:university-of-the-western-cape--tygerberg-campus",
+      "institution_slug": "university-of-the-western-cape",
+      "name": "Tygerberg Campus",
+      "city": "Bellville",
+      "province": "Western Cape",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:university-of-the-witwatersrand--east-campus",
+      "institution_slug": "university-of-the-witwatersrand",
+      "name": "East Campus",
+      "city": "Braamfontein",
+      "province": "Gauteng",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:university-of-the-witwatersrand--education-campus",
+      "institution_slug": "university-of-the-witwatersrand",
+      "name": "Education Campus",
+      "city": "Parktown",
+      "province": "Gauteng",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:university-of-the-witwatersrand--management-campus",
+      "institution_slug": "university-of-the-witwatersrand",
+      "name": "Management Campus",
+      "city": "Parktown",
+      "province": "Gauteng",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:university-of-the-witwatersrand--medical-school",
+      "institution_slug": "university-of-the-witwatersrand",
+      "name": "Medical School",
+      "city": "Parktown",
+      "province": "Gauteng",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:university-of-the-witwatersrand--west-campus",
+      "institution_slug": "university-of-the-witwatersrand",
+      "name": "West Campus",
+      "city": "Braamfontein",
+      "province": "Gauteng",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:university-of-the-witwatersrand--wits-rural-campus",
+      "institution_slug": "university-of-the-witwatersrand",
+      "name": "Wits Rural Campus",
+      "city": "Bushbuckridge",
+      "province": "Mpumalanga",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:vaal-university-of-technology--educity",
+      "institution_slug": "vaal-university-of-technology",
+      "name": "Educity",
+      "city": "Sebokeng",
+      "province": "Gauteng",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:vaal-university-of-technology--vanderbijlpark",
+      "institution_slug": "vaal-university-of-technology",
+      "name": "Vanderbijlpark",
+      "city": "Vanderbijlpark",
+      "province": "Gauteng",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:walter-sisulu-university--buffalo-city",
+      "institution_slug": "walter-sisulu-university",
+      "name": "Buffalo City",
+      "city": "East London",
+      "province": "Eastern Cape",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json",
+        "workik/batch1/online/wsu.json",
+        "workik/batch1/online/wsu3.json"
+      ]
+    },
+    {
+      "id": "campus:walter-sisulu-university--buffalo-city-campus",
+      "institution_slug": "walter-sisulu-university",
+      "name": "Buffalo City Campus",
+      "city": "East London",
+      "province": "Eastern Cape",
+      "is_main": false,
+      "source_paths": [
+        "workik/batch1/online/wsu_output.json"
+      ]
+    },
+    {
+      "id": "campus:walter-sisulu-university--butterworth",
+      "institution_slug": "walter-sisulu-university",
+      "name": "Butterworth",
+      "city": "Butterworth",
+      "province": "Eastern Cape",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json",
+        "workik/batch1/online/wsu.json",
+        "workik/batch1/online/wsu3.json"
+      ]
+    },
+    {
+      "id": "campus:walter-sisulu-university--butterworth-campus",
+      "institution_slug": "walter-sisulu-university",
+      "name": "Butterworth Campus",
+      "city": "Butterworth",
+      "province": "Eastern Cape",
+      "is_main": false,
+      "source_paths": [
+        "workik/batch1/online/wsu_output.json"
+      ]
+    },
+    {
+      "id": "campus:walter-sisulu-university--komani",
+      "institution_slug": "walter-sisulu-university",
+      "name": "Komani",
+      "city": "Queenstown",
+      "province": "Eastern Cape",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json",
+        "workik/batch1/online/wsu.json",
+        "workik/batch1/online/wsu3.json"
+      ]
+    },
+    {
+      "id": "campus:walter-sisulu-university--komani-campus",
+      "institution_slug": "walter-sisulu-university",
+      "name": "Komani Campus",
+      "city": "Komani (Queenstown)",
+      "province": "Eastern Cape",
+      "is_main": false,
+      "source_paths": [
+        "workik/batch1/online/wsu_output.json"
+      ]
+    },
+    {
+      "id": "campus:walter-sisulu-university--mthatha",
+      "institution_slug": "walter-sisulu-university",
+      "name": "Mthatha",
+      "city": "Mthatha",
+      "province": "Eastern Cape",
+      "is_main": true,
+      "source_paths": [
+        "enriched_universities.json",
+        "workik/batch1/online/wsu.json",
+        "workik/batch1/online/wsu3.json"
+      ]
+    },
+    {
+      "id": "campus:walter-sisulu-university--mthatha-ibika-campus",
+      "institution_slug": "walter-sisulu-university",
+      "name": "Mthatha (Ibika) Campus",
+      "city": "Mthatha",
+      "province": "Eastern Cape",
+      "is_main": true,
+      "source_paths": [
+        "workik/batch1/online/wsu_output.json"
+      ]
+    }
+  ]
+}

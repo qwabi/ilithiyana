@@ -1,0 +1,62 @@
+{
+  "institution": {
+    "id": "institution:tshwane-south-tvet-college",
+    "slug": "tshwane-south-tvet-college",
+    "institution_id_raw": "320",
+    "name": "Tshwane South TVET College",
+    "institution_type": "tvet-college",
+    "city": "Pretoria",
+    "province": "Gauteng",
+    "official_website": "https://tsc.edu.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/320/tshwane-south-tvet-college",
+    "source_paths": [
+      "generated/v3/institutions.enriched.json",
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "sector": "higher education",
+      "province": "Gauteng",
+      "city": "Pretoria",
+      "physical_address": "85 Frances Baard (formerly Schoeman Street), Pretoria, 0001",
+      "postal_address": "PO Box 151, Pretoria, 0001",
+      "contact_phone_numbers": [
+        "012 401 5000"
+      ],
+      "socials": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": "",
+        "x": "",
+        "youtube": ""
+      },
+      "accreditation": {
+        "dh et": "Accredited",
+        "saqa": null
+      },
+      "sources": [
+        "https://nationalgovernment.co.za/units/view/320/tshwane-south-tvet-college",
+        "https://tsc.edu.za/"
+      ],
+      "qualification_types": [
+        "NC(V)",
+        "Nated (Report 191)",
+        "Skills Programmes",
+        "Apprenticeships"
+      ],
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

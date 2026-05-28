@@ -1,0 +1,487 @@
+[
+  {
+    "name": "Nelson Mandela Metropolitan University",
+    "detail_url": "https://nationalgovernment.co.za/units/view/347/nelson-mandela-metropolitan-university",
+    "type": "university"
+  },
+  {
+    "name": "North-West University",
+    "detail_url": "https://nationalgovernment.co.za/units/view/349/north-west-university",
+    "type": "university"
+  },
+  {
+    "name": "Rhodes University",
+    "detail_url": "https://nationalgovernment.co.za/units/view/352/rhodes-university",
+    "type": "university"
+  },
+  {
+    "name": "Sefako Makgatho Health Sciences University",
+    "detail_url": "https://nationalgovernment.co.za/units/view/413/sefako-makgatho-health-sciences-university",
+    "type": "university"
+  },
+  {
+    "name": "Sol Plaatje University",
+    "detail_url": "https://nationalgovernment.co.za/units/view/411/sol-plaatje-university",
+    "type": "university"
+  },
+  {
+    "name": "Stellenbosch University",
+    "detail_url": "https://nationalgovernment.co.za/units/view/369/stellenbosch-university",
+    "type": "university"
+  },
+  {
+    "name": "University of Cape Town",
+    "detail_url": "https://nationalgovernment.co.za/units/view/362/university-of-cape-town",
+    "type": "university"
+  },
+  {
+    "name": "University of Fort Hare",
+    "detail_url": "https://nationalgovernment.co.za/units/view/363/university-of-fort-hare",
+    "type": "university"
+  },
+  {
+    "name": "University of Johannesburg",
+    "detail_url": "https://nationalgovernment.co.za/units/view/364/university-of-johannesburg",
+    "type": "university"
+  },
+  {
+    "name": "University of KwaZulu-Natal",
+    "detail_url": "https://nationalgovernment.co.za/units/view/365/university-of-kwazulu-natal",
+    "type": "university"
+  },
+  {
+    "name": "University of Limpopo",
+    "detail_url": "https://nationalgovernment.co.za/units/view/366/university-of-limpopo",
+    "type": "university"
+  },
+  {
+    "name": "University of Mpumalanga",
+    "detail_url": "https://nationalgovernment.co.za/units/view/412/university-of-mpumalanga",
+    "type": "university"
+  },
+  {
+    "name": "University of Pretoria",
+    "detail_url": "https://nationalgovernment.co.za/units/view/367/university-of-pretoria",
+    "type": "university"
+  },
+  {
+    "name": "University of South Africa (UNISA)",
+    "detail_url": "https://nationalgovernment.co.za/units/view/368/university-of-south-africa-unisa",
+    "type": "university"
+  },
+  {
+    "name": "University of the Free State",
+    "detail_url": "https://nationalgovernment.co.za/units/view/370/university-of-the-free-state",
+    "type": "university"
+  },
+  {
+    "name": "University of the Western Cape",
+    "detail_url": "https://nationalgovernment.co.za/units/view/371/university-of-the-western-cape",
+    "type": "university"
+  },
+  {
+    "name": "University of the Witwatersrand",
+    "detail_url": "https://nationalgovernment.co.za/units/view/372/university-of-the-witwatersrand",
+    "type": "university"
+  },
+  {
+    "name": "University of Venda",
+    "detail_url": "https://nationalgovernment.co.za/units/view/373/university-of-venda",
+    "type": "university"
+  },
+  {
+    "name": "University of Zululand",
+    "detail_url": "https://nationalgovernment.co.za/units/view/374/university-of-zululand",
+    "type": "university"
+  },
+  {
+    "name": "Cape Peninsula University of Technology",
+    "detail_url": "https://nationalgovernment.co.za/units/view/324/cape-peninsula-university-of-technology",
+    "type": "university-of-technology"
+  },
+  {
+    "name": "Central University of Technology, Free State",
+    "detail_url": "https://nationalgovernment.co.za/units/view/326/central-university-of-technology-free-state",
+    "type": "university-of-technology"
+  },
+  {
+    "name": "Durban University of Technology",
+    "detail_url": "https://nationalgovernment.co.za/units/view/329/durban-university-of-technology",
+    "type": "university-of-technology"
+  },
+  {
+    "name": "Mangosuthu University of Technology",
+    "detail_url": "https://nationalgovernment.co.za/units/view/342/mangosuthu-university-of-technology",
+    "type": "university-of-technology"
+  },
+  {
+    "name": "Tshwane University of Technology",
+    "detail_url": "https://nationalgovernment.co.za/units/view/359/tshwane-university-of-technology",
+    "type": "university-of-technology"
+  },
+  {
+    "name": "Vaal University of Technology",
+    "detail_url": "https://nationalgovernment.co.za/units/view/375/vaal-university-of-technology",
+    "type": "university-of-technology"
+  },
+  {
+    "name": "Walter Sisulu University of Technology and Science",
+    "detail_url": "https://nationalgovernment.co.za/units/view/378/walter-sisulu-university-of-technology-and-science",
+    "type": "university-of-technology"
+  },
+  {
+    "name": "Boland TVET College",
+    "detail_url": "https://nationalgovernment.co.za/units/view/322/boland-tvet-college",
+    "type": "tvet-college"
+  },
+  {
+    "name": "Buffalo City TVET College",
+    "detail_url": "https://nationalgovernment.co.za/units/view/323/buffalo-city-tvet-college",
+    "type": "tvet-college"
+  },
+  {
+    "name": "Capricorn TVET College",
+    "detail_url": "https://nationalgovernment.co.za/units/view/325/capricorn-tvet-college",
+    "type": "tvet-college"
+  },
+  {
+    "name": "Central Johannesburg TVET College",
+    "detail_url": "https://nationalgovernment.co.za/units/view/306/central-johannesburg-tvet-college",
+    "type": "tvet-college"
+  },
+  {
+    "name": "Coastal TVET College",
+    "detail_url": "https://nationalgovernment.co.za/units/view/327/coastal-tvet-college",
+    "type": "tvet-college"
+  },
+  {
+    "name": "College of Cape Town for TVET",
+    "detail_url": "https://nationalgovernment.co.za/units/view/328/college-of-cape-town-for-tvet",
+    "type": "tvet-college"
+  },
+  {
+    "name": "Eastcape Midlands TVET College",
+    "detail_url": "https://nationalgovernment.co.za/units/view/307/eastcape-midlands-tvet-college",
+    "type": "tvet-college"
+  },
+  {
+    "name": "Ehlanzeni TVET College",
+    "detail_url": "https://nationalgovernment.co.za/units/view/330/ehlanzeni-tvet-college",
+    "type": "tvet-college"
+  },
+  {
+    "name": "Ekurhuleni East TVET College",
+    "detail_url": "https://nationalgovernment.co.za/units/view/331/ekurhuleni-east-tvet-college",
+    "type": "tvet-college"
+  },
+  {
+    "name": "Ekurhuleni West TVET College",
+    "detail_url": "https://nationalgovernment.co.za/units/view/332/ekurhuleni-west-tvet-college",
+    "type": "tvet-college"
+  },
+  {
+    "name": "Elangeni TVET College",
+    "detail_url": "https://nationalgovernment.co.za/units/view/333/elangeni-tvet-college",
+    "type": "tvet-college"
+  },
+  {
+    "name": "Esayidi TVET College",
+    "detail_url": "https://nationalgovernment.co.za/units/view/308/esayidi-tvet-college",
+    "type": "tvet-college"
+  },
+  {
+    "name": "False Bay TVET College",
+    "detail_url": "https://nationalgovernment.co.za/units/view/334/false-bay-tvet-college",
+    "type": "tvet-college"
+  },
+  {
+    "name": "Flavius Mareka TVET College",
+    "detail_url": "https://nationalgovernment.co.za/units/view/335/flavius-mareka-tvet-college",
+    "type": "tvet-college"
+  },
+  {
+    "name": "Gert Sibande TVET College",
+    "detail_url": "https://nationalgovernment.co.za/units/view/336/gert-sibande-tvet-college",
+    "type": "tvet-college"
+  },
+  {
+    "name": "Goldfields TVET College",
+    "detail_url": "https://nationalgovernment.co.za/units/view/337/goldfields-tvet-college",
+    "type": "tvet-college"
+  },
+  {
+    "name": "Ikhala TVET College",
+    "detail_url": "https://nationalgovernment.co.za/units/view/309/ikhala-tvet-college",
+    "type": "tvet-college"
+  },
+  {
+    "name": "Ingwe TVET College",
+    "detail_url": "https://nationalgovernment.co.za/units/view/338/ingwe-tvet-college",
+    "type": "tvet-college"
+  },
+  {
+    "name": "King Hintsa TVET College",
+    "detail_url": "https://nationalgovernment.co.za/units/view/310/king-hintsa-tvet-college",
+    "type": "tvet-college"
+  },
+  {
+    "name": "King Sabata Dalindyebo TVET College",
+    "detail_url": "https://nationalgovernment.co.za/units/view/339/king-sabata-dalindyebo-tvet-college",
+    "type": "tvet-college"
+  },
+  {
+    "name": "Lephalale TVET College",
+    "detail_url": "https://nationalgovernment.co.za/units/view/340/lephalale-tvet-college",
+    "type": "tvet-college"
+  },
+  {
+    "name": "Letaba TVET College",
+    "detail_url": "https://nationalgovernment.co.za/units/view/311/letaba-tvet-college",
+    "type": "tvet-college"
+  },
+  {
+    "name": "Lovedale TVET College",
+    "detail_url": "https://nationalgovernment.co.za/units/view/312/lovedale-tvet-college",
+    "type": "tvet-college"
+  },
+  {
+    "name": "Majuba TVET College",
+    "detail_url": "https://nationalgovernment.co.za/units/view/341/majuba-tvet-college",
+    "type": "tvet-college"
+  },
+  {
+    "name": "Maluti TVET College",
+    "detail_url": "https://nationalgovernment.co.za/units/view/313/maluti-tvet-college",
+    "type": "tvet-college"
+  },
+  {
+    "name": "Mnambithi TVET College",
+    "detail_url": "https://nationalgovernment.co.za/units/view/314/mnambithi-tvet-college",
+    "type": "tvet-college"
+  },
+  {
+    "name": "Mopani South TVET College",
+    "detail_url": "https://nationalgovernment.co.za/units/view/343/mopani-south-tvet-college",
+    "type": "tvet-college"
+  },
+  {
+    "name": "Motheo TVET College",
+    "detail_url": "https://nationalgovernment.co.za/units/view/344/motheo-tvet-college",
+    "type": "tvet-college"
+  },
+  {
+    "name": "Mthashana TVET College",
+    "detail_url": "https://nationalgovernment.co.za/units/view/345/mthashana-tvet-college",
+    "type": "tvet-college"
+  },
+  {
+    "name": "Nkangala TVET College",
+    "detail_url": "https://nationalgovernment.co.za/units/view/348/nkangala-tvet-college",
+    "type": "tvet-college"
+  },
+  {
+    "name": "Northern Cape Rural TVET College",
+    "detail_url": "https://nationalgovernment.co.za/units/view/350/northern-cape-rural-tvet-college",
+    "type": "tvet-college"
+  },
+  {
+    "name": "Northern Cape Urban TVET College",
+    "detail_url": "https://nationalgovernment.co.za/units/view/316/northern-cape-urban-tvet-college",
+    "type": "tvet-college"
+  },
+  {
+    "name": "Northlink TVET College",
+    "detail_url": "https://nationalgovernment.co.za/units/view/317/northlink-tvet-college",
+    "type": "tvet-college"
+  },
+  {
+    "name": "Orbit TVET College",
+    "detail_url": "https://nationalgovernment.co.za/units/view/318/orbit-tvet-college",
+    "type": "tvet-college"
+  },
+  {
+    "name": "Port Elizabeth TVET College",
+    "detail_url": "https://nationalgovernment.co.za/units/view/351/port-elizabeth-tvet-college",
+    "type": "tvet-college"
+  },
+  {
+    "name": "Sedibeng TVET College",
+    "detail_url": "https://nationalgovernment.co.za/units/view/353/sedibeng-tvet-college",
+    "type": "tvet-college"
+  },
+  {
+    "name": "Sekhukhune TVET College",
+    "detail_url": "https://nationalgovernment.co.za/units/view/354/sekhukhune-tvet-college",
+    "type": "tvet-college"
+  },
+  {
+    "name": "South Cape TVET College",
+    "detail_url": "https://nationalgovernment.co.za/units/view/355/south-cape-tvet-college",
+    "type": "tvet-college"
+  },
+  {
+    "name": "South West Gauteng TVET College",
+    "detail_url": "https://nationalgovernment.co.za/units/view/319/south-west-gauteng-tvet-college",
+    "type": "tvet-college"
+  },
+  {
+    "name": "Taletso TVET College",
+    "detail_url": "https://nationalgovernment.co.za/units/view/356/taletso-tvet-college",
+    "type": "tvet-college"
+  },
+  {
+    "name": "Thekwini TVET College",
+    "detail_url": "https://nationalgovernment.co.za/units/view/357/thekwini-tvet-college",
+    "type": "tvet-college"
+  },
+  {
+    "name": "Tshwane North TVET College",
+    "detail_url": "https://nationalgovernment.co.za/units/view/358/tshwane-north-tvet-college",
+    "type": "tvet-college"
+  },
+  {
+    "name": "Tshwane South TVET College",
+    "detail_url": "https://nationalgovernment.co.za/units/view/320/tshwane-south-tvet-college",
+    "type": "tvet-college"
+  },
+  {
+    "name": "Umfolozi TVET College",
+    "detail_url": "https://nationalgovernment.co.za/units/view/360/umfolozi-tvet-college",
+    "type": "tvet-college"
+  },
+  {
+    "name": "Umgungundlovu TVET College",
+    "detail_url": "https://nationalgovernment.co.za/units/view/361/umgungundlovu-tvet-college",
+    "type": "tvet-college"
+  },
+  {
+    "name": "Vhembe TVET College",
+    "detail_url": "https://nationalgovernment.co.za/units/view/376/vhembe-tvet-college",
+    "type": "tvet-college"
+  },
+  {
+    "name": "Vuselela TVET College",
+    "detail_url": "https://nationalgovernment.co.za/units/view/377/vuselela-tvet-college",
+    "type": "tvet-college"
+  },
+  {
+    "name": "Waterberg TVET College",
+    "detail_url": "https://nationalgovernment.co.za/units/view/379/waterberg-tvet-college",
+    "type": "tvet-college"
+  },
+  {
+    "name": "West Coast TVET College",
+    "detail_url": "https://nationalgovernment.co.za/units/view/380/west-coast-tvet-college",
+    "type": "tvet-college"
+  },
+  {
+    "name": "Western College for TVET",
+    "detail_url": "https://nationalgovernment.co.za/units/view/321/western-college-for-tvet",
+    "type": "tvet-college"
+  },
+  {
+    "name": "Agricultural Sector Education and Training Authority (AgriSETA)",
+    "detail_url": "https://nationalgovernment.co.za/units/view/199/agricultural-sector-education-and-training-authority-agriseta",
+    "type": "seta"
+  },
+  {
+    "name": "Banking Sector Education and Training Authority (BANKSETA)",
+    "detail_url": "https://nationalgovernment.co.za/units/view/201/banking-sector-education-and-training-authority-bankseta",
+    "type": "seta"
+  },
+  {
+    "name": "Chemical Industries Education and Training Authority (CHIETA)",
+    "detail_url": "https://nationalgovernment.co.za/units/view/206/chemical-industries-education-and-training-authority-chieta",
+    "type": "seta"
+  },
+  {
+    "name": "Construction Education and Training Authority (CETA)",
+    "detail_url": "https://nationalgovernment.co.za/units/view/209/construction-education-and-training-authority-ceta",
+    "type": "seta"
+  },
+  {
+    "name": "Culture, Arts, Tourism, Hospitality and Sport Sector Education and Training Authority (CATHSSETA)",
+    "detail_url": "https://nationalgovernment.co.za/units/view/215/culture-arts-tourism-hospitality-and-sport-sector-education-and-training-authority-cathsseta",
+    "type": "seta"
+  },
+  {
+    "name": "Education, Training and Development Practices Sector Education and Training Authority (ETDP SETA)",
+    "detail_url": "https://nationalgovernment.co.za/units/view/221/education-training-and-development-practices-sector-education-and-training-authority-etdp-seta",
+    "type": "seta"
+  },
+  {
+    "name": "Energy and Water Sector Education and Training Authority (EWSETA)",
+    "detail_url": "https://nationalgovernment.co.za/units/view/222/energy-and-water-sector-education-and-training-authority-ewseta",
+    "type": "seta"
+  },
+  {
+    "name": "Fibre Processing and Manufacturing Sector Education and Training Authority (FP&M SETA)",
+    "detail_url": "https://nationalgovernment.co.za/units/view/224/fibre-processing-and-manufacturing-sector-education-and-training-authority-fp-m-seta",
+    "type": "seta"
+  },
+  {
+    "name": "Finance and Accounting Services Sector Education and Training Authority (FASSET)",
+    "detail_url": "https://nationalgovernment.co.za/units/view/226/finance-and-accounting-services-sector-education-and-training-authority-fasset",
+    "type": "seta"
+  },
+  {
+    "name": "Food and Beverage Manufacturing Industry Sector Education and Training Authority (FoodBev SETA)",
+    "detail_url": "https://nationalgovernment.co.za/units/view/228/food-and-beverage-manufacturing-industry-sector-education-and-training-authority-foodbev-seta",
+    "type": "seta"
+  },
+  {
+    "name": "Health and Welfare Sector Education and Training Authority (HWSETA)",
+    "detail_url": "https://nationalgovernment.co.za/units/view/105/health-and-welfare-sector-education-and-training-authority-hwseta",
+    "type": "seta"
+  },
+  {
+    "name": "Insurance Sector Education and Training Authority (Inseta)",
+    "detail_url": "https://nationalgovernment.co.za/units/view/233/insurance-sector-education-and-training-authority-inseta",
+    "type": "seta"
+  },
+  {
+    "name": "Local Government Sector Education and Training Authority (LGSETA)",
+    "detail_url": "https://nationalgovernment.co.za/units/view/240/local-government-sector-education-and-training-authority-lgseta",
+    "type": "seta"
+  },
+  {
+    "name": "Manufacturing, Engineering and Related Services Sector Education and Training Authority (merSETA)",
+    "detail_url": "https://nationalgovernment.co.za/units/view/243/manufacturing-engineering-and-related-services-sector-education-and-training-authority-merseta",
+    "type": "seta"
+  },
+  {
+    "name": "Media, Information and Communication Technologies Sector Education and Training Authority (MICT SETA)",
+    "detail_url": "https://nationalgovernment.co.za/units/view/246/media-information-and-communication-technologies-sector-education-and-training-authority-mict-seta",
+    "type": "seta"
+  },
+  {
+    "name": "Mining Qualifications Authority (MQA)",
+    "detail_url": "https://nationalgovernment.co.za/units/view/120/mining-qualifications-authority-mqa",
+    "type": "seta"
+  },
+  {
+    "name": "Public Service Sector Education and Training Authority (PSETA)",
+    "detail_url": "https://nationalgovernment.co.za/units/view/271/public-service-sector-education-and-training-authority-pseta",
+    "type": "seta"
+  },
+  {
+    "name": "Safety and Security Sector Education and Training Authority (SASSETA)",
+    "detail_url": "https://nationalgovernment.co.za/units/view/156/safety-and-security-sector-education-and-training-authority-sasseta",
+    "type": "seta"
+  },
+  {
+    "name": "Services Sector Education and Training Authority (SSETA)",
+    "detail_url": "https://nationalgovernment.co.za/units/view/277/services-sector-education-and-training-authority-sseta",
+    "type": "seta"
+  },
+  {
+    "name": "Transport Education Training Authority (TETA)",
+    "detail_url": "https://nationalgovernment.co.za/units/view/291/transport-education-training-authority-teta",
+    "type": "seta"
+  },
+  {
+    "name": "Wholesale and Retail Sector Education and Training Authority (W&RSETA)",
+    "detail_url": "https://nationalgovernment.co.za/units/view/299/wholesale-and-retail-sector-education-and-training-authority-w-rseta",
+    "type": "seta"
+  }
+]

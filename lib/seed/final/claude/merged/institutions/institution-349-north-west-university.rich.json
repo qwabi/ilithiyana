@@ -1,0 +1,4586 @@
+{
+  "meta": {
+    "institution_id": "349",
+    "slug": "north-west-university",
+    "name": "North-West University",
+    "institution_type": "university",
+    "province": "North West",
+    "city": "Potchefstroom",
+    "official_website": "https://www.nwu.ac.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/349/north-west-university",
+    "application_url": "https://studies.nwu.ac.za/studies/apply",
+    "prospectus_url": null,
+    "nsfas_supported": true,
+    "distance_learning": null,
+    "accreditation": {
+      "dh et": "Accredited",
+      "saqa": "Registered"
+    },
+    "qualification_types": [
+      "Undergraduate",
+      "Postgraduate",
+      "Diploma",
+      "Certificate"
+    ]
+  },
+  "profile": {
+    "short_name": "NWU",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/0/02/North-West_University_logo.svg",
+    "motto": "Dit Begin Alles Hier (Afrikaans)",
+    "colors": [
+      "Purple",
+      "turquoise",
+      "grey"
+    ],
+    "student_count": 43642,
+    "nickname": "NWU",
+    "mascot": "Eagi (main mascot) Mafika, Pukki, Vuvu (siblings)"
+  },
+  "contact": {
+    "emails": [
+      "studies@nwu.ac.za",
+      "nwufundraising@nwu.ac.za"
+    ],
+    "phone_numbers": [
+      "018 299 1111/2222"
+    ],
+    "physical_address": "Building F1, 11 Hoffman Street, Potchefstroom, 2531",
+    "postal_address": "Private Bag X1290, Potchefstroom, 2520",
+    "socials": {
+      "facebook": "https://www.facebook.com/people/North-West-University/61554160037445/",
+      "instagram": "https://www.instagram.com/my_nwu/",
+      "linkedin": "",
+      "x": "https://twitter.com/theNWU",
+      "youtube": "https://www.youtube.com/c/NWUNorthWestUniversity"
+    }
+  },
+  "campuses": [
+    {
+      "name": "Mahikeng Campus",
+      "city": "Mahikeng",
+      "province": "North West",
+      "is_main": null,
+      "type": null,
+      "address": null,
+      "coordinates": {
+        "lat": null,
+        "lng": null
+      },
+      "contact": null
+    },
+    {
+      "name": "Potchefstroom Campus",
+      "city": "Potchefstroom",
+      "province": "North West",
+      "is_main": null,
+      "type": "main campus",
+      "address": null,
+      "coordinates": {
+        "lat": null,
+        "lng": null
+      },
+      "contact": null
+    },
+    {
+      "name": "Vanderbijlpark Campus",
+      "city": "Vanderbijlpark",
+      "province": "Gauteng",
+      "is_main": null,
+      "type": null,
+      "address": null,
+      "coordinates": {
+        "lat": null,
+        "lng": null
+      },
+      "contact": null
+    }
+  ],
+  "faculties": [
+    {
+      "id": "fac:4ab9d69980b9",
+      "name": "ACCOUNTING SCIENCES",
+      "overview": "SCHOOL OF ACCOUNTING SCIENCES",
+      "kind": "faculty"
+    },
+    {
+      "id": "fac:2e55c1d1f6d3",
+      "name": "COMMUNICATION",
+      "overview": "SCHOOL OF COMMUNICATION",
+      "kind": "faculty"
+    },
+    {
+      "id": "fac:caf0df3ace16",
+      "name": "ECONOMIC SCIENCES",
+      "overview": "SCHOOL OF ECONOMIC SCIENCES",
+      "kind": "faculty"
+    },
+    {
+      "id": "fac:5671113d0a21",
+      "name": "EDUCATION",
+      "overview": "FACULTY OF EDUCATION",
+      "kind": "faculty"
+    },
+    {
+      "id": "fac:0c3cb53051a4",
+      "name": "ENGINEERING",
+      "overview": "FACULTY OF ENGINEERING",
+      "kind": "faculty"
+    },
+    {
+      "id": "fac:8c16dd65e1e8",
+      "name": "GOVERNMENT STUDIES",
+      "overview": "SCHOOL OF GOVERNMENT STUDIES",
+      "kind": "faculty"
+    },
+    {
+      "id": "fac:e93ef9fdc0e3",
+      "name": "HEALTH",
+      "overview": "FACULTY OF HEALTH",
+      "kind": "faculty"
+    },
+    {
+      "id": "fac:513ac6190b2b",
+      "name": "HUMANITIES",
+      "overview": "FACULTY OF HUMANITIES",
+      "kind": "faculty"
+    },
+    {
+      "id": "fac:ef0650bdb757",
+      "name": "LANGUAGES",
+      "overview": "SCHOOL OF LANGUAGES",
+      "kind": "faculty"
+    },
+    {
+      "id": "fac:5628dfd339ca",
+      "name": "MANAGEMENT SCIENCES",
+      "overview": "SCHOOL OF MANAGEMENT SCIENCES",
+      "kind": "faculty"
+    },
+    {
+      "id": "fac:07129307b4dc",
+      "name": "MUSIC",
+      "overview": "SCHOOL OF MUSIC",
+      "kind": "faculty"
+    },
+    {
+      "id": "fac:6e78adfa6439",
+      "name": "NURSING",
+      "overview": "SCHOOL OF NURSING",
+      "kind": "faculty"
+    },
+    {
+      "id": "fac:c72e59321677",
+      "name": "PHARMACY",
+      "overview": "SCHOOL OF PHARMACY",
+      "kind": "faculty"
+    },
+    {
+      "id": "fac:0f7c3ecb9ee5",
+      "name": "PHILOSOPHY",
+      "overview": "SCHOOL OF PHILOSOPHY",
+      "kind": "faculty"
+    },
+    {
+      "id": "fac:d71be59ef867",
+      "name": "PSYCHOSOCIAL HEALTH",
+      "overview": "SCHOOL OF PSYCHOSOCIAL HEALTH",
+      "kind": "faculty"
+    },
+    {
+      "id": "fac:2c228f85862b",
+      "name": "SOCIAL SCIENCES",
+      "overview": "SCHOOL OF SOCIAL SCIENCES",
+      "kind": "faculty"
+    },
+    {
+      "id": "fac:1c3f23022ff8",
+      "name": "THEOLOGY",
+      "overview": "FACULTY OF THEOLOGY",
+      "kind": "faculty"
+    },
+    {
+      "id": "fac:385b9048dd2b",
+      "name": "TOURISM MANAGEMENT",
+      "overview": "SCHOOL OF TOURISM MANAGEMENT",
+      "kind": "faculty"
+    }
+  ],
+  "programmes": [
+    {
+      "id": "prog:92ce63c77989",
+      "name": "BA",
+      "normalized_name": "BA",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "COMMUNICATION",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:4dde9069e3fd",
+      "name": "BA (BA)",
+      "normalized_name": "BA (BA)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "COMMUNICATION",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:4c9f7eb4f431",
+      "name": "BA (BA) with Industrial and Organisational Psychology",
+      "normalized_name": "BA (BA) with Industrial and Organisational Psychology",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "ECONOMIC SCIENCES",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:22826b04d6f1",
+      "name": "BA in Ancient Languages as first qualification • NS(C) or NC(V) for degree studies, or",
+      "normalized_name": "BA in Ancient Languages as first qualification • NS(C) or NC(V) for degree studies, or",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "THEOLOGY",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:2b1df6daa7f5",
+      "name": "BA in Behavioural",
+      "normalized_name": "BA in Behavioural",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "PSYCHOSOCIAL HEALTH",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:7b22586d397f",
+      "name": "BA in Law (BA in Law)",
+      "normalized_name": "BA in Law (BA in Law)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "ENGINEERING",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:60637fb1c9bf",
+      "name": "BA in Law)",
+      "normalized_name": "BA in Law)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "ENGINEERING",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:878904a7408b",
+      "name": "BA in Pastoral Psychology as first",
+      "normalized_name": "BA in Pastoral Psychology as first",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "THEOLOGY",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:abefe6b56d16",
+      "name": "BA with Tourism Management • DURATION: 3 years 22 Mahikeng",
+      "normalized_name": "BA with Tourism Management • DURATION: 3 years 22 Mahikeng",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "TOURISM MANAGEMENT",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:8befec19e1bb",
+      "name": "Bachelor of Administration",
+      "normalized_name": "Bachelor of Administration",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "ECONOMIC SCIENCES",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:2bd56e0deed4",
+      "name": "Bachelor of Administration in Development and",
+      "normalized_name": "Bachelor of Administration in Development and",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "GOVERNMENT STUDIES",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:556d6da8d052",
+      "name": "Bachelor of Administration Industrial and Organisational Psychology",
+      "normalized_name": "Bachelor of Administration Industrial and Organisational Psychology",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "ECONOMIC SCIENCES",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:60d207d44778",
+      "name": "Bachelor of Consumer",
+      "normalized_name": "Bachelor of Consumer",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "PHARMACY",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:b23a8d2d6df0",
+      "name": "Bachelor of Divinity (BDiv)",
+      "normalized_name": "Bachelor of Divinity (BDiv)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "THEOLOGY",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:856ffb0aeaba",
+      "name": "Bachelor of Health Sciences",
+      "normalized_name": "Bachelor of Health Sciences",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "HEALTH",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:9e9ca70100e1",
+      "name": "Bachelor of Health Sciences in Occupational Hygiene",
+      "normalized_name": "Bachelor of Health Sciences in Occupational Hygiene",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "PHARMACY",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:24dbcc1f08eb",
+      "name": "Bachelor of Human Resource",
+      "normalized_name": "Bachelor of Human Resource",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "ECONOMIC SCIENCES",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": 22,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:f1a84c3ee458",
+      "name": "Bachelor of Philosophy (BPhil)",
+      "normalized_name": "Bachelor of Philosophy (BPhil)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "PHILOSOPHY",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:cbc76918ebb6",
+      "name": "Bachelor of Social",
+      "normalized_name": "Bachelor of Social",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "GOVERNMENT STUDIES",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:361a8389bf58",
+      "name": "Bachelor of Social Work Social Work • Level 4 (50-59%) for language of tuition",
+      "normalized_name": "Bachelor of Social Work Social Work • Level 4 (50-59%) for language of tuition",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "PSYCHOSOCIAL HEALTH",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:545c24d6f300",
+      "name": "BCom (BCom)",
+      "normalized_name": "BCom (BCom)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "ECONOMIC SCIENCES",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:6940ba533bd2",
+      "name": "BCom (BCom) Human Resource",
+      "normalized_name": "BCom (BCom) Human Resource",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "ECONOMIC SCIENCES",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": 22,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:b28fbfa0e750",
+      "name": "BCom (BCom) in Accounting • Mathematics level 3 (40-49%)",
+      "normalized_name": "BCom (BCom) in Accounting • Mathematics level 3 (40-49%)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "ACCOUNTING SCIENCES",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:113f23a8d1d3",
+      "name": "BCom (BCom) in Chartered Accountancy • Mathematics level 5 (60-59%) if the student",
+      "normalized_name": "BCom (BCom) in Chartered Accountancy • Mathematics level 5 (60-59%) if the student",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "ACCOUNTING SCIENCES",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:68b1ebb6c651",
+      "name": "BCom (BCom) in Chartered Accountancy • Mathematics level 5 (60-69%) if the student",
+      "normalized_name": "BCom (BCom) in Chartered Accountancy • Mathematics level 5 (60-69%) if the student",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "ACCOUNTING SCIENCES",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:ee45bf4df725",
+      "name": "BCom (BCom) in Financial Accountancy • Mathematics level 4 (50-59%)",
+      "normalized_name": "BCom (BCom) in Financial Accountancy • Mathematics level 4 (50-59%)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "ACCOUNTING SCIENCES",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:57a25b253750",
+      "name": "BCom (BCom) in Forensic Accountancy • Mathematics level 5 (60-69%) if the student",
+      "normalized_name": "BCom (BCom) in Forensic Accountancy • Mathematics level 5 (60-69%) if the student",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "ACCOUNTING SCIENCES",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:450b35f6f8ae",
+      "name": "BCom (BCom) in Industrial and Organisational Psychology",
+      "normalized_name": "BCom (BCom) in Industrial and Organisational Psychology",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "ECONOMIC SCIENCES",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": 22,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:767a7bb7d024",
+      "name": "BCom (BCom) in Management",
+      "normalized_name": "BCom (BCom) in Management",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "ACCOUNTING SCIENCES",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:f4132d72c974",
+      "name": "BCom (BCom) in Operations Research • Mathematics level 4 (50-59%)",
+      "normalized_name": "BCom (BCom) in Operations Research • Mathematics level 4 (50-59%)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "ECONOMIC SCIENCES",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:1ede6884e936",
+      "name": "BCom in Law",
+      "normalized_name": "BCom in Law",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "ENGINEERING",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:aec1a74c0ba3",
+      "name": "BCom in Law)",
+      "normalized_name": "BCom in Law)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "ENGINEERING",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:c590342b6c3d",
+      "name": "BEd",
+      "normalized_name": "BEd",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "EDUCATION",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:a1163c9eadc8",
+      "name": "BEd (BEd)",
+      "normalized_name": "BEd (BEd)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "EDUCATION",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:9ce1b755ea90",
+      "name": "BEd in Early",
+      "normalized_name": "BEd in Early",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "EDUCATION",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:74500751e533",
+      "name": "BEng",
+      "normalized_name": "BEng",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "ENGINEERING",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:b8af001d534b",
+      "name": "BNurs Nursing • Physical Sciences OR Mathematics OR Life Sciences on",
+      "normalized_name": "BNurs Nursing • Physical Sciences OR Mathematics OR Life Sciences on",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "NURSING",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:4127cc118e79",
+      "name": "BPharm",
+      "normalized_name": "BPharm",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "PHARMACY",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:42d46025d0d9",
+      "name": "BSc in Actuarial",
+      "normalized_name": "BSc in Actuarial",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "EDUCATION",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:d5b27a6855a1",
+      "name": "BSc in Agricultural Sciences",
+      "normalized_name": "BSc in Agricultural Sciences",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "EDUCATION",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:48099dacba48",
+      "name": "BSc in Biological",
+      "normalized_name": "BSc in Biological",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "EDUCATION",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:3b0e2ed9c2e6",
+      "name": "BSc in Business",
+      "normalized_name": "BSc in Business",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "EDUCATION",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:a9b6828a975e",
+      "name": "BSc in Business Analytics",
+      "normalized_name": "BSc in Business Analytics",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "EDUCATION",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:a05092a305c0",
+      "name": "BSc in Dietetics",
+      "normalized_name": "BSc in Dietetics",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "PHARMACY",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:dd94dbf34563",
+      "name": "BSc in Environmental Sciences",
+      "normalized_name": "BSc in Environmental Sciences",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "EDUCATION",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:09061c868d25",
+      "name": "BSc in Financial",
+      "normalized_name": "BSc in Financial",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "EDUCATION",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:bb379fe73a23",
+      "name": "BSc in Financial Mathematics",
+      "normalized_name": "BSc in Financial Mathematics",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "EDUCATION",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:364587a1825c",
+      "name": "BSc in Indigenous Knowledge Systems",
+      "normalized_name": "BSc in Indigenous Knowledge Systems",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "EDUCATION",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:d0b49c3cdd28",
+      "name": "BSc in Information Technology",
+      "normalized_name": "BSc in Information Technology",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "EDUCATION",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:74a779c5bd6b",
+      "name": "BSc in Mathematical Sciences",
+      "normalized_name": "BSc in Mathematical Sciences",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "EDUCATION",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:374f623ab9ff",
+      "name": "BSc in Quantitative Risk Management",
+      "normalized_name": "BSc in Quantitative Risk Management",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "EDUCATION",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:68aab1b26f8d",
+      "name": "BSc in Urban and Regional Planning",
+      "normalized_name": "BSc in Urban and Regional Planning",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "EDUCATION",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:98c6ec657d38",
+      "name": "BSc with Applied Mathematics and Chemistry",
+      "normalized_name": "BSc with Applied Mathematics and Chemistry",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "EDUCATION",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:d9d3a98e40fa",
+      "name": "BSc with Chemistry and Physics",
+      "normalized_name": "BSc with Chemistry and Physics",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "EDUCATION",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:fd79f3c6dd87",
+      "name": "BSocSci with Psychology • Level 4 (50-59%) for language of tuition",
+      "normalized_name": "BSocSci with Psychology • Level 4 (50-59%) for language of tuition",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "PSYCHOSOCIAL HEALTH",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:d0ac36efe56a",
+      "name": "Diploma in Animal",
+      "normalized_name": "Diploma in Animal",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "EDUCATION",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:1722b4180c66",
+      "name": "Diploma in Animal Health • English level 3",
+      "normalized_name": "Diploma in Animal Health • English level 3",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "EDUCATION",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:40b25d5cb217",
+      "name": "Diploma in Coaching",
+      "normalized_name": "Diploma in Coaching",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "HEALTH",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:f519bf865de2",
+      "name": "Diploma in Music",
+      "normalized_name": "Diploma in Music",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "MUSIC",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:8997fd6618b0",
+      "name": "Diploma in Plant Science • English level 3",
+      "normalized_name": "Diploma in Plant Science • English level 3",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "EDUCATION",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:8104d3a51bdc",
+      "name": "LLB",
+      "normalized_name": "LLB",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "ENGINEERING",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:99b9171302c2",
+      "name": "LLB (LLB)",
+      "normalized_name": "LLB (LLB)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "ENGINEERING",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:349:Degree|12fe17ce28a9|bachelor of education",
+      "name": "Bachelor of Education",
+      "normalized_name": null,
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:349:Degree|fc353263d323|bachelor of education (bed)",
+      "name": "Bachelor of Education (BEd)",
+      "normalized_name": null,
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:349:Degree|a4c7cf6732db|bachelor of engineering",
+      "name": "Bachelor of Engineering",
+      "normalized_name": null,
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:349:Degree|db15e57d0768|bachelor of laws",
+      "name": "Bachelor of Laws",
+      "normalized_name": null,
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:349:Degree|c7c6263d2d82|bachelor of laws (llb)",
+      "name": "Bachelor of Laws (LLB)",
+      "normalized_name": null,
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:349:Degree|693203046fb0|bachelor of nursing nursing • physical sciences or mathematics or life sciences ",
+      "name": "Bachelor of Nursing Nursing • Physical Sciences OR Mathematics OR Life Sciences on",
+      "normalized_name": null,
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:349:Degree|e5d244cd2013|bachelor of pharmacy",
+      "name": "Bachelor of Pharmacy",
+      "normalized_name": null,
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:349:Degree|9ef7056ea3c2|bachelor of social science with psychology • level 4 (50-59%) for language of tu",
+      "name": "Bachelor of Social Science with Psychology • Level 4 (50-59%) for language of tuition",
+      "normalized_name": null,
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    }
+  ],
+  "admission": {
+    "aps_name": null,
+    "aps_calculation_notes": null,
+    "minimum_aps_for_bachelors": null,
+    "minimum_aps_for_diplomas": null,
+    "minimum_entry_note": null,
+    "life_orientation_cap": null,
+    "aps_rules": [
+      {
+        "id": "aps:2b503e7a3549",
+        "scope": "institution",
+        "min_aps": 31,
+        "programme": null,
+        "excerpt": "APS of 31"
+      }
+    ],
+    "programme_requirements": [
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BSc in Dietetics",
+        "faculty_name": "PHARMACY",
+        "detail": "Subject requirements for BSc in Dietetics",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics level 5 / Mathematics on level 5"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 5,
+            "minimum_nsc_level": null,
+            "notes": "Physical Sciences on level 5"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "349",
+        "institution_name": "North-West University",
+        "source_file": "prospectuses/north-west-university.pdf",
+        "source_excerpt": "Bachelor of Science in",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:0d9030479c4c",
+        "institutionId": "349"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "Bachelor of Administration Industrial and Organisational Psychology",
+        "faculty_name": "ECONOMIC SCIENCES",
+        "detail": "Subject requirements for Bachelor of Administration Industrial and Organisational Psychology",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy level 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics level 3"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematical Literacy",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematical Literacy level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematical Literacy",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematical Literacy level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematical Literacy",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Mathematical Literacy level 5"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 3"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 3"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 4"
+            }
+          ]
+        ],
+        "institution_id": "349",
+        "institution_name": "North-West University",
+        "source_file": "prospectuses/north-west-university.pdf",
+        "source_excerpt": "Bachelor of Administration Industrial and",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:122842f0028d",
+        "institutionId": "349"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BA in Law (BA in Law)",
+        "faculty_name": "ENGINEERING",
+        "detail": "Subject requirements for BA in Law (BA in Law)",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics level 4"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "349",
+        "institution_name": "North-West University",
+        "source_file": "prospectuses/north-west-university.pdf",
+        "source_excerpt": "Bachelor of Arts in",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:211e7976673b",
+        "institutionId": "349"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "Bachelor of Social",
+        "faculty_name": "GOVERNMENT STUDIES",
+        "detail": "Subject requirements for Bachelor of Social",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy level 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics level 3"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "349",
+        "institution_name": "North-West University",
+        "source_file": "prospectuses/north-west-university.pdf",
+        "source_excerpt": "Bachelor of Social",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:21af9187faa2",
+        "institutionId": "349"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BSc in Financial Mathematics",
+        "faculty_name": "EDUCATION",
+        "detail": "Subject requirements for BSc in Financial Mathematics",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 6,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics level 6"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 5"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 6,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 6"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 5"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 6,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 6"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 4"
+            }
+          ]
+        ],
+        "institution_id": "349",
+        "institution_name": "North-West University",
+        "source_file": "prospectuses/north-west-university.pdf",
+        "source_excerpt": "Bachelor of Science in",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:29c4fbb87a0b",
+        "institutionId": "349"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "Diploma in Animal Health • English level 3",
+        "faculty_name": "EDUCATION",
+        "detail": "Subject requirements for Diploma in Animal Health • English level 3",
+        "subjects_compulsory": [
+          {
+            "subject": "Agricultural Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Agricultural Science level 4"
+          },
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Life Science level 3"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics level 3 / Mathematics level 4"
+          },
+          {
+            "subject": "Mathematics (Literacy)",
+            "minimum_percentage": 5,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics Literacy level 5"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Physical Science level 3"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "349",
+        "institution_name": "North-West University",
+        "source_file": "prospectuses/north-west-university.pdf",
+        "source_excerpt": "Diploma in Animal Health • English level 3",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:2d0bf19ad6f4",
+        "institutionId": "349"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BSc in Urban and Regional Planning",
+        "faculty_name": "EDUCATION",
+        "detail": "Subject requirements for BSc in Urban and Regional Planning",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 6,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics level 6"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Science level 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 5"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 5"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 5"
+            }
+          ]
+        ],
+        "institution_id": "349",
+        "institution_name": "North-West University",
+        "source_file": "prospectuses/north-west-university.pdf",
+        "source_excerpt": "Bachelor of Science in Urban and",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:31e4f6fb589c",
+        "institutionId": "349"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BCom (BCom) in Operations Research • Mathematics level 4 (50-59%)",
+        "faculty_name": "ECONOMIC SCIENCES",
+        "detail": "Subject requirements for BCom (BCom) in Operations Research • Mathematics level 4 (50-59%)",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy level 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics level 5"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 3"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 3"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 3"
+            }
+          ]
+        ],
+        "institution_id": "349",
+        "institution_name": "North-West University",
+        "source_file": "prospectuses/north-west-university.pdf",
+        "source_excerpt": "Bachelor of Commerce (BCom) in Operations Research • Mathematics level 4 (50-59%)",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:3238f7a8c4de",
+        "institutionId": "349"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BCom in Law)",
+        "faculty_name": "ENGINEERING",
+        "detail": "Subject requirements for BCom in Law)",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics level 4"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "349",
+        "institution_name": "North-West University",
+        "source_file": "prospectuses/north-west-university.pdf",
+        "source_excerpt": "BCom in Law)",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:335bdc582552",
+        "institutionId": "349"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "Diploma in Animal",
+        "faculty_name": "EDUCATION",
+        "detail": "Subject requirements for Diploma in Animal",
+        "subjects_compulsory": [
+          {
+            "subject": "Agricultural Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Agricultural Science level 4"
+          },
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Life Science level 3"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics level 3 / Mathematics level 4"
+          },
+          {
+            "subject": "Mathematics (Literacy)",
+            "minimum_percentage": 5,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics Literacy level 5"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Physical Science level 3"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "349",
+        "institution_name": "North-West University",
+        "source_file": "prospectuses/north-west-university.pdf",
+        "source_excerpt": "Diploma in Animal",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:37cde98b4d3c",
+        "institutionId": "349"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BA in Behavioural",
+        "faculty_name": "PSYCHOSOCIAL HEALTH",
+        "detail": "Subject requirements for BA in Behavioural",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics level 3"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "349",
+        "institution_name": "North-West University",
+        "source_file": "prospectuses/north-west-university.pdf",
+        "source_excerpt": "Bachelor of Arts in Behavioural",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:37e0ee6b47b8",
+        "institutionId": "349"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BSc with Applied Mathematics and Chemistry",
+        "faculty_name": "EDUCATION",
+        "detail": "Subject requirements for BSc with Applied Mathematics and Chemistry",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics level 5"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Science level 4"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "349",
+        "institution_name": "North-West University",
+        "source_file": "prospectuses/north-west-university.pdf",
+        "source_excerpt": "Bachelor of Science with Applied Mathematics and Chemistry",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:38a662f764b2",
+        "institutionId": "349"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BEng",
+        "faculty_name": "ENGINEERING",
+        "detail": "Subject requirements for BEng",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 65,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics at least 65%"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 65,
+            "minimum_nsc_level": null,
+            "notes": "Physical Science at least 65%"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "349",
+        "institution_name": "North-West University",
+        "source_file": "prospectuses/north-west-university.pdf",
+        "source_excerpt": "Bachelor of Engineering",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:3a7bb6fe808f",
+        "institutionId": "349"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "Diploma in Plant Science • English level 3",
+        "faculty_name": "EDUCATION",
+        "detail": "Subject requirements for Diploma in Plant Science • English level 3",
+        "subjects_compulsory": [
+          {
+            "subject": "Agricultural Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Agricultural Science level 4"
+          },
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Life Science level 3"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics level 3 / Mathematics level 4"
+          },
+          {
+            "subject": "Mathematics (Literacy)",
+            "minimum_percentage": 5,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics Literacy level 5"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Physical Science level 3"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 5"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics • Mathematics level 5"
+            }
+          ],
+          [
+            {
+              "subject": "Physical Sciences",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Physical Science level 3"
+            }
+          ],
+          [
+            {
+              "subject": "Physical Sciences",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Physical Science level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Physical Sciences",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Physical Science level 4"
+            }
+          ]
+        ],
+        "institution_id": "349",
+        "institution_name": "North-West University",
+        "source_file": "prospectuses/north-west-university.pdf",
+        "source_excerpt": "Diploma in Plant Science • English level 3",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:42d76142a0c1",
+        "institutionId": "349"
+      },
+      {
+        "rule_type": "aps_minimum",
+        "programme_name": "BCom (BCom) in Industrial and Organisational Psychology",
+        "faculty_name": "ECONOMIC SCIENCES",
+        "detail": "Minimum APS 22 for BCom (BCom) in Industrial and Organisational Psychology",
+        "aps_minimum": 22,
+        "institution_id": "349",
+        "institution_name": "North-West University",
+        "source_file": "prospectuses/north-west-university.pdf",
+        "source_excerpt": "Bachelor of Commerce (BCom) in Industrial and",
+        "extraction_confidence": 0.91,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "aps_minimum",
+        "id": "adm:43779c938739",
+        "institutionId": "349"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "LLB",
+        "faculty_name": "ENGINEERING",
+        "detail": "Subject requirements for LLB",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics level 3"
+          },
+          {
+            "subject": "Mathematics (Literacy)",
+            "minimum_percentage": 5,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics Literacy level 5"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "349",
+        "institution_name": "North-West University",
+        "source_file": "prospectuses/north-west-university.pdf",
+        "source_excerpt": "Bachelor of Laws",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:45431c297f95",
+        "institutionId": "349"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BCom (BCom) in Management",
+        "faculty_name": "ACCOUNTING SCIENCES",
+        "detail": "Subject requirements for BCom (BCom) in Management",
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Accounting • Mathematics level 3"
+          },
+          {
+            "subject": "Afrikaans",
+            "minimum_percentage": 5,
+            "minimum_nsc_level": null,
+            "notes": "Afrikaans / English level 5"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics level 5"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 3"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 5"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 6,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 6"
+            }
+          ]
+        ],
+        "institution_id": "349",
+        "institution_name": "North-West University",
+        "source_file": "prospectuses/north-west-university.pdf",
+        "source_excerpt": "Bachelor of Commerce (BCom) in Management",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:49e87d365d4a",
+        "institutionId": "349"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "Bachelor of Philosophy (BPhil)",
+        "faculty_name": "PHILOSOPHY",
+        "detail": "Subject requirements for Bachelor of Philosophy (BPhil)",
+        "subjects_compulsory": [
+          {
+            "subject": "Afrikaans",
+            "minimum_percentage": 12,
+            "minimum_nsc_level": null,
+            "notes": "Afrikaans HL level 4 / Afrikaans (AFLL): Gr. 12"
+          },
+          {
+            "subject": "Economics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Economics • DURATION: 3"
+          },
+          {
+            "subject": "Setswana",
+            "minimum_percentage": 12,
+            "minimum_nsc_level": null,
+            "notes": "Setswana • Setswana (SETM): Gr. 12"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Setswana",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Setswana FAL level 5"
+            }
+          ],
+          [
+            {
+              "subject": "Afrikaans",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Afrikaans FAL level 5"
+            }
+          ]
+        ],
+        "institution_id": "349",
+        "institution_name": "North-West University",
+        "source_file": "prospectuses/north-west-university.pdf",
+        "source_excerpt": "Bachelor of Philosophy (BPhil)",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:4c05dde6c1c7",
+        "institutionId": "349"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BCom (BCom)",
+        "faculty_name": "ECONOMIC SCIENCES",
+        "detail": "Subject requirements for BCom (BCom)",
+        "subjects_compulsory": [
+          {
+            "subject": "Economics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Economics • Mathematics level 3"
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy level 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics level 3"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "349",
+        "institution_name": "North-West University",
+        "source_file": "prospectuses/north-west-university.pdf",
+        "source_excerpt": "Bachelor of Commerce (BCom)",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:4e2d36d4f91b",
+        "institutionId": "349"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BSc in Business",
+        "faculty_name": "EDUCATION",
+        "detail": "Subject requirements for BSc in Business",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics level 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 5"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 6,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 6"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 5"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 6,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 6"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 5"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 6,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 6"
+            }
+          ]
+        ],
+        "institution_id": "349",
+        "institution_name": "North-West University",
+        "source_file": "prospectuses/north-west-university.pdf",
+        "source_excerpt": "Bachelor of Science in Business",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:52c5f02d788e",
+        "institutionId": "349"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BPharm",
+        "faculty_name": "PHARMACY",
+        "detail": "Subject requirements for BPharm",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics level 5 / Mathematics on level 5"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 5,
+            "minimum_nsc_level": null,
+            "notes": "Physical Sciences on level 5"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Physical Sciences",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Physical Sciences level 4"
+            }
+          ]
+        ],
+        "institution_id": "349",
+        "institution_name": "North-West University",
+        "source_file": "prospectuses/north-west-university.pdf",
+        "source_excerpt": "Bachelor of Pharmacy",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:5e11e356eb55",
+        "institutionId": "349"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BSc in Business Analytics",
+        "faculty_name": "EDUCATION",
+        "detail": "Subject requirements for BSc in Business Analytics",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 6,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics level 6"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 5"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 6,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 6"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 5"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 6,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 6"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 5"
+            }
+          ]
+        ],
+        "institution_id": "349",
+        "institution_name": "North-West University",
+        "source_file": "prospectuses/north-west-university.pdf",
+        "source_excerpt": "Bachelor of Science in",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:5eb47e2562df",
+        "institutionId": "349"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BEd (BEd)",
+        "faculty_name": "EDUCATION",
+        "detail": "Subject requirements for BEd (BEd)",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics level 3"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 4"
+            }
+          ]
+        ],
+        "institution_id": "349",
+        "institution_name": "North-West University",
+        "source_file": "prospectuses/north-west-university.pdf",
+        "source_excerpt": "Bachelor of Education (BEd)",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:6122b2fa46d2",
+        "institutionId": "349"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "LLB (LLB)",
+        "faculty_name": "ENGINEERING",
+        "detail": "Subject requirements for LLB (LLB)",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics level 3"
+          },
+          {
+            "subject": "Mathematics (Literacy)",
+            "minimum_percentage": 5,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics Literacy level 5"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "349",
+        "institution_name": "North-West University",
+        "source_file": "prospectuses/north-west-university.pdf",
+        "source_excerpt": "Bachelor of Laws (LLB)",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:67884a375da8",
+        "institutionId": "349"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BSc in Quantitative Risk Management",
+        "faculty_name": "EDUCATION",
+        "detail": "Subject requirements for BSc in Quantitative Risk Management",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics level 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 5"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 6,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 6"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 5"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 6,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 6"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 5"
+            }
+          ]
+        ],
+        "institution_id": "349",
+        "institution_name": "North-West University",
+        "source_file": "prospectuses/north-west-university.pdf",
+        "source_excerpt": "Bachelor of Science in",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:698b99de707f",
+        "institutionId": "349"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BSc in Indigenous Knowledge Systems",
+        "faculty_name": "EDUCATION",
+        "detail": "Subject requirements for BSc in Indigenous Knowledge Systems",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics level 4"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Science level 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 5"
+            }
+          ]
+        ],
+        "institution_id": "349",
+        "institution_name": "North-West University",
+        "source_file": "prospectuses/north-west-university.pdf",
+        "source_excerpt": "Bachelor of Science in",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:6cb272d1adae",
+        "institutionId": "349"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BCom (BCom) in Forensic Accountancy • Mathematics level 5 (60-69%) if the student",
+        "faculty_name": "ACCOUNTING SCIENCES",
+        "detail": "Subject requirements for BCom (BCom) in Forensic Accountancy • Mathematics level 5 (60-69%) if the student",
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Accounting • Mathematics level 3"
+          },
+          {
+            "subject": "Afrikaans",
+            "minimum_percentage": 5,
+            "minimum_nsc_level": null,
+            "notes": "Afrikaans / English level 5"
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 7,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy level 7"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics level 3"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 5"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 6,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 6"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 5"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 3"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 5"
+            }
+          ]
+        ],
+        "institution_id": "349",
+        "institution_name": "North-West University",
+        "source_file": "prospectuses/north-west-university.pdf",
+        "source_excerpt": "Bachelor of Commerce (BCom) in Forensic Accountancy • Mathematics level 5 (60-69%) if the student",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:70a056275b8b",
+        "institutionId": "349"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BSc in Financial",
+        "faculty_name": "EDUCATION",
+        "detail": "Subject requirements for BSc in Financial",
+        "subjects_compulsory": [
+          {
+            "subject": "Geography",
+            "minimum_percentage": 5,
+            "minimum_nsc_level": null,
+            "notes": "Geography • Mathematics level 5"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics level 5"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Science level 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 6,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 6"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 5"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 6,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 6"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 5"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 6,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 6"
+            }
+          ]
+        ],
+        "institution_id": "349",
+        "institution_name": "North-West University",
+        "source_file": "prospectuses/north-west-university.pdf",
+        "source_excerpt": "Bachelor of Science in Financial",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:7433b3fd1b86",
+        "institutionId": "349"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BSc in Information Technology",
+        "faculty_name": "EDUCATION",
+        "detail": "Subject requirements for BSc in Information Technology",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics level 3"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Physical Science level 3"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 3"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics • Mathematics level 5"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics • Mathematics level 5"
+            }
+          ],
+          [
+            {
+              "subject": "Physical Sciences",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Physical Science level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Physical Sciences",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Physical Science level 4"
+            }
+          ]
+        ],
+        "institution_id": "349",
+        "institution_name": "North-West University",
+        "source_file": "prospectuses/north-west-university.pdf",
+        "source_excerpt": "Bachelor of Science in",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:75200e8fbcb7",
+        "institutionId": "349"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BCom (BCom) in Chartered Accountancy • Mathematics level 5 (60-59%) if the student",
+        "faculty_name": "ACCOUNTING SCIENCES",
+        "detail": "Subject requirements for BCom (BCom) in Chartered Accountancy • Mathematics level 5 (60-59%) if the student",
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Accounting • Mathematics level 3"
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 7,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy level 7"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics level 3"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 5"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 6,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 6"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 3"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 3"
+            }
+          ]
+        ],
+        "institution_id": "349",
+        "institution_name": "North-West University",
+        "source_file": "prospectuses/north-west-university.pdf",
+        "source_excerpt": "Bachelor of Commerce (BCom) in Chartered Accountancy • Mathematics level 5 (60-59%) if the student",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:7803a8f3c92a",
+        "institutionId": "349"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "Bachelor of Health Sciences in Occupational Hygiene",
+        "faculty_name": "PHARMACY",
+        "detail": "Subject requirements for Bachelor of Health Sciences in Occupational Hygiene",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics level 5"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 3"
+            }
+          ]
+        ],
+        "institution_id": "349",
+        "institution_name": "North-West University",
+        "source_file": "prospectuses/north-west-university.pdf",
+        "source_excerpt": "Bachelor of Health Sciences in",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:7df97b96e2b7",
+        "institutionId": "349"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BCom (BCom) in Industrial and Organisational Psychology",
+        "faculty_name": "ECONOMIC SCIENCES",
+        "detail": "Subject requirements for BCom (BCom) in Industrial and Organisational Psychology",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics level 4"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "349",
+        "institution_name": "North-West University",
+        "source_file": "prospectuses/north-west-university.pdf",
+        "source_excerpt": "Bachelor of Commerce (BCom) in Industrial and",
+        "extraction_confidence": 0.91,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:824b23739f09",
+        "institutionId": "349"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BA in Law)",
+        "faculty_name": "ENGINEERING",
+        "detail": "Subject requirements for BA in Law)",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics level 4"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "349",
+        "institution_name": "North-West University",
+        "source_file": "prospectuses/north-west-university.pdf",
+        "source_excerpt": "BA in Law)",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:850a10a9f742",
+        "institutionId": "349"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BSc in Agricultural Sciences",
+        "faculty_name": "EDUCATION",
+        "detail": "Subject requirements for BSc in Agricultural Sciences",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics level 4"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Science level 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 5"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 5"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 5"
+            }
+          ]
+        ],
+        "institution_id": "349",
+        "institution_name": "North-West University",
+        "source_file": "prospectuses/north-west-university.pdf",
+        "source_excerpt": "Bachelor of Science in",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:8566efd85e7f",
+        "institutionId": "349"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BA (BA) with Industrial and Organisational Psychology",
+        "faculty_name": "ECONOMIC SCIENCES",
+        "detail": "Subject requirements for BA (BA) with Industrial and Organisational Psychology",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy level 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics level 3"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematical Literacy",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Mathematical Literacy level 5"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 4"
+            }
+          ]
+        ],
+        "institution_id": "349",
+        "institution_name": "North-West University",
+        "source_file": "prospectuses/north-west-university.pdf",
+        "source_excerpt": "Bachelor of Arts (BA) with Industrial and",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:8876bd03ec23",
+        "institutionId": "349"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BSc with Chemistry and Physics",
+        "faculty_name": "EDUCATION",
+        "detail": "Subject requirements for BSc with Chemistry and Physics",
+        "subjects_compulsory": [
+          {
+            "subject": "Agricultural Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Agricultural Science level 4"
+          },
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Life Science level 3"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics level 5"
+          },
+          {
+            "subject": "Mathematics (Literacy)",
+            "minimum_percentage": 5,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics Literacy level 5"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Physical Science level 3"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics • Mathematics level 5"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics • Mathematics level 5"
+            }
+          ],
+          [
+            {
+              "subject": "Physical Sciences",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Physical Science level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Physical Sciences",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Physical Science level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Physical Sciences",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Physical Science level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Physical Sciences",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Physical Science level 4"
+            }
+          ]
+        ],
+        "institution_id": "349",
+        "institution_name": "North-West University",
+        "source_file": "prospectuses/north-west-university.pdf",
+        "source_excerpt": "Bachelor of Science with Chemistry and Physics",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:8cb98e3b4d7f",
+        "institutionId": "349"
+      },
+      {
+        "rule_type": "aps_minimum",
+        "programme_name": "Bachelor of Human Resource",
+        "faculty_name": "ECONOMIC SCIENCES",
+        "detail": "Minimum APS 22 for Bachelor of Human Resource",
+        "aps_minimum": 22,
+        "institution_id": "349",
+        "institution_name": "North-West University",
+        "source_file": "prospectuses/north-west-university.pdf",
+        "source_excerpt": "Bachelor of Human Resource",
+        "extraction_confidence": 0.91,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "aps_minimum",
+        "id": "adm:94318377a2b6",
+        "institutionId": "349"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "Bachelor of Administration",
+        "faculty_name": "ECONOMIC SCIENCES",
+        "detail": "Subject requirements for Bachelor of Administration",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 6,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy level 6"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics level 3"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematical Literacy",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematical Literacy level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematical Literacy",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematical Literacy level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematical Literacy",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematical Literacy level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematical Literacy",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematical Literacy level 4"
+            }
+          ]
+        ],
+        "institution_id": "349",
+        "institution_name": "North-West University",
+        "source_file": "prospectuses/north-west-university.pdf",
+        "source_excerpt": "Bachelor of Administration",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:9470754e5c99",
+        "institutionId": "349"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BCom (BCom) Human Resource",
+        "faculty_name": "ECONOMIC SCIENCES",
+        "detail": "Subject requirements for BCom (BCom) Human Resource",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 5,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy level 5"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics level 4"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "349",
+        "institution_name": "North-West University",
+        "source_file": "prospectuses/north-west-university.pdf",
+        "source_excerpt": "Bachelor of Commerce (BCom) Human Resource",
+        "extraction_confidence": 0.91,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:9cefc475a533",
+        "institutionId": "349"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BSc in Mathematical Sciences",
+        "faculty_name": "EDUCATION",
+        "detail": "Subject requirements for BSc in Mathematical Sciences",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics level 3"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Science level 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics • Mathematics level 5"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics • Mathematics level 5"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics and Mathematics • Mathematics level 5"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 5"
+            }
+          ]
+        ],
+        "institution_id": "349",
+        "institution_name": "North-West University",
+        "source_file": "prospectuses/north-west-university.pdf",
+        "source_excerpt": "Bachelor of Science in",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:ad630fcb78c8",
+        "institutionId": "349"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BCom (BCom) in Chartered Accountancy • Mathematics level 5 (60-69%) if the student",
+        "faculty_name": "ACCOUNTING SCIENCES",
+        "detail": "Subject requirements for BCom (BCom) in Chartered Accountancy • Mathematics level 5 (60-69%) if the student",
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Accounting • Mathematics level 3"
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 7,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy level 7"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics level 3"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 5"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 6,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 6"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 3"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 3"
+            }
+          ]
+        ],
+        "institution_id": "349",
+        "institution_name": "North-West University",
+        "source_file": "prospectuses/north-west-university.pdf",
+        "source_excerpt": "Bachelor of Commerce (BCom) in Chartered Accountancy • Mathematics level 5 (60-69%) if the student",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:b684e457eeee",
+        "institutionId": "349"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "Bachelor of Administration in Development and",
+        "faculty_name": "GOVERNMENT STUDIES",
+        "detail": "Subject requirements for Bachelor of Administration in Development and",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy level 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics level 3"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "349",
+        "institution_name": "North-West University",
+        "source_file": "prospectuses/north-west-university.pdf",
+        "source_excerpt": "Bachelor of Administration in",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:c2f43fb0f4d3",
+        "institutionId": "349"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BSc in Actuarial",
+        "faculty_name": "EDUCATION",
+        "detail": "Subject requirements for BSc in Actuarial",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics level 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 5"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 6,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 6"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 5"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 5"
+            }
+          ]
+        ],
+        "institution_id": "349",
+        "institution_name": "North-West University",
+        "source_file": "prospectuses/north-west-university.pdf",
+        "source_excerpt": "Bachelor of Science in Actuarial",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:d39635333f1a",
+        "institutionId": "349"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BSc in Biological",
+        "faculty_name": "EDUCATION",
+        "detail": "Subject requirements for BSc in Biological",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics and Mathematics • Mathematics level 5"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Science level 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 5"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 5"
+            }
+          ]
+        ],
+        "institution_id": "349",
+        "institution_name": "North-West University",
+        "source_file": "prospectuses/north-west-university.pdf",
+        "source_excerpt": "Bachelor of Science in Biological",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:d4e423c6db68",
+        "institutionId": "349"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BA with Tourism Management • DURATION: 3 years 22 Mahikeng",
+        "faculty_name": "TOURISM MANAGEMENT",
+        "detail": "Subject requirements for BA with Tourism Management • DURATION: 3 years 22 Mahikeng",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 6,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy level 6"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics level 3"
+          },
+          {
+            "subject": "Tourism",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Tourism Management • DURATION: 3"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "349",
+        "institution_name": "North-West University",
+        "source_file": "prospectuses/north-west-university.pdf",
+        "source_excerpt": "Bachelor of Arts with Tourism Management • DURATION: 3 years 22 Mahikeng",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:d54b0a7f3280",
+        "institutionId": "349"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "Bachelor of Human Resource",
+        "faculty_name": "ECONOMIC SCIENCES",
+        "detail": "Subject requirements for Bachelor of Human Resource",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 6,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy level 6"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics level 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 3"
+            }
+          ]
+        ],
+        "institution_id": "349",
+        "institution_name": "North-West University",
+        "source_file": "prospectuses/north-west-university.pdf",
+        "source_excerpt": "Bachelor of Human Resource",
+        "extraction_confidence": 0.91,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:d7e652201cef",
+        "institutionId": "349"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BCom (BCom) in Financial Accountancy • Mathematics level 4 (50-59%)",
+        "faculty_name": "ACCOUNTING SCIENCES",
+        "detail": "Subject requirements for BCom (BCom) in Financial Accountancy • Mathematics level 4 (50-59%)",
+        "subjects_compulsory": [
+          {
+            "subject": "Afrikaans",
+            "minimum_percentage": 5,
+            "minimum_nsc_level": null,
+            "notes": "Afrikaans / English level 5"
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 7,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy level 7"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics level 3"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 3"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 5"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 6,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 6"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 5"
+            }
+          ]
+        ],
+        "institution_id": "349",
+        "institution_name": "North-West University",
+        "source_file": "prospectuses/north-west-university.pdf",
+        "source_excerpt": "Bachelor of Commerce (BCom) in Financial Accountancy • Mathematics level 4 (50-59%)",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:da3194140000",
+        "institutionId": "349"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BCom in Law",
+        "faculty_name": "ENGINEERING",
+        "detail": "Subject requirements for BCom in Law",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics level 4"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "349",
+        "institution_name": "North-West University",
+        "source_file": "prospectuses/north-west-university.pdf",
+        "source_excerpt": "Bachelor of Commerce in Law",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:df442fc918cd",
+        "institutionId": "349"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BSc in Environmental Sciences",
+        "faculty_name": "EDUCATION",
+        "detail": "Subject requirements for BSc in Environmental Sciences",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics level 4"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Science level 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 5"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 5"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 5"
+            }
+          ]
+        ],
+        "institution_id": "349",
+        "institution_name": "North-West University",
+        "source_file": "prospectuses/north-west-university.pdf",
+        "source_excerpt": "Bachelor of Science in",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:e8acb597ba16",
+        "institutionId": "349"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BCom (BCom) in Accounting • Mathematics level 3 (40-49%)",
+        "faculty_name": "ACCOUNTING SCIENCES",
+        "detail": "Subject requirements for BCom (BCom) in Accounting • Mathematics level 3 (40-49%)",
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Accounting • Mathematics level 3"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics level 3"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 5,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 5"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 6,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 6"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 3"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics level 4"
+            }
+          ]
+        ],
+        "institution_id": "349",
+        "institution_name": "North-West University",
+        "source_file": "prospectuses/north-west-university.pdf",
+        "source_excerpt": "Bachelor of Commerce (BCom) in Accounting • Mathematics level 3 (40-49%)",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:efb644dad1ef",
+        "institutionId": "349"
+      },
+      {
+        "rule_type": "aps_minimum",
+        "programme_name": "BCom (BCom) Human Resource",
+        "faculty_name": "ECONOMIC SCIENCES",
+        "detail": "Minimum APS 22 for BCom (BCom) Human Resource",
+        "aps_minimum": 22,
+        "institution_id": "349",
+        "institution_name": "North-West University",
+        "source_file": "prospectuses/north-west-university.pdf",
+        "source_excerpt": "Bachelor of Commerce (BCom) Human Resource",
+        "extraction_confidence": 0.91,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "aps_minimum",
+        "id": "adm:f29737a62167",
+        "institutionId": "349"
+      }
+    ]
+  },
+  "sources": [
+    "enriched_universities.json",
+    "generated/v3/institutions.enriched.json",
+    "institutions.json"
+  ],
+  "_stats": {
+    "campuses_count": 3,
+    "faculties_count": 18,
+    "programmes_count": 70,
+    "aps_rules_count": 1,
+    "adm_reqs_count": 51
+  }
+}

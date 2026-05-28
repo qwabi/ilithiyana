@@ -1,0 +1,31 @@
+{
+  "institution": {
+    "institution_id": "318",
+    "name": "Orbit TVET College",
+    "institution_type": "tvet-college",
+    "city": "Rustenburg",
+    "province": "North West",
+    "official_website": "http://www.orbitcollege.co.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/318/orbit-tvet-college",
+    "source_paths": [
+      "generated/v3/institutions.enriched.json",
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

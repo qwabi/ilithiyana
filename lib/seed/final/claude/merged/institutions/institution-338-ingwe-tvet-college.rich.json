@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "institution_id": "338",
+    "slug": "ingwe-tvet-college",
+    "name": "Ingwe TVET College",
+    "institution_type": "tvet-college",
+    "province": null,
+    "city": "Mount Frere",
+    "official_website": "https://www.ingwecollege.edu.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/338/ingwe-tvet-college",
+    "application_url": null,
+    "prospectus_url": null,
+    "nsfas_supported": null,
+    "distance_learning": null,
+    "accreditation": {
+      "dh et": "Accredited",
+      "saqa": null
+    },
+    "qualification_types": [
+      "NC(V)",
+      "Nated (Report 191)",
+      "Skills Programmes",
+      "Apprenticeships"
+    ]
+  },
+  "profile": {},
+  "contact": {
+    "phone_numbers": [
+      "039 940 2142"
+    ],
+    "physical_address": "Badibanise Village, Mount Frere, 5090",
+    "postal_address": "PO Box 92491, Mount Frere, 5090",
+    "socials": {
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "x": "",
+      "youtube": ""
+    }
+  },
+  "campuses": [],
+  "faculties": [],
+  "programmes": [],
+  "admission": {
+    "aps_name": null,
+    "aps_calculation_notes": null,
+    "minimum_aps_for_bachelors": null,
+    "minimum_aps_for_diplomas": null,
+    "minimum_entry_note": null,
+    "life_orientation_cap": null,
+    "aps_rules": [],
+    "programme_requirements": []
+  },
+  "sources": [
+    "generated/v3/institutions.enriched.json",
+    "institutions.json"
+  ],
+  "_stats": {
+    "campuses_count": 0,
+    "faculties_count": 0,
+    "programmes_count": 0,
+    "aps_rules_count": 0,
+    "adm_reqs_count": 0
+  }
+}

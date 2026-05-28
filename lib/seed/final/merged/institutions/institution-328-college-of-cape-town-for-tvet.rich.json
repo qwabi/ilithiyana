@@ -1,0 +1,30 @@
+{
+  "institution": {
+    "institution_id": "328",
+    "name": "College of Cape Town for TVET",
+    "institution_type": "tvet-college",
+    "city": "Cape Town",
+    "province": "Western Cape",
+    "official_website": "https://www.cct.edu.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/328/college-of-cape-town-for-tvet",
+    "source_paths": [
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

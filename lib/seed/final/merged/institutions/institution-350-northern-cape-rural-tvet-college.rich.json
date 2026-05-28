@@ -1,0 +1,30 @@
+{
+  "institution": {
+    "institution_id": "350",
+    "name": "Northern Cape Rural TVET College",
+    "institution_type": "tvet-college",
+    "city": "Upington",
+    "province": "Northern Cape",
+    "official_website": "https://ncrtvet.com/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/350/northern-cape-rural-tvet-college",
+    "source_paths": [
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

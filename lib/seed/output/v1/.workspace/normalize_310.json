@@ -1,0 +1,68 @@
+{
+  "faculties": [],
+  "programmes": [
+    {
+      "id": "prog:310:NATED|3787633babc5|report 191",
+      "institutionId": "310",
+      "name": "REPORT 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/king-hintsa-tvet-college.pdf",
+      "sourceUrl": "https://www.khc.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/king-hintsa-tvet-college.pdf",
+        "char_start": 18175,
+        "char_end": 18185,
+        "excerpt": "REPORT 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:310:NATED|3787633babc5|report 191",
+      "institutionId": "310",
+      "name": "REPORT 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/king-hintsa-tvet-college.pdf",
+      "sourceUrl": "https://www.khc.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/king-hintsa-tvet-college.pdf",
+        "char_start": 18175,
+        "char_end": 18185,
+        "excerpt": "REPORT 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:310:NATED|3787633babc5|report 191",
+      "institutionId": "310",
+      "name": "REPORT 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/king-hintsa-tvet-college.pdf",
+      "sourceUrl": "https://www.khc.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/king-hintsa-tvet-college.pdf",
+        "char_start": 18175,
+        "char_end": 18185,
+        "excerpt": "REPORT 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    }
+  ],
+  "admissions_rules": [],
+  "aps_rules": [],
+  "llm_calls": 0
+}

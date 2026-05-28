@@ -1,0 +1,91 @@
+{
+  "meta": {
+    "institution_id": "313",
+    "slug": "maluti-tvet-college",
+    "name": "Maluti TVET College",
+    "institution_type": "tvet-college",
+    "province": null,
+    "city": "QwaQwa",
+    "official_website": "https://www.malutitvet.co.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/313/maluti-tvet-college",
+    "application_url": null,
+    "prospectus_url": null,
+    "nsfas_supported": true,
+    "distance_learning": null,
+    "accreditation": {
+      "dh et": "Accredited",
+      "saqa": null
+    },
+    "qualification_types": [
+      "NC(V)",
+      "Nated (Report 191)",
+      "Skills Programmes",
+      "Apprenticeships"
+    ]
+  },
+  "profile": {},
+  "contact": {
+    "emails": [
+      "malutitvet@whistleblowing.co.za"
+    ],
+    "phone_numbers": [
+      "058 713 6100"
+    ],
+    "physical_address": "Mampoi Road, Phuthaditjhaba, QwaQwa, 9866",
+    "postal_address": "Private Bag X870, Witsieshoek, 9870",
+    "socials": {
+      "facebook": "https://www.facebook.com/profile.php?id=100004993698770&fref=ts",
+      "instagram": "",
+      "linkedin": "",
+      "x": "https://twitter.com/MalutiTvet",
+      "youtube": "https://www.youtube.com/channel/UCmkclsBzjpRFa4HMlLRjTHQ"
+    }
+  },
+  "campuses": [],
+  "faculties": [],
+  "programmes": [
+    {
+      "id": "prog:313:Degree|970f519c2cad|ba",
+      "name": "bA",
+      "normalized_name": null,
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    }
+  ],
+  "admission": {
+    "aps_name": null,
+    "aps_calculation_notes": null,
+    "minimum_aps_for_bachelors": null,
+    "minimum_aps_for_diplomas": null,
+    "minimum_entry_note": null,
+    "life_orientation_cap": null,
+    "aps_rules": [],
+    "programme_requirements": []
+  },
+  "sources": [
+    "institutions.json"
+  ],
+  "_stats": {
+    "campuses_count": 0,
+    "faculties_count": 0,
+    "programmes_count": 1,
+    "aps_rules_count": 0,
+    "adm_reqs_count": 0
+  }
+}

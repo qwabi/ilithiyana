@@ -1,0 +1,30 @@
+{
+  "institution": {
+    "institution_id": "201",
+    "name": "Banking Sector Education and Training Authority (BANKSETA)",
+    "institution_type": "seta",
+    "city": "Centurion",
+    "province": "Gauteng",
+    "official_website": "https://bankseta.org.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/201/banking-sector-education-and-training-authority-bankseta",
+    "source_paths": [
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

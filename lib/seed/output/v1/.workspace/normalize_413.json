@@ -1,0 +1,2281 @@
+{
+  "faculties": [
+    {
+      "institutionId": "413",
+      "name": "Pharmacy",
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 676,
+        "char_end": 694,
+        "excerpt": "School of Pharmacy"
+      },
+      "normalization_key": "faculty|pharmacy"
+    },
+    {
+      "institutionId": "413",
+      "name": "Pharmacy provides training and education in pharmacy degree and non-degree programmes through excellence in",
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 23372,
+        "char_end": 23489,
+        "excerpt": "School of Pharmacy provides training and education in pharmacy degree and non-degree programmes through excellence in"
+      },
+      "normalization_key": "faculty|pharmacy provides training and education in pharmacy degree and non-degree programmes through excellence in"
+    },
+    {
+      "institutionId": "413",
+      "name": "Pharmacy Research Committee (SOPRC) Chairperson: Dr P Skosana",
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 24875,
+        "char_end": 24946,
+        "excerpt": "School of Pharmacy Research Committee (SOPRC) Chairperson: Dr P Skosana"
+      },
+      "normalization_key": "faculty|pharmacy research committee (soprc) chairperson: dr p skosana"
+    },
+    {
+      "institutionId": "413",
+      "name": "Pharmacy Post Graduate Committee Chairperson: Prof X Siwe Noundou",
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 25384,
+        "char_end": 25459,
+        "excerpt": "School of Pharmacy Post Graduate Committee Chairperson: Prof X Siwe Noundou"
+      },
+      "normalization_key": "faculty|pharmacy post graduate committee chairperson: prof x siwe noundou"
+    }
+  ],
+  "programmes": [
+    {
+      "id": "prog:413:Postgraduate|ae1c57fff8f2|master of pharmacy (mpharm) ....................................................",
+      "institutionId": "413",
+      "name": "MASTER OF PHARMACY (MPHARM) .................................................................................",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 14518,
+        "char_end": 14627,
+        "excerpt": "MASTER OF PHARMACY (MPHARM) ................................................................................."
+      },
+      "normalization_key": "Postgraduate|ae1c57fff8f2|master of pharmacy (mpharm) ...................................................."
+    },
+    {
+      "id": "prog:413:Postgraduate|0e759ddbf1ce|master of pharmacy in public health pharmacy and management ....................",
+      "institutionId": "413",
+      "name": "MASTER OF PHARMACY IN PUBLIC HEALTH PHARMACY AND MANAGEMENT .................................................",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 15805,
+        "char_end": 15914,
+        "excerpt": "MASTER OF PHARMACY IN PUBLIC HEALTH PHARMACY AND MANAGEMENT ................................................."
+      },
+      "normalization_key": "Postgraduate|0e759ddbf1ce|master of pharmacy in public health pharmacy and management ...................."
+    },
+    {
+      "id": "prog:413:Postgraduate|5336cadc9a24|master of pharmacy in radiopharmacy ............................................",
+      "institutionId": "413",
+      "name": "MASTER OF PHARMACY IN RADIOPHARMACY .........................................................................",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 16856,
+        "char_end": 16965,
+        "excerpt": "MASTER OF PHARMACY IN RADIOPHARMACY ........................................................................."
+      },
+      "normalization_key": "Postgraduate|5336cadc9a24|master of pharmacy in radiopharmacy ............................................"
+    },
+    {
+      "id": "prog:413:Postgraduate|46d95a52377e|phd degree programme ...........................................................",
+      "institutionId": "413",
+      "name": "PhD DEGREE PROGRAMME ..................................................................................",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 18664,
+        "char_end": 18767,
+        "excerpt": "PhD DEGREE PROGRAMME .................................................................................."
+      },
+      "normalization_key": "Postgraduate|46d95a52377e|phd degree programme ..........................................................."
+    },
+    {
+      "id": "prog:413:Degree|3dc45ff1ad86|bachelor of pharmacy (bpharm) programme .",
+      "institutionId": "413",
+      "name": "Bachelor of Pharmacy (BPharm) programme .",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 21319,
+        "char_end": 21360,
+        "excerpt": "Bachelor of Pharmacy (BPharm) programme ."
+      },
+      "normalization_key": "Degree|3dc45ff1ad86|bachelor of pharmacy (bpharm) programme ."
+    },
+    {
+      "id": "prog:413:Postgraduate|4ec4f0713a9c|diploma in pharmaceutical regulatory affairs. the professional masters degree qu",
+      "institutionId": "413",
+      "name": "Diploma in Pharmaceutical Regulatory Affairs. The professional Masters degree qualifications",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 21614,
+        "char_end": 21706,
+        "excerpt": "Diploma in Pharmaceutical Regulatory Affairs. The professional Masters degree qualifications"
+      },
+      "normalization_key": "Postgraduate|4ec4f0713a9c|diploma in pharmaceutical regulatory affairs. the professional masters degree qu"
+    },
+    {
+      "id": "prog:413:Postgraduate|7ebea6821632|masters of pharmacy in clinical pharmacy, and masters of pharmacy (mpharm) in pu",
+      "institutionId": "413",
+      "name": "Masters of Pharmacy in Clinical Pharmacy, and Masters of Pharmacy (MPharm) in Public Health",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 21733,
+        "char_end": 21824,
+        "excerpt": "Masters of Pharmacy in Clinical Pharmacy, and Masters of Pharmacy (MPharm) in Public Health"
+      },
+      "normalization_key": "Postgraduate|7ebea6821632|masters of pharmacy in clinical pharmacy, and masters of pharmacy (mpharm) in pu"
+    },
+    {
+      "id": "prog:413:Postgraduate|e25a427cd28c|masters of pharmacy degree programme in radiopharmacy offered at smu is the only",
+      "institutionId": "413",
+      "name": "Masters of Pharmacy degree programme in Radiopharmacy offered at SMU is the only",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 21854,
+        "char_end": 21934,
+        "excerpt": "Masters of Pharmacy degree programme in Radiopharmacy offered at SMU is the only"
+      },
+      "normalization_key": "Postgraduate|e25a427cd28c|masters of pharmacy degree programme in radiopharmacy offered at smu is the only"
+    },
+    {
+      "id": "prog:413:Postgraduate|ea61e4faa490|phd) degree in any discipline of the pharmacy profession, it also offers a profe",
+      "institutionId": "413",
+      "name": "PhD) degree in any discipline of the pharmacy profession, it also offers a professional doctoral progra",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 22178,
+        "char_end": 22281,
+        "excerpt": "PhD) degree in any discipline of the pharmacy profession, it also offers a professional doctoral progra"
+      },
+      "normalization_key": "Postgraduate|ea61e4faa490|phd) degree in any discipline of the pharmacy profession, it also offers a profe"
+    },
+    {
+      "id": "prog:413:Postgraduate|25175a1c1e44|doctorate in pharmacy (dpharm degree) as part of the university qualifications m",
+      "institutionId": "413",
+      "name": "Doctorate in Pharmacy (DPharm degree) as part of the university qualifications mix. School of Pharmacy boasts",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 22295,
+        "char_end": 22404,
+        "excerpt": "Doctorate in Pharmacy (DPharm degree) as part of the university qualifications mix. School of Pharmacy boasts"
+      },
+      "normalization_key": "Postgraduate|25175a1c1e44|doctorate in pharmacy (dpharm degree) as part of the university qualifications m"
+    },
+    {
+      "id": "prog:413:Postgraduate|10b86092bcd6|bsc (hons)",
+      "institutionId": "413",
+      "name": "BSc (Hons)",
+      "qualification_type": "Postgraduate",
+      "faculty": "Pharmacy Post Graduate Committee Chairperson: Prof X Siwe Noundou",
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 27561,
+        "char_end": 27571,
+        "excerpt": "BSc (Hons)"
+      },
+      "normalization_key": "Postgraduate|10b86092bcd6|bsc (hons)"
+    },
+    {
+      "id": "prog:413:Postgraduate|0f1833406d75|hons) (pharmacy) (liverpool jmu),",
+      "institutionId": "413",
+      "name": "Hons) (Pharmacy) (Liverpool JMU),",
+      "qualification_type": "Postgraduate",
+      "faculty": "Pharmacy Post Graduate Committee Chairperson: Prof X Siwe Noundou",
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 25596,
+        "char_end": 25629,
+        "excerpt": "Hons) (Pharmacy) (Liverpool JMU),"
+      },
+      "normalization_key": "Postgraduate|0f1833406d75|hons) (pharmacy) (liverpool jmu),"
+    },
+    {
+      "id": "prog:413:Postgraduate|0bb0b7a7a5d7|msc (ru) (pharmaceutics), phd (otago) (pharmaceutics)",
+      "institutionId": "413",
+      "name": "MSc (RU) (Pharmaceutics), PhD (Otago) (Pharmaceutics)",
+      "qualification_type": "Postgraduate",
+      "faculty": "Pharmacy Post Graduate Committee Chairperson: Prof X Siwe Noundou",
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 25630,
+        "char_end": 25683,
+        "excerpt": "MSc (RU) (Pharmaceutics), PhD (Otago) (Pharmaceutics)"
+      },
+      "normalization_key": "Postgraduate|0bb0b7a7a5d7|msc (ru) (pharmaceutics), phd (otago) (pharmaceutics)"
+    },
+    {
+      "id": "prog:413:Postgraduate|4b87b7663624|msc (med) pharmacy",
+      "institutionId": "413",
+      "name": "MSc (Med) Pharmacy",
+      "qualification_type": "Postgraduate",
+      "faculty": "Pharmacy Post Graduate Committee Chairperson: Prof X Siwe Noundou",
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 30644,
+        "char_end": 30662,
+        "excerpt": "MSc (Med) Pharmacy"
+      },
+      "normalization_key": "Postgraduate|4b87b7663624|msc (med) pharmacy"
+    },
+    {
+      "id": "prog:413:Postgraduate|b6f986594b60|honours business",
+      "institutionId": "413",
+      "name": "Honours Business",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 26016,
+        "char_end": 26032,
+        "excerpt": "Honours Business"
+      },
+      "normalization_key": "Postgraduate|b6f986594b60|honours business"
+    },
+    {
+      "id": "prog:413:Postgraduate|385312b57d86|mba (unisa)",
+      "institutionId": "413",
+      "name": "MBA (UNISA)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 26053,
+        "char_end": 26064,
+        "excerpt": "MBA (UNISA)"
+      },
+      "normalization_key": "Postgraduate|385312b57d86|mba (unisa)"
+    },
+    {
+      "id": "prog:413:Postgraduate|4b87b7663624|msc (med) pharmacy",
+      "institutionId": "413",
+      "name": "MSc (Med) Pharmacy",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 30644,
+        "char_end": 30662,
+        "excerpt": "MSc (Med) Pharmacy"
+      },
+      "normalization_key": "Postgraduate|4b87b7663624|msc (med) pharmacy"
+    },
+    {
+      "id": "prog:413:Postgraduate|79b1c0b46020|phd pharmacy (smu)",
+      "institutionId": "413",
+      "name": "PhD Pharmacy (SMU)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 26290,
+        "char_end": 26308,
+        "excerpt": "PhD Pharmacy (SMU)"
+      },
+      "normalization_key": "Postgraduate|79b1c0b46020|phd pharmacy (smu)"
+    },
+    {
+      "id": "prog:413:Postgraduate|639332696105|phd (smu)",
+      "institutionId": "413",
+      "name": "PhD (SMU)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 26425,
+        "char_end": 26434,
+        "excerpt": "PhD (SMU)"
+      },
+      "normalization_key": "Postgraduate|639332696105|phd (smu)"
+    },
+    {
+      "id": "prog:413:Postgraduate|0de7997a8ac9|phd (uwc)",
+      "institutionId": "413",
+      "name": "PhD (UWC)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 26904,
+        "char_end": 26913,
+        "excerpt": "PhD (UWC)"
+      },
+      "normalization_key": "Postgraduate|0de7997a8ac9|phd (uwc)"
+    },
+    {
+      "id": "prog:413:Degree|5f75057e98ee|bsc",
+      "institutionId": "413",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 104843,
+        "char_end": 104846,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:413:Postgraduate|b1dd60e60f5f|msc",
+      "institutionId": "413",
+      "name": "MSc",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 30496,
+        "char_end": 30499,
+        "excerpt": "MSc"
+      },
+      "normalization_key": "Postgraduate|b1dd60e60f5f|msc"
+    },
+    {
+      "id": "prog:413:Postgraduate|d5f283140bdd|phd (uj)",
+      "institutionId": "413",
+      "name": "PhD (UJ)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 26984,
+        "char_end": 26992,
+        "excerpt": "PhD (UJ)"
+      },
+      "normalization_key": "Postgraduate|d5f283140bdd|phd (uj)"
+    },
+    {
+      "id": "prog:413:Postgraduate|79bb04198a9b|msc (med)",
+      "institutionId": "413",
+      "name": "MSc (Med)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 27053,
+        "char_end": 27062,
+        "excerpt": "MSc (Med)"
+      },
+      "normalization_key": "Postgraduate|79bb04198a9b|msc (med)"
+    },
+    {
+      "id": "prog:413:Postgraduate|d794ed0ab31e|phd (medunsa)",
+      "institutionId": "413",
+      "name": "PhD (MEDUNSA)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 27074,
+        "char_end": 27087,
+        "excerpt": "PhD (MEDUNSA)"
+      },
+      "normalization_key": "Postgraduate|d794ed0ab31e|phd (medunsa)"
+    },
+    {
+      "id": "prog:413:Postgraduate|10b86092bcd6|bsc (hons)",
+      "institutionId": "413",
+      "name": "BSc (Hons)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 27561,
+        "char_end": 27571,
+        "excerpt": "BSc (Hons)"
+      },
+      "normalization_key": "Postgraduate|10b86092bcd6|bsc (hons)"
+    },
+    {
+      "id": "prog:413:Postgraduate|6b36c80f55a7|hons) chemistry (calabarnigeria),",
+      "institutionId": "413",
+      "name": "Hons) Chemistry (CalabarNigeria),",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 27124,
+        "char_end": 27157,
+        "excerpt": "Hons) Chemistry (CalabarNigeria),"
+      },
+      "normalization_key": "Postgraduate|6b36c80f55a7|hons) chemistry (calabarnigeria),"
+    },
+    {
+      "id": "prog:413:Postgraduate|cd09ea95f60d|msc (med) pharmac",
+      "institutionId": "413",
+      "name": "MSc (Med) Pharmac",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 27238,
+        "char_end": 27255,
+        "excerpt": "MSc (Med) Pharmac"
+      },
+      "normalization_key": "Postgraduate|cd09ea95f60d|msc (med) pharmac"
+    },
+    {
+      "id": "prog:413:Degree|970f519c2cad|ba",
+      "institutionId": "413",
+      "name": "BA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 29997,
+        "char_end": 29999,
+        "excerpt": "BA"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:413:Postgraduate|1d85592dbf85|msc. pharm (ru), pmpp",
+      "institutionId": "413",
+      "name": "MSc. Pharm (RU), PMPP",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 27302,
+        "char_end": 27323,
+        "excerpt": "MSc. Pharm (RU), PMPP"
+      },
+      "normalization_key": "Postgraduate|1d85592dbf85|msc. pharm (ru), pmpp"
+    },
+    {
+      "id": "prog:413:Postgraduate|e522bbc69590|phd (ru)",
+      "institutionId": "413",
+      "name": "PhD (RU)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 27336,
+        "char_end": 27344,
+        "excerpt": "PhD (RU)"
+      },
+      "normalization_key": "Postgraduate|e522bbc69590|phd (ru)"
+    },
+    {
+      "id": "prog:413:Postgraduate|7248624c3bb0|msc, phd (rhodes)",
+      "institutionId": "413",
+      "name": "MSc, PhD (Rhodes)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 27393,
+        "char_end": 27410,
+        "excerpt": "MSc, PhD (Rhodes)"
+      },
+      "normalization_key": "Postgraduate|7248624c3bb0|msc, phd (rhodes)"
+    },
+    {
+      "id": "prog:413:Degree|d7e1dc7a031a|bsc (biological sciences)",
+      "institutionId": "413",
+      "name": "BSc (Biological Sciences)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 27527,
+        "char_end": 27552,
+        "excerpt": "BSc (Biological Sciences)"
+      },
+      "normalization_key": "Degree|d7e1dc7a031a|bsc (biological sciences)"
+    },
+    {
+      "id": "prog:413:Postgraduate|10b86092bcd6|bsc (hons)",
+      "institutionId": "413",
+      "name": "BSc (Hons)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 27561,
+        "char_end": 27571,
+        "excerpt": "BSc (Hons)"
+      },
+      "normalization_key": "Postgraduate|10b86092bcd6|bsc (hons)"
+    },
+    {
+      "id": "prog:413:Postgraduate|f04f82bb3223|hons)-pharmacology (nwu) mpharm (smu)",
+      "institutionId": "413",
+      "name": "Hons)-Pharmacology (NWU) MPharm (SMU)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 27566,
+        "char_end": 27603,
+        "excerpt": "Hons)-Pharmacology (NWU) MPharm (SMU)"
+      },
+      "normalization_key": "Postgraduate|f04f82bb3223|hons)-pharmacology (nwu) mpharm (smu)"
+    },
+    {
+      "id": "prog:413:Degree|27ee74a11713|btech (pharmaceutical sciences)",
+      "institutionId": "413",
+      "name": "BTech (Pharmaceutical Sciences)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 27665,
+        "char_end": 27696,
+        "excerpt": "BTech (Pharmaceutical Sciences)"
+      },
+      "normalization_key": "Degree|27ee74a11713|btech (pharmaceutical sciences)"
+    },
+    {
+      "id": "prog:413:Degree|2ae2db42925c|bsc (molecular & life sciences)",
+      "institutionId": "413",
+      "name": "Bsc (Molecular & Life Sciences)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 27962,
+        "char_end": 27993,
+        "excerpt": "Bsc (Molecular & Life Sciences)"
+      },
+      "normalization_key": "Degree|2ae2db42925c|bsc (molecular & life sciences)"
+    },
+    {
+      "id": "prog:413:Degree|5f75057e98ee|bsc",
+      "institutionId": "413",
+      "name": "Bsc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 104843,
+        "char_end": 104846,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:413:Postgraduate|db28861bc1f2|hons (chemistry)",
+      "institutionId": "413",
+      "name": "Hons (Chemistry)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 27999,
+        "char_end": 28015,
+        "excerpt": "Hons (Chemistry)"
+      },
+      "normalization_key": "Postgraduate|db28861bc1f2|hons (chemistry)"
+    },
+    {
+      "id": "prog:413:Degree|5e2dbe75f85d|btech (chemistry)",
+      "institutionId": "413",
+      "name": "BTech (Chemistry)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 28084,
+        "char_end": 28101,
+        "excerpt": "BTech (Chemistry)"
+      },
+      "normalization_key": "Degree|5e2dbe75f85d|btech (chemistry)"
+    },
+    {
+      "id": "prog:413:Degree|2c3bbd231bb4|btech",
+      "institutionId": "413",
+      "name": "BTech",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 28212,
+        "char_end": 28217,
+        "excerpt": "BTech"
+      },
+      "normalization_key": "Degree|2c3bbd231bb4|btech"
+    },
+    {
+      "id": "prog:413:Postgraduate|b1dd60e60f5f|msc",
+      "institutionId": "413",
+      "name": "MSc",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 30496,
+        "char_end": 30499,
+        "excerpt": "MSc"
+      },
+      "normalization_key": "Postgraduate|b1dd60e60f5f|msc"
+    },
+    {
+      "id": "prog:413:Postgraduate|6d521b7080ce|phd (pharmaceutical",
+      "institutionId": "413",
+      "name": "PhD (Pharmaceutical",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 28543,
+        "char_end": 28562,
+        "excerpt": "PhD (Pharmaceutical"
+      },
+      "normalization_key": "Postgraduate|6d521b7080ce|phd (pharmaceutical"
+    },
+    {
+      "id": "prog:413:Postgraduate|28376977ae0f|mcom (uj) phd (smu)",
+      "institutionId": "413",
+      "name": "MCOM (UJ) PhD (SMU)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 28867,
+        "char_end": 28886,
+        "excerpt": "MCOM (UJ) PhD (SMU)"
+      },
+      "normalization_key": "Postgraduate|28376977ae0f|mcom (uj) phd (smu)"
+    },
+    {
+      "id": "prog:413:Postgraduate|8fad78a10929|msc (med) (smu)",
+      "institutionId": "413",
+      "name": "MSc (Med) (SMU)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 28924,
+        "char_end": 28939,
+        "excerpt": "MSc (Med) (SMU)"
+      },
+      "normalization_key": "Postgraduate|8fad78a10929|msc (med) (smu)"
+    },
+    {
+      "id": "prog:413:Postgraduate|4b87b7663624|msc (med) pharmacy",
+      "institutionId": "413",
+      "name": "MSc (Med) Pharmacy",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 30644,
+        "char_end": 30662,
+        "excerpt": "MSc (Med) Pharmacy"
+      },
+      "normalization_key": "Postgraduate|4b87b7663624|msc (med) pharmacy"
+    },
+    {
+      "id": "prog:413:Postgraduate|2805e0d2f4f8|phd (ul, medunsa)",
+      "institutionId": "413",
+      "name": "PhD (UL, Medunsa)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 29265,
+        "char_end": 29282,
+        "excerpt": "PhD (UL, Medunsa)"
+      },
+      "normalization_key": "Postgraduate|2805e0d2f4f8|phd (ul, medunsa)"
+    },
+    {
+      "id": "prog:413:Postgraduate|b1dd60e60f5f|msc",
+      "institutionId": "413",
+      "name": "MSc",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 30496,
+        "char_end": 30499,
+        "excerpt": "MSc"
+      },
+      "normalization_key": "Postgraduate|b1dd60e60f5f|msc"
+    },
+    {
+      "id": "prog:413:Postgraduate|753f76c4bd47|phd (ul)",
+      "institutionId": "413",
+      "name": "PhD (UL)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 29384,
+        "char_end": 29392,
+        "excerpt": "PhD (UL)"
+      },
+      "normalization_key": "Postgraduate|753f76c4bd47|phd (ul)"
+    },
+    {
+      "id": "prog:413:Degree|9232a1c0b25f|bachelor of public health (monash university),",
+      "institutionId": "413",
+      "name": "Bachelor of Public Health (Monash University),",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 29530,
+        "char_end": 29576,
+        "excerpt": "Bachelor of Public Health (Monash University),"
+      },
+      "normalization_key": "Degree|9232a1c0b25f|bachelor of public health (monash university),"
+    },
+    {
+      "id": "prog:413:Degree|e2da57c59d42|bsc (wits)",
+      "institutionId": "413",
+      "name": "BSc (Wits)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 29692,
+        "char_end": 29702,
+        "excerpt": "BSc (Wits)"
+      },
+      "normalization_key": "Degree|e2da57c59d42|bsc (wits)"
+    },
+    {
+      "id": "prog:413:Degree|5f75057e98ee|bsc",
+      "institutionId": "413",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 104843,
+        "char_end": 104846,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:413:Postgraduate|19912ec0c671|hons (wits), phd",
+      "institutionId": "413",
+      "name": "Hons (Wits), PhD",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 29708,
+        "char_end": 29724,
+        "excerpt": "Hons (Wits), PhD"
+      },
+      "normalization_key": "Postgraduate|19912ec0c671|hons (wits), phd"
+    },
+    {
+      "id": "prog:413:Degree|5f75057e98ee|bsc",
+      "institutionId": "413",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 104843,
+        "char_end": 104846,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:413:Postgraduate|0c2db2d9c990|phd",
+      "institutionId": "413",
+      "name": "PhD",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 30740,
+        "char_end": 30743,
+        "excerpt": "PhD"
+      },
+      "normalization_key": "Postgraduate|0c2db2d9c990|phd"
+    },
+    {
+      "id": "prog:413:Degree|970f519c2cad|ba",
+      "institutionId": "413",
+      "name": "BA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 29997,
+        "char_end": 29999,
+        "excerpt": "BA"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:413:Postgraduate|c6ac6046c810|hons public administration",
+      "institutionId": "413",
+      "name": "Hons Public Administration",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 30000,
+        "char_end": 30026,
+        "excerpt": "Hons Public Administration"
+      },
+      "normalization_key": "Postgraduate|c6ac6046c810|hons public administration"
+    },
+    {
+      "id": "prog:413:Postgraduate|6a9173654ed9|mphil local government",
+      "institutionId": "413",
+      "name": "MPhil Local Government",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 30052,
+        "char_end": 30074,
+        "excerpt": "MPhil Local Government"
+      },
+      "normalization_key": "Postgraduate|6a9173654ed9|mphil local government"
+    },
+    {
+      "id": "prog:413:Postgraduate|36aa43afd2f7|phd quality of",
+      "institutionId": "413",
+      "name": "PhD Quality of",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 30114,
+        "char_end": 30128,
+        "excerpt": "PhD Quality of"
+      },
+      "normalization_key": "Postgraduate|36aa43afd2f7|phd quality of"
+    },
+    {
+      "id": "prog:413:Postgraduate|258639801515|phd (mcgill university)",
+      "institutionId": "413",
+      "name": "PhD (McGill University)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 30212,
+        "char_end": 30235,
+        "excerpt": "PhD (McGill University)"
+      },
+      "normalization_key": "Postgraduate|258639801515|phd (mcgill university)"
+    },
+    {
+      "id": "prog:413:Degree|82c0182e4a47|bsc (pharm)",
+      "institutionId": "413",
+      "name": "BSc (Pharm)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 30267,
+        "char_end": 30278,
+        "excerpt": "BSc (Pharm)"
+      },
+      "normalization_key": "Degree|82c0182e4a47|bsc (pharm)"
+    },
+    {
+      "id": "prog:413:Postgraduate|d4177e9a51d6|msc (clinic. pharm), phd,",
+      "institutionId": "413",
+      "name": "MSc (Clinic. Pharm), PhD,",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 30280,
+        "char_end": 30305,
+        "excerpt": "MSc (Clinic. Pharm), PhD,"
+      },
+      "normalization_key": "Postgraduate|d4177e9a51d6|msc (clinic. pharm), phd,"
+    },
+    {
+      "id": "prog:413:Postgraduate|6506f82cbcd8|mphil (paed id) uct",
+      "institutionId": "413",
+      "name": "MPhil (Paed ID) UCT",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 30427,
+        "char_end": 30446,
+        "excerpt": "MPhil (Paed ID) UCT"
+      },
+      "normalization_key": "Postgraduate|6506f82cbcd8|mphil (paed id) uct"
+    },
+    {
+      "id": "prog:413:Postgraduate|b1dd60e60f5f|msc",
+      "institutionId": "413",
+      "name": "MSc",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 30496,
+        "char_end": 30499,
+        "excerpt": "MSc"
+      },
+      "normalization_key": "Postgraduate|b1dd60e60f5f|msc"
+    },
+    {
+      "id": "prog:413:Postgraduate|212f31dfc378|phd (university of manchester)",
+      "institutionId": "413",
+      "name": "PhD (University of Manchester)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 30548,
+        "char_end": 30578,
+        "excerpt": "PhD (University of Manchester)"
+      },
+      "normalization_key": "Postgraduate|212f31dfc378|phd (university of manchester)"
+    },
+    {
+      "id": "prog:413:Postgraduate|4b87b7663624|msc (med) pharmacy",
+      "institutionId": "413",
+      "name": "MSc (Med) Pharmacy",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 30644,
+        "char_end": 30662,
+        "excerpt": "MSc (Med) Pharmacy"
+      },
+      "normalization_key": "Postgraduate|4b87b7663624|msc (med) pharmacy"
+    },
+    {
+      "id": "prog:413:Postgraduate|0c2db2d9c990|phd",
+      "institutionId": "413",
+      "name": "PhD",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 30740,
+        "char_end": 30743,
+        "excerpt": "PhD"
+      },
+      "normalization_key": "Postgraduate|0c2db2d9c990|phd"
+    },
+    {
+      "id": "prog:413:Postgraduate|53ad1418e4f0|honours degrees",
+      "institutionId": "413",
+      "name": "Honours Degrees",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 53608,
+        "char_end": 53623,
+        "excerpt": "Honours degrees"
+      },
+      "normalization_key": "Postgraduate|53ad1418e4f0|honours degrees"
+    },
+    {
+      "id": "prog:413:Postgraduate|53ad1418e4f0|honours degrees",
+      "institutionId": "413",
+      "name": "Honours degrees",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 53608,
+        "char_end": 53623,
+        "excerpt": "Honours degrees"
+      },
+      "normalization_key": "Postgraduate|53ad1418e4f0|honours degrees"
+    },
+    {
+      "id": "prog:413:Diploma|83ab97717ed7|diploma in pharmaceutical regulatory affairs",
+      "institutionId": "413",
+      "name": "Diploma in Pharmaceutical Regulatory Affairs",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 344663,
+        "char_end": 344707,
+        "excerpt": "DIPLOMA IN PHARMACEUTICAL REGULATORY AFFAIRS"
+      },
+      "normalization_key": "Diploma|83ab97717ed7|diploma in pharmaceutical regulatory affairs"
+    },
+    {
+      "id": "prog:413:Postgraduate|70953ff43800|master of pharmacy mpharm mpra01 35",
+      "institutionId": "413",
+      "name": "Master of Pharmacy MPharm MPRA01 35",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 77384,
+        "char_end": 77419,
+        "excerpt": "Master of Pharmacy MPharm MPRA01 35"
+      },
+      "normalization_key": "Postgraduate|70953ff43800|master of pharmacy mpharm mpra01 35"
+    },
+    {
+      "id": "prog:413:Postgraduate|d19467e16b14|master of pharmacy in public health",
+      "institutionId": "413",
+      "name": "Master of Pharmacy in Public Health",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 77424,
+        "char_end": 77459,
+        "excerpt": "Master of Pharmacy in Public Health"
+      },
+      "normalization_key": "Postgraduate|d19467e16b14|master of pharmacy in public health"
+    },
+    {
+      "id": "prog:413:Postgraduate|dc9738e44c68|master of pharmacy in",
+      "institutionId": "413",
+      "name": "Master of Pharmacy in",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 77545,
+        "char_end": 77566,
+        "excerpt": "Master of Pharmacy in"
+      },
+      "normalization_key": "Postgraduate|dc9738e44c68|master of pharmacy in"
+    },
+    {
+      "id": "prog:413:Postgraduate|df67153cac5a|phd in pharmacy dhma05 46",
+      "institutionId": "413",
+      "name": "PhD in Pharmacy DHMA05 46",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 77649,
+        "char_end": 77674,
+        "excerpt": "PhD in Pharmacy DHMA05 46"
+      },
+      "normalization_key": "Postgraduate|df67153cac5a|phd in pharmacy dhma05 46"
+    },
+    {
+      "id": "prog:413:Degree|5f75057e98ee|bsc",
+      "institutionId": "413",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 104843,
+        "char_end": 104846,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:413:Degree|5f75057e98ee|bsc",
+      "institutionId": "413",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 104843,
+        "char_end": 104846,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:413:Postgraduate|4b97c5bf64d0|honours degree: one additional credit if achieved in minimum time without distin",
+      "institutionId": "413",
+      "name": "Honours Degree: one additional credit if achieved in minimum time without distinction (+2).",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 103453,
+        "char_end": 103544,
+        "excerpt": "Honours Degree: one additional credit if achieved in minimum time without distinction (+2)."
+      },
+      "normalization_key": "Postgraduate|4b97c5bf64d0|honours degree: one additional credit if achieved in minimum time without distin"
+    },
+    {
+      "id": "prog:413:Postgraduate|c01b1c9607ef|doctorate degree (+2)",
+      "institutionId": "413",
+      "name": "Doctorate degree (+2)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 103732,
+        "char_end": 103753,
+        "excerpt": "Doctorate degree (+2)"
+      },
+      "normalization_key": "Postgraduate|c01b1c9607ef|doctorate degree (+2)"
+    },
+    {
+      "id": "prog:413:Degree|5f75057e98ee|bsc",
+      "institutionId": "413",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 104843,
+        "char_end": 104846,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:413:Degree|5f75057e98ee|bsc",
+      "institutionId": "413",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 104843,
+        "char_end": 104846,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:413:Advanced Diploma|da750ccd643e|advanced diploma",
+      "institutionId": "413",
+      "name": "Advanced Diploma",
+      "qualification_type": "Advanced Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 112515,
+        "char_end": 112531,
+        "excerpt": "Advanced Diploma"
+      },
+      "normalization_key": "Advanced Diploma|da750ccd643e|advanced diploma"
+    },
+    {
+      "id": "prog:413:Postgraduate|a73b8c7a3d31|master of pharmacy (mpharm)",
+      "institutionId": "413",
+      "name": "MASTER OF PHARMACY (MPHARM)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 114971,
+        "char_end": 114998,
+        "excerpt": "MASTER OF PHARMACY (MPHARM)"
+      },
+      "normalization_key": "Postgraduate|a73b8c7a3d31|master of pharmacy (mpharm)"
+    },
+    {
+      "id": "prog:413:Postgraduate|d77525f477e9|master of pharmacy in public health pharmacy and management",
+      "institutionId": "413",
+      "name": "MASTER OF PHARMACY IN PUBLIC HEALTH PHARMACY AND MANAGEMENT",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 118176,
+        "char_end": 118235,
+        "excerpt": "MASTER OF PHARMACY IN PUBLIC HEALTH PHARMACY AND MANAGEMENT"
+      },
+      "normalization_key": "Postgraduate|d77525f477e9|master of pharmacy in public health pharmacy and management"
+    },
+    {
+      "id": "prog:413:Postgraduate|ff35a05089d4|master of pharmacy in radiopharmacy",
+      "institutionId": "413",
+      "name": "MASTER OF PHARMACY IN RADIOPHARMACY",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 317340,
+        "char_end": 317375,
+        "excerpt": "Master of Pharmacy in Radiopharmacy"
+      },
+      "normalization_key": "Postgraduate|ff35a05089d4|master of pharmacy in radiopharmacy"
+    },
+    {
+      "id": "prog:413:Postgraduate|7c0f2cf63f08|master of pharmacy in radiopharmacy (mprp01) curriculum consists of seven module",
+      "institutionId": "413",
+      "name": "Master of Pharmacy in Radiopharmacy (MPRP01) curriculum consists of seven modules detailed below:",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 125275,
+        "char_end": 125372,
+        "excerpt": "Master of Pharmacy in Radiopharmacy (MPRP01) curriculum consists of seven modules detailed below:"
+      },
+      "normalization_key": "Postgraduate|7c0f2cf63f08|master of pharmacy in radiopharmacy (mprp01) curriculum consists of seven module"
+    },
+    {
+      "id": "prog:413:Postgraduate|25e6e6c278bf|phd degree programme",
+      "institutionId": "413",
+      "name": "PhD DEGREE PROGRAMME",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 140474,
+        "char_end": 140494,
+        "excerpt": "PhD DEGREE PROGRAMME"
+      },
+      "normalization_key": "Postgraduate|25e6e6c278bf|phd degree programme"
+    },
+    {
+      "id": "prog:413:Postgraduate|5dc1466556b2|phd shall execute during not less than two academic years advanced research unde",
+      "institutionId": "413",
+      "name": "PhD shall execute during not less than two academic years advanced research under the",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 140636,
+        "char_end": 140721,
+        "excerpt": "PhD shall execute during not less than two academic years advanced research under the"
+      },
+      "normalization_key": "Postgraduate|5dc1466556b2|phd shall execute during not less than two academic years advanced research unde"
+    },
+    {
+      "id": "prog:413:Postgraduate|98b6f05f0157|msc or equivalent degree in pharmacy may be accepted for full -time study in the",
+      "institutionId": "413",
+      "name": "MSc or equivalent degree in Pharmacy may be accepted for full -time study in the fields of interest",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 141581,
+        "char_end": 141680,
+        "excerpt": "MSc or equivalent degree in Pharmacy may be accepted for full -time study in the fields of interest"
+      },
+      "normalization_key": "Postgraduate|98b6f05f0157|msc or equivalent degree in pharmacy may be accepted for full -time study in the"
+    },
+    {
+      "id": "prog:413:Postgraduate|3a578e28e007|phd shall execute during not less than two academic years of research work. the ",
+      "institutionId": "413",
+      "name": "PhD shall execute during not less than two academic years of research work. The research",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 141802,
+        "char_end": 141890,
+        "excerpt": "PhD shall execute during not less than two academic years of research work. The research"
+      },
+      "normalization_key": "Postgraduate|3a578e28e007|phd shall execute during not less than two academic years of research work. the "
+    },
+    {
+      "id": "prog:413:Postgraduate|ca3235a46614|phd student senate shall appoint a supervisor who shall have at least the same q",
+      "institutionId": "413",
+      "name": "PhD student Senate shall appoint a supervisor who shall have at least the same qualification,",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 142235,
+        "char_end": 142328,
+        "excerpt": "PhD student Senate shall appoint a supervisor who shall have at least the same qualification,"
+      },
+      "normalization_key": "Postgraduate|ca3235a46614|phd student senate shall appoint a supervisor who shall have at least the same q"
+    },
+    {
+      "id": "prog:413:Diploma|83ab97717ed7|diploma in pharmaceutical regulatory affairs",
+      "institutionId": "413",
+      "name": "DIPLOMA IN PHARMACEUTICAL REGULATORY AFFAIRS",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 344663,
+        "char_end": 344707,
+        "excerpt": "DIPLOMA IN PHARMACEUTICAL REGULATORY AFFAIRS"
+      },
+      "normalization_key": "Diploma|83ab97717ed7|diploma in pharmaceutical regulatory affairs"
+    },
+    {
+      "id": "prog:413:Diploma|83ab97717ed7|diploma in pharmaceutical regulatory affairs",
+      "institutionId": "413",
+      "name": "DIPLOMA IN PHARMACEUTICAL REGULATORY AFFAIRS",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 344663,
+        "char_end": 344707,
+        "excerpt": "DIPLOMA IN PHARMACEUTICAL REGULATORY AFFAIRS"
+      },
+      "normalization_key": "Diploma|83ab97717ed7|diploma in pharmaceutical regulatory affairs"
+    },
+    {
+      "id": "prog:413:Diploma|83ab97717ed7|diploma in pharmaceutical regulatory affairs",
+      "institutionId": "413",
+      "name": "DIPLOMA IN PHARMACEUTICAL REGULATORY AFFAIRS",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 344663,
+        "char_end": 344707,
+        "excerpt": "DIPLOMA IN PHARMACEUTICAL REGULATORY AFFAIRS"
+      },
+      "normalization_key": "Diploma|83ab97717ed7|diploma in pharmaceutical regulatory affairs"
+    },
+    {
+      "id": "prog:413:Diploma|83ab97717ed7|diploma in pharmaceutical regulatory affairs",
+      "institutionId": "413",
+      "name": "DIPLOMA IN PHARMACEUTICAL REGULATORY AFFAIRS",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 344663,
+        "char_end": 344707,
+        "excerpt": "DIPLOMA IN PHARMACEUTICAL REGULATORY AFFAIRS"
+      },
+      "normalization_key": "Diploma|83ab97717ed7|diploma in pharmaceutical regulatory affairs"
+    },
+    {
+      "id": "prog:413:Diploma|8ed093346d66|diploma in hospital pharmacy management programme",
+      "institutionId": "413",
+      "name": "DIPLOMA IN HOSPITAL PHARMACY MANAGEMENT PROGRAMME",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 234271,
+        "char_end": 234320,
+        "excerpt": "DIPLOMA IN HOSPITAL PHARMACY MANAGEMENT PROGRAMME"
+      },
+      "normalization_key": "Diploma|8ed093346d66|diploma in hospital pharmacy management programme"
+    },
+    {
+      "id": "prog:413:Diploma|83ab97717ed7|diploma in pharmaceutical regulatory affairs",
+      "institutionId": "413",
+      "name": "DIPLOMA IN PHARMACEUTICAL REGULATORY AFFAIRS",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 344663,
+        "char_end": 344707,
+        "excerpt": "DIPLOMA IN PHARMACEUTICAL REGULATORY AFFAIRS"
+      },
+      "normalization_key": "Diploma|83ab97717ed7|diploma in pharmaceutical regulatory affairs"
+    },
+    {
+      "id": "prog:413:Diploma|83ab97717ed7|diploma in pharmaceutical regulatory affairs",
+      "institutionId": "413",
+      "name": "DIPLOMA IN PHARMACEUTICAL REGULATORY AFFAIRS",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 344663,
+        "char_end": 344707,
+        "excerpt": "DIPLOMA IN PHARMACEUTICAL REGULATORY AFFAIRS"
+      },
+      "normalization_key": "Diploma|83ab97717ed7|diploma in pharmaceutical regulatory affairs"
+    },
+    {
+      "id": "prog:413:Diploma|83ab97717ed7|diploma in pharmaceutical regulatory affairs",
+      "institutionId": "413",
+      "name": "DIPLOMA IN PHARMACEUTICAL REGULATORY AFFAIRS",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 344663,
+        "char_end": 344707,
+        "excerpt": "DIPLOMA IN PHARMACEUTICAL REGULATORY AFFAIRS"
+      },
+      "normalization_key": "Diploma|83ab97717ed7|diploma in pharmaceutical regulatory affairs"
+    },
+    {
+      "id": "prog:413:Diploma|83ab97717ed7|diploma in pharmaceutical regulatory affairs",
+      "institutionId": "413",
+      "name": "DIPLOMA IN PHARMACEUTICAL REGULATORY AFFAIRS",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 344663,
+        "char_end": 344707,
+        "excerpt": "DIPLOMA IN PHARMACEUTICAL REGULATORY AFFAIRS"
+      },
+      "normalization_key": "Diploma|83ab97717ed7|diploma in pharmaceutical regulatory affairs"
+    },
+    {
+      "id": "prog:413:Diploma|83ab97717ed7|diploma in pharmaceutical regulatory affairs",
+      "institutionId": "413",
+      "name": "DIPLOMA IN PHARMACEUTICAL REGULATORY AFFAIRS",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 344663,
+        "char_end": 344707,
+        "excerpt": "DIPLOMA IN PHARMACEUTICAL REGULATORY AFFAIRS"
+      },
+      "normalization_key": "Diploma|83ab97717ed7|diploma in pharmaceutical regulatory affairs"
+    },
+    {
+      "id": "prog:413:Postgraduate|3fdbc4d341af|master of pharmacy in public health pharmacy and",
+      "institutionId": "413",
+      "name": "Master of Pharmacy in Public Health Pharmacy and",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 314844,
+        "char_end": 314892,
+        "excerpt": "Master of Pharmacy in Public Health Pharmacy and"
+      },
+      "normalization_key": "Postgraduate|3fdbc4d341af|master of pharmacy in public health pharmacy and"
+    },
+    {
+      "id": "prog:413:Postgraduate|3fdbc4d341af|master of pharmacy in public health pharmacy and",
+      "institutionId": "413",
+      "name": "Master of Pharmacy in Public Health Pharmacy and",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 314844,
+        "char_end": 314892,
+        "excerpt": "Master of Pharmacy in Public Health Pharmacy and"
+      },
+      "normalization_key": "Postgraduate|3fdbc4d341af|master of pharmacy in public health pharmacy and"
+    },
+    {
+      "id": "prog:413:Postgraduate|ff35a05089d4|master of pharmacy in radiopharmacy",
+      "institutionId": "413",
+      "name": "Master of Pharmacy in Radiopharmacy",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 317340,
+        "char_end": 317375,
+        "excerpt": "Master of Pharmacy in Radiopharmacy"
+      },
+      "normalization_key": "Postgraduate|ff35a05089d4|master of pharmacy in radiopharmacy"
+    },
+    {
+      "id": "prog:413:Diploma|83ab97717ed7|diploma in pharmaceutical regulatory affairs",
+      "institutionId": "413",
+      "name": "DIPLOMA IN PHARMACEUTICAL REGULATORY AFFAIRS",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 344663,
+        "char_end": 344707,
+        "excerpt": "DIPLOMA IN PHARMACEUTICAL REGULATORY AFFAIRS"
+      },
+      "normalization_key": "Diploma|83ab97717ed7|diploma in pharmaceutical regulatory affairs"
+    },
+    {
+      "id": "prog:413:Diploma|83ab97717ed7|diploma in pharmaceutical regulatory affairs",
+      "institutionId": "413",
+      "name": "DIPLOMA IN PHARMACEUTICAL REGULATORY AFFAIRS",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 344663,
+        "char_end": 344707,
+        "excerpt": "DIPLOMA IN PHARMACEUTICAL REGULATORY AFFAIRS"
+      },
+      "normalization_key": "Diploma|83ab97717ed7|diploma in pharmaceutical regulatory affairs"
+    },
+    {
+      "id": "prog:413:Diploma|83ab97717ed7|diploma in pharmaceutical regulatory affairs",
+      "institutionId": "413",
+      "name": "DIPLOMA IN PHARMACEUTICAL REGULATORY AFFAIRS",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 344663,
+        "char_end": 344707,
+        "excerpt": "DIPLOMA IN PHARMACEUTICAL REGULATORY AFFAIRS"
+      },
+      "normalization_key": "Diploma|83ab97717ed7|diploma in pharmaceutical regulatory affairs"
+    },
+    {
+      "id": "prog:413:Diploma|83ab97717ed7|diploma in pharmaceutical regulatory affairs",
+      "institutionId": "413",
+      "name": "DIPLOMA IN PHARMACEUTICAL REGULATORY AFFAIRS",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 344663,
+        "char_end": 344707,
+        "excerpt": "DIPLOMA IN PHARMACEUTICAL REGULATORY AFFAIRS"
+      },
+      "normalization_key": "Diploma|83ab97717ed7|diploma in pharmaceutical regulatory affairs"
+    },
+    {
+      "id": "prog:413:Diploma|83ab97717ed7|diploma in pharmaceutical regulatory affairs",
+      "institutionId": "413",
+      "name": "DIPLOMA IN PHARMACEUTICAL REGULATORY AFFAIRS",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 344663,
+        "char_end": 344707,
+        "excerpt": "DIPLOMA IN PHARMACEUTICAL REGULATORY AFFAIRS"
+      },
+      "normalization_key": "Diploma|83ab97717ed7|diploma in pharmaceutical regulatory affairs"
+    },
+    {
+      "id": "prog:413:Diploma|83ab97717ed7|diploma in pharmaceutical regulatory affairs",
+      "institutionId": "413",
+      "name": "DIPLOMA IN PHARMACEUTICAL REGULATORY AFFAIRS",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 344663,
+        "char_end": 344707,
+        "excerpt": "DIPLOMA IN PHARMACEUTICAL REGULATORY AFFAIRS"
+      },
+      "normalization_key": "Diploma|83ab97717ed7|diploma in pharmaceutical regulatory affairs"
+    },
+    {
+      "id": "prog:413:Diploma|83ab97717ed7|diploma in pharmaceutical regulatory affairs",
+      "institutionId": "413",
+      "name": "DIPLOMA IN PHARMACEUTICAL REGULATORY AFFAIRS",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 344663,
+        "char_end": 344707,
+        "excerpt": "DIPLOMA IN PHARMACEUTICAL REGULATORY AFFAIRS"
+      },
+      "normalization_key": "Diploma|83ab97717ed7|diploma in pharmaceutical regulatory affairs"
+    },
+    {
+      "id": "prog:413:Diploma|83ab97717ed7|diploma in pharmaceutical regulatory affairs",
+      "institutionId": "413",
+      "name": "DIPLOMA IN PHARMACEUTICAL REGULATORY AFFAIRS",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceUrl": "https://www.smu.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sefako-makgatho-health-sciences-university.pdf",
+        "char_start": 344663,
+        "char_end": 344707,
+        "excerpt": "DIPLOMA IN PHARMACEUTICAL REGULATORY AFFAIRS"
+      },
+      "normalization_key": "Diploma|83ab97717ed7|diploma in pharmaceutical regulatory affairs"
+    }
+  ],
+  "admissions_rules": [],
+  "aps_rules": [],
+  "llm_calls": 0
+}

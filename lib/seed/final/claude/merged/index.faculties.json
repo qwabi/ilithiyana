@@ -1,0 +1,2266 @@
+{
+  "total": 323,
+  "faculties": [
+    {
+      "institution_id": "347",
+      "institution_name": "Nelson Mandela Metropolitan University",
+      "province": "Eastern Cape",
+      "faculty_name": "EDUCATION",
+      "overview": "FACULTY OF EDUCATION"
+    },
+    {
+      "institution_id": "347",
+      "institution_name": "Nelson Mandela Metropolitan University",
+      "province": "Eastern Cape",
+      "faculty_name": "ENGINEERING",
+      "overview": "FACULTY OF ENGINEERING,"
+    },
+    {
+      "institution_id": "347",
+      "institution_name": "Nelson Mandela Metropolitan University",
+      "province": "Eastern Cape",
+      "faculty_name": "HEALTH SCIENCES",
+      "overview": "FACULTY OF HEALTH SCIENCES"
+    },
+    {
+      "institution_id": "347",
+      "institution_name": "Nelson Mandela Metropolitan University",
+      "province": "Eastern Cape",
+      "faculty_name": "HUMANITIES",
+      "overview": "FACULTY OF HUMANITIES"
+    },
+    {
+      "institution_id": "347",
+      "institution_name": "Nelson Mandela Metropolitan University",
+      "province": "Eastern Cape",
+      "faculty_name": "SCIENCE",
+      "overview": "FACULTY OF SCIENCE"
+    },
+    {
+      "institution_id": "347",
+      "institution_name": "Nelson Mandela Metropolitan University",
+      "province": "Eastern Cape",
+      "faculty_name": "Accounting",
+      "overview": "School of Accounting"
+    },
+    {
+      "institution_id": "347",
+      "institution_name": "Nelson Mandela Metropolitan University",
+      "province": "Eastern Cape",
+      "faculty_name": "Industrial Psychology and Human Resources",
+      "overview": "School of Industrial Psychology and Human Resources"
+    },
+    {
+      "institution_id": "347",
+      "institution_name": "Nelson Mandela Metropolitan University",
+      "province": "Eastern Cape",
+      "faculty_name": "Management Sciences",
+      "overview": "School of Management Sciences"
+    },
+    {
+      "institution_id": "347",
+      "institution_name": "Nelson Mandela Metropolitan University",
+      "province": "Eastern Cape",
+      "faculty_name": "Architecture",
+      "overview": "School of Architecture"
+    },
+    {
+      "institution_id": "347",
+      "institution_name": "Nelson Mandela Metropolitan University",
+      "province": "Eastern Cape",
+      "faculty_name": "the Built Environment and Civil Engineering",
+      "overview": "School of the Built Environment and Civil Engineering"
+    },
+    {
+      "institution_id": "347",
+      "institution_name": "Nelson Mandela Metropolitan University",
+      "province": "Eastern Cape",
+      "faculty_name": "Information Technology",
+      "overview": "School of Information Technology"
+    },
+    {
+      "institution_id": "347",
+      "institution_name": "Nelson Mandela Metropolitan University",
+      "province": "Eastern Cape",
+      "faculty_name": "Engineering, the Built Environment",
+      "overview": "Faculty of Engineering, the Built Environment"
+    },
+    {
+      "institution_id": "347",
+      "institution_name": "Nelson Mandela Metropolitan University",
+      "province": "Eastern Cape",
+      "faculty_name": "Behavioural and Lifestyle Sciences",
+      "overview": "School of Behavioural and Lifestyle Sciences"
+    },
+    {
+      "institution_id": "347",
+      "institution_name": "Nelson Mandela Metropolitan University",
+      "province": "Eastern Cape",
+      "faculty_name": "Clinical Care and Medicinal Sciences",
+      "overview": "School of Clinical Care and Medicinal Sciences"
+    },
+    {
+      "institution_id": "347",
+      "institution_name": "Nelson Mandela Metropolitan University",
+      "province": "Eastern Cape",
+      "faculty_name": "Medicine",
+      "overview": "School of Medicine"
+    },
+    {
+      "institution_id": "347",
+      "institution_name": "Nelson Mandela Metropolitan University",
+      "province": "Eastern Cape",
+      "faculty_name": "Visual and Performing Arts",
+      "overview": "School of Visual and Performing Arts"
+    },
+    {
+      "institution_id": "347",
+      "institution_name": "Nelson Mandela Metropolitan University",
+      "province": "Eastern Cape",
+      "faculty_name": "Language, Media and Communication",
+      "overview": "School of Language, Media and Communication"
+    },
+    {
+      "institution_id": "347",
+      "institution_name": "Nelson Mandela Metropolitan University",
+      "province": "Eastern Cape",
+      "faculty_name": "Governmental and Social Sciences",
+      "overview": "School of Governmental and Social Sciences"
+    },
+    {
+      "institution_id": "347",
+      "institution_name": "Nelson Mandela Metropolitan University",
+      "province": "Eastern Cape",
+      "faculty_name": "Business & Economic Sciences",
+      "overview": "Faculty of Business & Economic Sciences"
+    },
+    {
+      "institution_id": "347",
+      "institution_name": "Nelson Mandela Metropolitan University",
+      "province": "Eastern Cape",
+      "faculty_name": "Engineering, the Built Environment & Technology",
+      "overview": "Faculty of Engineering, the Built Environment & Technology"
+    },
+    {
+      "institution_id": "347",
+      "institution_name": "Nelson Mandela Metropolitan University",
+      "province": "Eastern Cape",
+      "faculty_name": "Engineering, Built Environment & Technology",
+      "overview": "Covers Mechatronics, Marine Engineering, and Architecture."
+    },
+    {
+      "institution_id": "347",
+      "institution_name": "Nelson Mandela Metropolitan University",
+      "province": "Eastern Cape",
+      "faculty_name": "Law",
+      "overview": "LLB and Law Enforcement qualifications."
+    },
+    {
+      "institution_id": "347",
+      "institution_name": "Nelson Mandela Metropolitan University",
+      "province": "Eastern Cape",
+      "faculty_name": "BUSINESS AND",
+      "overview": null
+    },
+    {
+      "institution_id": "347",
+      "institution_name": "Nelson Mandela Metropolitan University",
+      "province": "Eastern Cape",
+      "faculty_name": "Science: Natural Resource Science and Management Cluster",
+      "overview": null
+    },
+    {
+      "institution_id": "352",
+      "institution_name": "Rhodes University",
+      "province": "Eastern Cape",
+      "faculty_name": "Languages",
+      "overview": null
+    },
+    {
+      "institution_id": "352",
+      "institution_name": "Rhodes University",
+      "province": "Eastern Cape",
+      "faculty_name": "Commerce, Faculty of Pharmacy, Faculty of Education and Faculty of Law",
+      "overview": null
+    },
+    {
+      "institution_id": "363",
+      "institution_name": "University of Fort Hare",
+      "province": "Eastern Cape",
+      "faculty_name": "EDUCATION",
+      "overview": "FACULTY OF EDUCATION"
+    },
+    {
+      "institution_id": "363",
+      "institution_name": "University of Fort Hare",
+      "province": "Eastern Cape",
+      "faculty_name": "HEATH SCIENCES",
+      "overview": "FACULTY OF HEATH SCIENCES"
+    },
+    {
+      "institution_id": "363",
+      "institution_name": "University of Fort Hare",
+      "province": "Eastern Cape",
+      "faculty_name": "Law",
+      "overview": "Flagship LLB and BCom Law programmes."
+    },
+    {
+      "institution_id": "363",
+      "institution_name": "University of Fort Hare",
+      "province": "Eastern Cape",
+      "faculty_name": "Management & Commerce",
+      "overview": "Covers BCom Accounting (SAICA), Info Systems, and Public Admin."
+    },
+    {
+      "institution_id": "363",
+      "institution_name": "University of Fort Hare",
+      "province": "Eastern Cape",
+      "faculty_name": "Science & Agriculture",
+      "overview": "Extensive BSc and Bachelor of Agriculture offerings."
+    },
+    {
+      "institution_id": "363",
+      "institution_name": "University of Fort Hare",
+      "province": "Eastern Cape",
+      "faculty_name": "Social Science & Humanities",
+      "overview": "Arts, Music, Fine Art, and Social Sciences."
+    },
+    {
+      "institution_id": "363",
+      "institution_name": "University of Fort Hare",
+      "province": "Eastern Cape",
+      "faculty_name": "Health Sciences",
+      "overview": "Nursing and rehabilitative sciences."
+    },
+    {
+      "institution_id": "370",
+      "institution_name": "University of the Free State",
+      "province": "Free State",
+      "faculty_name": "Faculty of Economic and Management Sciences",
+      "overview": "FACULTY OF ECONOMIC AND MANAGEMENT SCIENCES Against the background of our mission to be a dynamic, innovative, and quality-driven faculty, the Faculty of Economic and Management Sciences covers a diverse academic spectrum – from public and private sector management to specialised education for aspirant professional accountants on undergraduate le"
+    },
+    {
+      "institution_id": "370",
+      "institution_name": "University of the Free State",
+      "province": "Free State",
+      "faculty_name": "Faculty of Education",
+      "overview": "FACULTY OF EDUCATION The Faculty of Education educates teachers in several disciplines. Our primary focus is to prepare you as pre- service teachers for your work in schools, ensuring that you have a strong disciplinary base for your professional work. In our undergraduate Bachelor of Education degree (offered in Foundation, Intermediate, or Senio"
+    },
+    {
+      "institution_id": "370",
+      "institution_name": "University of the Free State",
+      "province": "Free State",
+      "faculty_name": "Faculty of Health Sciences",
+      "overview": "FACULTY OF HEALTH SCIENCES The School of Clinical Medicine, School of Pathology, School of Biomedical Sciences, School of Nursing, and the School of Health and Rehabilitation Sciences are proud to offer you opportunities to obtain world-class qualifications in the health-care environment. Students in the Faculty of Health Sciences must be highly"
+    },
+    {
+      "institution_id": "370",
+      "institution_name": "University of the Free State",
+      "province": "Free State",
+      "faculty_name": "Faculty of Law",
+      "overview": "Bachelor of Laws (LLB) – four years BC340000 33 6 (70%) 4 (50%) 6 (70%) NOTE: Either Mathematics (50%) or Mathematical Literacy (70%) is required. 2323 UNIVERSITY OF THE FREE STATE | UNDERGRADUATE PROSPECTUS 202722 #Future Focused NATURAL SCIENCES Here, we constantly shift the frontiers of knowledge through fundamental research, innovation, and ne"
+    },
+    {
+      "institution_id": "370",
+      "institution_name": "University of the Free State",
+      "province": "Free State",
+      "faculty_name": "Faculty of Natural and Agricultural Sciences",
+      "overview": "FACULTY OF NATURAL AND AGRICULTURAL SCIENCES The Faculty of Natural and Agricultural Sciences is a vibrant faculty attracting both national and international students due to its stimulating curriculum and exciting research agenda. We are an engaged faculty whose interactions with its community are integrated with research and teaching. The facult"
+    },
+    {
+      "institution_id": "370",
+      "institution_name": "University of the Free State",
+      "province": "Free State",
+      "faculty_name": "Faculty of The Humanities",
+      "overview": "FACULTY OF THE HUMANITIES The primary purpose of a Humanities education is to give you access to critical thinking skills, appreciation of literature, understanding of cultures, the use of power, the mysteries of the mind, the organisation of societies, the complexities of leadership, the art of communication, and the challenge of change. All of"
+    },
+    {
+      "institution_id": "370",
+      "institution_name": "University of the Free State",
+      "province": "Free State",
+      "faculty_name": "Faculty of Theology and Religion",
+      "overview": "FACULTY OF THEOLOGY AND RELIGION UNIVERSITY OF THE FREE STATE | UNDERGRADUATE PROSPECTUS 202738 3939#Future Focused 4141 UNIVERSITY OF THE FREE STATE | UNDERGRADUATE PROSPECTUS 202740 #Future Focused GENERAL INFORMATION PROGRAMME NAME COST DURATION ACADEMIC LEVEL ADMISSION REQUIREMENTS ‘I AM’ EMPLOYEE WELLNESS R11 700 8 weeks 5 Admission requir"
+    },
+    {
+      "institution_id": "370",
+      "institution_name": "University of the Free State",
+      "province": "Free State",
+      "faculty_name": "Kovsie Phahamisa Academy",
+      "overview": "KOVSIE PHAHAMISA ACADEMY SHORT LEARNING PROGRAMMES 4343#Future Focused TO APPLY kpha.ufs.ac.za Programmes become available for registration prior to commencement; please keep an eye on the system for the relevant programmes. MODE OF DELIVERY: Programmes are offered via various modes, including distance, face-to-face, and blended. Contact Kovsie"
+    },
+    {
+      "institution_id": "370",
+      "institution_name": "University of the Free State",
+      "province": "Free State",
+      "faculty_name": "School of Clinical Medicine",
+      "overview": "SCHOOL OF CLINICAL MEDICINE II SCHOOL OF PATHOLOGY II SCHOOL OF BIOMEDICAL SCIENCES PROGRAMME DESCRIPTION MINIMUM ADMISSION REQUIREMENTS PROGRAMME ACADEMIC PLAN CODE AP ENGLISH MATHEMATICS LIFE SCIENCES PHYSICAL SCIENCES SUBJECT TO SELECTION Bachelor of Medical Science with specialisation in Radiation Science (BMedSc) BC831000 30 5"
+    },
+    {
+      "institution_id": "370",
+      "institution_name": "University of the Free State",
+      "province": "Free State",
+      "faculty_name": "School of Pathology",
+      "overview": "SCHOOL OF PATHOLOGY II SCHOOL OF BIOMEDICAL SCIENCES PROGRAMME DESCRIPTION MINIMUM ADMISSION REQUIREMENTS PROGRAMME ACADEMIC PLAN CODE AP ENGLISH MATHEMATICS LIFE SCIENCES PHYSICAL SCIENCES SUBJECT TO SELECTION Bachelor of Medical Science with specialisation in Radiation Science (BMedSc) BC831000 30 5 (60%) 5 (60%) 5 (60%) 5 (60%) Yes Bac"
+    },
+    {
+      "institution_id": "370",
+      "institution_name": "University of the Free State",
+      "province": "Free State",
+      "faculty_name": "School of Biomedical Sciences",
+      "overview": "SCHOOL OF BIOMEDICAL SCIENCES PROGRAMME DESCRIPTION MINIMUM ADMISSION REQUIREMENTS PROGRAMME ACADEMIC PLAN CODE AP ENGLISH MATHEMATICS LIFE SCIENCES PHYSICAL SCIENCES SUBJECT TO SELECTION Bachelor of Medical Science with specialisation in Radiation Science (BMedSc) BC831000 30 5 (60%) 5 (60%) 5 (60%) 5 (60%) Yes Bachelor of Medicine and Bachelo"
+    },
+    {
+      "institution_id": "370",
+      "institution_name": "University of the Free State",
+      "province": "Free State",
+      "faculty_name": "School of Health and Rehabilitation Sciences",
+      "overview": "SCHOOL OF HEALTH AND REHABILITATION SCIENCES PROGRAMME DESCRIPTION MINIMUM ADMISSION REQUIREMENTS PROGRAMME ACADEMIC PLAN CODE AP ENGLISH MATHEMATICS LIFE SCIENCES PHYSICAL SCIENCES SUBJECT TO SELECTION Bachelor of Optometry (BOptom) BC8413033 33 5 (60%) 4 (50%) 5 (60%) 5 (60%) Yes Bachelor of Science in Physiotherapy BSc (Physiotherapy) BC8420"
+    },
+    {
+      "institution_id": "370",
+      "institution_name": "University of the Free State",
+      "province": "Free State",
+      "faculty_name": "School of Nursing",
+      "overview": "SCHOOL OF NURSING PROGRAMME DESCRIPTION MINIMUM ADMISSION REQUIREMENTS PROGRAMME ACADEMIC PLAN CODE AP ENGLISH MATHEMATICS MATHEMATICAL LITERACY LIFE SCIENCES PHYSICAL SCIENCES SUBJECT TO SELECTION Bachelor of Nursing BC849000 30 4 (50%) 3 (40%) 6 (70%) 5 (60%) 4 (50%) Yes \u001f Either Mathematics or Mathematical Literacy is required. Either Life"
+    },
+    {
+      "institution_id": "370",
+      "institution_name": "University of the Free State",
+      "province": "Free State",
+      "faculty_name": "Theology and Religion 39",
+      "overview": null
+    },
+    {
+      "institution_id": "370",
+      "institution_name": "University of the Free State",
+      "province": "Free State",
+      "faculty_name": "Theology and Religion",
+      "overview": null
+    },
+    {
+      "institution_id": "370",
+      "institution_name": "University of the Free State",
+      "province": "Free State",
+      "faculty_name": "THE HUMANITIES",
+      "overview": null
+    },
+    {
+      "institution_id": "413",
+      "institution_name": "Sefako Makgatho Health Sciences University",
+      "province": "Gauteng",
+      "faculty_name": "Pharmacy Certificates Programmes",
+      "overview": null
+    },
+    {
+      "institution_id": "413",
+      "institution_name": "Sefako Makgatho Health Sciences University",
+      "province": "Gauteng",
+      "faculty_name": "Pharmacy",
+      "overview": "School of Pharmacy"
+    },
+    {
+      "institution_id": "364",
+      "institution_name": "University of Johannesburg",
+      "province": "Gauteng",
+      "faculty_name": "Accountancy",
+      "overview": "School of Accountancy"
+    },
+    {
+      "institution_id": "364",
+      "institution_name": "University of Johannesburg",
+      "province": "Gauteng",
+      "faculty_name": "Art, Design",
+      "overview": "Faculty of Art, Design"
+    },
+    {
+      "institution_id": "364",
+      "institution_name": "University of Johannesburg",
+      "province": "Gauteng",
+      "faculty_name": "Consumer Intelligence and Information Systems",
+      "overview": "School of Consumer Intelligence and Information Systems"
+    },
+    {
+      "institution_id": "364",
+      "institution_name": "University of Johannesburg",
+      "province": "Gauteng",
+      "faculty_name": "Economics",
+      "overview": "School of Economics"
+    },
+    {
+      "institution_id": "364",
+      "institution_name": "University of Johannesburg",
+      "province": "Gauteng",
+      "faculty_name": "Education",
+      "overview": "Faculty of Education"
+    },
+    {
+      "institution_id": "364",
+      "institution_name": "University of Johannesburg",
+      "province": "Gauteng",
+      "faculty_name": "Education. Thus for both the NASCA and SC(a) for",
+      "overview": "Faculty of Education. Thus for both the NASCA and SC(a) for"
+    },
+    {
+      "institution_id": "364",
+      "institution_name": "University of Johannesburg",
+      "province": "Gauteng",
+      "faculty_name": "Health Sciences",
+      "overview": "Faculty of Health Sciences"
+    },
+    {
+      "institution_id": "364",
+      "institution_name": "University of Johannesburg",
+      "province": "Gauteng",
+      "faculty_name": "Humanities",
+      "overview": "Faculty of Humanities"
+    },
+    {
+      "institution_id": "364",
+      "institution_name": "University of Johannesburg",
+      "province": "Gauteng",
+      "faculty_name": "Management",
+      "overview": "School of Management"
+    },
+    {
+      "institution_id": "364",
+      "institution_name": "University of Johannesburg",
+      "province": "Gauteng",
+      "faculty_name": "Public Management, Governance and Public Policy",
+      "overview": "School of Public Management, Governance and Public Policy"
+    },
+    {
+      "institution_id": "364",
+      "institution_name": "University of Johannesburg",
+      "province": "Gauteng",
+      "faculty_name": "Science",
+      "overview": "Faculty of Science"
+    },
+    {
+      "institution_id": "364",
+      "institution_name": "University of Johannesburg",
+      "province": "Gauteng",
+      "faculty_name": "Tourism and Hospitality",
+      "overview": "School of Tourism and Hospitality"
+    },
+    {
+      "institution_id": "364",
+      "institution_name": "University of Johannesburg",
+      "province": "Gauteng",
+      "faculty_name": "Engineering and",
+      "overview": null
+    },
+    {
+      "institution_id": "364",
+      "institution_name": "University of Johannesburg",
+      "province": "Gauteng",
+      "faculty_name": "Law also has various research institutes and",
+      "overview": null
+    },
+    {
+      "institution_id": "372",
+      "institution_name": "University of the Witwatersrand",
+      "province": "Gauteng",
+      "faculty_name": "Health Sciences Term Dates may vary",
+      "overview": null
+    },
+    {
+      "institution_id": "372",
+      "institution_name": "University of the Witwatersrand",
+      "province": "Gauteng",
+      "faculty_name": "Architecture and Planning",
+      "overview": "School of Architecture and Planning"
+    },
+    {
+      "institution_id": "372",
+      "institution_name": "University of the Witwatersrand",
+      "province": "Gauteng",
+      "faculty_name": "Architecture and Planning, which is monitored",
+      "overview": "School of Architecture and Planning, which is monitored"
+    },
+    {
+      "institution_id": "372",
+      "institution_name": "University of the Witwatersrand",
+      "province": "Gauteng",
+      "faculty_name": "Business Sciences",
+      "overview": "School of Business Sciences"
+    },
+    {
+      "institution_id": "372",
+      "institution_name": "University of the Witwatersrand",
+      "province": "Gauteng",
+      "faculty_name": "Chemical and Metallurgical Engineering",
+      "overview": "School of Chemical and Metallurgical Engineering"
+    },
+    {
+      "institution_id": "372",
+      "institution_name": "University of the Witwatersrand",
+      "province": "Gauteng",
+      "faculty_name": "Civil and Environmental Engineering",
+      "overview": "School of Civil and Environmental Engineering"
+    },
+    {
+      "institution_id": "372",
+      "institution_name": "University of the Witwatersrand",
+      "province": "Gauteng",
+      "faculty_name": "Commerce",
+      "overview": "Faculty of Commerce,"
+    },
+    {
+      "institution_id": "372",
+      "institution_name": "University of the Witwatersrand",
+      "province": "Gauteng",
+      "faculty_name": "Commerce, Law and Management",
+      "overview": "Faculty of Commerce, Law and Management"
+    },
+    {
+      "institution_id": "372",
+      "institution_name": "University of the Witwatersrand",
+      "province": "Gauteng",
+      "faculty_name": "Construction Economics",
+      "overview": "School of Construction Economics"
+    },
+    {
+      "institution_id": "372",
+      "institution_name": "University of the Witwatersrand",
+      "province": "Gauteng",
+      "faculty_name": "Construction Economics and Management",
+      "overview": "School of Construction Economics and Management"
+    },
+    {
+      "institution_id": "372",
+      "institution_name": "University of the Witwatersrand",
+      "province": "Gauteng",
+      "faculty_name": "Economics and Finance",
+      "overview": "School of Economics and Finance"
+    },
+    {
+      "institution_id": "372",
+      "institution_name": "University of the Witwatersrand",
+      "province": "Gauteng",
+      "faculty_name": "Electrical and Information Engineering",
+      "overview": "School of Electrical and Information Engineering"
+    },
+    {
+      "institution_id": "372",
+      "institution_name": "University of the Witwatersrand",
+      "province": "Gauteng",
+      "faculty_name": "Engineering and the Built",
+      "overview": "Faculty of Engineering and the"
+    },
+    {
+      "institution_id": "372",
+      "institution_name": "University of the Witwatersrand",
+      "province": "Gauteng",
+      "faculty_name": "Engineering and the Built Environment",
+      "overview": "Faculty of Engineering and the Built Environment"
+    },
+    {
+      "institution_id": "372",
+      "institution_name": "University of the Witwatersrand",
+      "province": "Gauteng",
+      "faculty_name": "Health Sciences",
+      "overview": "Faculty of Health Science"
+    },
+    {
+      "institution_id": "372",
+      "institution_name": "University of the Witwatersrand",
+      "province": "Gauteng",
+      "faculty_name": "Health Sciences Applicants who present with an NCV will not be considered",
+      "overview": "Faculty of Health Sciences Applicants who present with an NCV will not be considered."
+    },
+    {
+      "institution_id": "372",
+      "institution_name": "University of the Witwatersrand",
+      "province": "Gauteng",
+      "faculty_name": "Health Sciences are equipped with the relevant skills in order to",
+      "overview": "Faculty of Health Sciences are equipped with the relevant skills in order to"
+    },
+    {
+      "institution_id": "372",
+      "institution_name": "University of the Witwatersrand",
+      "province": "Gauteng",
+      "faculty_name": "Human and Community Development (SHCD)",
+      "overview": "School of Human and Community Development"
+    },
+    {
+      "institution_id": "372",
+      "institution_name": "University of the Witwatersrand",
+      "province": "Gauteng",
+      "faculty_name": "Humanities",
+      "overview": "Faculty of Humanities"
+    },
+    {
+      "institution_id": "372",
+      "institution_name": "University of the Witwatersrand",
+      "province": "Gauteng",
+      "faculty_name": "Law and place availability. Applicants who have",
+      "overview": "School of Law and place availability. Applicants who have"
+    },
+    {
+      "institution_id": "372",
+      "institution_name": "University of the Witwatersrand",
+      "province": "Gauteng",
+      "faculty_name": "Mathematics, the School of Computer Science and",
+      "overview": "School of Mathematics, the School of Computer Science and"
+    },
+    {
+      "institution_id": "372",
+      "institution_name": "University of the Witwatersrand",
+      "province": "Gauteng",
+      "faculty_name": "Mechanical, Industrial",
+      "overview": "School of Mechanical, Industrial"
+    },
+    {
+      "institution_id": "372",
+      "institution_name": "University of the Witwatersrand",
+      "province": "Gauteng",
+      "faculty_name": "Mechanical, Industrial and Aeronautical Engineering",
+      "overview": "School of Mechanical, Industrial and Aeronautical Engineering"
+    },
+    {
+      "institution_id": "372",
+      "institution_name": "University of the Witwatersrand",
+      "province": "Gauteng",
+      "faculty_name": "Mining Engineering",
+      "overview": "School of Mining Engineering"
+    },
+    {
+      "institution_id": "372",
+      "institution_name": "University of the Witwatersrand",
+      "province": "Gauteng",
+      "faculty_name": "Science",
+      "overview": "Faculty of Science"
+    },
+    {
+      "institution_id": "372",
+      "institution_name": "University of the Witwatersrand",
+      "province": "Gauteng",
+      "faculty_name": "Science (minimum of 144 credits)",
+      "overview": "Faculty of Science (minimum of 144 credits)"
+    },
+    {
+      "institution_id": "365",
+      "institution_name": "University of KwaZulu-Natal",
+      "province": "KwaZulu-Natal",
+      "faculty_name": "Arts",
+      "overview": null
+    },
+    {
+      "institution_id": "365",
+      "institution_name": "University of KwaZulu-Natal",
+      "province": "KwaZulu-Natal",
+      "faculty_name": "Engineering",
+      "overview": null
+    },
+    {
+      "institution_id": "365",
+      "institution_name": "University of KwaZulu-Natal",
+      "province": "KwaZulu-Natal",
+      "faculty_name": "Business",
+      "overview": null
+    },
+    {
+      "institution_id": "365",
+      "institution_name": "University of KwaZulu-Natal",
+      "province": "KwaZulu-Natal",
+      "faculty_name": "Nursing and Public",
+      "overview": "School of Nursing and Public"
+    },
+    {
+      "institution_id": "365",
+      "institution_name": "University of KwaZulu-Natal",
+      "province": "KwaZulu-Natal",
+      "faculty_name": "Medicine achieves this",
+      "overview": null
+    },
+    {
+      "institution_id": "366",
+      "institution_name": "University of Limpopo",
+      "province": "Limpopo",
+      "faculty_name": "Health Sciences",
+      "overview": null
+    },
+    {
+      "institution_id": "366",
+      "institution_name": "University of Limpopo",
+      "province": "Limpopo",
+      "faculty_name": "Management",
+      "overview": null
+    },
+    {
+      "institution_id": "366",
+      "institution_name": "University of Limpopo",
+      "province": "Limpopo",
+      "faculty_name": "Leadership",
+      "overview": null
+    },
+    {
+      "institution_id": "366",
+      "institution_name": "University of Limpopo",
+      "province": "Limpopo",
+      "faculty_name": "Sciences and Agriculture",
+      "overview": null
+    },
+    {
+      "institution_id": "366",
+      "institution_name": "University of Limpopo",
+      "province": "Limpopo",
+      "faculty_name": "ACCOUNTANCY",
+      "overview": "SCHOOL OF ACCOUNTANCY"
+    },
+    {
+      "institution_id": "366",
+      "institution_name": "University of Limpopo",
+      "province": "Limpopo",
+      "faculty_name": "ECONOMICS & MANAGEMENT",
+      "overview": "SCHOOL OF ECONOMICS & MANAGEMENT"
+    },
+    {
+      "institution_id": "366",
+      "institution_name": "University of Limpopo",
+      "province": "Limpopo",
+      "faculty_name": "EDUCATION",
+      "overview": "SCHOOL OF EDUCATION"
+    },
+    {
+      "institution_id": "366",
+      "institution_name": "University of Limpopo",
+      "province": "Limpopo",
+      "faculty_name": "HEALTH CARE SCIENCES",
+      "overview": "SCHOOL OF HEALTH CARE SCIENCES"
+    },
+    {
+      "institution_id": "366",
+      "institution_name": "University of Limpopo",
+      "province": "Limpopo",
+      "faculty_name": "HUMANITIES",
+      "overview": "FACULTY OF HUMANITIES"
+    },
+    {
+      "institution_id": "366",
+      "institution_name": "University of Limpopo",
+      "province": "Limpopo",
+      "faculty_name": "MANAGEMENT AND LAW",
+      "overview": "FACULTY OF MANAGEMENT & LAW"
+    },
+    {
+      "institution_id": "366",
+      "institution_name": "University of Limpopo",
+      "province": "Limpopo",
+      "faculty_name": "MEDICINE",
+      "overview": "SCHOOL OF MEDICINE"
+    },
+    {
+      "institution_id": "366",
+      "institution_name": "University of Limpopo",
+      "province": "Limpopo",
+      "faculty_name": "Molecular and Life",
+      "overview": "School of Molecular and Life"
+    },
+    {
+      "institution_id": "366",
+      "institution_name": "University of Limpopo",
+      "province": "Limpopo",
+      "faculty_name": "Physical and Mineral",
+      "overview": "School of Physical and Mineral"
+    },
+    {
+      "institution_id": "366",
+      "institution_name": "University of Limpopo",
+      "province": "Limpopo",
+      "faculty_name": "SCIENCE & AGRICULTURE",
+      "overview": "FACULTY OF SCIENCE & AGRICULTURE"
+    },
+    {
+      "institution_id": "366",
+      "institution_name": "University of Limpopo",
+      "province": "Limpopo",
+      "faculty_name": "SOCIAL SCIENCES",
+      "overview": "SCHOOL OF SOCIAL SCIENCES"
+    },
+    {
+      "institution_id": "366",
+      "institution_name": "University of Limpopo",
+      "province": "Limpopo",
+      "faculty_name": "Agricultural and",
+      "overview": null
+    },
+    {
+      "institution_id": "366",
+      "institution_name": "University of Limpopo",
+      "province": "Limpopo",
+      "faculty_name": "Computational and",
+      "overview": null
+    },
+    {
+      "institution_id": "373",
+      "institution_name": "University of Venda",
+      "province": "Limpopo",
+      "faculty_name": "Health Sciences Calendar",
+      "overview": null
+    },
+    {
+      "institution_id": "373",
+      "institution_name": "University of Venda",
+      "province": "Limpopo",
+      "faculty_name": "Human, Social Science and Education",
+      "overview": null
+    },
+    {
+      "institution_id": "373",
+      "institution_name": "University of Venda",
+      "province": "Limpopo",
+      "faculty_name": "Management, Commerce and LawDownload",
+      "overview": null
+    },
+    {
+      "institution_id": "373",
+      "institution_name": "University of Venda",
+      "province": "Limpopo",
+      "faculty_name": "Science, Engineering and Agriculture",
+      "overview": null
+    },
+    {
+      "institution_id": "373",
+      "institution_name": "University of Venda",
+      "province": "Limpopo",
+      "faculty_name": "Humanities, Social Science and Education",
+      "overview": null
+    },
+    {
+      "institution_id": "373",
+      "institution_name": "University of Venda",
+      "province": "Limpopo",
+      "faculty_name": "Health Sciences",
+      "overview": null
+    },
+    {
+      "institution_id": "373",
+      "institution_name": "University of Venda",
+      "province": "Limpopo",
+      "faculty_name": "Health SciencesDownload",
+      "overview": null
+    },
+    {
+      "institution_id": "373",
+      "institution_name": "University of Venda",
+      "province": "Limpopo",
+      "faculty_name": "Management, Commerce and Law",
+      "overview": null
+    },
+    {
+      "institution_id": "373",
+      "institution_name": "University of Venda",
+      "province": "Limpopo",
+      "faculty_name": "Science, Engineering and AgricultureDownload",
+      "overview": null
+    },
+    {
+      "institution_id": "373",
+      "institution_name": "University of Venda",
+      "province": "Limpopo",
+      "faculty_name": "HEAL TH SCIENCES",
+      "overview": "FACULTY OF HEAL TH SCIENCES"
+    },
+    {
+      "institution_id": "373",
+      "institution_name": "University of Venda",
+      "province": "Limpopo",
+      "faculty_name": "HEALTH",
+      "overview": "FACULTY OF HEALTH"
+    },
+    {
+      "institution_id": "373",
+      "institution_name": "University of Venda",
+      "province": "Limpopo",
+      "faculty_name": "HUMANITIES",
+      "overview": "FACULTY OF HUMANITIES,"
+    },
+    {
+      "institution_id": "373",
+      "institution_name": "University of Venda",
+      "province": "Limpopo",
+      "faculty_name": "HUMANITIES, SOCIAL",
+      "overview": "FACULTY OF HUMANITIES, SOCIAL"
+    },
+    {
+      "institution_id": "373",
+      "institution_name": "University of Venda",
+      "province": "Limpopo",
+      "faculty_name": "MANAGEMENT",
+      "overview": "FACULTY OF MANAGEMENT,"
+    },
+    {
+      "institution_id": "373",
+      "institution_name": "University of Venda",
+      "province": "Limpopo",
+      "faculty_name": "SCIENCE",
+      "overview": "FACULTY OF SCIENCE,"
+    },
+    {
+      "institution_id": "373",
+      "institution_name": "University of Venda",
+      "province": "Limpopo",
+      "faculty_name": "Science, Engineering and Agriculture; Faculty of",
+      "overview": "Faculty of Science, Engineering and Agriculture; Faculty of"
+    },
+    {
+      "institution_id": "373",
+      "institution_name": "University of Venda",
+      "province": "Limpopo",
+      "faculty_name": "Law: 1, Law Clinic: 1",
+      "overview": null
+    },
+    {
+      "institution_id": "373",
+      "institution_name": "University of Venda",
+      "province": "Limpopo",
+      "faculty_name": "Health Sciences: Prof TM Mulaudzi",
+      "overview": null
+    },
+    {
+      "institution_id": "349",
+      "institution_name": "North-West University",
+      "province": "North West",
+      "faculty_name": "ACCOUNTING SCIENCES",
+      "overview": "SCHOOL OF ACCOUNTING SCIENCES"
+    },
+    {
+      "institution_id": "349",
+      "institution_name": "North-West University",
+      "province": "North West",
+      "faculty_name": "COMMUNICATION",
+      "overview": "SCHOOL OF COMMUNICATION"
+    },
+    {
+      "institution_id": "349",
+      "institution_name": "North-West University",
+      "province": "North West",
+      "faculty_name": "ECONOMIC SCIENCES",
+      "overview": "SCHOOL OF ECONOMIC SCIENCES"
+    },
+    {
+      "institution_id": "349",
+      "institution_name": "North-West University",
+      "province": "North West",
+      "faculty_name": "EDUCATION",
+      "overview": "FACULTY OF EDUCATION"
+    },
+    {
+      "institution_id": "349",
+      "institution_name": "North-West University",
+      "province": "North West",
+      "faculty_name": "ENGINEERING",
+      "overview": "FACULTY OF ENGINEERING"
+    },
+    {
+      "institution_id": "349",
+      "institution_name": "North-West University",
+      "province": "North West",
+      "faculty_name": "GOVERNMENT STUDIES",
+      "overview": "SCHOOL OF GOVERNMENT STUDIES"
+    },
+    {
+      "institution_id": "349",
+      "institution_name": "North-West University",
+      "province": "North West",
+      "faculty_name": "HEALTH",
+      "overview": "FACULTY OF HEALTH"
+    },
+    {
+      "institution_id": "349",
+      "institution_name": "North-West University",
+      "province": "North West",
+      "faculty_name": "HUMANITIES",
+      "overview": "FACULTY OF HUMANITIES"
+    },
+    {
+      "institution_id": "349",
+      "institution_name": "North-West University",
+      "province": "North West",
+      "faculty_name": "LANGUAGES",
+      "overview": "SCHOOL OF LANGUAGES"
+    },
+    {
+      "institution_id": "349",
+      "institution_name": "North-West University",
+      "province": "North West",
+      "faculty_name": "MANAGEMENT SCIENCES",
+      "overview": "SCHOOL OF MANAGEMENT SCIENCES"
+    },
+    {
+      "institution_id": "349",
+      "institution_name": "North-West University",
+      "province": "North West",
+      "faculty_name": "MUSIC",
+      "overview": "SCHOOL OF MUSIC"
+    },
+    {
+      "institution_id": "349",
+      "institution_name": "North-West University",
+      "province": "North West",
+      "faculty_name": "NURSING",
+      "overview": "SCHOOL OF NURSING"
+    },
+    {
+      "institution_id": "349",
+      "institution_name": "North-West University",
+      "province": "North West",
+      "faculty_name": "PHARMACY",
+      "overview": "SCHOOL OF PHARMACY"
+    },
+    {
+      "institution_id": "349",
+      "institution_name": "North-West University",
+      "province": "North West",
+      "faculty_name": "PHILOSOPHY",
+      "overview": "SCHOOL OF PHILOSOPHY"
+    },
+    {
+      "institution_id": "349",
+      "institution_name": "North-West University",
+      "province": "North West",
+      "faculty_name": "PSYCHOSOCIAL HEALTH",
+      "overview": "SCHOOL OF PSYCHOSOCIAL HEALTH"
+    },
+    {
+      "institution_id": "349",
+      "institution_name": "North-West University",
+      "province": "North West",
+      "faculty_name": "SOCIAL SCIENCES",
+      "overview": "SCHOOL OF SOCIAL SCIENCES"
+    },
+    {
+      "institution_id": "349",
+      "institution_name": "North-West University",
+      "province": "North West",
+      "faculty_name": "THEOLOGY",
+      "overview": "FACULTY OF THEOLOGY"
+    },
+    {
+      "institution_id": "349",
+      "institution_name": "North-West University",
+      "province": "North West",
+      "faculty_name": "TOURISM MANAGEMENT",
+      "overview": "SCHOOL OF TOURISM MANAGEMENT"
+    },
+    {
+      "institution_id": "411",
+      "institution_name": "Sol Plaatje University",
+      "province": "Northern Cape",
+      "faculty_name": "Humanities at Sol Plaatje University",
+      "overview": null
+    },
+    {
+      "institution_id": "411",
+      "institution_name": "Sol Plaatje University",
+      "province": "Northern Cape",
+      "faculty_name": "EDUCATION",
+      "overview": "SCHOOL OF EDUCATION"
+    },
+    {
+      "institution_id": "411",
+      "institution_name": "Sol Plaatje University",
+      "province": "Northern Cape",
+      "faculty_name": "HUMANITIES",
+      "overview": "SCHOOL OF HUMANITIES"
+    },
+    {
+      "institution_id": "369",
+      "institution_name": "Stellenbosch University",
+      "province": "Western Cape",
+      "faculty_name": "AGRISCIENCES",
+      "overview": "FACULTY OF AGRISCIENCES"
+    },
+    {
+      "institution_id": "369",
+      "institution_name": "Stellenbosch University",
+      "province": "Western Cape",
+      "faculty_name": "EDUCATION",
+      "overview": "FACULTY OF EDUCATION"
+    },
+    {
+      "institution_id": "369",
+      "institution_name": "Stellenbosch University",
+      "province": "Western Cape",
+      "faculty_name": "ENGINEERING",
+      "overview": "FACULTY OF ENGINEERING"
+    },
+    {
+      "institution_id": "369",
+      "institution_name": "Stellenbosch University",
+      "province": "Western Cape",
+      "faculty_name": "MEDICINE",
+      "overview": "FACULTY OF MEDICINE"
+    },
+    {
+      "institution_id": "369",
+      "institution_name": "Stellenbosch University",
+      "province": "Western Cape",
+      "faculty_name": "SCIENCE",
+      "overview": "FACULTY OF SCIENCE"
+    },
+    {
+      "institution_id": "369",
+      "institution_name": "Stellenbosch University",
+      "province": "Western Cape",
+      "faculty_name": "THEOLOGY",
+      "overview": "FACULTY OF THEOLOGY"
+    },
+    {
+      "institution_id": "369",
+      "institution_name": "Stellenbosch University",
+      "province": "Western Cape",
+      "faculty_name": "ECONOMIC AND",
+      "overview": null
+    },
+    {
+      "institution_id": "369",
+      "institution_name": "Stellenbosch University",
+      "province": "Western Cape",
+      "faculty_name": "Education yearbook on the website",
+      "overview": null
+    },
+    {
+      "institution_id": "362",
+      "institution_name": "University of Cape Town",
+      "province": "Western Cape",
+      "faculty_name": "Business",
+      "overview": null
+    },
+    {
+      "institution_id": "362",
+      "institution_name": "University of Cape Town",
+      "province": "Western Cape",
+      "faculty_name": "COMMERCE",
+      "overview": "FACULTY OF COMMERCE"
+    },
+    {
+      "institution_id": "362",
+      "institution_name": "University of Cape Town",
+      "province": "Western Cape",
+      "faculty_name": "Commerce for the year of application",
+      "overview": "Faculty of Commerce for the year of application"
+    },
+    {
+      "institution_id": "362",
+      "institution_name": "University of Cape Town",
+      "province": "Western Cape",
+      "faculty_name": "HEALTH",
+      "overview": "FACULTY OF HEALTH"
+    },
+    {
+      "institution_id": "362",
+      "institution_name": "University of Cape Town",
+      "province": "Western Cape",
+      "faculty_name": "Health Sciences, from 0% to 20%)",
+      "overview": "Faculty of Health Sciences, from 0% to 20%)."
+    },
+    {
+      "institution_id": "362",
+      "institution_name": "University of Cape Town",
+      "province": "Western Cape",
+      "faculty_name": "Health Sciences, the National Benchmark Test",
+      "overview": "Faculty of Health Sciences, the National Benchmark Test"
+    },
+    {
+      "institution_id": "362",
+      "institution_name": "University of Cape Town",
+      "province": "Western Cape",
+      "faculty_name": "HUMANITIES",
+      "overview": "FACULTY OF HUMANITIES"
+    },
+    {
+      "institution_id": "362",
+      "institution_name": "University of Cape Town",
+      "province": "Western Cape",
+      "faculty_name": "Humanities attracts students and academics",
+      "overview": "Faculty of Humanities attracts students and academics"
+    },
+    {
+      "institution_id": "362",
+      "institution_name": "University of Cape Town",
+      "province": "Western Cape",
+      "faculty_name": "SCIENCE",
+      "overview": "FACULTY OF SCIENCE"
+    },
+    {
+      "institution_id": "362",
+      "institution_name": "University of Cape Town",
+      "province": "Western Cape",
+      "faculty_name": "Science section in this prospectus for specific",
+      "overview": "Faculty of Science section in this prospectus for specific"
+    },
+    {
+      "institution_id": "371",
+      "institution_name": "University of the Western Cape",
+      "province": "Western Cape",
+      "faculty_name": "DentistryFaculty of Economic",
+      "overview": null
+    },
+    {
+      "institution_id": "371",
+      "institution_name": "University of the Western Cape",
+      "province": "Western Cape",
+      "faculty_name": "Economic and Management Sciences",
+      "overview": null
+    },
+    {
+      "institution_id": "371",
+      "institution_name": "University of the Western Cape",
+      "province": "Western Cape",
+      "faculty_name": "Natural Sciences",
+      "overview": null
+    },
+    {
+      "institution_id": "371",
+      "institution_name": "University of the Western Cape",
+      "province": "Western Cape",
+      "faculty_name": "Government",
+      "overview": null
+    },
+    {
+      "institution_id": "371",
+      "institution_name": "University of the Western Cape",
+      "province": "Western Cape",
+      "faculty_name": "Community Health Sciences",
+      "overview": null
+    },
+    {
+      "institution_id": "371",
+      "institution_name": "University of the Western Cape",
+      "province": "Western Cape",
+      "faculty_name": "Dentistry",
+      "overview": null
+    },
+    {
+      "institution_id": "371",
+      "institution_name": "University of the Western Cape",
+      "province": "Western Cape",
+      "faculty_name": "Education",
+      "overview": null
+    },
+    {
+      "institution_id": "371",
+      "institution_name": "University of the Western Cape",
+      "province": "Western Cape",
+      "faculty_name": "Arts",
+      "overview": null
+    },
+    {
+      "institution_id": "371",
+      "institution_name": "University of the Western Cape",
+      "province": "Western Cape",
+      "faculty_name": "Community",
+      "overview": null
+    },
+    {
+      "institution_id": "371",
+      "institution_name": "University of the Western Cape",
+      "province": "Western Cape",
+      "faculty_name": "Arts and Humanities",
+      "overview": null
+    },
+    {
+      "institution_id": "367",
+      "institution_name": "University of Pretoria",
+      "province": null,
+      "faculty_name": "Dentistry",
+      "overview": "School of Dentistry"
+    },
+    {
+      "institution_id": "367",
+      "institution_name": "University of Pretoria",
+      "province": null,
+      "faculty_name": "Economic and Management",
+      "overview": "Faculty of Economic and Management"
+    },
+    {
+      "institution_id": "367",
+      "institution_name": "University of Pretoria",
+      "province": null,
+      "faculty_name": "Education",
+      "overview": "Faculty of Education"
+    },
+    {
+      "institution_id": "367",
+      "institution_name": "University of Pretoria",
+      "province": null,
+      "faculty_name": "ENGINEERING",
+      "overview": "SCHOOL OF ENGINEERING"
+    },
+    {
+      "institution_id": "367",
+      "institution_name": "University of Pretoria",
+      "province": null,
+      "faculty_name": "Engineering will be determined by the Grade 12 results",
+      "overview": "School of Engineering will be determined by the Grade 12 results."
+    },
+    {
+      "institution_id": "367",
+      "institution_name": "University of Pretoria",
+      "province": null,
+      "faculty_name": "Engineering, Built Environment",
+      "overview": "Faculty of Engineering, Built Environment"
+    },
+    {
+      "institution_id": "367",
+      "institution_name": "University of Pretoria",
+      "province": null,
+      "faculty_name": "Engineering, Built Environment and Information",
+      "overview": "Faculty of Engineering, Built Environment and Information"
+    },
+    {
+      "institution_id": "367",
+      "institution_name": "University of Pretoria",
+      "province": null,
+      "faculty_name": "Healthcare Sciences",
+      "overview": "Faculty of Health Sciences"
+    },
+    {
+      "institution_id": "367",
+      "institution_name": "University of Pretoria",
+      "province": null,
+      "faculty_name": "Humanities",
+      "overview": "Faculty of Humanities"
+    },
+    {
+      "institution_id": "367",
+      "institution_name": "University of Pretoria",
+      "province": null,
+      "faculty_name": "Medicine",
+      "overview": "School of Medicine"
+    },
+    {
+      "institution_id": "367",
+      "institution_name": "University of Pretoria",
+      "province": null,
+      "faculty_name": "Natural and Agricultural",
+      "overview": "Faculty of Natural and Agricultural"
+    },
+    {
+      "institution_id": "367",
+      "institution_name": "University of Pretoria",
+      "province": null,
+      "faculty_name": "Natural and Agricultural Sciences",
+      "overview": "Faculty of Natural and Agricultural Sciences"
+    },
+    {
+      "institution_id": "367",
+      "institution_name": "University of Pretoria",
+      "province": null,
+      "faculty_name": "Theology and Religion",
+      "overview": "Faculty of Theology and Religion"
+    },
+    {
+      "institution_id": "367",
+      "institution_name": "University of Pretoria",
+      "province": null,
+      "faculty_name": "Veterinary Science",
+      "overview": "Faculty of Veterinary Science"
+    },
+    {
+      "institution_id": "367",
+      "institution_name": "University of Pretoria",
+      "province": null,
+      "faculty_name": "Veterinary Science 19",
+      "overview": null
+    },
+    {
+      "institution_id": "367",
+      "institution_name": "University of Pretoria",
+      "province": null,
+      "faculty_name": "Health Sciences",
+      "overview": null
+    },
+    {
+      "institution_id": "367",
+      "institution_name": "University of Pretoria",
+      "province": null,
+      "faculty_name": "Economic and Management Sciences",
+      "overview": null
+    },
+    {
+      "institution_id": "367",
+      "institution_name": "University of Pretoria",
+      "province": null,
+      "faculty_name": "Engineering, Built Environment and Information Technology",
+      "overview": null
+    },
+    {
+      "institution_id": "367",
+      "institution_name": "University of Pretoria",
+      "province": null,
+      "faculty_name": "Health Sciences, please consult a student advisor. To make an",
+      "overview": null
+    },
+    {
+      "institution_id": "367",
+      "institution_name": "University of Pretoria",
+      "province": null,
+      "faculty_name": "Humanities website",
+      "overview": null
+    },
+    {
+      "institution_id": "367",
+      "institution_name": "University of Pretoria",
+      "province": null,
+      "faculty_name": "Veterinary Science website",
+      "overview": null
+    },
+    {
+      "institution_id": "368",
+      "institution_name": "University of South Africa (UNISA)",
+      "province": null,
+      "faculty_name": "Business Leadership",
+      "overview": null
+    },
+    {
+      "institution_id": "374",
+      "institution_name": "University of Zululand",
+      "province": null,
+      "faculty_name": "EDUCATION",
+      "overview": "FACULTY OF EDUCATION"
+    },
+    {
+      "institution_id": "378",
+      "institution_name": "Walter Sisulu University of Technology and Science",
+      "province": "Eastern Cape",
+      "faculty_name": "Chemical and Physical SciencesDepartment overview",
+      "overview": null
+    },
+    {
+      "institution_id": "378",
+      "institution_name": "Walter Sisulu University of Technology and Science",
+      "province": "Eastern Cape",
+      "faculty_name": "SurgeryDepartment overview",
+      "overview": null
+    },
+    {
+      "institution_id": "378",
+      "institution_name": "Walter Sisulu University of Technology and Science",
+      "province": "Eastern Cape",
+      "faculty_name": "Nursing SciencesDepartment overview",
+      "overview": null
+    },
+    {
+      "institution_id": "378",
+      "institution_name": "Walter Sisulu University of Technology and Science",
+      "province": "Eastern Cape",
+      "faculty_name": "Network",
+      "overview": null
+    },
+    {
+      "institution_id": "378",
+      "institution_name": "Walter Sisulu University of Technology and Science",
+      "province": "Eastern Cape",
+      "faculty_name": "Mechanical EngineeringDepartment overview",
+      "overview": null
+    },
+    {
+      "institution_id": "378",
+      "institution_name": "Walter Sisulu University of Technology and Science",
+      "province": "Eastern Cape",
+      "faculty_name": "Built EnvironmentDepartment overview",
+      "overview": null
+    },
+    {
+      "institution_id": "378",
+      "institution_name": "Walter Sisulu University of Technology and Science",
+      "province": "Eastern Cape",
+      "faculty_name": "ManagementDepartment overview",
+      "overview": null
+    },
+    {
+      "institution_id": "378",
+      "institution_name": "Walter Sisulu University of Technology and Science",
+      "province": "Eastern Cape",
+      "faculty_name": "LawDepartment overview",
+      "overview": null
+    },
+    {
+      "institution_id": "378",
+      "institution_name": "Walter Sisulu University of Technology and Science",
+      "province": "Eastern Cape",
+      "faculty_name": "Business ManagementDepartment overview",
+      "overview": null
+    },
+    {
+      "institution_id": "378",
+      "institution_name": "Walter Sisulu University of Technology and Science",
+      "province": "Eastern Cape",
+      "faculty_name": "Electrical EngineeringDepartment overview",
+      "overview": null
+    },
+    {
+      "institution_id": "378",
+      "institution_name": "Walter Sisulu University of Technology and Science",
+      "province": "Eastern Cape",
+      "faculty_name": "Obstetrics and GynaecologyDepartment overview",
+      "overview": null
+    },
+    {
+      "institution_id": "378",
+      "institution_name": "Walter Sisulu University of Technology and Science",
+      "province": "Eastern Cape",
+      "faculty_name": "Governance",
+      "overview": null
+    },
+    {
+      "institution_id": "378",
+      "institution_name": "Walter Sisulu University of Technology and Science",
+      "province": "Eastern Cape",
+      "faculty_name": "Public ManagementDepartment overview",
+      "overview": null
+    },
+    {
+      "institution_id": "378",
+      "institution_name": "Walter Sisulu University of Technology and Science",
+      "province": "Eastern Cape",
+      "faculty_name": "Applied SciencesDepartment overview",
+      "overview": null
+    },
+    {
+      "institution_id": "378",
+      "institution_name": "Walter Sisulu University of Technology and Science",
+      "province": "Eastern Cape",
+      "faculty_name": "AuditingDepartment overview",
+      "overview": null
+    },
+    {
+      "institution_id": "378",
+      "institution_name": "Walter Sisulu University of Technology and Science",
+      "province": "Eastern Cape",
+      "faculty_name": "Accounting SciencesDepartment overview",
+      "overview": null
+    },
+    {
+      "institution_id": "378",
+      "institution_name": "Walter Sisulu University of Technology and Science",
+      "province": "Eastern Cape",
+      "faculty_name": "Human BiologyDepartment overview",
+      "overview": null
+    },
+    {
+      "institution_id": "378",
+      "institution_name": "Walter Sisulu University of Technology and Science",
+      "province": "Eastern Cape",
+      "faculty_name": "Public HealthDepartment overview",
+      "overview": null
+    },
+    {
+      "institution_id": "378",
+      "institution_name": "Walter Sisulu University of Technology and Science",
+      "province": "Eastern Cape",
+      "faculty_name": "Tourism",
+      "overview": null
+    },
+    {
+      "institution_id": "378",
+      "institution_name": "Walter Sisulu University of Technology and Science",
+      "province": "Eastern Cape",
+      "faculty_name": "Civil EngineeringDepartment overview",
+      "overview": null
+    },
+    {
+      "institution_id": "378",
+      "institution_name": "Walter Sisulu University of Technology and Science",
+      "province": "Eastern Cape",
+      "faculty_name": "Paediatrics and Child HealthDepartment overview",
+      "overview": null
+    },
+    {
+      "institution_id": "378",
+      "institution_name": "Walter Sisulu University of Technology and Science",
+      "province": "Eastern Cape",
+      "faculty_name": "Business",
+      "overview": null
+    },
+    {
+      "institution_id": "378",
+      "institution_name": "Walter Sisulu University of Technology and Science",
+      "province": "Eastern Cape",
+      "faculty_name": "Health Professions EducationDepartment overview",
+      "overview": null
+    },
+    {
+      "institution_id": "378",
+      "institution_name": "Walter Sisulu University of Technology and Science",
+      "province": "Eastern Cape",
+      "faculty_name": "Human Resources ManagementDepartment overview",
+      "overview": null
+    },
+    {
+      "institution_id": "378",
+      "institution_name": "Walter Sisulu University of Technology and Science",
+      "province": "Eastern Cape",
+      "faculty_name": "Marketing, Public Relations",
+      "overview": null
+    },
+    {
+      "institution_id": "378",
+      "institution_name": "Walter Sisulu University of Technology and Science",
+      "province": "Eastern Cape",
+      "faculty_name": "PsychiatryDepartment overview",
+      "overview": null
+    },
+    {
+      "institution_id": "378",
+      "institution_name": "Walter Sisulu University of Technology and Science",
+      "province": "Eastern Cape",
+      "faculty_name": "Humanities and CreativeDepartment overview",
+      "overview": null
+    },
+    {
+      "institution_id": "378",
+      "institution_name": "Walter Sisulu University of Technology and Science",
+      "province": "Eastern Cape",
+      "faculty_name": "Economic & Financial Sciences",
+      "overview": "Focuses on accounting, auditing, and management accounting (SAICA accredited)."
+    },
+    {
+      "institution_id": "378",
+      "institution_name": "Walter Sisulu University of Technology and Science",
+      "province": "Eastern Cape",
+      "faculty_name": "Engineering, Built Environment & IT",
+      "overview": "Offers diplomas and advanced diplomas in core engineering and ICT fields."
+    },
+    {
+      "institution_id": "378",
+      "institution_name": "Walter Sisulu University of Technology and Science",
+      "province": "Eastern Cape",
+      "faculty_name": "Education",
+      "overview": "The largest faculty, preparing teachers for Foundation to FET phases."
+    },
+    {
+      "institution_id": "378",
+      "institution_name": "Walter Sisulu University of Technology and Science",
+      "province": "Eastern Cape",
+      "faculty_name": "Law, Humanities & Social Sciences",
+      "overview": "Covers Law (LLB), Social Work, Psychology, and Visual Arts."
+    },
+    {
+      "institution_id": "378",
+      "institution_name": "Walter Sisulu University of Technology and Science",
+      "province": "Eastern Cape",
+      "faculty_name": "Medicine & Health Sciences",
+      "overview": "Offers MBChB, Nursing, and Medical Orthotics."
+    },
+    {
+      "institution_id": "378",
+      "institution_name": "Walter Sisulu University of Technology and Science",
+      "province": "Eastern Cape",
+      "faculty_name": "Management and Public Administration Sciences",
+      "overview": "Located in Butterworth; focuses on Public Admin and Business Management."
+    },
+    {
+      "institution_id": "378",
+      "institution_name": "Walter Sisulu University of Technology and Science",
+      "province": "Eastern Cape",
+      "faculty_name": "Natural Sciences",
+      "overview": "Offers 27 programmes across Mthatha and Buffalo City sites."
+    },
+    {
+      "institution_id": "378",
+      "institution_name": "Walter Sisulu University of Technology and Science",
+      "province": "Eastern Cape",
+      "faculty_name": "Faculty of Economic Sciences, Development and Business Studies",
+      "overview": "Offers accounting, financial information systems, auditing, commerce, and business management qualifications at diploma and degree level."
+    },
+    {
+      "institution_id": "378",
+      "institution_name": "Walter Sisulu University of Technology and Science",
+      "province": "Eastern Cape",
+      "faculty_name": "Faculty of Education",
+      "overview": "Trains teachers for Foundation Phase (Grades R-3) and Senior Phase & FET (Grades 7-12) across multiple specialisations."
+    },
+    {
+      "institution_id": "378",
+      "institution_name": "Walter Sisulu University of Technology and Science",
+      "province": "Eastern Cape",
+      "faculty_name": "Faculty of Engineering and Technology",
+      "overview": "Offers diplomas in building, civil, electrical, and mechanical engineering, plus ICT specialisations."
+    },
+    {
+      "institution_id": "378",
+      "institution_name": "Walter Sisulu University of Technology and Science",
+      "province": "Eastern Cape",
+      "faculty_name": "Faculty of Humanities and Social Sciences",
+      "overview": "Offers Arts, Social Sciences, Law, Psychology, and Social Work degrees plus Fashion and Fine Art diplomas."
+    },
+    {
+      "institution_id": "378",
+      "institution_name": "Walter Sisulu University of Technology and Science",
+      "province": "Eastern Cape",
+      "faculty_name": "Faculty of Management and Commerce",
+      "overview": "Offers a wide range of management, hospitality, HR, public management, journalism, policing and other professional diplomas plus the Bachelor of Administration."
+    },
+    {
+      "institution_id": "378",
+      "institution_name": "Walter Sisulu University of Technology and Science",
+      "province": "Eastern Cape",
+      "faculty_name": "Faculty of Health Sciences",
+      "overview": "Offers medical science, clinical practice, nursing, orthotics/prosthetics, and MBBCh programmes at Mthatha campus."
+    },
+    {
+      "institution_id": "378",
+      "institution_name": "Walter Sisulu University of Technology and Science",
+      "province": "Eastern Cape",
+      "faculty_name": "Faculty of Natural Sciences",
+      "overview": "Offers science and technology diplomas (analytical chemistry, food nutrition, pest management) and bachelor's degrees in applied maths, biological sciences, computer science, physics, chemistry and more."
+    },
+    {
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "province": "Free State",
+      "faculty_name": "Health Environmental Sciences NQF",
+      "overview": null
+    },
+    {
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "province": "Free State",
+      "faculty_name": "Management Sciences NQF",
+      "overview": null
+    },
+    {
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "province": "Free State",
+      "faculty_name": "Humanities NQF",
+      "overview": null
+    },
+    {
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "province": "Free State",
+      "faculty_name": "Accounting and Auditing",
+      "overview": "Faculty of Management Sciences — Accounting and Auditing"
+    },
+    {
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "province": "Free State",
+      "faculty_name": "Agriculture",
+      "overview": "Faculty of Health and Environmental Sciences — Agriculture"
+    },
+    {
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "province": "Free State",
+      "faculty_name": "Built Environment",
+      "overview": "Faculty of Engineering, Built Environment and Information Technology — Built Environment"
+    },
+    {
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "province": "Free State",
+      "faculty_name": "Business Management",
+      "overview": "Faculty of Management Sciences — Business Management"
+    },
+    {
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "province": "Free State",
+      "faculty_name": "Business Support Studies",
+      "overview": "Faculty of Management Sciences — Business Support Studies"
+    },
+    {
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "province": "Free State",
+      "faculty_name": "Centre for Applied Food Sustainability and -Biotechnology (CAFSaB)",
+      "overview": "Faculty of Health and Environmental Sciences — Centre for Applied Food Sustainability and -Biotechnology (CAFSaB)"
+    },
+    {
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "province": "Free State",
+      "faculty_name": "Centre for Enterprise and Entrepreneurship Studies",
+      "overview": "Faculty of Management Sciences — Centre for Enterprise and Entrepreneurship Studies"
+    },
+    {
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "province": "Free State",
+      "faculty_name": "Centre for Innovation in Learning and Teaching (CILT)",
+      "overview": "Faculty of Teaching and Learning — Centre for Innovation in Learning and Teaching (CILT)"
+    },
+    {
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "province": "Free State",
+      "faculty_name": "Centre for Quality of Health and Living (CQHL)",
+      "overview": "Faculty of Health and Environmental Sciences — Centre for Quality of Health and Living (CQHL)"
+    },
+    {
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "province": "Free State",
+      "faculty_name": "Civil Engineering",
+      "overview": "Faculty of Engineering, Built Environment and Information Technology — Civil Engineering"
+    },
+    {
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "province": "Free State",
+      "faculty_name": "Clinical Sciences",
+      "overview": "Faculty of Health and Environmental Sciences — Clinical Sciences"
+    },
+    {
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "province": "Free State",
+      "faculty_name": "Communication Sciences",
+      "overview": "Faculty of Humanities — Communication Sciences"
+    },
+    {
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "province": "Free State",
+      "faculty_name": "Design and Studio Art",
+      "overview": "Faculty of Humanities — Design and Studio Art"
+    },
+    {
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "province": "Free State",
+      "faculty_name": "Disability Unit",
+      "overview": "Faculty of Teaching and Learning — Disability Unit"
+    },
+    {
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "province": "Free State",
+      "faculty_name": "Educational and Professional Studies",
+      "overview": "Faculty of Humanities — Educational and Professional Studies"
+    },
+    {
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "province": "Free State",
+      "faculty_name": "Electrical, Electronic and Computer Engineering",
+      "overview": "Faculty of Engineering, Built Environment and Information Technology — Electrical, Electronic and Computer Engineering"
+    },
+    {
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "province": "Free State",
+      "faculty_name": "Entrepreneurship Development Unit",
+      "overview": "Faculty of Management Sciences — Entrepreneurship Development Unit"
+    },
+    {
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "province": "Free State",
+      "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+      "overview": "Faculty of Engineering, Built Environment and Information Technology"
+    },
+    {
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "province": "Free State",
+      "faculty_name": "Faculty of Health and Environmental Sciences",
+      "overview": "Faculty of Health and Environmental Sciences"
+    },
+    {
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "province": "Free State",
+      "faculty_name": "Faculty of Humanities",
+      "overview": "Faculty of Humanities"
+    },
+    {
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "province": "Free State",
+      "faculty_name": "Faculty of Management Sciences",
+      "overview": "Faculty of Management Sciences"
+    },
+    {
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "province": "Free State",
+      "faculty_name": "Faculty of Teaching and Learning",
+      "overview": "Faculty of Teaching and Learning"
+    },
+    {
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "province": "Free State",
+      "faculty_name": "Government Management",
+      "overview": "Faculty of Management Sciences — Government Management"
+    },
+    {
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "province": "Free State",
+      "faculty_name": "Graduate School",
+      "overview": "Postgraduate Students — Graduate School"
+    },
+    {
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "province": "Free State",
+      "faculty_name": "Health Sciences",
+      "overview": "Faculty of Health and Environmental Sciences — Health Sciences"
+    },
+    {
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "province": "Free State",
+      "faculty_name": "Hospitality Management",
+      "overview": "Faculty of Management Sciences — Hospitality Management"
+    },
+    {
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "province": "Free State",
+      "faculty_name": "Information Technology",
+      "overview": "Faculty of Engineering, Built Environment and Information Technology — Information Technology"
+    },
+    {
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "province": "Free State",
+      "faculty_name": "Language and Social Sciences Education",
+      "overview": "Faculty of Humanities — Language and Social Sciences Education"
+    },
+    {
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "province": "Free State",
+      "faculty_name": "Life Sciences",
+      "overview": "Faculty of Health and Environmental Sciences — Life Sciences"
+    },
+    {
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "province": "Free State",
+      "faculty_name": "Mathematical and Physical Sciences",
+      "overview": "Faculty of Engineering, Built Environment and Information Technology — Mathematical and Physical Sciences"
+    },
+    {
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "province": "Free State",
+      "faculty_name": "Mathematics, Science and Technology Education",
+      "overview": "Faculty of Humanities — Mathematics, Science and Technology Education"
+    },
+    {
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "province": "Free State",
+      "faculty_name": "Mechanical and Mechatronic Engineering",
+      "overview": "Faculty of Engineering, Built Environment and Information Technology — Mechanical and Mechatronic Engineering"
+    },
+    {
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "province": "Free State",
+      "faculty_name": "Post Graduate Studies in Education",
+      "overview": "Faculty of Humanities — Post Graduate Studies in Education"
+    },
+    {
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "province": "Free State",
+      "faculty_name": "Tourism and Event Management",
+      "overview": "Faculty of Management Sciences — Tourism and Event Management"
+    },
+    {
+      "institution_id": "359",
+      "institution_name": "Tshwane University of Technology",
+      "province": "Gauteng",
+      "faculty_name": "Science Part 8",
+      "overview": null
+    },
+    {
+      "institution_id": "375",
+      "institution_name": "Vaal University of Technology",
+      "province": "Gauteng",
+      "faculty_name": "Applied and Computer Sciences",
+      "overview": null
+    },
+    {
+      "institution_id": "329",
+      "institution_name": "Durban University of Technology",
+      "province": "KwaZulu-Natal",
+      "faculty_name": "Accounting",
+      "overview": null
+    },
+    {
+      "institution_id": "329",
+      "institution_name": "Durban University of Technology",
+      "province": "KwaZulu-Natal",
+      "faculty_name": "Applied Sciences",
+      "overview": null
+    },
+    {
+      "institution_id": "329",
+      "institution_name": "Durban University of Technology",
+      "province": "KwaZulu-Natal",
+      "faculty_name": "Entrepreneurial Studies",
+      "overview": null
+    },
+    {
+      "institution_id": "342",
+      "institution_name": "Mangosuthu University of Technology",
+      "province": "KwaZulu-Natal",
+      "faculty_name": "Applied and Health Sciences",
+      "overview": null
+    },
+    {
+      "institution_id": "342",
+      "institution_name": "Mangosuthu University of Technology",
+      "province": "KwaZulu-Natal",
+      "faculty_name": "ENGINEERING",
+      "overview": "FACULTY OF ENGINEERING"
+    },
+    {
+      "institution_id": "342",
+      "institution_name": "Mangosuthu University of Technology",
+      "province": "KwaZulu-Natal",
+      "faculty_name": "MANAGEMENT SCIENCES",
+      "overview": "FACULTY OF MANAGEMENT SCIENCES"
+    },
+    {
+      "institution_id": "324",
+      "institution_name": "Cape Peninsula University of Technology",
+      "province": "Western Cape",
+      "faculty_name": "Faculty of Applied Sciences",
+      "overview": "FACULTY OF APPLIED SCIENCES"
+    },
+    {
+      "institution_id": "324",
+      "institution_name": "Cape Peninsula University of Technology",
+      "province": "Western Cape",
+      "faculty_name": "Faculty of Business & Management Sciences",
+      "overview": "FACULTY OF BUSINESS & MANAGEMENT SCIENCES"
+    },
+    {
+      "institution_id": "324",
+      "institution_name": "Cape Peninsula University of Technology",
+      "province": "Western Cape",
+      "faculty_name": "Faculty of Education",
+      "overview": "FACULTY OF EDUCATION"
+    },
+    {
+      "institution_id": "324",
+      "institution_name": "Cape Peninsula University of Technology",
+      "province": "Western Cape",
+      "faculty_name": "Faculty of Engineering & the Built Environment",
+      "overview": "FACULTY OF ENGINEERING & THE BUILT ENVIRONMENT"
+    },
+    {
+      "institution_id": "324",
+      "institution_name": "Cape Peninsula University of Technology",
+      "province": "Western Cape",
+      "faculty_name": "Faculty of Health & Wellness Sciences",
+      "overview": "FACULTY OF HEALTH & WELLNESS SCIENCES"
+    },
+    {
+      "institution_id": "324",
+      "institution_name": "Cape Peninsula University of Technology",
+      "province": "Western Cape",
+      "faculty_name": "Faculty of Informatics & Design",
+      "overview": "FACULTY OF INFORMATICS & DESIGN"
+    },
+    {
+      "institution_id": "323",
+      "institution_name": "Buffalo City TVET College",
+      "province": "Eastern Cape",
+      "faculty_name": "Business",
+      "overview": null
+    },
+    {
+      "institution_id": "307",
+      "institution_name": "Eastcape Midlands TVET College",
+      "province": "Eastern Cape",
+      "faculty_name": "BUSINESS",
+      "overview": "SCHOOL OF BUSINESS"
+    },
+    {
+      "institution_id": "307",
+      "institution_name": "Eastcape Midlands TVET College",
+      "province": "Eastern Cape",
+      "faculty_name": "ART &",
+      "overview": null
+    },
+    {
+      "institution_id": "309",
+      "institution_name": "Ikhala TVET College",
+      "province": "Eastern Cape",
+      "faculty_name": "Business Studies",
+      "overview": "Focuses on NATED N4-N6 and NCV Business Management, Finance, and HR."
+    },
+    {
+      "institution_id": "309",
+      "institution_name": "Ikhala TVET College",
+      "province": "Eastern Cape",
+      "faculty_name": "Engineering Studies",
+      "overview": "Includes NCV and NATED Electrical, Civil, and Mechanical Engineering."
+    },
+    {
+      "institution_id": "309",
+      "institution_name": "Ikhala TVET College",
+      "province": "Eastern Cape",
+      "faculty_name": "Utility & Social Studies",
+      "overview": "Covers Hospitality, Tourism, and Consumer Science."
+    },
+    {
+      "institution_id": "309",
+      "institution_name": "Ikhala TVET College",
+      "province": "Eastern Cape",
+      "faculty_name": "Occupational Training",
+      "overview": "Specialized skill-bearing certificates and workplace-integrated learning."
+    },
+    {
+      "institution_id": "310",
+      "institution_name": "King Hintsa TVET College",
+      "province": "Eastern Cape",
+      "faculty_name": "Agriculture & Engineering (Teko/Msobomvu)",
+      "overview": "Focuses on Primary Agriculture and core artisanships."
+    },
+    {
+      "institution_id": "310",
+      "institution_name": "King Hintsa TVET College",
+      "province": "Eastern Cape",
+      "faculty_name": "Business & Utility (Dutywa/Willowvale/Centane)",
+      "overview": "Focuses on Marketing, IT, Tourism, and Logistics."
+    },
+    {
+      "institution_id": "351",
+      "institution_name": "Port Elizabeth TVET College",
+      "province": "Eastern Cape",
+      "faculty_name": "Business Studies",
+      "overview": "Marketing, Finance, HR, and Management Assistant."
+    },
+    {
+      "institution_id": "351",
+      "institution_name": "Port Elizabeth TVET College",
+      "province": "Eastern Cape",
+      "faculty_name": "Engineering & Utility",
+      "overview": "Mechatronics, Civil, Electrical, and Hospitality/Tourism."
+    },
+    {
+      "institution_id": "360",
+      "institution_name": "Umfolozi TVET College",
+      "province": "KwaZulu-Natal",
+      "faculty_name": "Higher EducationStart datesThis course has",
+      "overview": null
+    },
+    {
+      "institution_id": "360",
+      "institution_name": "Umfolozi TVET College",
+      "province": "KwaZulu-Natal",
+      "faculty_name": "Higher Education Start datesThis course has",
+      "overview": null
+    },
+    {
+      "institution_id": "348",
+      "institution_name": "Nkangala TVET College",
+      "province": "Mpumalanga",
+      "faculty_name": "Higher Education and Training",
+      "overview": null
+    },
+    {
+      "institution_id": "331",
+      "institution_name": "Ekurhuleni East TVET College",
+      "province": null,
+      "faculty_name": "ENGINEERING",
+      "overview": "SCHOOL OF ENGINEERING"
+    },
+    {
+      "institution_id": "331",
+      "institution_name": "Ekurhuleni East TVET College",
+      "province": null,
+      "faculty_name": "Engineering 18",
+      "overview": null
+    },
+    {
+      "institution_id": "331",
+      "institution_name": "Ekurhuleni East TVET College",
+      "province": null,
+      "faculty_name": "Engineering 28",
+      "overview": null
+    },
+    {
+      "institution_id": "314",
+      "institution_name": "Mnambithi TVET College",
+      "province": null,
+      "faculty_name": "Health",
+      "overview": null
+    },
+    {
+      "institution_id": "314",
+      "institution_name": "Mnambithi TVET College",
+      "province": null,
+      "faculty_name": "Higher Education",
+      "overview": null
+    },
+    {
+      "institution_id": "314",
+      "institution_name": "Mnambithi TVET College",
+      "province": null,
+      "faculty_name": "Higher Education and Training",
+      "overview": null
+    },
+    {
+      "institution_id": "354",
+      "institution_name": "Sekhukhune TVET College",
+      "province": null,
+      "faculty_name": "Business Studies",
+      "overview": "WE OFFER THE FOLLOWING BUSINESS STUDIES"
+    },
+    {
+      "institution_id": "354",
+      "institution_name": "Sekhukhune TVET College",
+      "province": null,
+      "faculty_name": "Cn Phatudi Campus",
+      "overview": "CN PHATUDI CAMPUS ("
+    },
+    {
+      "institution_id": "354",
+      "institution_name": "Sekhukhune TVET College",
+      "province": null,
+      "faculty_name": "Cs Barlow Campus",
+      "overview": "CS BARLOW CAMPUS ("
+    },
+    {
+      "institution_id": "354",
+      "institution_name": "Sekhukhune TVET College",
+      "province": null,
+      "faculty_name": "Engineering Studies",
+      "overview": "WE OFFER THE FOLLOWING ENGINEERING STUDIES"
+    },
+    {
+      "institution_id": "354",
+      "institution_name": "Sekhukhune TVET College",
+      "province": null,
+      "faculty_name": "NCV",
+      "overview": "WE OFFER THE FOLLOWING NCV"
+    },
+    {
+      "institution_id": "321",
+      "institution_name": "Western College for TVET",
+      "province": null,
+      "faculty_name": "Higher Education and Training",
+      "overview": null
+    },
+    {
+      "institution_id": "243",
+      "institution_name": "Manufacturing, Engineering and Related Services Sector Education and Training Authority (merSETA)",
+      "province": "Gauteng",
+      "faculty_name": "Higher Education and Training",
+      "overview": null
+    },
+    {
+      "institution_id": "277",
+      "institution_name": "Services Sector Education and Training Authority (SSETA)",
+      "province": "Gauteng",
+      "faculty_name": "Higher Education and Training",
+      "overview": null
+    }
+  ]
+}

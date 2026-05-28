@@ -1,0 +1,8 @@
+SOURCE: https://fundiconnect.co.za/institutions/buffalo-city-tvet-college/
+INSTITUTION: Buffalo City TVET College
+SLUG: buffalo-city-tvet-college
+SCRAPED: 2026-05-27
+NOTE: Web-scraped programme and admission info. No official PDF exists.
+======================================================================
+
+Buffalo City TVET College - Fees & Admissions 2026

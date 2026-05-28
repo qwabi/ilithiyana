@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "institution_id": "330",
+    "slug": "ehlanzeni-tvet-college",
+    "name": "Ehlanzeni TVET College",
+    "institution_type": "tvet-college",
+    "province": "Mpumalanga",
+    "city": "Mbombela",
+    "official_website": "https://www.ehlanzenicollege.co.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/330/ehlanzeni-tvet-college",
+    "application_url": "https://www.ehlanzenicollege.co.za/online-application/",
+    "prospectus_url": "https://www.ehlanzenicollege.co.za/career-guidance/prospectus/",
+    "nsfas_supported": true,
+    "distance_learning": null,
+    "accreditation": {
+      "dh et": "Accredited",
+      "saqa": null
+    },
+    "qualification_types": [
+      "NC(V)",
+      "Nated (Report 191)",
+      "Skills Programmes",
+      "Apprenticeships"
+    ]
+  },
+  "profile": {},
+  "contact": {
+    "emails": [
+      "clcronje@ehlanzenicollege.co.za",
+      "bckwayiyo@ehlanzenicollege.co.za",
+      "support@ehlanzenicollege.co.za",
+      "gmsibiya@ehlanzenicollege.co.za",
+      "info@ehlanzenicollege.co.za",
+      "jmchiloane@ehlanzenicollege.co.za",
+      "finance@ehlanzenicollege.co.za",
+      "jdibakoane@ehlanzenicollege.co.za",
+      "dnkhoza@ehlanzenicollege.co.za"
+    ],
+    "phone_numbers": [
+      "012 426 8000",
+      "+27 013 591 0873",
+      "086 001 0111",
+      "+27 013 752 7105",
+      "013 752 7105"
+    ],
+    "physical_address": "Corporate Centre, 29 Bell Street, Mbombela, 1200",
+    "postal_address": "Private Bag X11297, Nelspruit, 1200",
+    "socials": {
+      "facebook": "https://web.facebook.com/Ehlanzeni-TVET-College-2343345892342761/",
+      "instagram": "https://www.instagram.com/ehlanzeni_tvet_college/",
+      "linkedin": "https://www.linkedin.com/company/ehlanzeni-tvet-college",
+      "x": "https://x.com/EhlanzeniTvet",
+      "youtube": "https://www.youtube.com/channel/UCBp1fpeCz6S0PgDbdYoKi1Q"
+    }
+  },
+  "campuses": [],
+  "faculties": [],
+  "programmes": [
+    {
+      "id": "prog:87762112503b",
+      "name": "NC(V) level 2",
+      "normalized_name": "NC(V) level 2",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    }
+  ],
+  "admission": {
+    "aps_name": null,
+    "aps_calculation_notes": null,
+    "minimum_aps_for_bachelors": null,
+    "minimum_aps_for_diplomas": null,
+    "minimum_entry_note": null,
+    "life_orientation_cap": null,
+    "aps_rules": [],
+    "programme_requirements": []
+  },
+  "sources": [
+    "generated/v3/institutions.enriched.json",
+    "institutions.json"
+  ],
+  "_stats": {
+    "campuses_count": 0,
+    "faculties_count": 0,
+    "programmes_count": 1,
+    "aps_rules_count": 0,
+    "adm_reqs_count": 0
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "institution": {
+    "id": "institution:transport-education-training-authority-teta",
+    "slug": "transport-education-training-authority-teta",
+    "institution_id_raw": "291",
+    "name": "Transport Education Training Authority (TETA)",
+    "institution_type": "seta",
+    "city": "Randburg",
+    "province": "Gauteng",
+    "official_website": "https://www.teta.org.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/291/transport-education-training-authority-teta",
+    "source_paths": [
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "sector": "training",
+      "province": "Gauteng",
+      "city": "Randburg",
+      "physical_address": "344 Pretoria Avenue, TETA House, Randburg, Gauteng",
+      "postal_address": "Private Bag X10016, Randburg, 2125",
+      "contact_phone_numbers": [
+        "011 577 7000"
+      ],
+      "socials": {
+        "facebook": "https://www.facebook.com/Transport.Education.Training.Authority/",
+        "instagram": "",
+        "linkedin": "https://za.linkedin.com/organization-guest/company/transport-education-training-authority",
+        "x": "",
+        "youtube": "https://www.youtube.com/channel/UCkZMXGw3QwE9WMjHoG9fCcw"
+      },
+      "accreditation": {
+        "dh et": null,
+        "saqa": null
+      },
+      "sources": [
+        "https://nationalgovernment.co.za/units/view/291/transport-education-training-authority-teta",
+        "https://www.teta.org.za/"
+      ],
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "institution": {
+    "id": "institution:umfolozi-tvet-college",
+    "slug": "umfolozi-tvet-college",
+    "institution_id_raw": "360",
+    "name": "Umfolozi TVET College",
+    "institution_type": "tvet-college",
+    "city": "Richards Bay",
+    "province": "KwaZulu-Natal",
+    "official_website": "https://umfolozicollege.co.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/360/umfolozi-tvet-college",
+    "source_paths": [
+      "generated/v3/institutions.enriched.json",
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "sector": "higher education",
+      "province": "KwaZulu-Natal",
+      "city": "Richards Bay",
+      "physical_address": "58 Naboomnek, Arboretum, Richards Bay, 3900",
+      "postal_address": "he postal address is Private Bag X 5023 Richards Bay, 3900",
+      "contact_emails": [
+        "3900info@umfolozi.edu.zacentral",
+        "info@umfolozi.edu.za"
+      ],
+      "contact_phone_numbers": [
+        "035 902 9501",
+        "035 902 9723",
+        "035 796 0803",
+        "035 795 1482",
+        "000 000 0000",
+        "032 459 2954",
+        "035 474 4022"
+      ],
+      "application_url": "https://umfolozi.coltech.co.za/Student/Login?ReturnUrl=/Student/Dashboard",
+      "socials": {
+        "facebook": "https://www.facebook.com/umfolozitvetcollege/?_rdc=2&_rdr",
+        "instagram": "https://www.instagram.com/umfolozicollege/",
+        "linkedin": "",
+        "x": "https://twitter.com/umfolozicollege?lang=en",
+        "youtube": "https://www.youtube.com/channel/UCVOlqYd-FGReVT2fIoIDjIw"
+      },
+      "accreditation": {
+        "dh et": "Accredited",
+        "saqa": null
+      },
+      "sources": [
+        "https://nationalgovernment.co.za/units/view/360/umfolozi-tvet-college",
+        "https://umfolozicollege.co.za/"
+      ],
+      "qualification_types": [
+        "NC(V)",
+        "Nated (Report 191)",
+        "Skills Programmes",
+        "Apprenticeships"
+      ],
+      "nsfas_supported": true,
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

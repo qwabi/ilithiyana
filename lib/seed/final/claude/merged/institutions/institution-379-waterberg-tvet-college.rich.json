@@ -1,0 +1,74 @@
+{
+  "meta": {
+    "institution_id": "379",
+    "slug": "waterberg-tvet-college",
+    "name": "Waterberg TVET College",
+    "institution_type": "tvet-college",
+    "province": null,
+    "city": "Mokopane",
+    "official_website": "https://www.waterbergcollege.co.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/379/waterberg-tvet-college",
+    "application_url": "https://waterbergcollege.co.za/application_process.php",
+    "prospectus_url": null,
+    "nsfas_supported": true,
+    "distance_learning": null,
+    "accreditation": {
+      "dh et": "Accredited",
+      "saqa": null
+    },
+    "qualification_types": [
+      "NC(V)",
+      "Nated (Report 191)",
+      "Skills Programmes",
+      "Apprenticeships"
+    ]
+  },
+  "profile": {},
+  "contact": {
+    "emails": [
+      "thabdata@waterbergcollege.co.za",
+      "mokopane@waterbergcollege.co.za",
+      "lebowakgomo@waterbergcollege.co.za",
+      "ttg@q0.ou",
+      "marketing@waterbergcollege.co.za",
+      "mahwelereng@waterbergcollege.co.za",
+      "d@sfkz.viktefyz"
+    ],
+    "phone_numbers": [
+      "015 492 9000"
+    ],
+    "physical_address": "C/o Totius & Hooge Street, Mokopane",
+    "postal_address": "Private Bag X2449, Mokopane, 0600",
+    "socials": {
+      "facebook": "https://www.facebook.com/Waterberg-TVET-College-295966217197828/",
+      "instagram": "",
+      "linkedin": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/channel/UCC83ZnitYF34XLjhfzg2WTg?view_as=subscriber"
+    }
+  },
+  "campuses": [],
+  "faculties": [],
+  "programmes": [],
+  "admission": {
+    "aps_name": null,
+    "aps_calculation_notes": null,
+    "minimum_aps_for_bachelors": null,
+    "minimum_aps_for_diplomas": null,
+    "minimum_entry_note": null,
+    "life_orientation_cap": null,
+    "aps_rules": [],
+    "programme_requirements": []
+  },
+  "sources": [
+    "generated/v3/institutions.enriched.json",
+    "institutions.json"
+  ],
+  "_stats": {
+    "campuses_count": 0,
+    "faculties_count": 0,
+    "programmes_count": 0,
+    "aps_rules_count": 0,
+    "adm_reqs_count": 0
+  }
+}

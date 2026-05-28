@@ -1,0 +1,4393 @@
+{
+  "faculties": [
+    {
+      "institutionId": "364",
+      "name": "Art, Design",
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 62782,
+        "char_end": 62804,
+        "excerpt": "Faculty of Art, Design"
+      },
+      "normalization_key": "faculty|art, design"
+    },
+    {
+      "institutionId": "364",
+      "name": "Education",
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 63161,
+        "char_end": 63181,
+        "excerpt": "Faculty of Education"
+      },
+      "normalization_key": "faculty|education"
+    },
+    {
+      "institutionId": "364",
+      "name": "Engineering and",
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 63258,
+        "char_end": 63284,
+        "excerpt": "Faculty of Engineering and"
+      },
+      "normalization_key": "faculty|engineering and"
+    },
+    {
+      "institutionId": "364",
+      "name": "Health Sciences",
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 63427,
+        "char_end": 63453,
+        "excerpt": "Faculty of Health Sciences"
+      },
+      "normalization_key": "faculty|health sciences"
+    },
+    {
+      "institutionId": "364",
+      "name": "Law",
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 63591,
+        "char_end": 63605,
+        "excerpt": "Faculty of Law"
+      },
+      "normalization_key": "faculty|law"
+    },
+    {
+      "institutionId": "364",
+      "name": "Science",
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 63673,
+        "char_end": 63691,
+        "excerpt": "Faculty of Science"
+      },
+      "normalization_key": "faculty|science"
+    },
+    {
+      "institutionId": "364",
+      "name": "Tourism and Hospitality",
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 81196,
+        "char_end": 81229,
+        "excerpt": "School of Tourism and Hospitality"
+      },
+      "normalization_key": "faculty|tourism and hospitality"
+    },
+    {
+      "institutionId": "364",
+      "name": "Law also has various research institutes and",
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 151182,
+        "char_end": 151237,
+        "excerpt": "Faculty of Law also has various research institutes and"
+      },
+      "normalization_key": "faculty|law also has various research institutes and"
+    },
+    {
+      "institutionId": "364",
+      "name": "Science.",
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 157949,
+        "char_end": 157968,
+        "excerpt": "Faculty of Science."
+      },
+      "normalization_key": "faculty|science."
+    },
+    {
+      "institutionId": "364",
+      "name": "Science.",
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 161967,
+        "char_end": 161986,
+        "excerpt": "Faculty of Science."
+      },
+      "normalization_key": "faculty|science."
+    },
+    {
+      "institutionId": "364",
+      "name": "Science.",
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 163836,
+        "char_end": 163855,
+        "excerpt": "Faculty of Science."
+      },
+      "normalization_key": "faculty|science."
+    },
+    {
+      "institutionId": "364",
+      "name": "Science.",
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 165805,
+        "char_end": 165824,
+        "excerpt": "Faculty of Science."
+      },
+      "normalization_key": "faculty|science."
+    },
+    {
+      "institutionId": "364",
+      "name": "Science.",
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 168179,
+        "char_end": 168198,
+        "excerpt": "Faculty of Science."
+      },
+      "normalization_key": "faculty|science."
+    },
+    {
+      "institutionId": "364",
+      "name": "Science.",
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 170079,
+        "char_end": 170098,
+        "excerpt": "Faculty of Science."
+      },
+      "normalization_key": "faculty|science."
+    },
+    {
+      "institutionId": "364",
+      "name": "Science.",
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 171719,
+        "char_end": 171738,
+        "excerpt": "Faculty of Science."
+      },
+      "normalization_key": "faculty|science."
+    },
+    {
+      "institutionId": "364",
+      "name": "Science.",
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 173055,
+        "char_end": 173074,
+        "excerpt": "Faculty of Science."
+      },
+      "normalization_key": "faculty|science."
+    }
+  ],
+  "programmes": [
+    {
+      "id": "prog:364:Degree|970f519c2cad|ba",
+      "institutionId": "364",
+      "name": "ba",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 4875,
+        "char_end": 4877,
+        "excerpt": "ba"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:364:Degree|970f519c2cad|ba",
+      "institutionId": "364",
+      "name": "ba",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 7346,
+        "char_end": 7348,
+        "excerpt": "ba"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:364:Degree|970f519c2cad|ba",
+      "institutionId": "364",
+      "name": "ba",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 7980,
+        "char_end": 7982,
+        "excerpt": "ba"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:364:Degree|970f519c2cad|ba",
+      "institutionId": "364",
+      "name": "BA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 67164,
+        "char_end": 67166,
+        "excerpt": "BA"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:364:Degree|273943a28969|ba (communication design)",
+      "institutionId": "364",
+      "name": "BA (COMMUNICATION DESIGN)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 67184,
+        "char_end": 67209,
+        "excerpt": "BA (COMMUNICATION DESIGN)"
+      },
+      "normalization_key": "Degree|273943a28969|ba (communication design)"
+    },
+    {
+      "id": "prog:364:Degree|18dc3d4e04d0|ba (digital media design)",
+      "institutionId": "364",
+      "name": "BA (DIGITAL MEDIA DESIGN)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 67620,
+        "char_end": 67645,
+        "excerpt": "BA (DIGITAL MEDIA DESIGN)"
+      },
+      "normalization_key": "Degree|18dc3d4e04d0|ba (digital media design)"
+    },
+    {
+      "id": "prog:364:Degree|67b4115d82c0|ba (industrial design)",
+      "institutionId": "364",
+      "name": "BA (INDUSTRIAL DESIGN)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 68154,
+        "char_end": 68176,
+        "excerpt": "BA (INDUSTRIAL DESIGN)"
+      },
+      "normalization_key": "Degree|67b4115d82c0|ba (industrial design)"
+    },
+    {
+      "id": "prog:364:Degree|97a8ff7cf41e|ba (interior design)",
+      "institutionId": "364",
+      "name": "BA (INTERIOR DESIGN)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 68770,
+        "char_end": 68790,
+        "excerpt": "BA (INTERIOR DESIGN)"
+      },
+      "normalization_key": "Degree|97a8ff7cf41e|ba (interior design)"
+    },
+    {
+      "id": "prog:364:Degree|74314103d79f|ba (fashion design)",
+      "institutionId": "364",
+      "name": "BA (FASHION DESIGN)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 69081,
+        "char_end": 69100,
+        "excerpt": "BA (FASHION DESIGN)"
+      },
+      "normalization_key": "Degree|74314103d79f|ba (fashion design)"
+    },
+    {
+      "id": "prog:364:Degree|f6a01ec2a83e|ba (visual art)",
+      "institutionId": "364",
+      "name": "BA (VISUAL ART)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 69453,
+        "char_end": 69468,
+        "excerpt": "BA (VISUAL ART)"
+      },
+      "normalization_key": "Degree|f6a01ec2a83e|ba (visual art)"
+    },
+    {
+      "id": "prog:364:Degree|d4f0fdda5634|ba in visual art",
+      "institutionId": "364",
+      "name": "BA in Visual Art",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 70124,
+        "char_end": 70140,
+        "excerpt": "BA in Visual Art"
+      },
+      "normalization_key": "Degree|d4f0fdda5634|ba in visual art"
+    },
+    {
+      "id": "prog:364:Diploma|14d7b67322d8|diploma in fada provided that:",
+      "institutionId": "364",
+      "name": "Diploma in FADA provided that:",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 74623,
+        "char_end": 74653,
+        "excerpt": "Diploma in FADA provided that:"
+      },
+      "normalization_key": "Diploma|14d7b67322d8|diploma in fada provided that:"
+    },
+    {
+      "id": "prog:364:Diploma|05a36108679b|diploma in architecture",
+      "institutionId": "364",
+      "name": "Diploma in Architecture",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "raw_span": "Maths 5 ",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+              "char_start": 77104,
+              "char_end": 77112,
+              "excerpt": "Maths 5"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 77041,
+        "char_end": 77064,
+        "excerpt": "Diploma in Architecture"
+      },
+      "normalization_key": "Diploma|05a36108679b|diploma in architecture"
+    },
+    {
+      "id": "prog:364:Diploma|6533af5d7361|diploma in fashion production",
+      "institutionId": "364",
+      "name": "Diploma in Fashion Production",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "raw_span": "Maths Lit 5 ",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+              "char_start": 77193,
+              "char_end": 77205,
+              "excerpt": "Maths Lit 5"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 77129,
+        "char_end": 77158,
+        "excerpt": "Diploma in Fashion Production"
+      },
+      "normalization_key": "Diploma|6533af5d7361|diploma in fashion production"
+    },
+    {
+      "id": "prog:364:Diploma|6f6e9c65f563|diploma in jewellery design and manufacture",
+      "institutionId": "364",
+      "name": "Diploma in Jewellery Design and Manufacture",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "raw_span": "Maths Lit 5 ",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+              "char_start": 77464,
+              "char_end": 77476,
+              "excerpt": "Maths Lit 5"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "raw_span": "Maths Lit 5 ",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+              "char_start": 77553,
+              "char_end": 77565,
+              "excerpt": "Maths Lit 5"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "raw_span": "Maths Lit 5 ",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+              "char_start": 77636,
+              "char_end": 77648,
+              "excerpt": "Maths Lit 5"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "raw_span": "Maths Lit 5 ",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+              "char_start": 77722,
+              "char_end": 77734,
+              "excerpt": "Maths Lit 5"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "raw_span": "Maths Lit 5 ",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+              "char_start": 77806,
+              "char_end": 77818,
+              "excerpt": "Maths Lit 5"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 77222,
+        "char_end": 77265,
+        "excerpt": "Diploma in Jewellery Design and Manufacture"
+      },
+      "normalization_key": "Diploma|6f6e9c65f563|diploma in jewellery design and manufacture"
+    },
+    {
+      "id": "prog:364:Degree|273943a28969|ba (communication design)",
+      "institutionId": "364",
+      "name": "BA (Communication Design)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "raw_span": "Maths Lit 5 ",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+              "char_start": 77464,
+              "char_end": 77476,
+              "excerpt": "Maths Lit 5"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "raw_span": "Maths Lit 5 ",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+              "char_start": 77553,
+              "char_end": 77565,
+              "excerpt": "Maths Lit 5"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "raw_span": "Maths Lit 5 ",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+              "char_start": 77636,
+              "char_end": 77648,
+              "excerpt": "Maths Lit 5"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "raw_span": "Maths Lit 5 ",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+              "char_start": 77722,
+              "char_end": 77734,
+              "excerpt": "Maths Lit 5"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "raw_span": "Maths Lit 5 ",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+              "char_start": 77806,
+              "char_end": 77818,
+              "excerpt": "Maths Lit 5"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 77404,
+        "char_end": 77429,
+        "excerpt": "BA (Communication Design)"
+      },
+      "normalization_key": "Degree|273943a28969|ba (communication design)"
+    },
+    {
+      "id": "prog:364:Degree|18dc3d4e04d0|ba (digital media design)",
+      "institutionId": "364",
+      "name": "BA (Digital Media Design)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "raw_span": "Maths Lit 5 ",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+              "char_start": 77464,
+              "char_end": 77476,
+              "excerpt": "Maths Lit 5"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "raw_span": "Maths Lit 5 ",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+              "char_start": 77553,
+              "char_end": 77565,
+              "excerpt": "Maths Lit 5"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "raw_span": "Maths Lit 5 ",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+              "char_start": 77636,
+              "char_end": 77648,
+              "excerpt": "Maths Lit 5"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "raw_span": "Maths Lit 5 ",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+              "char_start": 77722,
+              "char_end": 77734,
+              "excerpt": "Maths Lit 5"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "raw_span": "Maths Lit 5 ",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+              "char_start": 77806,
+              "char_end": 77818,
+              "excerpt": "Maths Lit 5"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 77493,
+        "char_end": 77518,
+        "excerpt": "BA (Digital Media Design)"
+      },
+      "normalization_key": "Degree|18dc3d4e04d0|ba (digital media design)"
+    },
+    {
+      "id": "prog:364:Degree|74314103d79f|ba (fashion design)",
+      "institutionId": "364",
+      "name": "BA (Fashion Design)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "raw_span": "Maths Lit 5 ",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+              "char_start": 77464,
+              "char_end": 77476,
+              "excerpt": "Maths Lit 5"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "raw_span": "Maths Lit 5 ",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+              "char_start": 77553,
+              "char_end": 77565,
+              "excerpt": "Maths Lit 5"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "raw_span": "Maths Lit 5 ",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+              "char_start": 77636,
+              "char_end": 77648,
+              "excerpt": "Maths Lit 5"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "raw_span": "Maths Lit 5 ",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+              "char_start": 77722,
+              "char_end": 77734,
+              "excerpt": "Maths Lit 5"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "raw_span": "Maths Lit 5 ",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+              "char_start": 77806,
+              "char_end": 77818,
+              "excerpt": "Maths Lit 5"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 77582,
+        "char_end": 77601,
+        "excerpt": "BA (Fashion Design)"
+      },
+      "normalization_key": "Degree|74314103d79f|ba (fashion design)"
+    },
+    {
+      "id": "prog:364:Degree|67b4115d82c0|ba (industrial design)",
+      "institutionId": "364",
+      "name": "BA (Industrial Design)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "raw_span": "Maths Lit 5 ",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+              "char_start": 77553,
+              "char_end": 77565,
+              "excerpt": "Maths Lit 5"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "raw_span": "Maths Lit 5 ",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+              "char_start": 77636,
+              "char_end": 77648,
+              "excerpt": "Maths Lit 5"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "raw_span": "Maths Lit 5 ",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+              "char_start": 77722,
+              "char_end": 77734,
+              "excerpt": "Maths Lit 5"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "raw_span": "Maths Lit 5 ",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+              "char_start": 77806,
+              "char_end": 77818,
+              "excerpt": "Maths Lit 5"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 77665,
+        "char_end": 77687,
+        "excerpt": "BA (Industrial Design)"
+      },
+      "normalization_key": "Degree|67b4115d82c0|ba (industrial design)"
+    },
+    {
+      "id": "prog:364:Degree|97a8ff7cf41e|ba (interior design)",
+      "institutionId": "364",
+      "name": "BA (Interior Design)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "raw_span": "Maths Lit 5 ",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+              "char_start": 77636,
+              "char_end": 77648,
+              "excerpt": "Maths Lit 5"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "raw_span": "Maths Lit 5 ",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+              "char_start": 77722,
+              "char_end": 77734,
+              "excerpt": "Maths Lit 5"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "raw_span": "Maths Lit 5 ",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+              "char_start": 77806,
+              "char_end": 77818,
+              "excerpt": "Maths Lit 5"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 77751,
+        "char_end": 77771,
+        "excerpt": "BA (Interior Design)"
+      },
+      "normalization_key": "Degree|97a8ff7cf41e|ba (interior design)"
+    },
+    {
+      "id": "prog:364:Degree|f6a01ec2a83e|ba (visual art)",
+      "institutionId": "364",
+      "name": "BA (Visual Art)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "raw_span": "Maths Lit 5 ",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+              "char_start": 77722,
+              "char_end": 77734,
+              "excerpt": "Maths Lit 5"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "raw_span": "Maths Lit 5 ",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+              "char_start": 77806,
+              "char_end": 77818,
+              "excerpt": "Maths Lit 5"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 77835,
+        "char_end": 77850,
+        "excerpt": "BA (Visual Art)"
+      },
+      "normalization_key": "Degree|f6a01ec2a83e|ba (visual art)"
+    },
+    {
+      "id": "prog:364:Degree|be7827c2b906|ba in visual art ug degree may be exempt –",
+      "institutionId": "364",
+      "name": "BA in Visual Art UG degree may be exempt –",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 78215,
+        "char_end": 78257,
+        "excerpt": "BA in Visual Art UG degree may be exempt –"
+      },
+      "normalization_key": "Degree|be7827c2b906|ba in visual art ug degree may be exempt –"
+    },
+    {
+      "id": "prog:364:Degree|970f519c2cad|ba",
+      "institutionId": "364",
+      "name": "BA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 78615,
+        "char_end": 78617,
+        "excerpt": "BA"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:364:Degree|970f519c2cad|ba",
+      "institutionId": "364",
+      "name": "BA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 78811,
+        "char_end": 78813,
+        "excerpt": "BA"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:364:Degree|ee1ba0eec544|bachelor of arts degree (3 years)",
+      "institutionId": "364",
+      "name": "Bachelor of Arts Degree (3 years)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 84255,
+        "char_end": 84288,
+        "excerpt": "Bachelor of Arts Degree (3 years)"
+      },
+      "normalization_key": "Degree|ee1ba0eec544|bachelor of arts degree (3 years)"
+    },
+    {
+      "id": "prog:364:Degree|10fd1e7a10d6|bachelor of commerce degree (3 years)",
+      "institutionId": "364",
+      "name": "Bachelor of Commerce Degree (3 years)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 84596,
+        "char_end": 84633,
+        "excerpt": "Bachelor of Commerce Degree (3 years)"
+      },
+      "normalization_key": "Degree|10fd1e7a10d6|bachelor of commerce degree (3 years)"
+    },
+    {
+      "id": "prog:364:Diploma|79790b85a35c|diploma in accounting science. however, students who complete the bachelors of c",
+      "institutionId": "364",
+      "name": "Diploma in Accounting Science. However, students who complete the Bachelors of Commerce in",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 87138,
+        "char_end": 87228,
+        "excerpt": "Diploma in Accounting Science. However, students who complete the Bachelors of Commerce in"
+      },
+      "normalization_key": "Diploma|79790b85a35c|diploma in accounting science. however, students who complete the bachelors of c"
+    },
+    {
+      "id": "prog:364:Diploma|d4644b0b3660|diploma in accounting science.",
+      "institutionId": "364",
+      "name": "Diploma in Accounting Science.",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 87524,
+        "char_end": 87554,
+        "excerpt": "Diploma in Accounting Science."
+      },
+      "normalization_key": "Diploma|d4644b0b3660|diploma in accounting science."
+    },
+    {
+      "id": "prog:364:Degree|44c3f07af742|bachelor of commerce extended degree (4 years)",
+      "institutionId": "364",
+      "name": "Bachelor of Commerce Extended Degree (4 years)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 87975,
+        "char_end": 88021,
+        "excerpt": "Bachelor of Commerce Extended Degree (4 years)"
+      },
+      "normalization_key": "Degree|44c3f07af742|bachelor of commerce extended degree (4 years)"
+    },
+    {
+      "id": "prog:364:Degree|b5508e98e435|bcom",
+      "institutionId": "364",
+      "name": "BCom",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 34,
+            "raw_span": "Accounting Extended Degree (B34",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+              "char_start": 89387,
+              "char_end": 89418,
+              "excerpt": "Accounting Extended Degree (B34"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 89226,
+        "char_end": 89230,
+        "excerpt": "BCom"
+      },
+      "normalization_key": "Degree|b5508e98e435|bcom"
+    },
+    {
+      "id": "prog:364:Diploma|79790b85a35c|diploma in accounting science. however, students who complete the bachelors of c",
+      "institutionId": "364",
+      "name": "Diploma in Accounting Science. However, students who complete the Bachelors of Commerce in",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 89484,
+        "char_end": 89574,
+        "excerpt": "Diploma in Accounting Science. However, students who complete the Bachelors of Commerce in"
+      },
+      "normalization_key": "Diploma|79790b85a35c|diploma in accounting science. however, students who complete the bachelors of c"
+    },
+    {
+      "id": "prog:364:Diploma|d4644b0b3660|diploma in accounting science.",
+      "institutionId": "364",
+      "name": "Diploma in Accounting Science.",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 89879,
+        "char_end": 89909,
+        "excerpt": "Diploma in Accounting Science."
+      },
+      "normalization_key": "Diploma|d4644b0b3660|diploma in accounting science."
+    },
+    {
+      "id": "prog:364:Diploma|1cbac21bfa24|diploma in marketing or retail business management provided that they:",
+      "institutionId": "364",
+      "name": "diploma in Marketing or Retail Business Management provided that they:",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "English",
+            "minimum_percentage": 1,
+            "raw_span": "English 1",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+              "char_start": 92439,
+              "char_end": 92448,
+              "excerpt": "English 1"
+            }
+          },
+          {
+            "subject": "English",
+            "minimum_percentage": 1,
+            "raw_span": "English 1",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+              "char_start": 92451,
+              "char_end": 92460,
+              "excerpt": "English 1"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 1,
+            "raw_span": "Mathematics for Marketers 1",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+              "char_start": 92496,
+              "char_end": 92523,
+              "excerpt": "Mathematics for Marketers 1"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 92198,
+        "char_end": 92268,
+        "excerpt": "diploma in Marketing or Retail Business Management provided that they:"
+      },
+      "normalization_key": "Diploma|1cbac21bfa24|diploma in marketing or retail business management provided that they:"
+    },
+    {
+      "id": "prog:364:Diploma|03d6b1e106ab|diploma in retail business management.",
+      "institutionId": "364",
+      "name": "Diploma in Retail Business Management.",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 92762,
+        "char_end": 92800,
+        "excerpt": "Diploma in Retail Business Management."
+      },
+      "normalization_key": "Diploma|03d6b1e106ab|diploma in retail business management."
+    },
+    {
+      "id": "prog:364:Degree|c0a2c54561bf|bachelor of commerce in",
+      "institutionId": "364",
+      "name": "BACHELOR OF COMMERCE IN",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 97195,
+        "char_end": 97218,
+        "excerpt": "BACHELOR OF COMMERCE IN"
+      },
+      "normalization_key": "Degree|c0a2c54561bf|bachelor of commerce in"
+    },
+    {
+      "id": "prog:364:Degree|1f45b63d9cad|bachelor of human resource",
+      "institutionId": "364",
+      "name": "BACHELOR OF HUMAN RESOURCE",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 97374,
+        "char_end": 97400,
+        "excerpt": "BACHELOR OF HUMAN RESOURCE"
+      },
+      "normalization_key": "Degree|1f45b63d9cad|bachelor of human resource"
+    },
+    {
+      "id": "prog:364:Degree|6d880ff07b98|bachelor of commerce degree (3 y ears)",
+      "institutionId": "364",
+      "name": "Bachelor of Commerce Degree (3 Y ears)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 100751,
+        "char_end": 100789,
+        "excerpt": "Bachelor of Commerce Degree (3 Y ears)"
+      },
+      "normalization_key": "Degree|6d880ff07b98|bachelor of commerce degree (3 y ears)"
+    },
+    {
+      "id": "prog:364:Degree|44c3f07af742|bachelor of commerce extended degree (4 years)",
+      "institutionId": "364",
+      "name": "Bachelor of Commerce Extended Degree (4 years)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 34,
+            "raw_span": "Accounting B34",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+              "char_start": 101408,
+              "char_end": 101422,
+              "excerpt": "Accounting B34"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 101361,
+        "char_end": 101407,
+        "excerpt": "Bachelor of Commerce Extended Degree (4 years)"
+      },
+      "normalization_key": "Degree|44c3f07af742|bachelor of commerce extended degree (4 years)"
+    },
+    {
+      "id": "prog:364:Diploma|38f561ebc166|diploma in cbe provided that:",
+      "institutionId": "364",
+      "name": "Diploma in CBE provided that:",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 103031,
+        "char_end": 103060,
+        "excerpt": "Diploma in CBE provided that:"
+      },
+      "normalization_key": "Diploma|38f561ebc166|diploma in cbe provided that:"
+    },
+    {
+      "id": "prog:364:Degree|19356ac03a93|bcom (accountancy)",
+      "institutionId": "364",
+      "name": "BCom (Accountancy)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 105495,
+        "char_end": 105513,
+        "excerpt": "BCom (Accountancy)"
+      },
+      "normalization_key": "Degree|19356ac03a93|bcom (accountancy)"
+    },
+    {
+      "id": "prog:364:Degree|970f519c2cad|ba",
+      "institutionId": "364",
+      "name": "BA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 105526,
+        "char_end": 105528,
+        "excerpt": "BA"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:364:Degree|19356ac03a93|bcom (accountancy)",
+      "institutionId": "364",
+      "name": "BCom (Accountancy)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 105756,
+        "char_end": 105774,
+        "excerpt": "BCom (Accountancy)"
+      },
+      "normalization_key": "Degree|19356ac03a93|bcom (accountancy)"
+    },
+    {
+      "id": "prog:364:Degree|970f519c2cad|ba",
+      "institutionId": "364",
+      "name": "BA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 105787,
+        "char_end": 105789,
+        "excerpt": "BA"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:364:Degree|19356ac03a93|bcom (accountancy)",
+      "institutionId": "364",
+      "name": "BCom (Accountancy)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 34,
+            "raw_span": "Accounting) B34",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+              "char_start": 106529,
+              "char_end": 106544,
+              "excerpt": "Accounting) B34"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 106493,
+        "char_end": 106511,
+        "excerpt": "BCom (Accountancy)"
+      },
+      "normalization_key": "Degree|19356ac03a93|bcom (accountancy)"
+    },
+    {
+      "id": "prog:364:Degree|8f8bfd5f430b|bcom (accounting)",
+      "institutionId": "364",
+      "name": "BCom (Accounting)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 34,
+            "raw_span": "Accounting) B34",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+              "char_start": 106529,
+              "char_end": 106544,
+              "excerpt": "Accounting) B34"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 106523,
+        "char_end": 106540,
+        "excerpt": "BCom (Accounting)"
+      },
+      "normalization_key": "Degree|8f8bfd5f430b|bcom (accounting)"
+    },
+    {
+      "id": "prog:364:Degree|60b6b4a68dbc|bcom in accountancy, will be",
+      "institutionId": "364",
+      "name": "BCom in Accountancy, will be",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 106626,
+        "char_end": 106654,
+        "excerpt": "BCom in Accountancy, will be"
+      },
+      "normalization_key": "Degree|60b6b4a68dbc|bcom in accountancy, will be"
+    },
+    {
+      "id": "prog:364:Degree|970f519c2cad|ba",
+      "institutionId": "364",
+      "name": "BA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "English",
+            "minimum_percentage": 4,
+            "raw_span": "English 4\n",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+              "char_start": 108084,
+              "char_end": 108094,
+              "excerpt": "English 4"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 30,
+            "raw_span": "Mathematical Literacy 30\n",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+              "char_start": 108059,
+              "char_end": 108084,
+              "excerpt": "Mathematical Literacy 30"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3,
+            "raw_span": "Mathematics 3\n",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+              "char_start": 108094,
+              "char_end": 108108,
+              "excerpt": "Mathematics 3"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 6,
+            "raw_span": "Mathematical Literacy 6\n",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+              "char_start": 108108,
+              "char_end": 108132,
+              "excerpt": "Mathematical Literacy 6"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 108132,
+        "char_end": 108134,
+        "excerpt": "BA"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:364:Degree|b5508e98e435|bcom",
+      "institutionId": "364",
+      "name": "BCom",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "English",
+            "minimum_percentage": 4,
+            "raw_span": "English 4\n",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+              "char_start": 108201,
+              "char_end": 108211,
+              "excerpt": "English 4"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 30,
+            "raw_span": "Mathematical Literacy 30\n",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+              "char_start": 108176,
+              "char_end": 108201,
+              "excerpt": "Mathematical Literacy 30"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "raw_span": "Mathematics 4\n",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+              "char_start": 108211,
+              "char_end": 108225,
+              "excerpt": "Mathematics 4"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 6,
+            "raw_span": "Mathematical Literacy 6\n",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+              "char_start": 108225,
+              "char_end": 108249,
+              "excerpt": "Mathematical Literacy 6"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 108249,
+        "char_end": 108253,
+        "excerpt": "BCom"
+      },
+      "normalization_key": "Degree|b5508e98e435|bcom"
+    },
+    {
+      "id": "prog:364:Degree|19356ac03a93|bcom (accountancy)",
+      "institutionId": "364",
+      "name": "BCom (Accountancy)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "English",
+            "minimum_percentage": 4,
+            "raw_span": "English 4\n",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+              "char_start": 108332,
+              "char_end": 108342,
+              "excerpt": "English 4"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 28,
+            "raw_span": "Mathematical Literacy * 28\n",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+              "char_start": 108305,
+              "char_end": 108332,
+              "excerpt": "Mathematical Literacy * 28"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "raw_span": "Mathematics 4\n",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+              "char_start": 108342,
+              "char_end": 108356,
+              "excerpt": "Mathematics 4"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "raw_span": "Mathematical Literacy * 5\n",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+              "char_start": 108356,
+              "char_end": 108382,
+              "excerpt": "Mathematical Literacy * 5"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 108414,
+        "char_end": 108432,
+        "excerpt": "BCom (Accountancy)"
+      },
+      "normalization_key": "Degree|19356ac03a93|bcom (accountancy)"
+    },
+    {
+      "id": "prog:364:Degree|2f626699033c|bachelor of education degrees).",
+      "institutionId": "364",
+      "name": "Bachelor of Education degrees).",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 108988,
+        "char_end": 109019,
+        "excerpt": "Bachelor of Education degrees)."
+      },
+      "normalization_key": "Degree|2f626699033c|bachelor of education degrees)."
+    },
+    {
+      "id": "prog:364:Degree|52ebf3420729|bed in foundation phase teaching (grades r-3)",
+      "institutionId": "364",
+      "name": "BEd in Foundation Phase Teaching (Grades R-3)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 109068,
+        "char_end": 109113,
+        "excerpt": "BEd in Foundation Phase Teaching (Grades R-3)"
+      },
+      "normalization_key": "Degree|52ebf3420729|bed in foundation phase teaching (grades r-3)"
+    },
+    {
+      "id": "prog:364:Degree|6b7e8cf7169b|bed in intermediate phase teaching (grades 4-7)",
+      "institutionId": "364",
+      "name": "BEd in Intermediate Phase Teaching (Grades 4-7)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 109116,
+        "char_end": 109163,
+        "excerpt": "BEd in Intermediate Phase Teaching (Grades 4-7)"
+      },
+      "normalization_key": "Degree|6b7e8cf7169b|bed in intermediate phase teaching (grades 4-7)"
+    },
+    {
+      "id": "prog:364:Degree|f7e125428103|bed in senior phase and fet teaching (grades 8-12)",
+      "institutionId": "364",
+      "name": "BEd in Senior Phase and FET Teaching (Grades 8-12)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 109223,
+        "char_end": 109273,
+        "excerpt": "BEd in Senior Phase and FET Teaching (Grades 8-12)"
+      },
+      "normalization_key": "Degree|f7e125428103|bed in senior phase and fet teaching (grades 8-12)"
+    },
+    {
+      "id": "prog:364:Degree|c5052532c220|bed",
+      "institutionId": "364",
+      "name": "BEd",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 110816,
+        "char_end": 110819,
+        "excerpt": "BEd"
+      },
+      "normalization_key": "Degree|c5052532c220|bed"
+    },
+    {
+      "id": "prog:364:Degree|c5052532c220|bed",
+      "institutionId": "364",
+      "name": "BEd",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 111038,
+        "char_end": 111041,
+        "excerpt": "BEd"
+      },
+      "normalization_key": "Degree|c5052532c220|bed"
+    },
+    {
+      "id": "prog:364:Degree|c5052532c220|bed",
+      "institutionId": "364",
+      "name": "BEd",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 5,
+            "raw_span": "ACCOUNTING B5",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+              "char_start": 111477,
+              "char_end": 111490,
+              "excerpt": "ACCOUNTING B5"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 111381,
+        "char_end": 111384,
+        "excerpt": "BEd"
+      },
+      "normalization_key": "Degree|c5052532c220|bed"
+    },
+    {
+      "id": "prog:364:Degree|c5052532c220|bed",
+      "institutionId": "364",
+      "name": "BEd",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 111844,
+        "char_end": 111847,
+        "excerpt": "BEd"
+      },
+      "normalization_key": "Degree|c5052532c220|bed"
+    },
+    {
+      "id": "prog:364:Degree|c5052532c220|bed",
+      "institutionId": "364",
+      "name": "BEd",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "raw_span": "MATHEMATICS B5",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+              "char_start": 112769,
+              "char_end": 112783,
+              "excerpt": "MATHEMATICS B5"
+            }
+          },
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 5,
+            "raw_span": "LIFE SCIENCES B5",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+              "char_start": 112623,
+              "char_end": 112639,
+              "excerpt": "LIFE SCIENCES B5"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 112348,
+        "char_end": 112351,
+        "excerpt": "BEd"
+      },
+      "normalization_key": "Degree|c5052532c220|bed"
+    },
+    {
+      "id": "prog:364:Degree|c5052532c220|bed",
+      "institutionId": "364",
+      "name": "BEd",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 113132,
+        "char_end": 113135,
+        "excerpt": "BEd"
+      },
+      "normalization_key": "Degree|c5052532c220|bed"
+    },
+    {
+      "id": "prog:364:Degree|c5052532c220|bed",
+      "institutionId": "364",
+      "name": "BEd",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 113973,
+        "char_end": 113976,
+        "excerpt": "BEd"
+      },
+      "normalization_key": "Degree|c5052532c220|bed"
+    },
+    {
+      "id": "prog:364:Degree|c5052532c220|bed",
+      "institutionId": "364",
+      "name": "BEd",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 114246,
+        "char_end": 114249,
+        "excerpt": "BEd"
+      },
+      "normalization_key": "Degree|c5052532c220|bed"
+    },
+    {
+      "id": "prog:364:Degree|cc4b86819668|beng",
+      "institutionId": "364",
+      "name": "BEng",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 118624,
+        "char_end": 118628,
+        "excerpt": "BEng"
+      },
+      "normalization_key": "Degree|cc4b86819668|beng"
+    },
+    {
+      "id": "prog:364:Degree|cc4b86819668|beng",
+      "institutionId": "364",
+      "name": "BEng",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 118633,
+        "char_end": 118637,
+        "excerpt": "BEng"
+      },
+      "normalization_key": "Degree|cc4b86819668|beng"
+    },
+    {
+      "id": "prog:364:Degree|66ddae8e74b6|bachelor of engineering (beng) degree (4 years)",
+      "institutionId": "364",
+      "name": "Bachelor of Engineering (BEng) Degree (4 years)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 119126,
+        "char_end": 119173,
+        "excerpt": "Bachelor of Engineering (BEng) Degree (4 years)"
+      },
+      "normalization_key": "Degree|66ddae8e74b6|bachelor of engineering (beng) degree (4 years)"
+    },
+    {
+      "id": "prog:364:Degree|1d332693bb81|bachelor of engineering technology (bengtech) degree programmes (3 years)",
+      "institutionId": "364",
+      "name": "Bachelor of Engineering Technology (BEngTech) Degree Programmes (3 years)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 119559,
+        "char_end": 119632,
+        "excerpt": "Bachelor of Engineering Technology (BEngTech) Degree Programmes (3 years)"
+      },
+      "normalization_key": "Degree|1d332693bb81|bachelor of engineering technology (bengtech) degree programmes (3 years)"
+    },
+    {
+      "id": "prog:364:Degree|4bdb78964ea9|bachelor of mine surveying degree (3 years)",
+      "institutionId": "364",
+      "name": "Bachelor of Mine Surveying Degree (3 years)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 120940,
+        "char_end": 120983,
+        "excerpt": "Bachelor of Mine Surveying Degree (3 years)"
+      },
+      "normalization_key": "Degree|4bdb78964ea9|bachelor of mine surveying degree (3 years)"
+    },
+    {
+      "id": "prog:364:Degree|577d1219f2bb|bachelor of science in construction (bsc) degree (3 years)",
+      "institutionId": "364",
+      "name": "Bachelor of Science in Construction (BSc) Degree (3 years)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 121151,
+        "char_end": 121209,
+        "excerpt": "Bachelor of Science in Construction (BSc) Degree (3 years)"
+      },
+      "normalization_key": "Degree|577d1219f2bb|bachelor of science in construction (bsc) degree (3 years)"
+    },
+    {
+      "id": "prog:364:Degree|073ba5df444c|bachelor of urban and regional planning degree (3 years)",
+      "institutionId": "364",
+      "name": "Bachelor of Urban and Regional Planning Degree (3 years)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 121388,
+        "char_end": 121444,
+        "excerpt": "Bachelor of Urban and Regional Planning Degree (3 years)"
+      },
+      "normalization_key": "Degree|073ba5df444c|bachelor of urban and regional planning degree (3 years)"
+    },
+    {
+      "id": "prog:364:Degree|cc4b86819668|beng",
+      "institutionId": "364",
+      "name": "BEng",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 122462,
+        "char_end": 122466,
+        "excerpt": "BEng"
+      },
+      "normalization_key": "Degree|cc4b86819668|beng"
+    },
+    {
+      "id": "prog:364:Degree|cc4b86819668|beng",
+      "institutionId": "364",
+      "name": "BEng",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 123606,
+        "char_end": 123610,
+        "excerpt": "BEng"
+      },
+      "normalization_key": "Degree|cc4b86819668|beng"
+    },
+    {
+      "id": "prog:364:Degree|cc4b86819668|beng",
+      "institutionId": "364",
+      "name": "BEng",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 124448,
+        "char_end": 124452,
+        "excerpt": "BEng"
+      },
+      "normalization_key": "Degree|cc4b86819668|beng"
+    },
+    {
+      "id": "prog:364:Degree|ffb17aedc259|bachelor of science in construction (bsc) degree programme",
+      "institutionId": "364",
+      "name": "Bachelor of Science in Construction (BSc) Degree Programme",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 125321,
+        "char_end": 125379,
+        "excerpt": "Bachelor of Science in Construction (BSc) Degree Programme"
+      },
+      "normalization_key": "Degree|ffb17aedc259|bachelor of science in construction (bsc) degree programme"
+    },
+    {
+      "id": "prog:364:Degree|91a498fc177b|bachelor of engineering technology (bengtech) degree programmes",
+      "institutionId": "364",
+      "name": "Bachelor of Engineering Technology (BEngTech) Degree Programmes",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 125555,
+        "char_end": 125618,
+        "excerpt": "Bachelor of Engineering Technology (BEngTech) Degree Programmes"
+      },
+      "normalization_key": "Degree|91a498fc177b|bachelor of engineering technology (bengtech) degree programmes"
+    },
+    {
+      "id": "prog:364:Degree|da99cc9117ef|bachelor of biokinetics (4 years)",
+      "institutionId": "364",
+      "name": "Bachelor of Biokinetics (4 years)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 128564,
+        "char_end": 128597,
+        "excerpt": "Bachelor of Biokinetics (4 years)"
+      },
+      "normalization_key": "Degree|da99cc9117ef|bachelor of biokinetics (4 years)"
+    },
+    {
+      "id": "prog:364:Degree|a3f3d894f745|bachelor of health sciences (4 years)",
+      "institutionId": "364",
+      "name": "Bachelor of Health Sciences (4 years)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 130068,
+        "char_end": 130105,
+        "excerpt": "Bachelor of Health Sciences (4 years)"
+      },
+      "normalization_key": "Degree|a3f3d894f745|bachelor of health sciences (4 years)"
+    },
+    {
+      "id": "prog:364:Postgraduate|d14ad5ea4912|master of health sciences in chiropractic to comply with",
+      "institutionId": "364",
+      "name": "Master of Health Sciences in Chiropractic to comply with",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 130614,
+        "char_end": 130670,
+        "excerpt": "Master of Health Sciences in Chiropractic to comply with"
+      },
+      "normalization_key": "Postgraduate|d14ad5ea4912|master of health sciences in chiropractic to comply with"
+    },
+    {
+      "id": "prog:364:Postgraduate|7e700d5a4ace|master of health sciences in complementary medicine to comply with",
+      "institutionId": "364",
+      "name": "master of Health Sciences in Complementary Medicine to comply with",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 131436,
+        "char_end": 131502,
+        "excerpt": "master of Health Sciences in Complementary Medicine to comply with"
+      },
+      "normalization_key": "Postgraduate|7e700d5a4ace|master of health sciences in complementary medicine to comply with"
+    },
+    {
+      "id": "prog:364:Degree|6a0d20ff57d7|bachelor of nursing (4 years)",
+      "institutionId": "364",
+      "name": "Bachelor of Nursing (4 years)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 133042,
+        "char_end": 133071,
+        "excerpt": "Bachelor of Nursing (4 years)"
+      },
+      "normalization_key": "Degree|6a0d20ff57d7|bachelor of nursing (4 years)"
+    },
+    {
+      "id": "prog:364:Degree|c5df47b34a8e|bachelor of optometry (4 years)",
+      "institutionId": "364",
+      "name": "Bachelor of Optometry (4 years)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 133456,
+        "char_end": 133487,
+        "excerpt": "Bachelor of Optometry (4 years)"
+      },
+      "normalization_key": "Degree|c5df47b34a8e|bachelor of optometry (4 years)"
+    },
+    {
+      "id": "prog:364:Degree|0f2e5be480ab|bachelor of environmental health (4 years)",
+      "institutionId": "364",
+      "name": "Bachelor of Environmental Health (4 years)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 134186,
+        "char_end": 134228,
+        "excerpt": "Bachelor of Environmental Health (4 years)"
+      },
+      "normalization_key": "Degree|0f2e5be480ab|bachelor of environmental health (4 years)"
+    },
+    {
+      "id": "prog:364:Degree|421d61e65f0a|bachelor of health sciences degree (3 years)",
+      "institutionId": "364",
+      "name": "Bachelor of Health Sciences Degree (3 years)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 134576,
+        "char_end": 134620,
+        "excerpt": "Bachelor of Health Sciences Degree (3 years)"
+      },
+      "normalization_key": "Degree|421d61e65f0a|bachelor of health sciences degree (3 years)"
+    },
+    {
+      "id": "prog:364:Degree|b5508e98e435|bcom",
+      "institutionId": "364",
+      "name": "BCom",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 135162,
+        "char_end": 135166,
+        "excerpt": "BCom"
+      },
+      "normalization_key": "Degree|b5508e98e435|bcom"
+    },
+    {
+      "id": "prog:364:Degree|b5508e98e435|bcom",
+      "institutionId": "364",
+      "name": "BCom",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 137714,
+        "char_end": 137718,
+        "excerpt": "BCom"
+      },
+      "normalization_key": "Degree|b5508e98e435|bcom"
+    },
+    {
+      "id": "prog:364:Diploma|923a15c4bc82|diploma in business information technology: an achievement of at least 70% in ma",
+      "institutionId": "364",
+      "name": "Diploma in Business Information Technology: an achievement of at least 70% in Mathematics and 80% in",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 80,
+            "raw_span": "Mathematics and 80%",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+              "char_start": 138784,
+              "char_end": 138803,
+              "excerpt": "Mathematics and 80%"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 138706,
+        "char_end": 138806,
+        "excerpt": "Diploma in Business Information Technology: an achievement of at least 70% in Mathematics and 80% in"
+      },
+      "normalization_key": "Diploma|923a15c4bc82|diploma in business information technology: an achievement of at least 70% in ma"
+    },
+    {
+      "id": "prog:364:Degree|018c27522244|bachelor of social work (4 years)",
+      "institutionId": "364",
+      "name": "Bachelor of Social Work (4 years)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 140855,
+        "char_end": 140888,
+        "excerpt": "Bachelor of Social Work (4 years)"
+      },
+      "normalization_key": "Degree|018c27522244|bachelor of social work (4 years)"
+    },
+    {
+      "id": "prog:364:Degree|32098e380029|bachelor of arts (3 years)",
+      "institutionId": "364",
+      "name": "Bachelor of Arts (3 years)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 141256,
+        "char_end": 141282,
+        "excerpt": "Bachelor of Arts (3 years)"
+      },
+      "normalization_key": "Degree|32098e380029|bachelor of arts (3 years)"
+    },
+    {
+      "id": "prog:364:Degree|970f519c2cad|ba",
+      "institutionId": "364",
+      "name": "BA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 141283,
+        "char_end": 141285,
+        "excerpt": "BA"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:364:Degree|970f519c2cad|ba",
+      "institutionId": "364",
+      "name": "BA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 142495,
+        "char_end": 142497,
+        "excerpt": "BA"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:364:Degree|970f519c2cad|ba",
+      "institutionId": "364",
+      "name": "BA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 142684,
+        "char_end": 142686,
+        "excerpt": "BA"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:364:Degree|970f519c2cad|ba",
+      "institutionId": "364",
+      "name": "BA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 142960,
+        "char_end": 142962,
+        "excerpt": "BA"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:364:Degree|970f519c2cad|ba",
+      "institutionId": "364",
+      "name": "BA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 143531,
+        "char_end": 143533,
+        "excerpt": "BA"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:364:Degree|bd3f1969d557|bachelor of arts (4 years)",
+      "institutionId": "364",
+      "name": "Bachelor of Arts (4 years)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 143911,
+        "char_end": 143937,
+        "excerpt": "Bachelor of Arts (4 years)"
+      },
+      "normalization_key": "Degree|bd3f1969d557|bachelor of arts (4 years)"
+    },
+    {
+      "id": "prog:364:Degree|970f519c2cad|ba",
+      "institutionId": "364",
+      "name": "BA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 143938,
+        "char_end": 143940,
+        "excerpt": "BA"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:364:Degree|970f519c2cad|ba",
+      "institutionId": "364",
+      "name": "BA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 144240,
+        "char_end": 144242,
+        "excerpt": "BA"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:364:Degree|970f519c2cad|ba",
+      "institutionId": "364",
+      "name": "BA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 144535,
+        "char_end": 144537,
+        "excerpt": "BA"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:364:Degree|970f519c2cad|ba",
+      "institutionId": "364",
+      "name": "BA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 144827,
+        "char_end": 144829,
+        "excerpt": "BA"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:364:Degree|c3b23f51578f|ba (extended)",
+      "institutionId": "364",
+      "name": "BA (Extended)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 145825,
+        "char_end": 145838,
+        "excerpt": "BA (Extended)"
+      },
+      "normalization_key": "Degree|c3b23f51578f|ba (extended)"
+    },
+    {
+      "id": "prog:364:Diploma|ebe5f085699d|diploma in public relations and",
+      "institutionId": "364",
+      "name": "Diploma in Public Relations and",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 145840,
+        "char_end": 145871,
+        "excerpt": "Diploma in Public Relations and"
+      },
+      "normalization_key": "Diploma|ebe5f085699d|diploma in public relations and"
+    },
+    {
+      "id": "prog:364:Degree|970f519c2cad|ba",
+      "institutionId": "364",
+      "name": "BA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 146066,
+        "char_end": 146068,
+        "excerpt": "BA"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:364:Diploma|ebe5f085699d|diploma in public relations and",
+      "institutionId": "364",
+      "name": "Diploma in Public Relations and",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 146764,
+        "char_end": 146795,
+        "excerpt": "Diploma in Public Relations and"
+      },
+      "normalization_key": "Diploma|ebe5f085699d|diploma in public relations and"
+    },
+    {
+      "id": "prog:364:Diploma|6978e4915145|diploma in public relations and communication and diploma in public",
+      "institutionId": "364",
+      "name": "Diploma in Public Relations and Communication and Diploma in Public",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 146914,
+        "char_end": 146981,
+        "excerpt": "Diploma in Public Relations and Communication and Diploma in Public"
+      },
+      "normalization_key": "Diploma|6978e4915145|diploma in public relations and communication and diploma in public"
+    },
+    {
+      "id": "prog:364:Diploma|909f727e032d|diploma in public relations and communication",
+      "institutionId": "364",
+      "name": "DIPLOMA IN PUBLIC RELATIONS AND COMMUNICATION",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 147935,
+        "char_end": 147980,
+        "excerpt": "DIPLOMA IN PUBLIC RELATIONS AND COMMUNICATION"
+      },
+      "normalization_key": "Diploma|909f727e032d|diploma in public relations and communication"
+    },
+    {
+      "id": "prog:364:Diploma|909f727e032d|diploma in public relations and communication",
+      "institutionId": "364",
+      "name": "DIPLOMA IN PUBLIC RELATIONS AND COMMUNICATION",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 148078,
+        "char_end": 148123,
+        "excerpt": "DIPLOMA IN PUBLIC RELATIONS AND COMMUNICATION"
+      },
+      "normalization_key": "Diploma|909f727e032d|diploma in public relations and communication"
+    },
+    {
+      "id": "prog:364:Degree|970f519c2cad|ba",
+      "institutionId": "364",
+      "name": "BA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 148868,
+        "char_end": 148870,
+        "excerpt": "BA"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:364:Degree|970f519c2cad|ba",
+      "institutionId": "364",
+      "name": "BA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 148887,
+        "char_end": 148889,
+        "excerpt": "BA"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:364:Diploma|909f727e032d|diploma in public relations and communication",
+      "institutionId": "364",
+      "name": "DIPLOMA IN PUBLIC RELATIONS AND COMMUNICATION",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 148989,
+        "char_end": 149034,
+        "excerpt": "DIPLOMA IN PUBLIC RELATIONS AND COMMUNICATION"
+      },
+      "normalization_key": "Diploma|909f727e032d|diploma in public relations and communication"
+    },
+    {
+      "id": "prog:364:Diploma|909f727e032d|diploma in public relations and communication",
+      "institutionId": "364",
+      "name": "DIPLOMA IN PUBLIC RELATIONS AND COMMUNICATION",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 149139,
+        "char_end": 149184,
+        "excerpt": "DIPLOMA IN PUBLIC RELATIONS AND COMMUNICATION"
+      },
+      "normalization_key": "Diploma|909f727e032d|diploma in public relations and communication"
+    },
+    {
+      "id": "prog:364:Degree|970f519c2cad|ba",
+      "institutionId": "364",
+      "name": "BA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 149408,
+        "char_end": 149410,
+        "excerpt": "BA"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:364:Diploma|b8408ea6b33b|diploma in public relations and communication (extended).",
+      "institutionId": "364",
+      "name": "Diploma in Public Relations and Communication (Extended).",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 149484,
+        "char_end": 149541,
+        "excerpt": "Diploma in Public Relations and Communication (Extended)."
+      },
+      "normalization_key": "Diploma|b8408ea6b33b|diploma in public relations and communication (extended)."
+    },
+    {
+      "id": "prog:364:Degree|970f519c2cad|ba",
+      "institutionId": "364",
+      "name": "BA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 149585,
+        "char_end": 149587,
+        "excerpt": "BA"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:364:Degree|8f028f940e08|ba (law)",
+      "institutionId": "364",
+      "name": "BA (Law)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 150657,
+        "char_end": 150665,
+        "excerpt": "BA (Law)"
+      },
+      "normalization_key": "Degree|8f028f940e08|ba (law)"
+    },
+    {
+      "id": "prog:364:Degree|242f898b4cfc|bcom (law)",
+      "institutionId": "364",
+      "name": "BCom (Law)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 150667,
+        "char_end": 150677,
+        "excerpt": "BCom (Law)"
+      },
+      "normalization_key": "Degree|242f898b4cfc|bcom (law)"
+    },
+    {
+      "id": "prog:364:Degree|242f898b4cfc|bcom (law)",
+      "institutionId": "364",
+      "name": "BCom (Law)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 152539,
+        "char_end": 152549,
+        "excerpt": "BCom (Law)"
+      },
+      "normalization_key": "Degree|242f898b4cfc|bcom (law)"
+    },
+    {
+      "id": "prog:364:Degree|8f028f940e08|ba (law)",
+      "institutionId": "364",
+      "name": "BA (Law)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 152553,
+        "char_end": 152561,
+        "excerpt": "BA (Law)"
+      },
+      "normalization_key": "Degree|8f028f940e08|ba (law)"
+    },
+    {
+      "id": "prog:364:Degree|8f028f940e08|ba (law)",
+      "institutionId": "364",
+      "name": "BA (LAW)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 153028,
+        "char_end": 153036,
+        "excerpt": "BA (LAW)"
+      },
+      "normalization_key": "Degree|8f028f940e08|ba (law)"
+    },
+    {
+      "id": "prog:364:Degree|242f898b4cfc|bcom (law)",
+      "institutionId": "364",
+      "name": "BCOM (LAW)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 153185,
+        "char_end": 153195,
+        "excerpt": "BCOM (LAW)"
+      },
+      "normalization_key": "Degree|242f898b4cfc|bcom (law)"
+    },
+    {
+      "id": "prog:364:Degree|5f75057e98ee|bsc",
+      "institutionId": "364",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 155195,
+        "char_end": 155198,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:364:Degree|7d2905ab5ef1|bachelor of science in information technology (3 years)",
+      "institutionId": "364",
+      "name": "Bachelor of Science in Information Technology (3 years)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 156607,
+        "char_end": 156662,
+        "excerpt": "Bachelor of Science in Information Technology (3 years)"
+      },
+      "normalization_key": "Degree|7d2905ab5ef1|bachelor of science in information technology (3 years)"
+    },
+    {
+      "id": "prog:364:Degree|5f75057e98ee|bsc",
+      "institutionId": "364",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 157742,
+        "char_end": 157745,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:364:Postgraduate|a870925d4451|honours programme which one can pursue upon completion",
+      "institutionId": "364",
+      "name": "Honours programme which one can pursue upon completion",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 157749,
+        "char_end": 157803,
+        "excerpt": "Honours programme which one can pursue upon completion"
+      },
+      "normalization_key": "Postgraduate|a870925d4451|honours programme which one can pursue upon completion"
+    },
+    {
+      "id": "prog:364:Degree|5f75057e98ee|bsc",
+      "institutionId": "364",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 157811,
+        "char_end": 157814,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:364:Degree|1dcd66da854b|bachelor of science in life and environmental sciences (3 years)",
+      "institutionId": "364",
+      "name": "Bachelor of Science in Life and Environmental Sciences (3 years)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 158142,
+        "char_end": 158206,
+        "excerpt": "Bachelor of Science in Life and Environmental Sciences (3 years)"
+      },
+      "normalization_key": "Degree|1dcd66da854b|bachelor of science in life and environmental sciences (3 years)"
+    },
+    {
+      "id": "prog:364:Degree|291c1d4de6f2|bachelor of science in mathematical sciences (3 years)",
+      "institutionId": "364",
+      "name": "Bachelor of Science in Mathematical Sciences (3 years)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 162145,
+        "char_end": 162199,
+        "excerpt": "Bachelor of Science in Mathematical Sciences (3 years)"
+      },
+      "normalization_key": "Degree|291c1d4de6f2|bachelor of science in mathematical sciences (3 years)"
+    },
+    {
+      "id": "prog:364:Degree|a25ebff2c530|bachelor of science in physical sciences (3 years)",
+      "institutionId": "364",
+      "name": "Bachelor of Science in Physical Sciences (3 years)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 3,
+            "raw_span": "Physical Sciences (3 ",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+              "char_start": 164938,
+              "char_end": 164959,
+              "excerpt": "Physical Sciences (3"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 164915,
+        "char_end": 164965,
+        "excerpt": "Bachelor of Science in Physical Sciences (3 years)"
+      },
+      "normalization_key": "Degree|a25ebff2c530|bachelor of science in physical sciences (3 years)"
+    },
+    {
+      "id": "prog:364:Degree|191955b05ff2|bachelor of science in information technology (extended)",
+      "institutionId": "364",
+      "name": "Bachelor of Science in Information Technology (Extended)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 166957,
+        "char_end": 167013,
+        "excerpt": "Bachelor of Science in Information Technology (Extended)"
+      },
+      "normalization_key": "Degree|191955b05ff2|bachelor of science in information technology (extended)"
+    },
+    {
+      "id": "prog:364:Degree|fd4c8b9673c0|bachelor of science in life and environmental sciences (extended)",
+      "institutionId": "364",
+      "name": "Bachelor of Science in Life and Environmental Sciences (Extended)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 167294,
+        "char_end": 167359,
+        "excerpt": "Bachelor of Science in Life and Environmental Sciences (Extended)"
+      },
+      "normalization_key": "Degree|fd4c8b9673c0|bachelor of science in life and environmental sciences (extended)"
+    },
+    {
+      "id": "prog:364:Degree|fd4c8b9673c0|bachelor of science in life and environmental sciences (extended)",
+      "institutionId": "364",
+      "name": "Bachelor of Science in Life and Environmental Sciences (Extended)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 168368,
+        "char_end": 168433,
+        "excerpt": "Bachelor of Science in Life and Environmental Sciences (Extended)"
+      },
+      "normalization_key": "Degree|fd4c8b9673c0|bachelor of science in life and environmental sciences (extended)"
+    },
+    {
+      "id": "prog:364:Degree|ea05ae0019e0|bachelor of science in mathematical sciences (extended)",
+      "institutionId": "364",
+      "name": "Bachelor of Science in Mathematical Sciences (Extended)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 170257,
+        "char_end": 170312,
+        "excerpt": "Bachelor of Science in Mathematical Sciences (Extended)"
+      },
+      "normalization_key": "Degree|ea05ae0019e0|bachelor of science in mathematical sciences (extended)"
+    },
+    {
+      "id": "prog:364:Degree|1b5480fc0ebd|bachelor of science in physical sciences (extended)",
+      "institutionId": "364",
+      "name": "Bachelor of Science in Physical Sciences (Extended)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 171908,
+        "char_end": 171959,
+        "excerpt": "Bachelor of Science in Physical Sciences (Extended)"
+      },
+      "normalization_key": "Degree|1b5480fc0ebd|bachelor of science in physical sciences (extended)"
+    },
+    {
+      "id": "prog:364:Degree|5f75057e98ee|bsc",
+      "institutionId": "364",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 174165,
+        "char_end": 174168,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    }
+  ],
+  "admissions_rules": [
+    {
+      "id": "adm:364:Diploma|05a36108679b|diploma in architecture:subjects",
+      "institutionId": "364",
+      "programmeId": "prog:364:Diploma|05a36108679b|diploma in architecture",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 5%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 5,
+          "raw_span": "Maths 5 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+            "char_start": 77104,
+            "char_end": 77112,
+            "excerpt": "Maths 5"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf"
+    },
+    {
+      "id": "adm:364:Diploma|6533af5d7361|diploma in fashion production:subjects",
+      "institutionId": "364",
+      "programmeId": "prog:364:Diploma|6533af5d7361|diploma in fashion production",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 5%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 5,
+          "raw_span": "Maths Lit 5 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+            "char_start": 77193,
+            "char_end": 77205,
+            "excerpt": "Maths Lit 5"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf"
+    },
+    {
+      "id": "adm:364:Diploma|6f6e9c65f563|diploma in jewellery design and manufacture:subjects",
+      "institutionId": "364",
+      "programmeId": "prog:364:Diploma|6f6e9c65f563|diploma in jewellery design and manufacture",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 5%; Mathematics >= 5%; Mathematics >= 5%; Mathematics >= 5%; Mathematics >= 5%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 5,
+          "raw_span": "Maths Lit 5 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+            "char_start": 77464,
+            "char_end": 77476,
+            "excerpt": "Maths Lit 5"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 5,
+          "raw_span": "Maths Lit 5 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+            "char_start": 77553,
+            "char_end": 77565,
+            "excerpt": "Maths Lit 5"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 5,
+          "raw_span": "Maths Lit 5 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+            "char_start": 77636,
+            "char_end": 77648,
+            "excerpt": "Maths Lit 5"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 5,
+          "raw_span": "Maths Lit 5 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+            "char_start": 77722,
+            "char_end": 77734,
+            "excerpt": "Maths Lit 5"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 5,
+          "raw_span": "Maths Lit 5 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+            "char_start": 77806,
+            "char_end": 77818,
+            "excerpt": "Maths Lit 5"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf"
+    },
+    {
+      "id": "adm:364:Degree|273943a28969|ba (communication design):subjects",
+      "institutionId": "364",
+      "programmeId": "prog:364:Degree|273943a28969|ba (communication design)",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 5%; Mathematics >= 5%; Mathematics >= 5%; Mathematics >= 5%; Mathematics >= 5%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 5,
+          "raw_span": "Maths Lit 5 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+            "char_start": 77464,
+            "char_end": 77476,
+            "excerpt": "Maths Lit 5"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 5,
+          "raw_span": "Maths Lit 5 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+            "char_start": 77553,
+            "char_end": 77565,
+            "excerpt": "Maths Lit 5"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 5,
+          "raw_span": "Maths Lit 5 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+            "char_start": 77636,
+            "char_end": 77648,
+            "excerpt": "Maths Lit 5"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 5,
+          "raw_span": "Maths Lit 5 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+            "char_start": 77722,
+            "char_end": 77734,
+            "excerpt": "Maths Lit 5"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 5,
+          "raw_span": "Maths Lit 5 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+            "char_start": 77806,
+            "char_end": 77818,
+            "excerpt": "Maths Lit 5"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf"
+    },
+    {
+      "id": "adm:364:Degree|18dc3d4e04d0|ba (digital media design):subjects",
+      "institutionId": "364",
+      "programmeId": "prog:364:Degree|18dc3d4e04d0|ba (digital media design)",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 5%; Mathematics >= 5%; Mathematics >= 5%; Mathematics >= 5%; Mathematics >= 5%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 5,
+          "raw_span": "Maths Lit 5 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+            "char_start": 77464,
+            "char_end": 77476,
+            "excerpt": "Maths Lit 5"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 5,
+          "raw_span": "Maths Lit 5 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+            "char_start": 77553,
+            "char_end": 77565,
+            "excerpt": "Maths Lit 5"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 5,
+          "raw_span": "Maths Lit 5 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+            "char_start": 77636,
+            "char_end": 77648,
+            "excerpt": "Maths Lit 5"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 5,
+          "raw_span": "Maths Lit 5 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+            "char_start": 77722,
+            "char_end": 77734,
+            "excerpt": "Maths Lit 5"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 5,
+          "raw_span": "Maths Lit 5 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+            "char_start": 77806,
+            "char_end": 77818,
+            "excerpt": "Maths Lit 5"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf"
+    },
+    {
+      "id": "adm:364:Degree|74314103d79f|ba (fashion design):subjects",
+      "institutionId": "364",
+      "programmeId": "prog:364:Degree|74314103d79f|ba (fashion design)",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 5%; Mathematics >= 5%; Mathematics >= 5%; Mathematics >= 5%; Mathematics >= 5%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 5,
+          "raw_span": "Maths Lit 5 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+            "char_start": 77464,
+            "char_end": 77476,
+            "excerpt": "Maths Lit 5"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 5,
+          "raw_span": "Maths Lit 5 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+            "char_start": 77553,
+            "char_end": 77565,
+            "excerpt": "Maths Lit 5"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 5,
+          "raw_span": "Maths Lit 5 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+            "char_start": 77636,
+            "char_end": 77648,
+            "excerpt": "Maths Lit 5"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 5,
+          "raw_span": "Maths Lit 5 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+            "char_start": 77722,
+            "char_end": 77734,
+            "excerpt": "Maths Lit 5"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 5,
+          "raw_span": "Maths Lit 5 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+            "char_start": 77806,
+            "char_end": 77818,
+            "excerpt": "Maths Lit 5"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf"
+    },
+    {
+      "id": "adm:364:Degree|67b4115d82c0|ba (industrial design):subjects",
+      "institutionId": "364",
+      "programmeId": "prog:364:Degree|67b4115d82c0|ba (industrial design)",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 5%; Mathematics >= 5%; Mathematics >= 5%; Mathematics >= 5%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 5,
+          "raw_span": "Maths Lit 5 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+            "char_start": 77553,
+            "char_end": 77565,
+            "excerpt": "Maths Lit 5"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 5,
+          "raw_span": "Maths Lit 5 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+            "char_start": 77636,
+            "char_end": 77648,
+            "excerpt": "Maths Lit 5"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 5,
+          "raw_span": "Maths Lit 5 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+            "char_start": 77722,
+            "char_end": 77734,
+            "excerpt": "Maths Lit 5"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 5,
+          "raw_span": "Maths Lit 5 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+            "char_start": 77806,
+            "char_end": 77818,
+            "excerpt": "Maths Lit 5"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf"
+    },
+    {
+      "id": "adm:364:Degree|97a8ff7cf41e|ba (interior design):subjects",
+      "institutionId": "364",
+      "programmeId": "prog:364:Degree|97a8ff7cf41e|ba (interior design)",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 5%; Mathematics >= 5%; Mathematics >= 5%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 5,
+          "raw_span": "Maths Lit 5 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+            "char_start": 77636,
+            "char_end": 77648,
+            "excerpt": "Maths Lit 5"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 5,
+          "raw_span": "Maths Lit 5 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+            "char_start": 77722,
+            "char_end": 77734,
+            "excerpt": "Maths Lit 5"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 5,
+          "raw_span": "Maths Lit 5 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+            "char_start": 77806,
+            "char_end": 77818,
+            "excerpt": "Maths Lit 5"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf"
+    },
+    {
+      "id": "adm:364:Degree|f6a01ec2a83e|ba (visual art):subjects",
+      "institutionId": "364",
+      "programmeId": "prog:364:Degree|f6a01ec2a83e|ba (visual art)",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 5%; Mathematics >= 5%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 5,
+          "raw_span": "Maths Lit 5 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+            "char_start": 77722,
+            "char_end": 77734,
+            "excerpt": "Maths Lit 5"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 5,
+          "raw_span": "Maths Lit 5 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+            "char_start": 77806,
+            "char_end": 77818,
+            "excerpt": "Maths Lit 5"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf"
+    },
+    {
+      "id": "adm:364:Degree|b5508e98e435|bcom:subjects",
+      "institutionId": "364",
+      "programmeId": "prog:364:Degree|b5508e98e435|bcom",
+      "ruleType": "subject_requirements",
+      "detail": "Accounting >= 34%",
+      "subjects": [
+        {
+          "subject": "Accounting",
+          "minimum_percentage": 34,
+          "raw_span": "Accounting Extended Degree (B34",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+            "char_start": 89387,
+            "char_end": 89418,
+            "excerpt": "Accounting Extended Degree (B34"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf"
+    },
+    {
+      "id": "adm:364:Diploma|1cbac21bfa24|diploma in marketing or retail business management provided that they::subjects",
+      "institutionId": "364",
+      "programmeId": "prog:364:Diploma|1cbac21bfa24|diploma in marketing or retail business management provided that they:",
+      "ruleType": "subject_requirements",
+      "detail": "English >= 1%; English >= 1%; Mathematics >= 1%",
+      "subjects": [
+        {
+          "subject": "English",
+          "minimum_percentage": 1,
+          "raw_span": "English 1",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+            "char_start": 92439,
+            "char_end": 92448,
+            "excerpt": "English 1"
+          }
+        },
+        {
+          "subject": "English",
+          "minimum_percentage": 1,
+          "raw_span": "English 1",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+            "char_start": 92451,
+            "char_end": 92460,
+            "excerpt": "English 1"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 1,
+          "raw_span": "Mathematics for Marketers 1",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+            "char_start": 92496,
+            "char_end": 92523,
+            "excerpt": "Mathematics for Marketers 1"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf"
+    },
+    {
+      "id": "adm:364:Degree|44c3f07af742|bachelor of commerce extended degree (4 years):subjects",
+      "institutionId": "364",
+      "programmeId": "prog:364:Degree|44c3f07af742|bachelor of commerce extended degree (4 years)",
+      "ruleType": "subject_requirements",
+      "detail": "Accounting >= 34%",
+      "subjects": [
+        {
+          "subject": "Accounting",
+          "minimum_percentage": 34,
+          "raw_span": "Accounting B34",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+            "char_start": 101408,
+            "char_end": 101422,
+            "excerpt": "Accounting B34"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf"
+    },
+    {
+      "id": "adm:364:Degree|19356ac03a93|bcom (accountancy):subjects",
+      "institutionId": "364",
+      "programmeId": "prog:364:Degree|19356ac03a93|bcom (accountancy)",
+      "ruleType": "subject_requirements",
+      "detail": "Accounting >= 34%",
+      "subjects": [
+        {
+          "subject": "Accounting",
+          "minimum_percentage": 34,
+          "raw_span": "Accounting) B34",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+            "char_start": 106529,
+            "char_end": 106544,
+            "excerpt": "Accounting) B34"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf"
+    },
+    {
+      "id": "adm:364:Degree|8f8bfd5f430b|bcom (accounting):subjects",
+      "institutionId": "364",
+      "programmeId": "prog:364:Degree|8f8bfd5f430b|bcom (accounting)",
+      "ruleType": "subject_requirements",
+      "detail": "Accounting >= 34%",
+      "subjects": [
+        {
+          "subject": "Accounting",
+          "minimum_percentage": 34,
+          "raw_span": "Accounting) B34",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+            "char_start": 106529,
+            "char_end": 106544,
+            "excerpt": "Accounting) B34"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf"
+    },
+    {
+      "id": "adm:364:Degree|970f519c2cad|ba:subjects",
+      "institutionId": "364",
+      "programmeId": "prog:364:Degree|970f519c2cad|ba",
+      "ruleType": "subject_requirements",
+      "detail": "English >= 4%; Mathematics >= 30%; Mathematics >= 3%; Mathematics >= 6%",
+      "subjects": [
+        {
+          "subject": "English",
+          "minimum_percentage": 4,
+          "raw_span": "English 4\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+            "char_start": 108084,
+            "char_end": 108094,
+            "excerpt": "English 4"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 30,
+          "raw_span": "Mathematical Literacy 30\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+            "char_start": 108059,
+            "char_end": 108084,
+            "excerpt": "Mathematical Literacy 30"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 3,
+          "raw_span": "Mathematics 3\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+            "char_start": 108094,
+            "char_end": 108108,
+            "excerpt": "Mathematics 3"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 6,
+          "raw_span": "Mathematical Literacy 6\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+            "char_start": 108108,
+            "char_end": 108132,
+            "excerpt": "Mathematical Literacy 6"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf"
+    },
+    {
+      "id": "adm:364:Degree|b5508e98e435|bcom:subjects",
+      "institutionId": "364",
+      "programmeId": "prog:364:Degree|b5508e98e435|bcom",
+      "ruleType": "subject_requirements",
+      "detail": "English >= 4%; Mathematics >= 30%; Mathematics >= 4%; Mathematics >= 6%",
+      "subjects": [
+        {
+          "subject": "English",
+          "minimum_percentage": 4,
+          "raw_span": "English 4\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+            "char_start": 108201,
+            "char_end": 108211,
+            "excerpt": "English 4"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 30,
+          "raw_span": "Mathematical Literacy 30\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+            "char_start": 108176,
+            "char_end": 108201,
+            "excerpt": "Mathematical Literacy 30"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 4,
+          "raw_span": "Mathematics 4\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+            "char_start": 108211,
+            "char_end": 108225,
+            "excerpt": "Mathematics 4"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 6,
+          "raw_span": "Mathematical Literacy 6\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+            "char_start": 108225,
+            "char_end": 108249,
+            "excerpt": "Mathematical Literacy 6"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf"
+    },
+    {
+      "id": "adm:364:Degree|19356ac03a93|bcom (accountancy):subjects",
+      "institutionId": "364",
+      "programmeId": "prog:364:Degree|19356ac03a93|bcom (accountancy)",
+      "ruleType": "subject_requirements",
+      "detail": "English >= 4%; Mathematics >= 28%; Mathematics >= 4%; Mathematics >= 5%",
+      "subjects": [
+        {
+          "subject": "English",
+          "minimum_percentage": 4,
+          "raw_span": "English 4\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+            "char_start": 108332,
+            "char_end": 108342,
+            "excerpt": "English 4"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 28,
+          "raw_span": "Mathematical Literacy * 28\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+            "char_start": 108305,
+            "char_end": 108332,
+            "excerpt": "Mathematical Literacy * 28"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 4,
+          "raw_span": "Mathematics 4\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+            "char_start": 108342,
+            "char_end": 108356,
+            "excerpt": "Mathematics 4"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 5,
+          "raw_span": "Mathematical Literacy * 5\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+            "char_start": 108356,
+            "char_end": 108382,
+            "excerpt": "Mathematical Literacy * 5"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf"
+    },
+    {
+      "id": "adm:364:Degree|c5052532c220|bed:subjects",
+      "institutionId": "364",
+      "programmeId": "prog:364:Degree|c5052532c220|bed",
+      "ruleType": "subject_requirements",
+      "detail": "Accounting >= 5%",
+      "subjects": [
+        {
+          "subject": "Accounting",
+          "minimum_percentage": 5,
+          "raw_span": "ACCOUNTING B5",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+            "char_start": 111477,
+            "char_end": 111490,
+            "excerpt": "ACCOUNTING B5"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf"
+    },
+    {
+      "id": "adm:364:Degree|c5052532c220|bed:subjects",
+      "institutionId": "364",
+      "programmeId": "prog:364:Degree|c5052532c220|bed",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 5%; Life Sciences >= 5%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 5,
+          "raw_span": "MATHEMATICS B5",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+            "char_start": 112769,
+            "char_end": 112783,
+            "excerpt": "MATHEMATICS B5"
+          }
+        },
+        {
+          "subject": "Life Sciences",
+          "minimum_percentage": 5,
+          "raw_span": "LIFE SCIENCES B5",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+            "char_start": 112623,
+            "char_end": 112639,
+            "excerpt": "LIFE SCIENCES B5"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf"
+    },
+    {
+      "id": "adm:364:Diploma|923a15c4bc82|diploma in business information technology: an achievement of at least 70% in ma:subjects",
+      "institutionId": "364",
+      "programmeId": "prog:364:Diploma|923a15c4bc82|diploma in business information technology: an achievement of at least 70% in ma",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 80%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 80,
+          "raw_span": "Mathematics and 80%",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+            "char_start": 138784,
+            "char_end": 138803,
+            "excerpt": "Mathematics and 80%"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf"
+    },
+    {
+      "id": "adm:364:Degree|a25ebff2c530|bachelor of science in physical sciences (3 years):subjects",
+      "institutionId": "364",
+      "programmeId": "prog:364:Degree|a25ebff2c530|bachelor of science in physical sciences (3 years)",
+      "ruleType": "subject_requirements",
+      "detail": "Physical Sciences >= 3%",
+      "subjects": [
+        {
+          "subject": "Physical Sciences",
+          "minimum_percentage": 3,
+          "raw_span": "Physical Sciences (3 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+            "char_start": 164938,
+            "char_end": 164959,
+            "excerpt": "Physical Sciences (3"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf"
+    }
+  ],
+  "aps_rules": [
+    {
+      "id": "aps:364:aps|standalone|6|74781",
+      "institutionId": "364",
+      "programmeId": null,
+      "minAps": 6,
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 74781,
+        "char_end": 74786,
+        "excerpt": "APS 6"
+      }
+    },
+    {
+      "id": "aps:364:aps|standalone|6|103225",
+      "institutionId": "364",
+      "programmeId": null,
+      "minAps": 6,
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 103225,
+        "char_end": 103230,
+        "excerpt": "APS 6"
+      }
+    },
+    {
+      "id": "aps:364:aps|standalone|5|123745",
+      "institutionId": "364",
+      "programmeId": null,
+      "minAps": 5,
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 123745,
+        "char_end": 123750,
+        "excerpt": "APS 5"
+      }
+    },
+    {
+      "id": "aps:364:aps|standalone|5|124587",
+      "institutionId": "364",
+      "programmeId": null,
+      "minAps": 5,
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 124587,
+        "char_end": 124592,
+        "excerpt": "APS 5"
+      }
+    },
+    {
+      "id": "aps:364:aps|standalone|27|142735",
+      "institutionId": "364",
+      "programmeId": null,
+      "minAps": 27,
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 142735,
+        "char_end": 142741,
+        "excerpt": "APS 27"
+      }
+    },
+    {
+      "id": "aps:364:aps|standalone|27|143582",
+      "institutionId": "364",
+      "programmeId": null,
+      "minAps": 27,
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 143582,
+        "char_end": 143588,
+        "excerpt": "APS 27"
+      }
+    },
+    {
+      "id": "aps:364:aps|standalone|24|148175",
+      "institutionId": "364",
+      "programmeId": null,
+      "minAps": 24,
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 148175,
+        "char_end": 148181,
+        "excerpt": "APS 24"
+      }
+    },
+    {
+      "id": "aps:364:aps|standalone|24|149236",
+      "institutionId": "364",
+      "programmeId": null,
+      "minAps": 24,
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 149236,
+        "char_end": 149242,
+        "excerpt": "APS 24"
+      }
+    }
+  ],
+  "llm_calls": 0
+}

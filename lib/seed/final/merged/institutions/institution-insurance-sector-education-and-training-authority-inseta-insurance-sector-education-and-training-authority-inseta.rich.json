@@ -1,0 +1,56 @@
+{
+  "institution": {
+    "id": "institution:insurance-sector-education-and-training-authority-inseta",
+    "slug": "insurance-sector-education-and-training-authority-inseta",
+    "institution_id_raw": "233",
+    "name": "Insurance Sector Education and Training Authority (Inseta)",
+    "institution_type": "seta",
+    "city": "Sandton",
+    "province": "Gauteng",
+    "official_website": "https://inseta.org.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/233/insurance-sector-education-and-training-authority-inseta",
+    "source_paths": [
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "sector": "training",
+      "province": "Gauteng",
+      "city": "Sandton",
+      "physical_address": "18 Fricker Road, Illovo, Sandton, 2196",
+      "postal_address": "PO Box 32035, Braamfontein, 2017",
+      "contact_phone_numbers": [
+        "011 381 8900"
+      ],
+      "application_url": "https://applybe.com/inseta/search/results/all/1?keywords=",
+      "socials": {
+        "facebook": "https://www.facebook.com/",
+        "instagram": "https://www.instagram.com/",
+        "linkedin": "https://www.linkedin.com/in/",
+        "x": "https://twitter.com/",
+        "youtube": ""
+      },
+      "accreditation": {
+        "dh et": null,
+        "saqa": null
+      },
+      "sources": [
+        "https://nationalgovernment.co.za/units/view/233/insurance-sector-education-and-training-authority-inseta",
+        "https://inseta.org.za/"
+      ],
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "institution": {
+    "id": "institution:northern-cape-urban-tvet-college",
+    "slug": "northern-cape-urban-tvet-college",
+    "institution_id_raw": "316",
+    "name": "Northern Cape Urban TVET College",
+    "institution_type": "tvet-college",
+    "city": "Kimberley",
+    "province": "Northern Cape",
+    "official_website": "https://www.ncutvet.edu.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/316/northern-cape-urban-tvet-college",
+    "source_paths": [
+      "generated/v3/institutions.enriched.json",
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "sector": "higher education",
+      "province": "Northern Cape",
+      "city": "Kimberley",
+      "physical_address": "35-39 Long Street, Albertynshof, Kimberley",
+      "postal_address": "Private Bag X5031, Kimberley, 8300",
+      "contact_emails": [
+        "info@ncutvet.edu.za"
+      ],
+      "contact_phone_numbers": [
+        "053 839 2060"
+      ],
+      "application_url": "https://www.ncutvet.edu.za/apply-online/",
+      "socials": {
+        "facebook": "https://www.facebook.com/NorthernCapeUrbanTVETCollege/",
+        "instagram": "https://www.instagram.com/ncutvetcollege/",
+        "linkedin": "",
+        "x": "",
+        "youtube": ""
+      },
+      "accreditation": {
+        "dh et": "Accredited",
+        "saqa": null
+      },
+      "sources": [
+        "https://nationalgovernment.co.za/units/view/316/northern-cape-urban-tvet-college",
+        "https://www.ncutvet.edu.za/"
+      ],
+      "qualification_types": [
+        "NC(V)",
+        "Nated (Report 191)",
+        "Skills Programmes",
+        "Apprenticeships"
+      ],
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [
+    {
+      "id": "programme:northern-cape-urban-tvet-college--national-diploma",
+      "institution_slug": "northern-cape-urban-tvet-college",
+      "institution_name": "Northern Cape Urban TVET College",
+      "name": "National Diploma",
+      "normalized_name": "National Diploma",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NATIONAL DIPLOMA",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    }
+  ],
+  "programmes_all": [
+    {
+      "id": "programme:northern-cape-urban-tvet-college--national-diploma",
+      "institution_slug": "northern-cape-urban-tvet-college",
+      "institution_name": "Northern Cape Urban TVET College",
+      "name": "National Diploma",
+      "normalized_name": "National Diploma",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NATIONAL DIPLOMA",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    }
+  ],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 1,
+    "programmes_all": 1
+  }
+}

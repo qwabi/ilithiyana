@@ -1,0 +1,67 @@
+{
+  "institution": {
+    "id": "institution:west-coast-tvet-college",
+    "slug": "west-coast-tvet-college",
+    "institution_id_raw": "380",
+    "name": "West Coast TVET College",
+    "institution_type": "tvet-college",
+    "city": "Malmesbury",
+    "province": "",
+    "official_website": "https://www.westcoastcollege.co.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/380/west-coast-tvet-college",
+    "source_paths": [
+      "generated/v3/institutions.enriched.json",
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "sector": "higher education",
+      "city": "Malmesbury",
+      "physical_address": "2 Loedolf, Malmesbury, 7299",
+      "postal_address": "PO Box 935, Malmesbury, 7299",
+      "contact_emails": [
+        "info@westcoastcollege.co.za"
+      ],
+      "contact_phone_numbers": [
+        "022 482 1143"
+      ],
+      "application_url": "https://www.westcoastcollege.co.za/students/how-to-apply/",
+      "socials": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": "",
+        "x": "",
+        "youtube": ""
+      },
+      "accreditation": {
+        "dh et": "Accredited",
+        "saqa": null
+      },
+      "sources": [
+        "https://nationalgovernment.co.za/units/view/380/west-coast-tvet-college",
+        "https://www.westcoastcollege.co.za/"
+      ],
+      "qualification_types": [
+        "NC(V)",
+        "Nated (Report 191)",
+        "Skills Programmes",
+        "Apprenticeships"
+      ],
+      "nsfas_supported": true,
+      "student_accommodation": true,
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

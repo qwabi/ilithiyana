@@ -1,0 +1,38 @@
+{
+  "faculties": [],
+  "programmes": [
+    {
+      "id": "prog:313:Degree|970f519c2cad|ba",
+      "institutionId": "313",
+      "name": "bA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/maluti-tvet-college.docx",
+      "sourceUrl": "https://www.malutitvet.co.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/maluti-tvet-college.docx",
+        "char_start": 123140,
+        "char_end": 123142,
+        "excerpt": "BA"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba",
+      "campuses": [],
+      "merged_from": [
+        "prog:313:Degree|970f519c2cad|ba",
+        "prog:313:Degree|970f519c2cad|ba",
+        "prog:313:Degree|970f519c2cad|ba",
+        "prog:313:Degree|970f519c2cad|ba"
+      ],
+      "source_refs": [
+        "https://www.malutitvet.co.za/"
+      ]
+    }
+  ],
+  "admissions_rules": [],
+  "aps_rules": [],
+  "llm_calls": 0
+}

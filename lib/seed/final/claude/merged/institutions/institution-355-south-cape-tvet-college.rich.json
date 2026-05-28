@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "institution_id": "355",
+    "slug": "south-cape-tvet-college",
+    "name": "South Cape TVET College",
+    "institution_type": "tvet-college",
+    "province": "Western Cape",
+    "city": "George",
+    "official_website": "https://sccollege.co.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/355/south-cape-tvet-college",
+    "application_url": "https://sccollege.co.za/apply-for-2026/",
+    "prospectus_url": null,
+    "nsfas_supported": true,
+    "distance_learning": null,
+    "accreditation": {
+      "dh et": "Accredited",
+      "saqa": null
+    },
+    "qualification_types": [
+      "NC(V)",
+      "Nated (Report 191)",
+      "Skills Programmes",
+      "Apprenticeships"
+    ]
+  },
+  "profile": {},
+  "contact": {
+    "emails": [
+      "communications@sccollege.co.zafi",
+      "communications@sccollege.co.zabeaufort"
+    ],
+    "phone_numbers": [
+      "044 884 0359",
+      "044 874 2360"
+    ],
+    "physical_address": "46 Hibernia Street, George, 6530",
+    "postal_address": "PO Box 10400, George, 6530",
+    "socials": {
+      "facebook": "https://www.facebook.com/southcapetvetcollege",
+      "instagram": "http://instagram.com",
+      "linkedin": "",
+      "x": "",
+      "youtube": ""
+    }
+  },
+  "campuses": [],
+  "faculties": [],
+  "programmes": [],
+  "admission": {
+    "aps_name": null,
+    "aps_calculation_notes": null,
+    "minimum_aps_for_bachelors": null,
+    "minimum_aps_for_diplomas": null,
+    "minimum_entry_note": null,
+    "life_orientation_cap": null,
+    "aps_rules": [],
+    "programme_requirements": []
+  },
+  "sources": [
+    "generated/v3/institutions.enriched.json",
+    "institutions.json"
+  ],
+  "_stats": {
+    "campuses_count": 0,
+    "faculties_count": 0,
+    "programmes_count": 0,
+    "aps_rules_count": 0,
+    "adm_reqs_count": 0
+  }
+}

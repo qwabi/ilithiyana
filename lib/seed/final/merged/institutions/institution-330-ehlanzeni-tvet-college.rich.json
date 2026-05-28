@@ -1,0 +1,77 @@
+{
+  "institution": {
+    "institution_id": "330",
+    "name": "Ehlanzeni TVET College",
+    "institution_type": "tvet-college",
+    "city": "Mbombela",
+    "province": "Mpumalanga",
+    "official_website": "https://www.ehlanzenicollege.co.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/330/ehlanzeni-tvet-college",
+    "source_paths": [
+      "generated/v3/institutions.enriched.json",
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [
+    {
+      "id": "prog:e970256995d0e972",
+      "institution_id": "330",
+      "institution_name": "Ehlanzeni TVET College",
+      "name": "NC(V) level 2",
+      "normalized_name": "NC(V) level 2",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NC(V) level 2",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    }
+  ],
+  "programmes_all": [
+    {
+      "id": "prog:e970256995d0e972",
+      "institution_id": "330",
+      "institution_name": "Ehlanzeni TVET College",
+      "name": "NC(V) level 2",
+      "normalized_name": "NC(V) level 2",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NC(V) level 2",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    }
+  ],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 1,
+    "programmes_all": 1
+  }
+}

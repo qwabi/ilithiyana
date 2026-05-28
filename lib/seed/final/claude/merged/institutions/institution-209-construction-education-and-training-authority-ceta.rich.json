@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "institution_id": "209",
+    "slug": "construction-education-and-training-authority-ceta",
+    "name": "Construction Education and Training Authority (CETA)",
+    "institution_type": "seta",
+    "province": "Gauteng",
+    "city": "Midrand",
+    "official_website": "https://www.ceta.org.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/209/construction-education-and-training-authority-ceta",
+    "application_url": null,
+    "prospectus_url": null,
+    "nsfas_supported": null,
+    "distance_learning": null,
+    "accreditation": {
+      "dh et": null,
+      "saqa": null
+    },
+    "qualification_types": null
+  },
+  "profile": {},
+  "contact": {
+    "phone_numbers": [
+      "083 6571599",
+      "069 008 5876",
+      "078 338 1768",
+      "071 864 5690",
+      "083 938 3201",
+      "060 565 3626",
+      "071 864 4423",
+      "073 352 0153",
+      "071 864 4489",
+      "011 265 5900/1",
+      "083 577 3815",
+      "083 577 2697"
+    ],
+    "physical_address": "52 14th Road, Noordwyk, Midrand, 1687",
+    "postal_address": "PO Box 1955, Halfway House, 1685",
+    "socials": {
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "x": "",
+      "youtube": ""
+    }
+  },
+  "campuses": [],
+  "faculties": [],
+  "programmes": [],
+  "admission": {
+    "aps_name": null,
+    "aps_calculation_notes": null,
+    "minimum_aps_for_bachelors": null,
+    "minimum_aps_for_diplomas": null,
+    "minimum_entry_note": null,
+    "life_orientation_cap": null,
+    "aps_rules": [],
+    "programme_requirements": []
+  },
+  "sources": [
+    "institutions.json"
+  ],
+  "_stats": {
+    "campuses_count": 0,
+    "faculties_count": 0,
+    "programmes_count": 0,
+    "aps_rules_count": 0,
+    "adm_reqs_count": 0
+  }
+}

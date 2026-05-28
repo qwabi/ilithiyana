@@ -1,0 +1,8 @@
+SOURCE: https://fundiconnect.co.za/institutions/majuba-tvet-college/
+INSTITUTION: Majuba TVET College
+SLUG: majuba-tvet-college
+SCRAPED: 2026-05-27
+NOTE: Web-scraped programme and admission info. No official PDF exists.
+======================================================================
+
+Majuba TVET College - Programs, Fees & NSFAS Funding 2026

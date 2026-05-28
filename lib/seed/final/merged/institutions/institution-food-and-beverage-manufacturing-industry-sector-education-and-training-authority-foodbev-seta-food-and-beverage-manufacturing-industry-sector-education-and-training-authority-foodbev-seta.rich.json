@@ -1,0 +1,81 @@
+{
+  "institution": {
+    "id": "institution:food-and-beverage-manufacturing-industry-sector-education-and-training-authority-foodbev-seta",
+    "slug": "food-and-beverage-manufacturing-industry-sector-education-and-training-authority-foodbev-seta",
+    "institution_id_raw": "228",
+    "name": "Food and Beverage Manufacturing Industry Sector Education and Training Authority (FoodBev SETA)",
+    "institution_type": "seta",
+    "city": "Rivonia",
+    "province": "",
+    "official_website": "https://www.foodbev.co.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/228/food-and-beverage-manufacturing-industry-sector-education-and-training-authority-foodbev-seta",
+    "source_paths": [
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "sector": "training",
+      "city": "Rivonia",
+      "physical_address": "7 Wessel Road, Rivonia",
+      "postal_address": "PO Box 245, Gallo Manor, 2052",
+      "contact_emails": [
+        "compliments@foodbev.co.za",
+        "mandatorygrants@foodbev.co.za",
+        "industryfundedapplications@foodbev.co.za",
+        "media@foodbev.co.za",
+        "emplearnerships@foodbev.co.za",
+        "moderations@foodbev.co.za",
+        "aet@foodbev.co.za",
+        "info@foodbev.co.za",
+        "intersetatransfer@foodbev.co.za",
+        "ttapplication@foodbev.co.za",
+        "ulearnerships@foodbev.co.za",
+        "certificatequeries@foodbev.co.za",
+        "wilclaims@foodbev.co.za",
+        "dgqueries@foodbev.co.za",
+        "sims@foodbev.co.za",
+        "monitoringandevaluation@foodbev.co.za",
+        "paymentqueries@foodbev.co.za",
+        "complaints@foodbev.co.za",
+        "externalmoderations@foodbev.co.za",
+        "bursariesenqueries@foodbev.co.za",
+        "sdfregistration@foodbev.co.za",
+        "assessmentqueries@foodbev.co.za"
+      ],
+      "contact_phone_numbers": [
+        "011 253 7300",
+        "011 253 7338",
+        "011 253 7306"
+      ],
+      "application_url": "https://qpkblu-cmpzourl.maillist-manage.com/ua/Optin?od=11287ecce683b1&zx=1347ba43e&tD=113aced64d29047a9&sD=113aced64d295b295",
+      "socials": {
+        "facebook": "https://www.facebook.com/FoodBevSETAza",
+        "instagram": "https://www.instagram.com/foodbevseta/",
+        "linkedin": "https://www.linkedin.com/company/foodbev-seta",
+        "x": "https://twitter.com/FoodBevseta",
+        "youtube": "https://www.youtube.com/user/foodbevseta/videos"
+      },
+      "accreditation": {
+        "dh et": null,
+        "saqa": null
+      },
+      "sources": [
+        "https://nationalgovernment.co.za/units/view/228/food-and-beverage-manufacturing-industry-sector-education-and-training-authority-foodbev-seta",
+        "https://www.foodbev.co.za/"
+      ],
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

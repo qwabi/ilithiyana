@@ -1,0 +1,28 @@
+{
+  "faculties": [],
+  "programmes": [
+    {
+      "id": "prog:351:NATED|3787633babc5|report 191",
+      "institutionId": "351",
+      "name": "Report 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/port-elizabeth-tvet-college.pdf",
+      "sourceUrl": "http://www.pecollege.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/port-elizabeth-tvet-college.pdf",
+        "char_start": 8428,
+        "char_end": 8438,
+        "excerpt": "Report 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    }
+  ],
+  "admissions_rules": [],
+  "aps_rules": [],
+  "llm_calls": 0
+}

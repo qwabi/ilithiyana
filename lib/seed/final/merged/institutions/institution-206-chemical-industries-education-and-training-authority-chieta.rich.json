@@ -1,0 +1,30 @@
+{
+  "institution": {
+    "institution_id": "206",
+    "name": "Chemical Industries Education and Training Authority (CHIETA)",
+    "institution_type": "seta",
+    "city": "Midrand",
+    "province": "Gauteng",
+    "official_website": "https://chieta.org.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/206/chemical-industries-education-and-training-authority-chieta",
+    "source_paths": [
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

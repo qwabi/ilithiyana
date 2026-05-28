@@ -1,0 +1,31 @@
+{
+  "institution": {
+    "institution_id": "222",
+    "name": "Energy and Water Sector Education and Training Authority (EWSETA)",
+    "institution_type": "seta",
+    "city": "Johannesburg",
+    "province": "Gauteng",
+    "official_website": "https://ewseta.org.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/222/energy-and-water-sector-education-and-training-authority-ewseta",
+    "source_paths": [
+      "generated/v3/institutions.enriched.json",
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

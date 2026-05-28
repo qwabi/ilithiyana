@@ -1,0 +1,5 @@
+{"ts": 1779893390.6955352, "institutionId": "334", "event": "preprocess_done", "matched_files": ["/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/false-bay-tvet-college.pdf"], "chunks_created": 7, "skipped_chunk_reasons": [{"reason": "chunk_too_small", "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/false-bay-tvet-college.pdf", "chunk_index": 2, "chars": 75}]}
+{"ts": 1779893390.7002282, "institutionId": "334", "event": "extract_done", "extracted_programmes_count": 10, "llm_calls": 0, "faculties_found": 0, "chunks_processed": 7}
+{"ts": 1779893390.7011259, "institutionId": "334", "event": "normalize_done", "faculties": 0, "programmes": 10}
+{"ts": 1779893390.7021341, "institutionId": "334", "event": "dedupe_done", "programmes_before": 10, "programmes_after": 5}
+{"ts": 1779893390.7028182, "institutionId": "334", "event": "institution_pipeline_complete", "etlStatus": "ok", "total_llm_calls_institution": 0}

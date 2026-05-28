@@ -1,0 +1,83 @@
+{
+  "institution": {
+    "id": "institution:wholesale-and-retail-sector-education-and-training-authority-w-rseta",
+    "slug": "wholesale-and-retail-sector-education-and-training-authority-w-rseta",
+    "institution_id_raw": "299",
+    "name": "Wholesale and Retail Sector Education and Training Authority (W&RSETA)",
+    "institution_type": "seta",
+    "city": "Pretoria",
+    "province": "Gauteng",
+    "official_website": "https://www.wrseta.org.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/299/wholesale-and-retail-sector-education-and-training-authority-w-rseta",
+    "source_paths": [
+      "generated/v3/institutions.enriched.json",
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "sector": "training",
+      "province": "Gauteng",
+      "city": "Pretoria",
+      "physical_address": "Riverside Office Park, Hennops House, 1303 Heuwel Avenue, Cnr Lenchen South & Heuwel Avenue, Centurion, Pretoria",
+      "postal_address": "Private Bag X106, Centurion, 0046",
+      "contact_emails": [
+        "ceo@ceta.co.za",
+        "insetacallcentre@inseta.org.za",
+        "info@agriseta.co.za",
+        "livhun@mqa.org.za",
+        "info@ctflseta.org.za",
+        "theta@theta.org.za",
+        "sunilm@serviceseta.org.za",
+        "piet@teta.org.za",
+        "headoffice@chieta.org.za",
+        "ceo@isettseta.org.za",
+        "ceo@hwseta.org.za",
+        "callcentre@sasseta.org.za",
+        "info@foodbev.co.za",
+        "ceoadmin@etdpseta.org.za",
+        "fassetcallcentre@fasset.org.za",
+        "andym@eseta.org.za",
+        "info@chieta.org.za",
+        "sidwellm@lgseta.co.za",
+        "temp@bankseta.org.za",
+        "setatransfers@wrseta.org.za",
+        "melanyb@mqa.org.za",
+        "ceo@pseta.gov.za"
+      ],
+      "contact_phone_numbers": [
+        "012 622 9500",
+        "086 101 0001",
+        "011 630 3500"
+      ],
+      "socials": {
+        "facebook": "https://www.facebook.com/WRSETA",
+        "instagram": "https://www.instagram.com/w_rseta/",
+        "linkedin": "https://www.linkedin.com/company/wrseta",
+        "x": "https://www.twitter.com/WRSETA",
+        "youtube": "https://www.youtube.com/WRSETA1"
+      },
+      "accreditation": {
+        "dh et": null,
+        "saqa": null
+      },
+      "sources": [
+        "https://nationalgovernment.co.za/units/view/299/wholesale-and-retail-sector-education-and-training-authority-w-rseta",
+        "https://www.wrseta.org.za/"
+      ],
+      "student_accommodation": true,
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

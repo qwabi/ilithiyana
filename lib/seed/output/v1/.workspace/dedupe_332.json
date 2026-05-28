@@ -1,0 +1,835 @@
+{
+  "faculties": [],
+  "programmes": [
+    {
+      "id": "prog:332:Diploma|efd243683c25|diploma in business students in the workplace, this includes the challenges that",
+      "institutionId": "332",
+      "name": "Diploma in business students in the workplace, this includes the challenges that an evaluator experience. This will",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "sourceUrl": "http://www.ewc.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+        "char_start": 27808,
+        "char_end": 27923,
+        "excerpt": "Diploma in business students in the workplace, this includes the challenges that an evaluator experience. This will"
+      },
+      "normalization_key": "Diploma|efd243683c25|diploma in business students in the workplace, this includes the challenges that",
+      "campuses": [],
+      "merged_from": [
+        "prog:332:Diploma|efd243683c25|diploma in business students in the workplace, this includes the challenges that"
+      ],
+      "source_refs": [
+        "http://www.ewc.edu.za/"
+      ]
+    },
+    {
+      "id": "prog:332:Diploma|c1f15af0d3db|diploma in business studies.",
+      "institutionId": "332",
+      "name": "Diploma in Business Studies.",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "sourceUrl": "http://www.ewc.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+        "char_start": 5270,
+        "char_end": 5298,
+        "excerpt": "Diploma in Business Studies."
+      },
+      "normalization_key": "Diploma|c1f15af0d3db|diploma in business studies.",
+      "campuses": [],
+      "merged_from": [
+        "prog:332:Diploma|c1f15af0d3db|diploma in business studies."
+      ],
+      "source_refs": [
+        "http://www.ewc.edu.za/"
+      ]
+    },
+    {
+      "id": "prog:332:Diploma|3f793fbf3eb4|diploma in engineering studies once the required",
+      "institutionId": "332",
+      "name": "Diploma in Engineering studies once the required",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "sourceUrl": "http://www.ewc.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+        "char_start": 34759,
+        "char_end": 34807,
+        "excerpt": "Diploma in Engineering studies once the required"
+      },
+      "normalization_key": "Diploma|3f793fbf3eb4|diploma in engineering studies once the required",
+      "campuses": [],
+      "merged_from": [
+        "prog:332:Diploma|3f793fbf3eb4|diploma in engineering studies once the required"
+      ],
+      "source_refs": [
+        "http://www.ewc.edu.za/"
+      ]
+    },
+    {
+      "id": "prog:332:Diploma|23315f57e6ad|diploma in engineering studies.",
+      "institutionId": "332",
+      "name": "Diploma in Engineering Studies.",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "sourceUrl": "http://www.ewc.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+        "char_start": 35114,
+        "char_end": 35145,
+        "excerpt": "Diploma in Engineering Studies."
+      },
+      "normalization_key": "Diploma|23315f57e6ad|diploma in engineering studies.",
+      "campuses": [],
+      "merged_from": [
+        "prog:332:Diploma|23315f57e6ad|diploma in engineering studies."
+      ],
+      "source_refs": [
+        "http://www.ewc.edu.za/"
+      ]
+    },
+    {
+      "id": "prog:332:Diploma|17571aee4ff6|diploma in hrm",
+      "institutionId": "332",
+      "name": "Diploma in HRM",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "sourceUrl": "http://www.ewc.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+        "char_start": 26121,
+        "char_end": 26135,
+        "excerpt": "Diploma in HRM"
+      },
+      "normalization_key": "Diploma|17571aee4ff6|diploma in hrm",
+      "campuses": [],
+      "merged_from": [
+        "prog:332:Diploma|17571aee4ff6|diploma in hrm"
+      ],
+      "source_refs": [
+        "http://www.ewc.edu.za/"
+      ]
+    },
+    {
+      "id": "prog:332:Diploma|342680de14c5|diploma in human",
+      "institutionId": "332",
+      "name": "Diploma in Human",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "sourceUrl": "http://www.ewc.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+        "char_start": 23288,
+        "char_end": 23304,
+        "excerpt": "Diploma in Human"
+      },
+      "normalization_key": "Diploma|342680de14c5|diploma in human",
+      "campuses": [],
+      "merged_from": [
+        "prog:332:Diploma|342680de14c5|diploma in human"
+      ],
+      "source_refs": [
+        "http://www.ewc.edu.za/"
+      ]
+    },
+    {
+      "id": "prog:332:Diploma|2421c3809161|diploma in marketing management will give you a broad knowledge of marketing and",
+      "institutionId": "332",
+      "name": "Diploma in Marketing Management will give you a broad knowledge of marketing and an understanding of the",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "sourceUrl": "http://www.ewc.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+        "char_start": 17764,
+        "char_end": 17868,
+        "excerpt": "Diploma in Marketing Management will give you a broad knowledge of marketing and an understanding of the"
+      },
+      "normalization_key": "Diploma|2421c3809161|diploma in marketing management will give you a broad knowledge of marketing and",
+      "campuses": [],
+      "merged_from": [
+        "prog:332:Diploma|2421c3809161|diploma in marketing management will give you a broad knowledge of marketing and"
+      ],
+      "source_refs": [
+        "http://www.ewc.edu.za/"
+      ]
+    },
+    {
+      "id": "prog:332:NATED|57d8fa0fea64|n4 certificate",
+      "institutionId": "332",
+      "name": "N4 Certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "sourceUrl": "http://www.ewc.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+        "char_start": 28597,
+        "char_end": 28611,
+        "excerpt": "N4 Certificate"
+      },
+      "normalization_key": "NATED|57d8fa0fea64|n4 certificate",
+      "campuses": [],
+      "merged_from": [
+        "prog:332:NATED|57d8fa0fea64|n4 certificate",
+        "prog:332:NATED|57d8fa0fea64|n4 certificate",
+        "prog:332:NATED|57d8fa0fea64|n4 certificate"
+      ],
+      "source_refs": [
+        "http://www.ewc.edu.za/"
+      ]
+    },
+    {
+      "id": "prog:332:NATED|062dadb07aaa|n5 certificate",
+      "institutionId": "332",
+      "name": "N5 Certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 4
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 6
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "sourceUrl": "http://www.ewc.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+        "char_start": 38944,
+        "char_end": 38958,
+        "excerpt": "N5 Certificate"
+      },
+      "normalization_key": "NATED|062dadb07aaa|n5 certificate",
+      "campuses": [],
+      "merged_from": [
+        "prog:332:NATED|062dadb07aaa|n5 certificate",
+        "prog:332:NATED|062dadb07aaa|n5 certificate",
+        "prog:332:NATED|062dadb07aaa|n5 certificate",
+        "prog:332:NATED|062dadb07aaa|n5 certificate",
+        "prog:332:NATED|062dadb07aaa|n5 certificate",
+        "prog:332:NATED|062dadb07aaa|n5 certificate",
+        "prog:332:NATED|062dadb07aaa|n5 certificate",
+        "prog:332:NATED|062dadb07aaa|n5 certificate",
+        "prog:332:NATED|062dadb07aaa|n5 certificate"
+      ],
+      "source_refs": [
+        "http://www.ewc.edu.za/"
+      ]
+    },
+    {
+      "id": "prog:332:NATED|2991a6b8d1aa|n6 certificate",
+      "institutionId": "332",
+      "name": "N6 Certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 4
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 6
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "sourceUrl": "http://www.ewc.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+        "char_start": 38929,
+        "char_end": 38943,
+        "excerpt": "N6 Certificate"
+      },
+      "normalization_key": "NATED|2991a6b8d1aa|n6 certificate",
+      "campuses": [],
+      "merged_from": [
+        "prog:332:NATED|2991a6b8d1aa|n6 certificate",
+        "prog:332:NATED|2991a6b8d1aa|n6 certificate",
+        "prog:332:NATED|2991a6b8d1aa|n6 certificate",
+        "prog:332:NATED|2991a6b8d1aa|n6 certificate",
+        "prog:332:NATED|2991a6b8d1aa|n6 certificate",
+        "prog:332:NATED|2991a6b8d1aa|n6 certificate",
+        "prog:332:NATED|2991a6b8d1aa|n6 certificate",
+        "prog:332:NATED|2991a6b8d1aa|n6 certificate",
+        "prog:332:NATED|2991a6b8d1aa|n6 certificate"
+      ],
+      "source_refs": [
+        "http://www.ewc.edu.za/"
+      ]
+    },
+    {
+      "id": "prog:332:Diploma|739cf6bd2980|national diploma",
+      "institutionId": "332",
+      "name": "National Diploma",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "sourceUrl": "http://www.ewc.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+        "char_start": 33766,
+        "char_end": 33782,
+        "excerpt": "National Diploma"
+      },
+      "normalization_key": "Diploma|739cf6bd2980|national diploma",
+      "campuses": [],
+      "merged_from": [
+        "prog:332:Diploma|739cf6bd2980|national diploma",
+        "prog:332:Diploma|739cf6bd2980|national diploma",
+        "prog:332:Diploma|739cf6bd2980|national diploma",
+        "prog:332:Diploma|739cf6bd2980|national diploma",
+        "prog:332:Diploma|739cf6bd2980|national diploma",
+        "prog:332:Diploma|739cf6bd2980|national diploma",
+        "prog:332:Diploma|739cf6bd2980|national diploma",
+        "prog:332:Diploma|739cf6bd2980|national diploma"
+      ],
+      "source_refs": [
+        "http://www.ewc.edu.za/"
+      ]
+    },
+    {
+      "id": "prog:332:Diploma|6529ab2e98d0|national diploma in human resources management",
+      "institutionId": "332",
+      "name": "National Diploma in Human Resources Management",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "sourceUrl": "http://www.ewc.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+        "char_start": 25528,
+        "char_end": 25574,
+        "excerpt": "National Diploma in Human Resources Management"
+      },
+      "normalization_key": "Diploma|6529ab2e98d0|national diploma in human resources management",
+      "campuses": [],
+      "merged_from": [
+        "prog:332:Diploma|6529ab2e98d0|national diploma in human resources management"
+      ],
+      "source_refs": [
+        "http://www.ewc.edu.za/"
+      ]
+    },
+    {
+      "id": "prog:332:Diploma|f856fc56de6a|national diploma in public relations consists of the",
+      "institutionId": "332",
+      "name": "National Diploma in Public Relations consists of the",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "sourceUrl": "http://www.ewc.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+        "char_start": 28488,
+        "char_end": 28540,
+        "excerpt": "National Diploma in Public Relations consists of the"
+      },
+      "normalization_key": "Diploma|f856fc56de6a|national diploma in public relations consists of the",
+      "campuses": [],
+      "merged_from": [
+        "prog:332:Diploma|f856fc56de6a|national diploma in public relations consists of the"
+      ],
+      "source_refs": [
+        "http://www.ewc.edu.za/"
+      ]
+    },
+    {
+      "id": "prog:332:NCV|9fbf1180320e|ncv level 4",
+      "institutionId": "332",
+      "name": "NCV Level 4",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "sourceUrl": "http://www.ewc.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+        "char_start": 29547,
+        "char_end": 29558,
+        "excerpt": "NCV Level 4"
+      },
+      "normalization_key": "NCV|9fbf1180320e|ncv level 4",
+      "campuses": [],
+      "merged_from": [
+        "prog:332:NCV|9fbf1180320e|ncv level 4"
+      ],
+      "source_refs": [
+        "http://www.ewc.edu.za/"
+      ]
+    },
+    {
+      "id": "prog:332:NATED|3787633babc5|report 191",
+      "institutionId": "332",
+      "name": "Report 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "sourceUrl": "http://www.ewc.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+        "char_start": 28939,
+        "char_end": 28949,
+        "excerpt": "Report 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191",
+      "campuses": [],
+      "merged_from": [
+        "prog:332:NATED|3787633babc5|report 191",
+        "prog:332:NATED|3787633babc5|report 191",
+        "prog:332:NATED|3787633babc5|report 191",
+        "prog:332:NATED|3787633babc5|report 191",
+        "prog:332:NATED|3787633babc5|report 191"
+      ],
+      "source_refs": [
+        "http://www.ewc.edu.za/"
+      ]
+    }
+  ],
+  "admissions_rules": [
+    {
+      "id": "adm:332:NATED|2991a6b8d1aa|n6 certificate:subjects",
+      "institutionId": "332",
+      "programmeId": "prog:332:NATED|2991a6b8d1aa|n6 certificate",
+      "ruleType": "subject_requirements",
+      "detail": "Accounting >= 4%",
+      "subjects": [
+        {
+          "subject": "Accounting",
+          "minimum_percentage": 4,
+          "raw_span": "Accounting N4\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+            "char_start": 12766,
+            "char_end": 12780,
+            "excerpt": "Accounting N4"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "sourceUrl": "http://www.ewc.edu.za/"
+    },
+    {
+      "id": "adm:332:NATED|062dadb07aaa|n5 certificate:subjects",
+      "institutionId": "332",
+      "programmeId": "prog:332:NATED|062dadb07aaa|n5 certificate",
+      "ruleType": "subject_requirements",
+      "detail": "Accounting >= 4%",
+      "subjects": [
+        {
+          "subject": "Accounting",
+          "minimum_percentage": 4,
+          "raw_span": "Accounting N4\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+            "char_start": 12766,
+            "char_end": 12780,
+            "excerpt": "Accounting N4"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "sourceUrl": "http://www.ewc.edu.za/"
+    },
+    {
+      "id": "adm:332:NATED|2991a6b8d1aa|n6 certificate:subjects",
+      "institutionId": "332",
+      "programmeId": "prog:332:NATED|2991a6b8d1aa|n6 certificate",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 6%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 6,
+          "raw_span": "Mathematics N6\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+            "char_start": 36473,
+            "char_end": 36488,
+            "excerpt": "Mathematics N6"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "sourceUrl": "http://www.ewc.edu.za/"
+    },
+    {
+      "id": "adm:332:NATED|062dadb07aaa|n5 certificate:subjects",
+      "institutionId": "332",
+      "programmeId": "prog:332:NATED|062dadb07aaa|n5 certificate",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 6%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 6,
+          "raw_span": "Mathematics N6\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+            "char_start": 36473,
+            "char_end": 36488,
+            "excerpt": "Mathematics N6"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "sourceUrl": "http://www.ewc.edu.za/"
+    },
+    {
+      "id": "adm:332:NATED|2991a6b8d1aa|n6 certificate:subjects",
+      "institutionId": "332",
+      "programmeId": "prog:332:NATED|2991a6b8d1aa|n6 certificate",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 4%; Mathematics >= 6%; Mathematics >= 5%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 4,
+          "raw_span": "Mathematics N4\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+            "char_start": 37104,
+            "char_end": 37119,
+            "excerpt": "Mathematics N4"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 6,
+          "raw_span": "Mathematics N6\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+            "char_start": 37553,
+            "char_end": 37568,
+            "excerpt": "Mathematics N6"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 5,
+          "raw_span": "Mathematics N5\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+            "char_start": 37781,
+            "char_end": 37796,
+            "excerpt": "Mathematics N5"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "sourceUrl": "http://www.ewc.edu.za/"
+    },
+    {
+      "id": "adm:332:NATED|062dadb07aaa|n5 certificate:subjects",
+      "institutionId": "332",
+      "programmeId": "prog:332:NATED|062dadb07aaa|n5 certificate",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 4%; Mathematics >= 6%; Mathematics >= 5%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 4,
+          "raw_span": "Mathematics N4\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+            "char_start": 37104,
+            "char_end": 37119,
+            "excerpt": "Mathematics N4"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 6,
+          "raw_span": "Mathematics N6\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+            "char_start": 37553,
+            "char_end": 37568,
+            "excerpt": "Mathematics N6"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 5,
+          "raw_span": "Mathematics N5\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+            "char_start": 37781,
+            "char_end": 37796,
+            "excerpt": "Mathematics N5"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "sourceUrl": "http://www.ewc.edu.za/"
+    },
+    {
+      "id": "adm:332:NATED|2991a6b8d1aa|n6 certificate:subjects",
+      "institutionId": "332",
+      "programmeId": "prog:332:NATED|2991a6b8d1aa|n6 certificate",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 4%; Mathematics >= 6%; Mathematics >= 5%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 4,
+          "raw_span": "Mathematics N4\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+            "char_start": 38009,
+            "char_end": 38024,
+            "excerpt": "Mathematics N4"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 6,
+          "raw_span": "Mathematics N6\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+            "char_start": 38377,
+            "char_end": 38392,
+            "excerpt": "Mathematics N6"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 5,
+          "raw_span": "Mathematics N5\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+            "char_start": 38622,
+            "char_end": 38637,
+            "excerpt": "Mathematics N5"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "sourceUrl": "http://www.ewc.edu.za/"
+    },
+    {
+      "id": "adm:332:NATED|062dadb07aaa|n5 certificate:subjects",
+      "institutionId": "332",
+      "programmeId": "prog:332:NATED|062dadb07aaa|n5 certificate",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 4%; Mathematics >= 6%; Mathematics >= 5%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 4,
+          "raw_span": "Mathematics N4\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+            "char_start": 38009,
+            "char_end": 38024,
+            "excerpt": "Mathematics N4"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 6,
+          "raw_span": "Mathematics N6\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+            "char_start": 38377,
+            "char_end": 38392,
+            "excerpt": "Mathematics N6"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 5,
+          "raw_span": "Mathematics N5\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+            "char_start": 38622,
+            "char_end": 38637,
+            "excerpt": "Mathematics N5"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "sourceUrl": "http://www.ewc.edu.za/"
+    },
+    {
+      "id": "adm:332:NATED|2991a6b8d1aa|n6 certificate:subjects",
+      "institutionId": "332",
+      "programmeId": "prog:332:NATED|2991a6b8d1aa|n6 certificate",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 4%; Mathematics >= 6%; Mathematics >= 5%; Mathematics >= 4%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 4,
+          "raw_span": "Mathematics N4\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+            "char_start": 38810,
+            "char_end": 38825,
+            "excerpt": "Mathematics N4"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 6,
+          "raw_span": "Mathematics N6\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+            "char_start": 39219,
+            "char_end": 39234,
+            "excerpt": "Mathematics N6"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 5,
+          "raw_span": "Mathematics N5\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+            "char_start": 39313,
+            "char_end": 39328,
+            "excerpt": "Mathematics N5"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 4,
+          "raw_span": "Mathematics N4\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+            "char_start": 39407,
+            "char_end": 39422,
+            "excerpt": "Mathematics N4"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "sourceUrl": "http://www.ewc.edu.za/"
+    },
+    {
+      "id": "adm:332:NATED|062dadb07aaa|n5 certificate:subjects",
+      "institutionId": "332",
+      "programmeId": "prog:332:NATED|062dadb07aaa|n5 certificate",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 4%; Mathematics >= 6%; Mathematics >= 5%; Mathematics >= 4%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 4,
+          "raw_span": "Mathematics N4\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+            "char_start": 38810,
+            "char_end": 38825,
+            "excerpt": "Mathematics N4"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 6,
+          "raw_span": "Mathematics N6\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+            "char_start": 39219,
+            "char_end": 39234,
+            "excerpt": "Mathematics N6"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 5,
+          "raw_span": "Mathematics N5\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+            "char_start": 39313,
+            "char_end": 39328,
+            "excerpt": "Mathematics N5"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 4,
+          "raw_span": "Mathematics N4\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+            "char_start": 39407,
+            "char_end": 39422,
+            "excerpt": "Mathematics N4"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "sourceUrl": "http://www.ewc.edu.za/"
+    }
+  ],
+  "aps_rules": [],
+  "llm_calls": 0
+}

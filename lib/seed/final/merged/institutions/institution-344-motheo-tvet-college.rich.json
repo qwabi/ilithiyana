@@ -1,0 +1,77 @@
+{
+  "institution": {
+    "institution_id": "344",
+    "name": "Motheo TVET College",
+    "institution_type": "tvet-college",
+    "city": "Bloemfontein",
+    "province": "Free State",
+    "official_website": "https://www.motheotvet.edu.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/344/motheo-tvet-college",
+    "source_paths": [
+      "generated/v3/institutions.enriched.json",
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [
+    {
+      "id": "prog:132a01a1319325eb",
+      "institution_id": "344",
+      "institution_name": "Motheo TVET College",
+      "name": "NCV Level 2",
+      "normalized_name": "NCV Level 2",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NCV Level 2",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    }
+  ],
+  "programmes_all": [
+    {
+      "id": "prog:132a01a1319325eb",
+      "institution_id": "344",
+      "institution_name": "Motheo TVET College",
+      "name": "NCV Level 2",
+      "normalized_name": "NCV Level 2",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NCV Level 2",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    }
+  ],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 1,
+    "programmes_all": 1
+  }
+}

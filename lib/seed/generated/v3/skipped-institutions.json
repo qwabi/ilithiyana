@@ -1,0 +1,96 @@
+{
+  "skipped_institutions": [
+    {
+      "id": "328",
+      "name": "College of Cape Town for TVET"
+    },
+    {
+      "id": "308",
+      "name": "Esayidi TVET College"
+    },
+    {
+      "id": "339",
+      "name": "King Sabata Dalindyebo TVET College"
+    },
+    {
+      "id": "368",
+      "name": "University of South Africa (UNISA)"
+    },
+    {
+      "id": "348",
+      "name": "Nkangala TVET College"
+    },
+    {
+      "id": "313",
+      "name": "Maluti TVET College"
+    },
+    {
+      "id": "209",
+      "name": "Construction Education and Training Authority (CETA)"
+    },
+    {
+      "id": "221",
+      "name": "Education, Training and Development Practices Sector Education and Training Authority (ETDP SETA)"
+    },
+    {
+      "id": "226",
+      "name": "Finance and Accounting Services Sector Education and Training Authority (FASSET)"
+    },
+    {
+      "id": "201",
+      "name": "Banking Sector Education and Training Authority (BANKSETA)"
+    },
+    {
+      "id": "240",
+      "name": "Local Government Sector Education and Training Authority (LGSETA)"
+    },
+    {
+      "id": "105",
+      "name": "Health and Welfare Sector Education and Training Authority (HWSETA)"
+    },
+    {
+      "id": "156",
+      "name": "Safety and Security Sector Education and Training Authority (SASSETA)"
+    },
+    {
+      "id": "224",
+      "name": "Fibre Processing and Manufacturing Sector Education and Training Authority (FP&M SETA)"
+    },
+    {
+      "id": "228",
+      "name": "Food and Beverage Manufacturing Industry Sector Education and Training Authority (FoodBev SETA)"
+    },
+    {
+      "id": "215",
+      "name": "Culture, Arts, Tourism, Hospitality and Sport Sector Education and Training Authority (CATHSSETA)"
+    },
+    {
+      "id": "233",
+      "name": "Insurance Sector Education and Training Authority (Inseta)"
+    },
+    {
+      "id": "271",
+      "name": "Public Service Sector Education and Training Authority (PSETA)"
+    },
+    {
+      "id": "277",
+      "name": "Services Sector Education and Training Authority (SSETA)"
+    },
+    {
+      "id": "350",
+      "name": "Northern Cape Rural TVET College"
+    },
+    {
+      "id": "206",
+      "name": "Chemical Industries Education and Training Authority (CHIETA)"
+    },
+    {
+      "id": "246",
+      "name": "Media, Information and Communication Technologies Sector Education and Training Authority (MICT SETA)"
+    },
+    {
+      "id": "291",
+      "name": "Transport Education Training Authority (TETA)"
+    }
+  ]
+}

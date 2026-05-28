@@ -1,0 +1,5 @@
+{"ts": 1779897509.685431, "institutionId": "380", "event": "preprocess_done", "matched_files": ["/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/west-coast-tvet-college.pdf"], "chunks_created": 1, "skipped_chunk_reasons": []}
+{"ts": 1779897509.687745, "institutionId": "380", "event": "extract_done", "extracted_programmes_count": 0, "llm_calls": 0, "faculties_found": 0, "chunks_processed": 1}
+{"ts": 1779897509.688159, "institutionId": "380", "event": "normalize_done", "faculties": 0, "programmes": 0}
+{"ts": 1779897509.688546, "institutionId": "380", "event": "dedupe_done", "programmes_before": 0, "programmes_after": 0}
+{"ts": 1779897509.688906, "institutionId": "380", "event": "institution_pipeline_complete", "etlStatus": "no_programmes_extracted", "total_llm_calls_institution": 0}

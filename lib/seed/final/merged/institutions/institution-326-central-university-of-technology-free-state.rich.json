@@ -1,0 +1,3603 @@
+{
+  "institution": {
+    "institution_id": "326",
+    "name": "Central University of Technology, Free State",
+    "institution_type": "university-of-technology",
+    "city": "Bloemfontein",
+    "province": "Free State",
+    "official_website": "https://www.cut.ac.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/326/central-university-of-technology-free-state",
+    "source_paths": [
+      "generated/v3/institutions.enriched.json",
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [
+    {
+      "id": "fac:d06ac2080fa68e16",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Accounting and Auditing",
+      "kind": "department",
+      "overview": null,
+      "source_excerpt": "Faculty of Management Sciences — Accounting and Auditing",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:cf308adc86170111",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Agriculture",
+      "kind": "department",
+      "overview": null,
+      "source_excerpt": "Faculty of Health and Environmental Sciences — Agriculture",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:af6b9af07741d660",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Built Environment",
+      "kind": "department",
+      "overview": null,
+      "source_excerpt": "Faculty of Engineering, Built Environment and Information Technology — Built Environment",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:2db8d117db071bf8",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Business Management",
+      "kind": "department",
+      "overview": null,
+      "source_excerpt": "Faculty of Management Sciences — Business Management",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:64e25bfa966a77e3",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Business Support Studies",
+      "kind": "department",
+      "overview": null,
+      "source_excerpt": "Faculty of Management Sciences — Business Support Studies",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:85431a0e84ee48c6",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Centre for Applied Food Sustainability and -Biotechnology (CAFSaB)",
+      "kind": "department",
+      "overview": null,
+      "source_excerpt": "Faculty of Health and Environmental Sciences — Centre for Applied Food Sustainability and -Biotechnology (CAFSaB)",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:40d709f5e467f809",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Centre for Enterprise and Entrepreneurship Studies",
+      "kind": "department",
+      "overview": null,
+      "source_excerpt": "Faculty of Management Sciences — Centre for Enterprise and Entrepreneurship Studies",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:e3084f8ba026b302",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Centre for Innovation in Learning and Teaching (CILT)",
+      "kind": "department",
+      "overview": null,
+      "source_excerpt": "Faculty of Teaching and Learning — Centre for Innovation in Learning and Teaching (CILT)",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:fdf4a9967165f19d",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Centre for Quality of Health and Living (CQHL)",
+      "kind": "department",
+      "overview": null,
+      "source_excerpt": "Faculty of Health and Environmental Sciences — Centre for Quality of Health and Living (CQHL)",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:c391cb120519036b",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Civil Engineering",
+      "kind": "department",
+      "overview": null,
+      "source_excerpt": "Faculty of Engineering, Built Environment and Information Technology — Civil Engineering",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:53dea11f4282c84a",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Clinical Sciences",
+      "kind": "department",
+      "overview": null,
+      "source_excerpt": "Faculty of Health and Environmental Sciences — Clinical Sciences",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:31be3262df275709",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Communication Sciences",
+      "kind": "department",
+      "overview": null,
+      "source_excerpt": "Faculty of Humanities — Communication Sciences",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:d687c8d645d4fc5f",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Design and Studio Art",
+      "kind": "department",
+      "overview": null,
+      "source_excerpt": "Faculty of Humanities — Design and Studio Art",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:7d4b823f7e6c9aaf",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Disability Unit",
+      "kind": "department",
+      "overview": null,
+      "source_excerpt": "Faculty of Teaching and Learning — Disability Unit",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:891c6d75db6b4855",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Educational and Professional Studies",
+      "kind": "department",
+      "overview": null,
+      "source_excerpt": "Faculty of Humanities — Educational and Professional Studies",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:8d4833b77c1f1206",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Electrical, Electronic and Computer Engineering",
+      "kind": "department",
+      "overview": null,
+      "source_excerpt": "Faculty of Engineering, Built Environment and Information Technology — Electrical, Electronic and Computer Engineering",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:d6c4eff40a87a896",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Entrepreneurship Development Unit",
+      "kind": "department",
+      "overview": null,
+      "source_excerpt": "Faculty of Management Sciences — Entrepreneurship Development Unit",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:4ffba79a9f69b837",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Faculty of Engineering, Built Environment and Information Technology",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "Faculty of Engineering, Built Environment and Information Technology",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:2ea64beff56030f7",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Faculty of Health and Environmental Sciences",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "Faculty of Health and Environmental Sciences",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:7924641a76127489",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Faculty of Humanities",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "Faculty of Humanities",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:7af1dd8ee42883a5",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Faculty of Management Sciences",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "Faculty of Management Sciences",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:451f202d1f75514f",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Faculty of Teaching and Learning",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "Faculty of Teaching and Learning",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:14380a195135240a",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Government Management",
+      "kind": "department",
+      "overview": null,
+      "source_excerpt": "Faculty of Management Sciences — Government Management",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:922fcf9b16492889",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Graduate School",
+      "kind": "school",
+      "overview": null,
+      "source_excerpt": "Postgraduate Students — Graduate School",
+      "extraction_confidence": 0.75,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:6f4ec9bb5be669a0",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Health Sciences",
+      "kind": "department",
+      "overview": null,
+      "source_excerpt": "Faculty of Health and Environmental Sciences — Health Sciences",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:5ed5447689440393",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Hospitality Management",
+      "kind": "department",
+      "overview": null,
+      "source_excerpt": "Faculty of Management Sciences — Hospitality Management",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:496fab822ac5d6bf",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Information Technology",
+      "kind": "department",
+      "overview": null,
+      "source_excerpt": "Faculty of Engineering, Built Environment and Information Technology — Information Technology",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:860dcc7ce9521b2c",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Language and Social Sciences Education",
+      "kind": "department",
+      "overview": null,
+      "source_excerpt": "Faculty of Humanities — Language and Social Sciences Education",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:2ffae6ed9ea032e2",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Life Sciences",
+      "kind": "department",
+      "overview": null,
+      "source_excerpt": "Faculty of Health and Environmental Sciences — Life Sciences",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:3d5eed473c842bef",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Mathematical and Physical Sciences",
+      "kind": "department",
+      "overview": null,
+      "source_excerpt": "Faculty of Engineering, Built Environment and Information Technology — Mathematical and Physical Sciences",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:e5c0fe5969124236",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Mathematics, Science and Technology Education",
+      "kind": "department",
+      "overview": null,
+      "source_excerpt": "Faculty of Humanities — Mathematics, Science and Technology Education",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:b1b9b7f8fc4472bc",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Mechanical and Mechatronic Engineering",
+      "kind": "department",
+      "overview": null,
+      "source_excerpt": "Faculty of Engineering, Built Environment and Information Technology — Mechanical and Mechatronic Engineering",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:07d5369cea368cfe",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Post Graduate Studies in Education",
+      "kind": "department",
+      "overview": null,
+      "source_excerpt": "Faculty of Humanities — Post Graduate Studies in Education",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:c242a59cee761807",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Tourism and Event Management",
+      "kind": "department",
+      "overview": null,
+      "source_excerpt": "Faculty of Management Sciences — Tourism and Event Management",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    }
+  ],
+  "faculties_all": [
+    {
+      "id": "fac:d06ac2080fa68e16",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Accounting and Auditing",
+      "kind": "department",
+      "overview": null,
+      "source_excerpt": "Faculty of Management Sciences — Accounting and Auditing",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:cf308adc86170111",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Agriculture",
+      "kind": "department",
+      "overview": null,
+      "source_excerpt": "Faculty of Health and Environmental Sciences — Agriculture",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:af6b9af07741d660",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Built Environment",
+      "kind": "department",
+      "overview": null,
+      "source_excerpt": "Faculty of Engineering, Built Environment and Information Technology — Built Environment",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:2db8d117db071bf8",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Business Management",
+      "kind": "department",
+      "overview": null,
+      "source_excerpt": "Faculty of Management Sciences — Business Management",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:64e25bfa966a77e3",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Business Support Studies",
+      "kind": "department",
+      "overview": null,
+      "source_excerpt": "Faculty of Management Sciences — Business Support Studies",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:85431a0e84ee48c6",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Centre for Applied Food Sustainability and -Biotechnology (CAFSaB)",
+      "kind": "department",
+      "overview": null,
+      "source_excerpt": "Faculty of Health and Environmental Sciences — Centre for Applied Food Sustainability and -Biotechnology (CAFSaB)",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:40d709f5e467f809",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Centre for Enterprise and Entrepreneurship Studies",
+      "kind": "department",
+      "overview": null,
+      "source_excerpt": "Faculty of Management Sciences — Centre for Enterprise and Entrepreneurship Studies",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:e3084f8ba026b302",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Centre for Innovation in Learning and Teaching (CILT)",
+      "kind": "department",
+      "overview": null,
+      "source_excerpt": "Faculty of Teaching and Learning — Centre for Innovation in Learning and Teaching (CILT)",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:fdf4a9967165f19d",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Centre for Quality of Health and Living (CQHL)",
+      "kind": "department",
+      "overview": null,
+      "source_excerpt": "Faculty of Health and Environmental Sciences — Centre for Quality of Health and Living (CQHL)",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:c391cb120519036b",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Civil Engineering",
+      "kind": "department",
+      "overview": null,
+      "source_excerpt": "Faculty of Engineering, Built Environment and Information Technology — Civil Engineering",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:53dea11f4282c84a",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Clinical Sciences",
+      "kind": "department",
+      "overview": null,
+      "source_excerpt": "Faculty of Health and Environmental Sciences — Clinical Sciences",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:31be3262df275709",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Communication Sciences",
+      "kind": "department",
+      "overview": null,
+      "source_excerpt": "Faculty of Humanities — Communication Sciences",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:d687c8d645d4fc5f",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Design and Studio Art",
+      "kind": "department",
+      "overview": null,
+      "source_excerpt": "Faculty of Humanities — Design and Studio Art",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:7d4b823f7e6c9aaf",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Disability Unit",
+      "kind": "department",
+      "overview": null,
+      "source_excerpt": "Faculty of Teaching and Learning — Disability Unit",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:891c6d75db6b4855",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Educational and Professional Studies",
+      "kind": "department",
+      "overview": null,
+      "source_excerpt": "Faculty of Humanities — Educational and Professional Studies",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:8d4833b77c1f1206",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Electrical, Electronic and Computer Engineering",
+      "kind": "department",
+      "overview": null,
+      "source_excerpt": "Faculty of Engineering, Built Environment and Information Technology — Electrical, Electronic and Computer Engineering",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:d6c4eff40a87a896",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Entrepreneurship Development Unit",
+      "kind": "department",
+      "overview": null,
+      "source_excerpt": "Faculty of Management Sciences — Entrepreneurship Development Unit",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:4ffba79a9f69b837",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Faculty of Engineering, Built Environment and Information Technology",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "Faculty of Engineering, Built Environment and Information Technology",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:2ea64beff56030f7",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Faculty of Health and Environmental Sciences",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "Faculty of Health and Environmental Sciences",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:7924641a76127489",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Faculty of Humanities",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "Faculty of Humanities",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:7af1dd8ee42883a5",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Faculty of Management Sciences",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "Faculty of Management Sciences",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:451f202d1f75514f",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Faculty of Teaching and Learning",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "Faculty of Teaching and Learning",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:14380a195135240a",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Government Management",
+      "kind": "department",
+      "overview": null,
+      "source_excerpt": "Faculty of Management Sciences — Government Management",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:922fcf9b16492889",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Graduate School",
+      "kind": "school",
+      "overview": null,
+      "source_excerpt": "Postgraduate Students — Graduate School",
+      "extraction_confidence": 0.75,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:6f4ec9bb5be669a0",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Health Sciences",
+      "kind": "department",
+      "overview": null,
+      "source_excerpt": "Faculty of Health and Environmental Sciences — Health Sciences",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:5ed5447689440393",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Hospitality Management",
+      "kind": "department",
+      "overview": null,
+      "source_excerpt": "Faculty of Management Sciences — Hospitality Management",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:496fab822ac5d6bf",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Information Technology",
+      "kind": "department",
+      "overview": null,
+      "source_excerpt": "Faculty of Engineering, Built Environment and Information Technology — Information Technology",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:860dcc7ce9521b2c",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Language and Social Sciences Education",
+      "kind": "department",
+      "overview": null,
+      "source_excerpt": "Faculty of Humanities — Language and Social Sciences Education",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:2ffae6ed9ea032e2",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Life Sciences",
+      "kind": "department",
+      "overview": null,
+      "source_excerpt": "Faculty of Health and Environmental Sciences — Life Sciences",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:3d5eed473c842bef",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Mathematical and Physical Sciences",
+      "kind": "department",
+      "overview": null,
+      "source_excerpt": "Faculty of Engineering, Built Environment and Information Technology — Mathematical and Physical Sciences",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:e5c0fe5969124236",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Mathematics, Science and Technology Education",
+      "kind": "department",
+      "overview": null,
+      "source_excerpt": "Faculty of Humanities — Mathematics, Science and Technology Education",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:b1b9b7f8fc4472bc",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Mechanical and Mechatronic Engineering",
+      "kind": "department",
+      "overview": null,
+      "source_excerpt": "Faculty of Engineering, Built Environment and Information Technology — Mechanical and Mechatronic Engineering",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:07d5369cea368cfe",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Post Graduate Studies in Education",
+      "kind": "department",
+      "overview": null,
+      "source_excerpt": "Faculty of Humanities — Post Graduate Studies in Education",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:c242a59cee761807",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Tourism and Event Management",
+      "kind": "department",
+      "overview": null,
+      "source_excerpt": "Faculty of Management Sciences — Tourism and Event Management",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    }
+  ],
+  "programmes_best": [
+    {
+      "id": "prog:a370d3e4dfd7a84f",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "(SP & FET): Computer Science",
+      "normalized_name": "(SP & FET): Computer Science",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Humanities",
+      "campus": null,
+      "min_aps": 27,
+      "programme_code": "computer-science",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 7 (Bachelor) (SP & FET): Computer Science APS 27",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:65ad08606d3b2c41",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "(SP & FET): Economic and Management Sciences",
+      "normalized_name": "(SP & FET): Economic and Management Sciences",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Humanities",
+      "campus": null,
+      "min_aps": 27,
+      "programme_code": "economic-and-management-sciences",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 7 (Bachelor) (SP & FET): Economic and Management Sciences APS 27",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:487470c0e5c18f37",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "(SP & FET): Language Education",
+      "normalized_name": "(SP & FET): Language Education",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Humanities",
+      "campus": null,
+      "min_aps": 27,
+      "programme_code": "language-education",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 7 (Bachelor) (SP & FET): Language Education APS 27",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:31908150654f1a7b",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "(SP & FET): Mathematics",
+      "normalized_name": "(SP & FET): Mathematics",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Humanities",
+      "campus": null,
+      "min_aps": 27,
+      "programme_code": "mathematics",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 7 (Bachelor) (SP & FET): Mathematics APS 27",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:67a15ac3fadced7a",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "(SP & FET): Natural Sciences",
+      "normalized_name": "(SP & FET): Natural Sciences",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Humanities",
+      "campus": null,
+      "min_aps": 27,
+      "programme_code": "natural-sciences",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 7 (Bachelor) (SP & FET): Natural Sciences APS 27",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:540029929f3a2b41",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "(SP & FET): Technology",
+      "normalized_name": "(SP & FET): Technology",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Humanities",
+      "campus": null,
+      "min_aps": 27,
+      "programme_code": "technology-0",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 7 (Bachelor) (SP & FET): Technology APS 27",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:5680271958e95061",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Accountancy",
+      "normalized_name": "Accountancy",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Management Sciences",
+      "campus": null,
+      "min_aps": 30,
+      "programme_code": "management-sciences-in-accountancy",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 8 (Bachelor) Accountancy APS 30",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:6c7cd51bbffe45b2",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Agricultural Extension",
+      "normalized_name": "Agricultural Extension",
+      "qualification_type": "Advanced Diploma",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Health and Environmental Sciences",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": "agricultural-extension",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Faculty of Health and Environmental Sciences: NQF 7 — Agricultural Extension",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:1d936dc20563c268",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Agricultural Management",
+      "normalized_name": "Agricultural Management",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Health and Environmental Sciences",
+      "campus": null,
+      "min_aps": 27,
+      "programme_code": "dip-agricultural-management",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 6 (Dip) Agricultural Management APS 27",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:497501e21cd798de",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Applied Management",
+      "normalized_name": "Applied Management",
+      "qualification_type": "Advanced Diploma",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Management Sciences",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": "advanced-diploma-applied-management",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Faculty of Management Sciences: NQF 7 — Applied Management",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:d8417a8e4fc60b4a",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Biomedical Technology",
+      "normalized_name": "Biomedical Technology",
+      "qualification_type": "Masters",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Health and Environmental Sciences",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": "masters-health-sciences-biomedical-technology",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Faculty of Health and Environmental Sciences: NQF 9 — Biomedical Technology",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:d93109d6f48675a6",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Civil Engineering",
+      "normalized_name": "Civil Engineering",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+      "campus": null,
+      "min_aps": 32,
+      "programme_code": "civil-engineering",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 6 (Dip) Civil Engineering APS 32",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:2ef24c5a1fc5f821",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Community Development Work",
+      "normalized_name": "Community Development Work",
+      "qualification_type": "Higher Certificate",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Management Sciences",
+      "campus": null,
+      "min_aps": 27,
+      "programme_code": "community-development-work",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 5 (HCert) Community Development Work APS 27",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:10ee95f92c04837c",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Computer networking",
+      "normalized_name": "Computer networking",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+      "campus": null,
+      "min_aps": 27,
+      "programme_code": "computer-networking",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 6 (Dip) Computer networking APS 27",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:e8da8811e7f3ceae",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Construction",
+      "normalized_name": "Construction",
+      "qualification_type": "Higher Certificate",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+      "campus": null,
+      "min_aps": 27,
+      "programme_code": "construction",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 5 (HCert) Construction APS 27",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:a3197030f9c62e0c",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Construction Management",
+      "normalized_name": "Construction Management",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+      "campus": null,
+      "min_aps": 32,
+      "programme_code": "construction-management",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 7 (BCon) Construction Management APS 32",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:6000500e578e7c44",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Dental Assisting",
+      "normalized_name": "Dental Assisting",
+      "qualification_type": "Higher Certificate",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Health and Environmental Sciences",
+      "campus": null,
+      "min_aps": 27,
+      "programme_code": "dental-assisting",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 5 (HCert) Dental Assisting APS 27",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:83e67a6f1653363c",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Design and Studio Art",
+      "normalized_name": "Design and Studio Art",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Humanities",
+      "campus": null,
+      "min_aps": 27,
+      "programme_code": "design-and-studio-art",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 6 (Dip) Design and Studio Art APS 27",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:a18f1d33cd762a20",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Design Technology",
+      "normalized_name": "Design Technology",
+      "qualification_type": "Advanced Diploma",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Humanities",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": "design-technology",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Faculty of Humanities: NQF 7 — Design Technology",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:8296bb727c64f615",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Doctor of Education",
+      "normalized_name": "Doctor of Education",
+      "qualification_type": "Doctorate",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Humanities",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": "doctor-of-education-postgrad-studies",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Faculty of Humanities: NQF 10 — Doctor of Education",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:67f5cb7189cae812",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Doctorate (Management Sciences)",
+      "normalized_name": "Doctorate (Management Sciences)",
+      "qualification_type": "Doctorate",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Management Sciences",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": "postgraduate-studies-management-sciences",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Faculty of Management Sciences: NQF 10 — Doctorate (Management Sciences)",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:fa79b9bc20ed13f8",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Educational Management",
+      "normalized_name": "Educational Management",
+      "qualification_type": "Honours",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Humanities",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": "educational-management",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Faculty of Humanities: NQF 8 — Educational Management",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:2041b0bf253e8b7d",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Electrical Engineering",
+      "normalized_name": "Electrical Engineering",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+      "campus": null,
+      "min_aps": 32,
+      "programme_code": "engineering-technology-in-electrical-engineer",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 7 (Bachelor) Electrical Engineering APS 32",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:d86b9f0b711f4a23",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Entrepreneurial Management",
+      "normalized_name": "Entrepreneurial Management",
+      "qualification_type": "Honours",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Management Sciences",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": "postgrad-diploma-entrepreneurial-management",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Faculty of Management Sciences: NQF 8 — Entrepreneurial Management",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:bc0b3c02ccf57286",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Environmental Health",
+      "normalized_name": "Environmental Health",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Health and Environmental Sciences",
+      "campus": null,
+      "min_aps": 30,
+      "programme_code": "environmental-health-0",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 8 (Bachelor) Environmental Health APS 30",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:1e2d350649772644",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Foundation Phase Teaching",
+      "normalized_name": "Foundation Phase Teaching",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Humanities",
+      "campus": null,
+      "min_aps": 27,
+      "programme_code": "foundation-phase-teaching",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 7 (Bachelor) Foundation Phase Teaching APS 27",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:0c339eee71a85c9b",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Health and Safety Management",
+      "normalized_name": "Health and Safety Management",
+      "qualification_type": "Honours",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": "pd-health-and-safety-management",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Faculty of Engineering, Built Environment and Information Technology: NQF 8 — Health and Safety Management",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:1c7af6a3d1ef5657",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Health and Safety Management (Construction)",
+      "normalized_name": "Health and Safety Management (Construction)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+      "campus": null,
+      "min_aps": 32,
+      "programme_code": "health-and-safety-management",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 7 (Bachelor) Health and Safety Management (Construction) APS 32",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:5cd0ba8431865658",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Health Management",
+      "normalized_name": "Health Management",
+      "qualification_type": "Advanced Diploma",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Health and Environmental Sciences",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": "health-management",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Faculty of Health and Environmental Sciences: NQF 7 — Health Management",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:a33d292cbac9694f",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Health Science: Medical Laboratory Sciences",
+      "normalized_name": "Health Science: Medical Laboratory Sciences",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Health and Environmental Sciences",
+      "campus": null,
+      "min_aps": 30,
+      "programme_code": "bachelor-health-sciences-medical-lab-science",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 8 (Bachelor) Health Science: Medical Laboratory Sciences APS 30",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:6a06fe01bd97d9b6",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Health Sciences in Clinical Technology",
+      "normalized_name": "Health Sciences in Clinical Technology",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Health and Environmental Sciences",
+      "campus": null,
+      "min_aps": 30,
+      "programme_code": "bachelor-health-sciences-clinical-tech",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 8 (Bachelor) Health Sciences in Clinical Technology APS 30",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:5f658792311d3868",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Higher Education (Teaching and Learning)",
+      "normalized_name": "Higher Education (Teaching and Learning)",
+      "qualification_type": "Honours",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Humanities",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": "higher-education",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Faculty of Humanities: NQF 8 — Higher Education (Teaching and Learning)",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:48996154429c3977",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Hospitality Management",
+      "normalized_name": "Hospitality Management",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Management Sciences",
+      "campus": null,
+      "min_aps": 27,
+      "programme_code": "hospitality-management",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 6 (Dip) Hospitality Management APS 27",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:2122f37348a8ab34",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Human Resources Management",
+      "normalized_name": "Human Resources Management",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Management Sciences",
+      "campus": null,
+      "min_aps": 27,
+      "programme_code": "human-resources-management",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 6 (Dip) Human Resources Management APS 27",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:3881b1ae75d69181",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Hydrology and Water Resources Management",
+      "normalized_name": "Hydrology and Water Resources Management",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+      "campus": null,
+      "min_aps": 28,
+      "programme_code": "hydrology-and-water-resources-management",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 7 (Bachelor) Hydrology and Water Resources Management APS 28",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:d490a5e189b83b1b",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Information Technology",
+      "normalized_name": "Information Technology",
+      "qualification_type": "Higher Certificate",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+      "campus": null,
+      "min_aps": 27,
+      "programme_code": "information-technology-2",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 5 (HCert) Information Technology APS 27",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:4f509ffb84fa2061",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Internal Auditing",
+      "normalized_name": "Internal Auditing",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Management Sciences",
+      "campus": null,
+      "min_aps": 30,
+      "programme_code": "internal-auditing-1",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 8 (Bachelor) Internal Auditing APS 30",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:5929f2f15b2e60b3",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Language Practice",
+      "normalized_name": "Language Practice",
+      "qualification_type": "Advanced Diploma",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Humanities",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": "advanced-diploma-language-practice",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Faculty of Humanities: NQF 7 — Language Practice",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:a8736f63a73ed5e3",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Language Practice and Media Studies",
+      "normalized_name": "Language Practice and Media Studies",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Humanities",
+      "campus": null,
+      "min_aps": 27,
+      "programme_code": "language-practice-and-media-studies-1",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 6 (Dip) Language Practice and Media Studies APS 27",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:25136d3ffa24623a",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Logistics and Transportation Management",
+      "normalized_name": "Logistics and Transportation Management",
+      "qualification_type": "Advanced Diploma",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": "logistics-and-transportation-management",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Faculty of Engineering, Built Environment and Information Technology: NQF 7 — Logistics and Transportation Management",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:e0c9e6c446d18722",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Management",
+      "normalized_name": "Management",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Management Sciences",
+      "campus": null,
+      "min_aps": 30,
+      "programme_code": "diploma-management",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 6 (Dip) Management APS 30",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:923d05eca92ce626",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Management Sciences",
+      "normalized_name": "Management Sciences",
+      "qualification_type": "Masters",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Management Sciences",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": "master-of-philosophy-mphil-in-management-scie",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Faculty of Management Sciences: NQF 9 — Management Sciences",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:85acda71f6291ff7",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Marketing",
+      "normalized_name": "Marketing",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Management Sciences",
+      "campus": null,
+      "min_aps": 27,
+      "programme_code": "marketing-2",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 6 (Dip) Marketing APS 27",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:35e2e5cd883c09ef",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Masters (Management Sciences)",
+      "normalized_name": "Masters (Management Sciences)",
+      "qualification_type": "Masters",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Management Sciences",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": "postgraduate-studies-management-sciences",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Faculty of Management Sciences: NQF 9 — Masters (Management Sciences)",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:887183fd775de790",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Mathematics for Engineering Technology",
+      "normalized_name": "Mathematics for Engineering Technology",
+      "qualification_type": "Higher Certificate",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+      "campus": null,
+      "min_aps": 27,
+      "programme_code": "hc-mathematics-for-engineering-technology",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 5 (HCert) Mathematics for Engineering Technology APS 27",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:3ba3d851fd44ddf3",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Mechanical Engineering",
+      "normalized_name": "Mechanical Engineering",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+      "campus": null,
+      "min_aps": 32,
+      "programme_code": "engineering-technology-mechanical-0",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 7 (Bachelor) Mechanical Engineering APS 32",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:481f60406dbafe4c",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "MEd",
+      "normalized_name": "MEd",
+      "qualification_type": "Masters",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Humanities",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": "master-of-education-postgrad-studies",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Faculty of Humanities: NQF 9 — Master of Education",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:f8ee4b9c70cd81e9",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Media Studies",
+      "normalized_name": "Media Studies",
+      "qualification_type": "Advanced Diploma",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Humanities",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": "advanced-diploma-media-studies",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Faculty of Humanities: NQF 7 — Media Studies",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:6a698b5395326b98",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Monitoring and Evaluation",
+      "normalized_name": "Monitoring and Evaluation",
+      "qualification_type": "Advanced Diploma",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Management Sciences",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": "advdip-monitoring-evaluation",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Faculty of Management Sciences: NQF 7 — Monitoring and Evaluation",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:92b84528f9dfca3f",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Office Management and Technology",
+      "normalized_name": "Office Management and Technology",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Management Sciences",
+      "campus": null,
+      "min_aps": 27,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 6 (Dip) Office Management and Technology APS 27",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:1ad32129c75fffab",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Postgraduate Certificate In Education (PGCE)",
+      "normalized_name": "Postgraduate Certificate In Education (PGCE)",
+      "qualification_type": "Advanced Diploma",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Humanities",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": "postgraduate-certificate-in-education-pgce",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Faculty of Humanities: NQF 7 — Postgraduate Certificate In Education (PGCE)",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:ed0ac28e6de0392c",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Project Management",
+      "normalized_name": "Project Management",
+      "qualification_type": "Honours",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Management Sciences",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": "postgrad-diploma-project-management",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Faculty of Management Sciences: NQF 8 — Project Management",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:4900023a6ea96a11",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Public Management",
+      "normalized_name": "Public Management",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Management Sciences",
+      "campus": null,
+      "min_aps": 27,
+      "programme_code": "public-management",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 6 (Dip) Public Management APS 27",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:d6fd2fcd14854b25",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Quantity Surveying",
+      "normalized_name": "Quantity Surveying",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+      "campus": null,
+      "min_aps": 32,
+      "programme_code": "quantity-surveying",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 7 (Bachelor) Quantity Surveying APS 32",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:d1aad4f85731feb9",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Radiography in Diagnostics",
+      "normalized_name": "Radiography in Diagnostics",
+      "qualification_type": "Honours",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Health and Environmental Sciences",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": "radiography-in-diagnostics",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Faculty of Health and Environmental Sciences: NQF 8 — Radiography in Diagnostics",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:be803e54cab655b4",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Renewable Energy Technologies",
+      "normalized_name": "Renewable Energy Technologies",
+      "qualification_type": "Higher Certificate",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+      "campus": null,
+      "min_aps": 27,
+      "programme_code": "renewable-energy-technologies",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 5 (HCert) Renewable Energy Technologies APS 27",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:2f52720f77fb4006",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Somatology",
+      "normalized_name": "Somatology",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Health and Environmental Sciences",
+      "campus": null,
+      "min_aps": 27,
+      "programme_code": "somatology",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 6 (Dip) Somatology APS 27",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:5f915e16669bc765",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Studio Art",
+      "normalized_name": "Studio Art",
+      "qualification_type": "Advanced Diploma",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Humanities",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": "studio-art-0",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Faculty of Humanities: NQF 7 — Studio Art",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:6e52d1a46c555340",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Therapeutic Services",
+      "normalized_name": "Therapeutic Services",
+      "qualification_type": "Advanced Diploma",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Health and Environmental Sciences",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": "adv-dip-therapeutic-services",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Faculty of Health and Environmental Sciences: NQF 7 — Therapeutic Services",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:6acbe790d4b30158",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Tourism Management",
+      "normalized_name": "Tourism Management",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Management Sciences",
+      "campus": null,
+      "min_aps": 28,
+      "programme_code": "tourism-management",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 6 (Dip) Tourism Management APS 28",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:8cd28509804ed7cb",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Urban Development",
+      "normalized_name": "Urban Development",
+      "qualification_type": "Honours",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": "postgraduate-diploma-in-construction-urban-de",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Faculty of Engineering, Built Environment and Information Technology: NQF 8 — Urban Development",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    }
+  ],
+  "programmes_all": [
+    {
+      "id": "prog:a370d3e4dfd7a84f",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "(SP & FET): Computer Science",
+      "normalized_name": "(SP & FET): Computer Science",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Humanities",
+      "campus": null,
+      "min_aps": 27,
+      "programme_code": "computer-science",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 7 (Bachelor) (SP & FET): Computer Science APS 27",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:65ad08606d3b2c41",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "(SP & FET): Economic and Management Sciences",
+      "normalized_name": "(SP & FET): Economic and Management Sciences",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Humanities",
+      "campus": null,
+      "min_aps": 27,
+      "programme_code": "economic-and-management-sciences",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 7 (Bachelor) (SP & FET): Economic and Management Sciences APS 27",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:487470c0e5c18f37",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "(SP & FET): Language Education",
+      "normalized_name": "(SP & FET): Language Education",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Humanities",
+      "campus": null,
+      "min_aps": 27,
+      "programme_code": "language-education",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 7 (Bachelor) (SP & FET): Language Education APS 27",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:31908150654f1a7b",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "(SP & FET): Mathematics",
+      "normalized_name": "(SP & FET): Mathematics",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Humanities",
+      "campus": null,
+      "min_aps": 27,
+      "programme_code": "mathematics",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 7 (Bachelor) (SP & FET): Mathematics APS 27",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:67a15ac3fadced7a",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "(SP & FET): Natural Sciences",
+      "normalized_name": "(SP & FET): Natural Sciences",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Humanities",
+      "campus": null,
+      "min_aps": 27,
+      "programme_code": "natural-sciences",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 7 (Bachelor) (SP & FET): Natural Sciences APS 27",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:540029929f3a2b41",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "(SP & FET): Technology",
+      "normalized_name": "(SP & FET): Technology",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Humanities",
+      "campus": null,
+      "min_aps": 27,
+      "programme_code": "technology-0",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 7 (Bachelor) (SP & FET): Technology APS 27",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:5680271958e95061",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Accountancy",
+      "normalized_name": "Accountancy",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Management Sciences",
+      "campus": null,
+      "min_aps": 30,
+      "programme_code": "management-sciences-in-accountancy",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 8 (Bachelor) Accountancy APS 30",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:6c7cd51bbffe45b2",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Agricultural Extension",
+      "normalized_name": "Agricultural Extension",
+      "qualification_type": "Advanced Diploma",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Health and Environmental Sciences",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": "agricultural-extension",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Faculty of Health and Environmental Sciences: NQF 7 — Agricultural Extension",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:1d936dc20563c268",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Agricultural Management",
+      "normalized_name": "Agricultural Management",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Health and Environmental Sciences",
+      "campus": null,
+      "min_aps": 27,
+      "programme_code": "dip-agricultural-management",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 6 (Dip) Agricultural Management APS 27",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:497501e21cd798de",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Applied Management",
+      "normalized_name": "Applied Management",
+      "qualification_type": "Advanced Diploma",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Management Sciences",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": "advanced-diploma-applied-management",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Faculty of Management Sciences: NQF 7 — Applied Management",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:d8417a8e4fc60b4a",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Biomedical Technology",
+      "normalized_name": "Biomedical Technology",
+      "qualification_type": "Masters",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Health and Environmental Sciences",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": "masters-health-sciences-biomedical-technology",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Faculty of Health and Environmental Sciences: NQF 9 — Biomedical Technology",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:d93109d6f48675a6",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Civil Engineering",
+      "normalized_name": "Civil Engineering",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+      "campus": null,
+      "min_aps": 32,
+      "programme_code": "civil-engineering",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 6 (Dip) Civil Engineering APS 32",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:2ef24c5a1fc5f821",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Community Development Work",
+      "normalized_name": "Community Development Work",
+      "qualification_type": "Higher Certificate",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Management Sciences",
+      "campus": null,
+      "min_aps": 27,
+      "programme_code": "community-development-work",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 5 (HCert) Community Development Work APS 27",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:10ee95f92c04837c",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Computer networking",
+      "normalized_name": "Computer networking",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+      "campus": null,
+      "min_aps": 27,
+      "programme_code": "computer-networking",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 6 (Dip) Computer networking APS 27",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:e8da8811e7f3ceae",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Construction",
+      "normalized_name": "Construction",
+      "qualification_type": "Higher Certificate",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+      "campus": null,
+      "min_aps": 27,
+      "programme_code": "construction",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 5 (HCert) Construction APS 27",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:a3197030f9c62e0c",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Construction Management",
+      "normalized_name": "Construction Management",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+      "campus": null,
+      "min_aps": 32,
+      "programme_code": "construction-management",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 7 (BCon) Construction Management APS 32",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:6000500e578e7c44",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Dental Assisting",
+      "normalized_name": "Dental Assisting",
+      "qualification_type": "Higher Certificate",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Health and Environmental Sciences",
+      "campus": null,
+      "min_aps": 27,
+      "programme_code": "dental-assisting",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 5 (HCert) Dental Assisting APS 27",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:83e67a6f1653363c",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Design and Studio Art",
+      "normalized_name": "Design and Studio Art",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Humanities",
+      "campus": null,
+      "min_aps": 27,
+      "programme_code": "design-and-studio-art",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 6 (Dip) Design and Studio Art APS 27",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:a18f1d33cd762a20",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Design Technology",
+      "normalized_name": "Design Technology",
+      "qualification_type": "Advanced Diploma",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Humanities",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": "design-technology",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Faculty of Humanities: NQF 7 — Design Technology",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:8296bb727c64f615",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Doctor of Education",
+      "normalized_name": "Doctor of Education",
+      "qualification_type": "Doctorate",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Humanities",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": "doctor-of-education-postgrad-studies",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Faculty of Humanities: NQF 10 — Doctor of Education",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:67f5cb7189cae812",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Doctorate (Management Sciences)",
+      "normalized_name": "Doctorate (Management Sciences)",
+      "qualification_type": "Doctorate",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Management Sciences",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": "postgraduate-studies-management-sciences",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Faculty of Management Sciences: NQF 10 — Doctorate (Management Sciences)",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:fa79b9bc20ed13f8",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Educational Management",
+      "normalized_name": "Educational Management",
+      "qualification_type": "Honours",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Humanities",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": "educational-management",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Faculty of Humanities: NQF 8 — Educational Management",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:2041b0bf253e8b7d",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Electrical Engineering",
+      "normalized_name": "Electrical Engineering",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+      "campus": null,
+      "min_aps": 32,
+      "programme_code": "engineering-technology-in-electrical-engineer",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 7 (Bachelor) Electrical Engineering APS 32",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:d86b9f0b711f4a23",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Entrepreneurial Management",
+      "normalized_name": "Entrepreneurial Management",
+      "qualification_type": "Honours",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Management Sciences",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": "postgrad-diploma-entrepreneurial-management",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Faculty of Management Sciences: NQF 8 — Entrepreneurial Management",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:bc0b3c02ccf57286",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Environmental Health",
+      "normalized_name": "Environmental Health",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Health and Environmental Sciences",
+      "campus": null,
+      "min_aps": 30,
+      "programme_code": "environmental-health-0",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 8 (Bachelor) Environmental Health APS 30",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:1e2d350649772644",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Foundation Phase Teaching",
+      "normalized_name": "Foundation Phase Teaching",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Humanities",
+      "campus": null,
+      "min_aps": 27,
+      "programme_code": "foundation-phase-teaching",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 7 (Bachelor) Foundation Phase Teaching APS 27",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:0c339eee71a85c9b",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Health and Safety Management",
+      "normalized_name": "Health and Safety Management",
+      "qualification_type": "Honours",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": "pd-health-and-safety-management",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Faculty of Engineering, Built Environment and Information Technology: NQF 8 — Health and Safety Management",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:1c7af6a3d1ef5657",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Health and Safety Management (Construction)",
+      "normalized_name": "Health and Safety Management (Construction)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+      "campus": null,
+      "min_aps": 32,
+      "programme_code": "health-and-safety-management",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 7 (Bachelor) Health and Safety Management (Construction) APS 32",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:5cd0ba8431865658",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Health Management",
+      "normalized_name": "Health Management",
+      "qualification_type": "Advanced Diploma",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Health and Environmental Sciences",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": "health-management",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Faculty of Health and Environmental Sciences: NQF 7 — Health Management",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:a33d292cbac9694f",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Health Science: Medical Laboratory Sciences",
+      "normalized_name": "Health Science: Medical Laboratory Sciences",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Health and Environmental Sciences",
+      "campus": null,
+      "min_aps": 30,
+      "programme_code": "bachelor-health-sciences-medical-lab-science",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 8 (Bachelor) Health Science: Medical Laboratory Sciences APS 30",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:6a06fe01bd97d9b6",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Health Sciences in Clinical Technology",
+      "normalized_name": "Health Sciences in Clinical Technology",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Health and Environmental Sciences",
+      "campus": null,
+      "min_aps": 30,
+      "programme_code": "bachelor-health-sciences-clinical-tech",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 8 (Bachelor) Health Sciences in Clinical Technology APS 30",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:5f658792311d3868",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Higher Education (Teaching and Learning)",
+      "normalized_name": "Higher Education (Teaching and Learning)",
+      "qualification_type": "Honours",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Humanities",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": "higher-education",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Faculty of Humanities: NQF 8 — Higher Education (Teaching and Learning)",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:48996154429c3977",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Hospitality Management",
+      "normalized_name": "Hospitality Management",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Management Sciences",
+      "campus": null,
+      "min_aps": 27,
+      "programme_code": "hospitality-management",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 6 (Dip) Hospitality Management APS 27",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:2122f37348a8ab34",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Human Resources Management",
+      "normalized_name": "Human Resources Management",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Management Sciences",
+      "campus": null,
+      "min_aps": 27,
+      "programme_code": "human-resources-management",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 6 (Dip) Human Resources Management APS 27",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:3881b1ae75d69181",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Hydrology and Water Resources Management",
+      "normalized_name": "Hydrology and Water Resources Management",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+      "campus": null,
+      "min_aps": 28,
+      "programme_code": "hydrology-and-water-resources-management",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 7 (Bachelor) Hydrology and Water Resources Management APS 28",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:d490a5e189b83b1b",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Information Technology",
+      "normalized_name": "Information Technology",
+      "qualification_type": "Higher Certificate",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+      "campus": null,
+      "min_aps": 27,
+      "programme_code": "information-technology-2",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 5 (HCert) Information Technology APS 27",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:4f509ffb84fa2061",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Internal Auditing",
+      "normalized_name": "Internal Auditing",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Management Sciences",
+      "campus": null,
+      "min_aps": 30,
+      "programme_code": "internal-auditing-1",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 8 (Bachelor) Internal Auditing APS 30",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:5929f2f15b2e60b3",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Language Practice",
+      "normalized_name": "Language Practice",
+      "qualification_type": "Advanced Diploma",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Humanities",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": "advanced-diploma-language-practice",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Faculty of Humanities: NQF 7 — Language Practice",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:a8736f63a73ed5e3",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Language Practice and Media Studies",
+      "normalized_name": "Language Practice and Media Studies",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Humanities",
+      "campus": null,
+      "min_aps": 27,
+      "programme_code": "language-practice-and-media-studies-1",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 6 (Dip) Language Practice and Media Studies APS 27",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:25136d3ffa24623a",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Logistics and Transportation Management",
+      "normalized_name": "Logistics and Transportation Management",
+      "qualification_type": "Advanced Diploma",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": "logistics-and-transportation-management",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Faculty of Engineering, Built Environment and Information Technology: NQF 7 — Logistics and Transportation Management",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:e0c9e6c446d18722",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Management",
+      "normalized_name": "Management",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Management Sciences",
+      "campus": null,
+      "min_aps": 30,
+      "programme_code": "diploma-management",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 6 (Dip) Management APS 30",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:923d05eca92ce626",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Management Sciences",
+      "normalized_name": "Management Sciences",
+      "qualification_type": "Masters",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Management Sciences",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": "master-of-philosophy-mphil-in-management-scie",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Faculty of Management Sciences: NQF 9 — Management Sciences",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:85acda71f6291ff7",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Marketing",
+      "normalized_name": "Marketing",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Management Sciences",
+      "campus": null,
+      "min_aps": 27,
+      "programme_code": "marketing-2",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 6 (Dip) Marketing APS 27",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:35e2e5cd883c09ef",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Masters (Management Sciences)",
+      "normalized_name": "Masters (Management Sciences)",
+      "qualification_type": "Masters",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Management Sciences",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": "postgraduate-studies-management-sciences",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Faculty of Management Sciences: NQF 9 — Masters (Management Sciences)",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:887183fd775de790",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Mathematics for Engineering Technology",
+      "normalized_name": "Mathematics for Engineering Technology",
+      "qualification_type": "Higher Certificate",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+      "campus": null,
+      "min_aps": 27,
+      "programme_code": "hc-mathematics-for-engineering-technology",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 5 (HCert) Mathematics for Engineering Technology APS 27",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:3ba3d851fd44ddf3",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Mechanical Engineering",
+      "normalized_name": "Mechanical Engineering",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+      "campus": null,
+      "min_aps": 32,
+      "programme_code": "engineering-technology-mechanical-0",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 7 (Bachelor) Mechanical Engineering APS 32",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:481f60406dbafe4c",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "MEd",
+      "normalized_name": "MEd",
+      "qualification_type": "Masters",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Humanities",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": "master-of-education-postgrad-studies",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Faculty of Humanities: NQF 9 — Master of Education",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:f8ee4b9c70cd81e9",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Media Studies",
+      "normalized_name": "Media Studies",
+      "qualification_type": "Advanced Diploma",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Humanities",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": "advanced-diploma-media-studies",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Faculty of Humanities: NQF 7 — Media Studies",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:6a698b5395326b98",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Monitoring and Evaluation",
+      "normalized_name": "Monitoring and Evaluation",
+      "qualification_type": "Advanced Diploma",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Management Sciences",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": "advdip-monitoring-evaluation",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Faculty of Management Sciences: NQF 7 — Monitoring and Evaluation",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:92b84528f9dfca3f",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Office Management and Technology",
+      "normalized_name": "Office Management and Technology",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Management Sciences",
+      "campus": null,
+      "min_aps": 27,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 6 (Dip) Office Management and Technology APS 27",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:1ad32129c75fffab",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Postgraduate Certificate In Education (PGCE)",
+      "normalized_name": "Postgraduate Certificate In Education (PGCE)",
+      "qualification_type": "Advanced Diploma",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Humanities",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": "postgraduate-certificate-in-education-pgce",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Faculty of Humanities: NQF 7 — Postgraduate Certificate In Education (PGCE)",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:ed0ac28e6de0392c",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Project Management",
+      "normalized_name": "Project Management",
+      "qualification_type": "Honours",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Management Sciences",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": "postgrad-diploma-project-management",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Faculty of Management Sciences: NQF 8 — Project Management",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:4900023a6ea96a11",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Public Management",
+      "normalized_name": "Public Management",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Management Sciences",
+      "campus": null,
+      "min_aps": 27,
+      "programme_code": "public-management",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 6 (Dip) Public Management APS 27",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:d6fd2fcd14854b25",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Quantity Surveying",
+      "normalized_name": "Quantity Surveying",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+      "campus": null,
+      "min_aps": 32,
+      "programme_code": "quantity-surveying",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 7 (Bachelor) Quantity Surveying APS 32",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:d1aad4f85731feb9",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Radiography in Diagnostics",
+      "normalized_name": "Radiography in Diagnostics",
+      "qualification_type": "Honours",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Health and Environmental Sciences",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": "radiography-in-diagnostics",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Faculty of Health and Environmental Sciences: NQF 8 — Radiography in Diagnostics",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:be803e54cab655b4",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Renewable Energy Technologies",
+      "normalized_name": "Renewable Energy Technologies",
+      "qualification_type": "Higher Certificate",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+      "campus": null,
+      "min_aps": 27,
+      "programme_code": "renewable-energy-technologies",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 5 (HCert) Renewable Energy Technologies APS 27",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:2f52720f77fb4006",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Somatology",
+      "normalized_name": "Somatology",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Health and Environmental Sciences",
+      "campus": null,
+      "min_aps": 27,
+      "programme_code": "somatology",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 6 (Dip) Somatology APS 27",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:5f915e16669bc765",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Studio Art",
+      "normalized_name": "Studio Art",
+      "qualification_type": "Advanced Diploma",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Humanities",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": "studio-art-0",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Faculty of Humanities: NQF 7 — Studio Art",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:6e52d1a46c555340",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Therapeutic Services",
+      "normalized_name": "Therapeutic Services",
+      "qualification_type": "Advanced Diploma",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Health and Environmental Sciences",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": "adv-dip-therapeutic-services",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Faculty of Health and Environmental Sciences: NQF 7 — Therapeutic Services",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:6acbe790d4b30158",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Tourism Management",
+      "normalized_name": "Tourism Management",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Management Sciences",
+      "campus": null,
+      "min_aps": 28,
+      "programme_code": "tourism-management",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NQF 6 (Dip) Tourism Management APS 28",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:8cd28509804ed7cb",
+      "institution_id": "326",
+      "institution_name": "Central University of Technology, Free State",
+      "name": "Urban Development",
+      "normalized_name": "Urban Development",
+      "qualification_type": "Honours",
+      "qualification_level": null,
+      "faculty_name": "Faculty of Engineering, Built Environment and Information Technology",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": "postgraduate-diploma-in-construction-urban-de",
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Faculty of Engineering, Built Environment and Information Technology: NQF 8 — Urban Development",
+      "extraction_confidence": 0.92,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    }
+  ],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 34,
+    "faculties_all": 34,
+    "programmes_best": 61,
+    "programmes_all": 61
+  }
+}

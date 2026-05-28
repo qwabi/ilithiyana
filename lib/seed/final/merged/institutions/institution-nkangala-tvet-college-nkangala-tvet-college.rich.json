@@ -1,0 +1,73 @@
+{
+  "institution": {
+    "id": "institution:nkangala-tvet-college",
+    "slug": "nkangala-tvet-college",
+    "institution_id_raw": "348",
+    "name": "Nkangala TVET College",
+    "institution_type": "tvet-college",
+    "city": "Witbank",
+    "province": "Mpumalanga",
+    "official_website": "https://www.ntc.edu.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/348/nkangala-tvet-college",
+    "source_paths": [
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "sector": "higher education",
+      "province": "Mpumalanga",
+      "city": "Witbank",
+      "physical_address": "New Central Office, Cnr Frans & Susanna Street, Witbank",
+      "postal_address": "PO Box 2282, Witbank, 1035",
+      "contact_emails": [
+        "info@ntc.edu.za"
+      ],
+      "contact_phone_numbers": [
+        "013 243 2148",
+        "+27 013 690 1885",
+        "013 690 1885",
+        "013 658 4703",
+        "013 973 9113",
+        "013 699 0302",
+        "013 690 1886",
+        "013 246 1600"
+      ],
+      "application_url": "https://www.ntc.edu.za/apply.html",
+      "socials": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": "",
+        "x": "",
+        "youtube": ""
+      },
+      "accreditation": {
+        "dh et": "Accredited",
+        "saqa": null
+      },
+      "sources": [
+        "https://nationalgovernment.co.za/units/view/348/nkangala-tvet-college",
+        "https://www.ntc.edu.za/"
+      ],
+      "qualification_types": [
+        "NC(V)",
+        "Nated (Report 191)",
+        "Skills Programmes",
+        "Apprenticeships"
+      ],
+      "nsfas_supported": true,
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

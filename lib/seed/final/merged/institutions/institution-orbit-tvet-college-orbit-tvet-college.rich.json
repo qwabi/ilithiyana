@@ -1,0 +1,68 @@
+{
+  "institution": {
+    "id": "institution:orbit-tvet-college",
+    "slug": "orbit-tvet-college",
+    "institution_id_raw": "318",
+    "name": "Orbit TVET College",
+    "institution_type": "tvet-college",
+    "city": "Rustenburg",
+    "province": "North West",
+    "official_website": "http://www.orbitcollege.co.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/318/orbit-tvet-college",
+    "source_paths": [
+      "generated/v3/institutions.enriched.json",
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "sector": "higher education",
+      "province": "North West",
+      "city": "Rustenburg",
+      "physical_address": "Fatima Bhayat Street, Rustenburg",
+      "postal_address": "Private Bag X82096, Rustenburg, 0300",
+      "contact_emails": [
+        "info@orbitcollege.co.za"
+      ],
+      "contact_phone_numbers": [
+        "014 592 7014 / 5500"
+      ],
+      "application_url": "http://www.orbitcollege.co.za/apply.html",
+      "socials": {
+        "facebook": "",
+        "instagram": "https://www.instagram.com/orbit_tvet_college/?hl=en",
+        "linkedin": "",
+        "x": "",
+        "youtube": ""
+      },
+      "accreditation": {
+        "dh et": "Accredited",
+        "saqa": null
+      },
+      "sources": [
+        "https://nationalgovernment.co.za/units/view/318/orbit-tvet-college",
+        "http://www.orbitcollege.co.za/"
+      ],
+      "qualification_types": [
+        "NC(V)",
+        "Nated (Report 191)",
+        "Skills Programmes",
+        "Apprenticeships"
+      ],
+      "nsfas_supported": true,
+      "student_accommodation": true,
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

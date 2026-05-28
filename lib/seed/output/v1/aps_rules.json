@@ -1,0 +1,264 @@
+{
+  "aps_rules": [
+    {
+      "id": "aps:364:aps|standalone|6|74781",
+      "institutionId": "364",
+      "programmeId": null,
+      "minAps": 6,
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 74781,
+        "char_end": 74786,
+        "excerpt": "APS 6"
+      }
+    },
+    {
+      "id": "aps:364:aps|standalone|5|123745",
+      "institutionId": "364",
+      "programmeId": null,
+      "minAps": 5,
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 123745,
+        "char_end": 123750,
+        "excerpt": "APS 5"
+      }
+    },
+    {
+      "id": "aps:364:aps|standalone|27|142735",
+      "institutionId": "364",
+      "programmeId": null,
+      "minAps": 27,
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 142735,
+        "char_end": 142741,
+        "excerpt": "APS 27"
+      }
+    },
+    {
+      "id": "aps:364:aps|standalone|24|148175",
+      "institutionId": "364",
+      "programmeId": null,
+      "minAps": 24,
+      "sourceFile": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+      "sourceUrl": "https://www.uj.ac.za/wp-content/uploads/2025/02/2026-undergraduate-prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-johannesburg.pdf",
+        "char_start": 148175,
+        "char_end": 148181,
+        "excerpt": "APS 24"
+      }
+    },
+    {
+      "id": "aps:412:aps|standalone|24|150",
+      "institutionId": "412",
+      "programmeId": null,
+      "minAps": 24,
+      "sourceFile": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "sourceUrl": "https://www.ump.ac.za/getattachment/Study-with-us/Application-Process/Online-Applications/Undergraduate-Programmes.pdf.aspx?lang=en-US",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+        "char_start": 150,
+        "char_end": 175,
+        "excerpt": "Admission Point Score: 24"
+      }
+    },
+    {
+      "id": "aps:412:aps|standalone|32|511",
+      "institutionId": "412",
+      "programmeId": null,
+      "minAps": 32,
+      "sourceFile": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "sourceUrl": "https://www.ump.ac.za/getattachment/Study-with-us/Application-Process/Online-Applications/Undergraduate-Programmes.pdf.aspx?lang=en-US",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+        "char_start": 511,
+        "char_end": 536,
+        "excerpt": "Admission Point Score: 32"
+      }
+    },
+    {
+      "id": "aps:412:aps|standalone|19|839",
+      "institutionId": "412",
+      "programmeId": null,
+      "minAps": 19,
+      "sourceFile": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "sourceUrl": "https://www.ump.ac.za/getattachment/Study-with-us/Application-Process/Online-Applications/Undergraduate-Programmes.pdf.aspx?lang=en-US",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+        "char_start": 839,
+        "char_end": 864,
+        "excerpt": "Admission Point Score: 19"
+      }
+    },
+    {
+      "id": "aps:412:aps|standalone|28|1648",
+      "institutionId": "412",
+      "programmeId": null,
+      "minAps": 28,
+      "sourceFile": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "sourceUrl": "https://www.ump.ac.za/getattachment/Study-with-us/Application-Process/Online-Applications/Undergraduate-Programmes.pdf.aspx?lang=en-US",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+        "char_start": 1648,
+        "char_end": 1673,
+        "excerpt": "Admission Point Score: 28"
+      }
+    },
+    {
+      "id": "aps:412:aps|standalone|30|2547",
+      "institutionId": "412",
+      "programmeId": null,
+      "minAps": 30,
+      "sourceFile": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "sourceUrl": "https://www.ump.ac.za/getattachment/Study-with-us/Application-Process/Online-Applications/Undergraduate-Programmes.pdf.aspx?lang=en-US",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+        "char_start": 2547,
+        "char_end": 2572,
+        "excerpt": "Admission Point Score: 30"
+      }
+    },
+    {
+      "id": "aps:412:aps|standalone|20|4065",
+      "institutionId": "412",
+      "programmeId": null,
+      "minAps": 20,
+      "sourceFile": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "sourceUrl": "https://www.ump.ac.za/getattachment/Study-with-us/Application-Process/Online-Applications/Undergraduate-Programmes.pdf.aspx?lang=en-US",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+        "char_start": 4065,
+        "char_end": 4090,
+        "excerpt": "Admission Point Score: 20"
+      }
+    },
+    {
+      "id": "aps:412:aps|standalone|23|4610",
+      "institutionId": "412",
+      "programmeId": null,
+      "minAps": 23,
+      "sourceFile": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "sourceUrl": "https://www.ump.ac.za/getattachment/Study-with-us/Application-Process/Online-Applications/Undergraduate-Programmes.pdf.aspx?lang=en-US",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+        "char_start": 4610,
+        "char_end": 4635,
+        "excerpt": "Admission Point Score: 23"
+      }
+    },
+    {
+      "id": "aps:412:aps|standalone|26|6170",
+      "institutionId": "412",
+      "programmeId": null,
+      "minAps": 26,
+      "sourceFile": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "sourceUrl": "https://www.ump.ac.za/getattachment/Study-with-us/Application-Process/Online-Applications/Undergraduate-Programmes.pdf.aspx?lang=en-US",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+        "char_start": 6170,
+        "char_end": 6195,
+        "excerpt": "Admission Point Score: 26"
+      }
+    },
+    {
+      "id": "aps:365:aps|standalone|26|47763",
+      "institutionId": "365",
+      "programmeId": null,
+      "minAps": 26,
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 47763,
+        "char_end": 47769,
+        "excerpt": "APS 26"
+      }
+    },
+    {
+      "id": "aps:365:aps|standalone|28|48990",
+      "institutionId": "365",
+      "programmeId": null,
+      "minAps": 28,
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 48990,
+        "char_end": 48996,
+        "excerpt": "APS 28"
+      }
+    },
+    {
+      "id": "aps:365:aps|standalone|30|143846",
+      "institutionId": "365",
+      "programmeId": null,
+      "minAps": 30,
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 143846,
+        "char_end": 143852,
+        "excerpt": "APS 30"
+      }
+    },
+    {
+      "id": "aps:365:aps|standalone|35|188518",
+      "institutionId": "365",
+      "programmeId": null,
+      "minAps": 35,
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 188518,
+        "char_end": 188524,
+        "excerpt": "APS 35"
+      }
+    },
+    {
+      "id": "aps:365:aps|standalone|33|188889",
+      "institutionId": "365",
+      "programmeId": null,
+      "minAps": 33,
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 188889,
+        "char_end": 188895,
+        "excerpt": "APS 33"
+      }
+    },
+    {
+      "id": "aps:365:aps|standalone|37|189044",
+      "institutionId": "365",
+      "programmeId": null,
+      "minAps": 37,
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 189044,
+        "char_end": 189050,
+        "excerpt": "APS 37"
+      }
+    },
+    {
+      "id": "aps:365:Degree|b5508e98e435|bcom:28",
+      "institutionId": "365",
+      "programmeId": "prog:365:Degree|b5508e98e435|bcom",
+      "minAps": 28,
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf"
+    }
+  ]
+}

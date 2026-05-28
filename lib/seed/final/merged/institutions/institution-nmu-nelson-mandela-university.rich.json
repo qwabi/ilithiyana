@@ -1,0 +1,1246 @@
+{
+  "institution": {
+    "institution_id": "nmu",
+    "name": "Nelson Mandela University",
+    "institution_type": "comprehensive-university",
+    "city": null,
+    "province": null,
+    "official_website": null,
+    "detail_source": null,
+    "source_paths": [
+      "enriched_universities.json",
+      "workik/batch1/online/nmu.json",
+      "workik/batch1/online/nmu3.json"
+    ],
+    "profile": {
+      "short_name": "NMU",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/a/a4/Nelson_Mandela_University_logo.png",
+      "colors": [
+        "Blue"
+      ],
+      "motto": "Change the world |",
+      "type": "Comprehensive University",
+      "languages": [],
+      "student_estimate": 28000,
+      "nickname": "Madibaz |",
+      "mascot": "Diba the Dolphin |",
+      "sports_affiliations": [
+        "FNB Varsity Cup"
+      ]
+    }
+  },
+  "campuses": [
+    {
+      "id": "camp:a8788b1cedc6f0ac",
+      "institution_id": "nmu",
+      "name": "2nd Avenue",
+      "city": null,
+      "province": null,
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "camp:ca3aa0e4f9b03168",
+      "institution_id": "nmu",
+      "name": "Bird Street",
+      "city": null,
+      "province": null,
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "camp:14372ba17f4f1f4d",
+      "institution_id": "nmu",
+      "name": "Campus",
+      "city": null,
+      "province": null,
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "camp:c8b9f8f6c381173f",
+      "institution_id": "nmu",
+      "name": "George",
+      "city": "George",
+      "province": null,
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "camp:af0eae5cd09b55e7",
+      "institution_id": "nmu",
+      "name": "Missionvale",
+      "city": "Gqeberha",
+      "province": null,
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "camp:b0be79d010143550",
+      "institution_id": "nmu",
+      "name": "South",
+      "city": null,
+      "province": null,
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    }
+  ],
+  "faculties_best": [
+    {
+      "id": "fac:74eccd6474202947",
+      "institution_id": "nmu",
+      "institution_name": "Nelson Mandela University",
+      "name": "Business & Economic Sciences",
+      "kind": null,
+      "overview": "Includes School of Accounting and School of Economics.",
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/nmu.json"
+      ]
+    },
+    {
+      "id": "fac:4bc4310c113db5b5",
+      "institution_id": "nmu",
+      "institution_name": "Nelson Mandela University",
+      "name": "Engineering, Built Environment & Technology",
+      "kind": null,
+      "overview": "Covers Mechatronics, Marine Engineering, and Architecture.",
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/nmu.json"
+      ]
+    },
+    {
+      "id": "fac:49b8900a98377851",
+      "institution_id": "nmu",
+      "institution_name": "Nelson Mandela University",
+      "name": "Science",
+      "kind": null,
+      "overview": "Offers Geosciences, Biological Sciences, and Polymer Technology.",
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/nmu.json"
+      ]
+    },
+    {
+      "id": "fac:a9475d4d61595f8d",
+      "institution_id": "nmu",
+      "institution_name": "Nelson Mandela University",
+      "name": "Education",
+      "kind": null,
+      "overview": "Teacher training and education leadership.",
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/nmu3.json"
+      ]
+    },
+    {
+      "id": "fac:40ea5e6b77f39da2",
+      "institution_id": "nmu",
+      "institution_name": "Nelson Mandela University",
+      "name": "Health Sciences",
+      "kind": null,
+      "overview": "Includes Medicine (MBChB), Pharmacy, and Nursing.",
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/nmu3.json"
+      ]
+    },
+    {
+      "id": "fac:2a84eab9739c4cfc",
+      "institution_id": "nmu",
+      "institution_name": "Nelson Mandela University",
+      "name": "Humanities",
+      "kind": null,
+      "overview": "Visual Arts, Music, and Public Management.",
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/nmu3.json"
+      ]
+    },
+    {
+      "id": "fac:b8151b3d836c4325",
+      "institution_id": "nmu",
+      "institution_name": "Nelson Mandela University",
+      "name": "Law",
+      "kind": null,
+      "overview": "LLB and Law Enforcement qualifications.",
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/nmu3.json"
+      ]
+    }
+  ],
+  "faculties_all": [
+    {
+      "id": "fac:74eccd6474202947",
+      "institution_id": "nmu",
+      "institution_name": "Nelson Mandela University",
+      "name": "Business & Economic Sciences",
+      "kind": null,
+      "overview": "Includes School of Accounting and School of Economics.",
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/nmu.json"
+      ]
+    },
+    {
+      "id": "fac:4bc4310c113db5b5",
+      "institution_id": "nmu",
+      "institution_name": "Nelson Mandela University",
+      "name": "Engineering, Built Environment & Technology",
+      "kind": null,
+      "overview": "Covers Mechatronics, Marine Engineering, and Architecture.",
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/nmu.json"
+      ]
+    },
+    {
+      "id": "fac:49b8900a98377851",
+      "institution_id": "nmu",
+      "institution_name": "Nelson Mandela University",
+      "name": "Science",
+      "kind": null,
+      "overview": "Offers Geosciences, Biological Sciences, and Polymer Technology.",
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/nmu.json"
+      ]
+    },
+    {
+      "id": "fac:74eccd6474202947",
+      "institution_id": "nmu",
+      "institution_name": "Nelson Mandela University",
+      "name": "Business & Economic Sciences",
+      "kind": null,
+      "overview": "Largest in Eastern Cape, offering mainstream and extended diplomas/degrees.",
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/nmu3.json"
+      ]
+    },
+    {
+      "id": "fac:a9475d4d61595f8d",
+      "institution_id": "nmu",
+      "institution_name": "Nelson Mandela University",
+      "name": "Education",
+      "kind": null,
+      "overview": "Teacher training and education leadership.",
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/nmu3.json"
+      ]
+    },
+    {
+      "id": "fac:4bc4310c113db5b5",
+      "institution_id": "nmu",
+      "institution_name": "Nelson Mandela University",
+      "name": "Engineering, Built Environment & Technology",
+      "kind": null,
+      "overview": "Core engineering and unique marine engineering programmes.",
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/nmu3.json"
+      ]
+    },
+    {
+      "id": "fac:40ea5e6b77f39da2",
+      "institution_id": "nmu",
+      "institution_name": "Nelson Mandela University",
+      "name": "Health Sciences",
+      "kind": null,
+      "overview": "Includes Medicine (MBChB), Pharmacy, and Nursing.",
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/nmu3.json"
+      ]
+    },
+    {
+      "id": "fac:2a84eab9739c4cfc",
+      "institution_id": "nmu",
+      "institution_name": "Nelson Mandela University",
+      "name": "Humanities",
+      "kind": null,
+      "overview": "Visual Arts, Music, and Public Management.",
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/nmu3.json"
+      ]
+    },
+    {
+      "id": "fac:b8151b3d836c4325",
+      "institution_id": "nmu",
+      "institution_name": "Nelson Mandela University",
+      "name": "Law",
+      "kind": null,
+      "overview": "LLB and Law Enforcement qualifications.",
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/nmu3.json"
+      ]
+    },
+    {
+      "id": "fac:49b8900a98377851",
+      "institution_id": "nmu",
+      "institution_name": "Nelson Mandela University",
+      "name": "Science",
+      "kind": null,
+      "overview": "Agricultural, Biological, and Physical Sciences.",
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/nmu3.json"
+      ]
+    }
+  ],
+  "programmes_best": [
+    {
+      "id": "prog:8f17eb3d00323536",
+      "institution_id": "nmu",
+      "institution_name": "Nelson Mandela University",
+      "name": "BCom: General (Accounting)",
+      "normalized_name": "BCom: General (Accounting)",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 50
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/nmu3.json"
+      ]
+    },
+    {
+      "id": "prog:7821c007e7d6ac98",
+      "institution_id": "nmu",
+      "institution_name": "Nelson Mandela University",
+      "name": "BEng (Mechatronics)",
+      "normalized_name": "BEng (Mechatronics)",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 65
+        },
+        {
+          "subject": "Physical Science",
+          "minimum_percentage": 65
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/nmu3.json"
+      ]
+    },
+    {
+      "id": "prog:f7651b0bcaf8e767",
+      "institution_id": "nmu",
+      "institution_name": "Nelson Mandela University",
+      "name": "BSc (Computer Science)",
+      "normalized_name": "BSc (Computer Science)",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 60
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/nmu3.json"
+      ]
+    },
+    {
+      "id": "prog:3cb3d5a5b513d7fa",
+      "institution_id": "nmu",
+      "institution_name": "Nelson Mandela University",
+      "name": "Diploma in Logistics",
+      "normalized_name": "Diploma in Logistics",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [
+        {
+          "options": [
+            "Mathematics"
+          ],
+          "minimum_percentage": 40
+        },
+        {
+          "options": [
+            "Math Literacy"
+          ],
+          "minimum_percentage": 60
+        }
+      ],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/nmu3.json"
+      ]
+    },
+    {
+      "id": "prog:7d87120d55046ef4",
+      "institution_id": "nmu",
+      "institution_name": "Nelson Mandela University",
+      "name": "Diploma in Tourism Management",
+      "normalized_name": "Diploma in Tourism Management",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [
+        {
+          "options": [
+            "Mathematics"
+          ],
+          "minimum_percentage": 40
+        },
+        {
+          "options": [
+            "Math Literacy"
+          ],
+          "minimum_percentage": 60
+        }
+      ],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/nmu3.json"
+      ]
+    },
+    {
+      "id": "prog:2c9d9c070044b313",
+      "institution_id": "nmu",
+      "institution_name": "Nelson Mandela University",
+      "name": "LLB (Law)",
+      "normalized_name": "LLB (Law)",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/nmu.json"
+      ]
+    },
+    {
+      "id": "prog:d78cf2e2ec4574d1",
+      "institution_id": "nmu",
+      "institution_name": "Nelson Mandela University",
+      "name": "BCom: General (Economics)",
+      "normalized_name": "BCom: General (Economics)",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/nmu.json"
+      ]
+    },
+    {
+      "id": "prog:d40bdb497ce6babd",
+      "institution_id": "nmu",
+      "institution_name": "Nelson Mandela University",
+      "name": "Diploma in Agricultural Management",
+      "normalized_name": "Diploma in Agricultural Management",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/nmu.json"
+      ]
+    },
+    {
+      "id": "prog:311ea4ec53b769af",
+      "institution_id": "nmu",
+      "institution_name": "Nelson Mandela University",
+      "name": "Bachelor of Pharmacy (BPharm)",
+      "normalized_name": "Bachelor of Pharmacy (BPharm)",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 60
+        },
+        {
+          "subject": "Physical Science",
+          "minimum_percentage": 60
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/nmu3.json"
+      ]
+    },
+    {
+      "id": "prog:fbd7a5ba8eda0f38",
+      "institution_id": "nmu",
+      "institution_name": "Nelson Mandela University",
+      "name": "Bachelor of Medicine & Bachelor of Surgery (MBChB)",
+      "normalized_name": "Bachelor of Medicine & Bachelor of Surgery (MBChB)",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 60
+        },
+        {
+          "subject": "Physical Science",
+          "minimum_percentage": 60
+        },
+        {
+          "subject": "Life Sciences",
+          "minimum_percentage": 60
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/nmu3.json"
+      ]
+    },
+    {
+      "id": "prog:bb3f27904c39b406",
+      "institution_id": "nmu",
+      "institution_name": "Nelson Mandela University",
+      "name": "Bachelor of Laws (LLB)",
+      "normalized_name": "Bachelor of Laws (LLB)",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "English",
+          "minimum_percentage": 60
+        }
+      ],
+      "subject_or_groups": [
+        {
+          "options": [
+            "Mathematics"
+          ],
+          "minimum_percentage": 40
+        },
+        {
+          "options": [
+            "Math Literacy"
+          ],
+          "minimum_percentage": 60
+        }
+      ],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/nmu3.json"
+      ]
+    },
+    {
+      "id": "prog:f2ed63cc9f07a441",
+      "institution_id": "nmu",
+      "institution_name": "Nelson Mandela University",
+      "name": "Diploma in Human Resource Management",
+      "normalized_name": "Diploma in Human Resource Management",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [
+        {
+          "options": [
+            "Mathematics"
+          ],
+          "minimum_percentage": 35
+        },
+        {
+          "options": [
+            "Math Literacy"
+          ],
+          "minimum_percentage": 55
+        }
+      ],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/nmu3.json"
+      ]
+    },
+    {
+      "id": "prog:c95927dd7e91b03d",
+      "institution_id": "nmu",
+      "institution_name": "Nelson Mandela University",
+      "name": "Bachelor of Architectural Studies",
+      "normalized_name": "Bachelor of Architectural Studies",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 50
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/nmu3.json"
+      ]
+    }
+  ],
+  "programmes_all": [
+    {
+      "id": "prog:8f17eb3d00323536",
+      "institution_id": "nmu",
+      "institution_name": "Nelson Mandela University",
+      "name": "BCom: General (Accounting)",
+      "normalized_name": "BCom: General (Accounting)",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/nmu.json"
+      ]
+    },
+    {
+      "id": "prog:7821c007e7d6ac98",
+      "institution_id": "nmu",
+      "institution_name": "Nelson Mandela University",
+      "name": "BEng (Mechatronics)",
+      "normalized_name": "BEng (Mechatronics)",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/nmu.json"
+      ]
+    },
+    {
+      "id": "prog:f7651b0bcaf8e767",
+      "institution_id": "nmu",
+      "institution_name": "Nelson Mandela University",
+      "name": "BSc (Computer Science)",
+      "normalized_name": "BSc (Computer Science)",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/nmu.json"
+      ]
+    },
+    {
+      "id": "prog:3cb3d5a5b513d7fa",
+      "institution_id": "nmu",
+      "institution_name": "Nelson Mandela University",
+      "name": "Diploma in Logistics",
+      "normalized_name": "Diploma in Logistics",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/nmu.json"
+      ]
+    },
+    {
+      "id": "prog:7d87120d55046ef4",
+      "institution_id": "nmu",
+      "institution_name": "Nelson Mandela University",
+      "name": "Diploma in Tourism Management",
+      "normalized_name": "Diploma in Tourism Management",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/nmu.json"
+      ]
+    },
+    {
+      "id": "prog:2c9d9c070044b313",
+      "institution_id": "nmu",
+      "institution_name": "Nelson Mandela University",
+      "name": "LLB (Law)",
+      "normalized_name": "LLB (Law)",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/nmu.json"
+      ]
+    },
+    {
+      "id": "prog:d78cf2e2ec4574d1",
+      "institution_id": "nmu",
+      "institution_name": "Nelson Mandela University",
+      "name": "BCom: General (Economics)",
+      "normalized_name": "BCom: General (Economics)",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/nmu.json"
+      ]
+    },
+    {
+      "id": "prog:d40bdb497ce6babd",
+      "institution_id": "nmu",
+      "institution_name": "Nelson Mandela University",
+      "name": "Diploma in Agricultural Management",
+      "normalized_name": "Diploma in Agricultural Management",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/nmu.json"
+      ]
+    },
+    {
+      "id": "prog:311ea4ec53b769af",
+      "institution_id": "nmu",
+      "institution_name": "Nelson Mandela University",
+      "name": "Bachelor of Pharmacy (BPharm)",
+      "normalized_name": "Bachelor of Pharmacy (BPharm)",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/nmu.json"
+      ]
+    },
+    {
+      "id": "prog:fbd7a5ba8eda0f38",
+      "institution_id": "nmu",
+      "institution_name": "Nelson Mandela University",
+      "name": "Bachelor of Medicine & Bachelor of Surgery (MBChB)",
+      "normalized_name": "Bachelor of Medicine & Bachelor of Surgery (MBChB)",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 60
+        },
+        {
+          "subject": "Physical Science",
+          "minimum_percentage": 60
+        },
+        {
+          "subject": "Life Sciences",
+          "minimum_percentage": 60
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/nmu3.json"
+      ]
+    },
+    {
+      "id": "prog:7821c007e7d6ac98",
+      "institution_id": "nmu",
+      "institution_name": "Nelson Mandela University",
+      "name": "BEng (Mechatronics)",
+      "normalized_name": "BEng (Mechatronics)",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 65
+        },
+        {
+          "subject": "Physical Science",
+          "minimum_percentage": 65
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/nmu3.json"
+      ]
+    },
+    {
+      "id": "prog:8f17eb3d00323536",
+      "institution_id": "nmu",
+      "institution_name": "Nelson Mandela University",
+      "name": "BCom: General (Accounting)",
+      "normalized_name": "BCom: General (Accounting)",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 50
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/nmu3.json"
+      ]
+    },
+    {
+      "id": "prog:bb3f27904c39b406",
+      "institution_id": "nmu",
+      "institution_name": "Nelson Mandela University",
+      "name": "Bachelor of Laws (LLB)",
+      "normalized_name": "Bachelor of Laws (LLB)",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "English",
+          "minimum_percentage": 60
+        }
+      ],
+      "subject_or_groups": [
+        {
+          "options": [
+            "Mathematics"
+          ],
+          "minimum_percentage": 40
+        },
+        {
+          "options": [
+            "Math Literacy"
+          ],
+          "minimum_percentage": 60
+        }
+      ],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/nmu3.json"
+      ]
+    },
+    {
+      "id": "prog:3cb3d5a5b513d7fa",
+      "institution_id": "nmu",
+      "institution_name": "Nelson Mandela University",
+      "name": "Diploma in Logistics",
+      "normalized_name": "Diploma in Logistics",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [
+        {
+          "options": [
+            "Mathematics"
+          ],
+          "minimum_percentage": 40
+        },
+        {
+          "options": [
+            "Math Literacy"
+          ],
+          "minimum_percentage": 60
+        }
+      ],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/nmu3.json"
+      ]
+    },
+    {
+      "id": "prog:f7651b0bcaf8e767",
+      "institution_id": "nmu",
+      "institution_name": "Nelson Mandela University",
+      "name": "BSc (Computer Science)",
+      "normalized_name": "BSc (Computer Science)",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 60
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/nmu3.json"
+      ]
+    },
+    {
+      "id": "prog:311ea4ec53b769af",
+      "institution_id": "nmu",
+      "institution_name": "Nelson Mandela University",
+      "name": "Bachelor of Pharmacy (BPharm)",
+      "normalized_name": "Bachelor of Pharmacy (BPharm)",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 60
+        },
+        {
+          "subject": "Physical Science",
+          "minimum_percentage": 60
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/nmu3.json"
+      ]
+    },
+    {
+      "id": "prog:f2ed63cc9f07a441",
+      "institution_id": "nmu",
+      "institution_name": "Nelson Mandela University",
+      "name": "Diploma in Human Resource Management",
+      "normalized_name": "Diploma in Human Resource Management",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [
+        {
+          "options": [
+            "Mathematics"
+          ],
+          "minimum_percentage": 35
+        },
+        {
+          "options": [
+            "Math Literacy"
+          ],
+          "minimum_percentage": 55
+        }
+      ],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/nmu3.json"
+      ]
+    },
+    {
+      "id": "prog:c95927dd7e91b03d",
+      "institution_id": "nmu",
+      "institution_name": "Nelson Mandela University",
+      "name": "Bachelor of Architectural Studies",
+      "normalized_name": "Bachelor of Architectural Studies",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 50
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/nmu3.json"
+      ]
+    },
+    {
+      "id": "prog:7d87120d55046ef4",
+      "institution_id": "nmu",
+      "institution_name": "Nelson Mandela University",
+      "name": "Diploma in Tourism Management",
+      "normalized_name": "Diploma in Tourism Management",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [
+        {
+          "options": [
+            "Mathematics"
+          ],
+          "minimum_percentage": 40
+        },
+        {
+          "options": [
+            "Math Literacy"
+          ],
+          "minimum_percentage": 60
+        }
+      ],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/nmu3.json"
+      ]
+    }
+  ],
+  "counts": {
+    "campuses": 6,
+    "faculties_best": 7,
+    "faculties_all": 10,
+    "programmes_best": 13,
+    "programmes_all": 19
+  }
+}

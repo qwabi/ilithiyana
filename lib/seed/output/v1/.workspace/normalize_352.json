@@ -1,0 +1,841 @@
+{
+  "faculties": [
+    {
+      "institutionId": "352",
+      "name": "Commerce, Faculty of Pharmacy, Faculty of Education and Faculty of Law.",
+      "sourceFile": "lib/seed/prospectuses/rhodes-university.pdf",
+      "sourceUrl": "https://www.ru.ac.za/media/rhodesuniversity/content/registrar/documents/information/studentrecruitment/RU_READY_Undergraduate_Prospectus_2026_DIGITAL_A5_Landscape_24pp_18Mar2026.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+        "char_start": 753,
+        "char_end": 835,
+        "excerpt": "Faculty of Commerce, Faculty of Pharmacy, Faculty of Education and Faculty of Law."
+      },
+      "normalization_key": "faculty|commerce, faculty of pharmacy, faculty of education and faculty of law."
+    }
+  ],
+  "programmes": [
+    {
+      "id": "prog:352:Degree|c5052532c220|bed",
+      "institutionId": "352",
+      "name": "bed",
+      "qualification_type": "Degree",
+      "faculty": "Commerce, Faculty of Pharmacy, Faculty of Education and Faculty of Law.",
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/rhodes-university.pdf",
+      "sourceUrl": "https://www.ru.ac.za/media/rhodesuniversity/content/registrar/documents/information/studentrecruitment/RU_READY_Undergraduate_Prospectus_2026_DIGITAL_A5_Landscape_24pp_18Mar2026.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+        "char_start": 2391,
+        "char_end": 2394,
+        "excerpt": "bed"
+      },
+      "normalization_key": "Degree|c5052532c220|bed"
+    },
+    {
+      "id": "prog:352:Degree|f7717019f1b1|bachelor of business science 38-44 (dean's discretion)",
+      "institutionId": "352",
+      "name": "Bachelor of Business Science 38-44 (Dean's discretion)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 6
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/rhodes-university.pdf",
+      "sourceUrl": "https://www.ru.ac.za/media/rhodesuniversity/content/registrar/documents/information/studentrecruitment/RU_READY_Undergraduate_Prospectus_2026_DIGITAL_A5_Landscape_24pp_18Mar2026.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+        "char_start": 14132,
+        "char_end": 14186,
+        "excerpt": "Bachelor of Business Science 38-44 (Dean's discretion)"
+      },
+      "normalization_key": "Degree|f7717019f1b1|bachelor of business science 38-44 (dean's discretion)"
+    },
+    {
+      "id": "prog:352:Degree|773612d65907|bachelor of commerce (bcom)",
+      "institutionId": "352",
+      "name": "BCom (BCom)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/rhodes-university.pdf",
+      "sourceUrl": "https://www.ru.ac.za/media/rhodesuniversity/content/registrar/documents/information/studentrecruitment/RU_READY_Undergraduate_Prospectus_2026_DIGITAL_A5_Landscape_24pp_18Mar2026.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+        "char_start": 14347,
+        "char_end": 14374,
+        "excerpt": "Bachelor of Commerce (BCom)"
+      },
+      "normalization_key": "Degree|773612d65907|bachelor of commerce (bcom)"
+    },
+    {
+      "id": "prog:352:Degree|c09d1a0d93a7|bachelor of economics (beco)",
+      "institutionId": "352",
+      "name": "Bachelor of Economics (BEco)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 50
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/rhodes-university.pdf",
+      "sourceUrl": "https://www.ru.ac.za/media/rhodesuniversity/content/registrar/documents/information/studentrecruitment/RU_READY_Undergraduate_Prospectus_2026_DIGITAL_A5_Landscape_24pp_18Mar2026.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+        "char_start": 14517,
+        "char_end": 14545,
+        "excerpt": "Bachelor of Economics (BEco)"
+      },
+      "normalization_key": "Degree|c09d1a0d93a7|bachelor of economics (beco)"
+    },
+    {
+      "id": "prog:352:Degree|b5508e98e435|bcom",
+      "institutionId": "352",
+      "name": "BCom",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 50
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/rhodes-university.pdf",
+      "sourceUrl": "https://www.ru.ac.za/media/rhodesuniversity/content/registrar/documents/information/studentrecruitment/RU_READY_Undergraduate_Prospectus_2026_DIGITAL_A5_Landscape_24pp_18Mar2026.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+        "char_start": 14728,
+        "char_end": 14732,
+        "excerpt": "BCom"
+      },
+      "normalization_key": "Degree|b5508e98e435|bcom"
+    },
+    {
+      "id": "prog:352:Degree|2fdd0ad292b1|bachelor of arts (ba) 34-44 (dean's discretion)",
+      "institutionId": "352",
+      "name": "BA (BA) 34-44 (Dean's discretion)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/rhodes-university.pdf",
+      "sourceUrl": "https://www.ru.ac.za/media/rhodesuniversity/content/registrar/documents/information/studentrecruitment/RU_READY_Undergraduate_Prospectus_2026_DIGITAL_A5_Landscape_24pp_18Mar2026.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+        "char_start": 17355,
+        "char_end": 17402,
+        "excerpt": "Bachelor of Arts (BA) 34-44 (Dean's discretion)"
+      },
+      "normalization_key": "Degree|2fdd0ad292b1|bachelor of arts (ba) 34-44 (dean's discretion)"
+    },
+    {
+      "id": "prog:352:Degree|eb326eaa5928|bachelor of social science (bss) 34-44 (dean's discretion)",
+      "institutionId": "352",
+      "name": "Bachelor of Social Science (BSS) 34-44 (Dean's discretion)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/rhodes-university.pdf",
+      "sourceUrl": "https://www.ru.ac.za/media/rhodesuniversity/content/registrar/documents/information/studentrecruitment/RU_READY_Undergraduate_Prospectus_2026_DIGITAL_A5_Landscape_24pp_18Mar2026.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+        "char_start": 17573,
+        "char_end": 17631,
+        "excerpt": "Bachelor of Social Science (BSS) 34-44 (Dean's discretion)"
+      },
+      "normalization_key": "Degree|eb326eaa5928|bachelor of social science (bss) 34-44 (dean's discretion)"
+    },
+    {
+      "id": "prog:352:Degree|4b1ef4ffdbc2|bachelor of fine arts (bfa) 34-44 (dean's discretion)",
+      "institutionId": "352",
+      "name": "Bachelor of Fine Arts (BFA) 34-44 (Dean's discretion)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/rhodes-university.pdf",
+      "sourceUrl": "https://www.ru.ac.za/media/rhodesuniversity/content/registrar/documents/information/studentrecruitment/RU_READY_Undergraduate_Prospectus_2026_DIGITAL_A5_Landscape_24pp_18Mar2026.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+        "char_start": 17788,
+        "char_end": 17841,
+        "excerpt": "Bachelor of Fine Arts (BFA) 34-44 (Dean's discretion)"
+      },
+      "normalization_key": "Degree|4b1ef4ffdbc2|bachelor of fine arts (bfa) 34-44 (dean's discretion)"
+    },
+    {
+      "id": "prog:352:Degree|c354c9b153f7|bachelor of music (bmus) 34-44 (dean's discretion)",
+      "institutionId": "352",
+      "name": "Bachelor of Music (BMus) 34-44 (Dean's discretion)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/rhodes-university.pdf",
+      "sourceUrl": "https://www.ru.ac.za/media/rhodesuniversity/content/registrar/documents/information/studentrecruitment/RU_READY_Undergraduate_Prospectus_2026_DIGITAL_A5_Landscape_24pp_18Mar2026.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+        "char_start": 17979,
+        "char_end": 18029,
+        "excerpt": "Bachelor of Music (BMus) 34-44 (Dean's discretion)"
+      },
+      "normalization_key": "Degree|c354c9b153f7|bachelor of music (bmus) 34-44 (dean's discretion)"
+    },
+    {
+      "id": "prog:352:Degree|b29c673941d4|bachelor of journalism (bjourn) 34-44 (dean's discretion)",
+      "institutionId": "352",
+      "name": "Bachelor of Journalism (BJourn) 34-44 (Dean's discretion)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/rhodes-university.pdf",
+      "sourceUrl": "https://www.ru.ac.za/media/rhodesuniversity/content/registrar/documents/information/studentrecruitment/RU_READY_Undergraduate_Prospectus_2026_DIGITAL_A5_Landscape_24pp_18Mar2026.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+        "char_start": 18154,
+        "char_end": 18211,
+        "excerpt": "Bachelor of Journalism (BJourn) 34-44 (Dean's discretion)"
+      },
+      "normalization_key": "Degree|b29c673941d4|bachelor of journalism (bjourn) 34-44 (dean's discretion)"
+    },
+    {
+      "id": "prog:352:Degree|970f519c2cad|ba",
+      "institutionId": "352",
+      "name": "BA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/rhodes-university.pdf",
+      "sourceUrl": "https://www.ru.ac.za/media/rhodesuniversity/content/registrar/documents/information/studentrecruitment/RU_READY_Undergraduate_Prospectus_2026_DIGITAL_A5_Landscape_24pp_18Mar2026.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+        "char_start": 18364,
+        "char_end": 18366,
+        "excerpt": "BA"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:352:Degree|970f519c2cad|ba",
+      "institutionId": "352",
+      "name": "BA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/rhodes-university.pdf",
+      "sourceUrl": "https://www.ru.ac.za/media/rhodesuniversity/content/registrar/documents/information/studentrecruitment/RU_READY_Undergraduate_Prospectus_2026_DIGITAL_A5_Landscape_24pp_18Mar2026.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+        "char_start": 18364,
+        "char_end": 18366,
+        "excerpt": "BA"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:352:Degree|23691b14e265|bachelor of education (bedfp)",
+      "institutionId": "352",
+      "name": "Bachelor of Education (BEDFP)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics (Literacy)",
+            "minimum_percentage": 4
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/rhodes-university.pdf",
+      "sourceUrl": "https://www.ru.ac.za/media/rhodesuniversity/content/registrar/documents/information/studentrecruitment/RU_READY_Undergraduate_Prospectus_2026_DIGITAL_A5_Landscape_24pp_18Mar2026.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+        "char_start": 19214,
+        "char_end": 19243,
+        "excerpt": "Bachelor of Education (BEDFP)"
+      },
+      "normalization_key": "Degree|23691b14e265|bachelor of education (bedfp)"
+    },
+    {
+      "id": "prog:352:Degree|c569f57f32a4|bachelor of law (llb) degree is the academic qualification required",
+      "institutionId": "352",
+      "name": "Bachelor of Law (LLB) degree is the academic qualification required",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/rhodes-university.pdf",
+      "sourceUrl": "https://www.ru.ac.za/media/rhodesuniversity/content/registrar/documents/information/studentrecruitment/RU_READY_Undergraduate_Prospectus_2026_DIGITAL_A5_Landscape_24pp_18Mar2026.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+        "char_start": 19643,
+        "char_end": 19710,
+        "excerpt": "Bachelor of Law (LLB) degree is the academic qualification required"
+      },
+      "normalization_key": "Degree|c569f57f32a4|bachelor of law (llb) degree is the academic qualification required"
+    },
+    {
+      "id": "prog:352:Degree|603461d12c1c|bachelor of law (llb)",
+      "institutionId": "352",
+      "name": "Bachelor of Law (LLB)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics (Literacy)",
+            "minimum_percentage": 5
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/rhodes-university.pdf",
+      "sourceUrl": "https://www.ru.ac.za/media/rhodesuniversity/content/registrar/documents/information/studentrecruitment/RU_READY_Undergraduate_Prospectus_2026_DIGITAL_A5_Landscape_24pp_18Mar2026.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+        "char_start": 20353,
+        "char_end": 20374,
+        "excerpt": "Bachelor of Law (LLB)"
+      },
+      "normalization_key": "Degree|603461d12c1c|bachelor of law (llb)"
+    },
+    {
+      "id": "prog:352:Degree|d2ffc4a28890|bachelor of pharmacy (bpharm) 40-44 (dean's discretion)",
+      "institutionId": "352",
+      "name": "Bachelor of Pharmacy (BPharm) 40-44 (Dean's discretion)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 6
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 1
+          },
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 5
+          },
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 6
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 5
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 6
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/rhodes-university.pdf",
+      "sourceUrl": "https://www.ru.ac.za/media/rhodesuniversity/content/registrar/documents/information/studentrecruitment/RU_READY_Undergraduate_Prospectus_2026_DIGITAL_A5_Landscape_24pp_18Mar2026.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+        "char_start": 21434,
+        "char_end": 21489,
+        "excerpt": "Bachelor of Pharmacy (BPharm) 40-44 (Dean's discretion)"
+      },
+      "normalization_key": "Degree|d2ffc4a28890|bachelor of pharmacy (bpharm) 40-44 (dean's discretion)"
+    },
+    {
+      "id": "prog:352:Degree|334d90d6935c|bachelor of science degree (bsc) is its flexibility. within the confines",
+      "institutionId": "352",
+      "name": "BSc degree (BSc) is its flexibility. Within the confines",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/rhodes-university.pdf",
+      "sourceUrl": "https://www.ru.ac.za/media/rhodesuniversity/content/registrar/documents/information/studentrecruitment/RU_READY_Undergraduate_Prospectus_2026_DIGITAL_A5_Landscape_24pp_18Mar2026.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+        "char_start": 21976,
+        "char_end": 22048,
+        "excerpt": "Bachelor of Science degree (BSc) is its flexibility. Within the confines"
+      },
+      "normalization_key": "Degree|334d90d6935c|bachelor of science degree (bsc) is its flexibility. within the confines"
+    },
+    {
+      "id": "prog:352:Degree|1877ddc44c28|bachelor of science (bsc)",
+      "institutionId": "352",
+      "name": "BSc (BSc)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4
+          },
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 5
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 5
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/rhodes-university.pdf",
+      "sourceUrl": "https://www.ru.ac.za/media/rhodesuniversity/content/registrar/documents/information/studentrecruitment/RU_READY_Undergraduate_Prospectus_2026_DIGITAL_A5_Landscape_24pp_18Mar2026.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+        "char_start": 22548,
+        "char_end": 22573,
+        "excerpt": "Bachelor of Science (BSc)"
+      },
+      "normalization_key": "Degree|1877ddc44c28|bachelor of science (bsc)"
+    },
+    {
+      "id": "prog:352:Degree|80545a7cbc5a|bachelor of information systems",
+      "institutionId": "352",
+      "name": "Bachelor of Information Systems",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 5
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/rhodes-university.pdf",
+      "sourceUrl": "https://www.ru.ac.za/media/rhodesuniversity/content/registrar/documents/information/studentrecruitment/RU_READY_Undergraduate_Prospectus_2026_DIGITAL_A5_Landscape_24pp_18Mar2026.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+        "char_start": 22869,
+        "char_end": 22900,
+        "excerpt": "Bachelor of Information Systems"
+      },
+      "normalization_key": "Degree|80545a7cbc5a|bachelor of information systems"
+    }
+  ],
+  "admissions_rules": [
+    {
+      "id": "adm:352:Degree|f7717019f1b1|bachelor of business science 38-44 (dean's discretion):subjects",
+      "institutionId": "352",
+      "programmeId": "prog:352:Degree|f7717019f1b1|bachelor of business science 38-44 (dean's discretion)",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 6%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 6,
+          "raw_span": "Mathematics Level 6 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+            "char_start": 14236,
+            "char_end": 14256,
+            "excerpt": "Mathematics Level 6"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/rhodes-university.pdf",
+      "sourceUrl": "https://www.ru.ac.za/media/rhodesuniversity/content/registrar/documents/information/studentrecruitment/RU_READY_Undergraduate_Prospectus_2026_DIGITAL_A5_Landscape_24pp_18Mar2026.pdf"
+    },
+    {
+      "id": "adm:352:Degree|773612d65907|bachelor of commerce (bcom):subjects",
+      "institutionId": "352",
+      "programmeId": "prog:352:Degree|773612d65907|bachelor of commerce (bcom)",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 4%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 4,
+          "raw_span": "Mathematics Level 4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+            "char_start": 14458,
+            "char_end": 14478,
+            "excerpt": "Mathematics Level 4"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/rhodes-university.pdf",
+      "sourceUrl": "https://www.ru.ac.za/media/rhodesuniversity/content/registrar/documents/information/studentrecruitment/RU_READY_Undergraduate_Prospectus_2026_DIGITAL_A5_Landscape_24pp_18Mar2026.pdf"
+    },
+    {
+      "id": "adm:352:Degree|c09d1a0d93a7|bachelor of economics (beco):subjects",
+      "institutionId": "352",
+      "programmeId": "prog:352:Degree|c09d1a0d93a7|bachelor of economics (beco)",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 4%; Mathematics >= 50%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 4,
+          "raw_span": "Mathematics Level 4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+            "char_start": 14626,
+            "char_end": 14646,
+            "excerpt": "Mathematics Level 4"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 50,
+          "raw_span": "Mathematics (50%",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+            "char_start": 14764,
+            "char_end": 14780,
+            "excerpt": "Mathematics (50%"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/rhodes-university.pdf",
+      "sourceUrl": "https://www.ru.ac.za/media/rhodesuniversity/content/registrar/documents/information/studentrecruitment/RU_READY_Undergraduate_Prospectus_2026_DIGITAL_A5_Landscape_24pp_18Mar2026.pdf"
+    },
+    {
+      "id": "adm:352:Degree|b5508e98e435|bcom:subjects",
+      "institutionId": "352",
+      "programmeId": "prog:352:Degree|b5508e98e435|bcom",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 4%; Mathematics >= 50%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 4,
+          "raw_span": "Mathematics Level 4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+            "char_start": 14626,
+            "char_end": 14646,
+            "excerpt": "Mathematics Level 4"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 50,
+          "raw_span": "Mathematics (50%",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+            "char_start": 14764,
+            "char_end": 14780,
+            "excerpt": "Mathematics (50%"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/rhodes-university.pdf",
+      "sourceUrl": "https://www.ru.ac.za/media/rhodesuniversity/content/registrar/documents/information/studentrecruitment/RU_READY_Undergraduate_Prospectus_2026_DIGITAL_A5_Landscape_24pp_18Mar2026.pdf"
+    },
+    {
+      "id": "adm:352:Degree|23691b14e265|bachelor of education (bedfp):subjects",
+      "institutionId": "352",
+      "programmeId": "prog:352:Degree|23691b14e265|bachelor of education (bedfp)",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics (Literacy) >= 4%; Mathematics >= 3%",
+      "subjects": [
+        {
+          "subject": "Mathematics (Literacy)",
+          "minimum_percentage": 4,
+          "raw_span": "Mathematics Literacy Level 4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+            "char_start": 19356,
+            "char_end": 19385,
+            "excerpt": "Mathematics Literacy Level 4"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 3,
+          "raw_span": "Mathematics Level 3 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+            "char_start": 19327,
+            "char_end": 19347,
+            "excerpt": "Mathematics Level 3"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/rhodes-university.pdf",
+      "sourceUrl": "https://www.ru.ac.za/media/rhodesuniversity/content/registrar/documents/information/studentrecruitment/RU_READY_Undergraduate_Prospectus_2026_DIGITAL_A5_Landscape_24pp_18Mar2026.pdf"
+    },
+    {
+      "id": "adm:352:Degree|603461d12c1c|bachelor of law (llb):subjects",
+      "institutionId": "352",
+      "programmeId": "prog:352:Degree|603461d12c1c|bachelor of law (llb)",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics (Literacy) >= 5%; Mathematics >= 4%",
+      "subjects": [
+        {
+          "subject": "Mathematics (Literacy)",
+          "minimum_percentage": 5,
+          "raw_span": "Mathematics Literacy Level 5 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+            "char_start": 20552,
+            "char_end": 20581,
+            "excerpt": "Mathematics Literacy Level 5"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 4,
+          "raw_span": "Mathematics Level 4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+            "char_start": 20523,
+            "char_end": 20543,
+            "excerpt": "Mathematics Level 4"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/rhodes-university.pdf",
+      "sourceUrl": "https://www.ru.ac.za/media/rhodesuniversity/content/registrar/documents/information/studentrecruitment/RU_READY_Undergraduate_Prospectus_2026_DIGITAL_A5_Landscape_24pp_18Mar2026.pdf"
+    },
+    {
+      "id": "adm:352:Degree|d2ffc4a28890|bachelor of pharmacy (bpharm) 40-44 (dean's discretion):subjects",
+      "institutionId": "352",
+      "programmeId": "prog:352:Degree|d2ffc4a28890|bachelor of pharmacy (bpharm) 40-44 (dean's discretion)",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 5%; Mathematics >= 6%; Mathematics >= 1%; Life Sciences >= 5%; Life Sciences >= 6%; Physical Sciences >= 5%; Physical Sciences >= 6%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 5,
+          "raw_span": "Mathematics Level 5 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+            "char_start": 21490,
+            "char_end": 21510,
+            "excerpt": "Mathematics Level 5"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 6,
+          "raw_span": "Mathematics Level 6 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+            "char_start": 21608,
+            "char_end": 21628,
+            "excerpt": "Mathematics Level 6"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 1,
+          "raw_span": "Mathematics 1",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+            "char_start": 21793,
+            "char_end": 21806,
+            "excerpt": "Mathematics 1"
+          }
+        },
+        {
+          "subject": "Life Sciences",
+          "minimum_percentage": 5,
+          "raw_span": "Life Sciences Level 5 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+            "char_start": 21519,
+            "char_end": 21541,
+            "excerpt": "Life Sciences Level 5"
+          }
+        },
+        {
+          "subject": "Life Sciences",
+          "minimum_percentage": 6,
+          "raw_span": "Life Sciences Level 6 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+            "char_start": 21637,
+            "char_end": 21659,
+            "excerpt": "Life Sciences Level 6"
+          }
+        },
+        {
+          "subject": "Physical Sciences",
+          "minimum_percentage": 5,
+          "raw_span": "Physical Science Level 5 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+            "char_start": 21550,
+            "char_end": 21575,
+            "excerpt": "Physical Science Level 5"
+          }
+        },
+        {
+          "subject": "Physical Sciences",
+          "minimum_percentage": 6,
+          "raw_span": "Physical Science Level 6 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+            "char_start": 21668,
+            "char_end": 21693,
+            "excerpt": "Physical Science Level 6"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/rhodes-university.pdf",
+      "sourceUrl": "https://www.ru.ac.za/media/rhodesuniversity/content/registrar/documents/information/studentrecruitment/RU_READY_Undergraduate_Prospectus_2026_DIGITAL_A5_Landscape_24pp_18Mar2026.pdf"
+    },
+    {
+      "id": "adm:352:Degree|1877ddc44c28|bachelor of science (bsc):subjects",
+      "institutionId": "352",
+      "programmeId": "prog:352:Degree|1877ddc44c28|bachelor of science (bsc)",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 4%; Life Sciences >= 5%; Physical Sciences >= 5%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 4,
+          "raw_span": "Mathematics Level 4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+            "char_start": 22734,
+            "char_end": 22754,
+            "excerpt": "Mathematics Level 4"
+          }
+        },
+        {
+          "subject": "Life Sciences",
+          "minimum_percentage": 5,
+          "raw_span": "Life Sciences Level 5 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+            "char_start": 22700,
+            "char_end": 22722,
+            "excerpt": "Life Sciences Level 5"
+          }
+        },
+        {
+          "subject": "Physical Sciences",
+          "minimum_percentage": 5,
+          "raw_span": "Physical Science Level 5 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+            "char_start": 22763,
+            "char_end": 22788,
+            "excerpt": "Physical Science Level 5"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/rhodes-university.pdf",
+      "sourceUrl": "https://www.ru.ac.za/media/rhodesuniversity/content/registrar/documents/information/studentrecruitment/RU_READY_Undergraduate_Prospectus_2026_DIGITAL_A5_Landscape_24pp_18Mar2026.pdf"
+    },
+    {
+      "id": "adm:352:Degree|80545a7cbc5a|bachelor of information systems:subjects",
+      "institutionId": "352",
+      "programmeId": "prog:352:Degree|80545a7cbc5a|bachelor of information systems",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 4%; Physical Sciences >= 5%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 4,
+          "raw_span": "Mathematics Level 4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+            "char_start": 22997,
+            "char_end": 23017,
+            "excerpt": "Mathematics Level 4"
+          }
+        },
+        {
+          "subject": "Physical Sciences",
+          "minimum_percentage": 5,
+          "raw_span": "Physical Science Level 5 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+            "char_start": 23026,
+            "char_end": 23051,
+            "excerpt": "Physical Science Level 5"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/rhodes-university.pdf",
+      "sourceUrl": "https://www.ru.ac.za/media/rhodesuniversity/content/registrar/documents/information/studentrecruitment/RU_READY_Undergraduate_Prospectus_2026_DIGITAL_A5_Landscape_24pp_18Mar2026.pdf"
+    }
+  ],
+  "aps_rules": [],
+  "llm_calls": 0
+}

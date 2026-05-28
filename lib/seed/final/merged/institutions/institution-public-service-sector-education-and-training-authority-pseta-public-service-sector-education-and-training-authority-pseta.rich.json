@@ -1,0 +1,69 @@
+{
+  "institution": {
+    "id": "institution:public-service-sector-education-and-training-authority-pseta",
+    "slug": "public-service-sector-education-and-training-authority-pseta",
+    "institution_id_raw": "271",
+    "name": "Public Service Sector Education and Training Authority (PSETA)",
+    "institution_type": "seta",
+    "city": "Pretoria",
+    "province": "Gauteng",
+    "official_website": "https://pseta.org.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/271/public-service-sector-education-and-training-authority-pseta",
+    "source_paths": [
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "sector": "training",
+      "province": "Gauteng",
+      "city": "Pretoria",
+      "physical_address": "Woodpecker Building, Hillcrest Office Park, 177 Dyer Road, Hillcrest, Pretoria, 0083",
+      "postal_address": "PO Box 11303, Hatfield, 0028",
+      "contact_emails": [
+        "minahk@pseta.org.za",
+        "rapulep@pseta.org.za",
+        "communications@pseta.org.za",
+        "mokotom@pseta.org.za",
+        "koketsom@pseta.org.za",
+        "nthabisengk@pseta.org.za"
+      ],
+      "contact_phone_numbers": [
+        "012 423 5728",
+        "012 423 5738",
+        "012 423 5755",
+        "012 423 5700",
+        "012 423 5768",
+        "012 423 5710",
+        "012 423 5749"
+      ],
+      "socials": {
+        "facebook": "https://www.facebook.com/Public-Service-Sector-Education-Training-Authority-PSETA-101941525365553/",
+        "instagram": "",
+        "linkedin": "",
+        "x": "",
+        "youtube": ""
+      },
+      "accreditation": {
+        "dh et": null,
+        "saqa": null
+      },
+      "sources": [
+        "https://nationalgovernment.co.za/units/view/271/public-service-sector-education-and-training-authority-pseta",
+        "https://pseta.org.za/"
+      ],
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

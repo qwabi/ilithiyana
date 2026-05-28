@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "institution_id": "306",
+    "slug": "central-johannesburg-tvet-college",
+    "name": "Central Johannesburg TVET College",
+    "institution_type": "tvet-college",
+    "province": "Gauteng",
+    "city": "Johannesburg",
+    "official_website": "https://cjc.edu.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/306/central-johannesburg-tvet-college",
+    "application_url": "https://cjc.edu.za/",
+    "prospectus_url": null,
+    "nsfas_supported": true,
+    "distance_learning": null,
+    "accreditation": {
+      "dh et": "Accredited",
+      "saqa": null
+    },
+    "qualification_types": [
+      "NC(V)",
+      "Nated (Report 191)",
+      "Skills Programmes",
+      "Apprenticeships"
+    ]
+  },
+  "profile": {},
+  "contact": {
+    "emails": [
+      "examellispark@cjc.edu.za",
+      "nsfas@cjc.edu.za",
+      "examparktown@cjc.edu.za",
+      "registration@cjc.edu.za",
+      "examalexandra@cjc.edu.za",
+      "studentfinance@cjc.edu.za",
+      "5006info@cjc.edu.co.za",
+      "5002info@cjc.edu.co.za",
+      "examlanglaagte@cjc.edu.za",
+      "info@cjc.edu.co.za",
+      "examsmit@cjc.edu.za",
+      "5003info@cjc.edu.co.za",
+      "6000info@cjc.edu.co.za",
+      "examtroyeville@cjc.edu.za",
+      "info@cjc.edu.za",
+      "examriverlea@cjc.edu.za",
+      "finance@cjc.edu.za",
+      "5007info@cjc.edu.co.za",
+      "5001info@cjc.edu.co.za"
+    ],
+    "phone_numbers": [
+      "011 351 6000"
+    ],
+    "physical_address": "5 Ubla Avenue (off Princess of Wales Terrace), Parktown, Johannesburg",
+    "postal_address": "Private Bag 70500, Houghton, 2041",
+    "socials": {
+      "facebook": "https://www.facebook.com/Central-Johannesburg-TVET-College-1064845146930530",
+      "instagram": "https://www.instagram.com/centraljohannesburgtvetcollege/",
+      "linkedin": "https://www.linkedin.com/company/central-johannesburg-tvet-college/",
+      "x": "https://twitter.com/CentralTvet",
+      "youtube": ""
+    }
+  },
+  "campuses": [],
+  "faculties": [],
+  "programmes": [],
+  "admission": {
+    "aps_name": null,
+    "aps_calculation_notes": null,
+    "minimum_aps_for_bachelors": null,
+    "minimum_aps_for_diplomas": null,
+    "minimum_entry_note": null,
+    "life_orientation_cap": null,
+    "aps_rules": [],
+    "programme_requirements": []
+  },
+  "sources": [
+    "generated/v3/institutions.enriched.json",
+    "institutions.json"
+  ],
+  "_stats": {
+    "campuses_count": 0,
+    "faculties_count": 0,
+    "programmes_count": 0,
+    "aps_rules_count": 0,
+    "adm_reqs_count": 0
+  }
+}

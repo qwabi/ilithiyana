@@ -1,0 +1,21 @@
+{
+  "institution_id": "312",
+  "institution_name": "Lovedale TVET College",
+  "institution_type": "tvet-college",
+  "source_file": "lovedale tvet2.png",
+  "campuses": [],
+  "admission_policy": {
+    "aps_name": null,
+    "aps_calculation_notes": null,
+    "minimum_aps_for_bachelors": null,
+    "minimum_aps_for_diplomas": null,
+    "minimum_entry_note": null,
+    "life_orientation_cap": null,
+    "source_excerpt": "",
+    "extraction_confidence": 0.4
+  },
+  "faculties": [],
+  "programmes": [],
+  "admission_rules": [],
+  "aps_rules": []
+}

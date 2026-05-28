@@ -1,0 +1,1121 @@
+{
+  "faculties": [
+    {
+      "institutionId": "374",
+      "name": "HUMANITIES AND SOCIAL SCIENCES",
+      "sourceFile": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "sourceUrl": "https://www.unizulu.ac.za/wp-content/uploads/2025/02/2026-Brochure-for-undergraduate.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+        "char_start": 3120,
+        "char_end": 3161,
+        "excerpt": "FACULTY OF HUMANITIES AND SOCIAL SCIENCES"
+      },
+      "normalization_key": "faculty|humanities and social sciences"
+    },
+    {
+      "institutionId": "374",
+      "name": "HUMANITIES AND SOCIAL SCIENCES",
+      "sourceFile": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "sourceUrl": "https://www.unizulu.ac.za/wp-content/uploads/2025/02/2026-Brochure-for-undergraduate.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+        "char_start": 5812,
+        "char_end": 5853,
+        "excerpt": "FACULTY OF HUMANITIES AND SOCIAL SCIENCES"
+      },
+      "normalization_key": "faculty|humanities and social sciences"
+    },
+    {
+      "institutionId": "374",
+      "name": "COMMERCE, ADMINISTRATION AND LAW",
+      "sourceFile": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "sourceUrl": "https://www.unizulu.ac.za/wp-content/uploads/2025/02/2026-Brochure-for-undergraduate.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+        "char_start": 8715,
+        "char_end": 8758,
+        "excerpt": "FACULTY OF COMMERCE, ADMINISTRATION AND LAW"
+      },
+      "normalization_key": "faculty|commerce, administration and law"
+    },
+    {
+      "institutionId": "374",
+      "name": "HUMANITIES AND SOCIAL SCIENCES",
+      "sourceFile": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "sourceUrl": "https://www.unizulu.ac.za/wp-content/uploads/2025/02/2026-Brochure-for-undergraduate.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+        "char_start": 11459,
+        "char_end": 11500,
+        "excerpt": "FACULTY OF HUMANITIES AND SOCIAL SCIENCES"
+      },
+      "normalization_key": "faculty|humanities and social sciences"
+    },
+    {
+      "institutionId": "374",
+      "name": "HUMANITIES AND SOCIAL SCIENCES",
+      "sourceFile": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "sourceUrl": "https://www.unizulu.ac.za/wp-content/uploads/2025/02/2026-Brochure-for-undergraduate.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+        "char_start": 14151,
+        "char_end": 14192,
+        "excerpt": "FACULTY OF HUMANITIES AND SOCIAL SCIENCES"
+      },
+      "normalization_key": "faculty|humanities and social sciences"
+    },
+    {
+      "institutionId": "374",
+      "name": "COMMERCE, ADMINISTRATION AND LAW",
+      "sourceFile": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "sourceUrl": "https://www.unizulu.ac.za/wp-content/uploads/2025/02/2026-Brochure-for-undergraduate.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+        "char_start": 17054,
+        "char_end": 17097,
+        "excerpt": "FACULTY OF COMMERCE, ADMINISTRATION AND LAW"
+      },
+      "normalization_key": "faculty|commerce, administration and law"
+    },
+    {
+      "institutionId": "374",
+      "name": "COMMERCE, ADMINISTRATION AND LAW",
+      "sourceFile": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "sourceUrl": "https://www.unizulu.ac.za/wp-content/uploads/2025/02/2026-Brochure-for-undergraduate.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+        "char_start": 19953,
+        "char_end": 19996,
+        "excerpt": "FACULTY OF COMMERCE, ADMINISTRATION AND LAW"
+      },
+      "normalization_key": "faculty|commerce, administration and law"
+    },
+    {
+      "institutionId": "374",
+      "name": "SCIENCE, AGRICULTURE AND ENGINEERING",
+      "sourceFile": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "sourceUrl": "https://www.unizulu.ac.za/wp-content/uploads/2025/02/2026-Brochure-for-undergraduate.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+        "char_start": 23006,
+        "char_end": 23053,
+        "excerpt": "FACULTY OF SCIENCE, AGRICULTURE AND ENGINEERING"
+      },
+      "normalization_key": "faculty|science, agriculture and engineering"
+    },
+    {
+      "institutionId": "374",
+      "name": "SCIENCE, AGRICULTURE AND ENGINEERING",
+      "sourceFile": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "sourceUrl": "https://www.unizulu.ac.za/wp-content/uploads/2025/02/2026-Brochure-for-undergraduate.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+        "char_start": 25932,
+        "char_end": 25979,
+        "excerpt": "FACULTY OF SCIENCE, AGRICULTURE AND ENGINEERING"
+      },
+      "normalization_key": "faculty|science, agriculture and engineering"
+    }
+  ],
+  "programmes": [
+    {
+      "id": "prog:374:Diploma|d6c5f61752ec|diploma in media studies 3 yrs 24 nsc dip with engl 4 and five 20 credit subject",
+      "institutionId": "374",
+      "name": "Diploma in Media Studies 3 yrs 24 NSC Dip with Engl 4 and five 20 credit subjects",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "sourceUrl": "https://www.unizulu.ac.za/wp-content/uploads/2025/02/2026-Brochure-for-undergraduate.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+        "char_start": 14506,
+        "char_end": 14587,
+        "excerpt": "Diploma in Media Studies 3 yrs 24 NSC Dip with Engl 4 and five 20 credit subjects"
+      },
+      "normalization_key": "Diploma|d6c5f61752ec|diploma in media studies 3 yrs 24 nsc dip with engl 4 and five 20 credit subject"
+    },
+    {
+      "id": "prog:374:Degree|e1acd6319da6|ba in psychology 3 yrs 28 nsc deg with engl 4 and social sci (geography/history)",
+      "institutionId": "374",
+      "name": "BA in Psychology 3 yrs 28 NSC Deg with Engl 4 and Social Sci (Geography/History) 4 and",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "sourceUrl": "https://www.unizulu.ac.za/wp-content/uploads/2025/02/2026-Brochure-for-undergraduate.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+        "char_start": 15257,
+        "char_end": 15343,
+        "excerpt": "BA in Psychology 3 yrs 28 NSC Deg with Engl 4 and Social Sci (Geography/History) 4 and"
+      },
+      "normalization_key": "Degree|e1acd6319da6|ba in psychology 3 yrs 28 nsc deg with engl 4 and social sci (geography/history)"
+    },
+    {
+      "id": "prog:374:Degree|edae8f232191|ba in drama, theatre and performance 3 yrs 26 nsc deg with engl 4 and dramatic a",
+      "institutionId": "374",
+      "name": "BA in Drama, Theatre and Performance 3 yrs 26 NSC Deg with Engl 4 and Dramatic Art or",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "sourceUrl": "https://www.unizulu.ac.za/wp-content/uploads/2025/02/2026-Brochure-for-undergraduate.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+        "char_start": 15368,
+        "char_end": 15454,
+        "excerpt": "BA in Drama, Theatre and Performance 3 yrs 26 NSC Deg with Engl 4 and Dramatic Art or"
+      },
+      "normalization_key": "Degree|edae8f232191|ba in drama, theatre and performance 3 yrs 26 nsc deg with engl 4 and dramatic a"
+    },
+    {
+      "id": "prog:374:Diploma|ef17a5f0fb7a|diploma in public relations management 3 yrs 24 nsc dip with engl 4 and five 20 ",
+      "institutionId": "374",
+      "name": "Diploma in Public Relations Management 3 yrs 24 NSC Dip with Engl 4 and five 20 credit subjects",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "sourceUrl": "https://www.unizulu.ac.za/wp-content/uploads/2025/02/2026-Brochure-for-undergraduate.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+        "char_start": 15495,
+        "char_end": 15590,
+        "excerpt": "Diploma in Public Relations Management 3 yrs 24 NSC Dip with Engl 4 and five 20 credit subjects"
+      },
+      "normalization_key": "Diploma|ef17a5f0fb7a|diploma in public relations management 3 yrs 24 nsc dip with engl 4 and five 20 "
+    },
+    {
+      "id": "prog:374:Degree|2539378fc407|bachelor of social sciences in political and",
+      "institutionId": "374",
+      "name": "Bachelor of Social Sciences in Political and",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "sourceUrl": "https://www.unizulu.ac.za/wp-content/uploads/2025/02/2026-Brochure-for-undergraduate.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+        "char_start": 15993,
+        "char_end": 16037,
+        "excerpt": "Bachelor of Social Sciences in Political and"
+      },
+      "normalization_key": "Degree|2539378fc407|bachelor of social sciences in political and"
+    },
+    {
+      "id": "prog:374:Diploma|fe9de99303d8|diploma in tourism management 3 yrs 24 nsc dip with engl 4 and (any five) subjec",
+      "institutionId": "374",
+      "name": "Diploma in Tourism Management 3 yrs 24 NSC Dip with Engl 4 and (any five) subjects: Maths/Maths Lit, Tourism and/",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "sourceUrl": "https://www.unizulu.ac.za/wp-content/uploads/2025/02/2026-Brochure-for-undergraduate.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+        "char_start": 16265,
+        "char_end": 16378,
+        "excerpt": "Diploma in Tourism Management 3 yrs 24 NSC Dip with Engl 4 and (any five) subjects: Maths/Maths Lit, Tourism and/"
+      },
+      "normalization_key": "Diploma|fe9de99303d8|diploma in tourism management 3 yrs 24 nsc dip with engl 4 and (any five) subjec"
+    },
+    {
+      "id": "prog:374:Degree|454ba1672c68|bachelor of education in foundation phase",
+      "institutionId": "374",
+      "name": "Bachelor of Education in Foundation Phase",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "sourceUrl": "https://www.unizulu.ac.za/wp-content/uploads/2025/02/2026-Brochure-for-undergraduate.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+        "char_start": 16576,
+        "char_end": 16617,
+        "excerpt": "Bachelor of Education in Foundation Phase"
+      },
+      "normalization_key": "Degree|454ba1672c68|bachelor of education in foundation phase"
+    },
+    {
+      "id": "prog:374:Degree|028cb540a4c2|bachelor of education in intermediate phase",
+      "institutionId": "374",
+      "name": "Bachelor of Education in Intermediate Phase",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "sourceUrl": "https://www.unizulu.ac.za/wp-content/uploads/2025/02/2026-Brochure-for-undergraduate.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+        "char_start": 19742,
+        "char_end": 19785,
+        "excerpt": "Bachelor of Education in Intermediate Phase"
+      },
+      "normalization_key": "Degree|028cb540a4c2|bachelor of education in intermediate phase"
+    },
+    {
+      "id": "prog:374:Diploma|d6c5f61752ec|diploma in media studies 3 yrs 24 nsc dip with engl 4 and five 20 credit subject",
+      "institutionId": "374",
+      "name": "Diploma in Media Studies 3 yrs 24 NSC Dip with Engl 4 and five 20 credit subjects",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "sourceUrl": "https://www.unizulu.ac.za/wp-content/uploads/2025/02/2026-Brochure-for-undergraduate.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+        "char_start": 14506,
+        "char_end": 14587,
+        "excerpt": "Diploma in Media Studies 3 yrs 24 NSC Dip with Engl 4 and five 20 credit subjects"
+      },
+      "normalization_key": "Diploma|d6c5f61752ec|diploma in media studies 3 yrs 24 nsc dip with engl 4 and five 20 credit subject"
+    },
+    {
+      "id": "prog:374:Degree|e1acd6319da6|ba in psychology 3 yrs 28 nsc deg with engl 4 and social sci (geography/history)",
+      "institutionId": "374",
+      "name": "BA in Psychology 3 yrs 28 NSC Deg with Engl 4 and Social Sci (Geography/History) 4 and",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "sourceUrl": "https://www.unizulu.ac.za/wp-content/uploads/2025/02/2026-Brochure-for-undergraduate.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+        "char_start": 15257,
+        "char_end": 15343,
+        "excerpt": "BA in Psychology 3 yrs 28 NSC Deg with Engl 4 and Social Sci (Geography/History) 4 and"
+      },
+      "normalization_key": "Degree|e1acd6319da6|ba in psychology 3 yrs 28 nsc deg with engl 4 and social sci (geography/history)"
+    },
+    {
+      "id": "prog:374:Degree|edae8f232191|ba in drama, theatre and performance 3 yrs 26 nsc deg with engl 4 and dramatic a",
+      "institutionId": "374",
+      "name": "BA in Drama, Theatre and Performance 3 yrs 26 NSC Deg with Engl 4 and Dramatic Art or",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "sourceUrl": "https://www.unizulu.ac.za/wp-content/uploads/2025/02/2026-Brochure-for-undergraduate.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+        "char_start": 15368,
+        "char_end": 15454,
+        "excerpt": "BA in Drama, Theatre and Performance 3 yrs 26 NSC Deg with Engl 4 and Dramatic Art or"
+      },
+      "normalization_key": "Degree|edae8f232191|ba in drama, theatre and performance 3 yrs 26 nsc deg with engl 4 and dramatic a"
+    },
+    {
+      "id": "prog:374:Diploma|ef17a5f0fb7a|diploma in public relations management 3 yrs 24 nsc dip with engl 4 and five 20 ",
+      "institutionId": "374",
+      "name": "Diploma in Public Relations Management 3 yrs 24 NSC Dip with Engl 4 and five 20 credit subjects",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "sourceUrl": "https://www.unizulu.ac.za/wp-content/uploads/2025/02/2026-Brochure-for-undergraduate.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+        "char_start": 15495,
+        "char_end": 15590,
+        "excerpt": "Diploma in Public Relations Management 3 yrs 24 NSC Dip with Engl 4 and five 20 credit subjects"
+      },
+      "normalization_key": "Diploma|ef17a5f0fb7a|diploma in public relations management 3 yrs 24 nsc dip with engl 4 and five 20 "
+    },
+    {
+      "id": "prog:374:Degree|2539378fc407|bachelor of social sciences in political and",
+      "institutionId": "374",
+      "name": "Bachelor of Social Sciences in Political and",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "sourceUrl": "https://www.unizulu.ac.za/wp-content/uploads/2025/02/2026-Brochure-for-undergraduate.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+        "char_start": 15993,
+        "char_end": 16037,
+        "excerpt": "Bachelor of Social Sciences in Political and"
+      },
+      "normalization_key": "Degree|2539378fc407|bachelor of social sciences in political and"
+    },
+    {
+      "id": "prog:374:Diploma|fe9de99303d8|diploma in tourism management 3 yrs 24 nsc dip with engl 4 and (any five) subjec",
+      "institutionId": "374",
+      "name": "Diploma in Tourism Management 3 yrs 24 NSC Dip with Engl 4 and (any five) subjects: Maths/Maths Lit, Tourism and/",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "sourceUrl": "https://www.unizulu.ac.za/wp-content/uploads/2025/02/2026-Brochure-for-undergraduate.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+        "char_start": 16265,
+        "char_end": 16378,
+        "excerpt": "Diploma in Tourism Management 3 yrs 24 NSC Dip with Engl 4 and (any five) subjects: Maths/Maths Lit, Tourism and/"
+      },
+      "normalization_key": "Diploma|fe9de99303d8|diploma in tourism management 3 yrs 24 nsc dip with engl 4 and (any five) subjec"
+    },
+    {
+      "id": "prog:374:Degree|454ba1672c68|bachelor of education in foundation phase",
+      "institutionId": "374",
+      "name": "Bachelor of Education in Foundation Phase",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "sourceUrl": "https://www.unizulu.ac.za/wp-content/uploads/2025/02/2026-Brochure-for-undergraduate.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+        "char_start": 16576,
+        "char_end": 16617,
+        "excerpt": "Bachelor of Education in Foundation Phase"
+      },
+      "normalization_key": "Degree|454ba1672c68|bachelor of education in foundation phase"
+    },
+    {
+      "id": "prog:374:Degree|028cb540a4c2|bachelor of education in intermediate phase",
+      "institutionId": "374",
+      "name": "Bachelor of Education in Intermediate Phase",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "sourceUrl": "https://www.unizulu.ac.za/wp-content/uploads/2025/02/2026-Brochure-for-undergraduate.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+        "char_start": 19742,
+        "char_end": 19785,
+        "excerpt": "Bachelor of Education in Intermediate Phase"
+      },
+      "normalization_key": "Degree|028cb540a4c2|bachelor of education in intermediate phase"
+    },
+    {
+      "id": "prog:374:Degree|028cb540a4c2|bachelor of education in intermediate phase",
+      "institutionId": "374",
+      "name": "Bachelor of Education in Intermediate Phase",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "sourceUrl": "https://www.unizulu.ac.za/wp-content/uploads/2025/02/2026-Brochure-for-undergraduate.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+        "char_start": 19742,
+        "char_end": 19785,
+        "excerpt": "Bachelor of Education in Intermediate Phase"
+      },
+      "normalization_key": "Degree|028cb540a4c2|bachelor of education in intermediate phase"
+    },
+    {
+      "id": "prog:374:Diploma|d6c5f61752ec|diploma in media studies 3 yrs 24 nsc dip with engl 4 and five 20 credit subject",
+      "institutionId": "374",
+      "name": "Diploma in Media Studies 3 yrs 24 NSC Dip with Engl 4 and five 20 credit subjects",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "sourceUrl": "https://www.unizulu.ac.za/wp-content/uploads/2025/02/2026-Brochure-for-undergraduate.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+        "char_start": 14506,
+        "char_end": 14587,
+        "excerpt": "Diploma in Media Studies 3 yrs 24 NSC Dip with Engl 4 and five 20 credit subjects"
+      },
+      "normalization_key": "Diploma|d6c5f61752ec|diploma in media studies 3 yrs 24 nsc dip with engl 4 and five 20 credit subject"
+    },
+    {
+      "id": "prog:374:Degree|e1acd6319da6|ba in psychology 3 yrs 28 nsc deg with engl 4 and social sci (geography/history)",
+      "institutionId": "374",
+      "name": "BA in Psychology 3 yrs 28 NSC Deg with Engl 4 and Social Sci (Geography/History) 4 and",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "sourceUrl": "https://www.unizulu.ac.za/wp-content/uploads/2025/02/2026-Brochure-for-undergraduate.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+        "char_start": 15257,
+        "char_end": 15343,
+        "excerpt": "BA in Psychology 3 yrs 28 NSC Deg with Engl 4 and Social Sci (Geography/History) 4 and"
+      },
+      "normalization_key": "Degree|e1acd6319da6|ba in psychology 3 yrs 28 nsc deg with engl 4 and social sci (geography/history)"
+    },
+    {
+      "id": "prog:374:Degree|edae8f232191|ba in drama, theatre and performance 3 yrs 26 nsc deg with engl 4 and dramatic a",
+      "institutionId": "374",
+      "name": "BA in Drama, Theatre and Performance 3 yrs 26 NSC Deg with Engl 4 and Dramatic Art or",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "sourceUrl": "https://www.unizulu.ac.za/wp-content/uploads/2025/02/2026-Brochure-for-undergraduate.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+        "char_start": 15368,
+        "char_end": 15454,
+        "excerpt": "BA in Drama, Theatre and Performance 3 yrs 26 NSC Deg with Engl 4 and Dramatic Art or"
+      },
+      "normalization_key": "Degree|edae8f232191|ba in drama, theatre and performance 3 yrs 26 nsc deg with engl 4 and dramatic a"
+    },
+    {
+      "id": "prog:374:Diploma|ef17a5f0fb7a|diploma in public relations management 3 yrs 24 nsc dip with engl 4 and five 20 ",
+      "institutionId": "374",
+      "name": "Diploma in Public Relations Management 3 yrs 24 NSC Dip with Engl 4 and five 20 credit subjects",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "sourceUrl": "https://www.unizulu.ac.za/wp-content/uploads/2025/02/2026-Brochure-for-undergraduate.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+        "char_start": 15495,
+        "char_end": 15590,
+        "excerpt": "Diploma in Public Relations Management 3 yrs 24 NSC Dip with Engl 4 and five 20 credit subjects"
+      },
+      "normalization_key": "Diploma|ef17a5f0fb7a|diploma in public relations management 3 yrs 24 nsc dip with engl 4 and five 20 "
+    },
+    {
+      "id": "prog:374:Degree|2539378fc407|bachelor of social sciences in political and",
+      "institutionId": "374",
+      "name": "Bachelor of Social Sciences in Political and",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "sourceUrl": "https://www.unizulu.ac.za/wp-content/uploads/2025/02/2026-Brochure-for-undergraduate.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+        "char_start": 15993,
+        "char_end": 16037,
+        "excerpt": "Bachelor of Social Sciences in Political and"
+      },
+      "normalization_key": "Degree|2539378fc407|bachelor of social sciences in political and"
+    },
+    {
+      "id": "prog:374:Diploma|fe9de99303d8|diploma in tourism management 3 yrs 24 nsc dip with engl 4 and (any five) subjec",
+      "institutionId": "374",
+      "name": "Diploma in Tourism Management 3 yrs 24 NSC Dip with Engl 4 and (any five) subjects: Maths/Maths Lit, Tourism and/",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "sourceUrl": "https://www.unizulu.ac.za/wp-content/uploads/2025/02/2026-Brochure-for-undergraduate.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+        "char_start": 16265,
+        "char_end": 16378,
+        "excerpt": "Diploma in Tourism Management 3 yrs 24 NSC Dip with Engl 4 and (any five) subjects: Maths/Maths Lit, Tourism and/"
+      },
+      "normalization_key": "Diploma|fe9de99303d8|diploma in tourism management 3 yrs 24 nsc dip with engl 4 and (any five) subjec"
+    },
+    {
+      "id": "prog:374:Degree|454ba1672c68|bachelor of education in foundation phase",
+      "institutionId": "374",
+      "name": "Bachelor of Education in Foundation Phase",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "sourceUrl": "https://www.unizulu.ac.za/wp-content/uploads/2025/02/2026-Brochure-for-undergraduate.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+        "char_start": 16576,
+        "char_end": 16617,
+        "excerpt": "Bachelor of Education in Foundation Phase"
+      },
+      "normalization_key": "Degree|454ba1672c68|bachelor of education in foundation phase"
+    },
+    {
+      "id": "prog:374:Degree|028cb540a4c2|bachelor of education in intermediate phase",
+      "institutionId": "374",
+      "name": "Bachelor of Education in Intermediate Phase",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "sourceUrl": "https://www.unizulu.ac.za/wp-content/uploads/2025/02/2026-Brochure-for-undergraduate.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+        "char_start": 19742,
+        "char_end": 19785,
+        "excerpt": "Bachelor of Education in Intermediate Phase"
+      },
+      "normalization_key": "Degree|028cb540a4c2|bachelor of education in intermediate phase"
+    },
+    {
+      "id": "prog:374:Diploma|d6c5f61752ec|diploma in media studies 3 yrs 24 nsc dip with engl 4 and five 20 credit subject",
+      "institutionId": "374",
+      "name": "Diploma in Media Studies 3 yrs 24 NSC Dip with Engl 4 and five 20 credit subjects",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "sourceUrl": "https://www.unizulu.ac.za/wp-content/uploads/2025/02/2026-Brochure-for-undergraduate.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+        "char_start": 14506,
+        "char_end": 14587,
+        "excerpt": "Diploma in Media Studies 3 yrs 24 NSC Dip with Engl 4 and five 20 credit subjects"
+      },
+      "normalization_key": "Diploma|d6c5f61752ec|diploma in media studies 3 yrs 24 nsc dip with engl 4 and five 20 credit subject"
+    },
+    {
+      "id": "prog:374:Degree|e1acd6319da6|ba in psychology 3 yrs 28 nsc deg with engl 4 and social sci (geography/history)",
+      "institutionId": "374",
+      "name": "BA in Psychology 3 yrs 28 NSC Deg with Engl 4 and Social Sci (Geography/History) 4 and",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "sourceUrl": "https://www.unizulu.ac.za/wp-content/uploads/2025/02/2026-Brochure-for-undergraduate.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+        "char_start": 15257,
+        "char_end": 15343,
+        "excerpt": "BA in Psychology 3 yrs 28 NSC Deg with Engl 4 and Social Sci (Geography/History) 4 and"
+      },
+      "normalization_key": "Degree|e1acd6319da6|ba in psychology 3 yrs 28 nsc deg with engl 4 and social sci (geography/history)"
+    },
+    {
+      "id": "prog:374:Degree|edae8f232191|ba in drama, theatre and performance 3 yrs 26 nsc deg with engl 4 and dramatic a",
+      "institutionId": "374",
+      "name": "BA in Drama, Theatre and Performance 3 yrs 26 NSC Deg with Engl 4 and Dramatic Art or",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "sourceUrl": "https://www.unizulu.ac.za/wp-content/uploads/2025/02/2026-Brochure-for-undergraduate.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+        "char_start": 15368,
+        "char_end": 15454,
+        "excerpt": "BA in Drama, Theatre and Performance 3 yrs 26 NSC Deg with Engl 4 and Dramatic Art or"
+      },
+      "normalization_key": "Degree|edae8f232191|ba in drama, theatre and performance 3 yrs 26 nsc deg with engl 4 and dramatic a"
+    },
+    {
+      "id": "prog:374:Diploma|ef17a5f0fb7a|diploma in public relations management 3 yrs 24 nsc dip with engl 4 and five 20 ",
+      "institutionId": "374",
+      "name": "Diploma in Public Relations Management 3 yrs 24 NSC Dip with Engl 4 and five 20 credit subjects",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "sourceUrl": "https://www.unizulu.ac.za/wp-content/uploads/2025/02/2026-Brochure-for-undergraduate.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+        "char_start": 15495,
+        "char_end": 15590,
+        "excerpt": "Diploma in Public Relations Management 3 yrs 24 NSC Dip with Engl 4 and five 20 credit subjects"
+      },
+      "normalization_key": "Diploma|ef17a5f0fb7a|diploma in public relations management 3 yrs 24 nsc dip with engl 4 and five 20 "
+    },
+    {
+      "id": "prog:374:Degree|2539378fc407|bachelor of social sciences in political and",
+      "institutionId": "374",
+      "name": "Bachelor of Social Sciences in Political and",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "sourceUrl": "https://www.unizulu.ac.za/wp-content/uploads/2025/02/2026-Brochure-for-undergraduate.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+        "char_start": 15993,
+        "char_end": 16037,
+        "excerpt": "Bachelor of Social Sciences in Political and"
+      },
+      "normalization_key": "Degree|2539378fc407|bachelor of social sciences in political and"
+    },
+    {
+      "id": "prog:374:Diploma|fe9de99303d8|diploma in tourism management 3 yrs 24 nsc dip with engl 4 and (any five) subjec",
+      "institutionId": "374",
+      "name": "Diploma in Tourism Management 3 yrs 24 NSC Dip with Engl 4 and (any five) subjects: Maths/Maths Lit, Tourism and/",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "sourceUrl": "https://www.unizulu.ac.za/wp-content/uploads/2025/02/2026-Brochure-for-undergraduate.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+        "char_start": 16265,
+        "char_end": 16378,
+        "excerpt": "Diploma in Tourism Management 3 yrs 24 NSC Dip with Engl 4 and (any five) subjects: Maths/Maths Lit, Tourism and/"
+      },
+      "normalization_key": "Diploma|fe9de99303d8|diploma in tourism management 3 yrs 24 nsc dip with engl 4 and (any five) subjec"
+    },
+    {
+      "id": "prog:374:Degree|454ba1672c68|bachelor of education in foundation phase",
+      "institutionId": "374",
+      "name": "Bachelor of Education in Foundation Phase",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "sourceUrl": "https://www.unizulu.ac.za/wp-content/uploads/2025/02/2026-Brochure-for-undergraduate.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+        "char_start": 16576,
+        "char_end": 16617,
+        "excerpt": "Bachelor of Education in Foundation Phase"
+      },
+      "normalization_key": "Degree|454ba1672c68|bachelor of education in foundation phase"
+    },
+    {
+      "id": "prog:374:Degree|028cb540a4c2|bachelor of education in intermediate phase",
+      "institutionId": "374",
+      "name": "Bachelor of Education in Intermediate Phase",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "sourceUrl": "https://www.unizulu.ac.za/wp-content/uploads/2025/02/2026-Brochure-for-undergraduate.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+        "char_start": 19742,
+        "char_end": 19785,
+        "excerpt": "Bachelor of Education in Intermediate Phase"
+      },
+      "normalization_key": "Degree|028cb540a4c2|bachelor of education in intermediate phase"
+    },
+    {
+      "id": "prog:374:Degree|028cb540a4c2|bachelor of education in intermediate phase",
+      "institutionId": "374",
+      "name": "Bachelor of Education in Intermediate Phase",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "sourceUrl": "https://www.unizulu.ac.za/wp-content/uploads/2025/02/2026-Brochure-for-undergraduate.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+        "char_start": 19742,
+        "char_end": 19785,
+        "excerpt": "Bachelor of Education in Intermediate Phase"
+      },
+      "normalization_key": "Degree|028cb540a4c2|bachelor of education in intermediate phase"
+    },
+    {
+      "id": "prog:374:Degree|028cb540a4c2|bachelor of education in intermediate phase",
+      "institutionId": "374",
+      "name": "Bachelor of Education in Intermediate Phase",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "sourceUrl": "https://www.unizulu.ac.za/wp-content/uploads/2025/02/2026-Brochure-for-undergraduate.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+        "char_start": 19742,
+        "char_end": 19785,
+        "excerpt": "Bachelor of Education in Intermediate Phase"
+      },
+      "normalization_key": "Degree|028cb540a4c2|bachelor of education in intermediate phase"
+    }
+  ],
+  "admissions_rules": [
+    {
+      "id": "adm:374:Degree|454ba1672c68|bachelor of education in foundation phase:subjects",
+      "institutionId": "374",
+      "programmeId": "prog:374:Degree|454ba1672c68|bachelor of education in foundation phase",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 3%; Mathematics >= 4%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 3,
+          "raw_span": "Maths 3",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+            "char_start": 5650,
+            "char_end": 5657,
+            "excerpt": "Maths 3"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 4,
+          "raw_span": "Maths Lit 4",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+            "char_start": 5658,
+            "char_end": 5669,
+            "excerpt": "Maths Lit 4"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "sourceUrl": "https://www.unizulu.ac.za/wp-content/uploads/2025/02/2026-Brochure-for-undergraduate.pdf"
+    },
+    {
+      "id": "adm:374:Degree|454ba1672c68|bachelor of education in foundation phase:subjects",
+      "institutionId": "374",
+      "programmeId": "prog:374:Degree|454ba1672c68|bachelor of education in foundation phase",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 3%; Mathematics >= 4%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 3,
+          "raw_span": "Maths 3",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+            "char_start": 8342,
+            "char_end": 8349,
+            "excerpt": "Maths 3"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 4,
+          "raw_span": "Maths Lit 4",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+            "char_start": 8350,
+            "char_end": 8361,
+            "excerpt": "Maths Lit 4"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "sourceUrl": "https://www.unizulu.ac.za/wp-content/uploads/2025/02/2026-Brochure-for-undergraduate.pdf"
+    },
+    {
+      "id": "adm:374:Degree|028cb540a4c2|bachelor of education in intermediate phase:subjects",
+      "institutionId": "374",
+      "programmeId": "prog:374:Degree|028cb540a4c2|bachelor of education in intermediate phase",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 4%; Mathematics >= 3%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 4,
+          "raw_span": "Maths 4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+            "char_start": 8666,
+            "char_end": 8674,
+            "excerpt": "Maths 4"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 3,
+          "raw_span": "Maths 3 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+            "char_start": 8692,
+            "char_end": 8700,
+            "excerpt": "Maths 3"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "sourceUrl": "https://www.unizulu.ac.za/wp-content/uploads/2025/02/2026-Brochure-for-undergraduate.pdf"
+    },
+    {
+      "id": "adm:374:Degree|454ba1672c68|bachelor of education in foundation phase:subjects",
+      "institutionId": "374",
+      "programmeId": "prog:374:Degree|454ba1672c68|bachelor of education in foundation phase",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 3%; Mathematics >= 4%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 3,
+          "raw_span": "Maths 3",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+            "char_start": 13989,
+            "char_end": 13996,
+            "excerpt": "Maths 3"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 4,
+          "raw_span": "Maths Lit 4",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+            "char_start": 13997,
+            "char_end": 14008,
+            "excerpt": "Maths Lit 4"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "sourceUrl": "https://www.unizulu.ac.za/wp-content/uploads/2025/02/2026-Brochure-for-undergraduate.pdf"
+    },
+    {
+      "id": "adm:374:Degree|454ba1672c68|bachelor of education in foundation phase:subjects",
+      "institutionId": "374",
+      "programmeId": "prog:374:Degree|454ba1672c68|bachelor of education in foundation phase",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 3%; Mathematics >= 4%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 3,
+          "raw_span": "Maths 3",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+            "char_start": 16681,
+            "char_end": 16688,
+            "excerpt": "Maths 3"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 4,
+          "raw_span": "Maths Lit 4",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+            "char_start": 16689,
+            "char_end": 16700,
+            "excerpt": "Maths Lit 4"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "sourceUrl": "https://www.unizulu.ac.za/wp-content/uploads/2025/02/2026-Brochure-for-undergraduate.pdf"
+    },
+    {
+      "id": "adm:374:Degree|028cb540a4c2|bachelor of education in intermediate phase:subjects",
+      "institutionId": "374",
+      "programmeId": "prog:374:Degree|028cb540a4c2|bachelor of education in intermediate phase",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 4%; Mathematics >= 3%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 4,
+          "raw_span": "Maths 4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+            "char_start": 17005,
+            "char_end": 17013,
+            "excerpt": "Maths 4"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 3,
+          "raw_span": "Maths 3 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+            "char_start": 17031,
+            "char_end": 17039,
+            "excerpt": "Maths 3"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "sourceUrl": "https://www.unizulu.ac.za/wp-content/uploads/2025/02/2026-Brochure-for-undergraduate.pdf"
+    },
+    {
+      "id": "adm:374:Degree|028cb540a4c2|bachelor of education in intermediate phase:subjects",
+      "institutionId": "374",
+      "programmeId": "prog:374:Degree|028cb540a4c2|bachelor of education in intermediate phase",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 4%; Mathematics >= 3%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 4,
+          "raw_span": "Maths 4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+            "char_start": 19904,
+            "char_end": 19912,
+            "excerpt": "Maths 4"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 3,
+          "raw_span": "Maths 3 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+            "char_start": 19930,
+            "char_end": 19938,
+            "excerpt": "Maths 3"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "sourceUrl": "https://www.unizulu.ac.za/wp-content/uploads/2025/02/2026-Brochure-for-undergraduate.pdf"
+    }
+  ],
+  "aps_rules": [],
+  "llm_calls": 0
+}

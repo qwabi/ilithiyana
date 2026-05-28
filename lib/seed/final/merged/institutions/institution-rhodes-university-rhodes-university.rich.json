@@ -1,0 +1,792 @@
+{
+  "institution": {
+    "id": "institution:rhodes-university",
+    "slug": "rhodes-university",
+    "institution_id_raw": "352",
+    "name": "Rhodes University",
+    "institution_type": "university",
+    "city": "Makhanda",
+    "province": "Eastern Cape",
+    "official_website": "https://www.ru.ac.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/352/rhodes-university",
+    "source_paths": [
+      "enriched_universities.json",
+      "generated/v3/institutions.enriched.json",
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "sector": "higher education",
+      "province": "Eastern Cape",
+      "city": "Makhanda",
+      "physical_address": "Drostdy Road, Grahamstown, Makhanda 6139",
+      "postal_address": "PO Box 94, Makhanda, Eastern Cape, 6140",
+      "contact_phone_numbers": [
+        "046 603 8111"
+      ],
+      "application_url": "https://www.ru.ac.za/admissiongateway/",
+      "socials": {
+        "facebook": "https://www.facebook.com/rhodesuniversity/",
+        "instagram": "",
+        "linkedin": "https://www.linkedin.com/school/rhodes-university/",
+        "x": "https://twitter.com/Rhodes_Uni",
+        "youtube": "https://www.youtube.com/channel/UCkeNry6-KnCW3kl8AsYPQlQ"
+      },
+      "accreditation": {
+        "dh et": "Accredited",
+        "saqa": "Registered"
+      },
+      "sources": [
+        "https://nationalgovernment.co.za/units/view/352/rhodes-university",
+        "https://www.ru.ac.za/"
+      ],
+      "qualification_types": [
+        "Undergraduate",
+        "Postgraduate",
+        "Diploma",
+        "Certificate"
+      ],
+      "nsfas_supported": true,
+      "student_accommodation": true,
+      "short_name": "RU",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/7/79/Rhodes_University_logo.svg",
+      "colors": [],
+      "motto": "Where leaders learn",
+      "type": "Traditional University",
+      "languages": [],
+      "student_estimate": 7005,
+      "nickname": "Rhodian",
+      "sports_affiliations": []
+    }
+  },
+  "campuses": [
+    {
+      "id": "campus:rhodes-university--main-campus",
+      "institution_slug": "rhodes-university",
+      "name": "Main Campus",
+      "city": "Makhanda",
+      "province": "Eastern Cape",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    }
+  ],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [
+    {
+      "id": "programme:rhodes-university--ba-ba-34-44-dean-s-discretion",
+      "institution_slug": "rhodes-university",
+      "institution_name": "Rhodes University",
+      "name": "BA (BA) 34-44 (Dean's discretion)",
+      "normalized_name": "BA (BA) 34-44 (Dean's discretion)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Arts (BA) 34-44 (Dean's discretion)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:rhodes-university--bachelor-of-business-science-38-44-dean-s-discretion",
+      "institution_slug": "rhodes-university",
+      "institution_name": "Rhodes University",
+      "name": "Bachelor of Business Science 38-44 (Dean's discretion)",
+      "normalized_name": "Bachelor of Business Science 38-44 (Dean's discretion)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Business Science 38-44 (Dean's discretion)",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:rhodes-university--bachelor-of-economics-beco",
+      "institution_slug": "rhodes-university",
+      "institution_name": "Rhodes University",
+      "name": "Bachelor of Economics (BEco)",
+      "normalized_name": "Bachelor of Economics (BEco)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Economics (BEco)",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:rhodes-university--bachelor-of-fine-arts-bfa-34-44-dean-s-discretion",
+      "institution_slug": "rhodes-university",
+      "institution_name": "Rhodes University",
+      "name": "Bachelor of Fine Arts (BFA) 34-44 (Dean's discretion)",
+      "normalized_name": "Bachelor of Fine Arts (BFA) 34-44 (Dean's discretion)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Fine Arts (BFA) 34-44 (Dean's discretion)",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:rhodes-university--bachelor-of-information-systems",
+      "institution_slug": "rhodes-university",
+      "institution_name": "Rhodes University",
+      "name": "Bachelor of Information Systems",
+      "normalized_name": "Bachelor of Information Systems",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Information Systems",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:rhodes-university--bachelor-of-journalism-bjourn-34-44-dean-s-discretion",
+      "institution_slug": "rhodes-university",
+      "institution_name": "Rhodes University",
+      "name": "Bachelor of Journalism (BJourn) 34-44 (Dean's discretion)",
+      "normalized_name": "Bachelor of Journalism (BJourn) 34-44 (Dean's discretion)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Journalism (BJourn) 34-44 (Dean's discretion)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:rhodes-university--bachelor-of-law-llb",
+      "institution_slug": "rhodes-university",
+      "institution_name": "Rhodes University",
+      "name": "Bachelor of Law (LLB)",
+      "normalized_name": "Bachelor of Law (LLB)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Law (LLB)",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:rhodes-university--bachelor-of-law-llb-degree-is-the-academic-qualification-required",
+      "institution_slug": "rhodes-university",
+      "institution_name": "Rhodes University",
+      "name": "Bachelor of Law (LLB) degree is the academic qualification required",
+      "normalized_name": "Bachelor of Law (LLB) degree is the academic qualification required",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Law (LLB) degree is the academic qualification required",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:rhodes-university--bachelor-of-music-bmus-34-44-dean-s-discretion",
+      "institution_slug": "rhodes-university",
+      "institution_name": "Rhodes University",
+      "name": "Bachelor of Music (BMus) 34-44 (Dean's discretion)",
+      "normalized_name": "Bachelor of Music (BMus) 34-44 (Dean's discretion)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Music (BMus) 34-44 (Dean's discretion)",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:rhodes-university--bcom-bcom",
+      "institution_slug": "rhodes-university",
+      "institution_name": "Rhodes University",
+      "name": "BCom (BCom)",
+      "normalized_name": "BCom (BCom)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Commerce (BCom)",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:rhodes-university--bed-bedfp",
+      "institution_slug": "rhodes-university",
+      "institution_name": "Rhodes University",
+      "name": "BEd (BEDFP)",
+      "normalized_name": "BEd (BEDFP)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Education (BEDFP)",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:rhodes-university--bed-foundation-phase",
+      "institution_slug": "rhodes-university",
+      "institution_name": "Rhodes University",
+      "name": "BEd (Foundation Phase",
+      "normalized_name": "BEd (Foundation Phase",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Education (Foundation Phase",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:rhodes-university--bpharm-bpharm-40-44-dean-s-discretion",
+      "institution_slug": "rhodes-university",
+      "institution_name": "Rhodes University",
+      "name": "BPharm (BPharm) 40-44 (Dean's discretion)",
+      "normalized_name": "BPharm (BPharm) 40-44 (Dean's discretion)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Pharmacy (BPharm) 40-44 (Dean's discretion)",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:rhodes-university--bsc-bsc",
+      "institution_slug": "rhodes-university",
+      "institution_name": "Rhodes University",
+      "name": "BSc (BSc)",
+      "normalized_name": "BSc (BSc)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Science (BSc)",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:rhodes-university--bsc-degree-bsc-is-its-flexibility-within-the-confines",
+      "institution_slug": "rhodes-university",
+      "institution_name": "Rhodes University",
+      "name": "BSc degree (BSc) is its flexibility. Within the confines",
+      "normalized_name": "BSc degree (BSc) is its flexibility. Within the confines",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Science degree (BSc) is its flexibility. Within the confines",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:rhodes-university--bsocsci-bss-34-44-dean-s-discretion",
+      "institution_slug": "rhodes-university",
+      "institution_name": "Rhodes University",
+      "name": "BSocSci (BSS) 34-44 (Dean's discretion)",
+      "normalized_name": "BSocSci (BSS) 34-44 (Dean's discretion)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Social Science (BSS) 34-44 (Dean's discretion)",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    }
+  ],
+  "programmes_all": [
+    {
+      "id": "programme:rhodes-university--ba-ba-34-44-dean-s-discretion",
+      "institution_slug": "rhodes-university",
+      "institution_name": "Rhodes University",
+      "name": "BA (BA) 34-44 (Dean's discretion)",
+      "normalized_name": "BA (BA) 34-44 (Dean's discretion)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Arts (BA) 34-44 (Dean's discretion)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:rhodes-university--bachelor-of-business-science-38-44-dean-s-discretion",
+      "institution_slug": "rhodes-university",
+      "institution_name": "Rhodes University",
+      "name": "Bachelor of Business Science 38-44 (Dean's discretion)",
+      "normalized_name": "Bachelor of Business Science 38-44 (Dean's discretion)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Business Science 38-44 (Dean's discretion)",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:rhodes-university--bachelor-of-economics-beco",
+      "institution_slug": "rhodes-university",
+      "institution_name": "Rhodes University",
+      "name": "Bachelor of Economics (BEco)",
+      "normalized_name": "Bachelor of Economics (BEco)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Economics (BEco)",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:rhodes-university--bachelor-of-fine-arts-bfa-34-44-dean-s-discretion",
+      "institution_slug": "rhodes-university",
+      "institution_name": "Rhodes University",
+      "name": "Bachelor of Fine Arts (BFA) 34-44 (Dean's discretion)",
+      "normalized_name": "Bachelor of Fine Arts (BFA) 34-44 (Dean's discretion)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Fine Arts (BFA) 34-44 (Dean's discretion)",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:rhodes-university--bachelor-of-information-systems",
+      "institution_slug": "rhodes-university",
+      "institution_name": "Rhodes University",
+      "name": "Bachelor of Information Systems",
+      "normalized_name": "Bachelor of Information Systems",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Information Systems",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:rhodes-university--bachelor-of-journalism-bjourn-34-44-dean-s-discretion",
+      "institution_slug": "rhodes-university",
+      "institution_name": "Rhodes University",
+      "name": "Bachelor of Journalism (BJourn) 34-44 (Dean's discretion)",
+      "normalized_name": "Bachelor of Journalism (BJourn) 34-44 (Dean's discretion)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Journalism (BJourn) 34-44 (Dean's discretion)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:rhodes-university--bachelor-of-law-llb",
+      "institution_slug": "rhodes-university",
+      "institution_name": "Rhodes University",
+      "name": "Bachelor of Law (LLB)",
+      "normalized_name": "Bachelor of Law (LLB)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Law (LLB)",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:rhodes-university--bachelor-of-law-llb-degree-is-the-academic-qualification-required",
+      "institution_slug": "rhodes-university",
+      "institution_name": "Rhodes University",
+      "name": "Bachelor of Law (LLB) degree is the academic qualification required",
+      "normalized_name": "Bachelor of Law (LLB) degree is the academic qualification required",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Law (LLB) degree is the academic qualification required",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:rhodes-university--bachelor-of-music-bmus-34-44-dean-s-discretion",
+      "institution_slug": "rhodes-university",
+      "institution_name": "Rhodes University",
+      "name": "Bachelor of Music (BMus) 34-44 (Dean's discretion)",
+      "normalized_name": "Bachelor of Music (BMus) 34-44 (Dean's discretion)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Music (BMus) 34-44 (Dean's discretion)",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:rhodes-university--bcom-bcom",
+      "institution_slug": "rhodes-university",
+      "institution_name": "Rhodes University",
+      "name": "BCom (BCom)",
+      "normalized_name": "BCom (BCom)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Commerce (BCom)",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:rhodes-university--bed-bedfp",
+      "institution_slug": "rhodes-university",
+      "institution_name": "Rhodes University",
+      "name": "BEd (BEDFP)",
+      "normalized_name": "BEd (BEDFP)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Education (BEDFP)",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:rhodes-university--bed-foundation-phase",
+      "institution_slug": "rhodes-university",
+      "institution_name": "Rhodes University",
+      "name": "BEd (Foundation Phase",
+      "normalized_name": "BEd (Foundation Phase",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Education (Foundation Phase",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:rhodes-university--bpharm-bpharm-40-44-dean-s-discretion",
+      "institution_slug": "rhodes-university",
+      "institution_name": "Rhodes University",
+      "name": "BPharm (BPharm) 40-44 (Dean's discretion)",
+      "normalized_name": "BPharm (BPharm) 40-44 (Dean's discretion)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Pharmacy (BPharm) 40-44 (Dean's discretion)",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:rhodes-university--bsc-bsc",
+      "institution_slug": "rhodes-university",
+      "institution_name": "Rhodes University",
+      "name": "BSc (BSc)",
+      "normalized_name": "BSc (BSc)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Science (BSc)",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:rhodes-university--bsc-degree-bsc-is-its-flexibility-within-the-confines",
+      "institution_slug": "rhodes-university",
+      "institution_name": "Rhodes University",
+      "name": "BSc degree (BSc) is its flexibility. Within the confines",
+      "normalized_name": "BSc degree (BSc) is its flexibility. Within the confines",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Science degree (BSc) is its flexibility. Within the confines",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:rhodes-university--bsocsci-bss-34-44-dean-s-discretion",
+      "institution_slug": "rhodes-university",
+      "institution_name": "Rhodes University",
+      "name": "BSocSci (BSS) 34-44 (Dean's discretion)",
+      "normalized_name": "BSocSci (BSS) 34-44 (Dean's discretion)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Social Science (BSS) 34-44 (Dean's discretion)",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    }
+  ],
+  "counts": {
+    "campuses": 1,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 16,
+    "programmes_all": 16
+  }
+}

@@ -1,0 +1,8 @@
+SOURCE: https://fundiconnect.co.za/institutions/umfolozi-tvet-college/
+INSTITUTION: Umfolozi TVET College
+SLUG: umfolozi-tvet-college
+SCRAPED: 2026-05-27
+NOTE: Web-scraped programme and admission info. No official PDF exists.
+======================================================================
+
+Umfolozi TVET College - Programs, Fees & NSFAS Funding 2026

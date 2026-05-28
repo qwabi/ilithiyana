@@ -1,0 +1,156 @@
+{
+  "institution": {
+    "institution_id": "359",
+    "name": "Tshwane University of Technology",
+    "institution_type": "university-of-technology",
+    "city": "Pretoria West",
+    "province": "Gauteng",
+    "official_website": "https://www.tut.ac.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/359/tshwane-university-of-technology",
+    "source_paths": [
+      "enriched_universities.json",
+      "generated/v3/institutions.enriched.json",
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "short_name": "TUT",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/5/58/Tshwane_University_of_Technology_logo.png",
+      "colors": [
+        "Red",
+        "Blue"
+      ],
+      "motto": "We empower people",
+      "type": "University of Technology",
+      "languages": [
+        "English"
+      ],
+      "student_estimate": "60,000+",
+      "sports_affiliations": []
+    }
+  },
+  "campuses": [
+    {
+      "id": "camp:2e209a124a6ef0a0",
+      "institution_id": "359",
+      "name": "Arcadia Campus",
+      "city": "Pretoria",
+      "province": "Gauteng",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "camp:09b02c776d42df29",
+      "institution_id": "359",
+      "name": "Arts Campus",
+      "city": "Pretoria",
+      "province": "Gauteng",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "camp:6aa99d1deacc722b",
+      "institution_id": "359",
+      "name": "Ga-Rankuwa Campus",
+      "city": "Ga-Rankuwa",
+      "province": "Gauteng",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "camp:31d548a284100652",
+      "institution_id": "359",
+      "name": "Pretoria Campus",
+      "city": "Pretoria West",
+      "province": "Gauteng",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    }
+  ],
+  "faculties_best": [
+    {
+      "id": "fac:f61a0d12899e8e0d",
+      "institution_id": "359",
+      "institution_name": null,
+      "name": "Science Part 8",
+      "kind": null,
+      "overview": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "generated/v1/faculties.final.json"
+      ]
+    }
+  ],
+  "faculties_all": [
+    {
+      "id": "fac:f61a0d12899e8e0d",
+      "institution_id": "359",
+      "institution_name": null,
+      "name": "Science Part 8",
+      "kind": null,
+      "overview": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "generated/v1/faculties.final.json"
+      ]
+    },
+    {
+      "id": "fac:f61a0d12899e8e0d",
+      "institution_id": "359",
+      "institution_name": null,
+      "name": "Science Part 8",
+      "kind": null,
+      "overview": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "generated/v1/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:f61a0d12899e8e0d",
+      "institution_id": "359",
+      "institution_name": null,
+      "name": "Science Part 8",
+      "kind": null,
+      "overview": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "generated/v1/faculties.raw.json"
+      ]
+    },
+    {
+      "id": "fac:f61a0d12899e8e0d",
+      "institution_id": "359",
+      "institution_name": null,
+      "name": "Science Part 8",
+      "kind": null,
+      "overview": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "output/v1/faculties.json"
+      ]
+    }
+  ],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 4,
+    "faculties_best": 1,
+    "faculties_all": 4,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

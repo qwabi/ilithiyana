@@ -1,0 +1,1933 @@
+[
+  {
+    "name": "University of Cape Town",
+    "short_name": "UCT",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/University_of_Cape_Town_logo.svg/512px-University_of_Cape_Town_logo.svg.png",
+    "colors": [
+      "Light blue",
+      "dark blue",
+      "black",
+      "white"
+    ],
+    "motto": "Spes Bona",
+    "type": "Traditional University",
+    "languages": [
+      "English"
+    ],
+    "student_estimate": "28,233",
+    "nickname": "Ikeys",
+    "mascot": "Ikey Tiger",
+    "sports_affiliations": [
+      "Varsity Cup"
+    ],
+    "city_name": "Cape Town",
+    "campuses": [
+      {
+        "name": "Upper Campus",
+        "city": "Rondebosch",
+        "province": "Western Cape",
+        "type": "Main teaching campus",
+        "coordinates": {
+          "lat": -33.9575,
+          "lng": 18.4606
+        }
+      },
+      {
+        "name": "Middle Campus",
+        "city": "Rondebosch",
+        "province": "Western Cape",
+        "type": "Academic and administrative",
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      {
+        "name": "Lower Campus",
+        "city": "Rondebosch",
+        "province": "Western Cape",
+        "type": "Residential and arts",
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      {
+        "name": "Health Sciences Campus",
+        "city": "Observatory",
+        "province": "Western Cape",
+        "type": "Medical school",
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      {
+        "name": "Hiddingh Campus",
+        "city": "Cape Town CBD",
+        "province": "Western Cape",
+        "type": "Arts and Drama",
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      {
+        "name": "Breakwater Lodge Campus",
+        "city": "V&A Waterfront",
+        "province": "Western Cape",
+        "type": "Business School",
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      }
+    ],
+    "faculties": [
+      {
+        "name": "Commerce",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Engineering & the Built Environment",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Health Sciences",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Humanities",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Law",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Science",
+        "type": "Faculty",
+        "description": null
+      }
+    ]
+  },
+  {
+    "name": "University of Fort Hare",
+    "short_name": "UFH",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/5/5e/University_of_Fort_Hare_logo.png",
+    "colors": [
+      "Blue",
+      "White",
+      "Yellow"
+    ],
+    "motto": "In lumine tuo videbimus lumen",
+    "type": "Traditional University",
+    "languages": [
+      "English"
+    ],
+    "student_estimate": "13,331",
+    "nickname": null,
+    "mascot": null,
+    "sports_affiliations": [],
+    "city_name": "Alice",
+    "campuses": [
+      {
+        "name": "Alice Campus",
+        "city": "Alice",
+        "province": "Eastern Cape",
+        "type": "Main campus",
+        "coordinates": {
+          "lat": -32.7875,
+          "lng": 26.8475
+        }
+      },
+      {
+        "name": "East London Campus",
+        "city": "East London",
+        "province": "Eastern Cape",
+        "type": "Urban campus",
+        "coordinates": {
+          "lat": -33.0153,
+          "lng": 27.9056
+        }
+      },
+      {
+        "name": "Bhisho Campus",
+        "city": "Bhisho",
+        "province": "Eastern Cape",
+        "type": "Public management",
+        "coordinates": {
+          "lat": -32.8464,
+          "lng": 27.4392
+        }
+      }
+    ],
+    "faculties": [
+      {
+        "name": "Education",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Law",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Management & Commerce",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Science & Agriculture",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Social Sciences & Humanities",
+        "type": "Faculty",
+        "description": null
+      }
+    ]
+  },
+  {
+    "name": "University of the Free State",
+    "short_name": "UFS",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/0/0b/University_of_the_Free_State_logo.png",
+    "colors": [
+      "Blue",
+      "White",
+      "Red"
+    ],
+    "motto": "In Veritate Sapientiae Lux",
+    "type": "Traditional University",
+    "languages": [
+      "English",
+      "Afrikaans",
+      "Sesotho"
+    ],
+    "student_estimate": "41,169",
+    "nickname": "Kovsies",
+    "mascot": null,
+    "sports_affiliations": [
+      "Varsity Cup"
+    ],
+    "city_name": "Bloemfontein",
+    "campuses": [
+      {
+        "name": "Bloemfontein Campus",
+        "city": "Bloemfontein",
+        "province": "Free State",
+        "type": "Main campus",
+        "coordinates": {
+          "lat": -29.1044,
+          "lng": 26.1753
+        }
+      },
+      {
+        "name": "South Campus",
+        "city": "Bloemfontein",
+        "province": "Free State",
+        "type": "Distance learning and administration",
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      {
+        "name": "Qwaqwa Campus",
+        "city": "Phuthaditjhaba",
+        "province": "Free State",
+        "type": "Academic",
+        "coordinates": {
+          "lat": -28.4725,
+          "lng": 28.8256
+        }
+      }
+    ],
+    "faculties": [
+      {
+        "name": "Economic and Management Sciences",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Education",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Health Sciences",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Law",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Natural and Agricultural Sciences",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "The Humanities",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Theology and Religion",
+        "type": "Faculty",
+        "description": null
+      }
+    ]
+  },
+  {
+    "name": "University of Johannesburg",
+    "short_name": "UJ",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/6/62/University_of_Johannesburg_logo.svg",
+    "colors": [
+      "Orange",
+      "Yellow",
+      "White"
+    ],
+    "motto": "Diens Deur Kennis (Afrikaans)",
+    "type": "Comprehensive University",
+    "languages": [
+      "English",
+      "Afrikaans"
+    ],
+    "student_estimate": 50786,
+    "nickname": "UJ",
+    "mascot": "University of Johannesburg Hoopoe \"Hoepie\"",
+    "sports_affiliations": [],
+    "city_name": "Johannesburg",
+    "campuses": [
+      {
+        "name": "Auckland Park Kingsway (APK)",
+        "city": "Johannesburg",
+        "province": "Gauteng",
+        "type": null,
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      {
+        "name": "Auckland Park Bunting Road (APB)",
+        "city": "Johannesburg",
+        "province": "Gauteng",
+        "type": null,
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      {
+        "name": "Doornfontein (DFC)",
+        "city": "Johannesburg",
+        "province": "Gauteng",
+        "type": null,
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      {
+        "name": "Soweto (SWC)",
+        "city": "Johannesburg",
+        "province": "Gauteng",
+        "type": null,
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      }
+    ],
+    "faculties": [
+      {
+        "name": "Art, Design and Architecture",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Health Sciences",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Engineering and Built Environment",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Science",
+        "type": "Faculty",
+        "description": null
+      }
+    ]
+  },
+  {
+    "name": "University of KwaZulu-Natal",
+    "short_name": "UKZN",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/7/7c/University_of_KwaZulu-Natal_logo.svg",
+    "colors": [
+      "Black",
+      "Red"
+    ],
+    "motto": "Inspiring Greatness",
+    "type": "Traditional University",
+    "languages": [
+      "English",
+      "isiZulu"
+    ],
+    "student_estimate": "46,539",
+    "nickname": "Natal",
+    "mascot": null,
+    "sports_affiliations": [
+      "Varsity Cup"
+    ],
+    "city_name": "Durban",
+    "campuses": [
+      {
+        "name": "Westville Campus",
+        "city": "Westville",
+        "province": "KwaZulu-Natal",
+        "type": "Main campus",
+        "coordinates": {
+          "lat": -29.8176,
+          "lng": 30.9443
+        }
+      },
+      {
+        "name": "Howard College Campus",
+        "city": "Durban",
+        "province": "KwaZulu-Natal",
+        "type": "Academic and administrative",
+        "coordinates": {
+          "lat": -29.8675,
+          "lng": 30.9808
+        }
+      },
+      {
+        "name": "Pietermaritzburg Campus",
+        "city": "Pietermaritzburg",
+        "province": "KwaZulu-Natal",
+        "type": "Academic",
+        "coordinates": {
+          "lat": -29.6214,
+          "lng": 30.3956
+        }
+      },
+      {
+        "name": "Nelson Mandela School of Medicine",
+        "city": "Durban",
+        "province": "KwaZulu-Natal",
+        "type": "Medical school",
+        "coordinates": {
+          "lat": -29.8672,
+          "lng": 30.9937
+        }
+      },
+      {
+        "name": "Edgewood Campus",
+        "city": "Pinetown",
+        "province": "KwaZulu-Natal",
+        "type": "Education",
+        "coordinates": {
+          "lat": -29.8242,
+          "lng": 30.8419
+        }
+      }
+    ],
+    "faculties": [
+      {
+        "name": "Agriculture, Engineering and Science",
+        "type": "College",
+        "description": null
+      },
+      {
+        "name": "Health Sciences",
+        "type": "College",
+        "description": null
+      },
+      {
+        "name": "Humanities",
+        "type": "College",
+        "description": null
+      },
+      {
+        "name": "Law and Management Studies",
+        "type": "College",
+        "description": null
+      }
+    ]
+  },
+  {
+    "name": "University of Limpopo",
+    "short_name": "UL",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/2/2b/University_of_Limpopo_logo.png",
+    "colors": [
+      "Yellow",
+      "Green"
+    ],
+    "motto": "Finding solutions for Africa!",
+    "type": "Traditional University",
+    "languages": [
+      "English"
+    ],
+    "student_estimate": "20,600",
+    "nickname": "Turfloop",
+    "mascot": null,
+    "sports_affiliations": [],
+    "city_name": "Polokwane",
+    "campuses": [
+      {
+        "name": "Turfloop Campus",
+        "city": "Mankweng",
+        "province": "Limpopo",
+        "type": "Main campus",
+        "coordinates": {
+          "lat": -23.886,
+          "lng": 29.738
+        }
+      }
+    ],
+    "faculties": [
+      {
+        "name": "Humanities",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Management and Law",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Science and Agriculture",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Health Sciences",
+        "type": "Faculty",
+        "description": null
+      }
+    ]
+  },
+  {
+    "name": "University of Mpumalanga",
+    "short_name": "UMP",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/0/08/University_of_Mpumalanga_logo.png",
+    "colors": null,
+    "motto": null,
+    "type": "Comprehensive University",
+    "languages": null,
+    "student_estimate": null,
+    "nickname": null,
+    "mascot": null,
+    "sports_affiliations": null,
+    "city_name": "Mbombela",
+    "campuses": [],
+    "faculties": []
+  },
+  {
+    "name": "Nelson Mandela University",
+    "short_name": "NMU",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/a/a4/Nelson_Mandela_University_logo.png",
+    "colors": [
+      "Blue"
+    ],
+    "motto": "Change the world |",
+    "type": "Comprehensive University",
+    "languages": [],
+    "student_estimate": 28000,
+    "nickname": "Madibaz |",
+    "mascot": "Diba the Dolphin |",
+    "sports_affiliations": [
+      "FNB Varsity Cup"
+    ],
+    "city_name": "Gqeberha",
+    "campuses": [
+      {
+        "name": "South",
+        "city": null,
+        "province": null,
+        "type": null,
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      {
+        "name": "Campus",
+        "city": null,
+        "province": null,
+        "type": null,
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      {
+        "name": "2nd Avenue",
+        "city": null,
+        "province": null,
+        "type": null,
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      {
+        "name": "Missionvale",
+        "city": "Gqeberha",
+        "province": null,
+        "type": null,
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      {
+        "name": "Bird Street",
+        "city": null,
+        "province": null,
+        "type": null,
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      {
+        "name": "George",
+        "city": "George",
+        "province": null,
+        "type": null,
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      }
+    ],
+    "faculties": []
+  },
+  {
+    "name": "North-West University",
+    "short_name": "NWU",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/0/02/North-West_University_logo.svg",
+    "colors": [
+      "Purple",
+      "turquoise",
+      "grey"
+    ],
+    "motto": "Dit Begin Alles Hier (Afrikaans)",
+    "type": "Comprehensive University",
+    "languages": [],
+    "student_estimate": 43642,
+    "nickname": "NWU",
+    "mascot": "Eagi (main mascot) Mafika, Pukki, Vuvu (siblings)",
+    "sports_affiliations": [],
+    "city_name": "Potchefstroom",
+    "campuses": [
+      {
+        "name": "Mahikeng Campus",
+        "city": "Mahikeng",
+        "province": "North West",
+        "type": null,
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      {
+        "name": "Potchefstroom Campus",
+        "city": "Potchefstroom",
+        "province": "North West",
+        "type": "main campus",
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      {
+        "name": "Vanderbijlpark Campus",
+        "city": "Vanderbijlpark",
+        "province": "Gauteng",
+        "type": null,
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      }
+    ],
+    "faculties": [
+      {
+        "name": "Economic and Management Sciences",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Education",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Engineering",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Health Sciences",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Humanities",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Law",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Natural and Agricultural Sciences",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Theology",
+        "type": "Faculty",
+        "description": null
+      }
+    ]
+  },
+  {
+    "name": "University of Pretoria",
+    "short_name": "UP",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/9/9d/University_of_Pretoria_logo.svg",
+    "colors": [
+      "Blue",
+      "Gold",
+      "Red"
+    ],
+    "motto": "Ad destinatum persequor",
+    "type": "Traditional University",
+    "languages": [
+      "English"
+    ],
+    "student_estimate": "56,409",
+    "nickname": "Tuks",
+    "mascot": "Pery the Perdeby",
+    "sports_affiliations": [
+      "Varsity Cup"
+    ],
+    "city_name": "Pretoria",
+    "campuses": [
+      {
+        "name": "Hatfield Campus",
+        "city": "Hatfield",
+        "province": "Gauteng",
+        "type": "Main campus",
+        "coordinates": {
+          "lat": -25.7536,
+          "lng": 28.2297
+        }
+      },
+      {
+        "name": "Hillcrest Campus",
+        "city": "Hatfield",
+        "province": "Gauteng",
+        "type": "Sports campus",
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      {
+        "name": "Groenkloof Campus",
+        "city": "Groenkloof",
+        "province": "Gauteng",
+        "type": "Education",
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      {
+        "name": "Prinshof Campus",
+        "city": "Pretoria",
+        "province": "Gauteng",
+        "type": "Health Sciences",
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      {
+        "name": "Onderstepoort Campus",
+        "city": "Onderstepoort",
+        "province": "Gauteng",
+        "type": "Veterinary Science",
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      {
+        "name": "Mamelodi Campus",
+        "city": "Mamelodi",
+        "province": "Gauteng",
+        "type": "Community engagement",
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      {
+        "name": "GIBS Campus",
+        "city": "Illovo",
+        "province": "Gauteng",
+        "type": "Business School",
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      }
+    ],
+    "faculties": [
+      {
+        "name": "Economic and Management Sciences",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Education",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Engineering, Built Environment and Information Technology",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Health Sciences",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Humanities",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Law",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Natural and Agricultural Sciences",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Theology and Religion",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Veterinary Science",
+        "type": "Faculty",
+        "description": null
+      }
+    ]
+  },
+  {
+    "name": "Rhodes University",
+    "short_name": "RU",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/7/79/Rhodes_University_logo.svg",
+    "colors": [],
+    "motto": "Where leaders learn",
+    "type": "Traditional University",
+    "languages": [],
+    "student_estimate": 7005,
+    "nickname": "Rhodian",
+    "mascot": null,
+    "sports_affiliations": [],
+    "city_name": "Makhanda",
+    "campuses": [
+      {
+        "name": "Main Campus",
+        "city": "Makhanda",
+        "province": "Eastern Cape",
+        "type": "Urban",
+        "coordinates": {
+          "lat": -33.31361,
+          "lng": 26.51972
+        }
+      }
+    ],
+    "faculties": [
+      {
+        "name": "Humanities (1952)",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Commerce",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Law",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Science",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Education",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Pharmacy",
+        "type": "Faculty",
+        "description": null
+      }
+    ]
+  },
+  {
+    "name": "Sefako Makgatho Health Sciences University",
+    "short_name": "SMU",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/b/b3/Sefako_Makgatho_Health_Sciences_University_logo.png",
+    "colors": [
+      "Orange",
+      "Blue",
+      "White"
+    ],
+    "motto": "Knowledge for Quality Health Services",
+    "type": "Health Sciences University",
+    "languages": [
+      "English"
+    ],
+    "student_estimate": "7,000",
+    "nickname": null,
+    "mascot": null,
+    "sports_affiliations": [],
+    "city_name": "Pretoria",
+    "campuses": [
+      {
+        "name": "Ga-Rankuwa Campus",
+        "city": "Ga-Rankuwa",
+        "province": "Gauteng",
+        "type": "Main campus",
+        "coordinates": {
+          "lat": -25.6189,
+          "lng": 28.0228
+        }
+      }
+    ],
+    "faculties": [
+      {
+        "name": "Medicine",
+        "type": "School",
+        "description": null
+      },
+      {
+        "name": "Oral Health Sciences",
+        "type": "School",
+        "description": null
+      },
+      {
+        "name": "Pharmacy",
+        "type": "School",
+        "description": null
+      },
+      {
+        "name": "Health Care Sciences",
+        "type": "School",
+        "description": null
+      },
+      {
+        "name": "Science and Technology",
+        "type": "School",
+        "description": null
+      }
+    ]
+  },
+  {
+    "name": "Sol Plaatje University",
+    "short_name": "SPU",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/f/f7/Sol_Plaatje_University_logo.png",
+    "colors": null,
+    "motto": null,
+    "type": "Comprehensive University",
+    "languages": null,
+    "student_estimate": null,
+    "nickname": null,
+    "mascot": null,
+    "sports_affiliations": null,
+    "city_name": "Kimberley",
+    "campuses": [],
+    "faculties": []
+  },
+  {
+    "name": "University of South Africa",
+    "short_name": "UNISA",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/3/36/University_of_South_Africa_logo.svg",
+    "colors": [
+      "Blue",
+      "Red",
+      "Black"
+    ],
+    "motto": "Learn to serve",
+    "type": "Distance Learning University",
+    "languages": [
+      "English"
+    ],
+    "student_estimate": "370,000+",
+    "nickname": null,
+    "mascot": null,
+    "sports_affiliations": [],
+    "city_name": "Pretoria",
+    "campuses": [
+      {
+        "name": "Muckleneuk Campus",
+        "city": "Pretoria",
+        "province": "Gauteng",
+        "type": "Main administrative campus",
+        "coordinates": {
+          "lat": -25.7667,
+          "lng": 28.1975
+        }
+      },
+      {
+        "name": "Sunnyside Campus",
+        "city": "Pretoria",
+        "province": "Gauteng",
+        "type": "Student service centre",
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      {
+        "name": "Florida Campus",
+        "city": "Johannesburg",
+        "province": "Gauteng",
+        "type": "Science and Agriculture",
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      }
+    ],
+    "faculties": [
+      {
+        "name": "Accounting Sciences",
+        "type": "College",
+        "description": null
+      },
+      {
+        "name": "Agriculture and Environmental Sciences",
+        "type": "College",
+        "description": null
+      },
+      {
+        "name": "Economic and Management Sciences",
+        "type": "College",
+        "description": null
+      },
+      {
+        "name": "Education",
+        "type": "College",
+        "description": null
+      },
+      {
+        "name": "Graduate Studies",
+        "type": "College",
+        "description": null
+      },
+      {
+        "name": "Human Sciences",
+        "type": "College",
+        "description": null
+      },
+      {
+        "name": "Law",
+        "type": "College",
+        "description": null
+      },
+      {
+        "name": "Science, Engineering and Technology",
+        "type": "College",
+        "description": null
+      }
+    ]
+  },
+  {
+    "name": "Stellenbosch University",
+    "short_name": "SU",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/6/67/Stellenbosch_University_logo.svg",
+    "colors": [
+      "Confident Maroon",
+      "Brilliant Gold"
+    ],
+    "motto": "Pectora roborant cultus recti",
+    "type": "Traditional University",
+    "languages": [
+      "Afrikaans",
+      "English",
+      "isiXhosa"
+    ],
+    "student_estimate": "32,000+",
+    "nickname": "Maties",
+    "mascot": "Pokkel",
+    "sports_affiliations": [
+      "Varsity Cup"
+    ],
+    "city_name": "Stellenbosch",
+    "campuses": [
+      {
+        "name": "Stellenbosch Campus",
+        "city": "Stellenbosch",
+        "province": "Western Cape",
+        "type": "Main campus",
+        "coordinates": {
+          "lat": -33.9328,
+          "lng": 18.8642
+        }
+      },
+      {
+        "name": "Tygerberg Campus",
+        "city": "Bellville",
+        "province": "Western Cape",
+        "type": "Health Sciences",
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      {
+        "name": "Bellville Park Campus",
+        "city": "Bellville",
+        "province": "Western Cape",
+        "type": "Business School",
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      {
+        "name": "Saldanha Campus",
+        "city": "Saldanha Bay",
+        "province": "Western Cape",
+        "type": "Military Science",
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      {
+        "name": "Ukwanda Rural Clinical School",
+        "city": "Worcester",
+        "province": "Western Cape",
+        "type": "Rural clinical training",
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      }
+    ],
+    "faculties": [
+      {
+        "name": "AgriSciences",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Arts and Social Sciences",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Economic and Management Sciences",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Education",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Engineering",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Law",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Medicine and Health Sciences",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Military Science",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Science",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Theology",
+        "type": "Faculty",
+        "description": null
+      }
+    ]
+  },
+  {
+    "name": "Walter Sisulu University",
+    "short_name": "WSU",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/5/56/Walter_Sisulu_University_logo.png",
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "motto": "In pursuit of excellence",
+    "type": "Comprehensive University",
+    "languages": [],
+    "student_estimate": 31500,
+    "nickname": "WSU",
+    "mascot": null,
+    "sports_affiliations": [],
+    "city_name": "Mthatha",
+    "campuses": [
+      {
+        "name": "Mthatha",
+        "city": "Mthatha",
+        "province": "Eastern Cape",
+        "type": null,
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      {
+        "name": "Buffalo City",
+        "city": "East London",
+        "province": "Eastern Cape",
+        "type": null,
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      {
+        "name": "Butterworth",
+        "city": "Butterworth",
+        "province": "Eastern Cape",
+        "type": null,
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      {
+        "name": "Komani",
+        "city": "Queenstown",
+        "province": "Eastern Cape",
+        "type": null,
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      }
+    ],
+    "faculties": [
+      {
+        "name": "Faculty of Science, Engineering and Technology",
+        "type": null,
+        "description": null
+      },
+      {
+        "name": "Faculty of Business Sciences",
+        "type": null,
+        "description": null
+      },
+      {
+        "name": "Faculty of Engineering and Technology",
+        "type": null,
+        "description": null
+      },
+      {
+        "name": "Faculty of Education",
+        "type": null,
+        "description": null
+      },
+      {
+        "name": "Faculty of Education and School Development",
+        "type": null,
+        "description": null
+      },
+      {
+        "name": "Faculty of Economics and Information Technology Systems",
+        "type": null,
+        "description": null
+      },
+      {
+        "name": "Faculty of Health Sciences",
+        "type": null,
+        "description": null
+      },
+      {
+        "name": "Faculty of Educational Sciences",
+        "type": null,
+        "description": null
+      },
+      {
+        "name": "Faculty of Humanities, Social Sciences and Law",
+        "type": null,
+        "description": null
+      },
+      {
+        "name": "Faculty of Natural Sciences",
+        "type": null,
+        "description": null
+      },
+      {
+        "name": "Faculty of Commerce and Administrations",
+        "type": null,
+        "description": null
+      }
+    ]
+  },
+  {
+    "name": "University of Venda",
+    "short_name": "UNIVEN",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/0/0f/University_of_Venda_logo.png",
+    "colors": null,
+    "motto": null,
+    "type": "Comprehensive University",
+    "languages": null,
+    "student_estimate": null,
+    "nickname": null,
+    "mascot": null,
+    "sports_affiliations": null,
+    "city_name": "Thohoyandou",
+    "campuses": [],
+    "faculties": []
+  },
+  {
+    "name": "University of the Western Cape",
+    "short_name": "UWC",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/7/71/University_of_the_Western_Cape_logo.png",
+    "colors": [
+      "Blue",
+      "Yellow"
+    ],
+    "motto": "Respice Prospice",
+    "type": "Comprehensive University",
+    "languages": [
+      "English",
+      "Afrikaans",
+      "isiXhosa"
+    ],
+    "student_estimate": "23,000+",
+    "nickname": "Bush",
+    "mascot": "Bushie",
+    "sports_affiliations": [],
+    "city_name": "Cape Town",
+    "campuses": [
+      {
+        "name": "Main Campus",
+        "city": "Bellville",
+        "province": "Western Cape",
+        "type": "Main campus",
+        "coordinates": {
+          "lat": -33.933,
+          "lng": 18.633
+        }
+      },
+      {
+        "name": "Tygerberg Campus",
+        "city": "Bellville",
+        "province": "Western Cape",
+        "type": "Oral Health Centre",
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      }
+    ],
+    "faculties": [
+      {
+        "name": "Arts and Humanities",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Community and Health Sciences",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Dentistry",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Economic and Management Sciences",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Education",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Law",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Natural Sciences",
+        "type": "Faculty",
+        "description": null
+      }
+    ]
+  },
+  {
+    "name": "University of the Witwatersrand",
+    "short_name": "Wits",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/0/0e/University_of_the_Witwatersrand_logo.svg",
+    "colors": [
+      "Blue",
+      "Gold"
+    ],
+    "motto": "Scientia et Labore",
+    "type": "Traditional University",
+    "languages": [
+      "English"
+    ],
+    "student_estimate": "40,259",
+    "nickname": "Witsies",
+    "mascot": "Kudos Kudu",
+    "sports_affiliations": [
+      "Varsity Cup"
+    ],
+    "city_name": "Johannesburg",
+    "campuses": [
+      {
+        "name": "East Campus",
+        "city": "Braamfontein",
+        "province": "Gauteng",
+        "type": "Main campus",
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      {
+        "name": "West Campus",
+        "city": "Braamfontein",
+        "province": "Gauteng",
+        "type": "Professional and Science",
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      {
+        "name": "Medical School",
+        "city": "Parktown",
+        "province": "Gauteng",
+        "type": "Health Sciences",
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      {
+        "name": "Education Campus",
+        "city": "Parktown",
+        "province": "Gauteng",
+        "type": "Education",
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      {
+        "name": "Management Campus",
+        "city": "Parktown",
+        "province": "Gauteng",
+        "type": "Business School",
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      {
+        "name": "Wits Rural Campus",
+        "city": "Bushbuckridge",
+        "province": "Mpumalanga",
+        "type": "Research",
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      }
+    ],
+    "faculties": [
+      {
+        "name": "Commerce, Law and Management",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Engineering and the Built Environment",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Health Sciences",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Humanities",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Science",
+        "type": "Faculty",
+        "description": null
+      }
+    ]
+  },
+  {
+    "name": "University of Zululand",
+    "short_name": "UNIZULU",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/4/45/University_of_Zululand_logo.png",
+    "colors": null,
+    "motto": null,
+    "type": "Comprehensive University",
+    "languages": null,
+    "student_estimate": null,
+    "nickname": null,
+    "mascot": null,
+    "sports_affiliations": null,
+    "city_name": "Empangeni",
+    "campuses": [],
+    "faculties": []
+  },
+  {
+    "name": "Cape Peninsula University of Technology",
+    "short_name": "CPUT",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/8/89/Cape_Peninsula_University_of_Technology_logo.png",
+    "colors": [
+      "Blue",
+      "White"
+    ],
+    "motto": "Creating Futures",
+    "type": "University of Technology",
+    "languages": [],
+    "student_estimate": 35000,
+    "nickname": null,
+    "mascot": null,
+    "sports_affiliations": [],
+    "city_name": "Cape Town",
+    "campuses": [],
+    "faculties": [
+      {
+        "name": "Applied Science",
+        "type": null,
+        "description": null
+      },
+      {
+        "name": "Business",
+        "type": null,
+        "description": null
+      },
+      {
+        "name": "Education and Social Sciences",
+        "type": null,
+        "description": null
+      },
+      {
+        "name": "Engineering",
+        "type": null,
+        "description": null
+      },
+      {
+        "name": "Health and Wellness Sciences",
+        "type": null,
+        "description": null
+      },
+      {
+        "name": "Informatics & Design",
+        "type": null,
+        "description": null
+      }
+    ]
+  },
+  {
+    "name": "Central University of Technology",
+    "short_name": "CUT",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/5/54/Central_University_of_Technology_logo.png",
+    "colors": null,
+    "motto": null,
+    "type": "University of Technology",
+    "languages": null,
+    "student_estimate": null,
+    "nickname": null,
+    "mascot": null,
+    "sports_affiliations": null,
+    "city_name": "Bloemfontein",
+    "campuses": [],
+    "faculties": []
+  },
+  {
+    "name": "Durban University of Technology",
+    "short_name": "DUT",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/e/e4/Durban_University_of_Technology_logo.png",
+    "colors": [
+      "Baby blue",
+      "purple",
+      "green",
+      "red",
+      "royal blue",
+      "light purple"
+    ],
+    "motto": "Creative. Distinctive. Impactful.",
+    "type": "University of Technology",
+    "languages": [],
+    "student_estimate": 31991,
+    "nickname": null,
+    "mascot": null,
+    "sports_affiliations": [],
+    "city_name": "Durban",
+    "campuses": [
+      {
+        "name": "Brickfield Campus",
+        "city": "Durban",
+        "province": null,
+        "type": null,
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      {
+        "name": "City Campus",
+        "city": "Durban",
+        "province": null,
+        "type": null,
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      {
+        "name": "Indumiso Campus",
+        "city": "Pietermaritzburg",
+        "province": null,
+        "type": null,
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      {
+        "name": "ML Sultan Campus",
+        "city": "Durban",
+        "province": null,
+        "type": null,
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      {
+        "name": "Ritson Campus",
+        "city": "Durban",
+        "province": null,
+        "type": null,
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      {
+        "name": "Riverside Campus",
+        "city": "Pietermaritzburg",
+        "province": null,
+        "type": null,
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      {
+        "name": "Steve Biko Campus",
+        "city": "Durban",
+        "province": null,
+        "type": null,
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      }
+    ],
+    "faculties": [
+      {
+        "name": "Faculty of Accounting & Informatics",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Faculty of Applied Sciences",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Faculty of Arts & Design",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Faculty of Engineering & the Built Environment",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Faculty of Health Sciences",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Faculty of Management Sciences",
+        "type": "Faculty",
+        "description": null
+      }
+    ]
+  },
+  {
+    "name": "Mangosuthu University of Technology",
+    "short_name": "MUT",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/5/5b/Mangosuthu_University_of_Technology_logo.png",
+    "colors": [
+      "Maroon",
+      "Gold",
+      "Black",
+      "White"
+    ],
+    "motto": "shape and own the future",
+    "type": "University of Technology",
+    "languages": [],
+    "student_estimate": 13000,
+    "nickname": "MUT",
+    "mascot": null,
+    "sports_affiliations": [],
+    "city_name": "Durban",
+    "campuses": [],
+    "faculties": []
+  },
+  {
+    "name": "Tshwane University of Technology",
+    "short_name": "TUT",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/5/58/Tshwane_University_of_Technology_logo.png",
+    "colors": [
+      "Red",
+      "Blue"
+    ],
+    "motto": "We empower people",
+    "type": "University of Technology",
+    "languages": [
+      "English"
+    ],
+    "student_estimate": "60,000+",
+    "nickname": null,
+    "mascot": null,
+    "sports_affiliations": [],
+    "city_name": "Pretoria",
+    "campuses": [
+      {
+        "name": "Pretoria Campus",
+        "city": "Pretoria West",
+        "province": "Gauteng",
+        "type": "Main campus",
+        "coordinates": {
+          "lat": -25.7325,
+          "lng": 28.1636
+        }
+      },
+      {
+        "name": "Arcadia Campus",
+        "city": "Pretoria",
+        "province": "Gauteng",
+        "type": "Applied Science",
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      {
+        "name": "Arts Campus",
+        "city": "Pretoria",
+        "province": "Gauteng",
+        "type": "Arts",
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      {
+        "name": "Ga-Rankuwa Campus",
+        "city": "Ga-Rankuwa",
+        "province": "Gauteng",
+        "type": "Economics and Finance",
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      }
+    ],
+    "faculties": [
+      {
+        "name": "Arts and Design",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Economics and Finance",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Engineering and the Built Environment",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Humanities",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Information and Communication Technology",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Management Sciences",
+        "type": "Faculty",
+        "description": null
+      },
+      {
+        "name": "Science",
+        "type": "Faculty",
+        "description": null
+      }
+    ]
+  },
+  {
+    "name": "Vaal University of Technology",
+    "short_name": "VUT",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/f/f2/Vaal_University_of_Technology_logo.png",
+    "colors": [
+      "Sapphire",
+      "Gold",
+      "Dandelion"
+    ],
+    "motto": "Inspiring thought, Shaping Talent",
+    "type": "University of Technology",
+    "languages": [
+      "English"
+    ],
+    "student_estimate": 19000,
+    "nickname": null,
+    "mascot": null,
+    "sports_affiliations": [
+      "Athletics",
+      "Basketball",
+      "Beach Volleyball",
+      "Cricket",
+      "Men's football",
+      "Women's football",
+      "Field hockey",
+      "Netball",
+      "Rugby union",
+      "Rugby sevens",
+      "Mountain biking"
+    ],
+    "city_name": "Vanderbijlpark",
+    "campuses": [
+      {
+        "name": "Vanderbijlpark",
+        "city": "Vanderbijlpark",
+        "province": "Gauteng",
+        "type": null,
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      {
+        "name": "Educity",
+        "city": "Sebokeng",
+        "province": "Gauteng",
+        "type": null,
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      }
+    ],
+    "faculties": [
+      {
+        "name": "Applied and Computer Science",
+        "type": null,
+        "description": null
+      },
+      {
+        "name": "Engineering and Technology",
+        "type": null,
+        "description": null
+      },
+      {
+        "name": "Humanities",
+        "type": null,
+        "description": null
+      },
+      {
+        "name": "Management Science",
+        "type": null,
+        "description": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "institution_id": "pe-tvet",
+  "institution_name": "Port Elizabeth TVET College",
+  "institution_type": "tvet-college",
+  "campuses": [
+    { "name": "Dower", "city": "Gqeberha", "is_main": false },
+    { "name": "Russell Road", "city": "Gqeberha", "is_main": true },
+    { "name": "Struandale", "city": "Gqeberha", "is_main": false }
+  ],
+  "faculties": [
+    {
+      "name": "Business Studies",
+      "overview": "Marketing, Finance, HR, and Management Assistant."
+    },
+    {
+      "name": "Engineering & Utility",
+      "overview": "Mechatronics, Civil, Electrical, and Hospitality/Tourism."
+    }
+  ],
+  "programmes": [
+    {
+      "name": "NC(V) Mechatronics",
+      "qualification_type": "NC(V)",
+      "campus": "Struandale",
+      "overview": "Combines Mechanical and Electrical engineering with robotics."
+    },
+    {
+      "name": "NC(V) Safety in Society",
+      "qualification_type": "NC(V)",
+      "campus": "Dower",
+      "overview": "Preparation for policing, private security, and correctional services."
+    },
+    {
+      "name": "NATED Financial Management",
+      "qualification_type": "NATED",
+      "campus": "Russell Road",
+      "subjects_compulsory": [
+        { "subject": "Accounting", "notes": "Core module throughout N4-N6." }
+      ]
+    },
+    {
+      "name": "NC(V) Transport & Logistics",
+      "qualification_type": "NC(V)",
+      "campus": "Dower",
+      "overview": "Covers freight logistics and supply chain management."
+    },
+    {
+      "name": "NATED Management Assistant",
+      "qualification_type": "NATED",
+      "campus": "Dower",
+      "overview": "Focuses on office practice and information processing."
+    },
+    {
+      "name": "NC(V) Information Technology",
+      "qualification_type": "NC(V)",
+      "campus": "Russell Road",
+      "overview": "Systems development and computer programming focus."
+    },
+    {
+      "name": "NC(V) Engineering & Related Design",
+      "qualification_type": "NC(V)",
+      "campus": "Struandale",
+      "overview": "Fitting and Turning focus."
+    },
+    {
+      "name": "NATED Public Management",
+      "qualification_type": "NATED",
+      "campus": "Dower",
+      "overview": "Focuses on municipal admin and public law."
+    }
+  ]
+}

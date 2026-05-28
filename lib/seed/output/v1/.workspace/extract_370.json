@@ -1,0 +1,4486 @@
+{
+  "faculties": [
+    {
+      "institutionId": "370",
+      "name": "Theology and Religion 39",
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 845,
+        "char_end": 880,
+        "excerpt": "Faculty of Theology and Religion 39"
+      },
+      "normalization_key": "faculty|theology and religion 39"
+    },
+    {
+      "institutionId": "370",
+      "name": "Theology and Religion",
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 22154,
+        "char_end": 22186,
+        "excerpt": "Faculty of Theology and Religion"
+      },
+      "normalization_key": "faculty|theology and religion"
+    },
+    {
+      "institutionId": "370",
+      "name": "CLINICAL MEDICINE II SCHOOL OF PATHOLOGY II SCHOOL OF BIOMEDICAL SCIENCES",
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 35086,
+        "char_end": 35169,
+        "excerpt": "SCHOOL OF CLINICAL MEDICINE II SCHOOL OF PATHOLOGY II SCHOOL OF BIOMEDICAL SCIENCES"
+      },
+      "normalization_key": "faculty|clinical medicine ii school of pathology ii school of biomedical sciences"
+    },
+    {
+      "institutionId": "370",
+      "name": "THE HUMANITIES",
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 72882,
+        "char_end": 72907,
+        "excerpt": "FACULTY OF THE HUMANITIES"
+      },
+      "normalization_key": "faculty|the humanities"
+    },
+    {
+      "institutionId": "370",
+      "name": "THEOLOGY AND RELIGION",
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 84139,
+        "char_end": 84171,
+        "excerpt": "FACULTY OF THEOLOGY AND RELIGION"
+      },
+      "normalization_key": "faculty|theology and religion"
+    },
+    {
+      "institutionId": "370",
+      "name": "Economic and Management Sciences Faculty Manager +27 51 401 3825 EMSadvice@ufs.ac.za",
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 185664,
+        "char_end": 185759,
+        "excerpt": "Faculty of Economic and Management Sciences Faculty Manager +27 51 401 3825 EMSadvice@ufs.ac.za"
+      },
+      "normalization_key": "faculty|economic and management sciences faculty manager +27 51 401 3825 emsadvice@ufs.ac.za"
+    },
+    {
+      "institutionId": "370",
+      "name": "Education Faculty Manager +27 51 401 7891 eduinfo@ufs.ac.za",
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 185760,
+        "char_end": 185830,
+        "excerpt": "Faculty of Education Faculty Manager +27 51 401 7891 eduinfo@ufs.ac.za"
+      },
+      "normalization_key": "faculty|education faculty manager +27 51 401 7891 eduinfo@ufs.ac.za"
+    },
+    {
+      "institutionId": "370",
+      "name": "Health Sciences Lydia du Toit +27 51 401 3739 | 7513 fhsapplications@ufs.ac.za",
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 186554,
+        "char_end": 186643,
+        "excerpt": "Faculty of Health Sciences Lydia du Toit +27 51 401 3739 | 7513 fhsapplications@ufs.ac.za"
+      },
+      "normalization_key": "faculty|health sciences lydia du toit +27 51 401 3739 | 7513 fhsapplications@ufs.ac.za"
+    },
+    {
+      "institutionId": "370",
+      "name": "Health Sciences: School of Nursing Nwabisa Dinga +27 51 401 2246 nursingfhs@ufs.ac.za",
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 186838,
+        "char_end": 186934,
+        "excerpt": "Faculty of Health Sciences: School of Nursing Nwabisa Dinga +27 51 401 2246 nursingfhs@ufs.ac.za"
+      },
+      "normalization_key": "faculty|health sciences: school of nursing nwabisa dinga +27 51 401 2246 nursingfhs@ufs.ac.za"
+    },
+    {
+      "institutionId": "370",
+      "name": "The Humanities",
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 186935,
+        "char_end": 186960,
+        "excerpt": "Faculty of The Humanities"
+      },
+      "normalization_key": "faculty|the humanities"
+    },
+    {
+      "institutionId": "370",
+      "name": "Natural and Agricultural Sciences Elfrieda van den Berg +27 51 401 2531 vdberge@ufs.ac.za",
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 187143,
+        "char_end": 187243,
+        "excerpt": "Faculty of Natural and Agricultural Sciences Elfrieda van den Berg +27 51 401 2531 vdberge@ufs.ac.za"
+      },
+      "normalization_key": "faculty|natural and agricultural sciences elfrieda van den berg +27 51 401 2531 vdberge@ufs.ac.za"
+    },
+    {
+      "institutionId": "370",
+      "name": "Theology and Religion Academic Advising Office +27 51 401 2786 | 1620 theology@ufs.ac.za",
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 189112,
+        "char_end": 189211,
+        "excerpt": "Faculty of Theology and Religion Academic Advising Office +27 51 401 2786 | 1620 theology@ufs.ac.za"
+      },
+      "normalization_key": "faculty|theology and religion academic advising office +27 51 401 2786 | 1620 theology@ufs.ac.za"
+    },
+    {
+      "institutionId": "370",
+      "name": "Economic and Management Sciences Refiloe Majola +27 58 718 5410 MajolaRRM@ufs.ac.za",
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 193662,
+        "char_end": 193756,
+        "excerpt": "Faculty of Economic and Management Sciences Refiloe Majola +27 58 718 5410 MajolaRRM@ufs.ac.za"
+      },
+      "normalization_key": "faculty|economic and management sciences refiloe majola +27 58 718 5410 majolarrm@ufs.ac.za"
+    },
+    {
+      "institutionId": "370",
+      "name": "Education Thoko Madonsela +27 58 718 5005 MadonselaTJ@ufs.ac.za",
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 193899,
+        "char_end": 193973,
+        "excerpt": "Faculty of Education Thoko Madonsela +27 58 718 5005 MadonselaTJ@ufs.ac.za"
+      },
+      "normalization_key": "faculty|education thoko madonsela +27 58 718 5005 madonselatj@ufs.ac.za"
+    },
+    {
+      "institutionId": "370",
+      "name": "The Humanities Dr Grey Magaiza +27 58 718 5419 magaizag@ufs.ac.za",
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 194525,
+        "char_end": 194601,
+        "excerpt": "Faculty of The Humanities Dr Grey Magaiza +27 58 718 5419 magaizag@ufs.ac.za"
+      },
+      "normalization_key": "faculty|the humanities dr grey magaiza +27 58 718 5419 magaizag@ufs.ac.za"
+    },
+    {
+      "institutionId": "370",
+      "name": "Natural and Agricultural Sciences Dilahlwane Mohono +27 58 718 5284 mohonoDM@ufs.ac.za",
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 194744,
+        "char_end": 194841,
+        "excerpt": "Faculty of Natural and Agricultural Sciences Dilahlwane Mohono +27 58 718 5284 mohonoDM@ufs.ac.za"
+      },
+      "normalization_key": "faculty|natural and agricultural sciences dilahlwane mohono +27 58 718 5284 mohonodm@ufs.ac.za"
+    }
+  ],
+  "programmes": [
+    {
+      "id": "prog:370:Degree|970f519c2cad|ba",
+      "institutionId": "370",
+      "name": "BA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 6856,
+        "char_end": 6858,
+        "excerpt": "BA"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:370:Degree|970f519c2cad|ba",
+      "institutionId": "370",
+      "name": "ba",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 6963,
+        "char_end": 6965,
+        "excerpt": "ba"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:370:Degree|970f519c2cad|ba",
+      "institutionId": "370",
+      "name": "ba",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 7118,
+        "char_end": 7120,
+        "excerpt": "ba"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:370:Degree|970f519c2cad|ba",
+      "institutionId": "370",
+      "name": "ba",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 7176,
+        "char_end": 7178,
+        "excerpt": "ba"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:370:Degree|970f519c2cad|ba",
+      "institutionId": "370",
+      "name": "ba",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 7333,
+        "char_end": 7335,
+        "excerpt": "ba"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:370:Degree|970f519c2cad|ba",
+      "institutionId": "370",
+      "name": "ba",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 7341,
+        "char_end": 7343,
+        "excerpt": "ba"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:370:Degree|970f519c2cad|ba",
+      "institutionId": "370",
+      "name": "ba",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 7360,
+        "char_end": 7362,
+        "excerpt": "ba"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:370:Degree|970f519c2cad|ba",
+      "institutionId": "370",
+      "name": "ba",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 8059,
+        "char_end": 8061,
+        "excerpt": "ba"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:370:Degree|970f519c2cad|ba",
+      "institutionId": "370",
+      "name": "ba",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 8595,
+        "char_end": 8597,
+        "excerpt": "ba"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:370:Degree|970f519c2cad|ba",
+      "institutionId": "370",
+      "name": "ba",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 8603,
+        "char_end": 8605,
+        "excerpt": "ba"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:370:Degree|970f519c2cad|ba",
+      "institutionId": "370",
+      "name": "ba",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 8621,
+        "char_end": 8623,
+        "excerpt": "ba"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:370:Degree|970f519c2cad|ba",
+      "institutionId": "370",
+      "name": "ba",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 8643,
+        "char_end": 8645,
+        "excerpt": "ba"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:370:Degree|970f519c2cad|ba",
+      "institutionId": "370",
+      "name": "ba",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 8683,
+        "char_end": 8685,
+        "excerpt": "ba"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:370:Degree|970f519c2cad|ba",
+      "institutionId": "370",
+      "name": "ba",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 8773,
+        "char_end": 8775,
+        "excerpt": "ba"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:370:Degree|970f519c2cad|ba",
+      "institutionId": "370",
+      "name": "ba",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 8797,
+        "char_end": 8799,
+        "excerpt": "ba"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:370:Degree|c5052532c220|bed",
+      "institutionId": "370",
+      "name": "BEd",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 16672,
+        "char_end": 16675,
+        "excerpt": "BEd"
+      },
+      "normalization_key": "Degree|c5052532c220|bed"
+    },
+    {
+      "id": "prog:370:Degree|b5508e98e435|bcom",
+      "institutionId": "370",
+      "name": "BCom",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 26550,
+        "char_end": 26554,
+        "excerpt": "BCom"
+      },
+      "normalization_key": "Degree|b5508e98e435|bcom"
+    },
+    {
+      "id": "prog:370:Degree|b5508e98e435|bcom",
+      "institutionId": "370",
+      "name": "BCom",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 26586,
+        "char_end": 26590,
+        "excerpt": "BCom"
+      },
+      "normalization_key": "Degree|b5508e98e435|bcom"
+    },
+    {
+      "id": "prog:370:Degree|b5508e98e435|bcom",
+      "institutionId": "370",
+      "name": "BCom",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 26655,
+        "char_end": 26659,
+        "excerpt": "BCom"
+      },
+      "normalization_key": "Degree|b5508e98e435|bcom"
+    },
+    {
+      "id": "prog:370:Degree|b5508e98e435|bcom",
+      "institutionId": "370",
+      "name": "BCom",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 26722,
+        "char_end": 26726,
+        "excerpt": "BCom"
+      },
+      "normalization_key": "Degree|b5508e98e435|bcom"
+    },
+    {
+      "id": "prog:370:Degree|b5508e98e435|bcom",
+      "institutionId": "370",
+      "name": "BCom",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 26800,
+        "char_end": 26804,
+        "excerpt": "BCom"
+      },
+      "normalization_key": "Degree|b5508e98e435|bcom"
+    },
+    {
+      "id": "prog:370:Degree|b5508e98e435|bcom",
+      "institutionId": "370",
+      "name": "BCom",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 26869,
+        "char_end": 26873,
+        "excerpt": "BCom"
+      },
+      "normalization_key": "Degree|b5508e98e435|bcom"
+    },
+    {
+      "id": "prog:370:Degree|b5508e98e435|bcom",
+      "institutionId": "370",
+      "name": "BCom",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 26948,
+        "char_end": 26952,
+        "excerpt": "BCom"
+      },
+      "normalization_key": "Degree|b5508e98e435|bcom"
+    },
+    {
+      "id": "prog:370:Degree|242f898b4cfc|bcom (law)",
+      "institutionId": "370",
+      "name": "BCom (Law)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 27033,
+        "char_end": 27043,
+        "excerpt": "BCom (Law)"
+      },
+      "normalization_key": "Degree|242f898b4cfc|bcom (law)"
+    },
+    {
+      "id": "prog:370:Degree|9a6d601ae867|bachelor of accounting (bacc) and bcom (accounting)",
+      "institutionId": "370",
+      "name": "BACHELOR OF ACCOUNTING (BAcc) AND BCom (ACCOUNTING)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 27314,
+        "char_end": 27365,
+        "excerpt": "BACHELOR OF ACCOUNTING (BAcc) AND BCom (ACCOUNTING)"
+      },
+      "normalization_key": "Degree|9a6d601ae867|bachelor of accounting (bacc) and bcom (accounting)"
+    },
+    {
+      "id": "prog:370:Postgraduate|6e74f73900bf|honours, constitutes the ‘ca programme’ offered by the ufs. saica has awarded th",
+      "institutionId": "370",
+      "name": "Honours, constitutes the ‘CA programme’ offered by the UFS. SAICA has awarded the CA programme offered by t",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": null,
+            "raw_span": "Accounting) BC635",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+              "char_start": 28026,
+              "char_end": 28043,
+              "excerpt": "Accounting) BC635"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 27674,
+        "char_end": 27781,
+        "excerpt": "Honours, constitutes the ‘CA programme’ offered by the UFS. SAICA has awarded the CA programme offered by t"
+      },
+      "normalization_key": "Postgraduate|6e74f73900bf|honours, constitutes the ‘ca programme’ offered by the ufs. saica has awarded th"
+    },
+    {
+      "id": "prog:370:Degree|8f8bfd5f430b|bcom (accounting)",
+      "institutionId": "370",
+      "name": "BCom (Accounting)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": null,
+            "raw_span": "Accounting) BC635",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+              "char_start": 28026,
+              "char_end": 28043,
+              "excerpt": "Accounting) BC635"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 28020,
+        "char_end": 28037,
+        "excerpt": "BCom (Accounting)"
+      },
+      "normalization_key": "Degree|8f8bfd5f430b|bcom (accounting)"
+    },
+    {
+      "id": "prog:370:Degree|8f8bfd5f430b|bcom (accounting)",
+      "institutionId": "370",
+      "name": "BCom (Accounting)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": null,
+            "raw_span": "Accounting) BC635",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+              "char_start": 28026,
+              "char_end": 28043,
+              "excerpt": "Accounting) BC635"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 28073,
+        "char_end": 28090,
+        "excerpt": "BCom (Accounting)"
+      },
+      "normalization_key": "Degree|8f8bfd5f430b|bcom (accounting)"
+    },
+    {
+      "id": "prog:370:Degree|8f8bfd5f430b|bcom (accounting)",
+      "institutionId": "370",
+      "name": "BCom (Accounting)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 28216,
+        "char_end": 28233,
+        "excerpt": "BCom (Accounting)"
+      },
+      "normalization_key": "Degree|8f8bfd5f430b|bcom (accounting)"
+    },
+    {
+      "id": "prog:370:Postgraduate|10db30a5528f|honours.",
+      "institutionId": "370",
+      "name": "Honours.",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 28433,
+        "char_end": 28441,
+        "excerpt": "Honours."
+      },
+      "normalization_key": "Postgraduate|10db30a5528f|honours."
+    },
+    {
+      "id": "prog:370:Degree|0ab7b3771da5|bachelor of administration (badmin)",
+      "institutionId": "370",
+      "name": "BACHELOR OF ADMINISTRATION (BAdmin)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 28529,
+        "char_end": 28564,
+        "excerpt": "BACHELOR OF ADMINISTRATION (BAdmin)"
+      },
+      "normalization_key": "Degree|0ab7b3771da5|bachelor of administration (badmin)"
+    },
+    {
+      "id": "prog:370:Degree|b5508e98e435|bcom",
+      "institutionId": "370",
+      "name": "BCom",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 28791,
+        "char_end": 28795,
+        "excerpt": "BCom"
+      },
+      "normalization_key": "Degree|b5508e98e435|bcom"
+    },
+    {
+      "id": "prog:370:Degree|0b40aa763082|bachelor of administration qc634040 28 4 (50%) 2 (30%) qc",
+      "institutionId": "370",
+      "name": "Bachelor of Administration QC634040 28 4 (50%) 2 (30%) QC",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 28861,
+        "char_end": 28918,
+        "excerpt": "Bachelor of Administration QC634040 28 4 (50%) 2 (30%) QC"
+      },
+      "normalization_key": "Degree|0b40aa763082|bachelor of administration qc634040 28 4 (50%) 2 (30%) qc"
+    },
+    {
+      "id": "prog:370:Degree|01a2a57fc5b9|bachelor of education degree (offered in foundation, intermediate, or senior and",
+      "institutionId": "370",
+      "name": "Bachelor of Education degree (offered in Foundation, Intermediate, or Senior and",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 29270,
+        "char_end": 29350,
+        "excerpt": "Bachelor of Education degree (offered in Foundation, Intermediate, or Senior and"
+      },
+      "normalization_key": "Degree|01a2a57fc5b9|bachelor of education degree (offered in foundation, intermediate, or senior and"
+    },
+    {
+      "id": "prog:370:Degree|454ba1672c68|bachelor of education in foundation phase",
+      "institutionId": "370",
+      "name": "BACHELOR OF EDUCATION IN FOUNDATION PHASE",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 30457,
+        "char_end": 30498,
+        "excerpt": "BACHELOR OF EDUCATION IN FOUNDATION PHASE"
+      },
+      "normalization_key": "Degree|454ba1672c68|bachelor of education in foundation phase"
+    },
+    {
+      "id": "prog:370:Degree|028cb540a4c2|bachelor of education in intermediate phase",
+      "institutionId": "370",
+      "name": "BACHELOR OF EDUCATION IN INTERMEDIATE PHASE",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 31057,
+        "char_end": 31100,
+        "excerpt": "BACHELOR OF EDUCATION IN INTERMEDIATE PHASE"
+      },
+      "normalization_key": "Degree|028cb540a4c2|bachelor of education in intermediate phase"
+    },
+    {
+      "id": "prog:370:Degree|15af02c99343|bachelor of education in senior and fet phase",
+      "institutionId": "370",
+      "name": "BACHELOR OF EDUCATION IN SENIOR AND FET PHASE",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": null,
+            "raw_span": "Life\nSciences BC736",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+              "char_start": 32783,
+              "char_end": 32802,
+              "excerpt": "Life Sciences BC736"
+            }
+          },
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 4,
+            "raw_span": "Accounting 4 ",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+              "char_start": 32383,
+              "char_end": 32396,
+              "excerpt": "Accounting 4"
+            }
+          },
+          {
+            "subject": "Accounting",
+            "minimum_percentage": null,
+            "raw_span": "Accounting BC736",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+              "char_start": 32442,
+              "char_end": 32458,
+              "excerpt": "Accounting BC736"
+            }
+          },
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 4,
+            "raw_span": "Accounting 4 ",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+              "char_start": 32485,
+              "char_end": 32498,
+              "excerpt": "Accounting 4"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 32273,
+        "char_end": 32318,
+        "excerpt": "BACHELOR OF EDUCATION IN SENIOR AND FET PHASE"
+      },
+      "normalization_key": "Degree|15af02c99343|bachelor of education in senior and fet phase"
+    },
+    {
+      "id": "prog:370:Degree|c6c4ececc85c|bachelor of medical science with specialisation",
+      "institutionId": "370",
+      "name": "Bachelor of Medical Science with specialisation",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 35328,
+        "char_end": 35375,
+        "excerpt": "Bachelor of Medical Science with specialisation"
+      },
+      "normalization_key": "Degree|c6c4ececc85c|bachelor of medical science with specialisation"
+    },
+    {
+      "id": "prog:370:Degree|331347916a45|bachelor of medicine and bachelor of surgery",
+      "institutionId": "370",
+      "name": "Bachelor of Medicine and Bachelor of Surgery",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 35454,
+        "char_end": 35498,
+        "excerpt": "Bachelor of Medicine and Bachelor of Surgery"
+      },
+      "normalization_key": "Degree|331347916a45|bachelor of medicine and bachelor of surgery"
+    },
+    {
+      "id": "prog:370:Degree|5c82c92c8aed|bachelor of science in physiotherapy bsc",
+      "institutionId": "370",
+      "name": "Bachelor of Science in Physiotherapy BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 36373,
+        "char_end": 36413,
+        "excerpt": "Bachelor of Science in Physiotherapy BSc"
+      },
+      "normalization_key": "Degree|5c82c92c8aed|bachelor of science in physiotherapy bsc"
+    },
+    {
+      "id": "prog:370:Degree|7625c7935c9b|bsc (physiotherapy)",
+      "institutionId": "370",
+      "name": "BSc (Physiotherapy)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 36410,
+        "char_end": 36429,
+        "excerpt": "BSc (Physiotherapy)"
+      },
+      "normalization_key": "Degree|7625c7935c9b|bsc (physiotherapy)"
+    },
+    {
+      "id": "prog:370:Degree|ed673f56d299|bachelor of science in dietetics* bsc (dietetics) bc846002 33 5 (60%) 4 (50%) 5 ",
+      "institutionId": "370",
+      "name": "Bachelor of Science in Dietetics* BSc (Dietetics) BC846002 33 5 (60%) 4 (50%) 5 (60%) 4 (50%) Yes",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 36478,
+        "char_end": 36575,
+        "excerpt": "Bachelor of Science in Dietetics* BSc (Dietetics) BC846002 33 5 (60%) 4 (50%) 5 (60%) 4 (50%) Yes"
+      },
+      "normalization_key": "Degree|ed673f56d299|bachelor of science in dietetics* bsc (dietetics) bc846002 33 5 (60%) 4 (50%) 5 "
+    },
+    {
+      "id": "prog:370:Degree|0080be6a8682|bachelor of occupational therapy* (boccther) bc843100 33 5 (60%) 4 (50%) 5 (60%)",
+      "institutionId": "370",
+      "name": "Bachelor of Occupational Therapy* (BOccTher) BC843100 33 5 (60%) 4 (50%) 5 (60%) 4 (50%) Yes",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 36576,
+        "char_end": 36668,
+        "excerpt": "Bachelor of Occupational Therapy* (BOccTher) BC843100 33 5 (60%) 4 (50%) 5 (60%) 4 (50%) Yes"
+      },
+      "normalization_key": "Degree|0080be6a8682|bachelor of occupational therapy* (boccther) bc843100 33 5 (60%) 4 (50%) 5 (60%)"
+    },
+    {
+      "id": "prog:370:Degree|9945323dfcf8|bachelor of biokinetics * (bbiok) bc844000",
+      "institutionId": "370",
+      "name": "Bachelor of Biokinetics * (BBiok) BC844000",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 36669,
+        "char_end": 36711,
+        "excerpt": "Bachelor of Biokinetics * (BBiok) BC844000"
+      },
+      "normalization_key": "Degree|9945323dfcf8|bachelor of biokinetics * (bbiok) bc844000"
+    },
+    {
+      "id": "prog:370:Degree|b0689b7cea4f|bachelor of sport coaching (b sportcoach) bc834000 30 4 (50%) yes",
+      "institutionId": "370",
+      "name": "Bachelor of Sport Coaching (B SportCoach) BC834000 30 4 (50%) Yes",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 36760,
+        "char_end": 36825,
+        "excerpt": "Bachelor of Sport Coaching (B SportCoach) BC834000 30 4 (50%) Yes"
+      },
+      "normalization_key": "Degree|b0689b7cea4f|bachelor of sport coaching (b sportcoach) bc834000 30 4 (50%) yes"
+    },
+    {
+      "id": "prog:370:Degree|7625c7935c9b|bsc (physiotherapy)",
+      "institutionId": "370",
+      "name": "BSc (Physiotherapy)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 37017,
+        "char_end": 37036,
+        "excerpt": "BSc (Physiotherapy)"
+      },
+      "normalization_key": "Degree|7625c7935c9b|bsc (physiotherapy)"
+    },
+    {
+      "id": "prog:370:Degree|70d2f9b42360|bsc (dietetics)",
+      "institutionId": "370",
+      "name": "BSc (Dietetics)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 37088,
+        "char_end": 37103,
+        "excerpt": "BSc (Dietetics)"
+      },
+      "normalization_key": "Degree|70d2f9b42360|bsc (dietetics)"
+    },
+    {
+      "id": "prog:370:Degree|4b60f6649967|bachelor of nursing bc849000 30 4 (50%) 3 (40%) 6 (70%) 5 (60%) 4 (50%) yes",
+      "institutionId": "370",
+      "name": "Bachelor of Nursing BC849000 30 4 (50%) 3 (40%) 6 (70%) 5 (60%) 4 (50%) Yes",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 37789,
+        "char_end": 37864,
+        "excerpt": "Bachelor of Nursing BC849000 30 4 (50%) 3 (40%) 6 (70%) 5 (60%) 4 (50%) Yes"
+      },
+      "normalization_key": "Degree|4b60f6649967|bachelor of nursing bc849000 30 4 (50%) 3 (40%) 6 (70%) 5 (60%) 4 (50%) yes"
+    },
+    {
+      "id": "prog:370:Degree|11b49fac914f|bachelor of science degrees. furthermore, the faculty offers programmes",
+      "institutionId": "370",
+      "name": "Bachelor of Science degrees. Furthermore, the faculty offers programmes",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 39093,
+        "char_end": 39164,
+        "excerpt": "Bachelor of Science degrees. Furthermore, the faculty offers programmes"
+      },
+      "normalization_key": "Degree|11b49fac914f|bachelor of science degrees. furthermore, the faculty offers programmes"
+    },
+    {
+      "id": "prog:370:Degree|208024c5c2ef|bachelor of science in agriculture",
+      "institutionId": "370",
+      "name": "BACHELOR OF SCIENCE IN AGRICULTURE",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 39467,
+        "char_end": 39501,
+        "excerpt": "BACHELOR OF SCIENCE IN AGRICULTURE"
+      },
+      "normalization_key": "Degree|208024c5c2ef|bachelor of science in agriculture"
+    },
+    {
+      "id": "prog:370:Degree|5f75057e98ee|bsc",
+      "institutionId": "370",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 39503,
+        "char_end": 39506,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:370:Degree|5f75057e98ee|bsc",
+      "institutionId": "370",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 5,
+            "raw_span": "Physical Sciences on Level 5 ",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+              "char_start": 40361,
+              "char_end": 40390,
+              "excerpt": "Physical Sciences on Level 5"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 40042,
+        "char_end": 40045,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:370:Degree|5f75057e98ee|bsc",
+      "institutionId": "370",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 5,
+            "raw_span": "Physical Sciences on Level 5 ",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+              "char_start": 40361,
+              "char_end": 40390,
+              "excerpt": "Physical Sciences on Level 5"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 40404,
+        "char_end": 40407,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:370:Degree|860abee35102|bachelor of laws (llb) – four years bc340000 33 6 (70%) 4 (50%) 6 (70%)",
+      "institutionId": "370",
+      "name": "Bachelor of Laws (LLB) – four years BC340000 33 6 (70%) 4 (50%) 6 (70%)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 42476,
+        "char_end": 42547,
+        "excerpt": "Bachelor of Laws (LLB) – four years BC340000 33 6 (70%) 4 (50%) 6 (70%)"
+      },
+      "normalization_key": "Degree|860abee35102|bachelor of laws (llb) – four years bc340000 33 6 (70%) 4 (50%) 6 (70%)"
+    },
+    {
+      "id": "prog:370:Degree|98e05247ef8a|bachelor of science degree is a three-year programme. the degree code is 43001 a",
+      "institutionId": "370",
+      "name": "Bachelor of Science degree is a three-year programme. The degree code is 43001 and the qualification is presented full time,",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 43209,
+        "char_end": 43333,
+        "excerpt": "Bachelor of Science degree is a three-year programme. The degree code is 43001 and the qualification is presented full time,"
+      },
+      "normalization_key": "Degree|98e05247ef8a|bachelor of science degree is a three-year programme. the degree code is 43001 a"
+    },
+    {
+      "id": "prog:370:Degree|c62f5623cff8|bachelor of science specialising in biological sciences. students will have",
+      "institutionId": "370",
+      "name": "Bachelor of Science specialising in Biological Sciences. Students will have",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 44503,
+        "char_end": 44578,
+        "excerpt": "Bachelor of Science specialising in Biological Sciences. Students will have"
+      },
+      "normalization_key": "Degree|c62f5623cff8|bachelor of science specialising in biological sciences. students will have"
+    },
+    {
+      "id": "prog:370:Degree|0309f1a9ba94|bachelor of science specialising in",
+      "institutionId": "370",
+      "name": "Bachelor of Science specialising in",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 44801,
+        "char_end": 44836,
+        "excerpt": "Bachelor of Science specialising in"
+      },
+      "normalization_key": "Degree|0309f1a9ba94|bachelor of science specialising in"
+    },
+    {
+      "id": "prog:370:Degree|4f375457a0fb|bachelor of science degree is a three-year programme. the closing date for appli",
+      "institutionId": "370",
+      "name": "Bachelor of Science degree is a three-year programme. The closing date for applications is 30 September 2026.",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 47565,
+        "char_end": 47674,
+        "excerpt": "Bachelor of Science degree is a three-year programme. The closing date for applications is 30 September 2026."
+      },
+      "normalization_key": "Degree|4f375457a0fb|bachelor of science degree is a three-year programme. the closing date for appli"
+    },
+    {
+      "id": "prog:370:Degree|d2bb722e984a|bachelor of science degree is a three-year programme.",
+      "institutionId": "370",
+      "name": "Bachelor of Science degree is a three-year programme.",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 48182,
+        "char_end": 48235,
+        "excerpt": "Bachelor of Science degree is a three-year programme."
+      },
+      "normalization_key": "Degree|d2bb722e984a|bachelor of science degree is a three-year programme."
+    },
+    {
+      "id": "prog:370:Degree|d2bb722e984a|bachelor of science degree is a three-year programme.",
+      "institutionId": "370",
+      "name": "Bachelor of Science degree is a three-year programme.",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 49300,
+        "char_end": 49353,
+        "excerpt": "Bachelor of Science degree is a three-year programme."
+      },
+      "normalization_key": "Degree|d2bb722e984a|bachelor of science degree is a three-year programme."
+    },
+    {
+      "id": "prog:370:Degree|13dad7b8054d|bachelor of science specialising in chemical sciences. students will have",
+      "institutionId": "370",
+      "name": "Bachelor of Science specialising in Chemical Sciences. Students will have",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 50707,
+        "char_end": 50780,
+        "excerpt": "Bachelor of Science specialising in Chemical Sciences. Students will have"
+      },
+      "normalization_key": "Degree|13dad7b8054d|bachelor of science specialising in chemical sciences. students will have"
+    },
+    {
+      "id": "prog:370:Degree|0309f1a9ba94|bachelor of science specialising in",
+      "institutionId": "370",
+      "name": "Bachelor of Science specialising in",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 51002,
+        "char_end": 51037,
+        "excerpt": "Bachelor of Science specialising in"
+      },
+      "normalization_key": "Degree|0309f1a9ba94|bachelor of science specialising in"
+    },
+    {
+      "id": "prog:370:Degree|7973a0596427|bachelor of science specialising in physical sciences. students will have",
+      "institutionId": "370",
+      "name": "Bachelor of Science specialising in Physical Sciences. Students will have",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 51802,
+        "char_end": 51875,
+        "excerpt": "Bachelor of Science specialising in Physical Sciences. Students will have"
+      },
+      "normalization_key": "Degree|7973a0596427|bachelor of science specialising in physical sciences. students will have"
+    },
+    {
+      "id": "prog:370:Degree|0309f1a9ba94|bachelor of science specialising in",
+      "institutionId": "370",
+      "name": "Bachelor of Science specialising in",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 52097,
+        "char_end": 52132,
+        "excerpt": "Bachelor of Science specialising in"
+      },
+      "normalization_key": "Degree|0309f1a9ba94|bachelor of science specialising in"
+    },
+    {
+      "id": "prog:370:Degree|cc4b86819668|beng",
+      "institutionId": "370",
+      "name": "BENG",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 52518,
+        "char_end": 52522,
+        "excerpt": "BENG"
+      },
+      "normalization_key": "Degree|cc4b86819668|beng"
+    },
+    {
+      "id": "prog:370:Degree|d2bb722e984a|bachelor of science degree is a three-year programme.",
+      "institutionId": "370",
+      "name": "Bachelor of Science degree is a three-year programme.",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 52732,
+        "char_end": 52785,
+        "excerpt": "Bachelor of Science degree is a three-year programme."
+      },
+      "normalization_key": "Degree|d2bb722e984a|bachelor of science degree is a three-year programme."
+    },
+    {
+      "id": "prog:370:Degree|cc4b86819668|beng",
+      "institutionId": "370",
+      "name": "BENG",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 52902,
+        "char_end": 52906,
+        "excerpt": "BENG"
+      },
+      "normalization_key": "Degree|cc4b86819668|beng"
+    },
+    {
+      "id": "prog:370:Degree|e0bb4f24a004|bachelor of science specialising in physical science with engineering",
+      "institutionId": "370",
+      "name": "Bachelor of Science specialising in Physical Science with Engineering",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 52995,
+        "char_end": 53064,
+        "excerpt": "Bachelor of Science specialising in Physical Science with Engineering"
+      },
+      "normalization_key": "Degree|e0bb4f24a004|bachelor of science specialising in physical science with engineering"
+    },
+    {
+      "id": "prog:370:Degree|7f08abce97d6|bachelor of science specialising in physics and engineering subjects).",
+      "institutionId": "370",
+      "name": "Bachelor of Science specialising in Physics and Engineering Subjects).",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 53315,
+        "char_end": 53385,
+        "excerpt": "Bachelor of Science specialising in Physics and Engineering Subjects)."
+      },
+      "normalization_key": "Degree|7f08abce97d6|bachelor of science specialising in physics and engineering subjects)."
+    },
+    {
+      "id": "prog:370:Degree|3fb15c784604|bachelor of science specialising in geography and the bachelor of",
+      "institutionId": "370",
+      "name": "Bachelor of Science specialising in Geography and the Bachelor of",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 54165,
+        "char_end": 54230,
+        "excerpt": "Bachelor of Science specialising in Geography and the Bachelor of"
+      },
+      "normalization_key": "Degree|3fb15c784604|bachelor of science specialising in geography and the bachelor of"
+    },
+    {
+      "id": "prog:370:Degree|63481ed0f620|bachelor of science specialising in geography) and b4341 (bachelor of science sp",
+      "institutionId": "370",
+      "name": "Bachelor of Science specialising in Geography) and B4341 (Bachelor of Science specialising in Environmental Soil",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 54380,
+        "char_end": 54492,
+        "excerpt": "Bachelor of Science specialising in Geography) and B4341 (Bachelor of Science specialising in Environmental Soil"
+      },
+      "normalization_key": "Degree|63481ed0f620|bachelor of science specialising in geography) and b4341 (bachelor of science sp"
+    },
+    {
+      "id": "prog:370:Degree|1fa621ecf12c|bachelor of science specialising in geology. the programme that will be",
+      "institutionId": "370",
+      "name": "Bachelor of Science specialising in Geology. The programme that will be",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 55262,
+        "char_end": 55333,
+        "excerpt": "Bachelor of Science specialising in Geology. The programme that will be"
+      },
+      "normalization_key": "Degree|1fa621ecf12c|bachelor of science specialising in geology. the programme that will be"
+    },
+    {
+      "id": "prog:370:Degree|b5280a5211ea|bachelor of science specialising in geology).",
+      "institutionId": "370",
+      "name": "Bachelor of Science specialising in Geology).",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 55403,
+        "char_end": 55448,
+        "excerpt": "Bachelor of Science specialising in Geology)."
+      },
+      "normalization_key": "Degree|b5280a5211ea|bachelor of science specialising in geology)."
+    },
+    {
+      "id": "prog:370:Degree|54a501de0882|bachelor of science in agricultural economics",
+      "institutionId": "370",
+      "name": "Bachelor of Science in Agricultural Economics",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 55838,
+        "char_end": 55883,
+        "excerpt": "Bachelor of Science in Agricultural Economics"
+      },
+      "normalization_key": "Degree|54a501de0882|bachelor of science in agricultural economics"
+    },
+    {
+      "id": "prog:370:Degree|8faa04a92584|bachelor of science in agricultural",
+      "institutionId": "370",
+      "name": "Bachelor of Science in Agricultural",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 56116,
+        "char_end": 56151,
+        "excerpt": "Bachelor of Science in Agricultural"
+      },
+      "normalization_key": "Degree|8faa04a92584|bachelor of science in agricultural"
+    },
+    {
+      "id": "prog:370:Degree|4e2f59f4bc31|bachelor of science in information technology is a three-year qualification. the",
+      "institutionId": "370",
+      "name": "Bachelor of Science in Information Technology is a three-year qualification. The degree code is 43601 and the qualification is",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 56321,
+        "char_end": 56447,
+        "excerpt": "Bachelor of Science in Information Technology is a three-year qualification. The degree code is 43601 and the qualification is"
+      },
+      "normalization_key": "Degree|4e2f59f4bc31|bachelor of science in information technology is a three-year qualification. the"
+    },
+    {
+      "id": "prog:370:Degree|58d8b438e36e|bachelor of science in information technology. students will have the",
+      "institutionId": "370",
+      "name": "Bachelor of Science in Information Technology. Students will have the",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": null,
+            "raw_span": "Physical Sciences), B436",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+              "char_start": 57308,
+              "char_end": 57332,
+              "excerpt": "Physical Sciences), B436"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 56973,
+        "char_end": 57042,
+        "excerpt": "Bachelor of Science in Information Technology. Students will have the"
+      },
+      "normalization_key": "Degree|58d8b438e36e|bachelor of science in information technology. students will have the"
+    },
+    {
+      "id": "prog:370:Degree|77839f812e25|bsc(it)",
+      "institutionId": "370",
+      "name": "BSc(IT)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": null,
+            "raw_span": "Physical Sciences), B436",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+              "char_start": 57308,
+              "char_end": 57332,
+              "excerpt": "Physical Sciences), B436"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 57287,
+        "char_end": 57294,
+        "excerpt": "BSc(IT)"
+      },
+      "normalization_key": "Degree|77839f812e25|bsc(it)"
+    },
+    {
+      "id": "prog:370:Degree|77839f812e25|bsc(it)",
+      "institutionId": "370",
+      "name": "BSc(IT)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": null,
+            "raw_span": "Physical Sciences), B436",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+              "char_start": 57308,
+              "char_end": 57332,
+              "excerpt": "Physical Sciences), B436"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 57335,
+        "char_end": 57342,
+        "excerpt": "BSc(IT)"
+      },
+      "normalization_key": "Degree|77839f812e25|bsc(it)"
+    },
+    {
+      "id": "prog:370:Degree|77839f812e25|bsc(it)",
+      "institutionId": "370",
+      "name": "BSc(IT)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": null,
+            "raw_span": "Physical Sciences), B436",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+              "char_start": 57308,
+              "char_end": 57332,
+              "excerpt": "Physical Sciences), B436"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 57374,
+        "char_end": 57381,
+        "excerpt": "BSc(IT)"
+      },
+      "normalization_key": "Degree|77839f812e25|bsc(it)"
+    },
+    {
+      "id": "prog:370:Degree|77839f812e25|bsc(it)",
+      "institutionId": "370",
+      "name": "BSc(IT)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": null,
+            "raw_span": "Physical Sciences), B436",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+              "char_start": 57308,
+              "char_end": 57332,
+              "excerpt": "Physical Sciences), B436"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 57419,
+        "char_end": 57426,
+        "excerpt": "BSc(IT)"
+      },
+      "normalization_key": "Degree|77839f812e25|bsc(it)"
+    },
+    {
+      "id": "prog:370:Degree|bc286b777373|bsc (it)",
+      "institutionId": "370",
+      "name": "BSc (IT)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 57981,
+        "char_end": 57989,
+        "excerpt": "BSc (IT)"
+      },
+      "normalization_key": "Degree|bc286b777373|bsc (it)"
+    },
+    {
+      "id": "prog:370:Degree|366615e79fd9|bachelor of computer information systems is a three-year qualification. the degr",
+      "institutionId": "370",
+      "name": "Bachelor of Computer Information Systems is a three-year qualification. The degree code is 43610 and the qualification is",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 58040,
+        "char_end": 58161,
+        "excerpt": "Bachelor of Computer Information Systems is a three-year qualification. The degree code is 43610 and the qualification is"
+      },
+      "normalization_key": "Degree|366615e79fd9|bachelor of computer information systems is a three-year qualification. the degr"
+    },
+    {
+      "id": "prog:370:Degree|324a298e3c8e|bachelor of computer information systems. the programme that will be",
+      "institutionId": "370",
+      "name": "Bachelor of Computer Information Systems. The programme that will be",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 58652,
+        "char_end": 58720,
+        "excerpt": "Bachelor of Computer Information Systems. The programme that will be"
+      },
+      "normalization_key": "Degree|324a298e3c8e|bachelor of computer information systems. the programme that will be"
+    },
+    {
+      "id": "prog:370:Degree|7013d06bbe31|bachelor of computer information systems).",
+      "institutionId": "370",
+      "name": "Bachelor of Computer Information Systems).",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 58790,
+        "char_end": 58832,
+        "excerpt": "Bachelor of Computer Information Systems)."
+      },
+      "normalization_key": "Degree|7013d06bbe31|bachelor of computer information systems)."
+    },
+    {
+      "id": "prog:370:Degree|1508a44ca96a|bachelor of sustainable food systems is a three-year programme. the degree code ",
+      "institutionId": "370",
+      "name": "Bachelor of Sustainable Food Systems is a three-year programme. The degree code is 43710 and the qualification is presented",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 59032,
+        "char_end": 59155,
+        "excerpt": "Bachelor of Sustainable Food Systems is a three-year programme. The degree code is 43710 and the qualification is presented"
+      },
+      "normalization_key": "Degree|1508a44ca96a|bachelor of sustainable food systems is a three-year programme. the degree code "
+    },
+    {
+      "id": "prog:370:Degree|c7a4f723437a|bachelor of sustainable food systems bc430223 30 4 (50%) 2 (30%) n/a n/a",
+      "institutionId": "370",
+      "name": "Bachelor of Sustainable Food Systems BC430223 30 4 (50%) 2 (30%) N/A N/A",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 59570,
+        "char_end": 59642,
+        "excerpt": "Bachelor of Sustainable Food Systems BC430223 30 4 (50%) 2 (30%) N/A N/A"
+      },
+      "normalization_key": "Degree|c7a4f723437a|bachelor of sustainable food systems bc430223 30 4 (50%) 2 (30%) n/a n/a"
+    },
+    {
+      "id": "prog:370:Degree|c1d7b46a037a|bachelor of agriculture",
+      "institutionId": "370",
+      "name": "Bachelor of Agriculture",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 60180,
+        "char_end": 60203,
+        "excerpt": "Bachelor of Agriculture"
+      },
+      "normalization_key": "Degree|c1d7b46a037a|bachelor of agriculture"
+    },
+    {
+      "id": "prog:370:Degree|2a185d705045|bachelor of agriculture. students will have the opportunity to select",
+      "institutionId": "370",
+      "name": "Bachelor of Agriculture. Students will have the opportunity to select",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 60875,
+        "char_end": 60944,
+        "excerpt": "Bachelor of Agriculture. Students will have the opportunity to select"
+      },
+      "normalization_key": "Degree|2a185d705045|bachelor of agriculture. students will have the opportunity to select"
+    },
+    {
+      "id": "prog:370:Degree|85e93cdc42a0|bachelor of agriculture). majors will be selected in the second",
+      "institutionId": "370",
+      "name": "Bachelor of Agriculture). Majors will be selected in the second",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 61140,
+        "char_end": 61203,
+        "excerpt": "Bachelor of Agriculture). Majors will be selected in the second"
+      },
+      "normalization_key": "Degree|85e93cdc42a0|bachelor of agriculture). majors will be selected in the second"
+    },
+    {
+      "id": "prog:370:Degree|c1d7b46a037a|bachelor of agriculture",
+      "institutionId": "370",
+      "name": "Bachelor of Agriculture",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 61596,
+        "char_end": 61619,
+        "excerpt": "Bachelor of Agriculture"
+      },
+      "normalization_key": "Degree|c1d7b46a037a|bachelor of agriculture"
+    },
+    {
+      "id": "prog:370:Degree|2a185d705045|bachelor of agriculture. students will have the opportunity to select",
+      "institutionId": "370",
+      "name": "Bachelor of Agriculture. Students will have the opportunity to select",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 61818,
+        "char_end": 61887,
+        "excerpt": "Bachelor of Agriculture. Students will have the opportunity to select"
+      },
+      "normalization_key": "Degree|2a185d705045|bachelor of agriculture. students will have the opportunity to select"
+    },
+    {
+      "id": "prog:370:Degree|85e93cdc42a0|bachelor of agriculture). majors will be selected in the second",
+      "institutionId": "370",
+      "name": "Bachelor of Agriculture). Majors will be selected in the second",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 62083,
+        "char_end": 62146,
+        "excerpt": "Bachelor of Agriculture). Majors will be selected in the second"
+      },
+      "normalization_key": "Degree|85e93cdc42a0|bachelor of agriculture). majors will be selected in the second"
+    },
+    {
+      "id": "prog:370:Degree|0c9997976ea4|bsc (agriculture)",
+      "institutionId": "370",
+      "name": "BSC (AGRICULTURE)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 62380,
+        "char_end": 62397,
+        "excerpt": "BSC (AGRICULTURE)"
+      },
+      "normalization_key": "Degree|0c9997976ea4|bsc (agriculture)"
+    },
+    {
+      "id": "prog:370:Degree|208024c5c2ef|bachelor of science in agriculture",
+      "institutionId": "370",
+      "name": "Bachelor of Science in Agriculture",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 62526,
+        "char_end": 62560,
+        "excerpt": "Bachelor of Science in Agriculture"
+      },
+      "normalization_key": "Degree|208024c5c2ef|bachelor of science in agriculture"
+    },
+    {
+      "id": "prog:370:Degree|9e30c38b92e5|bachelor of architecture (barch):",
+      "institutionId": "370",
+      "name": "Bachelor of Architecture (BArch):",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 63971,
+        "char_end": 64004,
+        "excerpt": "Bachelor of Architecture (BArch):"
+      },
+      "normalization_key": "Degree|9e30c38b92e5|bachelor of architecture (barch):"
+    },
+    {
+      "id": "prog:370:Postgraduate|b9f7b84fb111|honours, master’s, and doctoral programmes and focused research",
+      "institutionId": "370",
+      "name": "honours, master’s, and doctoral programmes and focused research",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 64377,
+        "char_end": 64440,
+        "excerpt": "honours, master’s, and doctoral programmes and focused research"
+      },
+      "normalization_key": "Postgraduate|b9f7b84fb111|honours, master’s, and doctoral programmes and focused research"
+    },
+    {
+      "id": "prog:370:Degree|c4ba3c92b5e7|bachelor of architecture",
+      "institutionId": "370",
+      "name": "Bachelor of Architecture",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 65910,
+        "char_end": 65934,
+        "excerpt": "Bachelor of Architecture"
+      },
+      "normalization_key": "Degree|c4ba3c92b5e7|bachelor of architecture"
+    },
+    {
+      "id": "prog:370:Degree|0ec011312f92|bachelor of architecture. the programme that will be available for",
+      "institutionId": "370",
+      "name": "Bachelor of Architecture. The programme that will be available for",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 66178,
+        "char_end": 66244,
+        "excerpt": "Bachelor of Architecture. The programme that will be available for"
+      },
+      "normalization_key": "Degree|0ec011312f92|bachelor of architecture. the programme that will be available for"
+    },
+    {
+      "id": "prog:370:Degree|d38392093c7f|bachelor of architecture).",
+      "institutionId": "370",
+      "name": "Bachelor of Architecture).",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 66300,
+        "char_end": 66326,
+        "excerpt": "Bachelor of Architecture)."
+      },
+      "normalization_key": "Degree|d38392093c7f|bachelor of architecture)."
+    },
+    {
+      "id": "prog:370:Degree|efc83f52b1f5|bachelor of science (bsc) in quantity surveying, construction management, and co",
+      "institutionId": "370",
+      "name": "Bachelor of Science (BSc) in Quantity Surveying, Construction Management, and Construction Economics and Management",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 66492,
+        "char_end": 66607,
+        "excerpt": "Bachelor of Science (BSc) in Quantity Surveying, Construction Management, and Construction Economics and Management"
+      },
+      "normalization_key": "Degree|efc83f52b1f5|bachelor of science (bsc) in quantity surveying, construction management, and co"
+    },
+    {
+      "id": "prog:370:Degree|92eae181bd58|bachelor of science in construction",
+      "institutionId": "370",
+      "name": "Bachelor of Science in Construction",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 67483,
+        "char_end": 67518,
+        "excerpt": "Bachelor of Science in Construction"
+      },
+      "normalization_key": "Degree|92eae181bd58|bachelor of science in construction"
+    },
+    {
+      "id": "prog:370:Degree|66f9ef743023|bachelor of science in construction economics and management, designed to cater",
+      "institutionId": "370",
+      "name": "Bachelor of Science in Construction Economics and Management, designed to cater",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 67832,
+        "char_end": 67911,
+        "excerpt": "Bachelor of Science in Construction Economics and Management, designed to cater"
+      },
+      "normalization_key": "Degree|66f9ef743023|bachelor of science in construction economics and management, designed to cater"
+    },
+    {
+      "id": "prog:370:Degree|65b4c757dce0|bachelor of science in construction economics and management).",
+      "institutionId": "370",
+      "name": "Bachelor of Science in Construction Economics and Management).",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 68091,
+        "char_end": 68153,
+        "excerpt": "Bachelor of Science in Construction Economics and Management)."
+      },
+      "normalization_key": "Degree|65b4c757dce0|bachelor of science in construction economics and management)."
+    },
+    {
+      "id": "prog:370:Degree|908669a76c24|bsc (construction economics and management)",
+      "institutionId": "370",
+      "name": "BSc (Construction Economics and Management)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 68468,
+        "char_end": 68511,
+        "excerpt": "BSc (Construction Economics and Management)"
+      },
+      "normalization_key": "Degree|908669a76c24|bsc (construction economics and management)"
+    },
+    {
+      "id": "prog:370:Degree|230e5df1f53d|bachelor of science in construction management",
+      "institutionId": "370",
+      "name": "Bachelor of Science in Construction Management",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 68732,
+        "char_end": 68778,
+        "excerpt": "Bachelor of Science in Construction Management"
+      },
+      "normalization_key": "Degree|230e5df1f53d|bachelor of science in construction management"
+    },
+    {
+      "id": "prog:370:Degree|701972f7ff55|bachelor of science specialising in building science. students will have",
+      "institutionId": "370",
+      "name": "Bachelor of Science specialising in Building Science. Students will have",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 69073,
+        "char_end": 69145,
+        "excerpt": "Bachelor of Science specialising in Building Science. Students will have"
+      },
+      "normalization_key": "Degree|701972f7ff55|bachelor of science specialising in building science. students will have"
+    },
+    {
+      "id": "prog:370:Degree|0309f1a9ba94|bachelor of science specialising in",
+      "institutionId": "370",
+      "name": "Bachelor of Science specialising in",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 69367,
+        "char_end": 69402,
+        "excerpt": "Bachelor of Science specialising in"
+      },
+      "normalization_key": "Degree|0309f1a9ba94|bachelor of science specialising in"
+    },
+    {
+      "id": "prog:370:Degree|dee63f5f1b3c|bachelor of science specialising in biological sciences",
+      "institutionId": "370",
+      "name": "Bachelor of Science specialising in Biological Sciences",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 70387,
+        "char_end": 70442,
+        "excerpt": "Bachelor of Science specialising in Biological Sciences"
+      },
+      "normalization_key": "Degree|dee63f5f1b3c|bachelor of science specialising in biological sciences"
+    },
+    {
+      "id": "prog:370:Degree|2fe22214b074|bachelor of science specialising in chemical and",
+      "institutionId": "370",
+      "name": "Bachelor of Science specialising in Chemical and",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 70992,
+        "char_end": 71040,
+        "excerpt": "Bachelor of Science specialising in Chemical and"
+      },
+      "normalization_key": "Degree|2fe22214b074|bachelor of science specialising in chemical and"
+    },
+    {
+      "id": "prog:370:Degree|8fcc6fcbcc60|bachelor of science specialising in geography",
+      "institutionId": "370",
+      "name": "Bachelor of Science specialising in Geography",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 71545,
+        "char_end": 71590,
+        "excerpt": "Bachelor of Science specialising in Geography"
+      },
+      "normalization_key": "Degree|8fcc6fcbcc60|bachelor of science specialising in geography"
+    },
+    {
+      "id": "prog:370:Degree|c5c807756a5a|bachelor of science in information",
+      "institutionId": "370",
+      "name": "Bachelor of Science in Information",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": null,
+            "raw_span": "Physical\nSciences), and Q436",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+              "char_start": 72409,
+              "char_end": 72437,
+              "excerpt": "Physical Sciences), and Q436"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 72075,
+        "char_end": 72109,
+        "excerpt": "Bachelor of Science in Information"
+      },
+      "normalization_key": "Degree|c5c807756a5a|bachelor of science in information"
+    },
+    {
+      "id": "prog:370:Degree|bc286b777373|bsc (it)",
+      "institutionId": "370",
+      "name": "BSc (IT)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": null,
+            "raw_span": "Physical\nSciences), and Q436",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+              "char_start": 72409,
+              "char_end": 72437,
+              "excerpt": "Physical Sciences), and Q436"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 72387,
+        "char_end": 72395,
+        "excerpt": "BSc (IT)"
+      },
+      "normalization_key": "Degree|bc286b777373|bsc (it)"
+    },
+    {
+      "id": "prog:370:Degree|bc286b777373|bsc (it)",
+      "institutionId": "370",
+      "name": "BSc (IT)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": null,
+            "raw_span": "Physical\nSciences), and Q436",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+              "char_start": 72409,
+              "char_end": 72437,
+              "excerpt": "Physical Sciences), and Q436"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 72440,
+        "char_end": 72448,
+        "excerpt": "BSc (IT)"
+      },
+      "normalization_key": "Degree|bc286b777373|bsc (it)"
+    },
+    {
+      "id": "prog:370:Diploma|2580030dd1b7|diploma in music**",
+      "institutionId": "370",
+      "name": "Diploma in Music**",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 75116,
+        "char_end": 75134,
+        "excerpt": "Diploma in Music**"
+      },
+      "normalization_key": "Diploma|2580030dd1b7|diploma in music**"
+    },
+    {
+      "id": "prog:370:Diploma|f051f4086ab7|diploma in music or relevant nqf6 bc",
+      "institutionId": "370",
+      "name": "Diploma in Music or relevant NQF6 BC",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 75740,
+        "char_end": 75776,
+        "excerpt": "Diploma in Music or relevant NQF6 BC"
+      },
+      "normalization_key": "Diploma|f051f4086ab7|diploma in music or relevant nqf6 bc"
+    },
+    {
+      "id": "prog:370:Diploma|f051f4086ab7|diploma in music or relevant nqf6 bc",
+      "institutionId": "370",
+      "name": "Diploma in Music or relevant NQF6 BC",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 75879,
+        "char_end": 75915,
+        "excerpt": "Diploma in Music or relevant NQF6 BC"
+      },
+      "normalization_key": "Diploma|f051f4086ab7|diploma in music or relevant nqf6 bc"
+    },
+    {
+      "id": "prog:370:Degree|01cf2da72d24|ba (language practice)",
+      "institutionId": "370",
+      "name": "BA (Language Practice)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 76256,
+        "char_end": 76278,
+        "excerpt": "BA (Language Practice)"
+      },
+      "normalization_key": "Degree|01cf2da72d24|ba (language practice)"
+    },
+    {
+      "id": "prog:370:Degree|1419aa1fe40b|ba (governance and political transformation)",
+      "institutionId": "370",
+      "name": "BA (Governance and Political Transformation)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 76630,
+        "char_end": 76674,
+        "excerpt": "BA (Governance and Political Transformation)"
+      },
+      "normalization_key": "Degree|1419aa1fe40b|ba (governance and political transformation)"
+    },
+    {
+      "id": "prog:370:Degree|48c542ec15f6|ba (integrated organisational communication)",
+      "institutionId": "370",
+      "name": "BA (Integrated Organisational Communication)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 76698,
+        "char_end": 76742,
+        "excerpt": "BA (Integrated Organisational Communication)"
+      },
+      "normalization_key": "Degree|48c542ec15f6|ba (integrated organisational communication)"
+    },
+    {
+      "id": "prog:370:Degree|9f92908d0c1a|ba (journalism)",
+      "institutionId": "370",
+      "name": "BA (Journalism)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 77014,
+        "char_end": 77029,
+        "excerpt": "BA (Journalism)"
+      },
+      "normalization_key": "Degree|9f92908d0c1a|ba (journalism)"
+    },
+    {
+      "id": "prog:370:Degree|0d328d956787|ba (fine arts)",
+      "institutionId": "370",
+      "name": "BA (Fine Arts)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 77301,
+        "char_end": 77315,
+        "excerpt": "BA (Fine Arts)"
+      },
+      "normalization_key": "Degree|0d328d956787|ba (fine arts)"
+    },
+    {
+      "id": "prog:370:Degree|0c9b855f21d9|ba (drama and theatre arts)",
+      "institutionId": "370",
+      "name": "BA (Drama and Theatre Arts)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 77577,
+        "char_end": 77604,
+        "excerpt": "BA (Drama and Theatre Arts)"
+      },
+      "normalization_key": "Degree|0c9b855f21d9|ba (drama and theatre arts)"
+    },
+    {
+      "id": "prog:370:Degree|970f519c2cad|ba",
+      "institutionId": "370",
+      "name": "BA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 78010,
+        "char_end": 78012,
+        "excerpt": "BA"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:370:Degree|970f519c2cad|ba",
+      "institutionId": "370",
+      "name": "BA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 78075,
+        "char_end": 78077,
+        "excerpt": "BA"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:370:Degree|e1ad87b73052|bachelor of music – subject to selection* bc140544 30 4 (50%) bc",
+      "institutionId": "370",
+      "name": "Bachelor of Music – Subject to selection* BC140544 30 4 (50%) BC",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 78947,
+        "char_end": 79011,
+        "excerpt": "Bachelor of Music – Subject to selection* BC140544 30 4 (50%) BC"
+      },
+      "normalization_key": "Degree|e1ad87b73052|bachelor of music – subject to selection* bc140544 30 4 (50%) bc"
+    },
+    {
+      "id": "prog:370:Degree|afd4a15888ce|ba (music)",
+      "institutionId": "370",
+      "name": "BA (Music)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 79012,
+        "char_end": 79022,
+        "excerpt": "BA (Music)"
+      },
+      "normalization_key": "Degree|afd4a15888ce|ba (music)"
+    },
+    {
+      "id": "prog:370:Degree|15ba7c2f41da|bachelor of social sciences degree (bsocsci) makes provision for majoring in any",
+      "institutionId": "370",
+      "name": "Bachelor of Social Sciences degree (BSocSci) makes provision for majoring in any two of the following subject fields:",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 79692,
+        "char_end": 79809,
+        "excerpt": "Bachelor of Social Sciences degree (BSocSci) makes provision for majoring in any two of the following subject fields:"
+      },
+      "normalization_key": "Degree|15ba7c2f41da|bachelor of social sciences degree (bsocsci) makes provision for majoring in any"
+    },
+    {
+      "id": "prog:370:Degree|93664cda84ba|bachelor of social work – subject to selection* bc140250 35 5 (60%) bc",
+      "institutionId": "370",
+      "name": "Bachelor of Social Work – Subject to selection* BC140250 35 5 (60%) BC",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 80020,
+        "char_end": 80090,
+        "excerpt": "Bachelor of Social Work – Subject to selection* BC140250 35 5 (60%) BC"
+      },
+      "normalization_key": "Degree|93664cda84ba|bachelor of social work – subject to selection* bc140250 35 5 (60%) bc"
+    },
+    {
+      "id": "prog:370:Degree|0458a6398486|bachelor of arts (ba)",
+      "institutionId": "370",
+      "name": "BACHELOR OF ARTS (BA)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 80697,
+        "char_end": 80718,
+        "excerpt": "BACHELOR OF ARTS (BA)"
+      },
+      "normalization_key": "Degree|0458a6398486|bachelor of arts (ba)"
+    },
+    {
+      "id": "prog:370:Degree|970f519c2cad|ba",
+      "institutionId": "370",
+      "name": "BA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 80893,
+        "char_end": 80895,
+        "excerpt": "BA"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:370:Degree|4324b62c5115|bachelor of community development (bcommdev)",
+      "institutionId": "370",
+      "name": "BACHELOR OF COMMUNITY DEVELOPMENT (BCommDev)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 80927,
+        "char_end": 80971,
+        "excerpt": "BACHELOR OF COMMUNITY DEVELOPMENT (BCommDev)"
+      },
+      "normalization_key": "Degree|4324b62c5115|bachelor of community development (bcommdev)"
+    },
+    {
+      "id": "prog:370:Degree|6e0859661a47|bachelor of community development (bcommdev) – subject to selection* qc140400 30",
+      "institutionId": "370",
+      "name": "Bachelor of Community Development (BCommDev) – Subject to selection* QC140400 30 5 (60%) QC",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 81140,
+        "char_end": 81231,
+        "excerpt": "Bachelor of Community Development (BCommDev) – Subject to selection* QC140400 30 5 (60%) QC"
+      },
+      "normalization_key": "Degree|6e0859661a47|bachelor of community development (bcommdev) – subject to selection* qc140400 30"
+    },
+    {
+      "id": "prog:370:Diploma|8157a51a9455|diploma in vocational skills with a minimum pass rate of level 4 in english is r",
+      "institutionId": "370",
+      "name": "Diploma in Vocational Skills with a minimum pass rate of Level 4 in English is required. Admission is subject to",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 81250,
+        "char_end": 81362,
+        "excerpt": "Diploma in Vocational Skills with a minimum pass rate of Level 4 in English is required. Admission is subject to"
+      },
+      "normalization_key": "Diploma|8157a51a9455|diploma in vocational skills with a minimum pass rate of level 4 in english is r"
+    },
+    {
+      "id": "prog:370:Degree|04b487627166|bachelor of divinity is a qualification in theology that focuses on professional",
+      "institutionId": "370",
+      "name": "Bachelor of Divinity is a qualification in Theology that focuses on professional ministry.",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 83319,
+        "char_end": 83409,
+        "excerpt": "Bachelor of Divinity is a qualification in Theology that focuses on professional ministry."
+      },
+      "normalization_key": "Degree|04b487627166|bachelor of divinity is a qualification in theology that focuses on professional"
+    },
+    {
+      "id": "prog:370:Degree|298a2b4f5eb8|bachelor of social sciences: (bsocsci)",
+      "institutionId": "370",
+      "name": "BACHELOR OF SOCIAL SCIENCES: (BSocSci)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 83901,
+        "char_end": 83939,
+        "excerpt": "BACHELOR OF SOCIAL SCIENCES: (BSocSci)"
+      },
+      "normalization_key": "Degree|298a2b4f5eb8|bachelor of social sciences: (bsocsci)"
+    },
+    {
+      "id": "prog:370:Degree|14964a942e9a|bcom (3 years)",
+      "institutionId": "370",
+      "name": "BCom (3 years)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 62,
+            "raw_span": "Accounting R62 ",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+              "char_start": 135756,
+              "char_end": 135771,
+              "excerpt": "Accounting R62"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 135705,
+        "char_end": 135719,
+        "excerpt": "BCom (3 years)"
+      },
+      "normalization_key": "Degree|14964a942e9a|bcom (3 years)"
+    },
+    {
+      "id": "prog:370:Degree|f0c0b7164b3e|bcom (4 years)",
+      "institutionId": "370",
+      "name": "BCom (4 years)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 62,
+            "raw_span": "Accounting R62 ",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+              "char_start": 135756,
+              "char_end": 135771,
+              "excerpt": "Accounting R62"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 135728,
+        "char_end": 135742,
+        "excerpt": "BCom (4 years)"
+      },
+      "normalization_key": "Degree|f0c0b7164b3e|bcom (4 years)"
+    },
+    {
+      "id": "prog:370:Degree|b5508e98e435|bcom",
+      "institutionId": "370",
+      "name": "BCom",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 62,
+            "raw_span": "Accounting R62 ",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+              "char_start": 135756,
+              "char_end": 135771,
+              "excerpt": "Accounting R62"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 135751,
+        "char_end": 135755,
+        "excerpt": "BCom"
+      },
+      "normalization_key": "Degree|b5508e98e435|bcom"
+    },
+    {
+      "id": "prog:370:Degree|b5508e98e435|bcom",
+      "institutionId": "370",
+      "name": "BCom",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 62,
+            "raw_span": "Accounting R62 ",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+              "char_start": 135756,
+              "char_end": 135771,
+              "excerpt": "Accounting R62"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 135775,
+        "char_end": 135779,
+        "excerpt": "BCom"
+      },
+      "normalization_key": "Degree|b5508e98e435|bcom"
+    },
+    {
+      "id": "prog:370:Degree|b5508e98e435|bcom",
+      "institutionId": "370",
+      "name": "BCom",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 62,
+            "raw_span": "Accounting R62 ",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+              "char_start": 135756,
+              "char_end": 135771,
+              "excerpt": "Accounting R62"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 135798,
+        "char_end": 135802,
+        "excerpt": "BCom"
+      },
+      "normalization_key": "Degree|b5508e98e435|bcom"
+    },
+    {
+      "id": "prog:370:Degree|b5508e98e435|bcom",
+      "institutionId": "370",
+      "name": "BCom",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 62,
+            "raw_span": "Accounting R62 ",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+              "char_start": 135756,
+              "char_end": 135771,
+              "excerpt": "Accounting R62"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 135837,
+        "char_end": 135841,
+        "excerpt": "BCom"
+      },
+      "normalization_key": "Degree|b5508e98e435|bcom"
+    },
+    {
+      "id": "prog:370:Degree|b5508e98e435|bcom",
+      "institutionId": "370",
+      "name": "BCom",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 62,
+            "raw_span": "Accounting R62 ",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+              "char_start": 135756,
+              "char_end": 135771,
+              "excerpt": "Accounting R62"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 135854,
+        "char_end": 135858,
+        "excerpt": "BCom"
+      },
+      "normalization_key": "Degree|b5508e98e435|bcom"
+    },
+    {
+      "id": "prog:370:Degree|c5052532c220|bed",
+      "institutionId": "370",
+      "name": "BEd",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 62,
+            "raw_span": "Accounting R62 ",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+              "char_start": 135756,
+              "char_end": 135771,
+              "excerpt": "Accounting R62"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 135887,
+        "char_end": 135890,
+        "excerpt": "BEd"
+      },
+      "normalization_key": "Degree|c5052532c220|bed"
+    },
+    {
+      "id": "prog:370:Degree|c5052532c220|bed",
+      "institutionId": "370",
+      "name": "BEd",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 62,
+            "raw_span": "Accounting R62 ",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+              "char_start": 135756,
+              "char_end": 135771,
+              "excerpt": "Accounting R62"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 135899,
+        "char_end": 135902,
+        "excerpt": "BEd"
+      },
+      "normalization_key": "Degree|c5052532c220|bed"
+    },
+    {
+      "id": "prog:370:Degree|5f75057e98ee|bsc",
+      "institutionId": "370",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 136043,
+        "char_end": 136046,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:370:Degree|5f75057e98ee|bsc",
+      "institutionId": "370",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 136065,
+        "char_end": 136068,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:370:Degree|5f75057e98ee|bsc",
+      "institutionId": "370",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 136098,
+        "char_end": 136101,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:370:Degree|5f75057e98ee|bsc",
+      "institutionId": "370",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 136270,
+        "char_end": 136273,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:370:Degree|5f75057e98ee|bsc",
+      "institutionId": "370",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 136288,
+        "char_end": 136291,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:370:Degree|5f75057e98ee|bsc",
+      "institutionId": "370",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 136330,
+        "char_end": 136333,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:370:Degree|5f75057e98ee|bsc",
+      "institutionId": "370",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 136364,
+        "char_end": 136367,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:370:Degree|5f75057e98ee|bsc",
+      "institutionId": "370",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 136393,
+        "char_end": 136396,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:370:Degree|5f75057e98ee|bsc",
+      "institutionId": "370",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 136425,
+        "char_end": 136428,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:370:Degree|5f75057e98ee|bsc",
+      "institutionId": "370",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 136454,
+        "char_end": 136457,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:370:Degree|5f75057e98ee|bsc",
+      "institutionId": "370",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 136474,
+        "char_end": 136477,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:370:Degree|5f75057e98ee|bsc",
+      "institutionId": "370",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 136509,
+        "char_end": 136512,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:370:Degree|5f75057e98ee|bsc",
+      "institutionId": "370",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 136540,
+        "char_end": 136543,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:370:Degree|57271a8829d0|ba (3 years)",
+      "institutionId": "370",
+      "name": "BA (3 years)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 136585,
+        "char_end": 136597,
+        "excerpt": "BA (3 years)"
+      },
+      "normalization_key": "Degree|57271a8829d0|ba (3 years)"
+    },
+    {
+      "id": "prog:370:Degree|f4bad23ed14f|ba (4 years)",
+      "institutionId": "370",
+      "name": "BA (4 years)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 136606,
+        "char_end": 136618,
+        "excerpt": "BA (4 years)"
+      },
+      "normalization_key": "Degree|f4bad23ed14f|ba (4 years)"
+    },
+    {
+      "id": "prog:370:Degree|970f519c2cad|ba",
+      "institutionId": "370",
+      "name": "BA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 136627,
+        "char_end": 136629,
+        "excerpt": "BA"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:370:Degree|970f519c2cad|ba",
+      "institutionId": "370",
+      "name": "BA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 136661,
+        "char_end": 136663,
+        "excerpt": "BA"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:370:Degree|970f519c2cad|ba",
+      "institutionId": "370",
+      "name": "BA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 136712,
+        "char_end": 136714,
+        "excerpt": "BA"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:370:Degree|970f519c2cad|ba",
+      "institutionId": "370",
+      "name": "BA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 136734,
+        "char_end": 136736,
+        "excerpt": "BA"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:370:Degree|970f519c2cad|ba",
+      "institutionId": "370",
+      "name": "BA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 136763,
+        "char_end": 136765,
+        "excerpt": "BA"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:370:Degree|b5508e98e435|bcom",
+      "institutionId": "370",
+      "name": "BCom",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 182461,
+        "char_end": 182465,
+        "excerpt": "BCom"
+      },
+      "normalization_key": "Degree|b5508e98e435|bcom"
+    },
+    {
+      "id": "prog:370:Degree|fc5d9a30ab4f|bachelor of commerce), or a bsc degree (baccalaureus scientiae/",
+      "institutionId": "370",
+      "name": "Bachelor of Commerce), or a BSc degree (Baccalaureus Scientiae/",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 182497,
+        "char_end": 182560,
+        "excerpt": "Bachelor of Commerce), or a BSc degree (Baccalaureus Scientiae/"
+      },
+      "normalization_key": "Degree|fc5d9a30ab4f|bachelor of commerce), or a bsc degree (baccalaureus scientiae/"
+    },
+    {
+      "id": "prog:370:Postgraduate|d54fb823253d|honours degree (generally one or two",
+      "institutionId": "370",
+      "name": "honours degree (generally one or two",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 182707,
+        "char_end": 182743,
+        "excerpt": "honours degree (generally one or two"
+      },
+      "normalization_key": "Postgraduate|d54fb823253d|honours degree (generally one or two"
+    },
+    {
+      "id": "prog:370:Postgraduate|f39d60295471|doctorate (generally two years or longer). some degrees",
+      "institutionId": "370",
+      "name": "doctorate (generally two years or longer). Some degrees",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 182807,
+        "char_end": 182862,
+        "excerpt": "doctorate (generally two years or longer). Some degrees"
+      },
+      "normalization_key": "Postgraduate|f39d60295471|doctorate (generally two years or longer). some degrees"
+    },
+    {
+      "id": "prog:370:Degree|b5508e98e435|bcom",
+      "institutionId": "370",
+      "name": "BCom",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 182987,
+        "char_end": 182991,
+        "excerpt": "BCom"
+      },
+      "normalization_key": "Degree|b5508e98e435|bcom"
+    },
+    {
+      "id": "prog:370:Diploma|8dab8aaef3a4|diploma in teaching dr zukiswa nhase +27 51 401 9180 bedfp@ufs.ac.za",
+      "institutionId": "370",
+      "name": "Diploma in Teaching Dr Zukiswa Nhase +27 51 401 9180 bedfp@ufs.ac.za",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+        "char_start": 185884,
+        "char_end": 185952,
+        "excerpt": "Diploma in Teaching Dr Zukiswa Nhase +27 51 401 9180 bedfp@ufs.ac.za"
+      },
+      "normalization_key": "Diploma|8dab8aaef3a4|diploma in teaching dr zukiswa nhase +27 51 401 9180 bedfp@ufs.ac.za"
+    }
+  ],
+  "admissions_rules": [
+    {
+      "id": "adm:370:Postgraduate|6e74f73900bf|honours, constitutes the ‘ca programme’ offered by the ufs. saica has awarded th:subjects",
+      "institutionId": "370",
+      "programmeId": "prog:370:Postgraduate|6e74f73900bf|honours, constitutes the ‘ca programme’ offered by the ufs. saica has awarded th",
+      "ruleType": "subject_requirements",
+      "detail": "Accounting",
+      "subjects": [
+        {
+          "subject": "Accounting",
+          "minimum_percentage": null,
+          "raw_span": "Accounting) BC635",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+            "char_start": 28026,
+            "char_end": 28043,
+            "excerpt": "Accounting) BC635"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf"
+    },
+    {
+      "id": "adm:370:Degree|8f8bfd5f430b|bcom (accounting):subjects",
+      "institutionId": "370",
+      "programmeId": "prog:370:Degree|8f8bfd5f430b|bcom (accounting)",
+      "ruleType": "subject_requirements",
+      "detail": "Accounting",
+      "subjects": [
+        {
+          "subject": "Accounting",
+          "minimum_percentage": null,
+          "raw_span": "Accounting) BC635",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+            "char_start": 28026,
+            "char_end": 28043,
+            "excerpt": "Accounting) BC635"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf"
+    },
+    {
+      "id": "adm:370:Degree|8f8bfd5f430b|bcom (accounting):subjects",
+      "institutionId": "370",
+      "programmeId": "prog:370:Degree|8f8bfd5f430b|bcom (accounting)",
+      "ruleType": "subject_requirements",
+      "detail": "Accounting",
+      "subjects": [
+        {
+          "subject": "Accounting",
+          "minimum_percentage": null,
+          "raw_span": "Accounting) BC635",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+            "char_start": 28026,
+            "char_end": 28043,
+            "excerpt": "Accounting) BC635"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf"
+    },
+    {
+      "id": "adm:370:Degree|15af02c99343|bachelor of education in senior and fet phase:subjects",
+      "institutionId": "370",
+      "programmeId": "prog:370:Degree|15af02c99343|bachelor of education in senior and fet phase",
+      "ruleType": "subject_requirements",
+      "detail": "Life Sciences; Accounting >= 4%; Accounting; Accounting >= 4%",
+      "subjects": [
+        {
+          "subject": "Life Sciences",
+          "minimum_percentage": null,
+          "raw_span": "Life\nSciences BC736",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+            "char_start": 32783,
+            "char_end": 32802,
+            "excerpt": "Life Sciences BC736"
+          }
+        },
+        {
+          "subject": "Accounting",
+          "minimum_percentage": 4,
+          "raw_span": "Accounting 4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+            "char_start": 32383,
+            "char_end": 32396,
+            "excerpt": "Accounting 4"
+          }
+        },
+        {
+          "subject": "Accounting",
+          "minimum_percentage": null,
+          "raw_span": "Accounting BC736",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+            "char_start": 32442,
+            "char_end": 32458,
+            "excerpt": "Accounting BC736"
+          }
+        },
+        {
+          "subject": "Accounting",
+          "minimum_percentage": 4,
+          "raw_span": "Accounting 4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+            "char_start": 32485,
+            "char_end": 32498,
+            "excerpt": "Accounting 4"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf"
+    },
+    {
+      "id": "adm:370:Degree|5f75057e98ee|bsc:subjects",
+      "institutionId": "370",
+      "programmeId": "prog:370:Degree|5f75057e98ee|bsc",
+      "ruleType": "subject_requirements",
+      "detail": "Physical Sciences >= 5%",
+      "subjects": [
+        {
+          "subject": "Physical Sciences",
+          "minimum_percentage": 5,
+          "raw_span": "Physical Sciences on Level 5 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+            "char_start": 40361,
+            "char_end": 40390,
+            "excerpt": "Physical Sciences on Level 5"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf"
+    },
+    {
+      "id": "adm:370:Degree|5f75057e98ee|bsc:subjects",
+      "institutionId": "370",
+      "programmeId": "prog:370:Degree|5f75057e98ee|bsc",
+      "ruleType": "subject_requirements",
+      "detail": "Physical Sciences >= 5%",
+      "subjects": [
+        {
+          "subject": "Physical Sciences",
+          "minimum_percentage": 5,
+          "raw_span": "Physical Sciences on Level 5 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+            "char_start": 40361,
+            "char_end": 40390,
+            "excerpt": "Physical Sciences on Level 5"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf"
+    },
+    {
+      "id": "adm:370:Degree|58d8b438e36e|bachelor of science in information technology. students will have the:subjects",
+      "institutionId": "370",
+      "programmeId": "prog:370:Degree|58d8b438e36e|bachelor of science in information technology. students will have the",
+      "ruleType": "subject_requirements",
+      "detail": "Physical Sciences",
+      "subjects": [
+        {
+          "subject": "Physical Sciences",
+          "minimum_percentage": null,
+          "raw_span": "Physical Sciences), B436",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+            "char_start": 57308,
+            "char_end": 57332,
+            "excerpt": "Physical Sciences), B436"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf"
+    },
+    {
+      "id": "adm:370:Degree|77839f812e25|bsc(it):subjects",
+      "institutionId": "370",
+      "programmeId": "prog:370:Degree|77839f812e25|bsc(it)",
+      "ruleType": "subject_requirements",
+      "detail": "Physical Sciences",
+      "subjects": [
+        {
+          "subject": "Physical Sciences",
+          "minimum_percentage": null,
+          "raw_span": "Physical Sciences), B436",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+            "char_start": 57308,
+            "char_end": 57332,
+            "excerpt": "Physical Sciences), B436"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf"
+    },
+    {
+      "id": "adm:370:Degree|77839f812e25|bsc(it):subjects",
+      "institutionId": "370",
+      "programmeId": "prog:370:Degree|77839f812e25|bsc(it)",
+      "ruleType": "subject_requirements",
+      "detail": "Physical Sciences",
+      "subjects": [
+        {
+          "subject": "Physical Sciences",
+          "minimum_percentage": null,
+          "raw_span": "Physical Sciences), B436",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+            "char_start": 57308,
+            "char_end": 57332,
+            "excerpt": "Physical Sciences), B436"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf"
+    },
+    {
+      "id": "adm:370:Degree|77839f812e25|bsc(it):subjects",
+      "institutionId": "370",
+      "programmeId": "prog:370:Degree|77839f812e25|bsc(it)",
+      "ruleType": "subject_requirements",
+      "detail": "Physical Sciences",
+      "subjects": [
+        {
+          "subject": "Physical Sciences",
+          "minimum_percentage": null,
+          "raw_span": "Physical Sciences), B436",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+            "char_start": 57308,
+            "char_end": 57332,
+            "excerpt": "Physical Sciences), B436"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf"
+    },
+    {
+      "id": "adm:370:Degree|77839f812e25|bsc(it):subjects",
+      "institutionId": "370",
+      "programmeId": "prog:370:Degree|77839f812e25|bsc(it)",
+      "ruleType": "subject_requirements",
+      "detail": "Physical Sciences",
+      "subjects": [
+        {
+          "subject": "Physical Sciences",
+          "minimum_percentage": null,
+          "raw_span": "Physical Sciences), B436",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+            "char_start": 57308,
+            "char_end": 57332,
+            "excerpt": "Physical Sciences), B436"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf"
+    },
+    {
+      "id": "adm:370:Degree|c5c807756a5a|bachelor of science in information:subjects",
+      "institutionId": "370",
+      "programmeId": "prog:370:Degree|c5c807756a5a|bachelor of science in information",
+      "ruleType": "subject_requirements",
+      "detail": "Physical Sciences",
+      "subjects": [
+        {
+          "subject": "Physical Sciences",
+          "minimum_percentage": null,
+          "raw_span": "Physical\nSciences), and Q436",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+            "char_start": 72409,
+            "char_end": 72437,
+            "excerpt": "Physical Sciences), and Q436"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf"
+    },
+    {
+      "id": "adm:370:Degree|bc286b777373|bsc (it):subjects",
+      "institutionId": "370",
+      "programmeId": "prog:370:Degree|bc286b777373|bsc (it)",
+      "ruleType": "subject_requirements",
+      "detail": "Physical Sciences",
+      "subjects": [
+        {
+          "subject": "Physical Sciences",
+          "minimum_percentage": null,
+          "raw_span": "Physical\nSciences), and Q436",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+            "char_start": 72409,
+            "char_end": 72437,
+            "excerpt": "Physical Sciences), and Q436"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf"
+    },
+    {
+      "id": "adm:370:Degree|bc286b777373|bsc (it):subjects",
+      "institutionId": "370",
+      "programmeId": "prog:370:Degree|bc286b777373|bsc (it)",
+      "ruleType": "subject_requirements",
+      "detail": "Physical Sciences",
+      "subjects": [
+        {
+          "subject": "Physical Sciences",
+          "minimum_percentage": null,
+          "raw_span": "Physical\nSciences), and Q436",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+            "char_start": 72409,
+            "char_end": 72437,
+            "excerpt": "Physical Sciences), and Q436"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf"
+    },
+    {
+      "id": "adm:370:Degree|14964a942e9a|bcom (3 years):subjects",
+      "institutionId": "370",
+      "programmeId": "prog:370:Degree|14964a942e9a|bcom (3 years)",
+      "ruleType": "subject_requirements",
+      "detail": "Accounting >= 62%",
+      "subjects": [
+        {
+          "subject": "Accounting",
+          "minimum_percentage": 62,
+          "raw_span": "Accounting R62 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+            "char_start": 135756,
+            "char_end": 135771,
+            "excerpt": "Accounting R62"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf"
+    },
+    {
+      "id": "adm:370:Degree|f0c0b7164b3e|bcom (4 years):subjects",
+      "institutionId": "370",
+      "programmeId": "prog:370:Degree|f0c0b7164b3e|bcom (4 years)",
+      "ruleType": "subject_requirements",
+      "detail": "Accounting >= 62%",
+      "subjects": [
+        {
+          "subject": "Accounting",
+          "minimum_percentage": 62,
+          "raw_span": "Accounting R62 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+            "char_start": 135756,
+            "char_end": 135771,
+            "excerpt": "Accounting R62"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf"
+    },
+    {
+      "id": "adm:370:Degree|b5508e98e435|bcom:subjects",
+      "institutionId": "370",
+      "programmeId": "prog:370:Degree|b5508e98e435|bcom",
+      "ruleType": "subject_requirements",
+      "detail": "Accounting >= 62%",
+      "subjects": [
+        {
+          "subject": "Accounting",
+          "minimum_percentage": 62,
+          "raw_span": "Accounting R62 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+            "char_start": 135756,
+            "char_end": 135771,
+            "excerpt": "Accounting R62"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf"
+    },
+    {
+      "id": "adm:370:Degree|b5508e98e435|bcom:subjects",
+      "institutionId": "370",
+      "programmeId": "prog:370:Degree|b5508e98e435|bcom",
+      "ruleType": "subject_requirements",
+      "detail": "Accounting >= 62%",
+      "subjects": [
+        {
+          "subject": "Accounting",
+          "minimum_percentage": 62,
+          "raw_span": "Accounting R62 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+            "char_start": 135756,
+            "char_end": 135771,
+            "excerpt": "Accounting R62"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf"
+    },
+    {
+      "id": "adm:370:Degree|b5508e98e435|bcom:subjects",
+      "institutionId": "370",
+      "programmeId": "prog:370:Degree|b5508e98e435|bcom",
+      "ruleType": "subject_requirements",
+      "detail": "Accounting >= 62%",
+      "subjects": [
+        {
+          "subject": "Accounting",
+          "minimum_percentage": 62,
+          "raw_span": "Accounting R62 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+            "char_start": 135756,
+            "char_end": 135771,
+            "excerpt": "Accounting R62"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf"
+    },
+    {
+      "id": "adm:370:Degree|b5508e98e435|bcom:subjects",
+      "institutionId": "370",
+      "programmeId": "prog:370:Degree|b5508e98e435|bcom",
+      "ruleType": "subject_requirements",
+      "detail": "Accounting >= 62%",
+      "subjects": [
+        {
+          "subject": "Accounting",
+          "minimum_percentage": 62,
+          "raw_span": "Accounting R62 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+            "char_start": 135756,
+            "char_end": 135771,
+            "excerpt": "Accounting R62"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf"
+    },
+    {
+      "id": "adm:370:Degree|b5508e98e435|bcom:subjects",
+      "institutionId": "370",
+      "programmeId": "prog:370:Degree|b5508e98e435|bcom",
+      "ruleType": "subject_requirements",
+      "detail": "Accounting >= 62%",
+      "subjects": [
+        {
+          "subject": "Accounting",
+          "minimum_percentage": 62,
+          "raw_span": "Accounting R62 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+            "char_start": 135756,
+            "char_end": 135771,
+            "excerpt": "Accounting R62"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf"
+    },
+    {
+      "id": "adm:370:Degree|c5052532c220|bed:subjects",
+      "institutionId": "370",
+      "programmeId": "prog:370:Degree|c5052532c220|bed",
+      "ruleType": "subject_requirements",
+      "detail": "Accounting >= 62%",
+      "subjects": [
+        {
+          "subject": "Accounting",
+          "minimum_percentage": 62,
+          "raw_span": "Accounting R62 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+            "char_start": 135756,
+            "char_end": 135771,
+            "excerpt": "Accounting R62"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf"
+    },
+    {
+      "id": "adm:370:Degree|c5052532c220|bed:subjects",
+      "institutionId": "370",
+      "programmeId": "prog:370:Degree|c5052532c220|bed",
+      "ruleType": "subject_requirements",
+      "detail": "Accounting >= 62%",
+      "subjects": [
+        {
+          "subject": "Accounting",
+          "minimum_percentage": 62,
+          "raw_span": "Accounting R62 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+            "char_start": 135756,
+            "char_end": 135771,
+            "excerpt": "Accounting R62"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-the-free-state.pdf",
+      "sourceUrl": "https://www.ufs.ac.za/docs/librariesprovider44/prospectus/ug-prospectus-2027.pdf"
+    }
+  ],
+  "aps_rules": [],
+  "llm_calls": 0
+}

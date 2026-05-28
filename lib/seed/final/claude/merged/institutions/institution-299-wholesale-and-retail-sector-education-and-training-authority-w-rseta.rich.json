@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "institution_id": "299",
+    "slug": "wholesale-and-retail-sector-education-and-training-authority-w-rseta",
+    "name": "Wholesale and Retail Sector Education and Training Authority (W&RSETA)",
+    "institution_type": "seta",
+    "province": "Gauteng",
+    "city": "Pretoria",
+    "official_website": "https://www.wrseta.org.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/299/wholesale-and-retail-sector-education-and-training-authority-w-rseta",
+    "application_url": null,
+    "prospectus_url": null,
+    "nsfas_supported": null,
+    "distance_learning": null,
+    "accreditation": {
+      "dh et": null,
+      "saqa": null
+    },
+    "qualification_types": null
+  },
+  "profile": {},
+  "contact": {
+    "emails": [
+      "ceo@ceta.co.za",
+      "insetacallcentre@inseta.org.za",
+      "info@agriseta.co.za",
+      "livhun@mqa.org.za",
+      "info@ctflseta.org.za",
+      "theta@theta.org.za",
+      "sunilm@serviceseta.org.za",
+      "piet@teta.org.za",
+      "headoffice@chieta.org.za",
+      "ceo@isettseta.org.za",
+      "ceo@hwseta.org.za",
+      "callcentre@sasseta.org.za",
+      "info@foodbev.co.za",
+      "ceoadmin@etdpseta.org.za",
+      "fassetcallcentre@fasset.org.za",
+      "andym@eseta.org.za",
+      "info@chieta.org.za",
+      "sidwellm@lgseta.co.za",
+      "temp@bankseta.org.za",
+      "setatransfers@wrseta.org.za",
+      "melanyb@mqa.org.za",
+      "ceo@pseta.gov.za"
+    ],
+    "phone_numbers": [
+      "012 622 9500",
+      "086 101 0001",
+      "011 630 3500"
+    ],
+    "physical_address": "Riverside Office Park, Hennops House, 1303 Heuwel Avenue, Cnr Lenchen South & Heuwel Avenue, Centurion, Pretoria",
+    "postal_address": "Private Bag X106, Centurion, 0046",
+    "socials": {
+      "facebook": "https://www.facebook.com/WRSETA",
+      "instagram": "https://www.instagram.com/w_rseta/",
+      "linkedin": "https://www.linkedin.com/company/wrseta",
+      "x": "https://www.twitter.com/WRSETA",
+      "youtube": "https://www.youtube.com/WRSETA1"
+    }
+  },
+  "campuses": [],
+  "faculties": [],
+  "programmes": [],
+  "admission": {
+    "aps_name": null,
+    "aps_calculation_notes": null,
+    "minimum_aps_for_bachelors": null,
+    "minimum_aps_for_diplomas": null,
+    "minimum_entry_note": null,
+    "life_orientation_cap": null,
+    "aps_rules": [],
+    "programme_requirements": []
+  },
+  "sources": [
+    "generated/v3/institutions.enriched.json",
+    "institutions.json"
+  ],
+  "_stats": {
+    "campuses_count": 0,
+    "faculties_count": 0,
+    "programmes_count": 0,
+    "aps_rules_count": 0,
+    "adm_reqs_count": 0
+  }
+}

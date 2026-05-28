@@ -1,0 +1,579 @@
+{
+  "faculties": [],
+  "programmes": [
+    {
+      "id": "prog:325:NATED|2991a6b8d1aa|n6 certificate",
+      "institutionId": "325",
+      "name": "N6 Certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 12
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/capricorn-tvet-college.pdf",
+      "sourceUrl": "https://capricorncollege.edu.za/wp-content/uploads/2025/04/2025-2026-Capricorn-TVET-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/capricorn-tvet-college.pdf",
+        "char_start": 49247,
+        "char_end": 49261,
+        "excerpt": "N6 Certificate"
+      },
+      "normalization_key": "NATED|2991a6b8d1aa|n6 certificate",
+      "campuses": [],
+      "merged_from": [
+        "prog:325:NATED|2991a6b8d1aa|n6 certificate",
+        "prog:325:NATED|2991a6b8d1aa|n6 certificate",
+        "prog:325:NATED|2991a6b8d1aa|n6 certificate",
+        "prog:325:NATED|2991a6b8d1aa|n6 certificate",
+        "prog:325:NATED|2991a6b8d1aa|n6 certificate",
+        "prog:325:NATED|2991a6b8d1aa|n6 certificate",
+        "prog:325:NATED|2991a6b8d1aa|n6 certificate",
+        "prog:325:NATED|2991a6b8d1aa|n6 certificate",
+        "prog:325:NATED|2991a6b8d1aa|n6 certificate",
+        "prog:325:NATED|2991a6b8d1aa|n6 certificate",
+        "prog:325:NATED|2991a6b8d1aa|n6 certificate"
+      ],
+      "source_refs": [
+        "https://capricorncollege.edu.za/wp-content/uploads/2025/04/2025-2026-Capricorn-TVET-Prospectus.pdf"
+      ]
+    },
+    {
+      "id": "prog:325:Diploma|739cf6bd2980|national diploma",
+      "institutionId": "325",
+      "name": "National Diploma",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/capricorn-tvet-college.pdf",
+      "sourceUrl": "https://capricorncollege.edu.za/wp-content/uploads/2025/04/2025-2026-Capricorn-TVET-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/capricorn-tvet-college.pdf",
+        "char_start": 33089,
+        "char_end": 33105,
+        "excerpt": "National Diploma"
+      },
+      "normalization_key": "Diploma|739cf6bd2980|national diploma",
+      "campuses": [],
+      "merged_from": [
+        "prog:325:Diploma|739cf6bd2980|national diploma"
+      ],
+      "source_refs": [
+        "https://capricorncollege.edu.za/wp-content/uploads/2025/04/2025-2026-Capricorn-TVET-Prospectus.pdf"
+      ]
+    },
+    {
+      "id": "prog:325:Diploma|5db34d794910|national diploma in business management (m + 3).",
+      "institutionId": "325",
+      "name": "National Diploma in Business Management (M + 3).",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/capricorn-tvet-college.pdf",
+      "sourceUrl": "https://capricorncollege.edu.za/wp-content/uploads/2025/04/2025-2026-Capricorn-TVET-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/capricorn-tvet-college.pdf",
+        "char_start": 15759,
+        "char_end": 15807,
+        "excerpt": "National Diploma in Business Management (M + 3)."
+      },
+      "normalization_key": "Diploma|5db34d794910|national diploma in business management (m + 3).",
+      "campuses": [],
+      "merged_from": [
+        "prog:325:Diploma|5db34d794910|national diploma in business management (m + 3)."
+      ],
+      "source_refs": [
+        "https://capricorncollege.edu.za/wp-content/uploads/2025/04/2025-2026-Capricorn-TVET-Prospectus.pdf"
+      ]
+    },
+    {
+      "id": "prog:325:Diploma|27dc6d39ffd6|national diploma in early childhood development (m + 3).",
+      "institutionId": "325",
+      "name": "National Diploma in Early Childhood Development (M + 3).",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/capricorn-tvet-college.pdf",
+      "sourceUrl": "https://capricorncollege.edu.za/wp-content/uploads/2025/04/2025-2026-Capricorn-TVET-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/capricorn-tvet-college.pdf",
+        "char_start": 49324,
+        "char_end": 49380,
+        "excerpt": "National Diploma in Early Childhood Development (M + 3)."
+      },
+      "normalization_key": "Diploma|27dc6d39ffd6|national diploma in early childhood development (m + 3).",
+      "campuses": [],
+      "merged_from": [
+        "prog:325:Diploma|27dc6d39ffd6|national diploma in early childhood development (m + 3)."
+      ],
+      "source_refs": [
+        "https://capricorncollege.edu.za/wp-content/uploads/2025/04/2025-2026-Capricorn-TVET-Prospectus.pdf"
+      ]
+    },
+    {
+      "id": "prog:325:Diploma|69fe1e2cba7f|national diploma in financial management (m + 3)",
+      "institutionId": "325",
+      "name": "National Diploma in Financial Management (M + 3)",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/capricorn-tvet-college.pdf",
+      "sourceUrl": "https://capricorncollege.edu.za/wp-content/uploads/2025/04/2025-2026-Capricorn-TVET-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/capricorn-tvet-college.pdf",
+        "char_start": 21781,
+        "char_end": 21829,
+        "excerpt": "National Diploma in Financial Management (M + 3)"
+      },
+      "normalization_key": "Diploma|69fe1e2cba7f|national diploma in financial management (m + 3)",
+      "campuses": [],
+      "merged_from": [
+        "prog:325:Diploma|69fe1e2cba7f|national diploma in financial management (m + 3)"
+      ],
+      "source_refs": [
+        "https://capricorncollege.edu.za/wp-content/uploads/2025/04/2025-2026-Capricorn-TVET-Prospectus.pdf"
+      ]
+    },
+    {
+      "id": "prog:325:Diploma|b4c27a4eeaee|national diploma in hospitality and catering (m + 3).",
+      "institutionId": "325",
+      "name": "National Diploma in Hospitality and Catering (M + 3).",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/capricorn-tvet-college.pdf",
+      "sourceUrl": "https://capricorncollege.edu.za/wp-content/uploads/2025/04/2025-2026-Capricorn-TVET-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/capricorn-tvet-college.pdf",
+        "char_start": 47662,
+        "char_end": 47715,
+        "excerpt": "National Diploma in Hospitality and Catering (M + 3)."
+      },
+      "normalization_key": "Diploma|b4c27a4eeaee|national diploma in hospitality and catering (m + 3).",
+      "campuses": [],
+      "merged_from": [
+        "prog:325:Diploma|b4c27a4eeaee|national diploma in hospitality and catering (m + 3)."
+      ],
+      "source_refs": [
+        "https://capricorncollege.edu.za/wp-content/uploads/2025/04/2025-2026-Capricorn-TVET-Prospectus.pdf"
+      ]
+    },
+    {
+      "id": "prog:325:Diploma|8edd7abdd009|national diploma in human resource management (m + 3)",
+      "institutionId": "325",
+      "name": "National Diploma in Human Resource Management (M + 3)",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/capricorn-tvet-college.pdf",
+      "sourceUrl": "https://capricorncollege.edu.za/wp-content/uploads/2025/04/2025-2026-Capricorn-TVET-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/capricorn-tvet-college.pdf",
+        "char_start": 18808,
+        "char_end": 18861,
+        "excerpt": "National Diploma in Human Resource Management (M + 3)"
+      },
+      "normalization_key": "Diploma|8edd7abdd009|national diploma in human resource management (m + 3)",
+      "campuses": [],
+      "merged_from": [
+        "prog:325:Diploma|8edd7abdd009|national diploma in human resource management (m + 3)"
+      ],
+      "source_refs": [
+        "https://capricorncollege.edu.za/wp-content/uploads/2025/04/2025-2026-Capricorn-TVET-Prospectus.pdf"
+      ]
+    },
+    {
+      "id": "prog:325:Diploma|f753782085a7|national diploma in management assistant. (m + 3)",
+      "institutionId": "325",
+      "name": "National Diploma in Management Assistant. (M + 3)",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/capricorn-tvet-college.pdf",
+      "sourceUrl": "https://capricorncollege.edu.za/wp-content/uploads/2025/04/2025-2026-Capricorn-TVET-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/capricorn-tvet-college.pdf",
+        "char_start": 16909,
+        "char_end": 16958,
+        "excerpt": "National Diploma in Management Assistant. (M + 3)"
+      },
+      "normalization_key": "Diploma|f753782085a7|national diploma in management assistant. (m + 3)",
+      "campuses": [],
+      "merged_from": [
+        "prog:325:Diploma|f753782085a7|national diploma in management assistant. (m + 3)"
+      ],
+      "source_refs": [
+        "https://capricorncollege.edu.za/wp-content/uploads/2025/04/2025-2026-Capricorn-TVET-Prospectus.pdf"
+      ]
+    },
+    {
+      "id": "prog:325:Diploma|bb2a1fe0efbb|national diploma in marketing management (m + 3)",
+      "institutionId": "325",
+      "name": "National Diploma in Marketing Management (M + 3)",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/capricorn-tvet-college.pdf",
+      "sourceUrl": "https://capricorncollege.edu.za/wp-content/uploads/2025/04/2025-2026-Capricorn-TVET-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/capricorn-tvet-college.pdf",
+        "char_start": 17767,
+        "char_end": 17815,
+        "excerpt": "National Diploma in Marketing Management (M + 3)"
+      },
+      "normalization_key": "Diploma|bb2a1fe0efbb|national diploma in marketing management (m + 3)",
+      "campuses": [],
+      "merged_from": [
+        "prog:325:Diploma|bb2a1fe0efbb|national diploma in marketing management (m + 3)"
+      ],
+      "source_refs": [
+        "https://capricorncollege.edu.za/wp-content/uploads/2025/04/2025-2026-Capricorn-TVET-Prospectus.pdf"
+      ]
+    },
+    {
+      "id": "prog:325:Diploma|24387bc38dbf|national diploma in public management (m + 3)",
+      "institutionId": "325",
+      "name": "National Diploma in Public Management (M + 3)",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/capricorn-tvet-college.pdf",
+      "sourceUrl": "https://capricorncollege.edu.za/wp-content/uploads/2025/04/2025-2026-Capricorn-TVET-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/capricorn-tvet-college.pdf",
+        "char_start": 21623,
+        "char_end": 21668,
+        "excerpt": "National Diploma in Public Management (M + 3)"
+      },
+      "normalization_key": "Diploma|24387bc38dbf|national diploma in public management (m + 3)",
+      "campuses": [],
+      "merged_from": [
+        "prog:325:Diploma|24387bc38dbf|national diploma in public management (m + 3)"
+      ],
+      "source_refs": [
+        "https://capricorncollege.edu.za/wp-content/uploads/2025/04/2025-2026-Capricorn-TVET-Prospectus.pdf"
+      ]
+    },
+    {
+      "id": "prog:325:Diploma|a8d1f48d6469|national diploma in tourism (m + 3).",
+      "institutionId": "325",
+      "name": "National Diploma in Tourism (M + 3).",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/capricorn-tvet-college.pdf",
+      "sourceUrl": "https://capricorncollege.edu.za/wp-content/uploads/2025/04/2025-2026-Capricorn-TVET-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/capricorn-tvet-college.pdf",
+        "char_start": 48533,
+        "char_end": 48569,
+        "excerpt": "National Diploma in Tourism (M + 3)."
+      },
+      "normalization_key": "Diploma|a8d1f48d6469|national diploma in tourism (m + 3).",
+      "campuses": [],
+      "merged_from": [
+        "prog:325:Diploma|a8d1f48d6469|national diploma in tourism (m + 3)."
+      ],
+      "source_refs": [
+        "https://capricorncollege.edu.za/wp-content/uploads/2025/04/2025-2026-Capricorn-TVET-Prospectus.pdf"
+      ]
+    },
+    {
+      "id": "prog:325:NCV|fc81b65741d8|nc (v) l4",
+      "institutionId": "325",
+      "name": "NC (V) L4",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 11
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/capricorn-tvet-college.pdf",
+      "sourceUrl": "https://capricorncollege.edu.za/wp-content/uploads/2025/04/2025-2026-Capricorn-TVET-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/capricorn-tvet-college.pdf",
+        "char_start": 48787,
+        "char_end": 48796,
+        "excerpt": "NC (V) L4"
+      },
+      "normalization_key": "NCV|fc81b65741d8|nc (v) l4",
+      "campuses": [],
+      "merged_from": [
+        "prog:325:NCV|fc81b65741d8|nc (v) l4",
+        "prog:325:NCV|fc81b65741d8|nc (v) l4",
+        "prog:325:NCV|fc81b65741d8|nc (v) l4",
+        "prog:325:NCV|fc81b65741d8|nc (v) l4",
+        "prog:325:NCV|fc81b65741d8|nc (v) l4",
+        "prog:325:NCV|fc81b65741d8|nc (v) l4",
+        "prog:325:NCV|fc81b65741d8|nc (v) l4",
+        "prog:325:NCV|fc81b65741d8|nc (v) l4"
+      ],
+      "source_refs": [
+        "https://capricorncollege.edu.za/wp-content/uploads/2025/04/2025-2026-Capricorn-TVET-Prospectus.pdf"
+      ]
+    },
+    {
+      "id": "prog:325:NCV|0b8628209db7|nc(v) l4",
+      "institutionId": "325",
+      "name": "NC(V) L4",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 11
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/capricorn-tvet-college.pdf",
+      "sourceUrl": "https://capricorncollege.edu.za/wp-content/uploads/2025/04/2025-2026-Capricorn-TVET-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/capricorn-tvet-college.pdf",
+        "char_start": 15074,
+        "char_end": 15082,
+        "excerpt": "NC(V) L4"
+      },
+      "normalization_key": "NCV|0b8628209db7|nc(v) l4",
+      "campuses": [],
+      "merged_from": [
+        "prog:325:NCV|0b8628209db7|nc(v) l4"
+      ],
+      "source_refs": [
+        "https://capricorncollege.edu.za/wp-content/uploads/2025/04/2025-2026-Capricorn-TVET-Prospectus.pdf"
+      ]
+    },
+    {
+      "id": "prog:325:NCV|4dff7880f0af|nc(v) level 2",
+      "institutionId": "325",
+      "name": "NC(V) Level 2",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 1
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/capricorn-tvet-college.pdf",
+      "sourceUrl": "https://capricorncollege.edu.za/wp-content/uploads/2025/04/2025-2026-Capricorn-TVET-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/capricorn-tvet-college.pdf",
+        "char_start": 69435,
+        "char_end": 69448,
+        "excerpt": "NC(V) Level 2"
+      },
+      "normalization_key": "NCV|4dff7880f0af|nc(v) level 2",
+      "campuses": [],
+      "merged_from": [
+        "prog:325:NCV|4dff7880f0af|nc(v) level 2"
+      ],
+      "source_refs": [
+        "https://capricorncollege.edu.za/wp-content/uploads/2025/04/2025-2026-Capricorn-TVET-Prospectus.pdf"
+      ]
+    },
+    {
+      "id": "prog:325:NATED|3787633babc5|report 191",
+      "institutionId": "325",
+      "name": "report 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 15
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/capricorn-tvet-college.pdf",
+      "sourceUrl": "https://capricorncollege.edu.za/wp-content/uploads/2025/04/2025-2026-Capricorn-TVET-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/capricorn-tvet-college.pdf",
+        "char_start": 63362,
+        "char_end": 63372,
+        "excerpt": "Report 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191",
+      "campuses": [],
+      "merged_from": [
+        "prog:325:NATED|3787633babc5|report 191",
+        "prog:325:NATED|3787633babc5|report 191",
+        "prog:325:NATED|3787633babc5|report 191",
+        "prog:325:NATED|3787633babc5|report 191",
+        "prog:325:NATED|3787633babc5|report 191",
+        "prog:325:NATED|3787633babc5|report 191",
+        "prog:325:NATED|3787633babc5|report 191",
+        "prog:325:NATED|3787633babc5|report 191",
+        "prog:325:NATED|3787633babc5|report 191",
+        "prog:325:NATED|3787633babc5|report 191",
+        "prog:325:NATED|3787633babc5|report 191",
+        "prog:325:NATED|3787633babc5|report 191",
+        "prog:325:NATED|3787633babc5|report 191",
+        "prog:325:NATED|3787633babc5|report 191"
+      ],
+      "source_refs": [
+        "https://capricorncollege.edu.za/wp-content/uploads/2025/04/2025-2026-Capricorn-TVET-Prospectus.pdf"
+      ]
+    }
+  ],
+  "admissions_rules": [
+    {
+      "id": "adm:325:NATED|3787633babc5|report 191:subjects",
+      "institutionId": "325",
+      "programmeId": "prog:325:NATED|3787633babc5|report 191",
+      "ruleType": "subject_requirements",
+      "detail": "Accounting >= 15%",
+      "subjects": [
+        {
+          "subject": "Accounting",
+          "minimum_percentage": 15,
+          "raw_span": "Accounting 15\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/capricorn-tvet-college.pdf",
+            "char_start": 1428,
+            "char_end": 1442,
+            "excerpt": "Accounting 15"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/capricorn-tvet-college.pdf",
+      "sourceUrl": "https://capricorncollege.edu.za/wp-content/uploads/2025/04/2025-2026-Capricorn-TVET-Prospectus.pdf"
+    },
+    {
+      "id": "adm:325:NCV|0b8628209db7|nc(v) l4:subjects",
+      "institutionId": "325",
+      "programmeId": "prog:325:NCV|0b8628209db7|nc(v) l4",
+      "ruleType": "subject_requirements",
+      "detail": "Accounting >= 11%",
+      "subjects": [
+        {
+          "subject": "Accounting",
+          "minimum_percentage": 11,
+          "raw_span": "accounting at least up to grade 11",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/capricorn-tvet-college.pdf",
+            "char_start": 15121,
+            "char_end": 15155,
+            "excerpt": "accounting at least up to grade 11"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/capricorn-tvet-college.pdf",
+      "sourceUrl": "https://capricorncollege.edu.za/wp-content/uploads/2025/04/2025-2026-Capricorn-TVET-Prospectus.pdf"
+    },
+    {
+      "id": "adm:325:NCV|fc81b65741d8|nc (v) l4:subjects",
+      "institutionId": "325",
+      "programmeId": "prog:325:NCV|fc81b65741d8|nc (v) l4",
+      "ruleType": "subject_requirements",
+      "detail": "Accounting >= 11%",
+      "subjects": [
+        {
+          "subject": "Accounting",
+          "minimum_percentage": 11,
+          "raw_span": "Accounting at least up to grade 11",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/capricorn-tvet-college.pdf",
+            "char_start": 19138,
+            "char_end": 19172,
+            "excerpt": "Accounting at least up to grade 11"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/capricorn-tvet-college.pdf",
+      "sourceUrl": "https://capricorncollege.edu.za/wp-content/uploads/2025/04/2025-2026-Capricorn-TVET-Prospectus.pdf"
+    },
+    {
+      "id": "adm:325:NATED|2991a6b8d1aa|n6 certificate:subjects",
+      "institutionId": "325",
+      "programmeId": "prog:325:NATED|2991a6b8d1aa|n6 certificate",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 12%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 12,
+          "raw_span": "Maths and Science, Technical Grade 12",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/capricorn-tvet-college.pdf",
+            "char_start": 32924,
+            "char_end": 32961,
+            "excerpt": "Maths and Science, Technical Grade 12"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/capricorn-tvet-college.pdf",
+      "sourceUrl": "https://capricorncollege.edu.za/wp-content/uploads/2025/04/2025-2026-Capricorn-TVET-Prospectus.pdf"
+    },
+    {
+      "id": "adm:325:NCV|4dff7880f0af|nc(v) level 2:subjects",
+      "institutionId": "325",
+      "programmeId": "prog:325:NCV|4dff7880f0af|nc(v) level 2",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 1%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 1,
+          "raw_span": "Mathematics Level 1\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/capricorn-tvet-college.pdf",
+            "char_start": 69660,
+            "char_end": 69680,
+            "excerpt": "Mathematics Level 1"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/capricorn-tvet-college.pdf",
+      "sourceUrl": "https://capricorncollege.edu.za/wp-content/uploads/2025/04/2025-2026-Capricorn-TVET-Prospectus.pdf"
+    }
+  ],
+  "aps_rules": [],
+  "llm_calls": 0
+}

@@ -1,0 +1,207 @@
+{
+  "institution": {
+    "id": "institution:vaal-university-of-technology",
+    "slug": "vaal-university-of-technology",
+    "institution_id_raw": "375",
+    "name": "Vaal University of Technology",
+    "institution_type": "university-of-technology",
+    "city": "Vanderbijlpark",
+    "province": "Gauteng",
+    "official_website": "https://vut.ac.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/375/vaal-university-of-technology",
+    "source_paths": [
+      "enriched_universities.json",
+      "generated/v3/institutions.enriched.json",
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "sector": "higher education",
+      "province": "Gauteng",
+      "city": "Vanderbijlpark",
+      "physical_address": "Andries Potgieter Boulevard, Vanderbijlpark",
+      "postal_address": "Private Bag X021, Vanderbijlpark, 1990",
+      "contact_emails": [
+        "studentenquiries@vut.ac.za"
+      ],
+      "contact_phone_numbers": [
+        "016 950 9111",
+        "016 950 9000"
+      ],
+      "application_url": "https://vut.ac.za/how-to-apply/",
+      "socials": {
+        "facebook": "https://www.facebook.com/people/Vaal-University-of-Technology/61570177062858/",
+        "instagram": "https://www.instagram.com/vaal.university.of.technology/?hl=en",
+        "linkedin": "https://www.linkedin.com/company/vaal-university-of-technology-vut/",
+        "x": "https://twitter.com/VUT_Online/",
+        "youtube": "https://www.youtube.com/channel/UCDzwOVrN1e25VLkWkwf-hzw"
+      },
+      "accreditation": {
+        "dh et": "Accredited",
+        "saqa": "Registered"
+      },
+      "sources": [
+        "https://nationalgovernment.co.za/units/view/375/vaal-university-of-technology",
+        "https://vut.ac.za/"
+      ],
+      "qualification_types": [
+        "National Diploma",
+        "BTech",
+        "Advanced Diploma",
+        "Postgraduate"
+      ],
+      "student_accommodation": true,
+      "short_name": "VUT",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/f/f2/Vaal_University_of_Technology_logo.png",
+      "colors": [
+        "Sapphire",
+        "Gold",
+        "Dandelion"
+      ],
+      "motto": "Inspiring thought, Shaping Talent",
+      "type": "University of Technology",
+      "languages": [
+        "English"
+      ],
+      "student_estimate": 19000,
+      "sports_affiliations": [
+        "Athletics",
+        "Basketball",
+        "Beach Volleyball",
+        "Cricket",
+        "Men's football",
+        "Women's football",
+        "Field hockey",
+        "Netball",
+        "Rugby union",
+        "Rugby sevens",
+        "Mountain biking"
+      ]
+    }
+  },
+  "campuses": [
+    {
+      "id": "campus:vaal-university-of-technology--educity",
+      "institution_slug": "vaal-university-of-technology",
+      "name": "Educity",
+      "city": "Sebokeng",
+      "province": "Gauteng",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:vaal-university-of-technology--vanderbijlpark",
+      "institution_slug": "vaal-university-of-technology",
+      "name": "Vanderbijlpark",
+      "city": "Vanderbijlpark",
+      "province": "Gauteng",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    }
+  ],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [
+    {
+      "id": "programme:vaal-university-of-technology--advanced-diploma",
+      "institution_slug": "vaal-university-of-technology",
+      "institution_name": "Vaal University of Technology",
+      "name": "Advanced Diploma",
+      "normalized_name": "Advanced Diploma",
+      "qualification_type": "Advanced Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Advanced Diploma",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:vaal-university-of-technology--national-diploma",
+      "institution_slug": "vaal-university-of-technology",
+      "institution_name": "Vaal University of Technology",
+      "name": "National Diploma",
+      "normalized_name": "National Diploma",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "National Diploma",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    }
+  ],
+  "programmes_all": [
+    {
+      "id": "programme:vaal-university-of-technology--advanced-diploma",
+      "institution_slug": "vaal-university-of-technology",
+      "institution_name": "Vaal University of Technology",
+      "name": "Advanced Diploma",
+      "normalized_name": "Advanced Diploma",
+      "qualification_type": "Advanced Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Advanced Diploma",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:vaal-university-of-technology--national-diploma",
+      "institution_slug": "vaal-university-of-technology",
+      "institution_name": "Vaal University of Technology",
+      "name": "National Diploma",
+      "normalized_name": "National Diploma",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "National Diploma",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    }
+  ],
+  "counts": {
+    "campuses": 2,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 2,
+    "programmes_all": 2
+  }
+}

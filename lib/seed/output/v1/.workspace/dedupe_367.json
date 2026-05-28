@@ -1,0 +1,3504 @@
+{
+  "faculties": [
+    {
+      "id": "fac:367:20a13e4aaa81",
+      "institutionId": "367",
+      "name": "Veterinary Science 19",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+    },
+    {
+      "id": "fac:367:e5abfed58379",
+      "institutionId": "367",
+      "name": "Theology and Religion",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+    },
+    {
+      "id": "fac:367:f74f4758a59c",
+      "institutionId": "367",
+      "name": "Veterinary Science",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+    },
+    {
+      "id": "fac:367:b6699811cb4a",
+      "institutionId": "367",
+      "name": "Natural and Agricultural Sciences",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+    },
+    {
+      "id": "fac:367:0b3febbefb62",
+      "institutionId": "367",
+      "name": "Law",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+    },
+    {
+      "id": "fac:367:2eaea8b6bb88",
+      "institutionId": "367",
+      "name": "Humanities",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+    },
+    {
+      "id": "fac:367:34e5aa1e1367",
+      "institutionId": "367",
+      "name": "Health Sciences",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+    },
+    {
+      "id": "fac:367:99b15650bfa1",
+      "institutionId": "367",
+      "name": "Economic and Management",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+    },
+    {
+      "id": "fac:367:3cc7928ba168",
+      "institutionId": "367",
+      "name": "Engineering, Built Environment",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+    },
+    {
+      "id": "fac:367:148ede3030e5",
+      "institutionId": "367",
+      "name": "Education",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+    },
+    {
+      "id": "fac:367:78d95fdb95cf",
+      "institutionId": "367",
+      "name": "Economic and Management Sciences website",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+    },
+    {
+      "id": "fac:367:5e4a69cd25e4",
+      "institutionId": "367",
+      "name": "Engineering, Built Environment and Information Technology website",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+    },
+    {
+      "id": "fac:367:6bd0756e0d13",
+      "institutionId": "367",
+      "name": "ENGINEERING",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+    },
+    {
+      "id": "fac:367:23f213c8eaa1",
+      "institutionId": "367",
+      "name": "INFORMATION TECHNOLOGY",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+    },
+    {
+      "id": "fac:367:0c21ef6081d2",
+      "institutionId": "367",
+      "name": "Health Sciences, please consult a student advisor. To make an",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+    },
+    {
+      "id": "fac:367:03d2c2525ff0",
+      "institutionId": "367",
+      "name": "Humanities website www.up.ac.za/faculty-of-humanities",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+    },
+    {
+      "id": "fac:367:3a3d528502ce",
+      "institutionId": "367",
+      "name": "Natural and Agricultural Sciences website",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+    },
+    {
+      "id": "fac:367:1b3f3bc7bc93",
+      "institutionId": "367",
+      "name": "Veterinary Science website www.up.ac.za/vet",
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+    }
+  ],
+  "programmes": [
+    {
+      "id": "prog:367:Degree|32232fc9f0d9|bachelor of arts",
+      "institutionId": "367",
+      "name": "BA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 87320,
+        "char_end": 87336,
+        "excerpt": "Bachelor of Arts"
+      },
+      "normalization_key": "Degree|32232fc9f0d9|bachelor of arts",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|32232fc9f0d9|bachelor of arts"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|8f028f940e08|ba (law)",
+      "institutionId": "367",
+      "name": "BA (Law)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 85280,
+        "char_end": 85288,
+        "excerpt": "BA (Law)"
+      },
+      "normalization_key": "Degree|8f028f940e08|ba (law)",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|8f028f940e08|ba (law)"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|aba6ed432546|bachelor of arts in audiology",
+      "institutionId": "367",
+      "name": "BA in Audiology",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 69433,
+        "char_end": 69462,
+        "excerpt": "Bachelor of Arts in Audiology"
+      },
+      "normalization_key": "Degree|aba6ed432546|bachelor of arts in audiology",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|aba6ed432546|bachelor of arts in audiology"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|9413d2bafa54|bachelor of arts in fine arts",
+      "institutionId": "367",
+      "name": "BA in Fine Arts",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 81767,
+        "char_end": 81796,
+        "excerpt": "Bachelor of Arts in Fine Arts"
+      },
+      "normalization_key": "Degree|9413d2bafa54|bachelor of arts in fine arts",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|9413d2bafa54|bachelor of arts in fine arts"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|bb6a25908198|bachelor of arts in speech-language",
+      "institutionId": "367",
+      "name": "BA in Speech-Language",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 68856,
+        "char_end": 68891,
+        "excerpt": "Bachelor of Arts in Speech-Language"
+      },
+      "normalization_key": "Degree|bb6a25908198|bachelor of arts in speech-language",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|bb6a25908198|bachelor of arts in speech-language"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|a0927872ea22|bachelor of arts lays the foundation for further studies and work in the followi",
+      "institutionId": "367",
+      "name": "BA lays the foundation for further studies and work in the following fields:",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 71147,
+        "char_end": 71237,
+        "excerpt": "Bachelor of Arts lays the foundation for further studies and work in the following fields:"
+      },
+      "normalization_key": "Degree|a0927872ea22|bachelor of arts lays the foundation for further studies and work in the followi",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|a0927872ea22|bachelor of arts lays the foundation for further studies and work in the followi"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|e02aa48cb077|bachelor of arts specialising in",
+      "institutionId": "367",
+      "name": "BA specialising in",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 79072,
+        "char_end": 79104,
+        "excerpt": "Bachelor of Arts specialising in"
+      },
+      "normalization_key": "Degree|e02aa48cb077|bachelor of arts specialising in",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|e02aa48cb077|bachelor of arts specialising in"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|9c8ca1b3bcea|bachelor of arts specialising in law",
+      "institutionId": "367",
+      "name": "BA specialising in Law",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 85223,
+        "char_end": 85259,
+        "excerpt": "Bachelor of Arts specialising in Law"
+      },
+      "normalization_key": "Degree|9c8ca1b3bcea|bachelor of arts specialising in law",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|9c8ca1b3bcea|bachelor of arts specialising in law"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|3441dacae47f|bachelor of arts specialising in law applications can be",
+      "institutionId": "367",
+      "name": "BA specialising in Law applications can be",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 85431,
+        "char_end": 85487,
+        "excerpt": "Bachelor of Arts specialising in Law applications can be"
+      },
+      "normalization_key": "Degree|3441dacae47f|bachelor of arts specialising in law applications can be",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|3441dacae47f|bachelor of arts specialising in law applications can be"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|d96541a5229e|bachelor of arts specialising in law degree and a bachelor of laws",
+      "institutionId": "367",
+      "name": "BA specialising in Law degree and a Bachelor of Laws",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 85322,
+        "char_end": 85388,
+        "excerpt": "Bachelor of Arts specialising in Law degree and a Bachelor of Laws"
+      },
+      "normalization_key": "Degree|d96541a5229e|bachelor of arts specialising in law degree and a bachelor of laws",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|d96541a5229e|bachelor of arts specialising in law degree and a bachelor of laws",
+        "prog:367:Degree|d96541a5229e|bachelor of arts specialising in law degree and a bachelor of laws"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|af8463e4e941|bachelor of arts specialising in philosophy, politics",
+      "institutionId": "367",
+      "name": "BA specialising in Philosophy, Politics",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 79192,
+        "char_end": 79245,
+        "excerpt": "Bachelor of Arts specialising in Philosophy, Politics"
+      },
+      "normalization_key": "Degree|af8463e4e941|bachelor of arts specialising in philosophy, politics",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|af8463e4e941|bachelor of arts specialising in philosophy, politics"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|6ddccaf338f3|ba(ppe)",
+      "institutionId": "367",
+      "name": "BA(PPE)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 79606,
+        "char_end": 79613,
+        "excerpt": "BA(PPE)"
+      },
+      "normalization_key": "Degree|6ddccaf338f3|ba(ppe)",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|6ddccaf338f3|ba(ppe)"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|0e4099eebabe|bachelor of arts.",
+      "institutionId": "367",
+      "name": "BA.",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 57216,
+        "char_end": 57233,
+        "excerpt": "Bachelor of Arts."
+      },
+      "normalization_key": "Degree|0e4099eebabe|bachelor of arts.",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|0e4099eebabe|bachelor of arts.",
+        "prog:367:Degree|0e4099eebabe|bachelor of arts."
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|4f2dc7afc202|bachelor of administration",
+      "institutionId": "367",
+      "name": "Bachelor of Administration",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 30441,
+        "char_end": 30467,
+        "excerpt": "Bachelor of Administration"
+      },
+      "normalization_key": "Degree|4f2dc7afc202|bachelor of administration",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|4f2dc7afc202|bachelor of administration"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|734cb76c0b92|bachelor of clinical",
+      "institutionId": "367",
+      "name": "Bachelor of Clinical",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 28
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 61053,
+        "char_end": 61073,
+        "excerpt": "Bachelor of Clinical"
+      },
+      "normalization_key": "Degree|734cb76c0b92|bachelor of clinical",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|734cb76c0b92|bachelor of clinical"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|d847e6c63920|bachelor of consumer science",
+      "institutionId": "367",
+      "name": "Bachelor of Consumer Science",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 103193,
+        "char_end": 103221,
+        "excerpt": "Bachelor of Consumer Science"
+      },
+      "normalization_key": "Degree|d847e6c63920|bachelor of consumer science",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|d847e6c63920|bachelor of consumer science"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|7da27f62a7ec|bachelor of consumer science specialising in",
+      "institutionId": "367",
+      "name": "Bachelor of Consumer Science specialising in",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 103842,
+        "char_end": 103886,
+        "excerpt": "Bachelor of Consumer Science specialising in"
+      },
+      "normalization_key": "Degree|7da27f62a7ec|bachelor of consumer science specialising in",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|7da27f62a7ec|bachelor of consumer science specialising in",
+        "prog:367:Degree|7da27f62a7ec|bachelor of consumer science specialising in"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|521a78914376|bachelor of dental",
+      "institutionId": "367",
+      "name": "Bachelor of Dental",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 59800,
+        "char_end": 59818,
+        "excerpt": "Bachelor of Dental"
+      },
+      "normalization_key": "Degree|521a78914376|bachelor of dental",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|521a78914376|bachelor of dental"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|ffa3bbaedc2e|bachelor of dietetics",
+      "institutionId": "367",
+      "name": "Bachelor of Dietetics",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 60146,
+        "char_end": 60167,
+        "excerpt": "Bachelor of Dietetics"
+      },
+      "normalization_key": "Degree|ffa3bbaedc2e|bachelor of dietetics",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|ffa3bbaedc2e|bachelor of dietetics"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|ae907b8c2cb4|bachelor of drama",
+      "institutionId": "367",
+      "name": "Bachelor of Drama",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 78285,
+        "char_end": 78302,
+        "excerpt": "Bachelor of Drama"
+      },
+      "normalization_key": "Degree|ae907b8c2cb4|bachelor of drama",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|ae907b8c2cb4|bachelor of drama"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|12fe17ce28a9|bachelor of education",
+      "institutionId": "367",
+      "name": "Bachelor of Education",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 43202,
+        "char_end": 43223,
+        "excerpt": "Bachelor of Education"
+      },
+      "normalization_key": "Degree|12fe17ce28a9|bachelor of education",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|12fe17ce28a9|bachelor of education",
+        "prog:367:Degree|12fe17ce28a9|bachelor of education",
+        "prog:367:Degree|12fe17ce28a9|bachelor of education",
+        "prog:367:Degree|12fe17ce28a9|bachelor of education",
+        "prog:367:Degree|12fe17ce28a9|bachelor of education",
+        "prog:367:Degree|12fe17ce28a9|bachelor of education"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|1fc72c66b77a|bachelor of education degree, they will be",
+      "institutionId": "367",
+      "name": "Bachelor of Education degree, they will be",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 39963,
+        "char_end": 40005,
+        "excerpt": "Bachelor of Education degree, they will be"
+      },
+      "normalization_key": "Degree|1fc72c66b77a|bachelor of education degree, they will be",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|1fc72c66b77a|bachelor of education degree, they will be"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|da513b5a51bd|bachelor of education in",
+      "institutionId": "367",
+      "name": "Bachelor of Education in",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 44216,
+        "char_end": 44240,
+        "excerpt": "Bachelor of Education in"
+      },
+      "normalization_key": "Degree|da513b5a51bd|bachelor of education in",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|da513b5a51bd|bachelor of education in"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|84b40d41273e|bachelor of education in foundation phase teaching",
+      "institutionId": "367",
+      "name": "Bachelor of Education in Foundation Phase Teaching",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 42299,
+        "char_end": 42349,
+        "excerpt": "Bachelor of Education in Foundation Phase Teaching"
+      },
+      "normalization_key": "Degree|84b40d41273e|bachelor of education in foundation phase teaching",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|84b40d41273e|bachelor of education in foundation phase teaching"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|2658477e616a|bachelor of education in intermediate phase teaching",
+      "institutionId": "367",
+      "name": "Bachelor of Education in Intermediate Phase Teaching",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 42540,
+        "char_end": 42592,
+        "excerpt": "Bachelor of Education in Intermediate Phase Teaching"
+      },
+      "normalization_key": "Degree|2658477e616a|bachelor of education in intermediate phase teaching",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|2658477e616a|bachelor of education in intermediate phase teaching"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|dd80fe269c1b|bachelor of education in senior phase and",
+      "institutionId": "367",
+      "name": "Bachelor of Education in Senior Phase and",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 41217,
+        "char_end": 41258,
+        "excerpt": "Bachelor of Education in Senior Phase and"
+      },
+      "normalization_key": "Degree|dd80fe269c1b|bachelor of education in senior phase and",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|dd80fe269c1b|bachelor of education in senior phase and"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|31f92ae05cd8|bachelor of education in senior phase and further",
+      "institutionId": "367",
+      "name": "Bachelor of Education in Senior Phase and Further",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 42763,
+        "char_end": 42812,
+        "excerpt": "Bachelor of Education in Senior Phase and Further"
+      },
+      "normalization_key": "Degree|31f92ae05cd8|bachelor of education in senior phase and further",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|31f92ae05cd8|bachelor of education in senior phase and further"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|acd1f30c30c4|bachelor of education in senior phase and further education and training teachin",
+      "institutionId": "367",
+      "name": "Bachelor of Education in Senior Phase and Further Education and Training Teaching",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 112699,
+        "char_end": 112780,
+        "excerpt": "Bachelor of Education in Senior Phase and Further Education and Training Teaching"
+      },
+      "normalization_key": "Degree|acd1f30c30c4|bachelor of education in senior phase and further education and training teachin",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|acd1f30c30c4|bachelor of education in senior phase and further education and training teachin",
+        "prog:367:Degree|acd1f30c30c4|bachelor of education in senior phase and further education and training teachin",
+        "prog:367:Degree|acd1f30c30c4|bachelor of education in senior phase and further education and training teachin"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|a4c7cf6732db|bachelor of engineering",
+      "institutionId": "367",
+      "name": "Bachelor of Engineering",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 52557,
+        "char_end": 52580,
+        "excerpt": "Bachelor of Engineering"
+      },
+      "normalization_key": "Degree|a4c7cf6732db|bachelor of engineering",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|a4c7cf6732db|bachelor of engineering"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|3445585ea53a|bachelor of engineering programme [previously called",
+      "institutionId": "367",
+      "name": "Bachelor of Engineering programme [previously called",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 45825,
+        "char_end": 45877,
+        "excerpt": "Bachelor of Engineering programme [previously called"
+      },
+      "normalization_key": "Degree|3445585ea53a|bachelor of engineering programme [previously called",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|3445585ea53a|bachelor of engineering programme [previously called"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|7be7554f68ca|bachelor of engineering programme after the first year of study in these program",
+      "institutionId": "367",
+      "name": "Bachelor of Engineering programme after the first year of study in these programmes.",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 114241,
+        "char_end": 114325,
+        "excerpt": "Bachelor of Engineering programme after the first year of study in these programmes."
+      },
+      "normalization_key": "Degree|7be7554f68ca|bachelor of engineering programme after the first year of study in these program",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|7be7554f68ca|bachelor of engineering programme after the first year of study in these program"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|3559e041d8a9|bachelor of engineering programme after the first year of study in these program",
+      "institutionId": "367",
+      "name": "Bachelor of Engineering programme after the first year of study in these programmes:",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 46573,
+        "char_end": 46657,
+        "excerpt": "Bachelor of Engineering programme after the first year of study in these programmes:"
+      },
+      "normalization_key": "Degree|3559e041d8a9|bachelor of engineering programme after the first year of study in these program",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|3559e041d8a9|bachelor of engineering programme after the first year of study in these program"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|7a326be2aff2|bachelor of engineering programme for",
+      "institutionId": "367",
+      "name": "Bachelor of Engineering programme for",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 46109,
+        "char_end": 46146,
+        "excerpt": "Bachelor of Engineering programme for"
+      },
+      "normalization_key": "Degree|7a326be2aff2|bachelor of engineering programme for",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|7a326be2aff2|bachelor of engineering programme for"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|f9590763331d|bachelor of information science specialising in interactive technology.",
+      "institutionId": "367",
+      "name": "Bachelor of Information Science specialising in Interactive Technology.",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 59463,
+        "char_end": 59534,
+        "excerpt": "Bachelor of Information Science specialising in Interactive Technology."
+      },
+      "normalization_key": "Degree|f9590763331d|bachelor of information science specialising in interactive technology.",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|f9590763331d|bachelor of information science specialising in interactive technology."
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|92604f84dceb|bachelor of information science.",
+      "institutionId": "367",
+      "name": "Bachelor of Information Science.",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 58316,
+        "char_end": 58348,
+        "excerpt": "Bachelor of Information Science."
+      },
+      "normalization_key": "Degree|92604f84dceb|bachelor of information science.",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|92604f84dceb|bachelor of information science."
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|db15e57d0768|bachelor of laws",
+      "institutionId": "367",
+      "name": "Bachelor of Laws",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 84221,
+        "char_end": 84237,
+        "excerpt": "Bachelor of Laws"
+      },
+      "normalization_key": "Degree|db15e57d0768|bachelor of laws",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|db15e57d0768|bachelor of laws"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|bcb50ffd778e|bachelor of laws [also referred to as llb].",
+      "institutionId": "367",
+      "name": "Bachelor of Laws [also referred to as LLB].",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 34031,
+        "char_end": 34074,
+        "excerpt": "Bachelor of Laws [also referred to as LLB]."
+      },
+      "normalization_key": "Degree|bcb50ffd778e|bachelor of laws [also referred to as llb].",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|bcb50ffd778e|bachelor of laws [also referred to as llb]."
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|da5e6214a6dd|bachelor of laws applications can be directed to:",
+      "institutionId": "367",
+      "name": "Bachelor of Laws applications can be directed to:",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 84415,
+        "char_end": 84464,
+        "excerpt": "Bachelor of Laws applications can be directed to:"
+      },
+      "normalization_key": "Degree|da5e6214a6dd|bachelor of laws applications can be directed to:",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|da5e6214a6dd|bachelor of laws applications can be directed to:"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|2fdf2a17a3c2|bachelor of medicine and",
+      "institutionId": "367",
+      "name": "Bachelor of Medicine and",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 61334,
+        "char_end": 61358,
+        "excerpt": "Bachelor of Medicine and"
+      },
+      "normalization_key": "Degree|2fdf2a17a3c2|bachelor of medicine and",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|2fdf2a17a3c2|bachelor of medicine and"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|a3f431f84c44|bachelor of medicine and surgery) degree.",
+      "institutionId": "367",
+      "name": "Bachelor of Medicine and Surgery) degree.",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 64222,
+        "char_end": 64263,
+        "excerpt": "Bachelor of Medicine and Surgery) degree."
+      },
+      "normalization_key": "Degree|a3f431f84c44|bachelor of medicine and surgery) degree.",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|a3f431f84c44|bachelor of medicine and surgery) degree."
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|3910255e94b9|bachelor of music",
+      "institutionId": "367",
+      "name": "Bachelor of Music",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 76297,
+        "char_end": 76314,
+        "excerpt": "Bachelor of Music"
+      },
+      "normalization_key": "Degree|3910255e94b9|bachelor of music",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|3910255e94b9|bachelor of music",
+        "prog:367:Degree|3910255e94b9|bachelor of music"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|e341bd9f3f37|bachelor of music degree.",
+      "institutionId": "367",
+      "name": "Bachelor of Music degree.",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 77525,
+        "char_end": 77550,
+        "excerpt": "Bachelor of Music degree."
+      },
+      "normalization_key": "Degree|e341bd9f3f37|bachelor of music degree.",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|e341bd9f3f37|bachelor of music degree."
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|13982a862dd7|bachelor of nursing science",
+      "institutionId": "367",
+      "name": "Bachelor of Nursing Science",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 28
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 60306,
+        "char_end": 60333,
+        "excerpt": "Bachelor of Nursing Science"
+      },
+      "normalization_key": "Degree|13982a862dd7|bachelor of nursing science",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|13982a862dd7|bachelor of nursing science"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|d494f99c9d74|bachelor of occupational",
+      "institutionId": "367",
+      "name": "Bachelor of Occupational",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 60500,
+        "char_end": 60524,
+        "excerpt": "Bachelor of Occupational"
+      },
+      "normalization_key": "Degree|d494f99c9d74|bachelor of occupational",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|d494f99c9d74|bachelor of occupational"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|4b067b2036bc|bachelor of oral",
+      "institutionId": "367",
+      "name": "Bachelor of Oral",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 59976,
+        "char_end": 59992,
+        "excerpt": "Bachelor of Oral"
+      },
+      "normalization_key": "Degree|4b067b2036bc|bachelor of oral",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|4b067b2036bc|bachelor of oral"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|f3e3530b9587|bachelor of physiotherapy",
+      "institutionId": "367",
+      "name": "Bachelor of Physiotherapy",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 60684,
+        "char_end": 60709,
+        "excerpt": "Bachelor of Physiotherapy"
+      },
+      "normalization_key": "Degree|f3e3530b9587|bachelor of physiotherapy",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|f3e3530b9587|bachelor of physiotherapy"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|7cd2f340ba1e|bachelor of political science specialising in",
+      "institutionId": "367",
+      "name": "Bachelor of Political Science specialising in",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 80537,
+        "char_end": 80582,
+        "excerpt": "Bachelor of Political Science specialising in"
+      },
+      "normalization_key": "Degree|7cd2f340ba1e|bachelor of political science specialising in",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|7cd2f340ba1e|bachelor of political science specialising in",
+        "prog:367:Degree|7cd2f340ba1e|bachelor of political science specialising in",
+        "prog:367:Degree|7cd2f340ba1e|bachelor of political science specialising in"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|f0db1bb0ec45|bachelor of radiography in",
+      "institutionId": "367",
+      "name": "Bachelor of Radiography in",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 60854,
+        "char_end": 60880,
+        "excerpt": "Bachelor of Radiography in"
+      },
+      "normalization_key": "Degree|f0db1bb0ec45|bachelor of radiography in",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|f0db1bb0ec45|bachelor of radiography in"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Postgraduate|cbfb6d4f3be4|bachelor of social science honours specialising in",
+      "institutionId": "367",
+      "name": "Bachelor of Social Science Honours specialising in",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 71537,
+        "char_end": 71587,
+        "excerpt": "Bachelor of Social Science Honours specialising in"
+      },
+      "normalization_key": "Postgraduate|cbfb6d4f3be4|bachelor of social science honours specialising in",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Postgraduate|cbfb6d4f3be4|bachelor of social science honours specialising in"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|332bfa169c3f|bachelor of social science in heritage and cultural",
+      "institutionId": "367",
+      "name": "Bachelor of Social Science in Heritage and Cultural",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 74152,
+        "char_end": 74203,
+        "excerpt": "Bachelor of Social Science in Heritage and Cultural"
+      },
+      "normalization_key": "Degree|332bfa169c3f|bachelor of social science in heritage and cultural",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|332bfa169c3f|bachelor of social science in heritage and cultural"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|e921dd38a839|bachelor of social science specialising in heritage and",
+      "institutionId": "367",
+      "name": "Bachelor of Social Science specialising in Heritage and",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 74696,
+        "char_end": 74751,
+        "excerpt": "Bachelor of Social Science specialising in Heritage and"
+      },
+      "normalization_key": "Degree|e921dd38a839|bachelor of social science specialising in heritage and",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|e921dd38a839|bachelor of social science specialising in heritage and"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|cc58e8eb9fe1|bachelor of social science specialising in industrial",
+      "institutionId": "367",
+      "name": "Bachelor of Social Science specialising in Industrial",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 73567,
+        "char_end": 73620,
+        "excerpt": "Bachelor of Social Science specialising in Industrial"
+      },
+      "normalization_key": "Degree|cc58e8eb9fe1|bachelor of social science specialising in industrial",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|cc58e8eb9fe1|bachelor of social science specialising in industrial"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|a428b18a05f4|bachelor of sports",
+      "institutionId": "367",
+      "name": "Bachelor of Sports",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 30
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 61566,
+        "char_end": 61584,
+        "excerpt": "Bachelor of Sports"
+      },
+      "normalization_key": "Degree|a428b18a05f4|bachelor of sports",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|a428b18a05f4|bachelor of sports"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|cb4c6b6c8990|bachelor of theology",
+      "institutionId": "367",
+      "name": "Bachelor of Theology",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 86809,
+        "char_end": 86829,
+        "excerpt": "Bachelor of Theology"
+      },
+      "normalization_key": "Degree|cb4c6b6c8990|bachelor of theology",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|cb4c6b6c8990|bachelor of theology"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|66edca371d67|bachelor of town",
+      "institutionId": "367",
+      "name": "Bachelor of Town",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 55313,
+        "char_end": 55329,
+        "excerpt": "Bachelor of Town"
+      },
+      "normalization_key": "Degree|66edca371d67|bachelor of town",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|66edca371d67|bachelor of town"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|8142f749c1cc|bachelor of veterinary",
+      "institutionId": "367",
+      "name": "Bachelor of Veterinary",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 119270,
+        "char_end": 119292,
+        "excerpt": "Bachelor of Veterinary"
+      },
+      "normalization_key": "Degree|8142f749c1cc|bachelor of veterinary",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|8142f749c1cc|bachelor of veterinary"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|8e714f7b3681|bachelor of veterinary nursing",
+      "institutionId": "367",
+      "name": "Bachelor of Veterinary Nursing",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 28
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 121653,
+        "char_end": 121683,
+        "excerpt": "Bachelor of Veterinary Nursing"
+      },
+      "normalization_key": "Degree|8e714f7b3681|bachelor of veterinary nursing",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|8e714f7b3681|bachelor of veterinary nursing"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|edbbb4a7dfcc|bachelor of veterinary nursing programme to the bachelor",
+      "institutionId": "367",
+      "name": "Bachelor of Veterinary Nursing programme to the Bachelor",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 120215,
+        "char_end": 120271,
+        "excerpt": "Bachelor of Veterinary Nursing programme to the Bachelor"
+      },
+      "normalization_key": "Degree|edbbb4a7dfcc|bachelor of veterinary nursing programme to the bachelor",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|edbbb4a7dfcc|bachelor of veterinary nursing programme to the bachelor"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|e46c94ebce2a|bachelor of veterinary nursing,",
+      "institutionId": "367",
+      "name": "Bachelor of Veterinary Nursing,",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 121853,
+        "char_end": 121884,
+        "excerpt": "Bachelor of Veterinary Nursing,"
+      },
+      "normalization_key": "Degree|e46c94ebce2a|bachelor of veterinary nursing,",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|e46c94ebce2a|bachelor of veterinary nursing,"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|cfaa8eec35d0|bachelor of veterinary science are bachelor",
+      "institutionId": "367",
+      "name": "Bachelor of Veterinary Science are Bachelor",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 120765,
+        "char_end": 120808,
+        "excerpt": "Bachelor of Veterinary Science are Bachelor"
+      },
+      "normalization_key": "Degree|cfaa8eec35d0|bachelor of veterinary science are bachelor",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|cfaa8eec35d0|bachelor of veterinary science are bachelor"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|6ea63f891c4e|bachelor of veterinary science iii, iv, v, or final year will",
+      "institutionId": "367",
+      "name": "Bachelor of Veterinary Science III, IV, V, or final year will",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 119698,
+        "char_end": 119759,
+        "excerpt": "Bachelor of Veterinary Science III, IV, V, or final year will"
+      },
+      "normalization_key": "Degree|6ea63f891c4e|bachelor of veterinary science iii, iv, v, or final year will",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|6ea63f891c4e|bachelor of veterinary science iii, iv, v, or final year will"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|c40e373ee68c|bachelor of veterinary science l.",
+      "institutionId": "367",
+      "name": "Bachelor of Veterinary Science l.",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 120155,
+        "char_end": 120188,
+        "excerpt": "Bachelor of Veterinary Science l."
+      },
+      "normalization_key": "Degree|c40e373ee68c|bachelor of veterinary science l.",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|c40e373ee68c|bachelor of veterinary science l."
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|d00eeda8f3e4|bachelor of veterinary science or bachelor of",
+      "institutionId": "367",
+      "name": "Bachelor of Veterinary Science or Bachelor of",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 118905,
+        "char_end": 118950,
+        "excerpt": "Bachelor of Veterinary Science or Bachelor of"
+      },
+      "normalization_key": "Degree|d00eeda8f3e4|bachelor of veterinary science or bachelor of",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|d00eeda8f3e4|bachelor of veterinary science or bachelor of"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|88b8bf4e2263|bachelor of commerce",
+      "institutionId": "367",
+      "name": "BCom",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 58715,
+        "char_end": 58735,
+        "excerpt": "Bachelor of Commerce"
+      },
+      "normalization_key": "Degree|88b8bf4e2263|bachelor of commerce",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|88b8bf4e2263|bachelor of commerce",
+        "prog:367:Degree|88b8bf4e2263|bachelor of commerce",
+        "prog:367:Degree|88b8bf4e2263|bachelor of commerce",
+        "prog:367:Degree|88b8bf4e2263|bachelor of commerce",
+        "prog:367:Degree|88b8bf4e2263|bachelor of commerce",
+        "prog:367:Degree|88b8bf4e2263|bachelor of commerce",
+        "prog:367:Degree|88b8bf4e2263|bachelor of commerce",
+        "prog:367:Degree|88b8bf4e2263|bachelor of commerce",
+        "prog:367:Degree|88b8bf4e2263|bachelor of commerce",
+        "prog:367:Degree|88b8bf4e2263|bachelor of commerce"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|242f898b4cfc|bcom (law)",
+      "institutionId": "367",
+      "name": "BCom (Law)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 84724,
+        "char_end": 84734,
+        "excerpt": "BCom (Law)"
+      },
+      "normalization_key": "Degree|242f898b4cfc|bcom (law)",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|242f898b4cfc|bcom (law)"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|7ef734f7b750|bachelor of commerce and bachelor of",
+      "institutionId": "367",
+      "name": "BCom and Bachelor of",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 35114,
+        "char_end": 35150,
+        "excerpt": "Bachelor of Commerce and Bachelor of"
+      },
+      "normalization_key": "Degree|7ef734f7b750|bachelor of commerce and bachelor of",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|7ef734f7b750|bachelor of commerce and bachelor of",
+        "prog:367:Degree|7ef734f7b750|bachelor of commerce and bachelor of",
+        "prog:367:Degree|7ef734f7b750|bachelor of commerce and bachelor of",
+        "prog:367:Degree|7ef734f7b750|bachelor of commerce and bachelor of",
+        "prog:367:Degree|7ef734f7b750|bachelor of commerce and bachelor of",
+        "prog:367:Degree|7ef734f7b750|bachelor of commerce and bachelor of"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|42b76270ef7b|bachelor of commerce in investment",
+      "institutionId": "367",
+      "name": "BCom in Investment",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 54390,
+        "char_end": 54424,
+        "excerpt": "Bachelor of Commerce in Investment"
+      },
+      "normalization_key": "Degree|42b76270ef7b|bachelor of commerce in investment",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|42b76270ef7b|bachelor of commerce in investment"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|4f0812f6a209|bachelor of commerce specialising",
+      "institutionId": "367",
+      "name": "BCom specialising",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 84663,
+        "char_end": 84696,
+        "excerpt": "Bachelor of Commerce specialising"
+      },
+      "normalization_key": "Degree|4f0812f6a209|bachelor of commerce specialising",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|4f0812f6a209|bachelor of commerce specialising",
+        "prog:367:Degree|4f0812f6a209|bachelor of commerce specialising"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|7d3b5e463eab|bachelor of commerce specialising in",
+      "institutionId": "367",
+      "name": "BCom specialising in",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 90321,
+        "char_end": 90357,
+        "excerpt": "Bachelor of Commerce specialising in"
+      },
+      "normalization_key": "Degree|7d3b5e463eab|bachelor of commerce specialising in",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|7d3b5e463eab|bachelor of commerce specialising in",
+        "prog:367:Degree|7d3b5e463eab|bachelor of commerce specialising in"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|f4e6d23a69d6|bachelor of commerce specialising in information systems",
+      "institutionId": "367",
+      "name": "BCom specialising in Information Systems",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 56560,
+        "char_end": 56616,
+        "excerpt": "Bachelor of Commerce specialising in Information Systems"
+      },
+      "normalization_key": "Degree|f4e6d23a69d6|bachelor of commerce specialising in information systems",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|f4e6d23a69d6|bachelor of commerce specialising in information systems"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|d0dbef496de3|bachelor of commerce specialising in law applications can",
+      "institutionId": "367",
+      "name": "BCom specialising in Law applications can",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 84936,
+        "char_end": 84993,
+        "excerpt": "Bachelor of Commerce specialising in Law applications can"
+      },
+      "normalization_key": "Degree|d0dbef496de3|bachelor of commerce specialising in law applications can",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|d0dbef496de3|bachelor of commerce specialising in law applications can"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|78d183af166a|bachelor of science",
+      "institutionId": "367",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 108973,
+        "char_end": 108992,
+        "excerpt": "Bachelor of Science"
+      },
+      "normalization_key": "Degree|78d183af166a|bachelor of science",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|5f75057e98ee|bsc",
+        "prog:367:Degree|78d183af166a|bachelor of science",
+        "prog:367:Degree|78d183af166a|bachelor of science",
+        "prog:367:Degree|78d183af166a|bachelor of science",
+        "prog:367:Degree|78d183af166a|bachelor of science",
+        "prog:367:Degree|78d183af166a|bachelor of science",
+        "prog:367:Degree|78d183af166a|bachelor of science",
+        "prog:367:Degree|78d183af166a|bachelor of science",
+        "prog:367:Degree|78d183af166a|bachelor of science",
+        "prog:367:Degree|78d183af166a|bachelor of science",
+        "prog:367:Degree|78d183af166a|bachelor of science",
+        "prog:367:Degree|78d183af166a|bachelor of science",
+        "prog:367:Degree|78d183af166a|bachelor of science",
+        "prog:367:Degree|78d183af166a|bachelor of science",
+        "prog:367:Degree|78d183af166a|bachelor of science",
+        "prog:367:Degree|78d183af166a|bachelor of science"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|547680266288|bachelor of science 4- and 5-year",
+      "institutionId": "367",
+      "name": "BSc 4- and 5-year",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 118757,
+        "char_end": 118790,
+        "excerpt": "Bachelor of Science 4- and 5-year"
+      },
+      "normalization_key": "Degree|547680266288|bachelor of science 4- and 5-year",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|547680266288|bachelor of science 4- and 5-year"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|b5962f97d1a3|bachelor of science 4-year and 5-year programmes must",
+      "institutionId": "367",
+      "name": "BSc 4-year and 5-year programmes must",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 46372,
+        "char_end": 46425,
+        "excerpt": "Bachelor of Science 4-year and 5-year programmes must"
+      },
+      "normalization_key": "Degree|b5962f97d1a3|bachelor of science 4-year and 5-year programmes must",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|b5962f97d1a3|bachelor of science 4-year and 5-year programmes must"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|abf7f43afcdc|bachelor of science and five-year bachelor of science in agriculture programmes ",
+      "institutionId": "367",
+      "name": "BSc and five-year BSc in Agriculture programmes have slightly lower minimum",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 113440,
+        "char_end": 113547,
+        "excerpt": "Bachelor of Science and five-year Bachelor of Science in Agriculture programmes have slightly lower minimum"
+      },
+      "normalization_key": "Degree|abf7f43afcdc|bachelor of science and five-year bachelor of science in agriculture programmes ",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|abf7f43afcdc|bachelor of science and five-year bachelor of science in agriculture programmes "
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Postgraduate|e294aa61f29f|bachelor of science honours",
+      "institutionId": "367",
+      "name": "BSc Honours",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 110785,
+        "char_end": 110812,
+        "excerpt": "Bachelor of Science Honours"
+      },
+      "normalization_key": "Postgraduate|e294aa61f29f|bachelor of science honours",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Postgraduate|e294aa61f29f|bachelor of science honours"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Postgraduate|b51f3190f2be|bachelor of science honours in",
+      "institutionId": "367",
+      "name": "BSc Honours in",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 61940,
+        "char_end": 61970,
+        "excerpt": "Bachelor of Science Honours in"
+      },
+      "normalization_key": "Postgraduate|b51f3190f2be|bachelor of science honours in",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Postgraduate|b51f3190f2be|bachelor of science honours in"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|b9ac5a4d64c9|bachelor of science in",
+      "institutionId": "367",
+      "name": "BSc in",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 96057,
+        "char_end": 96079,
+        "excerpt": "Bachelor of Science in"
+      },
+      "normalization_key": "Degree|b9ac5a4d64c9|bachelor of science in",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|b9ac5a4d64c9|bachelor of science in",
+        "prog:367:Degree|b9ac5a4d64c9|bachelor of science in"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|208024c5c2ef|bachelor of science in agriculture",
+      "institutionId": "367",
+      "name": "BSc in Agriculture",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 87931,
+        "char_end": 87965,
+        "excerpt": "Bachelor of Science in Agriculture"
+      },
+      "normalization_key": "Degree|208024c5c2ef|bachelor of science in agriculture",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|208024c5c2ef|bachelor of science in agriculture"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|74c34c56f151|bachelor of science in agriculture in animal science applies scientific",
+      "institutionId": "367",
+      "name": "BSc in Agriculture in Animal Science applies scientific",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 91154,
+        "char_end": 91225,
+        "excerpt": "Bachelor of Science in Agriculture in Animal Science applies scientific"
+      },
+      "normalization_key": "Degree|74c34c56f151|bachelor of science in agriculture in animal science applies scientific",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|74c34c56f151|bachelor of science in agriculture in animal science applies scientific"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|8b8e90503e61|bachelor of science in agriculture in animal science. these",
+      "institutionId": "367",
+      "name": "BSc in Agriculture in Animal Science. These",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 120835,
+        "char_end": 120894,
+        "excerpt": "Bachelor of Science in Agriculture in Animal Science. These"
+      },
+      "normalization_key": "Degree|8b8e90503e61|bachelor of science in agriculture in animal science. these",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|8b8e90503e61|bachelor of science in agriculture in animal science. these"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|aa0a8c6e28f2|bachelor of science in agriculture in applied plant and soil",
+      "institutionId": "367",
+      "name": "BSc in Agriculture in Applied Plant and Soil",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 46985,
+        "char_end": 47045,
+        "excerpt": "Bachelor of Science in Agriculture in Applied Plant and Soil"
+      },
+      "normalization_key": "Degree|aa0a8c6e28f2|bachelor of science in agriculture in applied plant and soil",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|aa0a8c6e28f2|bachelor of science in agriculture in applied plant and soil"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|9759ec71129d|bachelor of science in agriculture programmes, if space permits.",
+      "institutionId": "367",
+      "name": "BSc in Agriculture programmes, if space permits.",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 88807,
+        "char_end": 88871,
+        "excerpt": "Bachelor of Science in Agriculture programmes, if space permits."
+      },
+      "normalization_key": "Degree|9759ec71129d|bachelor of science in agriculture programmes, if space permits.",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|9759ec71129d|bachelor of science in agriculture programmes, if space permits."
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|0731eb750ce8|bachelor of science in agriculture programmes.",
+      "institutionId": "367",
+      "name": "BSc in Agriculture programmes.",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 89050,
+        "char_end": 89096,
+        "excerpt": "Bachelor of Science in Agriculture programmes."
+      },
+      "normalization_key": "Degree|0731eb750ce8|bachelor of science in agriculture programmes.",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|0731eb750ce8|bachelor of science in agriculture programmes."
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|bc59d919dd2a|bachelor of science in architecture degree programme enables",
+      "institutionId": "367",
+      "name": "BSc in Architecture degree programme enables",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 53462,
+        "char_end": 53522,
+        "excerpt": "Bachelor of Science in Architecture degree programme enables"
+      },
+      "normalization_key": "Degree|bc59d919dd2a|bachelor of science in architecture degree programme enables",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|bc59d919dd2a|bachelor of science in architecture degree programme enables"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|78d9754e4aa9|bachelor of science in biochemistry and bachelor of science in microbiology.",
+      "institutionId": "367",
+      "name": "BSc in Biochemistry and BSc in Microbiology.",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 94519,
+        "char_end": 94595,
+        "excerpt": "Bachelor of Science in Biochemistry and Bachelor of Science in Microbiology."
+      },
+      "normalization_key": "Degree|78d9754e4aa9|bachelor of science in biochemistry and bachelor of science in microbiology.",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|78d9754e4aa9|bachelor of science in biochemistry and bachelor of science in microbiology."
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|a6a440458cfb|bachelor of science in computer science.",
+      "institutionId": "367",
+      "name": "BSc in Computer Science.",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 59040,
+        "char_end": 59080,
+        "excerpt": "Bachelor of Science in Computer Science."
+      },
+      "normalization_key": "Degree|a6a440458cfb|bachelor of science in computer science.",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|a6a440458cfb|bachelor of science in computer science."
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|212cf69d028f|bachelor of science in food",
+      "institutionId": "367",
+      "name": "BSc in Food",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 94359,
+        "char_end": 94386,
+        "excerpt": "Bachelor of Science in Food"
+      },
+      "normalization_key": "Degree|212cf69d028f|bachelor of science in food",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|212cf69d028f|bachelor of science in food",
+        "prog:367:Degree|212cf69d028f|bachelor of science in food"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|f7f00aefe84d|bachelor of science in food management",
+      "institutionId": "367",
+      "name": "BSc in Food Management",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 95188,
+        "char_end": 95226,
+        "excerpt": "Bachelor of Science in Food Management"
+      },
+      "normalization_key": "Degree|f7f00aefe84d|bachelor of science in food management",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|f7f00aefe84d|bachelor of science in food management"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|37c4b7083315|bachelor of science in food management option: nutritional science.",
+      "institutionId": "367",
+      "name": "BSc in Food Management Option: Nutritional Science.",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 94086,
+        "char_end": 94153,
+        "excerpt": "Bachelor of Science in Food Management Option: Nutritional Science."
+      },
+      "normalization_key": "Degree|37c4b7083315|bachelor of science in food management option: nutritional science.",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|37c4b7083315|bachelor of science in food management option: nutritional science."
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|3850fb2531ec|bachelor of science in geography option:",
+      "institutionId": "367",
+      "name": "BSc in Geography Option:",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 111986,
+        "char_end": 112026,
+        "excerpt": "Bachelor of Science in Geography Option:"
+      },
+      "normalization_key": "Degree|3850fb2531ec|bachelor of science in geography option:",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|3850fb2531ec|bachelor of science in geography option:",
+        "prog:367:Degree|3850fb2531ec|bachelor of science in geography option:"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|558e84bb5e10|bsc in geoinformatics programme.",
+      "institutionId": "367",
+      "name": "BSc in Geoinformatics programme.",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 110627,
+        "char_end": 110659,
+        "excerpt": "BSc in Geoinformatics programme."
+      },
+      "normalization_key": "Degree|558e84bb5e10|bsc in geoinformatics programme.",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|558e84bb5e10|bsc in geoinformatics programme."
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|7f2dc4a53913|bsc in geoinformatics, you can register as a candidate",
+      "institutionId": "367",
+      "name": "BSc in Geoinformatics, you can register as a Candidate",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 110680,
+        "char_end": 110734,
+        "excerpt": "BSc in Geoinformatics, you can register as a Candidate"
+      },
+      "normalization_key": "Degree|7f2dc4a53913|bsc in geoinformatics, you can register as a candidate",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|7f2dc4a53913|bsc in geoinformatics, you can register as a candidate"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|36ee075f095d|bachelor of science in geology.",
+      "institutionId": "367",
+      "name": "BSc in Geology.",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 108397,
+        "char_end": 108428,
+        "excerpt": "Bachelor of Science in Geology."
+      },
+      "normalization_key": "Degree|36ee075f095d|bachelor of science in geology.",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|36ee075f095d|bachelor of science in geology."
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|895b01bd8a08|bachelor of science in human",
+      "institutionId": "367",
+      "name": "BSc in Human",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 99759,
+        "char_end": 99787,
+        "excerpt": "Bachelor of Science in Human"
+      },
+      "normalization_key": "Degree|895b01bd8a08|bachelor of science in human",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|895b01bd8a08|bachelor of science in human"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|c5c807756a5a|bachelor of science in information",
+      "institutionId": "367",
+      "name": "BSc in Information",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 58904,
+        "char_end": 58938,
+        "excerpt": "Bachelor of Science in Information"
+      },
+      "normalization_key": "Degree|c5c807756a5a|bachelor of science in information",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|c5c807756a5a|bachelor of science in information",
+        "prog:367:Degree|c5c807756a5a|bachelor of science in information"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|1daa9d0fca02|bachelor of science in mathematical statistics.",
+      "institutionId": "367",
+      "name": "BSc in Mathematical Statistics.",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 104602,
+        "char_end": 104649,
+        "excerpt": "Bachelor of Science in Mathematical Statistics."
+      },
+      "normalization_key": "Degree|1daa9d0fca02|bachelor of science in mathematical statistics.",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|1daa9d0fca02|bachelor of science in mathematical statistics."
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|2847998d8b11|bachelor of science in mathematics and the bachelor of education",
+      "institutionId": "367",
+      "name": "BSc in Mathematics and the Bachelor of Education",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 105373,
+        "char_end": 105437,
+        "excerpt": "Bachelor of Science in Mathematics and the Bachelor of Education"
+      },
+      "normalization_key": "Degree|2847998d8b11|bachelor of science in mathematics and the bachelor of education",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|2847998d8b11|bachelor of science in mathematics and the bachelor of education"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|0c8e9a585c25|bachelor of science in meteorology.",
+      "institutionId": "367",
+      "name": "BSc in Meteorology.",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 109104,
+        "char_end": 109139,
+        "excerpt": "Bachelor of Science in Meteorology."
+      },
+      "normalization_key": "Degree|0c8e9a585c25|bachelor of science in meteorology.",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|0c8e9a585c25|bachelor of science in meteorology."
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|4ea0ac07d816|bachelor of science in physics and bachelor of science in",
+      "institutionId": "367",
+      "name": "BSc in Physics and BSc in",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 111056,
+        "char_end": 111113,
+        "excerpt": "Bachelor of Science in Physics and Bachelor of Science in"
+      },
+      "normalization_key": "Degree|4ea0ac07d816|bachelor of science in physics and bachelor of science in",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|4ea0ac07d816|bachelor of science in physics and bachelor of science in"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|2f79f3000078|bachelor of science in physics, bachelor of science in",
+      "institutionId": "367",
+      "name": "BSc in Physics, BSc in",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 48263,
+        "char_end": 48317,
+        "excerpt": "Bachelor of Science in Physics, Bachelor of Science in"
+      },
+      "normalization_key": "Degree|2f79f3000078|bachelor of science in physics, bachelor of science in",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|2f79f3000078|bachelor of science in physics, bachelor of science in"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|a9bc516c2e1b|bachelor of science in physics, bachelor of science in mathematics,",
+      "institutionId": "367",
+      "name": "BSc in Physics, BSc in Mathematics,",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 46820,
+        "char_end": 46887,
+        "excerpt": "Bachelor of Science in Physics, Bachelor of Science in Mathematics,"
+      },
+      "normalization_key": "Degree|a9bc516c2e1b|bachelor of science in physics, bachelor of science in mathematics,",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|a9bc516c2e1b|bachelor of science in physics, bachelor of science in mathematics,"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|1f7ed97363fa|bachelor of science in physics.",
+      "institutionId": "367",
+      "name": "BSc in Physics.",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 52210,
+        "char_end": 52241,
+        "excerpt": "Bachelor of Science in Physics."
+      },
+      "normalization_key": "Degree|1f7ed97363fa|bachelor of science in physics.",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|1f7ed97363fa|bachelor of science in physics.",
+        "prog:367:Degree|1f7ed97363fa|bachelor of science in physics.",
+        "prog:367:Degree|1f7ed97363fa|bachelor of science in physics.",
+        "prog:367:Degree|1f7ed97363fa|bachelor of science in physics.",
+        "prog:367:Degree|1f7ed97363fa|bachelor of science in physics.",
+        "prog:367:Degree|1f7ed97363fa|bachelor of science in physics.",
+        "prog:367:Degree|1f7ed97363fa|bachelor of science in physics.",
+        "prog:367:Degree|1f7ed97363fa|bachelor of science in physics."
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|81e1d645be67|bachelor of science in quantity surveying.",
+      "institutionId": "367",
+      "name": "BSc in Quantity Surveying.",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 48346,
+        "char_end": 48388,
+        "excerpt": "Bachelor of Science in Quantity Surveying."
+      },
+      "normalization_key": "Degree|81e1d645be67|bachelor of science in quantity surveying.",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|81e1d645be67|bachelor of science in quantity surveying."
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|b367d3be2aa7|bachelor of science in real estate.",
+      "institutionId": "367",
+      "name": "BSc in Real Estate.",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 54914,
+        "char_end": 54949,
+        "excerpt": "Bachelor of Science in Real Estate."
+      },
+      "normalization_key": "Degree|b367d3be2aa7|bachelor of science in real estate.",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|b367d3be2aa7|bachelor of science in real estate.",
+        "prog:367:Degree|b367d3be2aa7|bachelor of science in real estate."
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|abdb936b146e|bachelor of science in zoology or bachelor of science in agriculture in",
+      "institutionId": "367",
+      "name": "BSc in Zoology or BSc in Agriculture in",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 121066,
+        "char_end": 121137,
+        "excerpt": "Bachelor of Science in Zoology or Bachelor of Science in Agriculture in"
+      },
+      "normalization_key": "Degree|abdb936b146e|bachelor of science in zoology or bachelor of science in agriculture in",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|abdb936b146e|bachelor of science in zoology or bachelor of science in agriculture in"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|d1cbeb769fc8|bachelor of science in:",
+      "institutionId": "367",
+      "name": "BSc in:",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 114028,
+        "char_end": 114051,
+        "excerpt": "Bachelor of Science in:"
+      },
+      "normalization_key": "Degree|d1cbeb769fc8|bachelor of science in:",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|d1cbeb769fc8|bachelor of science in:",
+        "prog:367:Degree|d1cbeb769fc8|bachelor of science in:"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|9916c017b37a|bachelor of science or 5-year bachelor of science",
+      "institutionId": "367",
+      "name": "BSc or 5-year BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 88203,
+        "char_end": 88252,
+        "excerpt": "Bachelor of Science or 5-year Bachelor of Science"
+      },
+      "normalization_key": "Degree|9916c017b37a|bachelor of science or 5-year bachelor of science",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|9916c017b37a|bachelor of science or 5-year bachelor of science"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|85f0758409ff|bachelor of science programmes and",
+      "institutionId": "367",
+      "name": "BSc programmes and",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 88612,
+        "char_end": 88646,
+        "excerpt": "Bachelor of Science programmes and"
+      },
+      "normalization_key": "Degree|85f0758409ff|bachelor of science programmes and",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|85f0758409ff|bachelor of science programmes and"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Degree|a2a3db8635e8|bachelor of science students in years 1 to 3 (categories b1, b2, b3) who have fa",
+      "institutionId": "367",
+      "name": "BSc students in years 1 to 3 (Categories B1, B2, B3) who have failed",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 118986,
+        "char_end": 119070,
+        "excerpt": "Bachelor of Science students in years 1 to 3 (Categories B1, B2, B3) who have failed"
+      },
+      "normalization_key": "Degree|a2a3db8635e8|bachelor of science students in years 1 to 3 (categories b1, b2, b3) who have fa",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Degree|a2a3db8635e8|bachelor of science students in years 1 to 3 (categories b1, b2, b3) who have fa"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Diploma|961d9d0771cc|diploma in theology",
+      "institutionId": "367",
+      "name": "Diploma in Theology",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 87552,
+        "char_end": 87571,
+        "excerpt": "Diploma in Theology"
+      },
+      "normalization_key": "Diploma|961d9d0771cc|diploma in theology",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Diploma|961d9d0771cc|diploma in theology",
+        "prog:367:Diploma|961d9d0771cc|diploma in theology"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Postgraduate|7cc33d521602|honours degree enables registration as a language",
+      "institutionId": "367",
+      "name": "honours degree enables registration as a language",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 73436,
+        "char_end": 73485,
+        "excerpt": "honours degree enables registration as a language"
+      },
+      "normalization_key": "Postgraduate|7cc33d521602|honours degree enables registration as a language",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Postgraduate|7cc33d521602|honours degree enables registration as a language"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Postgraduate|6e6051aa9009|honours degree, graduates can register as",
+      "institutionId": "367",
+      "name": "honours degree, graduates can register as",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 54549,
+        "char_end": 54590,
+        "excerpt": "honours degree, graduates can register as"
+      },
+      "normalization_key": "Postgraduate|6e6051aa9009|honours degree, graduates can register as",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Postgraduate|6e6051aa9009|honours degree, graduates can register as"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Postgraduate|b15ae33b29d9|honours in meteorology is",
+      "institutionId": "367",
+      "name": "Honours in Meteorology is",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 112454,
+        "char_end": 112479,
+        "excerpt": "Honours in Meteorology is"
+      },
+      "normalization_key": "Postgraduate|b15ae33b29d9|honours in meteorology is",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Postgraduate|b15ae33b29d9|honours in meteorology is"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Postgraduate|e37d1cc7a65d|honours programme, graduates",
+      "institutionId": "367",
+      "name": "honours programme, graduates",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 55079,
+        "char_end": 55107,
+        "excerpt": "honours programme, graduates"
+      },
+      "normalization_key": "Postgraduate|e37d1cc7a65d|honours programme, graduates",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Postgraduate|e37d1cc7a65d|honours programme, graduates",
+        "prog:367:Postgraduate|e37d1cc7a65d|honours programme, graduates"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Postgraduate|5630a7417df1|honours, master’s, and doctoral",
+      "institutionId": "367",
+      "name": "honours, master’s, and doctoral",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 100994,
+        "char_end": 101025,
+        "excerpt": "honours, master’s, and doctoral"
+      },
+      "normalization_key": "Postgraduate|5630a7417df1|honours, master’s, and doctoral",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Postgraduate|5630a7417df1|honours, master’s, and doctoral"
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    },
+    {
+      "id": "prog:367:Postgraduate|5ce98dced7f9|master of arts in clinical, counselling or research psychology.",
+      "institutionId": "367",
+      "name": "Master of Arts in Clinical, Counselling or Research Psychology.",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+        "char_start": 71607,
+        "char_end": 71670,
+        "excerpt": "Master of Arts in Clinical, Counselling or Research Psychology."
+      },
+      "normalization_key": "Postgraduate|5ce98dced7f9|master of arts in clinical, counselling or research psychology.",
+      "campuses": [],
+      "merged_from": [
+        "prog:367:Postgraduate|5ce98dced7f9|master of arts in clinical, counselling or research psychology."
+      ],
+      "source_refs": [
+        "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+      ]
+    }
+  ],
+  "admissions_rules": [
+    {
+      "id": "adm:367:Degree|4f2dc7afc202|bachelor of administration:subjects",
+      "institutionId": "367",
+      "programmeId": "prog:367:Degree|4f2dc7afc202|bachelor of administration",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 3%; Mathematics >= 4%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 3,
+          "raw_span": "Mathematics 3\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+            "char_start": 30544,
+            "char_end": 30558,
+            "excerpt": "Mathematics 3"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 4,
+          "raw_span": "Mathematical\nLiteracy 4\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+            "char_start": 30561,
+            "char_end": 30585,
+            "excerpt": "Mathematical Literacy 4"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+    },
+    {
+      "id": "adm:367:Degree|13982a862dd7|bachelor of nursing science:subjects",
+      "institutionId": "367",
+      "programmeId": "prog:367:Degree|13982a862dd7|bachelor of nursing science",
+      "ruleType": "subject_requirements",
+      "detail": "Physical Sciences >= 28%",
+      "subjects": [
+        {
+          "subject": "Physical Sciences",
+          "minimum_percentage": 28,
+          "raw_span": "Physical\nSciences) 28\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+            "char_start": 60367,
+            "char_end": 60389,
+            "excerpt": "Physical Sciences) 28"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+    },
+    {
+      "id": "adm:367:Degree|734cb76c0b92|bachelor of clinical:subjects",
+      "institutionId": "367",
+      "programmeId": "prog:367:Degree|734cb76c0b92|bachelor of clinical",
+      "ruleType": "subject_requirements",
+      "detail": "Life Sciences >= 28%",
+      "subjects": [
+        {
+          "subject": "Life Sciences",
+          "minimum_percentage": 28,
+          "raw_span": "Life Sciences 28\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+            "char_start": 61151,
+            "char_end": 61168,
+            "excerpt": "Life Sciences 28"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+    },
+    {
+      "id": "adm:367:Degree|a428b18a05f4|bachelor of sports:subjects",
+      "institutionId": "367",
+      "programmeId": "prog:367:Degree|a428b18a05f4|bachelor of sports",
+      "ruleType": "subject_requirements",
+      "detail": "Life Sciences >= 30%",
+      "subjects": [
+        {
+          "subject": "Life Sciences",
+          "minimum_percentage": 30,
+          "raw_span": "Life Sciences 30\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+            "char_start": 61628,
+            "char_end": 61645,
+            "excerpt": "Life Sciences 30"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+    },
+    {
+      "id": "adm:367:Degree|8e714f7b3681|bachelor of veterinary nursing:subjects",
+      "institutionId": "367",
+      "programmeId": "prog:367:Degree|8e714f7b3681|bachelor of veterinary nursing",
+      "ruleType": "subject_requirements",
+      "detail": "Life Sciences >= 28%",
+      "subjects": [
+        {
+          "subject": "Life Sciences",
+          "minimum_percentage": 28,
+          "raw_span": "Life Sciences 28\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-pretoria.pdf",
+            "char_start": 121786,
+            "char_end": 121803,
+            "excerpt": "Life Sciences 28"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-pretoria.pdf",
+      "sourceUrl": "https://drupalwebprod-files.up.ac.za/Public/2026-01/UP_UG%20Prospectus%202027_NSC-IEB_DevV5_web_0.pdf?VersionId=mFTqP2HthIDn48ISjWf4b4g6CtdE6beU"
+    }
+  ],
+  "aps_rules": [],
+  "llm_calls": 0
+}

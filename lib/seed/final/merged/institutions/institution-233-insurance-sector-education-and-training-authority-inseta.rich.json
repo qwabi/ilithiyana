@@ -1,0 +1,30 @@
+{
+  "institution": {
+    "institution_id": "233",
+    "name": "Insurance Sector Education and Training Authority (Inseta)",
+    "institution_type": "seta",
+    "city": "Sandton",
+    "province": "Gauteng",
+    "official_website": "https://inseta.org.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/233/insurance-sector-education-and-training-authority-inseta",
+    "source_paths": [
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

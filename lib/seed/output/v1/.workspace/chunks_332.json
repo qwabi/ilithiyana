@@ -1,0 +1,539 @@
+{
+  "chunks": [
+    {
+      "type": "programme",
+      "text": "NATIONAL N DIPLOMA\nAPPLICATION PROCESS\nGUIDE\n❑ The policy document, Formal technical college instructional programmes in the RSA, Report 191 (2001/08),contains the\nprogramme requirements for current technical college education in the Republic of South Africa. The Report serves as a manual\nand is an educational policy document, which lists all instructional programmes approved by the Minister of Education in\naccordance with the National Education Policy Act 1996, (Act No. 27 of 1996).",
+      "institutionId": "332",
+      "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "start_char": 0,
+      "end_char": 488
+    },
+    {
+      "type": "programme",
+      "text": "As per memorandum 31 of 2013 the requirements needed to apply for diploma are stipulated.",
+      "institutionId": "332",
+      "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "start_char": 557,
+      "end_char": 646
+    },
+    {
+      "type": "programme",
+      "text": "NO, a diploma comprises of theoretical achievements and a practical component. Evidence of practical\nexperience must be submitted (logbook).",
+      "institutionId": "332",
+      "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "start_char": 718,
+      "end_char": 858
+    },
+    {
+      "type": "programme",
+      "text": "Applicants wishing to apply for the National N Diploma must approach the College where they studied to\nsubmit an application.\nWhat should I do?\n❑ Complete the prescribed application forms obtainable from your college",
+      "institutionId": "332",
+      "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "start_char": 902,
+      "end_char": 1118
+    },
+    {
+      "type": "programme",
+      "text": "❑ Attach the following documentations required for the issuing of the diploma:\no Certified copies of the N4,N5 and N6 Certificates\no Certified copy of statements of results. (This is not compulsory if the certificates are attached).\no Certified copy of original identity document.\no It is important that a detailed workplace experiential letter relating to the two instructional offerings on N6 level obtained",
+      "institutionId": "332",
+      "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "start_char": 1119,
+      "end_char": 1528
+    },
+    {
+      "type": "programme",
+      "text": "from the institution which offered training to attached. For Business Studies Diploma the candidate must produce\ndocumentary proof of at least eighteen months or 2000 hours of applicable experience in commerce and industry\nthat has as its main function the practical execution of the two instructional offerings offered on the N6 level.\no Attach the approved QCTO logbook indicating the activities performed.",
+      "institutionId": "332",
+      "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "start_char": 1529,
+      "end_char": 1937
+    },
+    {
+      "type": "programme",
+      "text": "❑ For Engineering Studies Diploma the candidate must produce documentary proof of two years or 2 670 hours of\napplicable experience in commerce and industry that has as its main function the practical execution of the two\ninstructional offerings offered on the N6 level. Attach the approved QCTO logbook indicating the activities performed.\n❑ The college will check, verify and recommend your application to the DHET.\nUpon receipt of the completed application forms by",
+      "institutionId": "332",
+      "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "start_char": 1938,
+      "end_char": 2406
+    },
+    {
+      "type": "faculty",
+      "text": "the Department of Higher Education and Training Chief\nDirectorate: National Examinations and Assessment,\nprocessing of the application will commence.\nVerification of the theoretical achievement of the candidate will be done\non all the levels (N4,N5 &N6) to determine whether the candidate meets the\nrequired 12 instructional offerings needed for the issuing of the NND.\nThe practical component of eighteen months for Business Studies or 2000 hours needed,\nand/ or the two years or 2 670 hours needed for Engineering Studies will be verified with\nthe relevant institution to establish whether the candidate received training on tasks\nmentioned in relation to the two instructional offerings mentioned\nAll trade certificates provided (Engineering Studies) will also\nbe verified before the application can be uploaded into the\nsystem\nHOW LONG DOES IT TAKE FOR THE PROCESSING OF MY APPLICATION?",
+      "institutionId": "332",
+      "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "start_char": 2407,
+      "end_char": 3297
+    },
+    {
+      "type": "programme",
+      "text": "At the college where you applied for the diploma. All printed diplomas are sent to the college where applications are made.\nEnquiry regarding status of the application.\nHow will I know if my application has been received by the DHET?\nYour college will enquire on your behalf at the DHET.\nAll applicants must enquire at the college with regard to the status of their application i.e. determined whether it was\nsuccessful or declined.\nWhat must I do if the application has been declined?\nA letter declining your application will be sent with the original application back to the college. The letter will guide you to",
+      "institutionId": "332",
+      "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "start_char": 3330,
+      "end_char": 3944
+    },
+    {
+      "type": "programme",
+      "text": "the course of action you need to take to qualify for the diploma. You can request assistance from your college/student\nsupport services.\nHow much does it cost?",
+      "institutionId": "332",
+      "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "start_char": 3945,
+      "end_char": 4104
+    },
+    {
+      "type": "programme",
+      "text": "Currently, there is no cost to issuing the National N diploma. However, should the diploma get lost/damaged or destroyed a\nreplacement required an amount of R70.00.",
+      "institutionId": "332",
+      "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "start_char": 4105,
+      "end_char": 4269
+    },
+    {
+      "type": "programme",
+      "text": "If you lost or damaged your original National N Diploma, you must apply for a replacement at the College where you\nstudied. The application with the detailed affidavit indicating what happened to the original document must be submitted to\ncollege.\n?\n?\n?\n?\nMANAGEMENT\nASSISTANT\nSummary Outline",
+      "institutionId": "332",
+      "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "start_char": 4270,
+      "end_char": 4562
+    },
+    {
+      "type": "programme",
+      "text": "The National N-Diploma consists of 18 Months/ 1 year six\nmonths theoretical component (N4- N6)\n12 programme related subjects from N4 – N6 make up the\ntheoretical component;\nas well as 18 Months/2000 hours within the relevant industry\n1. The students should cover 2 compulsory subjects\n2. Workplace experience must be relevant and covers 18 months and more",
+      "institutionId": "332",
+      "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "start_char": 4603,
+      "end_char": 4958
+    },
+    {
+      "type": "programme",
+      "text": "The National Diploma qualification is aimed at giving the learner the following:\nTechnical Knowledge\nTheoretical Knowledge\nPractical Knowledge\nWorkplace Knowledge\nThe purpose of this document is to provide information to applicants regarding the assessment of the",
+      "institutionId": "332",
+      "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "start_char": 4995,
+      "end_char": 5258
+    },
+    {
+      "type": "programme",
+      "text": "National N-Diploma in Business Studies.\n•\nThe following are the few guidelines of the duties of the Management Assistant:\nManagement Assistant .\nThe duties include: admistrative, decision making latitude and serve in a leadership role.\nForm part of management team.\nOrganising all clerical duties etc.\nFUNCTIONS\n1. Meeting preparations\n2. Travel, car hire,\naccommodation\narrangement\n3. Secretarial Office admin\nOffice\nPractice\nFUNCTIONS\nTyping:\n• Memoranda\n• Minutes\n• Letters\n• Audio typing\nInformation\nProcessing\n4. Electronic office\n5. Basic HR, Safety & security of\nstaff\n6.Financial recording and\nmanagement\nWhen candidate is not fully\nexposed to both core\nsubject.\nEXPOSURE\nCandidates experience is mainly in\nAdministrative work.eg answer\ncalls, receive visitors, make copies\netc.\nDUTIES NOT ALIGNED\nwhere candidates only do\nfront line work that is mainly\nadministrative.\nNO OTHER EXPOSURE\nRetail shops i.e. Supermarkets,\nchain stores, food outlets\nINCORRECT WORKPLACE\nA\nB\nC\nD\nREASONS FOR THE DECLINES\nPUBLIC\nMANAGEMENT\nSummary Outline\nWHAT IS PUBLIC MANAGEMENT?\nPublic Management: Course that\naddresses the skills, knowledge and\nexperience needed in the public/\ngovernment department across\nSouth Africa.\nThe programme intergrates academic\nknowledge and theory with practical\nexperience obtained during\ninternship.\nCareer Opportunities\n❖ Government Departments\n❖ Local Municipal Authorities\nCurriculum\nN4 Certificate N5 Certificate N6 Certificate\no Public Administration\no Computer Practice\no Management Communication\no Entrepreneurship & Business\nManagement\no Public Administration\no Public Finance\no Municipal Administration\no Computer Practice\no Municipal Administration\no Public Finance / Computer Practice\no Public Administration\no Public Law\nCORE\nFUNCTIONS\nPUBLIC ADMINISTRATION\nIncludes:\n• General administration support\n• Supply chain administration\n• Personnel administrative support\n• Financial administrative support\nMUNICIPAL ADMIN\nIncludes:\n• Adherence to financial directives e.g.\ndebt collection and financial queries\nPUBLIC LAW\nIncludes\n• Exposure to legislation\n• Exposure to contracts\n• Exposure to legal activities\nCore Subjects\nWork experience\n18 months/2000 Hours\n• Once an applicant has successfully achieved all three N4-N6\ncertificates and has completed 18 months/2000 Hours in a relevant\nwork place, their logbook will be submitted with the supporting\nevidence to the college.\n• The college will then submit the application on behalf of the\napplicant to the DHET, which will be evaluated and feedback will be\nprovided through the college.\n• Upon approval, the applicant will be awarded the highly respected",
+      "institutionId": "332",
+      "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "start_char": 5259,
+      "end_char": 7897
+    },
+    {
+      "type": "programme",
+      "text": "National N-Diploma.\n• Work experience must always be under the supervision of\n✓ College WIL Officer\n✓ Company supervisor or Manager\n❑ The candidate is not providing a\ndetailed information with regards to\nduties at the workplace.\n❑ The start and end dates are not\nindicated on the letter\n❑ The candidate only indicates the skills\nand knowledge of one core subject.\nGeneral decline Incorrect Workplace\n❑ Day Care Centres\n❑ Educational institutions\n❑ Private Sector\nLess than required\nduration\n❑ Inaccurate calculations\nwhich is less than 18\nmonths\nREASONS FOR THE DECLINES",
+      "institutionId": "332",
+      "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "start_char": 7898,
+      "end_char": 8468
+    },
+    {
+      "type": "programme",
+      "text": "National Diploma Business\nManagement\nDictionary\nNational Senior Certificate (NSC),\n➢ is a Matric certificate. you receive in high school.\nSenior Certificate\n➢ Matric certificate you can pursue if you were not able to complete your Matric in high school. If you left high school for a variety of\nreasons, it does not mean you will never be able to obtain your Matric in order to further your studies or find employment.\nNational Certificate (N3)",
+      "institutionId": "332",
+      "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "start_char": 8469,
+      "end_char": 8913
+    },
+    {
+      "type": "faculty",
+      "text": "➢ is a senior certificate qualification for a matric equivalent obtained though the Department of Higher Education and Training (DHET) and\nUmalusi.\nFETC\n➢ Further Education & Training Certificate\nDHET",
+      "institutionId": "332",
+      "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "start_char": 8914,
+      "end_char": 9114
+    },
+    {
+      "type": "faculty",
+      "text": "➢ Department of Higher Education and Training\nSAQA\n• The South African Qualifications Authority is responsible for the development and implementation of the National Qualifications\nTVET College\n➢ (Technical and Vocational Education and Training) refers to all forms and levels of education and training which provide knowledge and\nskills related to occupations in various sectors of economic and social life through formal, non-formal and informal learning methods in\nboth school-based and work-based learning ...\nDictionary\nWorkplace experience\n➢ is the process of learning by doing. By engaging students in hands-on experiences and reflection, they are better able to connect\ntheories and knowledge learned in the classroom to real-world situations.\nLogBook\n➢ Logbook will hold a detailed list of all the tasks you will be to complete during your 18-months of training. The logbook will serve",
+      "institutionId": "332",
+      "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "start_char": 9115,
+      "end_char": 10009
+    },
+    {
+      "type": "programme",
+      "text": "➢ awarded to candidates who complete three levels of National Accredited Technical Education Diploma (Nated) qualifications: N4,\nN5 ,N6.& Workplace experience\nCollege Placement Officer\n➢ Placement Officers help students to find work placements with relevant employers. The goal of a placement is to provide\nstudents with workplace experience and assist them with their transition into the workforce.\nWork Supervisor\n➢ a person who is in charge of a group of people or an area of work and who makes sure that the work is done correctly and\naccording to the rules: All managers ...\n• This part qualification is aimed primarily at\ngiving the learner technical, theoretical\nknowledge, practical knowledge and\nworkplace knowledge and skills required in\ntheir chosen occupational/vocational area.\n• The design of the part qualification is such that if\ntaken sequentially with related N part courses\ni.e. N4+N5+N6, it enables learners to",
+      "institutionId": "332",
+      "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "start_char": 10109,
+      "end_char": 11039
+    },
+    {
+      "type": "programme",
+      "text": "progressively obtain the National N Diploma\nonce the required practical work component\nof either 18 months or 2000 Hours, as\nrequired for the specific occupational area, is\ncompleted.\nPURPOSE\n• The part qualification as a single entity has\nvalue in the workplace as it equips learners\nwith vital knowledge and skills that enable\nthem to be productively employed at entry\nlevel positions in an occupation.\n•\nThe part qualification can be used for\nupdating, upskilling and/or continuing\neducation and training in related occupations\nWHO SHOULD ATTEND\n❑ This programme is ideal for those who want to\nsucceed in a general management, retail or\nwholesale environment, as well as those who are\nmotivated to start their own business or are\ncurrently running their own business.\n❑ Business management gives you skills and\nknowledge that are directly applicable in all aspects\nof your life. Whether it is planning, influencing,\nanalyzing, networking or organizing – business\nmanagement helps you to develop key\ncompetencies that will promote your career\nprospects and will ultimately lead to success!\nNational Senior Certificate\n(NSC)\nSenior Certificate\nAn appropriate National\nCertificate (N3) in the relevant\nspecialization area\nAn FETC\nWork Experience\nN6 Certificate\nN5 Certificate\nN4\nCertificat\ne\n18 months/2000\nHours\n(SAQA ID: 66995)\n(SAQA ID:\n66929)\n(SAQA ID: 66871)\nTraining to be provided by\nsectors relevant to the\ncourse.\n➢Entrepreneurship and Business Management N6\n➢Sales Management N6\n➢Computer Practice N6\n➢Labour Relations N5\n➢Entrepreneur and Business Management N5.\n➢Sales Management N5.\n➢Labour Relations N5.\n➢Computer Practice N5\n➢Entrepreneurship & Business Management N4\n➢Management Communication N4\n➢Introductory Accounting N4\n➢Computer Practice N4",
+      "institutionId": "332",
+      "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "start_char": 11040,
+      "end_char": 12801
+    },
+    {
+      "type": "programme",
+      "text": "National Diploma\nWork experience (SAQA ID: 67036).\n18 months/2000 Hours\n• Once you have successfully achieved all three N4-N6 certificates\nand have worked for 18 months/2000 Hours in a business\nenvironment, your logbook will be submitted to the DHET. On\nreceiving DHET approval, you are awarded the highly respected",
+      "institutionId": "332",
+      "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "start_char": 12802,
+      "end_char": 13117
+    },
+    {
+      "type": "programme",
+      "text": "National N Diploma: Business Management (SAQA ID: 67036).\n• NB.\n• All public institutions are exempted from offering training.\n• Eg( Goverment institutions/companies, TVET Colleges, public schools)\n• Work experience must always be under the supervision of\n✓ College placement Officer\n✓ Company supervisor or Manager\nManagement\nConsultant\nGeneral\nManager\nManagement\nTrainee\nSuperviso\nr\nNew\nBusiness\nDevelopment\nManager\nBusiness\nBroker\nPersonality based on\nvalues, culture, social\ninteraction\nAn ability to reach\ngoals and achieve\nthe organization\nobjective\nSatisfaction of\nhuman need is\nimportant\nPeople are\nmotivated by\ndifferent factors i.e.\nmoney, rewards etc.\nPerson satisfaction\nabout their job, it can\nbe positive or\nnegative.\nA reachable level of\nfairness between\nemployees and the\norganization.\nCareer opportunities\nSales\nManager\nDepartmental\nManager\nEntrepreneur\nProject\nManager\nManaging\nDirector\nSupply Chain\nManager\nBusiness\nAnalyst\nPersonality based on\nvalues, culture, social\ninteraction\nAn ability to reach\ngoals and achieve\nthe organization\nobjective\nSatisfaction of\nhuman need is\nimportant\nPeople are\nmotivated by\ndifferent factors i.e.\nmoney, rewards etc.\nPerson satisfaction\nabout their job, it can\nbe positive or\nnegative.\nA reachable level of\nfairness between\nemployees and the\norganization.\nCareer opportunities\nMarketing\nManager\nAccount\nManager",
+      "institutionId": "332",
+      "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "start_char": 13118,
+      "end_char": 14483
+    },
+    {
+      "type": "programme",
+      "text": "National Diploma Marketing\nManagement\nDictionary\nNational Senior Certificate (NSC),\n➢ is a Matric certificate. you receive in high school.\nSenior Certificate\n➢ Matric certificate you can pursue if you were not able to complete your Matric in high school. If you left high school for a variety of\nreasons, it does not mean you will never be able to obtain your Matric in order to further your studies or find employment.\nNational Certificate (N3)",
+      "institutionId": "332",
+      "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "start_char": 14484,
+      "end_char": 14929
+    },
+    {
+      "type": "faculty",
+      "text": "➢ is a senior certificate qualification for a matric equivalent obtained though the Department of Higher Education and Training (DHET) and\nUmalusi.\nFETC\n➢ Further Education & Training Certificate\nDHET",
+      "institutionId": "332",
+      "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "start_char": 14930,
+      "end_char": 15130
+    },
+    {
+      "type": "faculty",
+      "text": "➢ Department of Higher Education and Training\nSAQA\n• The South African Qualifications Authority is responsible for the development and implementation of the National Qualifications\nTVET College\n➢ (Technical and Vocational Education and Training) refers to all forms and levels of education and training which provide knowledge and\nskills related to occupations in various sectors of economic and social life through formal, non-formal and informal learning methods in\nboth school-based and work-based learning ...\nDictionary\nWorkplace experience\n➢ is the process of learning by doing. By engaging students in hands-on experiences and reflection, they are better able to connect\ntheories and knowledge learned in the classroom to real-world situations.\nLogBook\n➢ Logbook will hold a detailed list of all the tasks you will be to complete during your 18-months of training. The logbook will serve",
+      "institutionId": "332",
+      "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "start_char": 15131,
+      "end_char": 16025
+    },
+    {
+      "type": "programme",
+      "text": "➢ awarded to candidates who complete three levels of National Accredited Technical Education Diploma (Nated) qualifications: N4,\nN5 ,N6.& Workplace experience\nCollege Placement Officer\n➢ Placement Officers help students to find work placements with relevant employers. The goal of a placement is to provide\nstudents with workplace experience and assist them with their transition into the workforce.\nWork Supervisor\n➢ a person who is in charge of a group of people or an area of work and who makes sure that the work is done correctly and\naccording to the rules: All managers ...\nPURPOSE OF THE QUALIFICATION\n▪ This part qualification is aimed primarily at giving the learner technical,\ntheoretical knowledge, practical knowledge and workplace knowledge\nand skills required in their chosen occupational/vocational area.\n▪ The design of the part qualification is such that if taken sequentially\nwith related N part courses i.e. N4+N5+N6, it enables learners to",
+      "institutionId": "332",
+      "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "start_char": 16125,
+      "end_char": 17084
+    },
+    {
+      "type": "programme",
+      "text": "progressively obtain the National N Diploma once the required practical\nwork component of either 18 months or 2000 Hours, as required for\nthe specific occupational area, is completed.\n▪ The part qualification as a single entity has value in the workplace as it\nequips learners with vital knowledge and skills that enable them to be\nproductively employed at entry level positions in an occupation.\n▪ The part qualification can be used for updating, upskilling and/or\ncontinuing education and training in related occupations\nWHAT IS MARKETING\n• The success of almost any business depends largely on the effectiveness of its marketing plans and strategy. This nationally",
+      "institutionId": "332",
+      "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "start_char": 17085,
+      "end_char": 17752
+    },
+    {
+      "type": "programme",
+      "text": "recognized Diploma in Marketing Management will give you a broad knowledge of marketing and an understanding of the\nfundamental principles for effective marketing, marketing communication and sales management.\n• Marketing Managers work to ensure a company is profitable by gaining new customers, expanding the customer base, building\nthe company's reputation and improving customer interactions.\nPrinciples for\neffective Marketing\nMarketing\nCommunication\nSales\nManagement.\nNational Senior Certificate\n(NSC)\nSenior Certificate\nAn appropriate National\nCertificate (N3) in the relevant\nspecialization area\nAn FETC\nWork Experience\nN6 Certificate\nN5 Certificate\nN4\nCertificat\ne\n18 months/2000\nHours\n(SAQA ID: 66996)\n(SAQA ID:\n66952)\n(SAQA ID: 66872)\nTraining to be provided by\nsectors relevant to the\ncourse.\n❑ Marketing Research N6\n❑ Sales Management N6\n❑ Marketing Communication N6\n❑ Marketing Management N6\n❑ Marketing Management N5\n❑ Sales Management N5\n❑ Public Relations N5\n❑ Entrepreneurship and Business Management\nN5\n❑ Marketing Management N4\n❑ Entrepreneurship & Business Management N4\n❑ Management Communication N4\n❑ Computer Practice N4",
+      "institutionId": "332",
+      "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "start_char": 17753,
+      "end_char": 18896
+    },
+    {
+      "type": "programme",
+      "text": "National Diploma\nWork experience (SAQA ID: 67037)\n18 months/2000 Hours\n• Once you have successfully achieved all three N4-N6 certificates\nand have worked for 18 months/2000 Hours in a Marketing\nenvironment, your logbook will be submitted to the DHET. On\nreceiving DHET approval, you are awarded the highly respected",
+      "institutionId": "332",
+      "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "start_char": 18897,
+      "end_char": 19212
+    },
+    {
+      "type": "programme",
+      "text": "National N Diploma: Marketing Management (SAQA ID: 67036).\n• NB.\n• All public institutions are exempted from offering training.\n• Eg( Government institutions/companies, TVET Colleges, public schools)\n• Work experience must always be under the supervision of\n✓ College placement Officer\n✓ Company supervisor or Manager\nCareer opportunities\nHOSPITALITY AND CATERING\nSERVICES\nSummary Outline\nWHAT IS HOSPITALITY AND CATERING SERVICES?\nHospitality and Catering Servicesis a course that prepares learners\nto work as chefs, waitresses,\nbarmen, hotel receptionists,\nhousekeepers, banqueting\npersonnel, porter, concierge and\nany other related position.\nGeneral administration support\nSupply chain administrative\nPersonnel admin support\nFinancial admin support\n, Function that includes collection and analysis of\ninformation i.e. remuneration, grievance\n.\nAPPLIED\nMANAGEMENT\nCATERING\nTHEORY AND\nPRACTICAL\nCORE FUNCTIONS\nPreparation and serving of food,\nplanning menus (Therapeutic and\ndifferent menus), restaurant\nmanagement and banqueting\nservices.\nCORE DUTIES\nApplied Management\n❑ Front of the house- reservations and\nreception\n❑ Human resources management,\ne.g. Recruitment, Disciplinary processes,\nscheduling/roster allocation\n❑ Stock Control – ordering and issuing of\nstock, FIFO Principles, Quality Assurance [Hazard\nAnalysis Critical Control Point Principles-\n(HACCP)]\n❑ Knowledge of Hospitality related\nsystems- micros, Fedelio, etc\n❑ Finance-billing, payments, quotations, etc.\nCatering Theory and Practical\n❑ Food Hygiene\n❑ Exposure to Machinery and\nequipments\n❑ Cooking of Diverse dishes\n❑ Menu Planning\n❑ Banqueting\n❑ Costing\n❑ The candidate is not providing a\ndetailed information with regards to\nduties at the workplace.\n❑ Candidates gave only Job Description\nfrom employer\n❑ The candidate only indicates the skills\nand knowledge of one core subject.\n❑ Candidates placed at Hostel but, giving\nduties done at Hostel.\n❑ Candidates being placed where it\ncovers only 1 core subject, e.g.\nHospitals offer students Catering\nTheory and Practical only.\n❑ Candidates being placed at Franchises\nInsufficient Experience Incorrect Workplace Less than 18 months\n❑ Inaccurate calculations which is\nless than 18 months\nREASONS FOR THE DECLINES\nTOURISM SERVICES\nSummary Outline\nWhat is Tourism\n❑ The Tourism N4 – N6 course involves the study of tourism as a broad and dynamic\neconomic sector. It encourages learners from diverse backgrounds to understand the\nindustry and how it functions.\n❑ Job Opportunities: Tour Operators, Tourist Information Centers, Travel Agents,\nAccommodation Management, Conference and Event Planning, Travel Counselling and\narrangements, Airline Ground Crew, Car Rental Agents, Foreign Exchange Agents,\nReservation Agents at Inter-City Coach companies, Junior Travel Consultants,Tour\nOperators, Tourism Information Officer and Cruise Consultant.\nMajor Subjects- Choose only Two\nHotel\nReception\nTourist\nDestination\nTravel Service\nProcedures\nTravel\nServices\nCompulsory Subjects- Choose only Two\nHotel\nReception\nTourist\nDestination\nTravel Service\nProcedures\nTravel\nServices\nFor the students to qualify and as an evaluator, to mark the applications as approved. The following should be\nconsidered:\n1. The students should cover 2 major subjects and Computer Practice N4/ Intro\n2. Workplace experience must be 18 months and more",
+      "institutionId": "332",
+      "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "start_char": 19213,
+      "end_char": 22551
+    },
+    {
+      "type": "programme",
+      "text": "To qualify for N Diploma\n❑ The candidate is not providing a detailed\ninformation with regards to duties at the\nworkplace.\n❑ Candidates gave only Job Description from\nemployer\n❑ The candidate only indicates the skills and\nknowledge of one core subject.\n❑ Candidates placed in a Hotel but,\ngiving duties that are normally\nperformed at Airport, Travel\nAgency and or Tourism center.\n❑ Candidates being placed where it\ncovers only 1 core subject, e.g.\nCandidates being placed in Hotel\nbeing exposed to Restaurant\nServices, Housekeeping and other\nduties which are not relevant to\nTourism\n❑ 17 months or less.\n❑ Dates not specified accurately\nInsufficient Experience Incorrect Workplace Less than 18 months\nReasons for the declines",
+      "institutionId": "332",
+      "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "start_char": 22552,
+      "end_char": 23276
+    },
+    {
+      "type": "programme",
+      "text": "National N Diploma in Human\nResource Management\nSAQA ID 67039, NQF Level 6\nCourse Information\nWhat is HRM",
+      "institutionId": "332",
+      "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "start_char": 23277,
+      "end_char": 23382
+    },
+    {
+      "type": "programme",
+      "text": "Diploma all about?\nIt is a critical component in management. The purpose of the\nqualification is to ensure learners are equipped with the\nknowledge, theory and methodology of the important\ndisciplines in human resource management and development.\nThis enables learners to demonstrate initiative and\nresponsibility in a professional or academic context where\napplication of the principles and theory are emphasised as a\nbasis for entry into the labour market, within civil society, the\npublic and private sectors.\n❑ This qualification primarily has a vocational orientation,\nwhich includes professional, vocational, or industry specific\nknowledge that provides a sound understanding of general\ntheoretical principles.",
+      "institutionId": "332",
+      "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "start_char": 23383,
+      "end_char": 24099
+    },
+    {
+      "type": "programme",
+      "text": "❑ The purpose of the Diploma is to develop graduates who can\ndemonstrate focused knowledge and skills in HRM. Typically\nthey will have gained experience in applying such knowledge\nand skills in a workplace context. An in-depth and\nspecialisation of knowledge; together with practical skills and\nexperience in the workplace, enable successful learners to\nenter a number of career paths and to apply their learning to\nparticular employment contexts from the outset. Career\npaths such as:\n➢ Human Resource Assistant,\n➢ HR Practitioner,\n➢ Officer or Manager specialising in:\n▪ Planning, recruitment and selection,\nReward and remuneration/Payroll\n▪ Safety, Health and Environment\n▪ Information and Administration\nSystems\n▪ Training Officer\n➢ Industrial Relations Assistant/Practitioner/\nOfficer or Manager\n➢ Labour Relations Assistant / Officer\n➢ Junior Researcher/ Analyst or Advisor\n➢ Consultant in Human Resource\nManagement/Development or Industrial\nRelations\nCareer\nOpportunities in HRM\nWhat is the\nDuration of the study?",
+      "institutionId": "332",
+      "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "start_char": 24100,
+      "end_char": 25120
+    },
+    {
+      "type": "programme",
+      "text": "❑ The national Diploma allows the for the development of\npractical skills founded on the theory, for 18 months in class\nand the theoretical component which is extended for 18\nmonths in practical.\nWhat is the\nTotal credits?\n❑ N4 (0.5 year duration), 60 credits\n❑ N5 (0.5 year duration), 60 credits\n❑ N6 (0.5 year duration), 60 credits\n❑ 18 months practical experience, 180 credits\nWhat will\nYou learn?",
+      "institutionId": "332",
+      "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "start_char": 25121,
+      "end_char": 25521
+    },
+    {
+      "type": "programme",
+      "text": "❑ The National Diploma in Human Resources Management\nconsists of the following eight (12) modules, as listed in\nReport 191.\nN4 Certificate N5 Certificate N6 Certificate\no Computer Practice\no Entrepreneurship &\nBusiness Man\no Personnel\nManagement\no Management\nCommunication\no Labour Relations\no Personnel\nManagement\no Personnel Training\no Computer Practice\no Personnel\nManagement\no Personnel Training\no Labour Relations\no Computer practice\nNote that learning institutions will have to adhere to how the Report 191 policy advises in selecting the core and additional subjects\nEvaluation of",
+      "institutionId": "332",
+      "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "start_char": 25522,
+      "end_char": 26109
+    },
+    {
+      "type": "programme",
+      "text": "National N-Diploma in HRM\nLABOUR\nRELATIONS\nTRAINING\nPERSONNEL\nMANAGEMENT\n❑ Negotiation and/or\nindustrial action\n❑ Training of staff\n❑ Plan & prepare for\nmeeting\n❑ Planning & selection\n❑ Interview process\n❑ Induction of successful\ncandidates\n❑ HRM and skills inventory\nReasons for the application\nto be declined pending corrections\n1. Incorrect Workplace\nStudents workplace exposure is not\nrelevant to HRM\n2. Workplace experience is\ntoo Administrative\nThe exposure did not involve the\npractical execution of the core skills\n3. Dates of practical\nThe start and ending date of the\npractical is not specified\n4. Provide details of core\nThe candidate will need to elaborate on\nthe experience performed\n5. Workplace exposure had\nno core skills\nThe candidate was not exposed to the\ncore duties of HRM\nPUBLIC\nRELATIONS\nSummary Outline",
+      "institutionId": "332",
+      "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "start_char": 26110,
+      "end_char": 26936
+    },
+    {
+      "type": "programme",
+      "text": "The National N-Diploma consists of 18 Month/ 1-year six-month\ntheoretical component (N4- N6)\n12 subjects from N4 – N6 make up the theoretical component\nAs well as 18 Month/2000 hours practical experience within industry\nFor the students to qualify and as an evaluator, to mark the applications as approved. The following\nshould be considered:\n1. The students should cover activities relating to Public Relations, and Information Processing or Office Practice\n2. Workplace experience must be 18 months and more\n3. Information Processing N6 is compulsory",
+      "institutionId": "332",
+      "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "start_char": 26969,
+      "end_char": 27521
+    },
+    {
+      "type": "programme",
+      "text": "The National Diploma qualification is aimed at giving the learner the following:\nTechnical Knowledge\nTheoretical Knowledge\nPractical Knowledge\nWorkplace Knowledge",
+      "institutionId": "332",
+      "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "start_char": 27556,
+      "end_char": 27718
+    },
+    {
+      "type": "programme",
+      "text": "The purpose of this report is to give feedback to DHET regarding the assessment of the N Diploma in\nbusiness students in the workplace, this includes the challenges that an evaluator experience. This will",
+      "institutionId": "332",
+      "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "start_char": 27719,
+      "end_char": 27923
+    },
+    {
+      "type": "programme",
+      "text": "assist the department in engaging with evaluators and moderators as well as improving the Diploma\ncurriculum.\nThe following is few Guidelines of duties for Public",
+      "institutionId": "332",
+      "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "start_char": 27924,
+      "end_char": 28086
+    },
+    {
+      "type": "programme",
+      "text": "Relations National N-Diploma\nPress Release\nCreate PR plans and strategies\nAnalysis media coverage\nManage media relations and request\nAttending press conference\nPublic\nRELATIONS\nInformation\nProcessing\nPlanning and promoting the event\nWrite speeches\nCrisis Management\nManaging PR agencies\nPlanning publicity strategies and campaigned\nMaking media presentation\nOffice\nPRACTICE\nWhat will\nYou learn?",
+      "institutionId": "332",
+      "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "start_char": 28087,
+      "end_char": 28481
+    },
+    {
+      "type": "programme",
+      "text": "❑ The National Diploma in Public Relations consists of the\nfollowing twelve (12) modules, as listed in Report 191.\nN4 Certificate N5 Certificate N6 Certificate\no Office Practice\no Public Relations\no Communication\no Information\nProcessing\no Office Practice\no Public Relations\no Communication\no Information\nProcessing\no Office Practice\no Public Relations\no Communication\no Information\nProcessing\nNote that learning institutions will have to adhere to how the Report 191 policy advises in selecting the core and additional subjects\nNo exposure to public\nrelations\nEXPOSURE\nInformation is too administrative\nDETAILED INFOMATION\nwhere candidates only does\nfront line work that to me is\nmainly admin nothing more.\nNO OTHER EXPOSURE\n• Only one core is covered,\n• Retail shops i.e. Shoprite, Click\nand public schools\nINCORRECT WORKPLACE\nA\nB\nC\nD\nREASON FOR THE DECLINES\ncompiled by DMK SEBOLA & TF MUTAVHATSINDI\nWEBSITE PRESENTATION\ncompiled by DMK SEBOLA & TF MUTAVHATSINDI",
+      "institutionId": "332",
+      "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "start_char": 28482,
+      "end_char": 29447
+    },
+    {
+      "type": "admission",
+      "text": "ADMISSION REQUIREMENTS\n\nLearners need one of the following:\n\nA National Senior Certificate.\n",
+      "institutionId": "332",
+      "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "start_char": 29448,
+      "end_char": 29543
+    },
+    {
+      "type": "programme",
+      "text": "An NCV Level 4 Certificate in the relevant\nspecialization area\ncompiled by DMK SEBOLA & TF MUTAVHATSINDI\nCURRICULUM INCLUDES THE FOLLOWING\nSUBJECTS:\nN4\n\nManagement\nCommunication\n\nComputerised\nFinancial\nSystems\n\nEntrepreneurship\n&\nBusiness\nManagement\n\nFinancial\nAccounting\ncompiled by DMK SEBOLA & TF MUTAVHATSINDI\nN5\n\nComputerised\nFinancial\nSystems\n\nEntrepreneurship\n&\nBusiness\nManagement\n\nFinancial\nAccounting\n\nCost\nand\nManagement\nAccounting\ncompiled by DMK SEBOLA & TF MUTAVHATSINDI\nN6\n➢\nComputerised\nFinancial Systems\nCost & Management Accounting\nFinancial Accounting\nIncome Tax\ncompiled by DMK SEBOLA & TF MUTAVHATSINDI\ncompiled by DMK SEBOLA & TF MUTAVHATSINDI\nA student can apply for the National\nN\n-",
+      "institutionId": "332",
+      "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "start_char": 29544,
+      "end_char": 30258
+    },
+    {
+      "type": "faculty",
+      "text": "Department of Higher Education and\nTraining on completion of 18 months\nexperiential learning.\nSTEPS TO FOLLOW WHEN APPLYING",
+      "institutionId": "332",
+      "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "start_char": 30336,
+      "end_char": 30459
+    },
+    {
+      "type": "programme",
+      "text": "FOR THE NATIONAL N-DIPLOMA:\nAll applications and enquiries for\ndiplomas are dealt with by the\nexamination officer at each\ncampus.\ncompiled by DMK SEBOLA & TF MUTAVHATSINDI\ncompiled by DMK SEBOLA & TF MUTAVHATSINDI\n• All applications must be done via the candidate’s\ncampus or examination centre.\n• It is compulsory that candidates complete the\nDHET application form.\n• Certified copies of Identity document, certificates\n(N4, N5 &N6 ) and any other supporting\ndocumentary proof, e.g. statement of results,\nDHET logbook with supporting documents and\nexperiential letter must accompany the\napplication.\ncompiled by DMK SEBOLA & TF MUTAVHATSINDI\n• A minimum of 12 successfully\npassed subjects( Introductory\nsubjects not inclusive).\n• A candidate must produce proof of\n18 months applicable experience in\na relevant industry that has, as it’s\nmain function the practical\nexecution of Financial Management\ncompiled by DMK SEBOLA & TF MUTAVHATSINDI\nOR\nOn completion of 2 000 hours* of\nsuitable experience in the industry and\na minimum of three years after the\ncandidate entered the tertiary level\ncompiled by DMK SEBOLA & TF MUTAVHATSINDI\nA minimum of 2 instructional offerings on the\nN6 level must be relevant to the candidate’s\nvocation; e.g.\nFinancial Accounting &\nComputerised\nFinancial Systems\ncompiled by DMK SEBOLA & TF MUTAVHATSINDI\n• The experiential training letter must be on an\nofficial original letterhead, signed by the\nmanager and must bear company stamp.\n• Specific dates (day, month, year) of\ncommencement and completion of activities\nregarding the candidate’s practical training\nmust be indicated.\nCAREER OPPORTUNITIES IN\nFINANCIAL MANAGEMENT\n▪\nCost Accountant’s Assistant\n▪\nCreditor’s Clerk\n▪\nDebtor’s Clerk\n▪\nFinancial Accountant Assistant\n▪\nInternal Audit Clerk\n▪\nState Accountant’s Assistant\n▪\nBookkeeper\n▪\nAsset Manager/Controller\ncompiled by DMK SEBOLA & TF MUTAVHATSINDI\n❑ ELECTRICAL ENGNEERING\n❑ MECHANICAL ENGINEERING\n❑ CIVIL ENGINEERING\n❑ CHEMICAL ENGINEERING",
+      "institutionId": "332",
+      "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "start_char": 30460,
+      "end_char": 32441
+    },
+    {
+      "type": "programme",
+      "text": "Requirements for consideration: National N-Diploma\n➢ Any one who has completed N4-N6 (120 Credits) + minimum of 24 months training at relevant environment (240 credits\n➢ Anyone who has been through the ARPL in the relevant work environment and obtained the relevant QCTO -Trade Test Certificate\nTerminology\nSOE\nState Owned Enterprise\nQCTO\n➢ Quality Council for Trades & Occupations\nDHET",
+      "institutionId": "332",
+      "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "start_char": 32494,
+      "end_char": 32880
+    },
+    {
+      "type": "faculty",
+      "text": "➢ Department of Higher Education and Training\nARPL\n Artisan Recognition of Prior Learning\nTVET College\n➢ (Technical and Vocational Education and Training) refers to all forms and levels of education and training which provide knowledge and skills\nrelated to occupations in various sectors of economic and social life through formal, non-formal and informal learning methods in both schoolbased and work-based learning ...\nTERMINOLOGY\nWorkplace Integrated Learning (WIL)\n➢ is the process of learning by doing. By engaging students in hands-on experiences and reflection, they are better able\nto connect theories and knowledge learned in the classroom to real -world situations.\nLog Book\n➢ Logbook will hold a detailed list of all the tasks you will be to complete during your 18 -months of training. The",
+      "institutionId": "332",
+      "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "start_char": 32881,
+      "end_char": 33684
+    },
+    {
+      "type": "programme",
+      "text": "logbook will serve as proof of your practical experience, when applying for your National Diploma.",
+      "institutionId": "332",
+      "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "start_char": 33685,
+      "end_char": 33783
+    },
+    {
+      "type": "programme",
+      "text": "➢ awarded to candidates who complete three levels of National Accredited Technical Education Diploma (Nated)\nqualifications: N4, N5 ,N6.& Workplace experience\nCollege WIL Officer\n➢ WIL Officers help students to find work placements with relevant employers. The goal of a placement is to provide\nstudents with workplace experience and assist them with their transition into the workforce.\nWork Supervisor\n➢ a person who is in charge of a group of people or an area of work and who makes sure that the work is done correctly\nand according to the rules: All managers ...\n• This part qualification is aimed primarily at\ngiving the learner technical, theoretical\nknowledge, practical knowledge and\nworkplace knowledge and skills required in\ntheir chosen occupational/vocational area.\n• The design of the part qualification is such\nthat if taken sequentially with related N part\ncourses: i.e. N4+N5+N6, it enables learners to",
+      "institutionId": "332",
+      "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "start_char": 33803,
+      "end_char": 34722
+    },
+    {
+      "type": "programme",
+      "text": "progressively obtain the National N Diploma in\nEngineering studies once the required\npractical work component of either 24\nmonths or 2670 Hours, as required for the\nspecific occupational area, is completed.\n• The leaners/employees who were able to\nacquire or are in possession of a relevant Trade\nTest Certificate (Red Seal) [issued only by\nQCTO] can automatically be awarded the",
+      "institutionId": "332",
+      "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "start_char": 34723,
+      "end_char": 35102
+    },
+    {
+      "type": "programme",
+      "text": "National N Diploma in Engineering Studies.\nPURPOSE\n• The part qualification as a single entity has\nvalue in the workplace as it equips learners\nwith vital knowledge and skills that enable\nthem to be productively employed at entry\nlevel positions in an occupation.\n•\nThe part qualification can be used for\nupdating, upskilling and/or continuing\neducation and training in related occupations\nTARGET MARKET\n❑ This programme is ideal for those who want to succeed in ENGINEERING\nenvironment, as well as those who are motivated to start their own\nbusiness/companies or are currently running their own\nbusiness/companies.\n❑ Engineering qualification gives you skills and knowledge that are directly\napplicable in all aspects of your life. Whether it is planning,\nmanufacturing, analyzing, DIY (Do it yourself), networking or organizing –\nEngineering qualification will help you to develop key competencies that\nwill promote your career and business prospects and will ultimately lead\none to success!\nWork Experience\nN6 Certificate\nN5 Certificate\nN4\nCertificat\ne\n24 months/2670 Hours\nSAQA Qualification ID:\n90674\nSAQA L programme ID:\n67043\nINSTRUCTIONAL CODE:\n50908401\nTraining to be provided by\nsectors relevant to the\ncourse.\n➢Industrial Electronics N6/Digital Electronics N6\n➢Fault-Finding N6 (Prerequisite N5)\n➢Electrotechnics N6\n➢Power Machines N6/Engineering Physics N6\n➢Mathematics N6\n➢Logic System N6/Communication Electronics N6\n➢Supervisory Management N6\n➢Industrial Instrument N6\n➢[NB: All N6 subjects are prerequisite of N5 subjects]\n➢Industrial Electronics N5\n➢Digital Electronics N5/Logic System N5\n➢Fault-Finding N5/ N4/Communication Electronics N5\n➢Electrotechnics N5\n➢Power Machines N5/Engineering Physics N5\n➢Mathematics N5\n➢Supervisory Management N5\n➢Industrial Instrument N5\n[NB: All N5 subjects are prerequisite of N4 subjects]\n➢Industrial Electronics N4\n➢Fault-Finding N4/Communication Electronics N4\n➢Digital Electronics N4/Logic System N4\n➢Electrotechnics N4\n➢Engineering Science N4\n➢Mathematics N4\n➢Supervisory Management N4\n➢Industrial Instrument N4\nELECTRICAL ENGINEERING\nWork Experience\nN6 Certificate\nN5 Certificate\nN4\nCertificat\ne\n24 months/2670 Hours\nSAQA Qualification ID:\n90674\nSAQA L programme ID:\n67043\nINSTRUCTIONAL CODE:\n50908401\nTraining to be provided by\nsectors relevant to the\ncourse.\n➢Building Administration N6\n➢Quantity Surveying N6\n➢Building and Structural Construction N6\n➢Building and Structural Surveying N6\n➢Mathematics N6\n➢Supervisory Management N6\n➢[NB: All N6 subjects are prerequisite of N5 subjects]\n➢Building Administration N5\n➢Quantity Surveying N5\n➢Building and Structural Construction N5\n➢Building and Structural Surveying N5\n➢Mathematics N5\n➢Supervisory Management N5\n➢[NB: All N6 subjects are prerequisite of N5 subjects]\n➢Building Administration N4\n➢Quantity Surveying N4\n➢Building and Structural Construction N4\n➢Building and Structural Surveying N4\n➢Mathematics N4\n➢Supervisory Management N4\nCIVIL ENGINEERING\nWork Experience\nN6 Certificate\nN5 Certificate\nN4\nCertificat\ne\n24 months/2670 Hours\nSAQA Qualification ID:\n90674\nSAQA L programme ID:\n67043\nINSTRUCTIONAL CODE:\n50908401\nTraining to be provided by\nsectors relevant to the\ncourse.\n➢Strength of Materials and Structures N6\n➢Mechanotechnics N6\n➢Power Machines N6\n➢Mathematics N6\n➢Engineering Physics N6\n➢Fluid Mechanics N6\n➢Mechanical Drawing and Design N6\n➢Supervisory Management N6\n➢Strength of Materials and Structures N5\n➢Mechanotechnics N5\n➢Power Machines N5\n➢Fluid Mechanics N5\n➢Engineering Physics N5\n➢Mathematics N5\n➢Mechanical Drawing and Design N5\n➢Supervisory Management N5\n➢Mechanical Draughting N4\n➢Plating and Structural Steel Drawing N4\n➢Mechanotechnics N4\n➢Engineering Science N4\n➢Mathematics N4\n➢Machines and Properties of Metals N4\n➢Supervisory Management N4\nMECHANICAL ENGINEERING\nWork Experience\nN6 Certificate\nN5 Certificate\nN4\nCertificat\ne\n24 months/2670 Hours\nSAQA Qualification ID:\n90674\nSAQA L programme ID:\n67043\nINSTRUCTIONAL CODE:\n50908401\nTraining to be provided by\nsectors relevant to the\ncourse.\n➢Production and Quality Control N6\n➢Chemical Plant Operation N6\n➢Chemistry N6\n➢Mathematics N6\n➢Production and Quality Control N5\n➢Chemical Plant Operation N5\n➢Chemistry N5\n➢Mathematics N5\n➢Production and Quality Control N4\n➢Chemical Plant Operation N4\n➢Chemistry N4\n➢Mathematics N4\nCHEMICAL ENGINEERING\nPROCEDURE TO FOLLOW WHEN APPLYING FOR",
+      "institutionId": "332",
+      "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "start_char": 35103,
+      "end_char": 39480
+    },
+    {
+      "type": "programme",
+      "text": "NATIONAL N-DIPLOMA\n Once you have successfully achieved all 12 subjects (N4-N6 certificates) and have worked or trained for a\nminimum of 24 months/2670 Hours in any relevant engineering environment/workshop/applicable training\nfacility, your logbook, your practical letter and all other supporting evidence will be submitted to the\nTVET College where you completed your studies and they will submit to the DHET for evaluation.\n NB: [ALL Applications should be accompanied by a completed logbook]\n DHET will give the final feedback on your application within 3 months to the TVET College you applied at,\nand they (College) will in turn inform you of the outcome.\nNB: COMMON REASONS FOR “DECLINE PENDING CORRECTION”\n✓ Applications without logbooks attached\n✓ Applications with Trade Test Report (Only QCTO Red Seal Trade certificates are accepted)\n✓ Less than 24 months of training completed\n✓ N4-N6 Certificates not attached to the application\n✓ Activities in the letter outlined in point form and not clearly elaborated\nRelevant Companies/Training facilities to conduct Engineering\nworkplace experience\n❑ ELECTRICAL ENGINEERING ▪ Local and District Municipalities – Electrical sections\n▪ Electrical Private companies\n▪ SOE\n▪ Electrical Public company(municipality)\n▪ Electrical components manufacturing industries\n❑ CIVIL ENGINEERING ▪ Local and District Municipalities – Civil works sections\n▪ Construction Private/local companies\n▪ Construction components manufacturing industries\n❑ MECHANICAL ENGINEERING ▪ Local and Municipalities – Mechanical sections\n▪ Mechanical Private/local companies\n▪ Steel, Machinery, components manufacturing and\nproducing companies\n▪ Motor servicing companies/Industries\n❑ CHEMICAL ENGINEERING ▪ Local Municipalities – Water purification sectors\n▪ Rand Water Suppliers\n▪ Lepelle Water Suppliers\n▪ Private/local Chemical manufacturing companies\n▪ Any other private water purification laboratories\nELECTRICAL\nINSTALLER AirConditioning\nand\nRefrigiration\nmechanic\nElectrical\nEquipment\nMechanic\nElectrical\ntechnician\nInstrument\ntechnician\nCable joiner\nInstallation of electrical\nequipment in structures\nFixing and\ninstalling Air-cons\nand Refrigirators\nFitting, installing\nand fixing\nelectrical\nequipment in\nindustries\nInstalling, servicing\nand inspecting\nelectrical\nconnections and\noperations\nservicing and\ninspecting all\nelectrical instruments\nWiring a household from\nbegging to end\nCareer opportunities – Electrical Engineering\nElectrician\nFixing electrical\nappliances and\ninspection of all\nelectrical service points\nBricklayer\nPlumber\nRoads\nconstruction\nengineer\nArchitectural\ndraughtsman\nQuantity\nSurveyor\nSanitation\nand water\nreticulation\nPerforming all\nbricklaying duties\nwithin the construction\nindustry\nErecting and\ninspecting all\nconstruction\nstructures and\ninspecting all\npersonnel on site\nPerforming all\nRoad works\nactivities within\nthe construction\nindustry\nCreate technical\nplans, blue prints\nand drawings for\nprojects\nAdvising on the\npotential of a site and\nworking out the\ncosting for projects\nConnects, service and\ninspect all municipal\nsewer and water pipelines\nCareer opportunities – Civil Engineering\nBuilder\nPerforming all\nindustrial and\nhousehold water\nconnections\nMillwright\nFitter and\nTurner\nMotor\nmechanic\nwelder\nToolmaker\nAircraft\nmaintenance\nmechanic\nInstalls, dismantles,\nmaintains, repairs,\nreassembles and moves\nmachineries in factories\nManufacture,\nconstruct,\nassemble and fit\ncomponents for\nmachinery\nPerforms services,\ninspection and\nmaintenance on\nengines\nPerforms all welding\nactivities within the\nmechanical world of\nwork\nMaking precision\ntools, dies, moulds,\njigs, holding devices\nand guides\nservice, supervise and\nmaintain aircraft alterations\nand systems\nCareer opportunities – Mechanical Engineering\nMechanical\ntechnician\nDesigns, test, adjust and\nmaintain engineering machinery\nand equipment\nChemical\nEngineer\nChemical\nPlant\nOperator\nChemical\nLaboratory\ntechnician\nEnvironmental\ntechnician\nConverts basic raw\nmaterials into a variety\nof products\nControls the\noperation of\nchemical\nproduction\nequipment\nDeveloping,\nmonitoring,\nCarrying out all\nexperiments and\ntest in the\nlaboratory for\nChemical\nEngineers\nDevelop solutions to\nenvironmental\nproblems by\nimproving recycling,\nwaste disposal,\npublic health and\nair pollution\nCareer opportunities – Chemical Engineering\ncompiled by DMK SEBOLA & TF MUTAVHATSINDI\ncompiled by DMK SEBOLA & TF MUTAVHATSINDI\ncompiled by DMK SEBOLA & TF MUTAVHATSINDI\ncompiled by DMK SEBOLA & TF MUTAVHATSINDI\ncompiled by DMK SEBOLA & TF MUTAVHATSINDI\ncompiled by DMK SEBOLA & TF MUTAVHATSINDI",
+      "institutionId": "332",
+      "source_file": "lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "start_char": 39481,
+      "end_char": 44066
+    }
+  ],
+  "matched_files": [
+    "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf"
+  ],
+  "skipped_chunks": [
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "chunk_index": 1,
+      "chars": 67
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "chunk_index": 3,
+      "chars": 70
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "chunk_index": 5,
+      "chars": 42
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "chunk_index": 11,
+      "chars": 31
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "chunk_index": 16,
+      "chars": 39
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "chunk_index": 18,
+      "chars": 35
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "chunk_index": 25,
+      "chars": 79
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "chunk_index": 26,
+      "chars": 18
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "chunk_index": 34,
+      "chars": 79
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "chunk_index": 35,
+      "chars": 18
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "chunk_index": 48,
+      "chars": 31
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "chunk_index": 50,
+      "chars": 33
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "chunk_index": 58,
+      "chars": 76
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "chunk_index": 61,
+      "chars": 51
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/ekurhuleni-west-tvet-college.pdf",
+      "chunk_index": 65,
+      "chars": 18
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "institution": {
+    "id": "institution:university-of-south-africa",
+    "slug": "university-of-south-africa",
+    "institution_id_raw": null,
+    "name": "University of South Africa",
+    "institution_type": "Distance Learning University",
+    "city": null,
+    "province": null,
+    "official_website": null,
+    "detail_source": null,
+    "source_paths": [
+      "enriched_universities.json"
+    ],
+    "profile": {
+      "short_name": "UNISA",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/3/36/University_of_South_Africa_logo.svg",
+      "colors": [
+        "Blue",
+        "Red",
+        "Black"
+      ],
+      "motto": "Learn to serve",
+      "type": "Distance Learning University",
+      "languages": [
+        "English"
+      ],
+      "student_estimate": "370,000+",
+      "sports_affiliations": []
+    }
+  },
+  "campuses": [
+    {
+      "id": "campus:university-of-south-africa--florida-campus",
+      "institution_slug": "university-of-south-africa",
+      "name": "Florida Campus",
+      "city": "Johannesburg",
+      "province": "Gauteng",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:university-of-south-africa--muckleneuk-campus",
+      "institution_slug": "university-of-south-africa",
+      "name": "Muckleneuk Campus",
+      "city": "Pretoria",
+      "province": "Gauteng",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:university-of-south-africa--sunnyside-campus",
+      "institution_slug": "university-of-south-africa",
+      "name": "Sunnyside Campus",
+      "city": "Pretoria",
+      "province": "Gauteng",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    }
+  ],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 3,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

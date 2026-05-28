@@ -1,0 +1,55 @@
+{
+  "institution": {
+    "id": "institution:safety-and-security-sector-education-and-training-authority-sasseta",
+    "slug": "safety-and-security-sector-education-and-training-authority-sasseta",
+    "institution_id_raw": "156",
+    "name": "Safety and Security Sector Education and Training Authority (SASSETA)",
+    "institution_type": "seta",
+    "city": "Midrand",
+    "province": "Gauteng",
+    "official_website": "https://www.sasseta.org.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/156/safety-and-security-sector-education-and-training-authority-sasseta",
+    "source_paths": [
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "sector": "training",
+      "province": "Gauteng",
+      "city": "Midrand",
+      "physical_address": "Building 2, Waterfall Corporate Campus, 74 Waterfall Drive, Midrand",
+      "postal_address": "PO Box 7612, Halfway House, 1685",
+      "contact_phone_numbers": [
+        "011 087 5555/5500"
+      ],
+      "socials": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": "",
+        "x": "",
+        "youtube": ""
+      },
+      "accreditation": {
+        "dh et": null,
+        "saqa": null
+      },
+      "sources": [
+        "https://nationalgovernment.co.za/units/view/156/safety-and-security-sector-education-and-training-authority-sasseta",
+        "https://www.sasseta.org.za/"
+      ],
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

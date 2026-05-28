@@ -1,0 +1,1063 @@
+{
+  "meta": {
+    "institution_id": "352",
+    "slug": "rhodes-university",
+    "name": "Rhodes University",
+    "institution_type": "university",
+    "province": "Eastern Cape",
+    "city": "Makhanda",
+    "official_website": "https://www.ru.ac.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/352/rhodes-university",
+    "application_url": "https://www.ru.ac.za/admissiongateway/",
+    "prospectus_url": null,
+    "nsfas_supported": true,
+    "distance_learning": null,
+    "accreditation": {
+      "dh et": "Accredited",
+      "saqa": "Registered"
+    },
+    "qualification_types": [
+      "Undergraduate",
+      "Postgraduate",
+      "Diploma",
+      "Certificate"
+    ]
+  },
+  "profile": {
+    "short_name": "RU",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/7/79/Rhodes_University_logo.svg",
+    "motto": "Where leaders learn",
+    "student_count": 7005,
+    "nickname": "Rhodian"
+  },
+  "contact": {
+    "phone_numbers": [
+      "046 603 8111"
+    ],
+    "physical_address": "Drostdy Road, Grahamstown, Makhanda 6139",
+    "postal_address": "PO Box 94, Makhanda, Eastern Cape, 6140",
+    "socials": {
+      "facebook": "https://www.facebook.com/rhodesuniversity/",
+      "instagram": "",
+      "linkedin": "https://www.linkedin.com/school/rhodes-university/",
+      "x": "https://twitter.com/Rhodes_Uni",
+      "youtube": "https://www.youtube.com/channel/UCkeNry6-KnCW3kl8AsYPQlQ"
+    }
+  },
+  "campuses": [
+    {
+      "name": "Main Campus",
+      "city": "Makhanda",
+      "province": "Eastern Cape",
+      "is_main": null,
+      "type": "Urban",
+      "address": null,
+      "coordinates": {
+        "lat": -33.31361,
+        "lng": 26.51972
+      },
+      "contact": null
+    }
+  ],
+  "faculties": [
+    {
+      "id": null,
+      "name": "Languages",
+      "overview": null,
+      "kind": null
+    },
+    {
+      "id": "fac:352:cead64a690a1",
+      "name": "Commerce, Faculty of Pharmacy, Faculty of Education and Faculty of Law",
+      "overview": null,
+      "kind": null
+    }
+  ],
+  "programmes": [
+    {
+      "id": "prog:444f354a1047",
+      "name": "BA (BA) 34-44 (Dean's discretion)",
+      "normalized_name": "BA (BA) 34-44 (Dean's discretion)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:ddf7c8e4727a",
+      "name": "Bachelor of Business Science 38-44 (Dean's discretion)",
+      "normalized_name": "Bachelor of Business Science 38-44 (Dean's discretion)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:a56520f0ec4f",
+      "name": "Bachelor of Economics (BEco)",
+      "normalized_name": "Bachelor of Economics (BEco)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:b286e56aa3ab",
+      "name": "Bachelor of Fine Arts (BFA) 34-44 (Dean's discretion)",
+      "normalized_name": "Bachelor of Fine Arts (BFA) 34-44 (Dean's discretion)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:2f80341115d7",
+      "name": "Bachelor of Information Systems",
+      "normalized_name": "Bachelor of Information Systems",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:1456504c476c",
+      "name": "Bachelor of Journalism (BJourn) 34-44 (Dean's discretion)",
+      "normalized_name": "Bachelor of Journalism (BJourn) 34-44 (Dean's discretion)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:09275e102323",
+      "name": "Bachelor of Law (LLB)",
+      "normalized_name": "Bachelor of Law (LLB)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:74c2df46f569",
+      "name": "Bachelor of Law (LLB) degree is the academic qualification required",
+      "normalized_name": "Bachelor of Law (LLB) degree is the academic qualification required",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:c897500fb6de",
+      "name": "Bachelor of Music (BMus) 34-44 (Dean's discretion)",
+      "normalized_name": "Bachelor of Music (BMus) 34-44 (Dean's discretion)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:1947db84b828",
+      "name": "BCom (BCom)",
+      "normalized_name": "BCom (BCom)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:aca8c92dead2",
+      "name": "BEd (BEDFP)",
+      "normalized_name": "BEd (BEDFP)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:46f1624e3c15",
+      "name": "BEd (Foundation Phase",
+      "normalized_name": "BEd (Foundation Phase",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:99d74812fe52",
+      "name": "BPharm (BPharm) 40-44 (Dean's discretion)",
+      "normalized_name": "BPharm (BPharm) 40-44 (Dean's discretion)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:92c9ee98933d",
+      "name": "BSc (BSc)",
+      "normalized_name": "BSc (BSc)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:ae4c10b0816f",
+      "name": "BSc degree (BSc) is its flexibility. Within the confines",
+      "normalized_name": "BSc degree (BSc) is its flexibility. Within the confines",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:6ca9959ad525",
+      "name": "BSocSci (BSS) 34-44 (Dean's discretion)",
+      "normalized_name": "BSocSci (BSS) 34-44 (Dean's discretion)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:352:Degree|970f519c2cad|ba",
+      "name": "BA",
+      "normalized_name": null,
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:352:Degree|23691b14e265|bachelor of education (bedfp)",
+      "name": "Bachelor of Education (BEDFP)",
+      "normalized_name": null,
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:352:Degree|d2ffc4a28890|bachelor of pharmacy (bpharm) 40-44 (dean's discretion)",
+      "name": "Bachelor of Pharmacy (BPharm) 40-44 (Dean's discretion)",
+      "normalized_name": null,
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:352:Degree|eb326eaa5928|bachelor of social science (bss) 34-44 (dean's discretion)",
+      "name": "Bachelor of Social Science (BSS) 34-44 (Dean's discretion)",
+      "normalized_name": null,
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:352:Degree|b5508e98e435|bcom",
+      "name": "BCom",
+      "normalized_name": null,
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:352:Degree|c5052532c220|bed",
+      "name": "bed",
+      "normalized_name": null,
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "Commerce, Faculty of Pharmacy, Faculty of Education and Faculty of Law",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    }
+  ],
+  "admission": {
+    "aps_name": null,
+    "aps_calculation_notes": null,
+    "minimum_aps_for_bachelors": null,
+    "minimum_aps_for_diplomas": null,
+    "minimum_entry_note": null,
+    "life_orientation_cap": null,
+    "aps_rules": [
+      {
+        "id": "aps:38df868bb9ab",
+        "scope": "institution",
+        "min_aps": 40,
+        "programme": null,
+        "excerpt": "APS of 40"
+      }
+    ],
+    "programme_requirements": [
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "Bachelor of Music (BMus) 34-44 (Dean's discretion)",
+        "faculty_name": null,
+        "detail": "Subject requirements for Bachelor of Music (BMus) 34-44 (Dean's discretion)",
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 34,
+            "minimum_nsc_level": null,
+            "notes": "Music (BMus) 34"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "352",
+        "institution_name": "Rhodes University",
+        "source_file": "prospectuses/rhodes-university.pdf",
+        "source_excerpt": "Bachelor of Music (BMus) 34-44 (Dean's discretion)",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:17f597c493fa",
+        "institutionId": "352"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "Bachelor of Economics (BEco)",
+        "faculty_name": null,
+        "detail": "Subject requirements for Bachelor of Economics (BEco)",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics Level 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics Level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 50,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics (50%"
+            }
+          ]
+        ],
+        "institution_id": "352",
+        "institution_name": "Rhodes University",
+        "source_file": "prospectuses/rhodes-university.pdf",
+        "source_excerpt": "Bachelor of Economics (BEco)",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:23cddfcd9634",
+        "institutionId": "352"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BSc (BSc)",
+        "faculty_name": null,
+        "detail": "Subject requirements for BSc (BSc)",
+        "subjects_compulsory": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 5,
+            "minimum_nsc_level": null,
+            "notes": "Life Sciences Level 5"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics Level 4"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 5,
+            "minimum_nsc_level": null,
+            "notes": "Physical Science Level 5"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "352",
+        "institution_name": "Rhodes University",
+        "source_file": "prospectuses/rhodes-university.pdf",
+        "source_excerpt": "Bachelor of Science (BSc)",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:27d5ea503dd0",
+        "institutionId": "352"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "Bachelor of Fine Arts (BFA) 34-44 (Dean's discretion)",
+        "faculty_name": null,
+        "detail": "Subject requirements for Bachelor of Fine Arts (BFA) 34-44 (Dean's discretion)",
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 34,
+            "minimum_nsc_level": null,
+            "notes": "Music (BMus) 34"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "352",
+        "institution_name": "Rhodes University",
+        "source_file": "prospectuses/rhodes-university.pdf",
+        "source_excerpt": "Bachelor of Fine Arts (BFA) 34-44 (Dean's discretion)",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:35d1998e93ab",
+        "institutionId": "352"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BEd (BEDFP)",
+        "faculty_name": null,
+        "detail": "Subject requirements for BEd (BEDFP)",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics Level 3"
+          },
+          {
+            "subject": "Mathematics (Literacy)",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics Literacy Level 4"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "352",
+        "institution_name": "Rhodes University",
+        "source_file": "prospectuses/rhodes-university.pdf",
+        "source_excerpt": "Bachelor of Education (BEDFP)",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:378206f84f0f",
+        "institutionId": "352"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BSocSci (BSS) 34-44 (Dean's discretion)",
+        "faculty_name": null,
+        "detail": "Subject requirements for BSocSci (BSS) 34-44 (Dean's discretion)",
+        "subjects_compulsory": [
+          {
+            "subject": "Music",
+            "minimum_percentage": 34,
+            "minimum_nsc_level": null,
+            "notes": "Music (BMus) 34"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "352",
+        "institution_name": "Rhodes University",
+        "source_file": "prospectuses/rhodes-university.pdf",
+        "source_excerpt": "Bachelor of Social Science (BSS) 34-44 (Dean's discretion)",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:5564cadf7a3d",
+        "institutionId": "352"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "Bachelor of Law (LLB)",
+        "faculty_name": null,
+        "detail": "Subject requirements for Bachelor of Law (LLB)",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics Level 4"
+          },
+          {
+            "subject": "Mathematics (Literacy)",
+            "minimum_percentage": 5,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics Literacy Level 5"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "352",
+        "institution_name": "Rhodes University",
+        "source_file": "prospectuses/rhodes-university.pdf",
+        "source_excerpt": "Bachelor of Law (LLB)",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:5f503ac3cda2",
+        "institutionId": "352"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "Bachelor of Information Systems",
+        "faculty_name": null,
+        "detail": "Subject requirements for Bachelor of Information Systems",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics Level 4"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 5,
+            "minimum_nsc_level": null,
+            "notes": "Physical Science Level 5"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "352",
+        "institution_name": "Rhodes University",
+        "source_file": "prospectuses/rhodes-university.pdf",
+        "source_excerpt": "Bachelor of Information Systems",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:6a393561e3ce",
+        "institutionId": "352"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BPharm (BPharm) 40-44 (Dean's discretion)",
+        "faculty_name": null,
+        "detail": "Subject requirements for BPharm (BPharm) 40-44 (Dean's discretion)",
+        "subjects_compulsory": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 5,
+            "minimum_nsc_level": null,
+            "notes": "Life Sciences Level 5"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics Level 5"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 5,
+            "minimum_nsc_level": null,
+            "notes": "Physical Science Level 5"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 6,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics Level 6"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 1,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics 1"
+            }
+          ],
+          [
+            {
+              "subject": "Life Sciences",
+              "minimum_percentage": 6,
+              "minimum_nsc_level": null,
+              "notes": "Life Sciences Level 6"
+            }
+          ],
+          [
+            {
+              "subject": "Physical Sciences",
+              "minimum_percentage": 6,
+              "minimum_nsc_level": null,
+              "notes": "Physical Science Level 6"
+            }
+          ]
+        ],
+        "institution_id": "352",
+        "institution_name": "Rhodes University",
+        "source_file": "prospectuses/rhodes-university.pdf",
+        "source_excerpt": "Bachelor of Pharmacy (BPharm) 40-44 (Dean's discretion)",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:714c2c62b22f",
+        "institutionId": "352"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BCom (BCom)",
+        "faculty_name": null,
+        "detail": "Subject requirements for BCom (BCom)",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 6,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics Level 6"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics Level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics Level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 50,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics (50%"
+            }
+          ]
+        ],
+        "institution_id": "352",
+        "institution_name": "Rhodes University",
+        "source_file": "prospectuses/rhodes-university.pdf",
+        "source_excerpt": "Bachelor of Commerce (BCom)",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:75e12aecba8d",
+        "institutionId": "352"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "Bachelor of Business Science 38-44 (Dean's discretion)",
+        "faculty_name": null,
+        "detail": "Subject requirements for Bachelor of Business Science 38-44 (Dean's discretion)",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 6,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics Level 6"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics Level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics Level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 50,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics (50%"
+            }
+          ]
+        ],
+        "institution_id": "352",
+        "institution_name": "Rhodes University",
+        "source_file": "prospectuses/rhodes-university.pdf",
+        "source_excerpt": "Bachelor of Business Science 38-44 (Dean's discretion)",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:a82753e2a0b9",
+        "institutionId": "352"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BEd (Foundation Phase",
+        "faculty_name": null,
+        "detail": "Subject requirements for BEd (Foundation Phase",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics Level 3"
+          },
+          {
+            "subject": "Mathematics (Literacy)",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics Literacy Level 4"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "352",
+        "institution_name": "Rhodes University",
+        "source_file": "prospectuses/rhodes-university.pdf",
+        "source_excerpt": "Bachelor of Education (Foundation Phase",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:b000b569875e",
+        "institutionId": "352"
+      }
+    ]
+  },
+  "sources": [
+    "enriched_universities.json",
+    "generated/v3/institutions.enriched.json",
+    "institutions.json"
+  ],
+  "_stats": {
+    "campuses_count": 1,
+    "faculties_count": 2,
+    "programmes_count": 22,
+    "aps_rules_count": 1,
+    "adm_reqs_count": 12
+  }
+}

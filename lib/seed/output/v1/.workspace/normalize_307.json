@@ -1,0 +1,115 @@
+{
+  "faculties": [
+    {
+      "institutionId": "307",
+      "name": "BUSINESS",
+      "sourceFile": "lib/seed/prospectuses/eastcape-midlands-tvet-college.pdf",
+      "sourceUrl": "https://emcol.co.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/eastcape-midlands-tvet-college.pdf",
+        "char_start": 1277,
+        "char_end": 1295,
+        "excerpt": "SCHOOL OF BUSINESS"
+      },
+      "normalization_key": "faculty|business"
+    },
+    {
+      "institutionId": "307",
+      "name": "ART &",
+      "sourceFile": "lib/seed/prospectuses/eastcape-midlands-tvet-college.pdf",
+      "sourceUrl": "https://emcol.co.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/eastcape-midlands-tvet-college.pdf",
+        "char_start": 1360,
+        "char_end": 1375,
+        "excerpt": "SCHOOL OF ART &"
+      },
+      "normalization_key": "faculty|art &"
+    }
+  ],
+  "programmes": [
+    {
+      "id": "prog:307:NATED|3787633babc5|report 191",
+      "institutionId": "307",
+      "name": "REPORT 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/eastcape-midlands-tvet-college.pdf",
+      "sourceUrl": "https://emcol.co.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/eastcape-midlands-tvet-college.pdf",
+        "char_start": 10137,
+        "char_end": 10147,
+        "excerpt": "REPORT 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:307:NATED|3787633babc5|report 191",
+      "institutionId": "307",
+      "name": "REPORT 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/eastcape-midlands-tvet-college.pdf",
+      "sourceUrl": "https://emcol.co.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/eastcape-midlands-tvet-college.pdf",
+        "char_start": 10137,
+        "char_end": 10147,
+        "excerpt": "REPORT 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:307:NATED|3787633babc5|report 191",
+      "institutionId": "307",
+      "name": "REPORT 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/eastcape-midlands-tvet-college.pdf",
+      "sourceUrl": "https://emcol.co.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/eastcape-midlands-tvet-college.pdf",
+        "char_start": 10137,
+        "char_end": 10147,
+        "excerpt": "REPORT 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:307:NATED|3787633babc5|report 191",
+      "institutionId": "307",
+      "name": "REPORT 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/eastcape-midlands-tvet-college.pdf",
+      "sourceUrl": "https://emcol.co.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/eastcape-midlands-tvet-college.pdf",
+        "char_start": 10137,
+        "char_end": 10147,
+        "excerpt": "REPORT 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    }
+  ],
+  "admissions_rules": [],
+  "aps_rules": [],
+  "llm_calls": 0
+}

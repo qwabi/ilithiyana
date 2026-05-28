@@ -1,0 +1,115 @@
+{
+  "institution_id": "nmu",
+  "institution_name": "Nelson Mandela University",
+  "institution_type": "comprehensive-university",
+  "faculties": [
+    {
+      "name": "Business & Economic Sciences",
+      "overview": "Largest in Eastern Cape, offering mainstream and extended diplomas/degrees."
+    },
+    {
+      "name": "Education",
+      "overview": "Teacher training and education leadership."
+    },
+    {
+      "name": "Engineering, Built Environment & Technology",
+      "overview": "Core engineering and unique marine engineering programmes."
+    },
+    {
+      "name": "Health Sciences",
+      "overview": "Includes Medicine (MBChB), Pharmacy, and Nursing."
+    },
+    {
+      "name": "Humanities",
+      "overview": "Visual Arts, Music, and Public Management."
+    },
+    { "name": "Law", "overview": "LLB and Law Enforcement qualifications." },
+    {
+      "name": "Science",
+      "overview": "Agricultural, Biological, and Physical Sciences."
+    }
+  ],
+  "programmes": [
+    {
+      "name": "Bachelor of Medicine & Bachelor of Surgery (MBChB)",
+      "min_as": 410,
+      "subjects_compulsory": [
+        { "subject": "Mathematics", "minimum_percentage": 60 },
+        { "subject": "Physical Science", "minimum_percentage": 60 },
+        { "subject": "Life Sciences", "minimum_percentage": 60 }
+      ]
+    },
+    {
+      "name": "BEng (Mechatronics)",
+      "min_as": 410,
+      "subjects_compulsory": [
+        { "subject": "Mathematics", "minimum_percentage": 65 },
+        { "subject": "Physical Science", "minimum_percentage": 65 }
+      ]
+    },
+    {
+      "name": "BCom: General (Accounting)",
+      "min_as": 390,
+      "subjects_compulsory": [
+        { "subject": "Mathematics", "minimum_percentage": 50 }
+      ]
+    },
+    {
+      "name": "Bachelor of Laws (LLB)",
+      "min_as": 390,
+      "subjects_compulsory": [
+        { "subject": "English", "minimum_percentage": 60 }
+      ],
+      "subject_or_groups": [
+        { "options": ["Mathematics"], "minimum_percentage": 40 },
+        { "options": ["Math Literacy"], "minimum_percentage": 60 }
+      ]
+    },
+    {
+      "name": "Diploma in Logistics",
+      "min_as": 330,
+      "subject_or_groups": [
+        { "options": ["Mathematics"], "minimum_percentage": 40 },
+        { "options": ["Math Literacy"], "minimum_percentage": 60 }
+      ]
+    },
+    {
+      "name": "BSc (Computer Science)",
+      "min_as": 390,
+      "subjects_compulsory": [
+        { "subject": "Mathematics", "minimum_percentage": 60 }
+      ]
+    },
+    {
+      "name": "Bachelor of Pharmacy (BPharm)",
+      "min_as": 410,
+      "subjects_compulsory": [
+        { "subject": "Mathematics", "minimum_percentage": 60 },
+        { "subject": "Physical Science", "minimum_percentage": 60 }
+      ]
+    },
+    {
+      "name": "Diploma in Human Resource Management",
+      "min_as": 330,
+      "subject_or_groups": [
+        { "options": ["Mathematics"], "minimum_percentage": 35 },
+        { "options": ["Math Literacy"], "minimum_percentage": 55 }
+      ]
+    },
+    {
+      "name": "Bachelor of Architectural Studies",
+      "min_as": 370,
+      "subjects_compulsory": [
+        { "subject": "Mathematics", "minimum_percentage": 50 }
+      ]
+    },
+    {
+      "name": "Diploma in Tourism Management",
+      "min_as": 330,
+      "subject_or_groups": [
+        { "options": ["Mathematics"], "minimum_percentage": 40 },
+        { "options": ["Math Literacy"], "minimum_percentage": 60 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,808 @@
+{
+  "institution": {
+    "institution_id": "310",
+    "name": "King Hintsa TVET College",
+    "institution_type": "tvet-college",
+    "city": "Butterworth",
+    "province": "Eastern Cape",
+    "official_website": "https://www.khc.edu.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/310/king-hintsa-tvet-college",
+    "source_paths": [
+      "generated/v3/institutions.enriched.json",
+      "institutions.json",
+      "result.json",
+      "workik/batch1/cursor/institution-310-king-hintsa-tvet-college.json"
+    ],
+    "profile": {
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [
+    {
+      "id": "fac:5a605c9bcd1556a8",
+      "institution_id": "310",
+      "institution_name": "King Hintsa TVET College",
+      "name": "Agriculture & Engineering (Teko/Msobomvu)",
+      "kind": null,
+      "overview": "Focuses on Primary Agriculture and core artisanships.",
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/king-hintsa.json"
+      ]
+    },
+    {
+      "id": "fac:8b63978df2bce57e",
+      "institution_id": "310",
+      "institution_name": "King Hintsa TVET College",
+      "name": "Business & Utility (Dutywa/Willowvale/Centane)",
+      "kind": null,
+      "overview": "Focuses on Marketing, IT, Tourism, and Logistics.",
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/king-hintsa.json"
+      ]
+    }
+  ],
+  "faculties_all": [
+    {
+      "id": "fac:5a605c9bcd1556a8",
+      "institution_id": "310",
+      "institution_name": "King Hintsa TVET College",
+      "name": "Agriculture & Engineering (Teko/Msobomvu)",
+      "kind": null,
+      "overview": "Focuses on Primary Agriculture and core artisanships.",
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/king-hintsa.json"
+      ]
+    },
+    {
+      "id": "fac:8b63978df2bce57e",
+      "institution_id": "310",
+      "institution_name": "King Hintsa TVET College",
+      "name": "Business & Utility (Dutywa/Willowvale/Centane)",
+      "kind": null,
+      "overview": "Focuses on Marketing, IT, Tourism, and Logistics.",
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/king-hintsa.json"
+      ]
+    }
+  ],
+  "programmes_best": [
+    {
+      "id": "prog:0e80844ee7390686",
+      "institution_id": "310",
+      "institution_name": "King Hintsa TVET College",
+      "name": "REPORT 191",
+      "normalized_name": "REPORT 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "REPORT 191",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-310-king-hintsa-tvet-college.json"
+      ]
+    },
+    {
+      "id": "prog:0ae8e54a52b87836",
+      "institution_id": "310",
+      "institution_name": "King Hintsa TVET College",
+      "name": "NC(V) Primary Agriculture",
+      "normalized_name": "NC(V) Primary Agriculture",
+      "qualification_type": "NC(V)",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": "Teko",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "Agriculture",
+          "minimum_nsc_level": 3
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "minimum_nsc_level": 3
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/king-hintsa.json"
+      ]
+    },
+    {
+      "id": "prog:3ae97d89c2b5c2e4",
+      "institution_id": "310",
+      "institution_name": "King Hintsa TVET College",
+      "name": "NATED Electrical Engineering",
+      "normalized_name": "NATED Electrical Engineering",
+      "qualification_type": "NATED",
+      "qualification_level": "N4-N6",
+      "faculty_name": null,
+      "campus": "Msobomvu",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 45
+        },
+        {
+          "subject": "Physical Science",
+          "minimum_percentage": 45
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/king-hintsa.json"
+      ]
+    },
+    {
+      "id": "prog:9e633ca54f135c51",
+      "institution_id": "310",
+      "institution_name": "King Hintsa TVET College",
+      "name": "NC(V) Marketing",
+      "normalized_name": "NC(V) Marketing",
+      "qualification_type": "NC(V)",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": "Dutywa",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/king-hintsa.json"
+      ]
+    },
+    {
+      "id": "prog:02bf3708d908e7a0",
+      "institution_id": "310",
+      "institution_name": "King Hintsa TVET College",
+      "name": "NC(V) Information Technology",
+      "normalized_name": "NC(V) Information Technology",
+      "qualification_type": "NC(V)",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": "Dutywa",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 40
+        },
+        {
+          "subject": "English",
+          "minimum_percentage": 40
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/king-hintsa.json"
+      ]
+    },
+    {
+      "id": "prog:7f4cd65e9381b68e",
+      "institution_id": "310",
+      "institution_name": "King Hintsa TVET College",
+      "name": "NC(V) Tourism",
+      "normalized_name": "NC(V) Tourism",
+      "qualification_type": "NC(V)",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": "Centane",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "Business Studies",
+          "minimum_percentage": 50
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "minimum_percentage": 30
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/king-hintsa.json"
+      ]
+    },
+    {
+      "id": "prog:1318d36643c554dd",
+      "institution_id": "310",
+      "institution_name": "King Hintsa TVET College",
+      "name": "NC(V) Transport and Logistics",
+      "normalized_name": "NC(V) Transport and Logistics",
+      "qualification_type": "NC(V)",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": "Willowvale",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "English",
+          "minimum_percentage": 50
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 40
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/king-hintsa.json"
+      ]
+    },
+    {
+      "id": "prog:7cd95eef8937feba",
+      "institution_id": "310",
+      "institution_name": "King Hintsa TVET College",
+      "name": "NC(V) Hospitality",
+      "normalized_name": "NC(V) Hospitality",
+      "qualification_type": "NC(V)",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": "Centane",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "Life Science",
+          "minimum_percentage": 40
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "minimum_percentage": 30
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/king-hintsa.json"
+      ]
+    },
+    {
+      "id": "prog:0eaa7b60e97d8653",
+      "institution_id": "310",
+      "institution_name": "King Hintsa TVET College",
+      "name": "NC(V) Engineering and Related Design",
+      "normalized_name": "NC(V) Engineering and Related Design",
+      "qualification_type": "NC(V)",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": "Teko",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "Mathematics",
+          "minimum_nsc_level": 3
+        },
+        {
+          "subject": "Physical Science",
+          "minimum_nsc_level": 3
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/king-hintsa.json"
+      ]
+    }
+  ],
+  "programmes_all": [
+    {
+      "id": "prog:0e80844ee7390686",
+      "institution_id": "310",
+      "institution_name": null,
+      "name": "REPORT 191",
+      "normalized_name": "REPORT 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "generated/v1/programmes.final.json"
+      ]
+    },
+    {
+      "id": "prog:0e80844ee7390686",
+      "institution_id": "310",
+      "institution_name": null,
+      "name": "REPORT 191",
+      "normalized_name": "REPORT 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "generated/v1/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:0e80844ee7390686",
+      "institution_id": "310",
+      "institution_name": null,
+      "name": "REPORT 191",
+      "normalized_name": "REPORT 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "generated/v1/programmes.raw.json"
+      ]
+    },
+    {
+      "id": "prog:0e80844ee7390686",
+      "institution_id": "310",
+      "institution_name": null,
+      "name": "REPORT 191",
+      "normalized_name": "REPORT 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "generated/v2/programmes.final.json"
+      ]
+    },
+    {
+      "id": "prog:0e80844ee7390686",
+      "institution_id": "310",
+      "institution_name": null,
+      "name": "REPORT 191",
+      "normalized_name": "REPORT 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "generated/v2/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:0e80844ee7390686",
+      "institution_id": "310",
+      "institution_name": null,
+      "name": "REPORT 191",
+      "normalized_name": "REPORT 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "generated/v2/programmes.raw.json"
+      ]
+    },
+    {
+      "id": "prog:0e80844ee7390686",
+      "institution_id": "310",
+      "institution_name": null,
+      "name": "REPORT 191",
+      "normalized_name": "REPORT 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "output/v1/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:0e80844ee7390686",
+      "institution_id": "310",
+      "institution_name": "King Hintsa TVET College",
+      "name": "REPORT 191",
+      "normalized_name": "REPORT 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "REPORT 191",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-310-king-hintsa-tvet-college.json"
+      ]
+    },
+    {
+      "id": "prog:0e80844ee7390686",
+      "institution_id": "310",
+      "institution_name": "King Hintsa TVET College",
+      "name": "REPORT 191",
+      "normalized_name": "REPORT 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "REPORT 191",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-310-king-hintsa-tvet-college.json"
+      ]
+    },
+    {
+      "id": "prog:0e80844ee7390686",
+      "institution_id": "310",
+      "institution_name": "King Hintsa TVET College",
+      "name": "REPORT 191",
+      "normalized_name": "REPORT 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "REPORT 191",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-310-king-hintsa-tvet-college.json"
+      ]
+    },
+    {
+      "id": "prog:0ae8e54a52b87836",
+      "institution_id": "310",
+      "institution_name": "King Hintsa TVET College",
+      "name": "NC(V) Primary Agriculture",
+      "normalized_name": "NC(V) Primary Agriculture",
+      "qualification_type": "NC(V)",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": "Teko",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "Agriculture",
+          "minimum_nsc_level": 3
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "minimum_nsc_level": 3
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/king-hintsa.json"
+      ]
+    },
+    {
+      "id": "prog:3ae97d89c2b5c2e4",
+      "institution_id": "310",
+      "institution_name": "King Hintsa TVET College",
+      "name": "NATED Electrical Engineering",
+      "normalized_name": "NATED Electrical Engineering",
+      "qualification_type": "NATED",
+      "qualification_level": "N4-N6",
+      "faculty_name": null,
+      "campus": "Msobomvu",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 45
+        },
+        {
+          "subject": "Physical Science",
+          "minimum_percentage": 45
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/king-hintsa.json"
+      ]
+    },
+    {
+      "id": "prog:9e633ca54f135c51",
+      "institution_id": "310",
+      "institution_name": "King Hintsa TVET College",
+      "name": "NC(V) Marketing",
+      "normalized_name": "NC(V) Marketing",
+      "qualification_type": "NC(V)",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": "Dutywa",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/king-hintsa.json"
+      ]
+    },
+    {
+      "id": "prog:02bf3708d908e7a0",
+      "institution_id": "310",
+      "institution_name": "King Hintsa TVET College",
+      "name": "NC(V) Information Technology",
+      "normalized_name": "NC(V) Information Technology",
+      "qualification_type": "NC(V)",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": "Dutywa",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 40
+        },
+        {
+          "subject": "English",
+          "minimum_percentage": 40
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/king-hintsa.json"
+      ]
+    },
+    {
+      "id": "prog:7f4cd65e9381b68e",
+      "institution_id": "310",
+      "institution_name": "King Hintsa TVET College",
+      "name": "NC(V) Tourism",
+      "normalized_name": "NC(V) Tourism",
+      "qualification_type": "NC(V)",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": "Centane",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "Business Studies",
+          "minimum_percentage": 50
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "minimum_percentage": 30
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/king-hintsa.json"
+      ]
+    },
+    {
+      "id": "prog:1318d36643c554dd",
+      "institution_id": "310",
+      "institution_name": "King Hintsa TVET College",
+      "name": "NC(V) Transport and Logistics",
+      "normalized_name": "NC(V) Transport and Logistics",
+      "qualification_type": "NC(V)",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": "Willowvale",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "English",
+          "minimum_percentage": 50
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 40
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/king-hintsa.json"
+      ]
+    },
+    {
+      "id": "prog:7cd95eef8937feba",
+      "institution_id": "310",
+      "institution_name": "King Hintsa TVET College",
+      "name": "NC(V) Hospitality",
+      "normalized_name": "NC(V) Hospitality",
+      "qualification_type": "NC(V)",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": "Centane",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "Life Science",
+          "minimum_percentage": 40
+        },
+        {
+          "subject": "Mathematical Literacy",
+          "minimum_percentage": 30
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/king-hintsa.json"
+      ]
+    },
+    {
+      "id": "prog:0eaa7b60e97d8653",
+      "institution_id": "310",
+      "institution_name": "King Hintsa TVET College",
+      "name": "NC(V) Engineering and Related Design",
+      "normalized_name": "NC(V) Engineering and Related Design",
+      "qualification_type": "NC(V)",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": "Teko",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "Mathematics",
+          "minimum_nsc_level": 3
+        },
+        {
+          "subject": "Physical Science",
+          "minimum_nsc_level": 3
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/king-hintsa.json"
+      ]
+    }
+  ],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 2,
+    "faculties_all": 2,
+    "programmes_best": 9,
+    "programmes_all": 18
+  }
+}

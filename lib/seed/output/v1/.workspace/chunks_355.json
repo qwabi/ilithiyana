@@ -1,0 +1,32 @@
+{
+  "chunks": [
+    {
+      "type": "other",
+      "text": "1 | P a g e\nSTUDENT GUIDE – HOW TO APPLY\n1. Applicant to log onto the College Website (https://sccollege.co.za/). Click on ‘Coltech\nStudent Portal’.\n2. Applicant to register a new account:\n3. Applicant to accept the Terms and Conditions:\n2 | P a g e\n4.1 Applicant to Register a new Student Profile (Step 1 – 3):\n0000000000000\n0000000000000\nTARREN\nROUX\nT\ntarren.roux@gmail.com\ntarren.roux@gmail.com\n3 | P a g e\n4.2 Applicant will receive an e-mail notification – successful profile registration:\n5. Log on to the Student Portal: Applicant to complete all required information e.g.\nProfile, Next of Kin, Person Responsible for Payment and School Results:\n4 | P a g e\n6.1 Applicant to create a new application:\n6.2 Application selection:\nYear: 2024",
+      "institutionId": "355",
+      "source_file": "lib/seed/prospectuses/south-cape-tvet-college.pdf",
+      "start_char": 0,
+      "end_char": 745
+    },
+    {
+      "type": "programme",
+      "text": "Course Type: NCV\nCampus: BFW\nRegistration Type: Full-Time\nStudy Direction: Secretarial",
+      "institutionId": "355",
+      "source_file": "lib/seed/prospectuses/south-cape-tvet-college.pdf",
+      "start_char": 746,
+      "end_char": 832
+    },
+    {
+      "type": "programme",
+      "text": "Course: NCV: Office Administration L2\n5 | P a g e\n7. Applicant to take note of the disclaimer:\n8. Applicant to submit and confirm application:\n6 | P a g e\n9. Applicant to ensure that all required information is captured and/or uploaded (PDF\ndocuments):\nApplicant to receive an e-mail notification w.r.t. the successful application:\n10. The application will be moved from pending verification to pending review, after the\nverification process by a College Official. The applicant will receive an e-mail notification.\nStatus on Application Wizard: PENDING REVIEW\n7 | P a g e\n11. The application will be moved from pending review to provisionally accepted, after\nthe verification process by a College Official. The applicant will receive an e -mail\nnotification. It is vital for the applicant log onto the student portal before the offer expires.\nApplicant will accept and submit their acceptance.\nStatus on Application Wizard: PROVISIONALLY ACCEPTED\n8 | P a g e\n12. The application will be moved from provisionally accepted to pre-enrolled, after the\nverification process by a College Official. The applicant will receive an e -mail\nnotification.\nStatus on Application Wizard: PRE-ENROLLED",
+      "institutionId": "355",
+      "source_file": "lib/seed/prospectuses/south-cape-tvet-college.pdf",
+      "start_char": 833,
+      "end_char": 2020
+    }
+  ],
+  "matched_files": [
+    "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/south-cape-tvet-college.pdf"
+  ],
+  "skipped_chunks": []
+}

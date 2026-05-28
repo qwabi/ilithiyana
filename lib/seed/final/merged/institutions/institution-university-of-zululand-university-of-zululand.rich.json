@@ -1,0 +1,446 @@
+{
+  "institution": {
+    "id": "institution:university-of-zululand",
+    "slug": "university-of-zululand",
+    "institution_id_raw": "374",
+    "name": "University of Zululand",
+    "institution_type": "university",
+    "city": "KwaDlangezwa",
+    "province": "",
+    "official_website": "https://www.unizulu.ac.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/374/university-of-zululand",
+    "source_paths": [
+      "enriched_universities.json",
+      "generated/v3/institutions.enriched.json",
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "sector": "higher education",
+      "city": "KwaDlangezwa",
+      "physical_address": "24 Main Road, Vulindlela, KwaDlangezwa",
+      "postal_address": "Private Bag X1001, KwaDlangezwa, 3886",
+      "contact_phone_numbers": [
+        "035 902 6000"
+      ],
+      "socials": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": "",
+        "x": "",
+        "youtube": ""
+      },
+      "accreditation": {
+        "dh et": "Accredited",
+        "saqa": "Registered"
+      },
+      "sources": [
+        "https://nationalgovernment.co.za/units/view/374/university-of-zululand",
+        "https://www.unizulu.ac.za/"
+      ],
+      "qualification_types": [
+        "Undergraduate",
+        "Postgraduate",
+        "Diploma",
+        "Certificate"
+      ],
+      "short_name": "UNIZULU",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/4/45/University_of_Zululand_logo.png",
+      "type": "Comprehensive University"
+    }
+  },
+  "campuses": [],
+  "faculties_best": [
+    {
+      "id": "faculty:university-of-zululand--education--faculty",
+      "institution_slug": "university-of-zululand",
+      "institution_name": "University of Zululand",
+      "name": "EDUCATION",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "FACULTY OF EDUCATION",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    }
+  ],
+  "faculties_all": [
+    {
+      "id": "faculty:university-of-zululand--education--faculty",
+      "institution_slug": "university-of-zululand",
+      "institution_name": "University of Zululand",
+      "name": "EDUCATION",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "FACULTY OF EDUCATION",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    }
+  ],
+  "programmes_best": [
+    {
+      "id": "programme:university-of-zululand--ba-in-drama-theatre-and-performance-3-yrs-26-nsc-deg-with-engl-4-and-dramatic-art-or",
+      "institution_slug": "university-of-zululand",
+      "institution_name": "University of Zululand",
+      "name": "BA in Drama, Theatre and Performance 3 yrs 26 NSC Deg with Engl 4 and Dramatic Art or",
+      "normalized_name": "BA in Drama, Theatre and Performance 3 yrs 26 NSC Deg with Engl 4 and Dramatic Art or",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "BA in Drama, Theatre and Performance 3 yrs 26 NSC Deg with Engl 4 and Dramatic Art or",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-zululand--ba-in-psychology-3-yrs-28-nsc-deg-with-engl-4-and-social-sci-geography-history-4-and-four",
+      "institution_slug": "university-of-zululand",
+      "institution_name": "University of Zululand",
+      "name": "BA in Psychology 3 yrs 28 NSC Deg with Engl 4 and Social Sci (Geography/History) 4 and four",
+      "normalized_name": "BA in Psychology 3 yrs 28 NSC Deg with Engl 4 and Social Sci (Geography/History) 4 and four",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "BA in Psychology 3 yrs 28 NSC Deg with Engl 4 and Social Sci (Geography/History) 4 and",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-zululand--bachelor-of-social-sciences-in-political-and-international-studies",
+      "institution_slug": "university-of-zululand",
+      "institution_name": "University of Zululand",
+      "name": "Bachelor of Social Sciences in Political and International Studies",
+      "normalized_name": "Bachelor of Social Sciences in Political and International Studies",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Social Sciences in Political and",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-zululand--bed-in-foundation-phase",
+      "institution_slug": "university-of-zululand",
+      "institution_name": "University of Zululand",
+      "name": "BEd in Foundation Phase",
+      "normalized_name": "BEd in Foundation Phase",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "EDUCATION",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Education in Foundation Phase",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-zululand--bed-in-intermediate-phase",
+      "institution_slug": "university-of-zululand",
+      "institution_name": "University of Zululand",
+      "name": "BEd in Intermediate Phase",
+      "normalized_name": "BEd in Intermediate Phase",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "EDUCATION",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Education in Intermediate Phase",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-zululand--diploma-in-media-studies-3-yrs-24-nsc-dip-with-engl-4-and-five-20-credit-subjects",
+      "institution_slug": "university-of-zululand",
+      "institution_name": "University of Zululand",
+      "name": "Diploma in Media Studies 3 yrs 24 NSC Dip with Engl 4 and five 20 credit subjects",
+      "normalized_name": "Diploma in Media Studies 3 yrs 24 NSC Dip with Engl 4 and five 20 credit subjects",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Diploma in Media Studies 3 yrs 24 NSC Dip with Engl 4 and five 20 credit subjects",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-zululand--diploma-in-public-relations-management-3-yrs-24-nsc-dip-with-engl-4-and-five-20-credit-subjects",
+      "institution_slug": "university-of-zululand",
+      "institution_name": "University of Zululand",
+      "name": "Diploma in Public Relations Management 3 yrs 24 NSC Dip with Engl 4 and five 20 credit subjects",
+      "normalized_name": "Diploma in Public Relations Management 3 yrs 24 NSC Dip with Engl 4 and five 20 credit subjects",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Diploma in Public Relations Management 3 yrs 24 NSC Dip with Engl 4 and five 20 credit subjects",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-zululand--diploma-in-tourism-management-3-yrs-24-nsc-dip-with-engl-4-and-any-five-subjects-maths-maths-lit-tourism-and",
+      "institution_slug": "university-of-zululand",
+      "institution_name": "University of Zululand",
+      "name": "Diploma in Tourism Management 3 yrs 24 NSC Dip with Engl 4 and (any five) subjects: Maths/Maths Lit, Tourism and/",
+      "normalized_name": "Diploma in Tourism Management 3 yrs 24 NSC Dip with Engl 4 and (any five) subjects: Maths/Maths Lit, Tourism and/",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Diploma in Tourism Management 3 yrs 24 NSC Dip with Engl 4 and (any five) subjects: Maths/Maths Lit, Tourism and/",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    }
+  ],
+  "programmes_all": [
+    {
+      "id": "programme:university-of-zululand--ba-in-drama-theatre-and-performance-3-yrs-26-nsc-deg-with-engl-4-and-dramatic-art-or",
+      "institution_slug": "university-of-zululand",
+      "institution_name": "University of Zululand",
+      "name": "BA in Drama, Theatre and Performance 3 yrs 26 NSC Deg with Engl 4 and Dramatic Art or",
+      "normalized_name": "BA in Drama, Theatre and Performance 3 yrs 26 NSC Deg with Engl 4 and Dramatic Art or",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "BA in Drama, Theatre and Performance 3 yrs 26 NSC Deg with Engl 4 and Dramatic Art or",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-zululand--ba-in-psychology-3-yrs-28-nsc-deg-with-engl-4-and-social-sci-geography-history-4-and-four",
+      "institution_slug": "university-of-zululand",
+      "institution_name": "University of Zululand",
+      "name": "BA in Psychology 3 yrs 28 NSC Deg with Engl 4 and Social Sci (Geography/History) 4 and four",
+      "normalized_name": "BA in Psychology 3 yrs 28 NSC Deg with Engl 4 and Social Sci (Geography/History) 4 and four",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "BA in Psychology 3 yrs 28 NSC Deg with Engl 4 and Social Sci (Geography/History) 4 and",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-zululand--bachelor-of-social-sciences-in-political-and-international-studies",
+      "institution_slug": "university-of-zululand",
+      "institution_name": "University of Zululand",
+      "name": "Bachelor of Social Sciences in Political and International Studies",
+      "normalized_name": "Bachelor of Social Sciences in Political and International Studies",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Social Sciences in Political and",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-zululand--bed-in-foundation-phase",
+      "institution_slug": "university-of-zululand",
+      "institution_name": "University of Zululand",
+      "name": "BEd in Foundation Phase",
+      "normalized_name": "BEd in Foundation Phase",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "EDUCATION",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Education in Foundation Phase",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-zululand--bed-in-intermediate-phase",
+      "institution_slug": "university-of-zululand",
+      "institution_name": "University of Zululand",
+      "name": "BEd in Intermediate Phase",
+      "normalized_name": "BEd in Intermediate Phase",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "EDUCATION",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Education in Intermediate Phase",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-zululand--diploma-in-media-studies-3-yrs-24-nsc-dip-with-engl-4-and-five-20-credit-subjects",
+      "institution_slug": "university-of-zululand",
+      "institution_name": "University of Zululand",
+      "name": "Diploma in Media Studies 3 yrs 24 NSC Dip with Engl 4 and five 20 credit subjects",
+      "normalized_name": "Diploma in Media Studies 3 yrs 24 NSC Dip with Engl 4 and five 20 credit subjects",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Diploma in Media Studies 3 yrs 24 NSC Dip with Engl 4 and five 20 credit subjects",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-zululand--diploma-in-public-relations-management-3-yrs-24-nsc-dip-with-engl-4-and-five-20-credit-subjects",
+      "institution_slug": "university-of-zululand",
+      "institution_name": "University of Zululand",
+      "name": "Diploma in Public Relations Management 3 yrs 24 NSC Dip with Engl 4 and five 20 credit subjects",
+      "normalized_name": "Diploma in Public Relations Management 3 yrs 24 NSC Dip with Engl 4 and five 20 credit subjects",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Diploma in Public Relations Management 3 yrs 24 NSC Dip with Engl 4 and five 20 credit subjects",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-zululand--diploma-in-tourism-management-3-yrs-24-nsc-dip-with-engl-4-and-any-five-subjects-maths-maths-lit-tourism-and",
+      "institution_slug": "university-of-zululand",
+      "institution_name": "University of Zululand",
+      "name": "Diploma in Tourism Management 3 yrs 24 NSC Dip with Engl 4 and (any five) subjects: Maths/Maths Lit, Tourism and/",
+      "normalized_name": "Diploma in Tourism Management 3 yrs 24 NSC Dip with Engl 4 and (any five) subjects: Maths/Maths Lit, Tourism and/",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Diploma in Tourism Management 3 yrs 24 NSC Dip with Engl 4 and (any five) subjects: Maths/Maths Lit, Tourism and/",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    }
+  ],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 1,
+    "faculties_all": 1,
+    "programmes_best": 8,
+    "programmes_all": 8
+  }
+}

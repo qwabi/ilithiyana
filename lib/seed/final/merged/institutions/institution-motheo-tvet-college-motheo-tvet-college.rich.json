@@ -1,0 +1,121 @@
+{
+  "institution": {
+    "id": "institution:motheo-tvet-college",
+    "slug": "motheo-tvet-college",
+    "institution_id_raw": "344",
+    "name": "Motheo TVET College",
+    "institution_type": "tvet-college",
+    "city": "Bloemfontein",
+    "province": "Free State",
+    "official_website": "https://www.motheotvet.edu.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/344/motheo-tvet-college",
+    "source_paths": [
+      "generated/v3/institutions.enriched.json",
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "sector": "higher education",
+      "province": "Free State",
+      "city": "Bloemfontein",
+      "physical_address": "Cnr St Georges & Aliwal Streets, Bloemfontein, 9300",
+      "postal_address": "Private Bag X20509, Bloemfontein, 9300",
+      "contact_phone_numbers": [
+        "051 411 2000",
+        "051 813 8625",
+        "051 041 7850",
+        "051 813 9017",
+        "051 873 5200",
+        "051 409 3300",
+        "051 813 9012",
+        "051 406 9300",
+        "051 813 9010",
+        "079 023 9203",
+        "051 813 9011"
+      ],
+      "application_url": "https://www.motheotvet.edu.za",
+      "prospectus_url": "https://www.motheotvet.edu.za/prospectus.html",
+      "socials": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": "",
+        "x": "",
+        "youtube": ""
+      },
+      "accreditation": {
+        "dh et": "Accredited",
+        "saqa": null
+      },
+      "sources": [
+        "https://nationalgovernment.co.za/units/view/344/motheo-tvet-college",
+        "https://www.motheotvet.edu.za/"
+      ],
+      "qualification_types": [
+        "NC(V)",
+        "Nated (Report 191)",
+        "Skills Programmes",
+        "Apprenticeships"
+      ],
+      "nsfas_supported": true,
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [
+    {
+      "id": "programme:motheo-tvet-college--ncv-level-2",
+      "institution_slug": "motheo-tvet-college",
+      "institution_name": "Motheo TVET College",
+      "name": "NCV Level 2",
+      "normalized_name": "NCV Level 2",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NCV Level 2",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    }
+  ],
+  "programmes_all": [
+    {
+      "id": "programme:motheo-tvet-college--ncv-level-2",
+      "institution_slug": "motheo-tvet-college",
+      "institution_name": "Motheo TVET College",
+      "name": "NCV Level 2",
+      "normalized_name": "NCV Level 2",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NCV Level 2",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    }
+  ],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 1,
+    "programmes_all": 1
+  }
+}

@@ -1,0 +1,5 @@
+{"ts": 1779897515.961581, "institutionId": "336", "event": "preprocess_done", "matched_files": ["/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/gert-sibande-tvet-college.pdf"], "chunks_created": 11, "skipped_chunk_reasons": []}
+{"ts": 1779897515.9791439, "institutionId": "336", "event": "extract_done", "extracted_programmes_count": 18, "llm_calls": 0, "faculties_found": 0, "chunks_processed": 11}
+{"ts": 1779897515.980101, "institutionId": "336", "event": "normalize_done", "faculties": 0, "programmes": 18}
+{"ts": 1779897515.98082, "institutionId": "336", "event": "dedupe_done", "programmes_before": 18, "programmes_after": 3}
+{"ts": 1779897515.9812648, "institutionId": "336", "event": "institution_pipeline_complete", "etlStatus": "ok", "total_llm_calls_institution": 0}

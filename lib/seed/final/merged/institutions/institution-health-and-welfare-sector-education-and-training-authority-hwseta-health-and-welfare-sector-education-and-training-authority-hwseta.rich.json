@@ -1,0 +1,59 @@
+{
+  "institution": {
+    "id": "institution:health-and-welfare-sector-education-and-training-authority-hwseta",
+    "slug": "health-and-welfare-sector-education-and-training-authority-hwseta",
+    "institution_id_raw": "105",
+    "name": "Health and Welfare Sector Education and Training Authority (HWSETA)",
+    "institution_type": "seta",
+    "city": "Johannesburg",
+    "province": "Gauteng",
+    "official_website": "https://www.hwseta.org.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/105/health-and-welfare-sector-education-and-training-authority-hwseta",
+    "source_paths": [
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "sector": "training",
+      "province": "Gauteng",
+      "city": "Johannesburg",
+      "physical_address": "17 Bradford Road, Bedfordview, Johannesburg",
+      "postal_address": "Private Bag X15, Gardenview, 2047",
+      "contact_emails": [
+        "hwseta@hwseta.org.za",
+        "hwseta@tip-offs.comfree"
+      ],
+      "contact_phone_numbers": [
+        "011 607 6900"
+      ],
+      "socials": {
+        "facebook": "https://www.facebook.com/HWSETA/",
+        "instagram": "",
+        "linkedin": "https://za.linkedin.com/company/hwseta",
+        "x": "https://twitter.com/HWSETA_SA",
+        "youtube": ""
+      },
+      "accreditation": {
+        "dh et": null,
+        "saqa": null
+      },
+      "sources": [
+        "https://nationalgovernment.co.za/units/view/105/health-and-welfare-sector-education-and-training-authority-hwseta",
+        "https://www.hwseta.org.za/"
+      ],
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

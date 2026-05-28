@@ -1,0 +1,16 @@
+{
+  "chunks": [
+    {
+      "type": "other",
+      "text": "PROVIDER ACCREDITATION PROCESS FLOW\nSystem also allows users to register as a provider to do so users have to openthe EWSETA web site and click on Provider Accreditation Application asshown in below screen.\nFamiliariseyourselfwiththe“PopiDisclaimertermsandconditions”& “PrivacyStatement Notice''. thenclickonthe“IAgree”radiobuttontoproceed,youcannotproceed if you do not agree.\nOnclickingthenextbutton,thenextformwillappearforGeneralBusinessInformation as shown below.\nGeneral Business Information\nFill in all the required information and click on the next button.On click of next, the General Site Information form will appear as shown below.\nGeneral Site Information\nEnter main campus details along with the contact details and selectQualification for which provider you want to accredit as shown below.\nContact Details\nQualification\nProvider applicants will be required to select either the qualifications,\nLearning Programs, or Skills Programmes they wish to be accredited for.\nApplicants are also required to select the selectable unit standards\n(electives) they wish to apply for.\nSkills Programs\nLearning Programs\nThe Provider also has to select Assessor(s) by whom the Qualificationwill be assessed.\nNote that this should be an accredited Assessor at EWSETA so what yousimply do is enter the assessor ID and the system will populate theassessor name from the system.\nValidation: The Assessors and Moderators related to the selected Qualification willonly be loaded in the selection list.\nAssessor/ Moderator Linking to the qualification\nEnter the assessor and moderator linked to the qualification being applied for, so thatthere is a seamless link between the provider> assessor and moderator as shownabove.\nDocument UploadAs an applicant you will be required to upload additional documents for the process toproceed. Document upload section uploads the required document for CIPC/DSDDocuments, Tax Clearance, Director C.V, Certified Copies Of Qualifications etc.\nSatellite Campus\nApplicants can also fill in details of satellite Campuses or Training facilitiesunder their belt (Click on the radio button to choose your path.\nUpon completion of filling in all the required information applicants can click onsubmit.\nSubmissionAfter clicking on the“Submit”button, your informationwill be submitted and youwill be presented with a box with information of yourSuccessful ApplicationandReference Number.\nConfirmation Email- After a successful submission, you will also receive a confirmation email for yoursubmission, which will also contain the information you entered and the Referencenumber used to track your submission.",
+      "institutionId": "222",
+      "source_file": "lib/seed/prospectuses/energy-and-water-sector-education-and-training-authority-ewseta.pdf",
+      "start_char": 0,
+      "end_char": 2629
+    }
+  ],
+  "matched_files": [
+    "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/energy-and-water-sector-education-and-training-authority-ewseta.pdf"
+  ],
+  "skipped_chunks": []
+}

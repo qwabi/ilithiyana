@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "institution_id": "228",
+    "slug": "food-and-beverage-manufacturing-industry-sector-education-and-training-authority-foodbev-seta",
+    "name": "Food and Beverage Manufacturing Industry Sector Education and Training Authority (FoodBev SETA)",
+    "institution_type": "seta",
+    "province": null,
+    "city": "Rivonia",
+    "official_website": "https://www.foodbev.co.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/228/food-and-beverage-manufacturing-industry-sector-education-and-training-authority-foodbev-seta",
+    "application_url": "https://qpkblu-cmpzourl.maillist-manage.com/ua/Optin?od=11287ecce683b1&zx=1347ba43e&tD=113aced64d29047a9&sD=113aced64d295b295",
+    "prospectus_url": null,
+    "nsfas_supported": null,
+    "distance_learning": null,
+    "accreditation": {
+      "dh et": null,
+      "saqa": null
+    },
+    "qualification_types": null
+  },
+  "profile": {},
+  "contact": {
+    "emails": [
+      "compliments@foodbev.co.za",
+      "mandatorygrants@foodbev.co.za",
+      "industryfundedapplications@foodbev.co.za",
+      "media@foodbev.co.za",
+      "emplearnerships@foodbev.co.za",
+      "moderations@foodbev.co.za",
+      "aet@foodbev.co.za",
+      "info@foodbev.co.za",
+      "intersetatransfer@foodbev.co.za",
+      "ttapplication@foodbev.co.za",
+      "ulearnerships@foodbev.co.za",
+      "certificatequeries@foodbev.co.za",
+      "wilclaims@foodbev.co.za",
+      "dgqueries@foodbev.co.za",
+      "sims@foodbev.co.za",
+      "monitoringandevaluation@foodbev.co.za",
+      "paymentqueries@foodbev.co.za",
+      "complaints@foodbev.co.za",
+      "externalmoderations@foodbev.co.za",
+      "bursariesenqueries@foodbev.co.za",
+      "sdfregistration@foodbev.co.za",
+      "assessmentqueries@foodbev.co.za"
+    ],
+    "phone_numbers": [
+      "011 253 7300",
+      "011 253 7338",
+      "011 253 7306"
+    ],
+    "physical_address": "7 Wessel Road, Rivonia",
+    "postal_address": "PO Box 245, Gallo Manor, 2052",
+    "socials": {
+      "facebook": "https://www.facebook.com/FoodBevSETAza",
+      "instagram": "https://www.instagram.com/foodbevseta/",
+      "linkedin": "https://www.linkedin.com/company/foodbev-seta",
+      "x": "https://twitter.com/FoodBevseta",
+      "youtube": "https://www.youtube.com/user/foodbevseta/videos"
+    }
+  },
+  "campuses": [],
+  "faculties": [],
+  "programmes": [],
+  "admission": {
+    "aps_name": null,
+    "aps_calculation_notes": null,
+    "minimum_aps_for_bachelors": null,
+    "minimum_aps_for_diplomas": null,
+    "minimum_entry_note": null,
+    "life_orientation_cap": null,
+    "aps_rules": [],
+    "programme_requirements": []
+  },
+  "sources": [
+    "institutions.json"
+  ],
+  "_stats": {
+    "campuses_count": 0,
+    "faculties_count": 0,
+    "programmes_count": 0,
+    "aps_rules_count": 0,
+    "adm_reqs_count": 0
+  }
+}

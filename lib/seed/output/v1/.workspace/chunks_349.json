@@ -1,0 +1,1501 @@
+{
+  "chunks": [
+    {
+      "type": "other",
+      "text": "IT ALL STARTS WITHIT ALL STARTS WITH\nNORTHNORTH--WEST UNIVERSITY WEST UNIVERSITY ((NWUNWU))\nGRADE 12 PROSPECTUS\nContents\n• North-West University (NWU)\n• Where is NWU located?\n• Student Life\n• Accommodation",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 0,
+      "end_char": 205
+    },
+    {
+      "type": "aps",
+      "text": "• What is an APS?\n• Private or International School Systems\n• International Students\n• Interest-Index\n• NWU Virtual Tour\n• Campus Visit\n• Internal and External Bursaries\no Academic Merit Bursary\no Arts and Culture Bursary\no Support Bursary\no Family Discount\no Leadership Bursary\no Sport Bursaries\n• External Bursaries\n• Other Bursaries\n• Sport\n• NWU Arts\n• NWU Young Eagles\n• Need-to-know application information\n• What do you want to study at our 8 faculties?\nTable of\nVisit link\nNext\nPrevious\nNorth-West University\nBragging rights\nWhat can NWU offer you?\nWhere is NWU located?\nTop 8\nuniversities in Africa\nNWU is also recognised as one of the\ntop eight universities in Africa for\nenvironmental sustainability.\nTop 4.2%\nworld’s best universities\nThe Center for World University\nRankings (CWUR) places NWU in\nthe top 4.2% of the world’s best\nuniversities.\nTop 7\nNWU ranks among the top seven\nSouth African universities in the\n2024 Academic Ranking of World\nUniversities (ARWU).\nUniversity\nFind out more here\nNWU provides a world-class education and a supportive community where you can soar.\n• High quality, affordable education.\n• Safe and inclusive environment.\n• Vibrant student life.\n• Thriving sport and cultural activities.\n• Quality expertise with nationally and internationally-rated academics and world-class research facilities.\n• High employability rating as a result of our co-curricular offerings.\nIt all starts with North-West University (NWU) – one of Africa’s top universities!\nNWU offers a world-class education to an international student body from over 60 countries.\nVANDERBIJLPARK CAMPUS\nPOTCHEFSTROOM CAMPUS\nMAHIKENG CAMPUS\n* Remember that certain qualifications are\nonly offered at specific NWU campuses.\n* If you can’t find your preferred\nqualification, visit: NWU Studies to see on\nwhich campus it’s offered.\nNWU has campuses in: Mahikeng, Potchefstroom, and Vanderbijlpark.\nStudent life\nAccommodation\nFor our on-campus and day-house (off-campus) options,click here\nNWU is known for its student life!\nBeing a student is not just about attending classes, late nights in front of the books, or writing exams. It’s a unique experience that\nprepares you for your career, encourages you to try new things, and develop your interests.\n• Be part of a community\n• Strive to lead\n• Sport and arts – be a champion in your own right!\n• Have fun and make life-long friends\nLive and learn at NWU!\nOur residences are more than just places to sleep. They are vibrant communities where you can truly belong.\nFind your home away from home, find:\n• A community of support: Find a community that supports you through every step of your academic journey.\n• A family of friends: Our residences foster friendships beyond the classroom.\n• Which residence is the best? Each residence brings unique experiences and a strong sense of belonging.\n• Heartbeat of student life: Conveniently located near dining halls and minutes from campus, you’ll have everything you\nneed within reach.",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 248,
+      "end_char": 3229
+    },
+    {
+      "type": "aps",
+      "text": "What is an APS?\n• Obtain a National Senior Certificate (NSC) or International Secondary Certificate (ISC), issued by Umalusi, which also",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 3270,
+      "end_char": 3406
+    },
+    {
+      "type": "programme",
+      "text": "indicates that you meet the requirements for a bachelor’s degree.\n• An NSC with a minimum of 50% in any four NSC 20-credit subjects.",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 3407,
+      "end_char": 3539
+    },
+    {
+      "type": "aps",
+      "text": "• APS is calculated using six subjects, excluding Life Orientation. Since Life Orientation isn’t included at NWU, however most\nfaculties at the NWU recommend a 60% pass in Life Orientation.",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 3540,
+      "end_char": 3729
+    },
+    {
+      "type": "faculty",
+      "text": "• Subject-specific requirements per faculty, which include the language of learning and teaching at 50%.",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 3730,
+      "end_char": 3834
+    },
+    {
+      "type": "admission",
+      "text": "The Admission Point Score (APS) helps universities assess if you meet the entry requirements for your chosen course. It’s based\non your Grade 11 or 12 results from your six best-performing subjects, excluding Life Orientation. Each subject earns points\ndepending on your percentage.",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 3835,
+      "end_char": 4117
+    },
+    {
+      "type": "aps",
+      "text": "The APS is a key factor in determining eligibility for specific programmes. NWU’s APS Calculator allows you to calculate your score\nfor NSC, International Secondary Certificate (ISC), and SACAI results, and check if you qualify for the programme you wish to\napply to.",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 4118,
+      "end_char": 4385
+    },
+    {
+      "type": "aps",
+      "text": "Subject Percentage (%) APS\nSetswana 72% 6\nEnglish 69% 5\nDance Studies 85% 7\nMathematics 82% 7\nAccounting 69% 5\nBusiness Studies 76% 6\nTotal 36\nIf you attended a private or international school, you may use the conversion table available on the NWU website to calculate your",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 4452,
+      "end_char": 4725
+    },
+    {
+      "type": "aps",
+      "text": "APS score.\nThe Cambridge International curriculum is the most widely used international examination.\nUnder this system:\nDepending on which level you complete on the Cambridge system, you’ll receive different scores.\n• The Cambridge IGCSE qualification is equivalent to a South African Grade 11, and Cambridge AS Levels are equivalent to\na South African Grade 12.",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 4726,
+      "end_char": 5088
+    },
+    {
+      "type": "aps",
+      "text": "Subject Level Grade APS\nEnglish IGCSE/O level C 3\nSetswana IGCSE/O level C 3\nMathematics A level B 7\nBiology A level C 6\nGeography IGCSE/O level B 4\nTotal 23",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 5165,
+      "end_char": 5322
+    },
+    {
+      "type": "aps",
+      "text": "Subject Level Grade APS\nEnglish HL 6 8\nMathematics HL 4 6\nPhysics HL 4 6\nChemistry HL 5 7\nFrench SL 4 5\nBiology SL 6 7\nTotal 39\nConversion example: Example: conversion for the",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 5323,
+      "end_char": 5498
+    },
+    {
+      "type": "aps",
+      "text": "APS Calculation by Level:\n• O/IGCSE Levels: Begin at a score of 5 for the lowest level.",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 5563,
+      "end_char": 5650
+    },
+    {
+      "type": "aps",
+      "text": "• AS Levels: Equivalent to the South African matric; grades above 90% earn an APS of 8, while grades of 80% and above\nearn 7, and so on.",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 5651,
+      "end_char": 5787
+    },
+    {
+      "type": "aps",
+      "text": "• A Levels: Equivalent to a first-year university level; a grade of A earns the highest score, APS = 10.",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 5788,
+      "end_char": 5892
+    },
+    {
+      "type": "aps",
+      "text": "Calculate your APS based on six (6) subjects, using the highest level passed in each subject.\nNote:\n• For qualifications that require Physical Science as a subject, both Physics and Chemistry are mandatory.\n• Mathematics is accepted at AS Levels.\nSupport for International Students\nThe Global Engagement Office is\nready and able to make your journey\nas an international student as easy as\npossible. Experts are waiting to assist\nyou!\nFor more information, Click here!\nInterest-Index\nChoosing a career path can be overwhelming, especially with so many options out there. North-West\nUniversity’s (NWU) Interest-Index is a handy tool available to assist and guide you in choosing your future career.\nWhy the Interest-Index is your secret weapon:\n• Explore the activities you enjoy and are good at, and you’ll understand your interests and talents.\n• The Interest-Index matches your interests with potential career paths and university courses, opening doors to a fulfilling\nfuture.\n• When you complete the survey, you’ll receive a personalised report that reveals exciting possibilities you may not have\nconsidered before, broadening your horizons, and sparking your imagination.\nTake the survey now:\nPlease note that this service is not intended to be a substitute for professional career guidance.\n• For professional career guidance (psychometric testing), please contact our Student Guidance Services department at 018\n299 2893 or contact a career psychologist in your area.\nSchedule a consultation session with Student Counselling and Development (SCD):\nFor more information, visit: https://services.nwu.ac.za/student-counselling-and-development\nMahikeng:\nMC-SCD@nwu.ac.za\nPotchefstroom:\nSCDPotch@nwu.ac.za\nVanderbijlpark:\nscdvc@nwu.ac.za\nNWU Virtual Tour\nGet a glimpse of life at NWU from the comfort of your own home. Take a virtual tour of the campus, and enjoy a personalised tour\nbased on your interests!\nChoose two qualifications, the campus, and the activities beyond the classroom. From your choices, a tour is compiled that is\npersonalised for you.\nExplore excellence at NWU through Campus Visits",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 5893,
+      "end_char": 7999
+    },
+    {
+      "type": "faculty",
+      "text": "Experience our vibrant campus life, connect with inspiring faculty, and explore state-of-the-art facilities. NWU campus visits give\nyou the chance to envision your academic journey and find where you belong.\nBefore you book your campus visit, consider this:",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 8000,
+      "end_char": 8257
+    },
+    {
+      "type": "faculty",
+      "text": "• Which faculty do you want to explore?\n• Do you want to visit a residence?\n• Do you have a passion for a specific sport?\nGet ready for an unforgettable NWU adventure! Book your visit now.\nTo ensure you have the absolute best time, book your visit 48–72 hours in advance.\nWe can’t wait to show you what NWU is all about!\nInternal and External Bursaries\nStudying takes hard work, but also requires funding. To help you finance your academic future, we have compiled a list of bursary\nschemes\nInternal Bursaries\nAcademic Merit Bursary Own your academic journey and pay for your studies. The Academic Merit Bursary is available to all fulltime first-, second-, third- and fourth-year students who complete their degree within its relevant duration, e.g., within three years\nfor a three-year degree. To qualify for this bursary, you must meet specific academic requirements. Part-time students must apply\nand qualify for half of the allocation.\nFamily Discount Families with two or more students registered simultaneously at NWU can apply for this bursary and will receive\na percentage discount on class fees, depending on whether you are the second, third, or fourth family member. One student must\napply annually, and it is not awarded automatically.\nArts and Culture Bursary Students qualify based on their achievements in arts and culture from Grades 8-12. To apply, visit: Arts",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 8258,
+      "end_char": 9636
+    },
+    {
+      "type": "faculty",
+      "text": "and Culture Bursary. The Department of Arts and Culture will assess your application. Senior students qualify based on participation\nin cultural activities at university, e.g., NWU choir, symphony orchestra, and others.\nLeadership Bursary Were you a head boy, head girl, or a chairman in Grade 12? Thanks to the once-off leadership bursary, you\ncan get an additional discount on your first year of study.\nSupport Bursary NWU offers bursaries to prospective students with physical disabilities or students who come from an orphanage\nor foster care system. The relevant student must have university admission before applying and need only apply once. Ensure all\nnecessary documents are attached to the application form: Support Bursary Form.\nSports Bursary The NWU Sport Department only awards bursaries to contracted students. Prospective students with provincial\ncolours can apply for a sports bursary in the year before they plan to study at NWU. For more information, click here!\nExternal Bursaries\nA significant number of bursary opportunities are available outside of NWU.\nOther Bursaries\nWe want to help you find a bursary, so we have compiled a list of other bursaries that may assist in funding your university\njourney. For more information, click here.\nSport\nStudents in South Africa and across the world prefer NWU as their university of choice for sport. NWU students can participate in\nvarious sports such as rugby, netball, hockey, soccer, athletics, and many more. To learn more, click here.\nMahikeng Potchefstroom Vanderbijlpark\nHigh Performance\nSoccer Rugby Soccer\nCricket Basketball\nAthletics Netball\nSoccer Hockey\nHockey Rugby\nTennis\nNetball\nCompetitive\nAerobics Swimming Cricket\nCross country Cross country Bodybuilding\nBoxing Water polo Chess\nBodybuilding Cycling and Mountain biking Karate\nChess Squash\nDance Gymnastics\nKarate Golf\nNetball Karate\nRugby Basketball\nTennis Badminton\nVolleyball 7’s Rugby\nCanoeing\nRecreation\nBadminton e-Sport Cross country\nBasketball Dance Canoeing\nTaekwondo Rock climbing Mind sport\nTable tennis Table tennis Wellness\nJu-jitsu Chess Running Club\nHockey Dance\nCricket Cycling and Mountain biking\nWellness\nAerobics Aerobics\nCircuit training Kickboxing\nSwimming Pilates\nLearn to swim Spinning\nPool Yoga\nZumba\nNWU Arts\nNWU Arts offers a distinctive combination of academic excellence and hands-on experience. Whether your passion lies in visual\narts, performing arts, or digital media, NWU provides a platform to cultivate your creativity and refine your skills under the mentorship",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 9637,
+      "end_char": 12167
+    },
+    {
+      "type": "faculty",
+      "text": "of accomplished faculty members and industry professionals.\nNorth-West University’s arts community is a dynamic hub of ideas, where collaborative and interdisciplinary projects thrive, allowing\nyou to work alongside fellow #NWUEagles. This collaborative spirit reflects the real-world creative industries, equipping you for a\nfuture where versatility and adaptability are essential.\nNWU’s state-of-the-art facilities, studios, performance spaces, and galleries are designed to inspire and support your artistic journey.\n• NWU Gallery • Symphony Orchestra • Thalia Drama Society\n• Artema • Serenaders • Gospella\n• PUK Choir • Dysfunctional Beat Dance Crew • Divaco\n• SCC Arts Council\nFor more information, click here.\nThe North-West University Young Eagles Community of Excellence!\nThe NWU Young Eagles programme is designed to support and guide you throughout\nyour academic journey. Aimed at helping you unlock your full potential; it prepares\nyou for university life and offers exciting online enrichment programmes to develop\nyour skills and broaden your horizons.\nGain valuable life skills that will set you up for success, not only in academics but in\nall areas of life. Plus, you’ll connect with like-minded students and mentors who are\npassionate about learning and personal growth.\nExplore a world of opportunities with the NWU Young Eagles!\nNWU Young Eagles\n5 easy tips for seamless application process.\n1. Have an active email address ready",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 12168,
+      "end_char": 13617
+    },
+    {
+      "type": "admission",
+      "text": "2. Know your desired study field options’ minimum admission requirements\n3. Prepare your supporting documents digitally\n4. Create an application profile and complete fields thoroughly\n5. Accept your conditional acceptance offer within the limited time frame\nReady to apply? Follow these steps!\n• Register: Visit the NWU application system and create your profile by registering with your personal details as shown on your\nID document.\n• Confirmation: You’ll receive your username (email address) and temporary password via email. Use these to log in to the\napplication system.\nCreate Your Application Profile\n• Use your username and password to access the application system. Be sure not to change your email address or phone\nnumber throughout the year, as all important communication will be sent to these contacts.\nLog In\n• Select up to two study programmes that interest you. For detailed information on qualifications, delivery methods, and\ncurriculums, visit our yearbooks\n• Note: Study options are linked to specific campuses. Ensure you choose the correct campus if your preferred programme is\nnot listed.\nChoose Your Study Options\n• Prepare and upload the following documents in a digital format (PDF, JPEG, etc.):\n• Certified copy of your ID document.\n• Final Grade 11 or 12 results.\n• If applicable, a copy of your academic records.\n• For International Students:\n• Certified copy of your passport.\n• Most recent academic records and qualifications.\n• Medical examination according to your country’s requirements.\n• Apply for an evaluation certificate from the South African Qualifications Authority (SAQA) after completing your high school\ncareer.\nUpload Supporting Documents\n• Review all your information and read the declaration on the final screen before you submit it.\nSubmit Your Application\nWatch our application video for step-by-step guidance\nPlease note: An application that has not been submitted cannot be processed by NWU.\nWhat do you want to study at our 8 Faculties?\nHelpful abbreviations:\nHL – Home Language FAL – First Additional Language SAL – Second Additional Language\nMC – Mahikeng Campus PC – Potchefstroom Campus VC – Vanderbijlpark Campus",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 13618,
+      "end_char": 15789
+    },
+    {
+      "type": "admission",
+      "text": "Please note the admission requirements can change depending on selection and possible faculty-specific requirements.\nStudy information is also subject to change, consider this a summary of the general fields of study. This information\nwas compiled for introduction and orientation purposes and North-West University accepts no liability for inaccuracies\nthat may occur in this guide. The official yearbook of the University must be consulted in all cases during the process of\ncompiling a programme for a specific field of study.\nDownload the yearbook\nOwing to specific capacity constraints, the University reserves the right to select candidates for admission to certain",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 15790,
+      "end_char": 16461
+    },
+    {
+      "type": "admission",
+      "text": "study fields. This means that prospective students who comply with the minimum requirements will not automatically be\nadmitted to the courses in question.\nBecause of the capacity limitations and the high demand for admission to particular fields of study, students will be\nevaluated based on their final Grade 11 results and fully accepted for admission based on their final Grade 12 results.",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 16462,
+      "end_char": 16854
+    },
+    {
+      "type": "faculty",
+      "text": "Schools in the Faculty of Engineering\n• Chemical and Minerals Engineering\n• Electrical, Electronic and Computer Engineering\n• Mechanical Engineering\n• Nuclear Engineering\n• Industrial Engineering",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 16948,
+      "end_char": 17143
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of\nEngineering\n(BEng)\nChemical Engineering\nElectrical and Electronic\nEngineering\nComputer and Electronic\nEngineering\nElectromechanical\nEngineering\nMechanical Engineering\nIndustrial Engineering\nMechatronic Engineering\nCONDITIONAL ACCEPTANCE\n• Applicants who have yet to write the final school-leaving examination will\nbe conditionally accepted with the following grade 11 results:\n• Afrikaans or English (the language of instruction in either the Home or\nFirst Additional Language level) at least 60%\n• Mathematics at least 65%\n• Physical Science at least 65%",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 17192,
+      "end_char": 17759
+    },
+    {
+      "type": "aps",
+      "text": "• APS at least 31\nFINAL ACCEPTANCE\n• Applicants will however only be finally accepted when they meet the\nfollowing requirements based on final Grade 12 results.\n• Afrikaans or English (the language of instruction in either the Home or\nFirst Additional Language level) at least 60%\n• Mathematics at least 70%\n• Physical Science at least 70%",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 17760,
+      "end_char": 18099
+    },
+    {
+      "type": "aps",
+      "text": "• APS at least 34\nAdditional entry route:\n• Students with 65% in both Mathematics AND Physical Sciences, and an",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 18100,
+      "end_char": 18211
+    },
+    {
+      "type": "aps",
+      "text": "APS of 31, for their final Grade 12 results, may have the opportunity to\nwrite a test as an additional point of entry.\n• Students with 40%+ in both Mathematics and Physical Sciences and at\nleast 60% in the language of instruction can apply for the 1-year Xcel\nbridging programme.\n• DURATION: 4 years\n34 Potchefstroom\n* Language of instruction: English\nChange the world for the better with an NWU qualification in Engineering. We’ll educate you\nto be an exceptional engineer who can find answers to current and future real-life challenges\nthrough cutting-edge and applied research.",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 18212,
+      "end_char": 18792
+    },
+    {
+      "type": "faculty",
+      "text": "NWU’s Faculty of Law works to equip law students with the knowledge, ethics, and skills that they\nwill need in their professional lives. We offer quality legal education and focused research and are\ninvolved in our community.",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 18841,
+      "end_char": 19066
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Arts in\nLaw (BA in Law)\nwith Psychology\nwith Politics\nwith Industrial\nPsychology\n• NS(C) OR NC(V) for degree studies, OR with full matriculation exemption;\n• Home Language AND First Additional Language level 5",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 19115,
+      "end_char": 19336
+    },
+    {
+      "type": "faculty",
+      "text": "faculty. Academic performance is important. Limited capacity.\n• DURATION: 3 years\n28 Potchefstroom\nVanderbijlpark",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 19413,
+      "end_char": 19526
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of\nCommerce in Law\n(BCom in Law)\n• NS(C) OR NC(V) for degree studies, OR with full matriculation exemption;\n• Home Language AND First Additional Language level 5\n• Mathematics level 4",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 19527,
+      "end_char": 19719
+    },
+    {
+      "type": "faculty",
+      "text": "faculty. Academic performance is important. Limited capacity.\n• DURATION: 3 years\n30 Potchefstroom\nVanderbijlpark",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 19796,
+      "end_char": 19909
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Laws\n(LLB)\n• NS(C) OR NC(V) for degree studies, OR with full matriculation exemption;\n• Home Language AND First Additional Language level 5",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 19910,
+      "end_char": 20061
+    },
+    {
+      "type": "faculty",
+      "text": "faculty. Academic performance is important. Limited capacity.\n• DURATION: 4 years\n30 Mahikeng\nPotchefstroom",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 20138,
+      "end_char": 20245
+    },
+    {
+      "type": "programme",
+      "text": "Extended Bachelor of Laws (LLB)\n• NS(C) OR NC(V) for degree studies, OR with full matriculation exemption;\n• Home Language level 4 (50-59%) AND First additional language level 4 (50-59%)\n• Grade 12 Mathematics level 3 (40-49%) OR Mathematics Literacy level 5 (60-69%)",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 20246,
+      "end_char": 20513
+    },
+    {
+      "type": "faculty",
+      "text": "faculty. Academic performance is important. Limited capacity.\n• DURATION: 5 years\n28 Mahikeng\n*Language of instruction is English (Additional support will be provided to students in a form of peer mentoring,\ntutorials, and supplementary instruction in all official languages of NWU.)",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 20590,
+      "end_char": 20873
+    },
+    {
+      "type": "faculty",
+      "text": "The Faculty of Theology caters for different theological traditions with our niche being reformational theology.",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 20927,
+      "end_char": 21039
+    },
+    {
+      "type": "faculty",
+      "text": "The faculty aims in its practice of theology, to serve the church and society, both nationally and internationally\nby enhancing the Christian faith, the reformation of the church, and the moral renewal of society.",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 21040,
+      "end_char": 21253
+    },
+    {
+      "type": "faculty",
+      "text": "Schools in the Faculty of Theology\n• Christian Ministry and Leadership\n• Ancient Language and Text Studies",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 21254,
+      "end_char": 21360
+    },
+    {
+      "type": "aps",
+      "text": "Degree Field SUBJECTS / Requirements APS Campus\nBA in Ancient Languages as first qualification • NS(C) or NC(V) for degree studies, or with full\nmatriculation exemption\n• English level 4 (50-59%)\n• DURATION: 3 years\n• MODE OF DELIVERY: Contact\n24 Potchefstroom\nBA in Pastoral Psychology as first\nqualification\n• In consultation with Association of Christian\nReligious Practitioners (ACRP)\n• NS(C) or NC(V) for degree studies, or with full\nmatriculation exemption\n• English level 4 (50-59%)\n• DURATION: 3 years\n• MODE OF DELIVERY: Contact\n26 Mahikeng\nVanderbijlpark\nBTh with Pastoral Counselling and Psychology\nas first qualification\n• In consultation with the Association of\nChristian Religious Practitioners (ACRP)\n• NS(C) or NC(V) for degree studies, or with full\nmatriculation exemption\n• English level 4 (50-59%)\n• DURATION: 3 years\n• MODE OF DELIVERY: Contact\n26 Potchefstroom",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 21361,
+      "end_char": 22242
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Divinity (BDiv)\nIn consultation with\n• Curators of Reformed Churches in SA\n• Curators of Hervormde Kerk\n• Curators of Dutch Reformed Church\n• NS(C) or NC(V) for degree studies, or with full\nmatriculation exemption\n• English level 4 (50-59%)\n• DURATION: 4 years\n• MODE OF DELIVERY: Contact; Distance\n24 Potchefstroom\nDistance\nBTh with Bible Languages and Bible Translation • NS(C) or NC(V) for degree studies, or with full\nmatriculation exemption\n• English level 4 (50-59%)\n• DURATION: 3 years\n• MODE OF DELIVERY: Contact\n24 Potchefstroom\nBTh in Christian Ministry as first qualification\nIn consultation with the\n• Governing Body of Theological Education",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 22243,
+      "end_char": 22908
+    },
+    {
+      "type": "faculty",
+      "text": "• Department of Education and Training of the AFM\n• NS(C) or NC(V) for degree studies, or with full\nmatriculation exemption\n• English level 4 (50-59%)\n• DURATION: 3 years\n• MODE OF DELIVERY: Contact; Distance\n24 Potchefstroom\nDistance\nMore information about Distance Learning.",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 22909,
+      "end_char": 23185
+    },
+    {
+      "type": "faculty",
+      "text": "The Faculty of Education prides itself on shaping the future of Education with innovative research,\nquality education, and a commitment to making a difference. Their quality research addresses\nsocietal challenges through community-based research that is collaborative and action-oriented.",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 23240,
+      "end_char": 23528
+    },
+    {
+      "type": "programme",
+      "text": "• A National Senior Certificate with endorsement for bachelor’s studies\nand with appropriate subject combinations and performance levels as\nper Government Gazette 31231 (2008).\n• Language of instruction: Home Language and First Additional Language\nlevel 4 (50-59%). To register First Additional Language as Language\nof Learning and Teaching, a level 5 (60-69%) is required for the First\nAdditional Language. Languages available to choose from as a\nLanguage of Learning and Teaching (LoLT) are Afrikaans, English,\nisiXhosa, Sesotho, or Setswana. Languages available to choose from\nas a Language of Conversational Competence (LoCC) are Afrikaans,\nisiXhosa, Sesotho, and Setswana. Please note that the LoLT and the\nLoCC may not be the same language.\n• Clearance certificate in terms of the provisions of the Children’s Act,\nAct 38 of 2005, as persons suitable to work with babies, toddlers and\nyoung children as contemplated in section 97(3) and duly verified against\nPart B of the National Protection Register in accordance with section 126\nof the said Act.\n• Basic computer literacy skills, access to a computer and suffi cient Wi-Fi.\n• DURATION: a minimum of 4 years\n26 *Distance",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 23644,
+      "end_char": 24823
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of\nEducation\n(BEd) in\nFoundation Phase\nGrade R – 3\n• MC: English/Setswana as HL AND English/Setswana as FAL;\n• PC: Afrikaans/English/Sesotho/Setswana/isiXhosa as HL AND Afrikaans/\nEnglish/Setswana as FAL;\n• VC: Afrikaans/English/IsiZulu/Sesotho as HL AND Afrikaans/English/\nIsiZulu/Sesotho as FAL;\n• Distance: Afrikaans/English/IsiZulu/Sepedi/Sesotho/Setswana/isiXhosa\nas HL AND Afrikaans/English/Setswana as FAL.\n• DURATION: 4 years\n26 Mahikeng\nPotchefstroom\nVanderbijlpark\n*Distance",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 24824,
+      "end_char": 25317
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of\nEducation (BEd)\nin Intermediate\nPhase\nGrade 4 – 6\nwith Mathematics,\nScience and Technology\n• PC: Afrikaans/Sesotho/Setswana as HL AND English as FAL;\n• VC: Afrikaans/English/IsiZulu/Sesotho as HL AND Afrikaans/English/\nIsiZulu/Sesotho as FAL;\n• Subject-specific requirements: Mathematics level 3 OR Technical\nMathematics level 4.\n• DURATION: 4 years\n26 Potchefstroom\nVanderbijlpark",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 25318,
+      "end_char": 25711
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of\nEducation (BEd)\nin Intermediate\nPhase\nGrade 4 – 6\nwith Life Skills and Social\nSciences\n• PC: Afrikaans/Sesotho/Setswana as HL AND English as FAL;\n• VC: Afrikaans/English/IsiZulu/Sesotho as HL AND Afrikaans/English/\nIsiZulu/Sesotho as FAL;\n• Distance: Afrikaans/IsiZulu/Sepedi/Sesotho/Setswana as HL AND\nEnglish as FAL.\n• DURATION: 4 years\n26 Potchefstroom\nVanderbijlpark\n*Distance\nMore information about Distance Learning",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 25712,
+      "end_char": 26145
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Education\n(BEd) in Senior and Further\nEducation and Training\nGrade 7 – 12\nwith Economics\nwith History\nwith Business Studies\n• Home Language AND First Additional Language level 4\n• DURATION: 4 years\n26 Mahikeng\nPotchefstroom\nVanderbijlpark\n*Distance\nwith Geography • Home Language AND First Additional Language level 4\n• DURATION: 4 years\n26 Mahikeng\nPotchefstroom\nVanderbijlpark\nwith English • Subject-specific requirements: English Home Language level\n4 OR English First Additional Language level 5 AND Home\nLanguage/First Additional Language level 4\n• DURATION: 4 years\n26 Mahikeng\nPotchefstroom\nVanderbijlpark\n*Distance\nwith Physical Sciences • Home Language AND First Additional Language level 4\n• Subject-specific requirements: Physical Sciences level 4;\nMathematics level 4 OR Technical Mathematics level 5\n• DURATION: 4 years\n26 Mahikeng\nPotchefstroom\nVanderbijlpark\nwith Accounting • Home Language AND First Additional Language level 4\n• Subject-specific requirements: Accounting level 4\n• DURATION: 4 years\n26 Mahikeng\nPotchefstroom\nVanderbijlpark\n*Distance\nwith Mathematics • Home Language AND First Additional Language level 4\n• Subject-specific requirements: Mathematics level 5\n• DURATION: 4 years\n26 Mahikeng\nPotchefstroom\nVanderbijlpark\n*Distance\nwith Afrikaans • Subject-specific requirements: Afrikaans Home Language\nlevel 5 AND First Additional Language level 4\n• DURATION: 4 years\n26 Potchefstroom\nVanderbijlpark\n*Distance\nwith Life Sciences • Home Language AND First Additional Language level 4\n• Subject-specific requirements: Life Sciences level 4\n• DURATION: 4 years\n26 Mahikeng\nPotchefstroom\nVanderbijlpark\nwith Life Orientation • Home Language AND First Additional Language level 4\n• Subject-specific requirements: Life Orientation level 4\n• DURATION: 4 years\n26 Potchefstroom\nVanderbijlpark\n*Distance\nwith Engineering,\nGraphics and Design\n• Home Language AND First Additional Language level 4\n• DURATION: 4 years\n26 Potchefstroom\nVanderbijlpark\n*Distance\nwith Computer\nApplication Technology\n• Home Language AND First Additional Language level 4\n• DURATION: 4 years\n26 Potchefstroom\nVanderbijlpark\nwith Sesotho • Subject-specific requirements: Sesotho Home Language level\n4 AND First Additional Language level 4\n• DURATION: 4 years\n26 Potchefstroom\nVanderbijlpark\n*Distance\nwith Mechanical\nTechnology\nwith Civil Technology\nwith Electrical\nTechnology\n• Home Language AND First Additional Language level 4\n• Subject specific requirements: Mathematics or Technical\nMathematics pass rate of at least 50% in the Grade 12\nexamination. Recommendation: level 3 (40-49%) pass\nrate in Grade 12 in Physical/Technical Sciences, and any\nTechnology subject.",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 26146,
+      "end_char": 28827
+    },
+    {
+      "type": "admission",
+      "text": "• Students that do not meet the minimum requirements:\nwho have passed Mathematics in Grade 12 with at least\n40% OR who have passed Mathematical Literacy in Grade\n12 with at least 60% with a pass rate of at least 40% for\nany Technology subjects in Grade 12 OR who have passed\nTechnical Mathematics with at least 40% in Grade 12, may\nbe allowed entry into these programmes on condition that\nthey pass the bridging modules MTEC 111 and MTEC 121\nduring the first two years of study.\n• DURATION: 4 years\n26 Potchefstroom\nVanderbijlpark\nwith Setswana • Subject-specific requirements: Setswana Home Language\nlevel 4 AND First Additional Language level 4\n• DURATION: 4 years\n26 Mahikeng\nPotchefstroom\n*Distance\nwith Information\nTechnology\n• Home Language AND First Additional Language level 4\n• DURATION: 4 years\n26 Potchefstroom\nwith Art • Home Language AND First Additional Language level 4\n• DURATION: 4 years\n26 Potchefstroom\n*Distance\nwith Mathematical\nLiteracy\n• Home Language AND First Additional Language level 4\n• Subject-specific requirements: Mathematics level 3 OR\nMathematical Literacy level 5 OR Technical Mathematics\nlevel 4\n• DURATION: 4 years\n26 Vanderbijlpark\nLanguage of instruction is English (If students specialise in a language field, the medium of instruction will be the language of\nspecialisation, which includes Afrikaans, Sepedi, Sesotho, Setswana, IsiZulu, IsiXhosa, IsiNdbele, SiSwati, Tshivenda, and Xitsonga.)\nMore information about Distance Learning",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 28828,
+      "end_char": 30302
+    },
+    {
+      "type": "faculty",
+      "text": "Gain a deeper understanding of science through the Faculty of Natural and Agricultural Sciences.\nYou’ll develop skills to understand, interpret, and transform our world through physical and chemical,\nbiological, geo- and spatial, agricultural sciences, mathematics, statistics, business mathematics and\ninformatics, and indigenous knowledge systems.",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 30381,
+      "end_char": 30730
+    },
+    {
+      "type": "faculty",
+      "text": "Schools in the Faculty of Natural and Agricultural Sciences\n• Physical and Chemical Sciences\n• Biological Sciences\n• Geo- and Spatial Sciences\n• Mathematical and Statistical Sciences\n• Agricultural Sciences\n• Computer Science and Information Systems\n• Business Mathematics and Informatics\n• Indigenous Knowledge Systems",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 30731,
+      "end_char": 31050
+    },
+    {
+      "type": "programme",
+      "text": "Diploma in Animal Health • English level 3\n• Mathematics level 3 OR Technical Mathematics level 4\n• Physical Science level 3 OR Life Science level 3\n• DURATION: 3 years\n22 Mahikeng",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 31099,
+      "end_char": 31279
+    },
+    {
+      "type": "programme",
+      "text": "Diploma in Animal\nScience\n• English level 3\n• Mathematics level 3 OR Technical Mathematics level 4 OR\nMathematics Literacy level 5\n• Physical Science level 3 OR Life Science level 3 OR\nAgricultural Science level 4\n• DURATION: 3 years\n22 Mahikeng",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 31280,
+      "end_char": 31525
+    },
+    {
+      "type": "programme",
+      "text": "Diploma in Plant Science • English level 3\n• Mathematics level 3 OR Technical Mathematics level 4 OR\nMathematics Literacy level 5\n• Physical Science level 3 OR Life Science level 3 OR\nAgricultural Science level 4\n• DURATION: 3 years\n22 Mahikeng",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 31526,
+      "end_char": 31770
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Science with Chemistry and Physics\nwith Physics and Mathematics\nwith Physics and Applied Mathematics\nwith Physics and Computer Science\n• Mathematics level 5\n• Physical Science level 4\n• DURATION: 3 years\n26 Mahikeng\nPotchefstroom\nwith Computer Science and Mathematics • Mathematics level 5\n• Physical Science level 4\n• DURATION: 3 years\n26 Mahikeng\nPotchefstroom\nVanderbijlpark\nwith Biochemistry and Chemistry • Mathematics level 4 OR\nTechnical Mathematics\nlevel 5\n• Physical Science level 4\n• DURATION: 3 years\n26 Mahikeng\nPotchefstroom\nwith Geography and Applied Mathematics • Mathematics level 5\n• Physical Science level 4\n• DURATION: 3 years\nPotchefstroom\nwith Applied Mathematics and Chemistry\nwith Chemistry and Mathematics\n• Mathematics level 5\n• Physical Science level 4\n• DURATION: 3 years\n26 Mahikeng\nPotchefstroom\nwith Applied Mathematics and Electronics\nwith Electronics and Mathematics\nwith Electronics and Physics\nwith Chemistry and Computer Science\nwith Computer Science and Electronics\n• Mathematics level 5\n• Physical Science level 4\n• DURATION: 3 years\n26 Mahikeng\nwith Mathematics and Economy\nwith Computer Science and Economics\n• Mathematics level 5\n• DURATION: 3 years\n26 Potchefstroom\nVanderbijlpark\nwith Computer Science and Statistics • Mathematics level 5\n• Physical Science level 4\n• DURATION: 3 years\n26 Potchefstroom\nVanderbijlpark",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 31771,
+      "end_char": 33142
+    },
+    {
+      "type": "programme",
+      "text": "Extended Bachelor of Science with Applied Mathematics and Chemistry\nwith Applied Mathematics and Electronics\nwith Biochemistry and Chemistry\nwith Chemistry and Computer Science\nwith Chemistry and Mathematics\nwith Chemistry and Physics\nwith Computer Science and Electronics\nwith Computer Science and Mathematics\nwith Electronics and Mathematics\nwith Electronics and Physics\nwith Physics and Applied Mathematics\nwith Physics and Computer Science\nwith Physics and Mathematics\nin Biological Sciences with Microbiology and Biochemistry\nin Biological Sciences with Botany and Biochemistry\nin Biological Sciences with Botany and Microbiology\nin Environmental Sciences with Chemistry and Geography\nin Environmental Sciences with Geography and Botany\nin Environmental Sciences with Geography and Computer\nScience\nin Environmental Sciences with Botany and Chemistry\nin Mathematical Sciences with Applied Mathematics and\nMathematics\n• English level 4\n• Mathematics level 3 OR\nTechnical Mathematics\nlevel 4\n• Physical Science level 3\n• DURATION: 4 years\n24 Mahikeng",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 33143,
+      "end_char": 34196
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Science in\nInformation Technology\n• Mathematics level 4 OR\nTechnical Mathematics\nlevel 5\n• DURATION: 3 years\n• MODE OF DELIVERY:\nContact and\nDistance\n26 Potchefstroom\nVanderbijlpark\n*Distance",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 34197,
+      "end_char": 34400
+    },
+    {
+      "type": "programme",
+      "text": "Extended Bachelor of Science in\nInformation Technology\n• Mathematics level 3 OR\nTechnical Mathematics\nlevel 4\n• DURATION: 4 years\n24 Vanderbijlpark",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 34401,
+      "end_char": 34548
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Science in\nMathematical Sciences\nwith Statistics and Mathematics • Mathematics level 5\n• Physical Science level 4\n• DURATION: 3 years\n26 Potchefstroom\nVanderbijlpark\nwith Mathematics • Mathematics level 5\n• Physical Science level 4\n• DURATION: 3 years\n26 Potchefstroom\nwith Applied Mathematics and Mathematics • Mathematics level 5\n• Physical Science level 4\n• DURATION: 3 years\n26 Mahikeng",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 34549,
+      "end_char": 34951
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Science in Biological\nSciences\nwith Microbiology and Biochemistry\nwith Microbiology and Botany\nwith Botany and Biochemistry\n• Mathematics level 4 OR Technical\nMathematics level 5\n• Physical Science level 4\n• DURATION: 3 years\n26 Mahikeng\nPotchefstroom\nwith Zoology and Biochemistry\nwith Chemistry and Physiology\nwith Zoology and Botany\nwith Zoology and Microbiology\nwith Zoology and Physiology\nwith Microbiology and Physiology\n• Mathematics level 4 OR Technical\nMathematics level 5\n• Physical Science level 4\n• DURATION: 3 years\n26 Potchefstroom",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 34952,
+      "end_char": 35509
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Science in\nEnvironmental Sciences\nwith Chemistry and Microbiology\nwith Botany and Chemistry\nwith Geography and Computer Science\nwith Geography and Botany\n• Mathematics level 4 OR Technical\nMathematics level 5\n• Physical Science level 4\n• DURATION: 3 years\n26 Mahikeng\nPotchefstroom\nwith Zoology and Chemistry\nwith Chemistry and Geology\nwith Geology and Geography\nwith Zoology and Geography\nwith Geology and Botany\nwith Zoology and Geology\nwith Geology and Microbiology\nwith Tourism and Zoology\nwith Tourism and Geography\nwith Tourism and Botany\n• Mathematics level 4 OR Technical\nMathematics level 5\n• Physical Science level 4\n• DURATION: 3 years\n26 Potchefstroom\nwith Chemistry and Geography • Mathematics level 5\n• Physical Science level 4\n• DURATION: 3 years\n26 Mahikeng",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 35510,
+      "end_char": 36295
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Science in Financial\nMathematics\n• Mathematics level 6\n• DURATION: 3 years\n32 Potchefstroom\nVanderbijlpark",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 36296,
+      "end_char": 36414
+    },
+    {
+      "type": "programme",
+      "text": "Extended Bachelor of Science in\nFinancial Mathematics\n• Mathematics level 4 OR Technical\nMathematics level 5\n• DURATION: 4 years\n28 Vanderbijlpark",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 36415,
+      "end_char": 36561
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Science in Business\nAnalytics\n• Mathematics level 6\n• Duration: 3 years\n32 Potchefstroom\nVanderbijlpark",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 36562,
+      "end_char": 36677
+    },
+    {
+      "type": "programme",
+      "text": "Extended Bachelor of Science in\nBusiness Analytics\n• Mathematics level 4 OR Technical\nMathematics level 5\n• DURATION: 4 years\n28 Vanderbijlpark",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 36678,
+      "end_char": 36821
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Science in\nQuantitative Risk Management\n• Mathematics level 6\n• DURATION: 3 years\n32 Potchefstroom\nVanderbijlpark",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 36822,
+      "end_char": 36947
+    },
+    {
+      "type": "programme",
+      "text": "Extended Bachelor of Science in\nQuantitative Risk Management\n• Mathematics level 4 OR Technical\nMathematics level 5\n• DURATION: 4 years\n28 Vanderbijlpark",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 36948,
+      "end_char": 37101
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Science in Actuarial\nSciences\n• Mathematics level 6\n• DURATION: 3 years\n32 Potchefstroom",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 37102,
+      "end_char": 37202
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Science in Urban and\nRegional Planning\n• Mathematics level 4 OR Technical\nMathematics level 5\n• SELECTION TEST\n• DURATION: 4 years\n28 Potchefstroom",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 37203,
+      "end_char": 37362
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Science in\nAgricultural Sciences\nwith Agricultural Economics\nwith Animal Science\nwith Agronomy and Horticulture\nwith Animal Health\n• English level 4\n• Mathematics level 4 OR Technical\nMathematics level 5\n• Physical Science OR Life Science level\n• DURATION: 4 years\n26 Mahikeng\nwith Agronomy and Soil Science\nwith Agronomy and Agricultural\nEconomics\n• English level 4\n• Physical Science level 4\n• Mathematics level 4 OR Technical\nMathematics level 5\n• DURATION: 4 years\n26 Potchefstroom",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 37363,
+      "end_char": 37860
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Science in\nIndigenous Knowledge Systems\nIndigenous Knowledge Systems • English level 4\n• DURATION: 4 years\n26 Mahikeng\nMahikeng: Language of instruction is English.\nVanderbijlpark: Language of instruction is English, but some modules are presented in both English and Afrikaans.\nPotchefstroom: Language of instruction is Afrikaans, unless otherwise indicated.\nEducational interpreting to English will be available in all modules (where requested). All study guides, tests and examination\npapers are made available to students in both Afrikaans and English. Students may answer any written or oral test or examination in\neither Afrikaans or English.",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 37861,
+      "end_char": 38521
+    },
+    {
+      "type": "faculty",
+      "text": "Schools in the Faculty of Economic and Management Sciences\n• Accounting Sciences\n• Economic Sciences\n• Industrial Psychology and Human Resource Management\n• Management Sciences\n• Tourism Management\n• NWU Business School\nIn today’s rapidly evolving world, achieving success requires more than ambition. It requires the",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 38595,
+      "end_char": 38912
+    },
+    {
+      "type": "faculty",
+      "text": "right environment, guidance, and education. At the Faculty of Economic & Management Sciences,\nwe provide all of this and more, preparing you for success on a global scale.\nWith a diverse portfolio of over 30 accredited undergraduate we aim to meet the changing needs\nof local and global business landscapes.",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 38913,
+      "end_char": 39220
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Commerce (BCom) in Accounting • Mathematics level 3 (40-49%)\n• DURATION: 3 years\n24 Vanderbijlpark",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 39299,
+      "end_char": 39409
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Commerce (BCom) in Chartered Accountancy • Mathematics level 5 (60-69%) if the student\ntook Grade 12 Accounting OR\n• Mathematics level 6 (70-79%) if the student\ndid not take Grade 12 Accounting\n• DURATION: 3 years\n32 Mahikeng\nPotchefstroom\nVanderbijlpark\nin Chartered Accountancy\nExtended Programme\n• Mathematics level 3 (40-49%)\n• DURATION: 4 years\n28 Mahikeng\nVanderbijlpark",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 39410,
+      "end_char": 39798
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Commerce (BCom) in Financial Accountancy • Mathematics level 4 (50-59%)\n• DURATION: 3 years\n28 Mahikeng\nPotchefstroom\nVanderbijlpark\nin Financial Accountancy\nExtended Programme\n• Mathematics level 3 (40-49%) OR\nMathematical Literacy level 7 (80-89%)\n• DURATION: 4 years\n24 Mahikeng\nVanderbijlpark",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 39799,
+      "end_char": 40107
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Commerce (BCom) in Forensic Accountancy • Mathematics level 5 (60-69%) if the student\ntook Grade 12 Accounting OR\n• Mathematics level 6 (70-79%) if the student\ndid not take Grade 12 Accounting\n• Afrikaans / English level 5 (60-69%)\n• DURATION: 3 years\n36 Potchefstroom",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 40108,
+      "end_char": 40388
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Commerce (BCom) in Management\nAccountancy\n• Mathematics level 5 (60-69%)\n• DURATION: 3 years\n30 Potchefstroom\nVanderbijlpark",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 40389,
+      "end_char": 40525
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Commerce (BCom) in Accounting • Mathematics level 3 (40-49%)\n• DURATION: 3 years\n24 Vanderbijlpark",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 40604,
+      "end_char": 40714
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Commerce (BCom) in Chartered Accountancy • Mathematics level 5 (60-59%) if the student\ntook Grade 12 Accounting OR\n• Mathematics level 6 (70-79%) if the student\ndid not take Grade 12 Accounting\n• DURATION: 3 years\n32 Mahikeng\nPotchefstroom\nVanderbijlpark\nin Chartered Accountancy\nExtended Programme\n• Mathematics level 3 (40-49%)\n• DURATION: 4 years\n28 Mahikeng\nVanderbijlpark",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 40715,
+      "end_char": 41103
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Commerce (BCom) in Financial Accountancy • Mathematics level 4 (50-59%)\n• DURATION: 3 years\n28 Mahikeng\nPotchefstroom\nVanderbijlpark\nin Financial Accountancy\nExtended Programme\n• Mathematics level 3 (40-49%) OR\nMathematical Literacy level 7 (80-89%)\n• DURATION: 4 years\n24 Mahikeng\nVanderbijlpark",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 41104,
+      "end_char": 41412
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Commerce (BCom) in Forensic Accountancy • Mathematics level 5 (60-69%) if the student\ntook Grade 12 Accounting OR\n• Mathematics level 6 (70-79%) if the student\ndid not take Grade 12 Accounting\n• Afrikaans / English level 5 (60-59%)\n• DURATION: 3 years\n36 Potchefstroom",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 41413,
+      "end_char": 41693
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Commerce (BCom) in Management\nAccountancy\n• Mathematics level 5 (60-69%)\n• DURATION: 3 years\n30 Potchefstroom\nVanderbijlpark",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 41694,
+      "end_char": 41830
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Commerce (BCom) in Operations Research • Mathematics level 4 (50-59%)\n• DURATION: 3 years\n24 Mahikeng\nin Statistics\nin Statistics\nExtended Programme\n• Mathematics level 3 (40-49%) OR\nMathematical Literacy level 4 (50-59%)\n• DURATION: 4 years\n20 Mahikeng",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 41859,
+      "end_char": 42124
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Commerce (BCom)\nin Business Operations\nwith Logistics Management • Mathematics level 3 (40-49%)\n• DURATION: 3 years\n24 Mahikeng\nVanderbijlpark\nwith Logistics Management\nExtended Programme\n• Mathematics level 3 (40-49%) OR\nMathematical Literacy level 4 (50-59%)\n• DURATION: 4 years\n20 Mahikeng\nVanderbijlpark",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 42125,
+      "end_char": 42444
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Commerce (BCom)\nin Business Operations\nwith Transport Economics • Mathematics level 3 (40-49%)\n• DURATION: 3 years\n24 Mahikeng\nVanderbiljpark\nwith Transport Economics\nExtended Programme\n• Mathematics level 3 (40-49%) OR\nMathematical Literacy level 4 (50-49%)\n• DURATION: 4 years\n20 Mahikeng\nVanderbiljpark",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 42445,
+      "end_char": 42762
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Commerce (BCom)\nin Economic Sciences\nwith Agricultural Economics\nand Risk Management\n• Mathematics level 4 (50-59%)\n• DURATION: 3 years\n26 Potchefstroom",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 42763,
+      "end_char": 42927
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Commerce (BCom)\nin Economic Sciences\nwith Econometrics • Mathematics level 3 (40-49%)\n• DURATION: 3 years\n26 Mahikeng\nwith Econometrics\nExtended programme\n• Mathematics level 3 (40-49%) OR\nMathematical Literacy level 4 (50-59%)\n• DURATION: 4 years\n20 Mahikeng",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 42928,
+      "end_char": 43199
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Commerce (BCom)\nin Economic Sciences\nwith International Trade • Mathematics level 4 (50-59%)\n• DURATION: 3 years\n26 Potchefstroom\nVanderbijlpark\nwith International Trade\nExtended programme\n• Mathematics level 3 (40-49%) OR\nMathematical Literacy level 6 (70-79%)\n• DURATION: 4 years\n24 Vanderbijlpark",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 43200,
+      "end_char": 43511
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Commerce (BCom)\nin Economic Sciences\nwith Informatics • Mathematics level 4 (50-59%)\n• DURATION: 3 years\n26 Potchefstroom\nVanderbijlpark",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 43512,
+      "end_char": 43660
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Commerce (BCom)\nin Economic Sciences\nwith Information Systems • Mathematics level 4 (50-59%)\n• DURATION: 3 years\n26 Mahikeng\nwith Information Systems\nExtended programme\n• Mathematics level 3 (40-49%) OR\nMathematical Literacy level 4 (50-59%)\n• DURATION: 4 years\n20 Mahikeng",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 43661,
+      "end_char": 43946
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Commerce (BCom)\nin Economic Sciences\nwith Risk Management • Mathematics level 4 (50-59%)\n• DURATION: 3 years\n26 Potchefstroom\nVanderbijlpark\nwith Risk Management\nExtended programme\n• Mathematics level 3 (40-49%) OR\n• Mathematical Literacy level 6 (70-79%)\n• DURATION: 4 years\n24 Vanderbijlpark",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 43947,
+      "end_char": 44252
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Administration\n(BAdmin)\nHuman Resource\nManagement\n• Mathematics level 3 (40-49%) OR\nMathematical Literacy level 4 (50-59%)\n• DURATION: 3 years\n23 Mahikeng\nHuman Resource\nManagement Extended\nprogramme\n• Mathematics level 3 (40-49%) OR\nMathematical Literacy level 4 (50-59%)\n• DURATION: 4 years\n21 Mahikeng",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 44309,
+      "end_char": 44625
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Administration Industrial and\nOrganisational Psychology\n• Mathematics level 3 (40-49%) OR\nMathematical Literacy level 4 (50-59%)\n• DURATION: 3 years\n23 Mahikeng\nIndustrial and\nOrganisational Psychology\nExtended programme\n• Mathematics level 3 (40-49%) OR\nMathematical Literacy level 4 (50-59%)\n• DURATION: 4 years\n21 Mahikeng",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 44626,
+      "end_char": 44963
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Arts (BA) with Industrial and\nOrganisational Psychology\nand Labour Relations\nManagement\n• Mathematics level 4 (50-59%) OR\nMathematical Literacy level 5 (60-69%)\n• DURATION: 3 years\n26 Potchefstroom\nVanderbijlpark",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 44964,
+      "end_char": 45188
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Commerce (BCom) Human Resource\nManagement\n• Mathematics level 4 (50-59%)\n• DURATION: 3 years\n30 Mahikeng\nPotchefstroom\nVanderbijlpark",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 45189,
+      "end_char": 45334
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Commerce (BCom) in Industrial and\nOrganisational Psychology\n• Mathematics level 4 (50-59%)\n• DURATION: 3 years\n30 Mahikeng\nPotchefstroom\nVanderbijlpark",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 45335,
+      "end_char": 45498
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Human Resource\nDevelopment (BHRD)\nHuman Resource\nDevelopment\n• A minimum of three years of working\nexperience as a trainer in the Training and\nDevelopment environment OR attained a",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 45499,
+      "end_char": 45691
+    },
+    {
+      "type": "aps",
+      "text": "minimum APS of 22, as well as a minimum of\none year of working experience as a trainer in\nthe Training and Development environment.\n• DURATION: 3 years\n20/22 Potchefstroom\nLimited contact –\nstudy school",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 45692,
+      "end_char": 45894
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Commerce (BCom)\nin Management Sciences\nwith Communication\nManagement\n• Mathematics level 3 (40-49%) OR\nMathematical Literacy level 6 (70-79%)\n• DURATION: 3 years\n24 Mahikeng\nPotchefstroom\nVanderbijlpark",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 45925,
+      "end_char": 46139
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Commerce (BCom)\nin Management Sciences\nwith Marketing\nManagement\n• Mathematics level 3 (40-49%)\n• DURATION: 3 years\n24 Mahikeng\nPotchefstroom\nVanderbijlpark\nwith Marketing\nManagement\nExtended programme\n• Mathematics level 3 (40-49%) OR\nMathematical Literacy level 4 (50-59%)\n• DURATION: 4 years\n20 Mahikeng\nVanderbijlpark",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 46140,
+      "end_char": 46473
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Commerce (BCom)\nin Management Sciences\nwith Sport Business\nManagement\n• Mathematics level 3 (40-49%) OR\nMathematical Literacy level 6 (70-79%)\n• DURATION: 3 years\n24 Vanderbijlpark",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 46474,
+      "end_char": 46666
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Commerce (BCom)\nin Management Sciences\nwith Safety Management • Mathematics level 3 (40-49%) OR\nMathematical Literacy level 6 (70-79%)\n• DURATION: 3 years\n24 Vanderbijlpark",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 46667,
+      "end_char": 46851
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Commerce (BCom)\nin Management Sciences\nwith Marketing and Tourism\nManagement\n• Mathematics level 3 (40-49%) OR\nMathematical Literacy level 6 (70-79%)\n• DURATION: 3 years\n24 Mahikeng\nPotchefstroom",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 46852,
+      "end_char": 47059
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Commerce (BCom)\nin Management Sciences\nwith Tourism Management • Mathematics level 3 (40-49%)\n• DURATION: 3 years\n24 Potchefstroom",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 47162,
+      "end_char": 47304
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Commerce (BCom)\nin Management Sciences\nwith Tourism and\nRecreation Skills\n• Mathematics level 3 (40-49%) OR\nMathematical Literacy level 6 (70-79%)\n• DURATION: 3 years\n24 Potchefstroom",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 47305,
+      "end_char": 47500
+    },
+    {
+      "type": "faculty",
+      "text": "The Faculty of Health Sciences is dedicated to providing you with the best healthcare education for\nyour future. Healthcare focuses on maintaining and restoring the physical, mental, and emotional\nwell-being of people by adhering to the standards set by the World Health Organisation (WHO).\nYour health starts here.",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 47552,
+      "end_char": 47867
+    },
+    {
+      "type": "faculty",
+      "text": "Schools in the Faculty of Health Sciences\n• Human Movement Sciences\n* Recreation Science\n* Biokinetics\n* Human Movement Sciences\n* Coaching Science\n• Pharmacy\n• Applied Health Sciences\n*Physiology\n*Consumer Sciences\n*Dietetics\n*Occupational Hygiene\n• Psychosocial Health\n*Psychology\n*Social Work\n• Nursing",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 47868,
+      "end_char": 48173
+    },
+    {
+      "type": "programme",
+      "text": "Diploma in\nCoaching\nScience\nSport Coaching • Level 4 (50-59%) for language of tuition\n• Academic paper selection\n• Best average mark\n• Duration: 2 years\n18 Potchefstroom\nMahikeng\nFull-time\nContact",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 48260,
+      "end_char": 48456
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of\nHealth Sciences\nwith Sport Coaching\nand Human Movement\nSciences\n• Level 4 (50-59%) for language of tuition\n• Academic paper selection\n• Best average mark\n• Duration: 3 years\n24 Potchefstroom\nMahikeng\nFull-time\nContact",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 48457,
+      "end_char": 48686
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of\nHealth Sciences\nwith Recreation Science\nand Tourism Management\n• Level 4 (50-59%) for language of tuition\n• Academic paper selection\n• Best average mark\n• Duration: 3 years\n24 Potchefstroom\nFull-time\nContact",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 48687,
+      "end_char": 48906
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of\nHealth Sciences\nwith Sport and Recreation\nAdministration\n• Level 4 (50-59%) for language of tuition\n• Academic paper selection\n• Best average mark\n• Duration: 3 years\n24 Potchefstroom\nFull-time\nContact",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 48907,
+      "end_char": 49120
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of\nHealth Sciences\nin Biokinetics\nBiokinetics • Mathematics level 3 (40-49%) OR Mathematical Literacy level 4 (50-59%)\nAND Physical Sciences OR Life Sciences level 4 (50-59%)\n• Level 4 (50-59%) for language of tuition\n• Students must be medically fit for the physical component of the course\nbefore starting studies in Biokinetics\n• Academic paper selection\n• Best average mark\n• Duration: 4 years\n32 Potchefstroom\nFull-time\nContact",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 49121,
+      "end_char": 49562
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of\nPharmacy\nPharmacy • Mathematics on level 5 (60-69%) and Physical Sciences on level 5 (60-69%)\n• Level 4 (50-59%) for language of tuition\n• Life Sciences is recommended\n• Late applications will be considered on merit, depending on capacity\n• Due to high volumes of applications and limited capacity the following\nselection process will be followed:\n• Academic paper selection\n• Best average mark\n• Duration: 4 years\n32 Potchefstroom\nFull-time\nContact",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 49582,
+      "end_char": 50043
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of\nHealth Sciences\nPhysiology and\nBiochemistry\n• Mathematics level 5 (60-69%) and Physical Sciences level 4 (50-59%)\n• Level 4 (50-59%) for language of tuition\n• Life Sciences is recommended\n• Academic paper selection\n• Best average mark\n26 Potchefstroom\nFull-time\nContact",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 50078,
+      "end_char": 50359
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of\nHealth Sciences\nwith Physiology\nand Psychology\n• Mathematics level 3 (40-49%) and Physical Sciences level 4 (50-59%)\n• Level 4 (50-59%) for language of tuition\n• Life Sciences is recommended\n• Academic paper selection\n• Best average mark\n• Duration: 3 years\n26 Potchefstroom\nFull-time\nContact\nSUBJECT GROUP: CONSUMER SCIENCES",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 50360,
+      "end_char": 50697
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of\nConsumer\nStudies\nConsumer\nStudies\n• At least one subject from the Natural Sciences passed on level 4 (50-59%)\n(designated natural science subjects: Mathematics or Physical Sciences or\nAgricultural or Life Sciences)\n• Level 6 (70-79%) in Mathematical Literacy will be considered\n• Level 4 (50-59%) for language of tuition\n• Late applications will be considered on merit\n• Best average mark\n• Duration: 3 years\n24 Potchefstroom\nFull-time\nContact",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 50698,
+      "end_char": 51153
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of\nConsumer\nSciences\nwith Food Product\nManagement\n• A minimum of 50-59% (level 4) in Mathematics is required.\n• An average mark above 70% in Mathematical Literacy will be considered.\n• If Chemistry is chosen as an elective, a minimum of 50-59% (level 4) in\nPhysical Sciences is required.\n• At least one subject from the Natural Sciences must be passed at level 4\n(50-59%). Acceptable subjects include Mathematics, Physical Sciences,\nAgricultural Sciences, or Life Sciences.\n• Duration: 4 years\n24 Potchefstroom\nFull-time\nContact",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 51154,
+      "end_char": 51691
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of\nConsumer\nSciences\nwith Fashion\nRetail\nManagement\n• A minimum of level 4 (50-59%) in Mathematics is required.\n• An average mark of above 70% in Mathematical Literacy will be considered.\n• At least one subject from the Natural Sciences must be passed at level\n4 (50-59%). Acceptable Natural Sciences subjects include Mathematics,\nPhysical Sciences, Agricultural Sciences, or Life Sciences.\n• Duration: 4 years\n24 Potchefstroom\nFull-time\nContact\nSUBJECT GROUP: DIETETICS",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 51692,
+      "end_char": 52171
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of\nScience in\nDietetics\nDietetics • Mathematics on level 5 (60-69%) and Physical Sciences on level 5 (60-69%)\n• Level 4 (50-59%) for language of tuition\n• Academic paper selection\n• Best average mark\n• Duration: 4 years\n30 Potchefstroom\nFull-time\nContact\nSUBJECT GROUP: OCCUPATIONAL HYGIENE",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 52172,
+      "end_char": 52471
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Health Sciences in\nOccupational Hygiene\nOccupational Hygiene • Mathematics level 5 (60-69%) and Physical Sciences on\nlevel 5 (60-69%)\n• Level 4 (50-59%) for language of tuition\n• Late applications will be considered on merit\n• Academic paper selection\n• Best average mark\n• Duration: 4 years\n27 Potchefstroom\nFull-time\nContact",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 52472,
+      "end_char": 52810
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Arts in Behavioural\nSciences\nwith Psychology & Labour\nRelations Management\n• Mathematics level 3 (40-49%) or Mathematical Literacy\nlevel 5 (60-69%)\n• Level 4 (50-59%) for language of tuition\n• Academic paper selection\n• Duration: 3 years\n26 Potchefstroom\nVanderbijlpark\nFull-time\nContact",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 52867,
+      "end_char": 53166
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Social Science with Psychology • Level 4 (50-59%) for language of tuition\n• Academic paper selection\n• Duration: 3 years\n26 Mahikeng\nFull-time\nContact\nSUBJECT GROUP: SOCIAL WORK",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 53167,
+      "end_char": 53356
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Social Work Social Work • Level 4 (50-59%) for language of tuition\n• Late applications will be considered on merit\n• Best average mark\n• Academic paper selection\n• Duration: 4 years\n28 Potchefstroom\nMahikeng\nVanderbijlpark\nFull-time\nContact",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 53357,
+      "end_char": 53609
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Nursing Nursing • Physical Sciences OR Mathematics OR Life Sciences on\nlevel 4 (50-59%)\n• Level 4 (50-59%) for language of tuition\n• Due to high volumes of applications and limited capacity\nthe following selection process will be followed\n• Participation in the “job shadowing programme” (40\nhours) is recommended\n• Duration: 4 years\n25 Potchefstroom\nMahikeng\nFull-time\nContact\nLanguage of instruction is English or Afrikaans with educational interpreting for non-fluent students in\nthe relevant language of instruction. Study guides, examinations and other study material/evaluations/\nassessments are available in English and Afrikaans.",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 53628,
+      "end_char": 54277
+    },
+    {
+      "type": "faculty",
+      "text": "Schools in the Faculty of Humanities\n• Communication\n• Government Studies\n• Languages\n• Music\n• Philosophy\n• Social Sciences",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 54333,
+      "end_char": 54457
+    },
+    {
+      "type": "faculty",
+      "text": "The Faculty of Humanities focuses on understanding, interpreting, communicating, and producing knowledge\nabout human experience and interaction that remains essential and powerful for all in higher education and",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 54458,
+      "end_char": 54669
+    },
+    {
+      "type": "faculty",
+      "text": "the corporate world. The faculty is amongst the leaders in performing art, design, languages, linguistics,\nliterature, history, theology, architecture, and archaeology subjects.",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 54670,
+      "end_char": 54847
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of\nArts (BA)\nCommunication\n• English (HL or FAL) level 5 (60-69%)\n• DURATION: 3 years\n24 Mahikeng\nPotchefstroom\nVanderbijlpark",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 54920,
+      "end_char": 55055
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Arts\n(BA) in Graphic\nDesign\n• English level 5 (60-69%)\n• A screening process\nThe screening phase consists of:\na) The submission of a photo portfolio of graphics or\nworks of art as a skills test in practical projects.\nb) Submission of an academic record;\nc) Conduct an interview.\nScreening information is subject to change, please ensure you\nvisit: https://humanities.nwu.ac.za/communication/bachelorarts-graphic-design for latest information on the intake and\nscreening procedures.\nAs part of the selection criteria, students must meet the minimum\nrequirements and successfully complete the screening phase. Only\nafter this will student be notified if their application was successful\nor not.\n• DURATION: 4 years\n24 Potchefstroom",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 55056,
+      "end_char": 55797
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Arts\n(BA) in Graphic\nDesign\nwith Communication • English level 5 (60-69%)\n• A screening process\nThe screening phase consists of:\na) The submission of a photo portfolio of graphics or\nworks of art as a skills test in practical projects.\nb) Submission of an academic record;\nc) Conduct an interview.\nScreening information is subject to change, please ensure you visit:",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 55798,
+      "end_char": 56176
+    },
+    {
+      "type": "programme",
+      "text": "https://humanities.nwu.ac.za/communication/bachelor-artsgraphic-design for latest information on the intake and screening\nprocedures.\nAs part of the selection criteria, students must meet the minimum\nrequirements and successfully complete the screening phase. Only\nafter this will student be notified if their application was successful\nor not.\n• DURATION: 4 years\n24 Potchefstroom",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 56177,
+      "end_char": 56558
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Arts\n(BA) in Public\nGovernance\nwith Public Administration\nwith Politics and Public Administration\nwith Public Administration and Social\nStudies\nwith Public Administration and Geography\nwith Public Administration and Labour\nRelations Management\n• DURATION: 3 years 25 Potchefstroom\nVanderbijlpark\nwith Municipal Management and Leadership • Candidates interested in this degree must\nhave a minimum of two years working\nexperience within the public sector, preferably\nthe government’s local sphere.\n• This is a limited contact programme.\n• DURATION: 3 years\n25 Potchefstroom\nwith Policing Practice • English level 4 (50-59%)\n• If Grade 12 was obtained before 2008\n(National Senior Certificate) please visit\nhttps://distance.nwu.ac.za/Policing for more\ninformation on the requirements.\n• DURATION: 3 years\n25 Distance\nLearning only",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 56588,
+      "end_char": 57427
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Social\nSciences (BSocSc)\nwith Political Studies and International\nRelations\n• DURATION: 3 years 24 Mahikeng",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 57428,
+      "end_char": 57547
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of\nAdministration in\nDevelopment and\nManagement\nwith Local Government Management • English level 4 (50-59%)\n• Mathematics level 3 (40-49%) OR\nMathematical Literacy level 4 (50-59%)\n• DURATION: 3 years\n21 Mahikeng\nExtended",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 57548,
+      "end_char": 57778
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of\nAdministration in\nDevelopment and\nManagement\nwith Local Government Management • English level 3 (40-49%)\n• Mathematics level 3 (40-49%) OR\nMathematical Literacy level 4 (50-59%)\n• DURATION: 4 years\n20 Mahikeng",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 57779,
+      "end_char": 58000
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Arts\n(BA) in Language\nand Literary\nStudies\nThe following subjects are offered:\n• English (ENLL)\n• Language Practice (LPRA)\n• Setswana HL (SETM)\n• English (ENLL): Gr. 12 English HL level 4\n(50-59%) OR English FAL level 5 (60-69%)\n• Setswana for mother-tongue speakers\n(SETM): Gr. 12 Setswana/Sesotho/Sepedi HL\nlevel 4 (50-59%)\n• Setswana for non-mother-tongue speakers\n(ATSN): no pre-requisites\n• DURATION: 3 years\n24 Mahikeng\nThe following subjects are offered:\n• Afrikaans and Dutch (AFLL)\n• Creative Writing (SKRK)\n• English (ENLL)\n• French (FREN)\n• German (GERM)\n• Language Practice (LPRA)\n• Setswana – HL (SETM)\n• Setswana – SAL (ATSN)\n• South African Sign Language (SASL)\n• Afrikaans (AFLL): Gr. 12 Afrikaans HL level 4\n(50-59%) OR Afrikaans FAL level 5 (60-69%)\n• English (ENLL): Gr. 12 English HL level 4\n(50-59%) OR English FAL level 5 (60-69%)\n• Setswana for mother-tongue speakers\n(SETM): Gr. 12 Setswana/Sesotho/Sepedi HL\nlevel 4 (50-59%)\n• Setswana for non-mother-tongue speakers\n(ATSN): no pre-requisites\n• DURATION: 3 years\n24 Potchefstroom\nwith Language Practice\nwith Language Practice and Communication\nwith Languages\nThe following subjects are offered:\n• Afrikaans and Dutch (AFLL)\n• English (ENLL)\n• French (FREN)\n• German (GERM)\n• Language Practice (LPRA)\n• Sesotho (SSLL)\n• Afrikaans (AFLL): Gr. 12 Afrikaans HL level 4\n(50-59%) OR Afrikaans FAL level 5 (60-69%)\n• English (ENLL): Gr. 12 English HL level 4\n(50-59%) OR English FAL level 5 (60-69%)\n• Sesotho (SSLL): Gr. 12 Sesotho HL level 4\n(50-59%) OR Sesotho FAL level 5 (60-69%)\n• DURATION: 3 years\n24 Vanderbijlpark",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 58021,
+      "end_char": 59623
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Arts\n(BA) in Language\nTechnology\n• Mathematics level 5 (60-69%)\n• And one of the following language subjects:\nAfrikaans (AFLL): Gr. 12 Afrikaans HL level 4\n(50-59%) OR Afrikaans FAL level 5 (60-69%)\nEnglish (ENLL): Gr. 12 English HL level 4 (5059%) OR English FAL level 5 (60-69%)\nSetswana for mother-tongue speakers\n(SETM): Gr. 12 Setswana/Sesotho/Sepedi HL\nlevel 4 (50-59%)\nSetswana for non-mother-tongue speakers\n(ATSN): no pre-requisites\n• One of the following subjects: Information\nTechnology, Accounting, Physical Sciences\nwith a final mark on level 4 (50-59%).\n• DURATION: 3 years\n24 Potchefstroom",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 59624,
+      "end_char": 60240
+    },
+    {
+      "type": "programme",
+      "text": "with an endorsement for diploma study\n• At least 50% (level 4) for English in Grade 12\n• Successful completion of a language\nproficiency test, a musical aptitude test and an\naudition\n• A laptop or equivalent device to participate\nin learning and assessment activities\n• DURATION: 3 years",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 60328,
+      "end_char": 60615
+    },
+    {
+      "type": "aps",
+      "text": "APS of at\nleast 18\nOR an equivalent qualification in\nwhich the\nmodules for\nthe final year\nhave been\npassed with\nan average of\nat least 60%\nPotchefstroom",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 60616,
+      "end_char": 60768
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Arts\n(BA) in Music and\nSociety\n• Completed matric / National Senior Certificate\nwith an endorsement for degree study, and an",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 60769,
+      "end_char": 60905
+    },
+    {
+      "type": "programme",
+      "text": "for English in Grade 12 OR a diploma in music\nor an equivalent qualification in which the\nmodules for the final year have been passed\nwith an average of at least 60%\n• Successful completion of a practical audition\n(Grade 3 standard), a theoretical placement\ntest (Grade 2 standard), and a language\nproficiency test\n• A laptop or equivalent device to participate\nin learning and assessment activities\n• DURATION: 3 years",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 60953,
+      "end_char": 61372
+    },
+    {
+      "type": "aps",
+      "text": "APS of at\nleast 21\nOR an\nequivalent\nqualification\nin which the\nmodules for\nthe final year\nhave been\npassed with\nan average of\nat least 60%\nPotchefstroom\nBaccalaureus\nMusicae (BMus)\n• Completed matric / National Senior Certificate\nwith an endorsement for degree study\n• Successful completion of a practical audition\n(Grade 6 standard), a theoretical placement\ntest (Grade 5 standard), and a language\nproficiency test\n• A laptop or equivalent device to participate\nin learning and assessment activities\n• DURATION: 4 years",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 61373,
+      "end_char": 61893
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of\nPhilosophy (BPhil)\nWith Philosophy, Politics and Economics • DURATION: 3 years 26 Potchefstroom",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 61970,
+      "end_char": 62077
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Arts\n(BA) Humanities\nwith Afrikaans and Dutch • Afrikaans (AFLL): Gr. 12 Afrikaans HL level 4\n(50-59%) OR Afrikaans FAL level 5 (60-69%)\n• DURATION: 3 years\n24 Potchefstroom\nVanderbijlpark\nwith English • English (ENLL): Gr. 12 English HL level 4\n(50-59%) OR English FAL level 5 (60-69%)\n• DURATION: 3 years\n24 Mahikeng\nPotchefstroom\nVanderbijlpark\nwith Setswana • Setswana (SETM): Gr. 12 Setswana HL level\n4 (50-59%) OR Setswana FAL level 5 (6069%)\n• DURATION: 3 years\n24 Mahikeng\nPotchefstroom\nwith Sesotho • Sesotho (SSLL): Gr. 12 Sesotho HL level 4\n(50-59%) OR Sesotho FAL level 5 (60-69%)\n• DURATION: 3 years\n24 Vanderbijlpark\nwith Social Sciences (PC, VC)\nwith Psychology (MC, PC, VC)\nwith History (MC, PC, VC)\nwith Geography (MC, PC, VC)\nwith French (PC, VC)\nwith German (PC)\nwith History of Art (PC)\nwith Latin (PC)\nwith Politics (PC, VC)\nwith Social Anthropology (PC)\nwith Sociology (MC, PC, VC)\nwith Philosophy (MC, PC)\nwith History and Society (MC, VC)\nwith Psychology and Society (MC, PC, VC)\nwith Geography and Society (MC, VC)\nwith Politics and Society (VC)\n• DURATION: 3 years\nPlease take note of the language entrance\nrequirements\n• Afrikaans (AFLL): Gr. 12 Afrikaans HL level 4\n(50-59%) OR Afrikaans FAL level 5 (60-69%)\n• English (ENLL): Gr. 12 English HL level 4\n(50-59%) OR English FAL level 5 (60-69%)\n• Setswana (SETM): Gr. 12 Setswana HL level\n4 (50-59%) OR Setswana FAL level 5 (6069%)\n• Sesotho (SSLL): Gr. 12 Sesotho HL level 4\n(50-59%) OR Sesotho FAL level 5 (60-69%)\n24 Mahikeng\nPotchefstroom\nVanderbijlpark",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 62078,
+      "end_char": 63624
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Social\nSciences (BSocSc)\nwith Development Studies (MC)\nwith Geography (MC, PC, VC)\nwith History (MC, PC, VC)\nwith Population Studies (MC)\nwith Psychology and Social Sciences (MC,\nPC, VC)\nwith Social Anthropology (PC, VC)\nwith Sociology (MC, PC, VC)\n• DURATION: 3 years\nPlease take note of the language entrance\nrequirements\n• Afrikaans (AFLL): Gr. 12 Afrikaans HL level 4\n(50-59%) OR Afrikaans FAL level 5 (60-69%)\n• English (ENLL): Gr. 12 English HL level 4\n(50-59%) OR English FAL level 5 (60-69%)\n• Setswana (SETM): Gr. 12 Setswana HL level\n4 (50-59%) OR Setswana FAL level 5 (6069%)\n• Sesotho (SSLL): Gr. 12 Sesotho HL level 4\n(50-59%) OR Sesotho FAL level 5 (60-69%)\n22 Mahikeng\nPotchefstroom\nVanderbijlpark\nwith Economics (MC, VC, PC) • Mathematics level 3 (40-49%)\n• DURATION: 3 years\nPlease take note of the language entrance\nrequirements\n• Afrikaans (AFLL): Gr. 12 Afrikaans HL level 4\n(50-59%) OR Afrikaans FAL level 5 (60-69%)\n• English (ENLL): Gr. 12 English HL level 4\n(50-59%) OR English FAL level 5 (60-69%)\n• Setswana (SETM): Gr. 12 Setswana HL level\n4 (50-59%) OR Setswana FAL level 5 (6069%)\n• Sesotho (SSLL): Gr. 12 Sesotho HL level 4\n(50-59%) OR Sesotho FAL level 5 (60-69%)\n22 Mahikeng\nPotchefstroom\nVanderbijlpark",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 63651,
+      "end_char": 64898
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Arts\n(BA)\nwith Sociology and Geography\nwith Sociology and Labour Relations\nManagement\n• DURATION: 3 years 22 Potchefstroom",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 64899,
+      "end_char": 65033
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Arts\n(BA) in Behavioural\nSciences\nwith Sociology and Psychology • DURATION: 3 years 22 Potchefstroom\nVanderbijlpark\nThe language of instruction is English or Afrikaans with educational interpreting for non-fluent students (students taking Afrikaans\nmodules (AFLL) will be required to complete all assessments in Afrikaans. No exceptions can be made).\n0860 169698 (0860 1mynwu) - Toll free\nstudies@nwu.ac.za\n+27 (0) 60 070 2606\n31750\nNWU - North-West University\nNorth-West University\nNorth-West University\ntheNWU\n@theNWU\nNWU - North-West University\nJoin our online NWU Family!\nGot a question? Get in touch!",
+      "institutionId": "349",
+      "source_file": "lib/seed/prospectuses/north-west-university.pdf",
+      "start_char": 65034,
+      "end_char": 65651
+    }
+  ],
+  "matched_files": [
+    "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/north-west-university.pdf"
+  ],
+  "skipped_chunks": [
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/north-west-university.pdf",
+      "chunk_index": 1,
+      "chars": 41
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/north-west-university.pdf",
+      "chunk_index": 3,
+      "chars": 39
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/north-west-university.pdf",
+      "chunk_index": 10,
+      "chars": 18
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/north-west-university.pdf",
+      "chunk_index": 11,
+      "chars": 46
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/north-west-university.pdf",
+      "chunk_index": 14,
+      "chars": 75
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/north-west-university.pdf",
+      "chunk_index": 17,
+      "chars": 63
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/north-west-university.pdf",
+      "chunk_index": 29,
+      "chars": 36
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/north-west-university.pdf",
+      "chunk_index": 30,
+      "chars": 55
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/north-west-university.pdf",
+      "chunk_index": 32,
+      "chars": 47
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/north-west-university.pdf",
+      "chunk_index": 37,
+      "chars": 47
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/north-west-university.pdf",
+      "chunk_index": 39,
+      "chars": 47
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/north-west-university.pdf",
+      "chunk_index": 41,
+      "chars": 75
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/north-west-university.pdf",
+      "chunk_index": 44,
+      "chars": 75
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/north-west-university.pdf",
+      "chunk_index": 47,
+      "chars": 75
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/north-west-university.pdf",
+      "chunk_index": 50,
+      "chars": 75
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/north-west-university.pdf",
+      "chunk_index": 52,
+      "chars": 52
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/north-west-university.pdf",
+      "chunk_index": 59,
+      "chars": 53
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/north-west-university.pdf",
+      "chunk_index": 61,
+      "chars": 47
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/north-west-university.pdf",
+      "chunk_index": 62,
+      "chars": 66
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/north-west-university.pdf",
+      "chunk_index": 69,
+      "chars": 77
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/north-west-university.pdf",
+      "chunk_index": 72,
+      "chars": 47
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/north-west-university.pdf",
+      "chunk_index": 93,
+      "chars": 72
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/north-west-university.pdf",
+      "chunk_index": 96,
+      "chars": 47
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/north-west-university.pdf",
+      "chunk_index": 97,
+      "chars": 29
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/north-west-university.pdf",
+      "chunk_index": 103,
+      "chars": 47
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/north-west-university.pdf",
+      "chunk_index": 104,
+      "chars": 29
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/north-west-university.pdf",
+      "chunk_index": 110,
+      "chars": 27
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/north-west-university.pdf",
+      "chunk_index": 120,
+      "chars": 55
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/north-west-university.pdf",
+      "chunk_index": 128,
+      "chars": 29
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/north-west-university.pdf",
+      "chunk_index": 134,
+      "chars": 28
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/north-west-university.pdf",
+      "chunk_index": 135,
+      "chars": 72
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/north-west-university.pdf",
+      "chunk_index": 138,
+      "chars": 50
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/north-west-university.pdf",
+      "chunk_index": 141,
+      "chars": 51
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/north-west-university.pdf",
+      "chunk_index": 142,
+      "chars": 33
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/north-west-university.pdf",
+      "chunk_index": 148,
+      "chars": 18
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/north-west-university.pdf",
+      "chunk_index": 150,
+      "chars": 33
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/north-west-university.pdf",
+      "chunk_index": 158,
+      "chars": 55
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/north-west-university.pdf",
+      "chunk_index": 162,
+      "chars": 17
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/north-west-university.pdf",
+      "chunk_index": 164,
+      "chars": 54
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/north-west-university.pdf",
+      "chunk_index": 168,
+      "chars": 47
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/north-west-university.pdf",
+      "chunk_index": 169,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/north-west-university.pdf",
+      "chunk_index": 174,
+      "chars": 28
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/north-west-university.pdf",
+      "chunk_index": 179,
+      "chars": 19
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/north-west-university.pdf",
+      "chunk_index": 182,
+      "chars": 15
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/north-west-university.pdf",
+      "chunk_index": 183,
+      "chars": 70
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/north-west-university.pdf",
+      "chunk_index": 187,
+      "chars": 46
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/north-west-university.pdf",
+      "chunk_index": 190,
+      "chars": 18
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/north-west-university.pdf",
+      "chunk_index": 191,
+      "chars": 35
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/north-west-university.pdf",
+      "chunk_index": 192,
+      "chars": 20
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/north-west-university.pdf",
+      "chunk_index": 195,
+      "chars": 25
+    }
+  ]
+}

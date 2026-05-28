@@ -1,0 +1,127 @@
+{
+  "institution": {
+    "id": "institution:ehlanzeni-tvet-college",
+    "slug": "ehlanzeni-tvet-college",
+    "institution_id_raw": "330",
+    "name": "Ehlanzeni TVET College",
+    "institution_type": "tvet-college",
+    "city": "Mbombela",
+    "province": "Mpumalanga",
+    "official_website": "https://www.ehlanzenicollege.co.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/330/ehlanzeni-tvet-college",
+    "source_paths": [
+      "generated/v3/institutions.enriched.json",
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "sector": "higher education",
+      "province": "Mpumalanga",
+      "city": "Mbombela",
+      "physical_address": "Corporate Centre, 29 Bell Street, Mbombela, 1200",
+      "postal_address": "Private Bag X11297, Nelspruit, 1200",
+      "contact_emails": [
+        "clcronje@ehlanzenicollege.co.za",
+        "bckwayiyo@ehlanzenicollege.co.za",
+        "support@ehlanzenicollege.co.za",
+        "gmsibiya@ehlanzenicollege.co.za",
+        "info@ehlanzenicollege.co.za",
+        "jmchiloane@ehlanzenicollege.co.za",
+        "finance@ehlanzenicollege.co.za",
+        "jdibakoane@ehlanzenicollege.co.za",
+        "dnkhoza@ehlanzenicollege.co.za"
+      ],
+      "contact_phone_numbers": [
+        "012 426 8000",
+        "+27 013 591 0873",
+        "086 001 0111",
+        "+27 013 752 7105",
+        "013 752 7105"
+      ],
+      "application_url": "https://www.ehlanzenicollege.co.za/online-application/",
+      "prospectus_url": "https://www.ehlanzenicollege.co.za/career-guidance/prospectus/",
+      "socials": {
+        "facebook": "https://web.facebook.com/Ehlanzeni-TVET-College-2343345892342761/",
+        "instagram": "https://www.instagram.com/ehlanzeni_tvet_college/",
+        "linkedin": "https://www.linkedin.com/company/ehlanzeni-tvet-college",
+        "x": "https://x.com/EhlanzeniTvet",
+        "youtube": "https://www.youtube.com/channel/UCBp1fpeCz6S0PgDbdYoKi1Q"
+      },
+      "accreditation": {
+        "dh et": "Accredited",
+        "saqa": null
+      },
+      "sources": [
+        "https://nationalgovernment.co.za/units/view/330/ehlanzeni-tvet-college",
+        "https://www.ehlanzenicollege.co.za/"
+      ],
+      "qualification_types": [
+        "NC(V)",
+        "Nated (Report 191)",
+        "Skills Programmes",
+        "Apprenticeships"
+      ],
+      "nsfas_supported": true,
+      "student_accommodation": true,
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [
+    {
+      "id": "programme:ehlanzeni-tvet-college--nc-v-level-2",
+      "institution_slug": "ehlanzeni-tvet-college",
+      "institution_name": "Ehlanzeni TVET College",
+      "name": "NC(V) level 2",
+      "normalized_name": "NC(V) level 2",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NC(V) level 2",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    }
+  ],
+  "programmes_all": [
+    {
+      "id": "programme:ehlanzeni-tvet-college--nc-v-level-2",
+      "institution_slug": "ehlanzeni-tvet-college",
+      "institution_name": "Ehlanzeni TVET College",
+      "name": "NC(V) level 2",
+      "normalized_name": "NC(V) level 2",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NC(V) level 2",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    }
+  ],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 1,
+    "programmes_all": 1
+  }
+}

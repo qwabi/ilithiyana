@@ -1,0 +1,1485 @@
+{
+  "institution": {
+    "institution_id": "354",
+    "name": "Sekhukhune TVET College",
+    "institution_type": "tvet-college",
+    "city": "Motetema-A",
+    "province": "",
+    "official_website": "https://www.sekhukhunetvet.edu.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/354/sekhukhune-tvet-college",
+    "source_paths": [
+      "generated/v3/institutions.enriched.json",
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [
+    {
+      "id": "fac:73b4418860c469b3",
+      "institution_id": "354",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "Business Studies",
+      "kind": "school",
+      "overview": null,
+      "source_excerpt": "WE OFFER THE FOLLOWING BUSINESS STUDIES",
+      "extraction_confidence": 0.88,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:50f3e756826f3d7b",
+      "institution_id": "354",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "Cn Phatudi Campus",
+      "kind": "campus",
+      "overview": null,
+      "source_excerpt": "CN PHATUDI CAMPUS (",
+      "extraction_confidence": 0.85,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:31b68d8663086de6",
+      "institution_id": "354",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "Cs Barlow Campus",
+      "kind": "campus",
+      "overview": null,
+      "source_excerpt": "CS BARLOW CAMPUS (",
+      "extraction_confidence": 0.85,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:d1e84e2adbaca999",
+      "institution_id": "354",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "Engineering Studies",
+      "kind": "school",
+      "overview": null,
+      "source_excerpt": "WE OFFER THE FOLLOWING ENGINEERING STUDIES",
+      "extraction_confidence": 0.88,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:5a75010a3b1f4835",
+      "institution_id": "354",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "NCV",
+      "kind": "college",
+      "overview": null,
+      "source_excerpt": "WE OFFER THE FOLLOWING NCV",
+      "extraction_confidence": 0.88,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    }
+  ],
+  "faculties_all": [
+    {
+      "id": "fac:73b4418860c469b3",
+      "institution_id": "354",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "Business Studies",
+      "kind": "school",
+      "overview": null,
+      "source_excerpt": "WE OFFER THE FOLLOWING BUSINESS STUDIES",
+      "extraction_confidence": 0.88,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:50f3e756826f3d7b",
+      "institution_id": "354",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "Cn Phatudi Campus",
+      "kind": "campus",
+      "overview": null,
+      "source_excerpt": "CN PHATUDI CAMPUS (",
+      "extraction_confidence": 0.85,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:31b68d8663086de6",
+      "institution_id": "354",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "Cs Barlow Campus",
+      "kind": "campus",
+      "overview": null,
+      "source_excerpt": "CS BARLOW CAMPUS (",
+      "extraction_confidence": 0.85,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:d1e84e2adbaca999",
+      "institution_id": "354",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "Engineering Studies",
+      "kind": "school",
+      "overview": null,
+      "source_excerpt": "WE OFFER THE FOLLOWING ENGINEERING STUDIES",
+      "extraction_confidence": 0.88,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:5a75010a3b1f4835",
+      "institution_id": "354",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "NCV",
+      "kind": "college",
+      "overview": null,
+      "source_excerpt": "WE OFFER THE FOLLOWING NCV",
+      "extraction_confidence": 0.88,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    }
+  ],
+  "programmes_best": [
+    {
+      "id": "prog:25c5ec0dcfccdf72",
+      "institution_id": "354",
+      "institution_name": null,
+      "name": "MSc Degrees",
+      "normalized_name": "MSc Degrees",
+      "qualification_type": "Postgraduate",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "generated/v1/programmes.final.json"
+      ]
+    },
+    {
+      "id": "prog:fbdb59943f375e38",
+      "institution_id": "354",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "NCV LEVEL 2",
+      "normalized_name": "NCV LEVEL 2",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NCV LEVEL 2",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:a1abfd59ad835d49",
+      "institution_id": "354",
+      "institution_name": null,
+      "name": "REPORT 191",
+      "normalized_name": "REPORT 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "generated/v1/programmes.final.json"
+      ]
+    },
+    {
+      "id": "prog:062eeb5314cd18b2",
+      "institution_id": "354",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "Assistant Management (Report 191 N4–N6)",
+      "normalized_name": "Assistant Management (Report 191 N4–N6)",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": "Business Studies",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "– Assistant Management",
+      "extraction_confidence": 0.9,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:2664bfd7b7896ff0",
+      "institution_id": "354",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "Civil Engineering (Report 191 N4–N6)",
+      "normalized_name": "Civil Engineering (Report 191 N4–N6)",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": "Engineering Studies",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "– Civil Engineering",
+      "extraction_confidence": 0.9,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:d7c821bb2bf95064",
+      "institution_id": "354",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "Electrical Engineering (Report 191 N4–N6)",
+      "normalized_name": "Electrical Engineering (Report 191 N4–N6)",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": "Engineering Studies",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "– Electrical Engineering",
+      "extraction_confidence": 0.9,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:21b3922c0ad829eb",
+      "institution_id": "354",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "Financial Management (Report 191 N4–N6)",
+      "normalized_name": "Financial Management (Report 191 N4–N6)",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": "Business Studies",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "– Financial Management",
+      "extraction_confidence": 0.9,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:b5c32c6a963945b1",
+      "institution_id": "354",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "Human Resource Management (Report 191 N4–N6)",
+      "normalized_name": "Human Resource Management (Report 191 N4–N6)",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": "Business Studies",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "– Human Resource Management",
+      "extraction_confidence": 0.9,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:0d8f70fd61b0214e",
+      "institution_id": "354",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "Marketing Management (Report 191 N4–N6)",
+      "normalized_name": "Marketing Management (Report 191 N4–N6)",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": "Business Studies",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "– Marketing Management",
+      "extraction_confidence": 0.9,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:6522d92a79b7b280",
+      "institution_id": "354",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "Mechanical Engineering (Report 191 N4–N6)",
+      "normalized_name": "Mechanical Engineering (Report 191 N4–N6)",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": "Engineering Studies",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "– Mechanical Engineering",
+      "extraction_confidence": 0.9,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:b77344c44fffbc5a",
+      "institution_id": "354",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "MSc Degrees",
+      "normalized_name": "MSc Degrees",
+      "qualification_type": "Masters",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "MSc Degrees",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:ea0d5079a9ab6b90",
+      "institution_id": "354",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "NCV Electrical Infrastructure",
+      "normalized_name": "NCV Electrical Infrastructure",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": "NCV Programmes",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "– Electrical Infrastructure",
+      "extraction_confidence": 0.9,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:622c114e12e70c0e",
+      "institution_id": "354",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "NCV Engineering & Related Design",
+      "normalized_name": "NCV Engineering & Related Design",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": "NCV Programmes",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "– Engineering & Related Design",
+      "extraction_confidence": 0.9,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:77135e8aeebb196b",
+      "institution_id": "354",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "NCV IT & Computer Science",
+      "normalized_name": "NCV IT & Computer Science",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": "NCV Programmes",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "– IT & Computer Science",
+      "extraction_confidence": 0.9,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:39205377f4035e83",
+      "institution_id": "354",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "NCV Management",
+      "normalized_name": "NCV Management",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": "NCV Programmes",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "– Management",
+      "extraction_confidence": 0.9,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:eb0787c567d971c7",
+      "institution_id": "354",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "NCV Marketing",
+      "normalized_name": "NCV Marketing",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": "NCV Programmes",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "– Marketing",
+      "extraction_confidence": 0.9,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:6d6cb1e64bda5503",
+      "institution_id": "354",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "NCV Office Administration",
+      "normalized_name": "NCV Office Administration",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": "NCV Programmes",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "– Office Administration",
+      "extraction_confidence": 0.9,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    }
+  ],
+  "programmes_all": [
+    {
+      "id": "prog:a1730f1ee2b98d1b",
+      "institution_id": "354",
+      "institution_name": null,
+      "name": "BSc",
+      "normalized_name": "BSc",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "generated/v1/programmes.final.json"
+      ]
+    },
+    {
+      "id": "prog:25c5ec0dcfccdf72",
+      "institution_id": "354",
+      "institution_name": null,
+      "name": "MSc Degrees",
+      "normalized_name": "MSc Degrees",
+      "qualification_type": "Postgraduate",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "generated/v1/programmes.final.json"
+      ]
+    },
+    {
+      "id": "prog:fbdb59943f375e38",
+      "institution_id": "354",
+      "institution_name": null,
+      "name": "NCV LEVEL 2",
+      "normalized_name": "NCV LEVEL 2",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "generated/v1/programmes.final.json"
+      ]
+    },
+    {
+      "id": "prog:a1abfd59ad835d49",
+      "institution_id": "354",
+      "institution_name": null,
+      "name": "REPORT 191",
+      "normalized_name": "REPORT 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "generated/v1/programmes.final.json"
+      ]
+    },
+    {
+      "id": "prog:a1730f1ee2b98d1b",
+      "institution_id": "354",
+      "institution_name": null,
+      "name": "BSc",
+      "normalized_name": "BSc",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "generated/v1/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:25c5ec0dcfccdf72",
+      "institution_id": "354",
+      "institution_name": null,
+      "name": "MSc Degrees",
+      "normalized_name": "MSc Degrees",
+      "qualification_type": "Postgraduate",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "generated/v1/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:fbdb59943f375e38",
+      "institution_id": "354",
+      "institution_name": null,
+      "name": "NCV LEVEL 2",
+      "normalized_name": "NCV LEVEL 2",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "generated/v1/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:a1abfd59ad835d49",
+      "institution_id": "354",
+      "institution_name": null,
+      "name": "REPORT 191",
+      "normalized_name": "REPORT 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "generated/v1/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:a1730f1ee2b98d1b",
+      "institution_id": "354",
+      "institution_name": null,
+      "name": "BSc",
+      "normalized_name": "BSc",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "generated/v1/programmes.raw.json"
+      ]
+    },
+    {
+      "id": "prog:25c5ec0dcfccdf72",
+      "institution_id": "354",
+      "institution_name": null,
+      "name": "MSc Degrees",
+      "normalized_name": "MSc Degrees",
+      "qualification_type": "Postgraduate",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "generated/v1/programmes.raw.json"
+      ]
+    },
+    {
+      "id": "prog:fbdb59943f375e38",
+      "institution_id": "354",
+      "institution_name": null,
+      "name": "NCV LEVEL 2",
+      "normalized_name": "NCV LEVEL 2",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "generated/v1/programmes.raw.json"
+      ]
+    },
+    {
+      "id": "prog:a1abfd59ad835d49",
+      "institution_id": "354",
+      "institution_name": null,
+      "name": "REPORT 191",
+      "normalized_name": "REPORT 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "generated/v1/programmes.raw.json"
+      ]
+    },
+    {
+      "id": "prog:a1730f1ee2b98d1b",
+      "institution_id": "354",
+      "institution_name": null,
+      "name": "BSc",
+      "normalized_name": "BSc",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "generated/v2/programmes.final.json"
+      ]
+    },
+    {
+      "id": "prog:25c5ec0dcfccdf72",
+      "institution_id": "354",
+      "institution_name": null,
+      "name": "MSc Degrees",
+      "normalized_name": "MSc Degrees",
+      "qualification_type": "Postgraduate",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "generated/v2/programmes.final.json"
+      ]
+    },
+    {
+      "id": "prog:fbdb59943f375e38",
+      "institution_id": "354",
+      "institution_name": null,
+      "name": "NCV LEVEL 2",
+      "normalized_name": "NCV LEVEL 2",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "generated/v2/programmes.final.json"
+      ]
+    },
+    {
+      "id": "prog:a1abfd59ad835d49",
+      "institution_id": "354",
+      "institution_name": null,
+      "name": "REPORT 191",
+      "normalized_name": "REPORT 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "generated/v2/programmes.final.json"
+      ]
+    },
+    {
+      "id": "prog:a1730f1ee2b98d1b",
+      "institution_id": "354",
+      "institution_name": null,
+      "name": "BSc",
+      "normalized_name": "BSc",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "generated/v2/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:25c5ec0dcfccdf72",
+      "institution_id": "354",
+      "institution_name": null,
+      "name": "MSc Degrees",
+      "normalized_name": "MSc Degrees",
+      "qualification_type": "Postgraduate",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "generated/v2/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:fbdb59943f375e38",
+      "institution_id": "354",
+      "institution_name": null,
+      "name": "NCV LEVEL 2",
+      "normalized_name": "NCV LEVEL 2",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "generated/v2/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:a1abfd59ad835d49",
+      "institution_id": "354",
+      "institution_name": null,
+      "name": "REPORT 191",
+      "normalized_name": "REPORT 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "generated/v2/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:a1730f1ee2b98d1b",
+      "institution_id": "354",
+      "institution_name": null,
+      "name": "BSc",
+      "normalized_name": "BSc",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "generated/v2/programmes.raw.json"
+      ]
+    },
+    {
+      "id": "prog:25c5ec0dcfccdf72",
+      "institution_id": "354",
+      "institution_name": null,
+      "name": "MSc Degrees",
+      "normalized_name": "MSc Degrees",
+      "qualification_type": "Postgraduate",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "generated/v2/programmes.raw.json"
+      ]
+    },
+    {
+      "id": "prog:fbdb59943f375e38",
+      "institution_id": "354",
+      "institution_name": null,
+      "name": "NCV LEVEL 2",
+      "normalized_name": "NCV LEVEL 2",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "generated/v2/programmes.raw.json"
+      ]
+    },
+    {
+      "id": "prog:a1abfd59ad835d49",
+      "institution_id": "354",
+      "institution_name": null,
+      "name": "REPORT 191",
+      "normalized_name": "REPORT 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "generated/v2/programmes.raw.json"
+      ]
+    },
+    {
+      "id": "prog:062eeb5314cd18b2",
+      "institution_id": "354",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "Assistant Management (Report 191 N4–N6)",
+      "normalized_name": "Assistant Management (Report 191 N4–N6)",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": "Business Studies",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "– Assistant Management",
+      "extraction_confidence": 0.9,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:2664bfd7b7896ff0",
+      "institution_id": "354",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "Civil Engineering (Report 191 N4–N6)",
+      "normalized_name": "Civil Engineering (Report 191 N4–N6)",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": "Engineering Studies",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "– Civil Engineering",
+      "extraction_confidence": 0.9,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:d7c821bb2bf95064",
+      "institution_id": "354",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "Electrical Engineering (Report 191 N4–N6)",
+      "normalized_name": "Electrical Engineering (Report 191 N4–N6)",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": "Engineering Studies",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "– Electrical Engineering",
+      "extraction_confidence": 0.9,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:21b3922c0ad829eb",
+      "institution_id": "354",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "Financial Management (Report 191 N4–N6)",
+      "normalized_name": "Financial Management (Report 191 N4–N6)",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": "Business Studies",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "– Financial Management",
+      "extraction_confidence": 0.9,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:b5c32c6a963945b1",
+      "institution_id": "354",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "Human Resource Management (Report 191 N4–N6)",
+      "normalized_name": "Human Resource Management (Report 191 N4–N6)",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": "Business Studies",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "– Human Resource Management",
+      "extraction_confidence": 0.9,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:0d8f70fd61b0214e",
+      "institution_id": "354",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "Marketing Management (Report 191 N4–N6)",
+      "normalized_name": "Marketing Management (Report 191 N4–N6)",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": "Business Studies",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "– Marketing Management",
+      "extraction_confidence": 0.9,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:6522d92a79b7b280",
+      "institution_id": "354",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "Mechanical Engineering (Report 191 N4–N6)",
+      "normalized_name": "Mechanical Engineering (Report 191 N4–N6)",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": "Engineering Studies",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "– Mechanical Engineering",
+      "extraction_confidence": 0.9,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:b77344c44fffbc5a",
+      "institution_id": "354",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "MSc Degrees",
+      "normalized_name": "MSc Degrees",
+      "qualification_type": "Masters",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "MSc Degrees",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:ea0d5079a9ab6b90",
+      "institution_id": "354",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "NCV Electrical Infrastructure",
+      "normalized_name": "NCV Electrical Infrastructure",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": "NCV Programmes",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "– Electrical Infrastructure",
+      "extraction_confidence": 0.9,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:622c114e12e70c0e",
+      "institution_id": "354",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "NCV Engineering & Related Design",
+      "normalized_name": "NCV Engineering & Related Design",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": "NCV Programmes",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "– Engineering & Related Design",
+      "extraction_confidence": 0.9,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:77135e8aeebb196b",
+      "institution_id": "354",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "NCV IT & Computer Science",
+      "normalized_name": "NCV IT & Computer Science",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": "NCV Programmes",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "– IT & Computer Science",
+      "extraction_confidence": 0.9,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:fbdb59943f375e38",
+      "institution_id": "354",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "NCV LEVEL 2",
+      "normalized_name": "NCV LEVEL 2",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NCV LEVEL 2",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:39205377f4035e83",
+      "institution_id": "354",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "NCV Management",
+      "normalized_name": "NCV Management",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": "NCV Programmes",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "– Management",
+      "extraction_confidence": 0.9,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:eb0787c567d971c7",
+      "institution_id": "354",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "NCV Marketing",
+      "normalized_name": "NCV Marketing",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": "NCV Programmes",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "– Marketing",
+      "extraction_confidence": 0.9,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:6d6cb1e64bda5503",
+      "institution_id": "354",
+      "institution_name": "Sekhukhune TVET College",
+      "name": "NCV Office Administration",
+      "normalized_name": "NCV Office Administration",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": "NCV Programmes",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "– Office Administration",
+      "extraction_confidence": 0.9,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:a1730f1ee2b98d1b",
+      "institution_id": "354",
+      "institution_name": null,
+      "name": "BSc",
+      "normalized_name": "BSc",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "output/v1/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:25c5ec0dcfccdf72",
+      "institution_id": "354",
+      "institution_name": null,
+      "name": "MSc Degrees",
+      "normalized_name": "MSc Degrees",
+      "qualification_type": "Postgraduate",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "output/v1/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:fbdb59943f375e38",
+      "institution_id": "354",
+      "institution_name": null,
+      "name": "NCV LEVEL 2",
+      "normalized_name": "NCV LEVEL 2",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "output/v1/programmes.json"
+      ]
+    },
+    {
+      "id": "prog:a1abfd59ad835d49",
+      "institution_id": "354",
+      "institution_name": null,
+      "name": "REPORT 191",
+      "normalized_name": "REPORT 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "output/v1/programmes.json"
+      ]
+    }
+  ],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 5,
+    "faculties_all": 5,
+    "programmes_best": 17,
+    "programmes_all": 43
+  }
+}

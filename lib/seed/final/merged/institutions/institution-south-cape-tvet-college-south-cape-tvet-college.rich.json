@@ -1,0 +1,69 @@
+{
+  "institution": {
+    "id": "institution:south-cape-tvet-college",
+    "slug": "south-cape-tvet-college",
+    "institution_id_raw": "355",
+    "name": "South Cape TVET College",
+    "institution_type": "tvet-college",
+    "city": "George",
+    "province": "Western Cape",
+    "official_website": "https://sccollege.co.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/355/south-cape-tvet-college",
+    "source_paths": [
+      "generated/v3/institutions.enriched.json",
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "sector": "higher education",
+      "province": "Western Cape",
+      "city": "George",
+      "physical_address": "46 Hibernia Street, George, 6530",
+      "postal_address": "PO Box 10400, George, 6530",
+      "contact_emails": [
+        "communications@sccollege.co.zafi",
+        "communications@sccollege.co.zabeaufort"
+      ],
+      "contact_phone_numbers": [
+        "044 884 0359",
+        "044 874 2360"
+      ],
+      "application_url": "https://sccollege.co.za/apply-for-2026/",
+      "socials": {
+        "facebook": "https://www.facebook.com/southcapetvetcollege",
+        "instagram": "http://instagram.com",
+        "linkedin": "",
+        "x": "",
+        "youtube": ""
+      },
+      "accreditation": {
+        "dh et": "Accredited",
+        "saqa": null
+      },
+      "sources": [
+        "https://nationalgovernment.co.za/units/view/355/south-cape-tvet-college",
+        "https://sccollege.co.za/"
+      ],
+      "qualification_types": [
+        "NC(V)",
+        "Nated (Report 191)",
+        "Skills Programmes",
+        "Apprenticeships"
+      ],
+      "nsfas_supported": true,
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

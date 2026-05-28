@@ -1,0 +1,24 @@
+{
+  "chunks": [
+    {
+      "type": "other",
+      "text": "Eesda\nEnquiries:\ninfo@ncutvet.edu.za\n3 | P a g e\nHow to apply for New Applicants\nStep 1:\nUse the following link to login to the college website: www.ncutvet.edu.za, click on\nStudent Portal then Applications.\nClick here to\napply online.\n4 | P a g e\n• Select No at both drop down lists\nStep 4:\n• Read the POPI Declaration and click “I Accept” at the bottom\n• Click on Next\nStep 2:\n•\nOnce Clicked,\nthe following window will open:\n•\nS\nelect\nNo (as you are a new student that is applying)\nStep 3\n:\nDROP DOWN LIST\nSELECT NO AT BOTH\nDROP DOWN LISTS\nClick here to\napply online.\n5 | P a g e\nStep 5\n:\n•\nCapture your Biographical Information and click on\nNext\nCALENDAR\nSELECT FROM\nDROP DOWN\nLIST\nSELECT FROM\nDROP DOWN\nLIST\nSELECT FROM\nDROP DOWN\nLIST\nCLICK I ACCEPT\nCLICK NEXT\n6 | P a g e\nStep 6:\nSELCT FROM\nDROP DOWN LIST\nSELECT FROM\nDROP DOWN\nLIST\nSELECT FROM\nDROP DOWN\nLIST\nCLICK NEXT\n7 | P a g e\n• Capture your Next of Kin Details\nStep 7:\n•\nCapture Account Contact Details and click on\nNext\nSELECT\nFROM DROP\nDOWN LIST\nSELECT FROM\nDROP DOWN\nLIST\nCLICK ON NEXT\n8 | P a g e\nStep 8:\n• Capture Results Details and click on Next\n• Capture Subject Details and click Add Subject\n• ADD ALL YOUR SUBJECTS AS STIPULATED ON YOUR FINAL RESULTS •\nGrade: select from the drop down list\n• After capturing ALL your subjects click Next\nCLICK ON NEXT\n•\nResult: Select from the drop down list\n9 | P a g e\nStep 9:\n• Capture Educational Institution/s and click Next\nStep 10:\nSELECT FROM\nDROP DOWN\nLIST\nSELECT FROM\nTHE DROP\nDOWN LIST\nSELECT FROM THE DROP\nDOWN LIST\nCLICK NEXT\nSELECT YOUR SYMBOL\nFROM\nTHE DROP DOWN\nLIST\nS\nE\nLECT SUBJECT\nFROM DROP DOWN\nLIST\nSELECT GRADE\nFROM DROP\nDOWN LIST\nSELECT RESULT FROM DROP DOWN\nLIST\nCLICK NEXT\nONCE YOU\nHAVE\nSELECTED A\nSUBJECT,\nGRADE, RESULT\nAND SYMBOL\nCLICK ON ADD\nSUBJECT.\nREPEAT THIS\nPROCESS TILL\nALL YOUR\nSUBJECTS HAVE\nBEEN ADDED.\nONCE ALL\nSUBJECTS HAVE\nBEEN ADDED\nCLICK NEXT.\n10 | P a g e\n• Capture Qualification Details and click on Add Qualification\nOnce you have clicked on Add Qualification, the following which is an example will\ndisplay and then you click on Next\nTHIS IS AN EXAMPLE\nWHEN YOU QUALIFICATION\nDETAILS ARE\nDISPLAYED AS\nTHE EXAMPLE ABOVE CLICK\nNEXT\nSELECT THE YEAR\nFROM THE DROP\nDOWN LIST\nLIMIT YOUR SELECTION TO A",
+      "institutionId": "316",
+      "source_file": "lib/seed/prospectuses/northern-cape-urban-tvet-college.pdf",
+      "start_char": 0,
+      "end_char": 2245
+    },
+    {
+      "type": "faculty",
+      "text": "SPECIFIC FACULTY/SCHOOL\nSELECT FROM THESE TWO\nOPTIONS GIVEN IN THE DROP\nDOWN LIST\nSelect a programme from drop down list. Once a\nprogramme has been selected the\nrest of the open fields\nwill populate\nAFTER\nCAPTURING YOUR QUALIFICATION\nDETAILS CLICK ADD QUALIFICATION\n11 | P a g e\nStep 12:\n• Confirm Rules and Agreement and create a 5 digit Login pin\nStep 11:\n•\nCheck your application details and click\nContinue\nREAD THE CHECK APPLICATION\nDETAILS CAREFULLY\nCREATE A 5 DIGIT PIN\nTHAT\nYOU WILL USE TO LOGIN TO\nstudent i\n-\nENABLER\n12 | P a g e\nStep 13:\n• Accept the terms and conditions and click on “I Accept”\n• Click on Submit Application\nACCEPT THE TERMS\nAND CONDITIONS\nCLICK ON SUBMIT\nAPPLICATION\n13 | P a g e\nStep 14:\n• Upload of Documents\nConfirmation page will show your Name and Student Number.\nn\nCLICK EXIT\nCongratulations\nYou may now use the 5 digits pin you\ncreated and your student number to login\nto ienabler.\nSelect yes or No from the\ndropdown list. If yes, then upload\nthe required documents, If No, then\nthe documents can be uploaded at\na later stage.\n14 | P a g e\nHow to apply for Returning Applicants\nStep 1:\nUse the following link to register online: www.ncutvet.edu.za\nCLICK ON HERE\nSELECT FROM THE DROP DOWN LIST\nAND FOLLOW THE NEXT PROMPTS\nCLICK Ctrl + link\nto\nfollow\nabove link",
+      "institutionId": "316",
+      "source_file": "lib/seed/prospectuses/northern-cape-urban-tvet-college.pdf",
+      "start_char": 2246,
+      "end_char": 3541
+    }
+  ],
+  "matched_files": [
+    "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/northern-cape-urban-tvet-college.pdf"
+  ],
+  "skipped_chunks": []
+}

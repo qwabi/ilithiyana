@@ -1,0 +1,869 @@
+{
+  "faculties": [],
+  "programmes": [
+    {
+      "id": "prog:353:NATED|3787633babc5|report 191",
+      "institutionId": "353",
+      "name": "Report 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+      "sourceUrl": "https://www.sedcol.co.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+        "char_start": 14945,
+        "char_end": 14955,
+        "excerpt": "REPORT 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:353:NATED|3787633babc5|report 191",
+      "institutionId": "353",
+      "name": "REPORT 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+      "sourceUrl": "https://www.sedcol.co.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+        "char_start": 14945,
+        "char_end": 14955,
+        "excerpt": "REPORT 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:353:NATED|3787633babc5|report 191",
+      "institutionId": "353",
+      "name": "REPORT 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+      "sourceUrl": "https://www.sedcol.co.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+        "char_start": 14945,
+        "char_end": 14955,
+        "excerpt": "REPORT 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:353:NATED|3787633babc5|report 191",
+      "institutionId": "353",
+      "name": "REPORT 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+      "sourceUrl": "https://www.sedcol.co.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+        "char_start": 14945,
+        "char_end": 14955,
+        "excerpt": "REPORT 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:353:NATED|3787633babc5|report 191",
+      "institutionId": "353",
+      "name": "REPORT 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+      "sourceUrl": "https://www.sedcol.co.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+        "char_start": 14945,
+        "char_end": 14955,
+        "excerpt": "REPORT 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:353:NCV|67e7d17759c8|nc(v) l2",
+      "institutionId": "353",
+      "name": "NC(V) L2",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 2
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+      "sourceUrl": "https://www.sedcol.co.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+        "char_start": 10057,
+        "char_end": 10065,
+        "excerpt": "NC(V) L2"
+      },
+      "normalization_key": "NCV|67e7d17759c8|nc(v) l2"
+    },
+    {
+      "id": "prog:353:NCV|67e7d17759c8|nc(v) l2",
+      "institutionId": "353",
+      "name": "NC(V) L2",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+      "sourceUrl": "https://www.sedcol.co.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+        "char_start": 10057,
+        "char_end": 10065,
+        "excerpt": "NC(V) L2"
+      },
+      "normalization_key": "NCV|67e7d17759c8|nc(v) l2"
+    },
+    {
+      "id": "prog:353:NATED|3787633babc5|report 191",
+      "institutionId": "353",
+      "name": "REPORT 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 30
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+      "sourceUrl": "https://www.sedcol.co.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+        "char_start": 14945,
+        "char_end": 14955,
+        "excerpt": "REPORT 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:353:NCV|b740b967f8a9|nc(v) level 4",
+      "institutionId": "353",
+      "name": "NC(V) level 4",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 30
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+      "sourceUrl": "https://www.sedcol.co.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+        "char_start": 14782,
+        "char_end": 14795,
+        "excerpt": "NC(V) level 4"
+      },
+      "normalization_key": "NCV|b740b967f8a9|nc(v) level 4"
+    },
+    {
+      "id": "prog:353:NATED|3787633babc5|report 191",
+      "institutionId": "353",
+      "name": "REPORT 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 30
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+      "sourceUrl": "https://www.sedcol.co.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+        "char_start": 14945,
+        "char_end": 14955,
+        "excerpt": "REPORT 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:353:NCV|0b8628209db7|nc(v) l4",
+      "institutionId": "353",
+      "name": "NC(V) L4",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 30
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+      "sourceUrl": "https://www.sedcol.co.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+        "char_start": 20252,
+        "char_end": 20260,
+        "excerpt": "NC(V) L4"
+      },
+      "normalization_key": "NCV|0b8628209db7|nc(v) l4"
+    },
+    {
+      "id": "prog:353:NCV|0b8628209db7|nc(v) l4",
+      "institutionId": "353",
+      "name": "NC(V) L4",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 30
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+      "sourceUrl": "https://www.sedcol.co.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+        "char_start": 20252,
+        "char_end": 20260,
+        "excerpt": "NC(V) L4"
+      },
+      "normalization_key": "NCV|0b8628209db7|nc(v) l4"
+    },
+    {
+      "id": "prog:353:NCV|0b8628209db7|nc(v) l4",
+      "institutionId": "353",
+      "name": "NC(V) L4",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "English",
+            "minimum_percentage": 40
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+      "sourceUrl": "https://www.sedcol.co.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+        "char_start": 20252,
+        "char_end": 20260,
+        "excerpt": "NC(V) L4"
+      },
+      "normalization_key": "NCV|0b8628209db7|nc(v) l4"
+    },
+    {
+      "id": "prog:353:NCV|0b8628209db7|nc(v) l4",
+      "institutionId": "353",
+      "name": "NC(V) L4",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "English",
+            "minimum_percentage": 40
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+      "sourceUrl": "https://www.sedcol.co.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+        "char_start": 20252,
+        "char_end": 20260,
+        "excerpt": "NC(V) L4"
+      },
+      "normalization_key": "NCV|0b8628209db7|nc(v) l4"
+    },
+    {
+      "id": "prog:353:NCV|0b8628209db7|nc(v) l4",
+      "institutionId": "353",
+      "name": "NC(V) L4",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "English",
+            "minimum_percentage": 40
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 60
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+      "sourceUrl": "https://www.sedcol.co.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+        "char_start": 20252,
+        "char_end": 20260,
+        "excerpt": "NC(V) L4"
+      },
+      "normalization_key": "NCV|0b8628209db7|nc(v) l4"
+    },
+    {
+      "id": "prog:353:NCV|0b8628209db7|nc(v) l4",
+      "institutionId": "353",
+      "name": "NC(V) L4",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "English",
+            "minimum_percentage": 40
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 60
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+      "sourceUrl": "https://www.sedcol.co.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+        "char_start": 20252,
+        "char_end": 20260,
+        "excerpt": "NC(V) L4"
+      },
+      "normalization_key": "NCV|0b8628209db7|nc(v) l4"
+    },
+    {
+      "id": "prog:353:NCV|0b8628209db7|nc(v) l4",
+      "institutionId": "353",
+      "name": "NC(V) L4",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+      "sourceUrl": "https://www.sedcol.co.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+        "char_start": 20252,
+        "char_end": 20260,
+        "excerpt": "NC(V) L4"
+      },
+      "normalization_key": "NCV|0b8628209db7|nc(v) l4"
+    },
+    {
+      "id": "prog:353:NCV|0b8628209db7|nc(v) l4",
+      "institutionId": "353",
+      "name": "NC(V) L4",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+      "sourceUrl": "https://www.sedcol.co.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+        "char_start": 20252,
+        "char_end": 20260,
+        "excerpt": "NC(V) L4"
+      },
+      "normalization_key": "NCV|0b8628209db7|nc(v) l4"
+    },
+    {
+      "id": "prog:353:NCV|0b8628209db7|nc(v) l4",
+      "institutionId": "353",
+      "name": "NC(V) L4",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+      "sourceUrl": "https://www.sedcol.co.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+        "char_start": 20252,
+        "char_end": 20260,
+        "excerpt": "NC(V) L4"
+      },
+      "normalization_key": "NCV|0b8628209db7|nc(v) l4"
+    },
+    {
+      "id": "prog:353:NCV|0b8628209db7|nc(v) l4",
+      "institutionId": "353",
+      "name": "NC(V) L4",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+      "sourceUrl": "https://www.sedcol.co.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+        "char_start": 20252,
+        "char_end": 20260,
+        "excerpt": "NC(V) L4"
+      },
+      "normalization_key": "NCV|0b8628209db7|nc(v) l4"
+    },
+    {
+      "id": "prog:353:NCV|0b8628209db7|nc(v) l4",
+      "institutionId": "353",
+      "name": "NC(V) L4",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+      "sourceUrl": "https://www.sedcol.co.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+        "char_start": 20252,
+        "char_end": 20260,
+        "excerpt": "NC(V) L4"
+      },
+      "normalization_key": "NCV|0b8628209db7|nc(v) l4"
+    },
+    {
+      "id": "prog:353:NCV|0b8628209db7|nc(v) l4",
+      "institutionId": "353",
+      "name": "NC(V) L4",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+      "sourceUrl": "https://www.sedcol.co.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+        "char_start": 20252,
+        "char_end": 20260,
+        "excerpt": "NC(V) L4"
+      },
+      "normalization_key": "NCV|0b8628209db7|nc(v) l4"
+    },
+    {
+      "id": "prog:353:NCV|0b8628209db7|nc(v) l4",
+      "institutionId": "353",
+      "name": "NC(V) L4",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+      "sourceUrl": "https://www.sedcol.co.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+        "char_start": 20252,
+        "char_end": 20260,
+        "excerpt": "NC(V) L4"
+      },
+      "normalization_key": "NCV|0b8628209db7|nc(v) l4"
+    },
+    {
+      "id": "prog:353:NCV|51f8db2f0e3c|ncv l4",
+      "institutionId": "353",
+      "name": "NCV L4",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+      "sourceUrl": "https://www.sedcol.co.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+        "char_start": 19789,
+        "char_end": 19795,
+        "excerpt": "NCV L4"
+      },
+      "normalization_key": "NCV|51f8db2f0e3c|ncv l4"
+    },
+    {
+      "id": "prog:353:NCV|0b8628209db7|nc(v) l4",
+      "institutionId": "353",
+      "name": "NC(V) L4",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+      "sourceUrl": "https://www.sedcol.co.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+        "char_start": 20252,
+        "char_end": 20260,
+        "excerpt": "NC(V) L4"
+      },
+      "normalization_key": "NCV|0b8628209db7|nc(v) l4"
+    },
+    {
+      "id": "prog:353:NCV|0b8628209db7|nc(v) l4",
+      "institutionId": "353",
+      "name": "NC(V) L4",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+      "sourceUrl": "https://www.sedcol.co.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+        "char_start": 20252,
+        "char_end": 20260,
+        "excerpt": "NC(V) L4"
+      },
+      "normalization_key": "NCV|0b8628209db7|nc(v) l4"
+    },
+    {
+      "id": "prog:353:NCV|0b8628209db7|nc(v) l4",
+      "institutionId": "353",
+      "name": "NC(V) L4",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+      "sourceUrl": "https://www.sedcol.co.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+        "char_start": 20252,
+        "char_end": 20260,
+        "excerpt": "NC(V) L4"
+      },
+      "normalization_key": "NCV|0b8628209db7|nc(v) l4"
+    },
+    {
+      "id": "prog:353:NCV|eaf650d92ff8|nc(v)l4",
+      "institutionId": "353",
+      "name": "NC(V)L4",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+      "sourceUrl": "https://www.sedcol.co.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+        "char_start": 20496,
+        "char_end": 20503,
+        "excerpt": "NC(V)L4"
+      },
+      "normalization_key": "NCV|eaf650d92ff8|nc(v)l4"
+    }
+  ],
+  "admissions_rules": [
+    {
+      "id": "adm:353:NCV|67e7d17759c8|nc(v) l2:subjects",
+      "institutionId": "353",
+      "programmeId": "prog:353:NCV|67e7d17759c8|nc(v) l2",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 2%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 2,
+          "raw_span": "Mathematical literacy L2",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+            "char_start": 7835,
+            "char_end": 7859,
+            "excerpt": "Mathematical literacy L2"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+      "sourceUrl": "https://www.sedcol.co.za/"
+    },
+    {
+      "id": "adm:353:NATED|3787633babc5|report 191:subjects",
+      "institutionId": "353",
+      "programmeId": "prog:353:NATED|3787633babc5|report 191",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 30%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 30,
+          "raw_span": "Maths 30%",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+            "char_start": 14897,
+            "char_end": 14906,
+            "excerpt": "Maths 30%"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+      "sourceUrl": "https://www.sedcol.co.za/"
+    },
+    {
+      "id": "adm:353:NCV|b740b967f8a9|nc(v) level 4:subjects",
+      "institutionId": "353",
+      "programmeId": "prog:353:NCV|b740b967f8a9|nc(v) level 4",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 30%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 30,
+          "raw_span": "Maths 30%",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+            "char_start": 14897,
+            "char_end": 14906,
+            "excerpt": "Maths 30%"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+      "sourceUrl": "https://www.sedcol.co.za/"
+    },
+    {
+      "id": "adm:353:NATED|3787633babc5|report 191:subjects",
+      "institutionId": "353",
+      "programmeId": "prog:353:NATED|3787633babc5|report 191",
+      "ruleType": "subject_requirements",
+      "detail": "Accounting >= 30%",
+      "subjects": [
+        {
+          "subject": "Accounting",
+          "minimum_percentage": 30,
+          "raw_span": "Accounting (30%",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+            "char_start": 15046,
+            "char_end": 15061,
+            "excerpt": "Accounting (30%"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+      "sourceUrl": "https://www.sedcol.co.za/"
+    },
+    {
+      "id": "adm:353:NCV|0b8628209db7|nc(v) l4:subjects",
+      "institutionId": "353",
+      "programmeId": "prog:353:NCV|0b8628209db7|nc(v) l4",
+      "ruleType": "subject_requirements",
+      "detail": "Accounting >= 30%",
+      "subjects": [
+        {
+          "subject": "Accounting",
+          "minimum_percentage": 30,
+          "raw_span": "Accounting (30%",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+            "char_start": 15046,
+            "char_end": 15061,
+            "excerpt": "Accounting (30%"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+      "sourceUrl": "https://www.sedcol.co.za/"
+    },
+    {
+      "id": "adm:353:NCV|0b8628209db7|nc(v) l4:subjects",
+      "institutionId": "353",
+      "programmeId": "prog:353:NCV|0b8628209db7|nc(v) l4",
+      "ruleType": "subject_requirements",
+      "detail": "Accounting >= 30%",
+      "subjects": [
+        {
+          "subject": "Accounting",
+          "minimum_percentage": 30,
+          "raw_span": "Accounting (30%",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+            "char_start": 15046,
+            "char_end": 15061,
+            "excerpt": "Accounting (30%"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+      "sourceUrl": "https://www.sedcol.co.za/"
+    },
+    {
+      "id": "adm:353:NCV|0b8628209db7|nc(v) l4:subjects",
+      "institutionId": "353",
+      "programmeId": "prog:353:NCV|0b8628209db7|nc(v) l4",
+      "ruleType": "subject_requirements",
+      "detail": "English >= 40%",
+      "subjects": [
+        {
+          "subject": "English",
+          "minimum_percentage": 40,
+          "raw_span": "English 40%",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+            "char_start": 15819,
+            "char_end": 15830,
+            "excerpt": "English 40%"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+      "sourceUrl": "https://www.sedcol.co.za/"
+    },
+    {
+      "id": "adm:353:NCV|0b8628209db7|nc(v) l4:subjects",
+      "institutionId": "353",
+      "programmeId": "prog:353:NCV|0b8628209db7|nc(v) l4",
+      "ruleType": "subject_requirements",
+      "detail": "English >= 40%",
+      "subjects": [
+        {
+          "subject": "English",
+          "minimum_percentage": 40,
+          "raw_span": "English 40%",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+            "char_start": 15819,
+            "char_end": 15830,
+            "excerpt": "English 40%"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+      "sourceUrl": "https://www.sedcol.co.za/"
+    },
+    {
+      "id": "adm:353:NCV|0b8628209db7|nc(v) l4:subjects",
+      "institutionId": "353",
+      "programmeId": "prog:353:NCV|0b8628209db7|nc(v) l4",
+      "ruleType": "subject_requirements",
+      "detail": "English >= 40%; Mathematics >= 60%",
+      "subjects": [
+        {
+          "subject": "English",
+          "minimum_percentage": 40,
+          "raw_span": "English 40%",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+            "char_start": 15819,
+            "char_end": 15830,
+            "excerpt": "English 40%"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 60,
+          "raw_span": "Mathematics 60%",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+            "char_start": 15989,
+            "char_end": 16004,
+            "excerpt": "Mathematics 60%"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+      "sourceUrl": "https://www.sedcol.co.za/"
+    },
+    {
+      "id": "adm:353:NCV|0b8628209db7|nc(v) l4:subjects",
+      "institutionId": "353",
+      "programmeId": "prog:353:NCV|0b8628209db7|nc(v) l4",
+      "ruleType": "subject_requirements",
+      "detail": "English >= 40%; Mathematics >= 60%",
+      "subjects": [
+        {
+          "subject": "English",
+          "minimum_percentage": 40,
+          "raw_span": "English 40%",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+            "char_start": 15819,
+            "char_end": 15830,
+            "excerpt": "English 40%"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 60,
+          "raw_span": "Mathematics 60%",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+            "char_start": 15989,
+            "char_end": 16004,
+            "excerpt": "Mathematics 60%"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/sedibeng-tvet-college.pdf",
+      "sourceUrl": "https://www.sedcol.co.za/"
+    }
+  ],
+  "aps_rules": [],
+  "llm_calls": 0
+}
