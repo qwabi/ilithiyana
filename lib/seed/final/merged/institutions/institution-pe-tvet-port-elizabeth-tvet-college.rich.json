@@ -1,0 +1,61 @@
+{
+  "institution": {
+    "institution_id": "pe-tvet",
+    "name": "Port Elizabeth TVET College",
+    "institution_type": "tvet-college",
+    "city": null,
+    "province": null,
+    "official_website": null,
+    "detail_source": null,
+    "source_paths": [
+      "workik/batch1/online/pe-tvet.json"
+    ],
+    "profile": {}
+  },
+  "campuses": [
+    {
+      "id": "camp:e1781448eb37cce8",
+      "institution_id": "pe-tvet",
+      "name": "Russell Road",
+      "city": "Gqeberha",
+      "province": null,
+      "is_main": true,
+      "source_paths": [
+        "workik/batch1/online/pe-tvet.json"
+      ]
+    },
+    {
+      "id": "camp:ca1e487a9a94c585",
+      "institution_id": "pe-tvet",
+      "name": "Dower",
+      "city": "Gqeberha",
+      "province": null,
+      "is_main": false,
+      "source_paths": [
+        "workik/batch1/online/pe-tvet.json"
+      ]
+    },
+    {
+      "id": "camp:5bf47944140cd413",
+      "institution_id": "pe-tvet",
+      "name": "Struandale",
+      "city": "Gqeberha",
+      "province": null,
+      "is_main": false,
+      "source_paths": [
+        "workik/batch1/online/pe-tvet.json"
+      ]
+    }
+  ],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 3,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

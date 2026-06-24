@@ -1,0 +1,3261 @@
+{
+  "institution": {
+    "id": "institution:university-of-johannesburg",
+    "slug": "university-of-johannesburg",
+    "institution_id_raw": "364",
+    "name": "University of Johannesburg",
+    "institution_type": "university",
+    "city": "Johannesburg",
+    "province": "Gauteng",
+    "official_website": "https://www.uj.ac.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/364/university-of-johannesburg",
+    "source_paths": [
+      "enriched_universities.json",
+      "generated/v3/institutions.enriched.json",
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "sector": "higher education",
+      "province": "Gauteng",
+      "city": "Johannesburg",
+      "physical_address": "Cnr Kingsway and University Road, Auckland Park, Johannesburg, 2092",
+      "postal_address": "PO Box 524, Auckland Park, 2006",
+      "contact_emails": [
+        "news@uj.ac.za"
+      ],
+      "contact_phone_numbers": [
+        "011 559 4555"
+      ],
+      "application_url": "https://www.uj.ac.za/admission-aid/campus-life/",
+      "socials": {
+        "facebook": "https://www.facebook.com/go2uj/",
+        "instagram": "https://www.instagram.com/university_of_johannesburg",
+        "linkedin": "https://www.linkedin.com/company/university-of-johannesburg",
+        "x": "https://twitter.com/go2uj",
+        "youtube": "https://www.youtube.com/user/filmdivision1"
+      },
+      "accreditation": {
+        "dh et": "Accredited",
+        "saqa": "Registered"
+      },
+      "sources": [
+        "https://nationalgovernment.co.za/units/view/364/university-of-johannesburg",
+        "https://www.uj.ac.za/"
+      ],
+      "qualification_types": [
+        "Undergraduate",
+        "Postgraduate",
+        "Diploma",
+        "Certificate"
+      ],
+      "student_accommodation": true,
+      "short_name": "UJ",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/6/62/University_of_Johannesburg_logo.svg",
+      "colors": [
+        "Orange",
+        "Yellow",
+        "White"
+      ],
+      "motto": "Diens Deur Kennis (Afrikaans)",
+      "type": "Comprehensive University",
+      "languages": [
+        "English",
+        "Afrikaans"
+      ],
+      "student_estimate": 50786,
+      "nickname": "UJ",
+      "mascot": "University of Johannesburg Hoopoe \"Hoepie\"",
+      "sports_affiliations": []
+    }
+  },
+  "campuses": [
+    {
+      "id": "campus:university-of-johannesburg--auckland-park-bunting-road-apb",
+      "institution_slug": "university-of-johannesburg",
+      "name": "Auckland Park Bunting Road (APB)",
+      "city": "Johannesburg",
+      "province": "Gauteng",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:university-of-johannesburg--auckland-park-kingsway-apk",
+      "institution_slug": "university-of-johannesburg",
+      "name": "Auckland Park Kingsway (APK)",
+      "city": "Johannesburg",
+      "province": "Gauteng",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:university-of-johannesburg--doornfontein-dfc",
+      "institution_slug": "university-of-johannesburg",
+      "name": "Doornfontein (DFC)",
+      "city": "Johannesburg",
+      "province": "Gauteng",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:university-of-johannesburg--soweto-swc",
+      "institution_slug": "university-of-johannesburg",
+      "name": "Soweto (SWC)",
+      "city": "Johannesburg",
+      "province": "Gauteng",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    }
+  ],
+  "faculties_best": [
+    {
+      "id": "faculty:university-of-johannesburg--accountancy--faculty",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Accountancy",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "School of Accountancy",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:university-of-johannesburg--art-design--faculty",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Art, Design",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "Faculty of Art, Design",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:university-of-johannesburg--consumer-intelligence-and-information-systems--faculty",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Consumer Intelligence and Information Systems",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "School of Consumer Intelligence and Information Systems",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:university-of-johannesburg--economics--faculty",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Economics",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "School of Economics",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:university-of-johannesburg--education--faculty",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Education",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "Faculty of Education",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:university-of-johannesburg--education-thus-for-both-the-nasca-and-sc-a-for--faculty",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Education. Thus for both the NASCA and SC(a) for",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "Faculty of Education. Thus for both the NASCA and SC(a) for",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:university-of-johannesburg--health-sciences--faculty",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Health Sciences",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "Faculty of Health Sciences",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:university-of-johannesburg--humanities--faculty",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Humanities",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "Faculty of Humanities",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:university-of-johannesburg--management--faculty",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Management",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "School of Management",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:university-of-johannesburg--public-management-governance-and-public-policy--faculty",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Public Management, Governance and Public Policy",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "School of Public Management, Governance and Public Policy",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:university-of-johannesburg--science--faculty",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Science",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "Faculty of Science",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:university-of-johannesburg--tourism-and-hospitality--faculty",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Tourism and Hospitality",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "School of Tourism and Hospitality",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    }
+  ],
+  "faculties_all": [
+    {
+      "id": "faculty:university-of-johannesburg--accountancy--faculty",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Accountancy",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "School of Accountancy",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:university-of-johannesburg--art-design--faculty",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Art, Design",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "Faculty of Art, Design",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:university-of-johannesburg--consumer-intelligence-and-information-systems--faculty",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Consumer Intelligence and Information Systems",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "School of Consumer Intelligence and Information Systems",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:university-of-johannesburg--economics--faculty",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Economics",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "School of Economics",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:university-of-johannesburg--education--faculty",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Education",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "Faculty of Education",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:university-of-johannesburg--education-thus-for-both-the-nasca-and-sc-a-for--faculty",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Education. Thus for both the NASCA and SC(a) for",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "Faculty of Education. Thus for both the NASCA and SC(a) for",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:university-of-johannesburg--health-sciences--faculty",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Health Sciences",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "Faculty of Health Sciences",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:university-of-johannesburg--humanities--faculty",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Humanities",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "Faculty of Humanities",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:university-of-johannesburg--management--faculty",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Management",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "School of Management",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:university-of-johannesburg--public-management-governance-and-public-policy--faculty",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Public Management, Governance and Public Policy",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "School of Public Management, Governance and Public Policy",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:university-of-johannesburg--science--faculty",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Science",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "Faculty of Science",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:university-of-johannesburg--tourism-and-hospitality--faculty",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Tourism and Hospitality",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "School of Tourism and Hospitality",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    }
+  ],
+  "programmes_best": [
+    {
+      "id": "programme:university-of-johannesburg--ba",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BA",
+      "normalized_name": "BA",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Education. Thus for both the NASCA and SC(a) for",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Arts (3 years)",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--ba-communication-design",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BA (COMMUNICATION DESIGN)",
+      "normalized_name": "BA (COMMUNICATION DESIGN)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Science",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "BA (COMMUNICATION DESIGN)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--ba-digital-media-design",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BA (DIGITAL MEDIA DESIGN)",
+      "normalized_name": "BA (DIGITAL MEDIA DESIGN)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Science",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "BA (DIGITAL MEDIA DESIGN)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--ba-extended",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BA (Extended)",
+      "normalized_name": "BA (Extended)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Education. Thus for both the NASCA and SC(a) for",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "BA (Extended)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--ba-fashion-design",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BA (FASHION DESIGN)",
+      "normalized_name": "BA (FASHION DESIGN)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Science",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "BA (FASHION DESIGN)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--ba-industrial-design",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BA (INDUSTRIAL DESIGN)",
+      "normalized_name": "BA (INDUSTRIAL DESIGN)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Science",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "BA (INDUSTRIAL DESIGN)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--ba-interior-design",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BA (INTERIOR DESIGN)",
+      "normalized_name": "BA (INTERIOR DESIGN)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Science",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "BA (INTERIOR DESIGN)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--ba-law",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BA (Law)",
+      "normalized_name": "BA (Law)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Education. Thus for both the NASCA and SC(a) for",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "BA (Law)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--ba-visual-art",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BA (VISUAL ART)",
+      "normalized_name": "BA (VISUAL ART)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Science",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "BA (VISUAL ART)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--ba-degree",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BA Degree",
+      "normalized_name": "BA Degree",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Tourism and Hospitality",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Arts Degree (3 years)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--ba-in-visual-art",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BA in Visual Art",
+      "normalized_name": "BA in Visual Art",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Science",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "BA in Visual Art",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--ba-in-visual-art-ug-degree-may-be-exempt",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BA in Visual Art UG degree may be exempt –",
+      "normalized_name": "BA in Visual Art UG degree may be exempt –",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Science",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "BA in Visual Art UG degree may be exempt –",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bachelor-of-biokinetics",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Bachelor of Biokinetics",
+      "normalized_name": "Bachelor of Biokinetics",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Education. Thus for both the NASCA and SC(a) for",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Biokinetics (4 years)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bachelor-of-environmental-health",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Bachelor of Environmental Health",
+      "normalized_name": "Bachelor of Environmental Health",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Education. Thus for both the NASCA and SC(a) for",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Environmental Health (4 years)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bachelor-of-health-sciences",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Bachelor of Health Sciences",
+      "normalized_name": "Bachelor of Health Sciences",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Education. Thus for both the NASCA and SC(a) for",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Health Sciences (4 years)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bachelor-of-health-sciences-degree",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Bachelor of Health Sciences Degree",
+      "normalized_name": "Bachelor of Health Sciences Degree",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Education. Thus for both the NASCA and SC(a) for",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Health Sciences Degree (3 years)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bachelor-of-human-resource",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BACHELOR OF HUMAN RESOURCE",
+      "normalized_name": "BACHELOR OF HUMAN RESOURCE",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "BACHELOR OF HUMAN RESOURCE",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bachelor-of-mine-surveying-degree",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Bachelor of Mine Surveying Degree",
+      "normalized_name": "Bachelor of Mine Surveying Degree",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Education. Thus for both the NASCA and SC(a) for",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Mine Surveying Degree (3 years)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bachelor-of-optometry",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Bachelor of Optometry",
+      "normalized_name": "Bachelor of Optometry",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Education. Thus for both the NASCA and SC(a) for",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Optometry (4 years)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bachelor-of-social-work",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Bachelor of Social Work",
+      "normalized_name": "Bachelor of Social Work",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Education. Thus for both the NASCA and SC(a) for",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Social Work (4 years)",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bachelor-of-urban-and-regional-planning-degree",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Bachelor of Urban and Regional Planning Degree",
+      "normalized_name": "Bachelor of Urban and Regional Planning Degree",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Education. Thus for both the NASCA and SC(a) for",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Urban and Regional Planning Degree (3 years)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bcom-accountancy",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BCom (Accountancy)",
+      "normalized_name": "BCom (Accountancy)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "BCom (Accountancy)",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bcom-accounting",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BCom (Accounting)",
+      "normalized_name": "BCom (Accounting)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "BCom (Accounting)",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bcom-law",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BCom (Law)",
+      "normalized_name": "BCom (Law)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Education. Thus for both the NASCA and SC(a) for",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "BCom (Law)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bcom-degree",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BCom Degree",
+      "normalized_name": "BCom Degree",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Tourism and Hospitality",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Commerce Degree (3 years)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bcom-degree-3-y-ears",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BCom Degree (3 Y ears)",
+      "normalized_name": "BCom Degree (3 Y ears)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Commerce Degree (3 Y ears)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bcom-extended-degree",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BCom Extended Degree",
+      "normalized_name": "BCom Extended Degree",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Tourism and Hospitality",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Commerce Extended Degree (4 years)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bcom-in-accountancy",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BCom IN ACCOUNTANCY",
+      "normalized_name": "BCom IN ACCOUNTANCY",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "BACHELOR OF COMMERCE IN",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bcom-in-accountancy-will-be",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BCom in Accountancy, will be",
+      "normalized_name": "BCom in Accountancy, will be",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "BCom in Accountancy, will be",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bed-degrees",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BEd degrees).",
+      "normalized_name": "BEd degrees).",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Education degrees).",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bed-in-foundation-phase-teaching-grades-r-3",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BEd in Foundation Phase Teaching (Grades R-3)",
+      "normalized_name": "BEd in Foundation Phase Teaching (Grades R-3)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "BEd in Foundation Phase Teaching (Grades R-3)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bed-in-intermediate-phase-teaching-grades-4-7",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BEd in Intermediate Phase Teaching (Grades 4-7)",
+      "normalized_name": "BEd in Intermediate Phase Teaching (Grades 4-7)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "BEd in Intermediate Phase Teaching (Grades 4-7)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bed-in-senior-phase-and-fet-teaching-grades-8-12",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BEd in Senior Phase and FET Teaching (Grades 8-12)",
+      "normalized_name": "BEd in Senior Phase and FET Teaching (Grades 8-12)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "BEd in Senior Phase and FET Teaching (Grades 8-12)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--beng-beng-degree",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BEng (BEng) Degree",
+      "normalized_name": "BEng (BEng) Degree",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Education. Thus for both the NASCA and SC(a) for",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Engineering (BEng) Degree (4 years)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--beng-technology-bengtech-degree-programmes",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BEng Technology (BEngTech) Degree Programmes",
+      "normalized_name": "BEng Technology (BEngTech) Degree Programmes",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Education. Thus for both the NASCA and SC(a) for",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Engineering Technology (BEngTech) Degree Programmes (3 years)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bnurs",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BNurs",
+      "normalized_name": "BNurs",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Education. Thus for both the NASCA and SC(a) for",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Nursing (4 years)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bsc-in-construction-bsc-degree",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BSc in Construction (BSc) Degree",
+      "normalized_name": "BSc in Construction (BSc) Degree",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Education. Thus for both the NASCA and SC(a) for",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Science in Construction (BSc) Degree (3 years)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bsc-in-construction-bsc-degree-programme",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BSc in Construction (BSc) Degree Programme",
+      "normalized_name": "BSc in Construction (BSc) Degree Programme",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Education. Thus for both the NASCA and SC(a) for",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Science in Construction (BSc) Degree Programme",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bsc-in-information-technology",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BSc in Information Technology",
+      "normalized_name": "BSc in Information Technology",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Education. Thus for both the NASCA and SC(a) for",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Science in Information Technology (3 years)",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bsc-in-information-technology-extended",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BSc in Information Technology (Extended)",
+      "normalized_name": "BSc in Information Technology (Extended)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Science",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Science in Information Technology (Extended)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bsc-in-life-and-environmental-sciences",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BSc in Life and Environmental Sciences",
+      "normalized_name": "BSc in Life and Environmental Sciences",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Science",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Science in Life and Environmental Sciences (3 years)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bsc-in-life-and-environmental-sciences-extended",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BSc in Life and Environmental Sciences (Extended)",
+      "normalized_name": "BSc in Life and Environmental Sciences (Extended)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Science",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Science in Life and Environmental Sciences (Extended)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bsc-in-mathematical-sciences",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BSc in Mathematical Sciences",
+      "normalized_name": "BSc in Mathematical Sciences",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Science",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Science in Mathematical Sciences (3 years)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bsc-in-mathematical-sciences-extended",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BSc in Mathematical Sciences (Extended)",
+      "normalized_name": "BSc in Mathematical Sciences (Extended)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Science",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Science in Mathematical Sciences (Extended)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bsc-in-physical-sciences",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BSc in Physical Sciences",
+      "normalized_name": "BSc in Physical Sciences",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Science",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Science in Physical Sciences (3 years)",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bsc-in-physical-sciences-extended",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BSc in Physical Sciences (Extended)",
+      "normalized_name": "BSc in Physical Sciences (Extended)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Science",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Science in Physical Sciences (Extended)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--diploma-in-accounting-science",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Diploma in Accounting Science.",
+      "normalized_name": "Diploma in Accounting Science.",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "Tourism and Hospitality",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Diploma in Accounting Science.",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--diploma-in-accounting-science-however-students-who-complete-the-bachelors-of-commerce-in",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Diploma in Accounting Science. However, students who complete the Bachelors of Commerce in",
+      "normalized_name": "Diploma in Accounting Science. However, students who complete the Bachelors of Commerce in",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "Tourism and Hospitality",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Diploma in Accounting Science. However, students who complete the Bachelors of Commerce in",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--diploma-in-architecture",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Diploma in Architecture",
+      "normalized_name": "Diploma in Architecture",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "Science",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Diploma in Architecture",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--diploma-in-business-information-technology-an-achievement-of-at-least-70-in-mathematics-and-80-in-mathematic-literacy-taken-as-fundamental-subject",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Diploma in Business Information Technology: an achievement of at least 70% in Mathematics and 80% in Mathematic Literacy taken as fundamental subject.",
+      "normalized_name": "Diploma in Business Information Technology: an achievement of at least 70% in Mathematics and 80% in Mathematic Literacy taken as fundamental subject.",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "Education. Thus for both the NASCA and SC(a) for",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Diploma in Business Information Technology: an achievement of at least 70% in Mathematics and 80% in",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--diploma-in-cbe-provided-that",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Diploma in CBE provided that:",
+      "normalized_name": "Diploma in CBE provided that:",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": 5,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Diploma in CBE provided that:",
+      "extraction_confidence": 0.91,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--diploma-in-fada-provided-that",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Diploma in FADA provided that:",
+      "normalized_name": "Diploma in FADA provided that:",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "Science",
+      "campus": null,
+      "min_aps": 5,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Diploma in FADA provided that:",
+      "extraction_confidence": 0.91,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--diploma-in-fashion-production",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Diploma in Fashion Production",
+      "normalized_name": "Diploma in Fashion Production",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "Science",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Diploma in Fashion Production",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--diploma-in-jewellery-design-and-manufacture",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Diploma in Jewellery Design and Manufacture",
+      "normalized_name": "Diploma in Jewellery Design and Manufacture",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "Science",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Diploma in Jewellery Design and Manufacture",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--diploma-in-marketing-or-retail-business-management-provided-that-they",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "diploma in Marketing or Retail Business Management provided that they:",
+      "normalized_name": "diploma in Marketing or Retail Business Management provided that they:",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "diploma in Marketing or Retail Business Management provided that they:",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--diploma-in-public-relations-and-communication",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "DIPLOMA IN PUBLIC RELATIONS AND COMMUNICATION",
+      "normalized_name": "DIPLOMA IN PUBLIC RELATIONS AND COMMUNICATION",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "Education. Thus for both the NASCA and SC(a) for",
+      "campus": null,
+      "min_aps": 24,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "DIPLOMA IN PUBLIC RELATIONS AND COMMUNICATION",
+      "extraction_confidence": 0.83,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--diploma-in-public-relations-and-communication-extended",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Diploma in Public Relations and Communication (Extended).",
+      "normalized_name": "Diploma in Public Relations and Communication (Extended).",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "Education. Thus for both the NASCA and SC(a) for",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Diploma in Public Relations and Communication (Extended).",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--diploma-in-public-relations-and-communication-and-diploma-in-public",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Diploma in Public Relations and Communication and Diploma in Public",
+      "normalized_name": "Diploma in Public Relations and Communication and Diploma in Public",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "Education. Thus for both the NASCA and SC(a) for",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Diploma in Public Relations and Communication and Diploma in Public",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--diploma-in-public-relations-and-communication-and-diploma-in-public-relations-and-communication-extended",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Diploma in Public Relations and Communication and Diploma in Public Relations and Communication (Extended).",
+      "normalized_name": "Diploma in Public Relations and Communication and Diploma in Public Relations and Communication (Extended).",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "Education. Thus for both the NASCA and SC(a) for",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Diploma in Public Relations and",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--diploma-in-retail-business-management",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Diploma in Retail Business Management.",
+      "normalized_name": "Diploma in Retail Business Management.",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Diploma in Retail Business Management.",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--honours-programme-which-one-can-pursue-upon-completion",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Honours programme which one can pursue upon completion",
+      "normalized_name": "Honours programme which one can pursue upon completion",
+      "qualification_type": "Honours",
+      "qualification_level": null,
+      "faculty_name": "Education. Thus for both the NASCA and SC(a) for",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Honours programme which one can pursue upon completion",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--master-of-health-sciences-in-chiropractic-to-comply-with",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Master of Health Sciences in Chiropractic to comply with",
+      "normalized_name": "Master of Health Sciences in Chiropractic to comply with",
+      "qualification_type": "Masters",
+      "qualification_level": null,
+      "faculty_name": "Education. Thus for both the NASCA and SC(a) for",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Master of Health Sciences in Chiropractic to comply with",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--master-of-health-sciences-in-complementary-medicine-to-comply-with",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "master of Health Sciences in Complementary Medicine to comply with",
+      "normalized_name": "master of Health Sciences in Complementary Medicine to comply with",
+      "qualification_type": "Masters",
+      "qualification_level": null,
+      "faculty_name": "Education. Thus for both the NASCA and SC(a) for",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "master of Health Sciences in Complementary Medicine to comply with",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--national-diploma",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "National Diploma",
+      "normalized_name": "National Diploma",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "Science",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "National Diploma",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    }
+  ],
+  "programmes_all": [
+    {
+      "id": "programme:university-of-johannesburg--ba",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BA",
+      "normalized_name": "BA",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Education. Thus for both the NASCA and SC(a) for",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Arts (3 years)",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--ba-communication-design",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BA (COMMUNICATION DESIGN)",
+      "normalized_name": "BA (COMMUNICATION DESIGN)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Science",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "BA (COMMUNICATION DESIGN)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--ba-digital-media-design",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BA (DIGITAL MEDIA DESIGN)",
+      "normalized_name": "BA (DIGITAL MEDIA DESIGN)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Science",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "BA (DIGITAL MEDIA DESIGN)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--ba-extended",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BA (Extended)",
+      "normalized_name": "BA (Extended)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Education. Thus for both the NASCA and SC(a) for",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "BA (Extended)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--ba-fashion-design",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BA (FASHION DESIGN)",
+      "normalized_name": "BA (FASHION DESIGN)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Science",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "BA (FASHION DESIGN)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--ba-industrial-design",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BA (INDUSTRIAL DESIGN)",
+      "normalized_name": "BA (INDUSTRIAL DESIGN)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Science",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "BA (INDUSTRIAL DESIGN)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--ba-interior-design",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BA (INTERIOR DESIGN)",
+      "normalized_name": "BA (INTERIOR DESIGN)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Science",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "BA (INTERIOR DESIGN)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--ba-law",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BA (Law)",
+      "normalized_name": "BA (Law)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Education. Thus for both the NASCA and SC(a) for",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "BA (Law)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--ba-visual-art",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BA (VISUAL ART)",
+      "normalized_name": "BA (VISUAL ART)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Science",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "BA (VISUAL ART)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--ba-degree",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BA Degree",
+      "normalized_name": "BA Degree",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Tourism and Hospitality",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Arts Degree (3 years)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--ba-in-visual-art",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BA in Visual Art",
+      "normalized_name": "BA in Visual Art",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Science",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "BA in Visual Art",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--ba-in-visual-art-ug-degree-may-be-exempt",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BA in Visual Art UG degree may be exempt –",
+      "normalized_name": "BA in Visual Art UG degree may be exempt –",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Science",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "BA in Visual Art UG degree may be exempt –",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bachelor-of-biokinetics",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Bachelor of Biokinetics",
+      "normalized_name": "Bachelor of Biokinetics",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Education. Thus for both the NASCA and SC(a) for",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Biokinetics (4 years)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bachelor-of-environmental-health",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Bachelor of Environmental Health",
+      "normalized_name": "Bachelor of Environmental Health",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Education. Thus for both the NASCA and SC(a) for",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Environmental Health (4 years)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bachelor-of-health-sciences",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Bachelor of Health Sciences",
+      "normalized_name": "Bachelor of Health Sciences",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Education. Thus for both the NASCA and SC(a) for",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Health Sciences (4 years)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bachelor-of-health-sciences-degree",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Bachelor of Health Sciences Degree",
+      "normalized_name": "Bachelor of Health Sciences Degree",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Education. Thus for both the NASCA and SC(a) for",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Health Sciences Degree (3 years)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bachelor-of-human-resource",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BACHELOR OF HUMAN RESOURCE",
+      "normalized_name": "BACHELOR OF HUMAN RESOURCE",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "BACHELOR OF HUMAN RESOURCE",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bachelor-of-mine-surveying-degree",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Bachelor of Mine Surveying Degree",
+      "normalized_name": "Bachelor of Mine Surveying Degree",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Education. Thus for both the NASCA and SC(a) for",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Mine Surveying Degree (3 years)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bachelor-of-optometry",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Bachelor of Optometry",
+      "normalized_name": "Bachelor of Optometry",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Education. Thus for both the NASCA and SC(a) for",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Optometry (4 years)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bachelor-of-social-work",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Bachelor of Social Work",
+      "normalized_name": "Bachelor of Social Work",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Education. Thus for both the NASCA and SC(a) for",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Social Work (4 years)",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bachelor-of-urban-and-regional-planning-degree",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Bachelor of Urban and Regional Planning Degree",
+      "normalized_name": "Bachelor of Urban and Regional Planning Degree",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Education. Thus for both the NASCA and SC(a) for",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Urban and Regional Planning Degree (3 years)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bcom-accountancy",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BCom (Accountancy)",
+      "normalized_name": "BCom (Accountancy)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "BCom (Accountancy)",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bcom-accounting",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BCom (Accounting)",
+      "normalized_name": "BCom (Accounting)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "BCom (Accounting)",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bcom-law",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BCom (Law)",
+      "normalized_name": "BCom (Law)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Education. Thus for both the NASCA and SC(a) for",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "BCom (Law)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bcom-degree",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BCom Degree",
+      "normalized_name": "BCom Degree",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Tourism and Hospitality",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Commerce Degree (3 years)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bcom-degree-3-y-ears",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BCom Degree (3 Y ears)",
+      "normalized_name": "BCom Degree (3 Y ears)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Commerce Degree (3 Y ears)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bcom-extended-degree",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BCom Extended Degree",
+      "normalized_name": "BCom Extended Degree",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Tourism and Hospitality",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Commerce Extended Degree (4 years)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bcom-in-accountancy",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BCom IN ACCOUNTANCY",
+      "normalized_name": "BCom IN ACCOUNTANCY",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "BACHELOR OF COMMERCE IN",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bcom-in-accountancy-will-be",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BCom in Accountancy, will be",
+      "normalized_name": "BCom in Accountancy, will be",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "BCom in Accountancy, will be",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bed-degrees",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BEd degrees).",
+      "normalized_name": "BEd degrees).",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Education degrees).",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bed-in-foundation-phase-teaching-grades-r-3",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BEd in Foundation Phase Teaching (Grades R-3)",
+      "normalized_name": "BEd in Foundation Phase Teaching (Grades R-3)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "BEd in Foundation Phase Teaching (Grades R-3)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bed-in-intermediate-phase-teaching-grades-4-7",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BEd in Intermediate Phase Teaching (Grades 4-7)",
+      "normalized_name": "BEd in Intermediate Phase Teaching (Grades 4-7)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "BEd in Intermediate Phase Teaching (Grades 4-7)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bed-in-senior-phase-and-fet-teaching-grades-8-12",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BEd in Senior Phase and FET Teaching (Grades 8-12)",
+      "normalized_name": "BEd in Senior Phase and FET Teaching (Grades 8-12)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "BEd in Senior Phase and FET Teaching (Grades 8-12)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--beng-beng-degree",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BEng (BEng) Degree",
+      "normalized_name": "BEng (BEng) Degree",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Education. Thus for both the NASCA and SC(a) for",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Engineering (BEng) Degree (4 years)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--beng-technology-bengtech-degree-programmes",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BEng Technology (BEngTech) Degree Programmes",
+      "normalized_name": "BEng Technology (BEngTech) Degree Programmes",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Education. Thus for both the NASCA and SC(a) for",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Engineering Technology (BEngTech) Degree Programmes (3 years)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bnurs",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BNurs",
+      "normalized_name": "BNurs",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Education. Thus for both the NASCA and SC(a) for",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Nursing (4 years)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bsc-in-construction-bsc-degree",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BSc in Construction (BSc) Degree",
+      "normalized_name": "BSc in Construction (BSc) Degree",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Education. Thus for both the NASCA and SC(a) for",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Science in Construction (BSc) Degree (3 years)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bsc-in-construction-bsc-degree-programme",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BSc in Construction (BSc) Degree Programme",
+      "normalized_name": "BSc in Construction (BSc) Degree Programme",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Education. Thus for both the NASCA and SC(a) for",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Science in Construction (BSc) Degree Programme",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bsc-in-information-technology",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BSc in Information Technology",
+      "normalized_name": "BSc in Information Technology",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Education. Thus for both the NASCA and SC(a) for",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Science in Information Technology (3 years)",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bsc-in-information-technology-extended",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BSc in Information Technology (Extended)",
+      "normalized_name": "BSc in Information Technology (Extended)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Science",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Science in Information Technology (Extended)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bsc-in-life-and-environmental-sciences",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BSc in Life and Environmental Sciences",
+      "normalized_name": "BSc in Life and Environmental Sciences",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Science",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Science in Life and Environmental Sciences (3 years)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bsc-in-life-and-environmental-sciences-extended",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BSc in Life and Environmental Sciences (Extended)",
+      "normalized_name": "BSc in Life and Environmental Sciences (Extended)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Science",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Science in Life and Environmental Sciences (Extended)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bsc-in-mathematical-sciences",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BSc in Mathematical Sciences",
+      "normalized_name": "BSc in Mathematical Sciences",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Science",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Science in Mathematical Sciences (3 years)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bsc-in-mathematical-sciences-extended",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BSc in Mathematical Sciences (Extended)",
+      "normalized_name": "BSc in Mathematical Sciences (Extended)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Science",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Science in Mathematical Sciences (Extended)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bsc-in-physical-sciences",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BSc in Physical Sciences",
+      "normalized_name": "BSc in Physical Sciences",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Science",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Science in Physical Sciences (3 years)",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--bsc-in-physical-sciences-extended",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "BSc in Physical Sciences (Extended)",
+      "normalized_name": "BSc in Physical Sciences (Extended)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "Science",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Science in Physical Sciences (Extended)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--diploma-in-accounting-science",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Diploma in Accounting Science.",
+      "normalized_name": "Diploma in Accounting Science.",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "Tourism and Hospitality",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Diploma in Accounting Science.",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--diploma-in-accounting-science-however-students-who-complete-the-bachelors-of-commerce-in",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Diploma in Accounting Science. However, students who complete the Bachelors of Commerce in",
+      "normalized_name": "Diploma in Accounting Science. However, students who complete the Bachelors of Commerce in",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "Tourism and Hospitality",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Diploma in Accounting Science. However, students who complete the Bachelors of Commerce in",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--diploma-in-architecture",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Diploma in Architecture",
+      "normalized_name": "Diploma in Architecture",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "Science",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Diploma in Architecture",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--diploma-in-business-information-technology-an-achievement-of-at-least-70-in-mathematics-and-80-in-mathematic-literacy-taken-as-fundamental-subject",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Diploma in Business Information Technology: an achievement of at least 70% in Mathematics and 80% in Mathematic Literacy taken as fundamental subject.",
+      "normalized_name": "Diploma in Business Information Technology: an achievement of at least 70% in Mathematics and 80% in Mathematic Literacy taken as fundamental subject.",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "Education. Thus for both the NASCA and SC(a) for",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Diploma in Business Information Technology: an achievement of at least 70% in Mathematics and 80% in",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--diploma-in-cbe-provided-that",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Diploma in CBE provided that:",
+      "normalized_name": "Diploma in CBE provided that:",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": 5,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Diploma in CBE provided that:",
+      "extraction_confidence": 0.91,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--diploma-in-fada-provided-that",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Diploma in FADA provided that:",
+      "normalized_name": "Diploma in FADA provided that:",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "Science",
+      "campus": null,
+      "min_aps": 5,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Diploma in FADA provided that:",
+      "extraction_confidence": 0.91,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--diploma-in-fashion-production",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Diploma in Fashion Production",
+      "normalized_name": "Diploma in Fashion Production",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "Science",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Diploma in Fashion Production",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--diploma-in-jewellery-design-and-manufacture",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Diploma in Jewellery Design and Manufacture",
+      "normalized_name": "Diploma in Jewellery Design and Manufacture",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "Science",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Diploma in Jewellery Design and Manufacture",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--diploma-in-marketing-or-retail-business-management-provided-that-they",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "diploma in Marketing or Retail Business Management provided that they:",
+      "normalized_name": "diploma in Marketing or Retail Business Management provided that they:",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "diploma in Marketing or Retail Business Management provided that they:",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--diploma-in-public-relations-and-communication",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "DIPLOMA IN PUBLIC RELATIONS AND COMMUNICATION",
+      "normalized_name": "DIPLOMA IN PUBLIC RELATIONS AND COMMUNICATION",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "Education. Thus for both the NASCA and SC(a) for",
+      "campus": null,
+      "min_aps": 24,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "DIPLOMA IN PUBLIC RELATIONS AND COMMUNICATION",
+      "extraction_confidence": 0.83,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--diploma-in-public-relations-and-communication-extended",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Diploma in Public Relations and Communication (Extended).",
+      "normalized_name": "Diploma in Public Relations and Communication (Extended).",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "Education. Thus for both the NASCA and SC(a) for",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Diploma in Public Relations and Communication (Extended).",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--diploma-in-public-relations-and-communication-and-diploma-in-public",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Diploma in Public Relations and Communication and Diploma in Public",
+      "normalized_name": "Diploma in Public Relations and Communication and Diploma in Public",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "Education. Thus for both the NASCA and SC(a) for",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Diploma in Public Relations and Communication and Diploma in Public",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--diploma-in-public-relations-and-communication-and-diploma-in-public-relations-and-communication-extended",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Diploma in Public Relations and Communication and Diploma in Public Relations and Communication (Extended).",
+      "normalized_name": "Diploma in Public Relations and Communication and Diploma in Public Relations and Communication (Extended).",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "Education. Thus for both the NASCA and SC(a) for",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Diploma in Public Relations and",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--diploma-in-retail-business-management",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Diploma in Retail Business Management.",
+      "normalized_name": "Diploma in Retail Business Management.",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Diploma in Retail Business Management.",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--honours-programme-which-one-can-pursue-upon-completion",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Honours programme which one can pursue upon completion",
+      "normalized_name": "Honours programme which one can pursue upon completion",
+      "qualification_type": "Honours",
+      "qualification_level": null,
+      "faculty_name": "Education. Thus for both the NASCA and SC(a) for",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Honours programme which one can pursue upon completion",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--master-of-health-sciences-in-chiropractic-to-comply-with",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "Master of Health Sciences in Chiropractic to comply with",
+      "normalized_name": "Master of Health Sciences in Chiropractic to comply with",
+      "qualification_type": "Masters",
+      "qualification_level": null,
+      "faculty_name": "Education. Thus for both the NASCA and SC(a) for",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Master of Health Sciences in Chiropractic to comply with",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--master-of-health-sciences-in-complementary-medicine-to-comply-with",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "master of Health Sciences in Complementary Medicine to comply with",
+      "normalized_name": "master of Health Sciences in Complementary Medicine to comply with",
+      "qualification_type": "Masters",
+      "qualification_level": null,
+      "faculty_name": "Education. Thus for both the NASCA and SC(a) for",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "master of Health Sciences in Complementary Medicine to comply with",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:university-of-johannesburg--national-diploma",
+      "institution_slug": "university-of-johannesburg",
+      "institution_name": "University of Johannesburg",
+      "name": "National Diploma",
+      "normalized_name": "National Diploma",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "Science",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "National Diploma",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    }
+  ],
+  "counts": {
+    "campuses": 4,
+    "faculties_best": 12,
+    "faculties_all": 12,
+    "programmes_best": 64,
+    "programmes_all": 64
+  }
+}

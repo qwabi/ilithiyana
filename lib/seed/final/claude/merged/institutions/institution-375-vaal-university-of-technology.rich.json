@@ -1,0 +1,200 @@
+{
+  "meta": {
+    "institution_id": "375",
+    "slug": "vaal-university-of-technology",
+    "name": "Vaal University of Technology",
+    "institution_type": "university-of-technology",
+    "province": "Gauteng",
+    "city": "Vanderbijlpark",
+    "official_website": "https://vut.ac.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/375/vaal-university-of-technology",
+    "application_url": "https://vut.ac.za/how-to-apply/",
+    "prospectus_url": null,
+    "nsfas_supported": null,
+    "distance_learning": null,
+    "accreditation": {
+      "dh et": "Accredited",
+      "saqa": "Registered"
+    },
+    "qualification_types": [
+      "National Diploma",
+      "BTech",
+      "Advanced Diploma",
+      "Postgraduate"
+    ]
+  },
+  "profile": {
+    "short_name": "VUT",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/f/f2/Vaal_University_of_Technology_logo.png",
+    "motto": "Inspiring thought, Shaping Talent",
+    "colors": [
+      "Sapphire",
+      "Gold",
+      "Dandelion"
+    ],
+    "languages": [
+      "English"
+    ],
+    "student_count": 19000,
+    "sports": [
+      "Athletics",
+      "Basketball",
+      "Beach Volleyball",
+      "Cricket",
+      "Men's football",
+      "Women's football",
+      "Field hockey",
+      "Netball",
+      "Rugby union",
+      "Rugby sevens",
+      "Mountain biking"
+    ]
+  },
+  "contact": {
+    "emails": [
+      "studentenquiries@vut.ac.za"
+    ],
+    "phone_numbers": [
+      "016 950 9111",
+      "016 950 9000"
+    ],
+    "physical_address": "Andries Potgieter Boulevard, Vanderbijlpark",
+    "postal_address": "Private Bag X021, Vanderbijlpark, 1990",
+    "socials": {
+      "facebook": "https://www.facebook.com/people/Vaal-University-of-Technology/61570177062858/",
+      "instagram": "https://www.instagram.com/vaal.university.of.technology/?hl=en",
+      "linkedin": "https://www.linkedin.com/company/vaal-university-of-technology-vut/",
+      "x": "https://twitter.com/VUT_Online/",
+      "youtube": "https://www.youtube.com/channel/UCDzwOVrN1e25VLkWkwf-hzw"
+    }
+  },
+  "campuses": [
+    {
+      "name": "Vanderbijlpark",
+      "city": "Vanderbijlpark",
+      "province": "Gauteng",
+      "is_main": null,
+      "type": null,
+      "address": null,
+      "coordinates": {
+        "lat": null,
+        "lng": null
+      },
+      "contact": null
+    },
+    {
+      "name": "Educity",
+      "city": "Sebokeng",
+      "province": "Gauteng",
+      "is_main": null,
+      "type": null,
+      "address": null,
+      "coordinates": {
+        "lat": null,
+        "lng": null
+      },
+      "contact": null
+    }
+  ],
+  "faculties": [
+    {
+      "id": null,
+      "name": "Applied and Computer Sciences",
+      "overview": null,
+      "kind": null
+    }
+  ],
+  "programmes": [
+    {
+      "id": "prog:88e67ea15cf6",
+      "name": "Advanced Diploma",
+      "normalized_name": "Advanced Diploma",
+      "qualification_type": "Advanced Diploma",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:1928bbe60714",
+      "name": "National Diploma",
+      "normalized_name": "National Diploma",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:375:Degree|2c3bbd231bb4|btech",
+      "name": "BTech",
+      "normalized_name": null,
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    }
+  ],
+  "admission": {
+    "aps_name": null,
+    "aps_calculation_notes": null,
+    "minimum_aps_for_bachelors": null,
+    "minimum_aps_for_diplomas": null,
+    "minimum_entry_note": null,
+    "life_orientation_cap": null,
+    "aps_rules": [],
+    "programme_requirements": []
+  },
+  "sources": [
+    "enriched_universities.json",
+    "generated/v3/institutions.enriched.json",
+    "institutions.json"
+  ],
+  "_stats": {
+    "campuses_count": 2,
+    "faculties_count": 1,
+    "programmes_count": 3,
+    "aps_rules_count": 0,
+    "adm_reqs_count": 0
+  }
+}

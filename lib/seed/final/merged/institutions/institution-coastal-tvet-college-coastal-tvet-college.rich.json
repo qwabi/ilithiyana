@@ -1,0 +1,146 @@
+{
+  "institution": {
+    "id": "institution:coastal-tvet-college",
+    "slug": "coastal-tvet-college",
+    "institution_id_raw": "327",
+    "name": "Coastal TVET College",
+    "institution_type": "tvet-college",
+    "city": "KwaMakhutha",
+    "province": "KwaZulu-Natal",
+    "official_website": "http://www.coastalkzn.co.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/327/coastal-tvet-college",
+    "source_paths": [
+      "generated/v3/institutions.enriched.json",
+      "institutions.json",
+      "result.json",
+      "workik/batch1/cursor/institution-327-coastal-tvet-college.json"
+    ],
+    "profile": {
+      "sector": "higher education",
+      "province": "KwaZulu-Natal",
+      "city": "KwaMakhutha",
+      "physical_address": "50051 Mfundi Mngadi Drive, KwaMakhutha",
+      "postal_address": "PO Box 1795, Amanzimtoti, 4126",
+      "contact_emails": [
+        "enquiries.coastal@kzntvet.edu.za",
+        "info.coastal@kzntvet.edu.za"
+      ],
+      "contact_phone_numbers": [
+        "073368 5115",
+        "031 002 7655",
+        "031 905 7000/1",
+        "031002 7650",
+        "031002 7654",
+        "031002 7648",
+        "031002 7653",
+        "031002 7652",
+        "031002 7649",
+        "031462 8776",
+        "031023 0975",
+        "031023 0283"
+      ],
+      "socials": {
+        "facebook": "https://www.facebook.com/pages/Coastal-KZN-FET-College/292754094263392",
+        "instagram": "",
+        "linkedin": "",
+        "x": "https://twitter.com/CoastalKzn/",
+        "youtube": ""
+      },
+      "accreditation": {
+        "dh et": "Accredited",
+        "saqa": null
+      },
+      "sources": [
+        "https://nationalgovernment.co.za/units/view/327/coastal-tvet-college",
+        "http://www.coastalkzn.co.za/"
+      ],
+      "qualification_types": [
+        "NC(V)",
+        "Nated (Report 191)",
+        "Skills Programmes",
+        "Apprenticeships"
+      ],
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [
+    {
+      "id": "programme:coastal-tvet-college--report-191",
+      "institution_slug": "coastal-tvet-college",
+      "institution_name": "Coastal TVET College",
+      "name": "Report 191",
+      "normalized_name": "Report 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Report 191",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-327-coastal-tvet-college.json"
+      ]
+    }
+  ],
+  "programmes_all": [
+    {
+      "id": "programme:coastal-tvet-college--report-191",
+      "institution_slug": "coastal-tvet-college",
+      "institution_name": "Coastal TVET College",
+      "name": "Report 191",
+      "normalized_name": "Report 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Report 191",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-327-coastal-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:coastal-tvet-college--report-191",
+      "institution_slug": "coastal-tvet-college",
+      "institution_name": "Coastal TVET College",
+      "name": "Report 191",
+      "normalized_name": "Report 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Report 191",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-327-coastal-tvet-college.json"
+      ]
+    }
+  ],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 1,
+    "programmes_all": 2
+  }
+}

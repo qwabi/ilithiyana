@@ -1,0 +1,1537 @@
+{
+  "institution": {
+    "institution_id": "wsu",
+    "name": "Walter Sisulu University",
+    "institution_type": "university-of-technology",
+    "city": null,
+    "province": null,
+    "official_website": null,
+    "detail_source": null,
+    "source_paths": [
+      "enriched_universities.json",
+      "workik/batch1/online/wsu.json",
+      "workik/batch1/online/wsu2.json",
+      "workik/batch1/online/wsu3.json"
+    ],
+    "profile": {
+      "short_name": "WSU",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/5/56/Walter_Sisulu_University_logo.png",
+      "colors": [
+        "Black",
+        "White"
+      ],
+      "motto": "In pursuit of excellence",
+      "type": "Comprehensive University",
+      "languages": [],
+      "student_estimate": 31500,
+      "nickname": "WSU",
+      "sports_affiliations": []
+    }
+  },
+  "campuses": [
+    {
+      "id": "camp:81100bead7940df5",
+      "institution_id": "wsu",
+      "name": "Mthatha",
+      "city": "Mthatha",
+      "province": "Eastern Cape",
+      "is_main": true,
+      "source_paths": [
+        "enriched_universities.json",
+        "workik/batch1/online/wsu.json",
+        "workik/batch1/online/wsu3.json"
+      ]
+    },
+    {
+      "id": "camp:63efd1e79c2f713d",
+      "institution_id": "wsu",
+      "name": "Buffalo City",
+      "city": "East London",
+      "province": "Eastern Cape",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json",
+        "workik/batch1/online/wsu.json",
+        "workik/batch1/online/wsu3.json"
+      ]
+    },
+    {
+      "id": "camp:1b9d35294200326e",
+      "institution_id": "wsu",
+      "name": "Butterworth",
+      "city": "Butterworth",
+      "province": "Eastern Cape",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json",
+        "workik/batch1/online/wsu.json",
+        "workik/batch1/online/wsu3.json"
+      ]
+    },
+    {
+      "id": "camp:166dc28de0bdae09",
+      "institution_id": "wsu",
+      "name": "Komani",
+      "city": "Queenstown",
+      "province": "Eastern Cape",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json",
+        "workik/batch1/online/wsu.json",
+        "workik/batch1/online/wsu3.json"
+      ]
+    }
+  ],
+  "faculties_best": [
+    {
+      "id": "fac:347e69969319c23d",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "Economic & Financial Sciences",
+      "kind": null,
+      "overview": "Focuses on accounting, auditing, and management accounting (SAICA accredited).",
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/wsu2.json"
+      ]
+    },
+    {
+      "id": "fac:8df5e0d865642dbb",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "Engineering, Built Environment & IT",
+      "kind": null,
+      "overview": "Offers diplomas and advanced diplomas in core engineering and ICT fields.",
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/wsu2.json"
+      ]
+    },
+    {
+      "id": "fac:e1f1a2cc4100aafb",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "Education",
+      "kind": null,
+      "overview": "The largest faculty, preparing teachers for Foundation to FET phases.",
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/wsu2.json"
+      ]
+    },
+    {
+      "id": "fac:ecb6ff55c6f7b0c9",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "Law, Humanities & Social Sciences",
+      "kind": null,
+      "overview": "Covers Law (LLB), Social Work, Psychology, and Visual Arts.",
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/wsu2.json"
+      ]
+    },
+    {
+      "id": "fac:ed311dd6ccca697e",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "Medicine & Health Sciences",
+      "kind": null,
+      "overview": "Offers MBChB, Nursing, and Medical Orthotics.",
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/wsu2.json"
+      ]
+    },
+    {
+      "id": "fac:38c478324830bd2a",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "Management and Public Administration Sciences",
+      "kind": null,
+      "overview": "Located in Butterworth; focuses on Public Admin and Business Management.",
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/wsu3.json"
+      ]
+    },
+    {
+      "id": "fac:c2f224add202d1a5",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "Natural Sciences",
+      "kind": null,
+      "overview": "Offers 27 programmes across Mthatha and Buffalo City sites.",
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/wsu3.json"
+      ]
+    }
+  ],
+  "faculties_all": [
+    {
+      "id": "fac:347e69969319c23d",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "Economic & Financial Sciences",
+      "kind": null,
+      "overview": "Focuses on accounting, auditing, and management accounting (SAICA accredited).",
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/wsu2.json"
+      ]
+    },
+    {
+      "id": "fac:8df5e0d865642dbb",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "Engineering, Built Environment & IT",
+      "kind": null,
+      "overview": "Offers diplomas and advanced diplomas in core engineering and ICT fields.",
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/wsu2.json"
+      ]
+    },
+    {
+      "id": "fac:e1f1a2cc4100aafb",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "Education",
+      "kind": null,
+      "overview": "The largest faculty, preparing teachers for Foundation to FET phases.",
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/wsu2.json"
+      ]
+    },
+    {
+      "id": "fac:ecb6ff55c6f7b0c9",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "Law, Humanities & Social Sciences",
+      "kind": null,
+      "overview": "Covers Law (LLB), Social Work, Psychology, and Visual Arts.",
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/wsu2.json"
+      ]
+    },
+    {
+      "id": "fac:ed311dd6ccca697e",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "Medicine & Health Sciences",
+      "kind": null,
+      "overview": "Offers MBChB, Nursing, and Medical Orthotics.",
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/wsu2.json"
+      ]
+    },
+    {
+      "id": "fac:347e69969319c23d",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "Economic & Financial Sciences",
+      "kind": null,
+      "overview": "Situated at Mthatha campus; includes SAICA-accredited accounting programmes.",
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/wsu3.json"
+      ]
+    },
+    {
+      "id": "fac:e1f1a2cc4100aafb",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "Education",
+      "kind": null,
+      "overview": "Largest faculty, located at Komani with Mthatha delivery site.",
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/wsu3.json"
+      ]
+    },
+    {
+      "id": "fac:8df5e0d865642dbb",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "Engineering, Built Environment & IT",
+      "kind": null,
+      "overview": "Located at Buffalo City (BCC) and Butterworth (BTW).",
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/wsu3.json"
+      ]
+    },
+    {
+      "id": "fac:ecb6ff55c6f7b0c9",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "Law, Humanities & Social Sciences",
+      "kind": null,
+      "overview": "Covers Law, Arts, Psychology, and Social Work.",
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/wsu3.json"
+      ]
+    },
+    {
+      "id": "fac:38c478324830bd2a",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "Management and Public Administration Sciences",
+      "kind": null,
+      "overview": "Located in Butterworth; focuses on Public Admin and Business Management.",
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/wsu3.json"
+      ]
+    },
+    {
+      "id": "fac:ed311dd6ccca697e",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "Medicine & Health Sciences",
+      "kind": null,
+      "overview": "Based at Mthatha; includes the School of Medicine.",
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/wsu3.json"
+      ]
+    },
+    {
+      "id": "fac:c2f224add202d1a5",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "Natural Sciences",
+      "kind": null,
+      "overview": "Offers 27 programmes across Mthatha and Buffalo City sites.",
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/wsu3.json"
+      ]
+    }
+  ],
+  "programmes_best": [
+    {
+      "id": "prog:cddfab11bc949986",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "Bachelor of Accounting Science",
+      "normalized_name": "Bachelor of Accounting Science",
+      "qualification_type": "Bachelor",
+      "qualification_level": "NQF 7",
+      "faculty_name": "Faculty of Economic & Financial Sciences",
+      "campus": "Mthatha",
+      "min_aps": 27,
+      "programme_code": "W63009",
+      "saqa_code": "114813",
+      "subjects_compulsory": [
+        {
+          "subject": "English",
+          "minimum_nsc_level": 5,
+          "minimum_percentage": 60,
+          "notes": "5 (60-69%)"
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_nsc_level": 4,
+          "minimum_percentage": 50,
+          "notes": "4 (50-59%)"
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": 0.98,
+      "source_paths": [
+        "workik/batch1/online/wsu.json"
+      ]
+    },
+    {
+      "id": "prog:2c00764f1c1f306e",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "Diploma in Civil Engineering",
+      "normalized_name": "Diploma in Civil Engineering",
+      "qualification_type": "Diploma",
+      "qualification_level": "NQF 6",
+      "faculty_name": "Faculty of Engineering, Built Environment & Information Technology",
+      "campus": "Buffalo City / Butterworth",
+      "min_aps": 24,
+      "programme_code": "W60003",
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "English",
+          "minimum_nsc_level": 4,
+          "minimum_percentage": 50,
+          "notes": "4 (50-59%)"
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_nsc_level": 4,
+          "minimum_percentage": 50,
+          "notes": "4 (50-59%)"
+        },
+        {
+          "subject": "Physical Sciences",
+          "minimum_nsc_level": 4,
+          "minimum_percentage": 50,
+          "notes": "4 (50-59%)"
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": 0.95,
+      "source_paths": [
+        "workik/batch1/online/wsu.json"
+      ]
+    },
+    {
+      "id": "prog:29ad3a29c72e45ad",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "Bachelor of Accounting Science",
+      "normalized_name": "Bachelor of Accounting Science",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": 27,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "English",
+          "minimum_nsc_level": 5
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_nsc_level": 4
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/wsu3.json"
+      ]
+    },
+    {
+      "id": "prog:43180c5ec49cd1ec",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "Diploma in Civil Engineering",
+      "normalized_name": "Diploma in Civil Engineering",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": 24,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "English",
+          "minimum_nsc_level": 4
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_nsc_level": 4
+        },
+        {
+          "subject": "Physical Sciences",
+          "minimum_nsc_level": 4
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/wsu3.json"
+      ]
+    },
+    {
+      "id": "prog:95730920c9210dfe",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "Bachelor of Laws (LLB)",
+      "normalized_name": "Bachelor of Laws (LLB)",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": 26,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "English",
+          "minimum_nsc_level": 5
+        }
+      ],
+      "subject_or_groups": [
+        {
+          "options": [
+            "Mathematics",
+            "Math Literacy"
+          ],
+          "minimum_nsc_level": 3
+        }
+      ],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/wsu3.json"
+      ]
+    },
+    {
+      "id": "prog:8ad14cf3f2c896fa",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "Bachelor of Education (Foundation Phase)",
+      "normalized_name": "Bachelor of Education (Foundation Phase)",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": 24,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/wsu2.json"
+      ]
+    },
+    {
+      "id": "prog:1f0de2f779321ca0",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "Bachelor of Medicine & Bachelor of Surgery (MBChB)",
+      "normalized_name": "Bachelor of Medicine & Bachelor of Surgery (MBChB)",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": 30,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/wsu2.json"
+      ]
+    },
+    {
+      "id": "prog:947ca3834de1a01f",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "Diploma in Information Technology (App Dev)",
+      "normalized_name": "Diploma in Information Technology (App Dev)",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": 22,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/wsu2.json"
+      ]
+    },
+    {
+      "id": "prog:1c40376f630f9732",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "Bachelor of Social Work",
+      "normalized_name": "Bachelor of Social Work",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": 26,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "English",
+          "minimum_nsc_level": 4
+        },
+        {
+          "subject": "African Language",
+          "minimum_nsc_level": 5
+        },
+        {
+          "subject": "Life Sciences",
+          "minimum_nsc_level": 4
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/wsu3.json"
+      ]
+    },
+    {
+      "id": "prog:cf46ee6b889121fe",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "Diploma in Hospitality Management",
+      "normalized_name": "Diploma in Hospitality Management",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": 21,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/wsu2.json"
+      ]
+    },
+    {
+      "id": "prog:52bb280239dbbac5",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "Bachelor of Nursing",
+      "normalized_name": "Bachelor of Nursing",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": 24,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "English",
+          "minimum_nsc_level": 4
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_nsc_level": 4
+        },
+        {
+          "subject": "Physical Sciences",
+          "minimum_nsc_level": 4
+        },
+        {
+          "subject": "Life Sciences",
+          "minimum_nsc_level": 4
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/wsu3.json"
+      ]
+    },
+    {
+      "id": "prog:b7f00b17dbb3a05d",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "BSc in Computer Science",
+      "normalized_name": "BSc in Computer Science",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": 25,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "English",
+          "minimum_nsc_level": 4
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_nsc_level": 5
+        },
+        {
+          "subject": "Physical Sciences",
+          "minimum_nsc_level": 4
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/wsu3.json"
+      ]
+    },
+    {
+      "id": "prog:e1c39bdfcd98727f",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "Bachelor of Education in Foundation Phase Teaching",
+      "normalized_name": "Bachelor of Education in Foundation Phase Teaching",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": 24,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "IsiXhosa HL",
+          "minimum_nsc_level": 4
+        },
+        {
+          "subject": "English FAL",
+          "minimum_nsc_level": 4
+        },
+        {
+          "subject": "Life Orientation",
+          "minimum_nsc_level": 5,
+          "notes": "Counts as a Major here."
+        }
+      ],
+      "subject_or_groups": [
+        {
+          "options": [
+            "Mathematics",
+            "Math Literacy"
+          ],
+          "minimum_nsc_level": 2
+        }
+      ],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/wsu3.json"
+      ]
+    },
+    {
+      "id": "prog:7caf32b7e191a488",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "Bachelor of Medicine and Bachelor of Surgery (MBChB)",
+      "normalized_name": "Bachelor of Medicine and Bachelor of Surgery (MBChB)",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": 30,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "English",
+          "minimum_nsc_level": 5
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_nsc_level": 5
+        },
+        {
+          "subject": "Physical Sciences",
+          "minimum_nsc_level": 5
+        },
+        {
+          "subject": "Life Sciences",
+          "minimum_nsc_level": 5
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/wsu3.json"
+      ]
+    },
+    {
+      "id": "prog:3f6adc1bb8342d2b",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "Diploma in Journalism",
+      "normalized_name": "Diploma in Journalism",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": 21,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "English",
+          "minimum_nsc_level": 5
+        },
+        {
+          "subject": "Another Language",
+          "minimum_nsc_level": 4
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/wsu3.json"
+      ]
+    },
+    {
+      "id": "prog:83d73c50fd4f510d",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "Diploma in Internal Auditing",
+      "normalized_name": "Diploma in Internal Auditing",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": 21,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "English",
+          "minimum_nsc_level": 3
+        }
+      ],
+      "subject_or_groups": [
+        {
+          "options": [
+            "Mathematics",
+            "Accounting"
+          ],
+          "minimum_nsc_level": 3
+        },
+        {
+          "options": [
+            "Math Literacy"
+          ],
+          "minimum_nsc_level": 5
+        }
+      ],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/wsu3.json"
+      ]
+    }
+  ],
+  "programmes_all": [
+    {
+      "id": "prog:cddfab11bc949986",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "Bachelor of Accounting Science",
+      "normalized_name": "Bachelor of Accounting Science",
+      "qualification_type": "Bachelor",
+      "qualification_level": "NQF 7",
+      "faculty_name": "Faculty of Economic & Financial Sciences",
+      "campus": "Mthatha",
+      "min_aps": 27,
+      "programme_code": "W63009",
+      "saqa_code": "114813",
+      "subjects_compulsory": [
+        {
+          "subject": "English",
+          "minimum_nsc_level": 5,
+          "minimum_percentage": 60,
+          "notes": "5 (60-69%)"
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_nsc_level": 4,
+          "minimum_percentage": 50,
+          "notes": "4 (50-59%)"
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": 0.98,
+      "source_paths": [
+        "workik/batch1/online/wsu.json"
+      ]
+    },
+    {
+      "id": "prog:2c00764f1c1f306e",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "Diploma in Civil Engineering",
+      "normalized_name": "Diploma in Civil Engineering",
+      "qualification_type": "Diploma",
+      "qualification_level": "NQF 6",
+      "faculty_name": "Faculty of Engineering, Built Environment & Information Technology",
+      "campus": "Buffalo City / Butterworth",
+      "min_aps": 24,
+      "programme_code": "W60003",
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "English",
+          "minimum_nsc_level": 4,
+          "minimum_percentage": 50,
+          "notes": "4 (50-59%)"
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_nsc_level": 4,
+          "minimum_percentage": 50,
+          "notes": "4 (50-59%)"
+        },
+        {
+          "subject": "Physical Sciences",
+          "minimum_nsc_level": 4,
+          "minimum_percentage": 50,
+          "notes": "4 (50-59%)"
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": 0.95,
+      "source_paths": [
+        "workik/batch1/online/wsu.json"
+      ]
+    },
+    {
+      "id": "prog:29ad3a29c72e45ad",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "Bachelor of Accounting Science",
+      "normalized_name": "Bachelor of Accounting Science",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": 27,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/wsu2.json"
+      ]
+    },
+    {
+      "id": "prog:43180c5ec49cd1ec",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "Diploma in Civil Engineering",
+      "normalized_name": "Diploma in Civil Engineering",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": 24,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/wsu2.json"
+      ]
+    },
+    {
+      "id": "prog:95730920c9210dfe",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "Bachelor of Laws (LLB)",
+      "normalized_name": "Bachelor of Laws (LLB)",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": 26,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/wsu2.json"
+      ]
+    },
+    {
+      "id": "prog:8ad14cf3f2c896fa",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "Bachelor of Education (Foundation Phase)",
+      "normalized_name": "Bachelor of Education (Foundation Phase)",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": 24,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/wsu2.json"
+      ]
+    },
+    {
+      "id": "prog:1f0de2f779321ca0",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "Bachelor of Medicine & Bachelor of Surgery (MBChB)",
+      "normalized_name": "Bachelor of Medicine & Bachelor of Surgery (MBChB)",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": 30,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/wsu2.json"
+      ]
+    },
+    {
+      "id": "prog:947ca3834de1a01f",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "Diploma in Information Technology (App Dev)",
+      "normalized_name": "Diploma in Information Technology (App Dev)",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": 22,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/wsu2.json"
+      ]
+    },
+    {
+      "id": "prog:1c40376f630f9732",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "Bachelor of Social Work",
+      "normalized_name": "Bachelor of Social Work",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": 26,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/wsu2.json"
+      ]
+    },
+    {
+      "id": "prog:cf46ee6b889121fe",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "Diploma in Hospitality Management",
+      "normalized_name": "Diploma in Hospitality Management",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": 21,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/wsu2.json"
+      ]
+    },
+    {
+      "id": "prog:52bb280239dbbac5",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "Bachelor of Nursing",
+      "normalized_name": "Bachelor of Nursing",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": 24,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/wsu2.json"
+      ]
+    },
+    {
+      "id": "prog:b7f00b17dbb3a05d",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "BSc in Computer Science",
+      "normalized_name": "BSc in Computer Science",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": 25,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/wsu2.json"
+      ]
+    },
+    {
+      "id": "prog:29ad3a29c72e45ad",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "Bachelor of Accounting Science",
+      "normalized_name": "Bachelor of Accounting Science",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": 27,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "English",
+          "minimum_nsc_level": 5
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_nsc_level": 4
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/wsu3.json"
+      ]
+    },
+    {
+      "id": "prog:43180c5ec49cd1ec",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "Diploma in Civil Engineering",
+      "normalized_name": "Diploma in Civil Engineering",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": 24,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "English",
+          "minimum_nsc_level": 4
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_nsc_level": 4
+        },
+        {
+          "subject": "Physical Sciences",
+          "minimum_nsc_level": 4
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/wsu3.json"
+      ]
+    },
+    {
+      "id": "prog:e1c39bdfcd98727f",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "Bachelor of Education in Foundation Phase Teaching",
+      "normalized_name": "Bachelor of Education in Foundation Phase Teaching",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": 24,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "IsiXhosa HL",
+          "minimum_nsc_level": 4
+        },
+        {
+          "subject": "English FAL",
+          "minimum_nsc_level": 4
+        },
+        {
+          "subject": "Life Orientation",
+          "minimum_nsc_level": 5,
+          "notes": "Counts as a Major here."
+        }
+      ],
+      "subject_or_groups": [
+        {
+          "options": [
+            "Mathematics",
+            "Math Literacy"
+          ],
+          "minimum_nsc_level": 2
+        }
+      ],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/wsu3.json"
+      ]
+    },
+    {
+      "id": "prog:95730920c9210dfe",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "Bachelor of Laws (LLB)",
+      "normalized_name": "Bachelor of Laws (LLB)",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": 26,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "English",
+          "minimum_nsc_level": 5
+        }
+      ],
+      "subject_or_groups": [
+        {
+          "options": [
+            "Mathematics",
+            "Math Literacy"
+          ],
+          "minimum_nsc_level": 3
+        }
+      ],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/wsu3.json"
+      ]
+    },
+    {
+      "id": "prog:7caf32b7e191a488",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "Bachelor of Medicine and Bachelor of Surgery (MBChB)",
+      "normalized_name": "Bachelor of Medicine and Bachelor of Surgery (MBChB)",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": 30,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "English",
+          "minimum_nsc_level": 5
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_nsc_level": 5
+        },
+        {
+          "subject": "Physical Sciences",
+          "minimum_nsc_level": 5
+        },
+        {
+          "subject": "Life Sciences",
+          "minimum_nsc_level": 5
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/wsu3.json"
+      ]
+    },
+    {
+      "id": "prog:b7f00b17dbb3a05d",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "BSc in Computer Science",
+      "normalized_name": "BSc in Computer Science",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": 25,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "English",
+          "minimum_nsc_level": 4
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_nsc_level": 5
+        },
+        {
+          "subject": "Physical Sciences",
+          "minimum_nsc_level": 4
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/wsu3.json"
+      ]
+    },
+    {
+      "id": "prog:1c40376f630f9732",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "Bachelor of Social Work",
+      "normalized_name": "Bachelor of Social Work",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": 26,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "English",
+          "minimum_nsc_level": 4
+        },
+        {
+          "subject": "African Language",
+          "minimum_nsc_level": 5
+        },
+        {
+          "subject": "Life Sciences",
+          "minimum_nsc_level": 4
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/wsu3.json"
+      ]
+    },
+    {
+      "id": "prog:3f6adc1bb8342d2b",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "Diploma in Journalism",
+      "normalized_name": "Diploma in Journalism",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": 21,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "English",
+          "minimum_nsc_level": 5
+        },
+        {
+          "subject": "Another Language",
+          "minimum_nsc_level": 4
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/wsu3.json"
+      ]
+    },
+    {
+      "id": "prog:83d73c50fd4f510d",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "Diploma in Internal Auditing",
+      "normalized_name": "Diploma in Internal Auditing",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": 21,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "English",
+          "minimum_nsc_level": 3
+        }
+      ],
+      "subject_or_groups": [
+        {
+          "options": [
+            "Mathematics",
+            "Accounting"
+          ],
+          "minimum_nsc_level": 3
+        },
+        {
+          "options": [
+            "Math Literacy"
+          ],
+          "minimum_nsc_level": 5
+        }
+      ],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/wsu3.json"
+      ]
+    },
+    {
+      "id": "prog:52bb280239dbbac5",
+      "institution_id": "wsu",
+      "institution_name": "Walter Sisulu University",
+      "name": "Bachelor of Nursing",
+      "normalized_name": "Bachelor of Nursing",
+      "qualification_type": null,
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": 24,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "English",
+          "minimum_nsc_level": 4
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_nsc_level": 4
+        },
+        {
+          "subject": "Physical Sciences",
+          "minimum_nsc_level": 4
+        },
+        {
+          "subject": "Life Sciences",
+          "minimum_nsc_level": 4
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/wsu3.json"
+      ]
+    }
+  ],
+  "counts": {
+    "campuses": 4,
+    "faculties_best": 7,
+    "faculties_all": 12,
+    "programmes_best": 16,
+    "programmes_all": 22
+  }
+}

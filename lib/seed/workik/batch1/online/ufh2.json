@@ -1,0 +1,75 @@
+{
+  "institution_id": "ufh",
+  "institution_name": "University of Fort Hare",
+  "faculties": [
+    {
+      "name": "Education",
+      "overview": "Specializing in Agriculture, Commerce, Science, and Social Science teaching."
+    },
+    { "name": "Law", "overview": "Flagship LLB and BCom Law programmes." },
+    {
+      "name": "Management & Commerce",
+      "overview": "Covers BCom Accounting (SAICA), Info Systems, and Public Admin."
+    },
+    {
+      "name": "Science & Agriculture",
+      "overview": "Extensive BSc and Bachelor of Agriculture offerings."
+    }
+  ],
+  "programmes": [
+    {
+      "name": "Bachelor of Laws (LLB)",
+      "code": "21525",
+      "min_aps": 30,
+      "subjects": "English (4), Math (3) or ML (4)"
+    },
+    {
+      "name": "BEd Senior & FET (Science)",
+      "code": "500493",
+      "min_aps": 28,
+      "subjects": "English (4), Math (4), PhysSci/LifeSci (4)"
+    },
+    {
+      "name": "BCom Accounting",
+      "code": "60001",
+      "min_aps": 32,
+      "subjects": "English (5), Math (5)"
+    },
+    {
+      "name": "Bachelor of Social Work",
+      "code": "33002",
+      "min_aps": 27,
+      "subjects": "English (4), Another Lang (4)"
+    },
+    {
+      "name": "BSc in Agriculture (Agric Economics)",
+      "code": "70001",
+      "min_aps": 28,
+      "subjects": "English (4), Math (4), LifeSci (4)"
+    },
+    {
+      "name": "Bachelor of Nursing",
+      "code": "84040",
+      "min_aps": 28,
+      "subjects": "English (4), Math (4), PhysSci (4), LifeSci (4)"
+    },
+    {
+      "name": "Bachelor of Science (General)",
+      "code": "40000",
+      "min_aps": 28,
+      "subjects": "English (4), Math (4), PhysSci (4)"
+    },
+    {
+      "name": "BAdmin in Public Administration",
+      "code": "62005",
+      "min_aps": 26,
+      "subjects": "English (4), Math/ML (2/4)"
+    },
+    {
+      "name": "Bachelor of Fine Art",
+      "code": "30100",
+      "min_aps": 27,
+      "subjects": "English (4), Another Lang (4)"
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "institution_id": "ufh",
+  "institution_name": "University of Fort Hare",
+  "institution_type": "university",
+  "campuses": [
+    {
+      "name": "Alice",
+      "city": "Alice",
+      "province": "Eastern Cape",
+      "is_main": true
+    },
+    {
+      "name": "East London",
+      "city": "East London",
+      "province": "Eastern Cape",
+      "is_main": false
+    },
+    {
+      "name": "Bhisho",
+      "city": "Bhisho",
+      "province": "Eastern Cape",
+      "is_main": false
+    }
+  ],
+  "faculties": [
+    {
+      "name": "Education",
+      "overview": "Teaching specialisations across all phases."
+    },
+    {
+      "name": "Law",
+      "overview": "Includes the Nelson R. Mandela School of Law."
+    },
+    {
+      "name": "Management & Commerce",
+      "overview": "Business, Accounting, and Public Administration."
+    },
+    {
+      "name": "Science & Agriculture",
+      "overview": "Natural sciences and extensive agricultural degrees."
+    },
+    {
+      "name": "Social Science & Humanities",
+      "overview": "Arts, Music, Fine Art, and Social Sciences."
+    },
+    {
+      "name": "Health Sciences",
+      "overview": "Nursing and rehabilitative sciences."
+    }
+  ],
+  "programmes": [
+    {
+      "name": "Bachelor of Laws (LLB)",
+      "code": "21525",
+      "min_aps": 30,
+      "subjects_compulsory": [{ "subject": "English", "minimum_nsc_level": 4 }],
+      "subject_or_groups": [
+        {
+          "options": ["Mathematics", "Math Literacy", "Technical Math"],
+          "minimum_nsc_level": 3
+        }
+      ]
+    },
+    {
+      "name": "BCom in Accounting",
+      "code": "60001",
+      "min_aps": 32,
+      "subjects_compulsory": [
+        { "subject": "English", "minimum_nsc_level": 5 },
+        { "subject": "Mathematics", "minimum_nsc_level": 5 }
+      ]
+    },
+    {
+      "name": "BEd Senior & FET (Science specialisation)",
+      "code": "500493",
+      "min_aps": 28,
+      "subjects_compulsory": [
+        { "subject": "English", "minimum_nsc_level": 4 },
+        { "subject": "Mathematics", "minimum_nsc_level": 4 }
+      ],
+      "subject_or_groups": [
+        {
+          "options": [
+            "Physical Science",
+            "Life Science",
+            "Geography",
+            "Computer Science"
+          ],
+          "minimum_nsc_level": 4
+        }
+      ]
+    },
+    {
+      "name": "Bachelor of Nursing",
+      "code": "84040",
+      "min_aps": 28,
+      "subjects_compulsory": [
+        { "subject": "English", "minimum_nsc_level": 4 },
+        { "subject": "Physical Science", "minimum_nsc_level": 4 },
+        { "subject": "Life Sciences", "minimum_nsc_level": 4 }
+      ],
+      "subject_or_groups": [
+        { "options": ["Mathematics", "Math Literacy"], "minimum_nsc_level": 4 }
+      ],
+      "notes": "29 APS required if using Math Literacy."
+    },
+    {
+      "name": "Bachelor of Social Work",
+      "code": "33002",
+      "min_aps": 27,
+      "subjects_compulsory": [
+        { "subject": "English", "minimum_nsc_level": 4 },
+        { "subject": "Another Language", "minimum_nsc_level": 4 }
+      ]
+    },
+    {
+      "name": "Bachelor of Agriculture",
+      "code": "70001",
+      "min_aps": 28,
+      "subjects_compulsory": [
+        { "subject": "English", "minimum_nsc_level": 4 },
+        { "subject": "Agriculture", "minimum_nsc_level": 4 }
+      ],
+      "subject_or_groups": [
+        { "options": ["Mathematics"], "minimum_nsc_level": 4 },
+        { "options": ["Math Literacy"], "minimum_nsc_level": 5 }
+      ]
+    },
+    {
+      "name": "BSc in Computer Science",
+      "code": "40003",
+      "min_aps": 28,
+      "subjects_compulsory": [
+        { "subject": "English", "minimum_nsc_level": 4 },
+        { "subject": "Mathematics", "minimum_nsc_level": 4 },
+        { "subject": "Physical Science", "minimum_nsc_level": 4 }
+      ]
+    },
+    {
+      "name": "Bachelor of Fine Art",
+      "code": "30100",
+      "min_aps": 27,
+      "subjects_compulsory": [
+        { "subject": "English", "minimum_nsc_level": 4 },
+        { "subject": "Another Language", "minimum_nsc_level": 4 }
+      ]
+    },
+    {
+      "name": "Bachelor of Music",
+      "code": "30003",
+      "min_aps": 27,
+      "subjects_compulsory": [
+        { "subject": "English", "minimum_nsc_level": 4 },
+        { "subject": "Another Language", "minimum_nsc_level": 4 }
+      ]
+    },
+    {
+      "name": "BAdmin in Public Administration",
+      "code": "62005",
+      "min_aps": 26,
+      "subjects_compulsory": [{ "subject": "English", "minimum_nsc_level": 4 }],
+      "subject_or_groups": [
+        { "options": ["Mathematics"], "minimum_nsc_level": 2 },
+        { "options": ["Math Literacy"], "minimum_nsc_level": 4 }
+      ]
+    }
+  ]
+}

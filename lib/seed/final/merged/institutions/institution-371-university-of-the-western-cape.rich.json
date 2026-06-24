@@ -1,0 +1,255 @@
+{
+  "institution": {
+    "institution_id": "371",
+    "name": "University of the Western Cape",
+    "institution_type": "university",
+    "city": "Cape Town",
+    "province": "Western Cape",
+    "official_website": "https://www.uwc.ac.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/371/university-of-the-western-cape",
+    "source_paths": [
+      "enriched_universities.json",
+      "generated/v3/institutions.enriched.json",
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "short_name": "UWC",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/7/71/University_of_the_Western_Cape_logo.png",
+      "colors": [
+        "Blue",
+        "Yellow"
+      ],
+      "motto": "Respice Prospice",
+      "type": "Comprehensive University",
+      "languages": [
+        "English",
+        "Afrikaans",
+        "isiXhosa"
+      ],
+      "student_estimate": "23,000+",
+      "nickname": "Bush",
+      "mascot": "Bushie",
+      "sports_affiliations": []
+    }
+  },
+  "campuses": [
+    {
+      "id": "camp:227904e0deb6339b",
+      "institution_id": "371",
+      "name": "Main Campus",
+      "city": "Bellville",
+      "province": "Western Cape",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "camp:b38ed7f13b647e37",
+      "institution_id": "371",
+      "name": "Tygerberg Campus",
+      "city": "Bellville",
+      "province": "Western Cape",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    }
+  ],
+  "faculties_best": [
+    {
+      "id": "fac:446357f47722d55b",
+      "institution_id": "371",
+      "institution_name": null,
+      "name": "Education",
+      "kind": null,
+      "overview": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "generated/v1/faculties.final.json"
+      ]
+    },
+    {
+      "id": "fac:8e9c836850b6a8ff",
+      "institution_id": "371",
+      "institution_name": "University of the Western Cape",
+      "name": "Dentistry",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "Faculty of Dentistry",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:c5a022babcf5164c",
+      "institution_id": "371",
+      "institution_name": "University of the Western Cape",
+      "name": "Education",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "Faculty of Education",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:d8913b55893e3936",
+      "institution_id": "371",
+      "institution_name": "University of the Western Cape",
+      "name": "Natural Sciences",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "Faculty of Natural Sciences",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    }
+  ],
+  "faculties_all": [
+    {
+      "id": "fac:446357f47722d55b",
+      "institution_id": "371",
+      "institution_name": null,
+      "name": "Education",
+      "kind": null,
+      "overview": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "generated/v1/faculties.final.json"
+      ]
+    },
+    {
+      "id": "fac:446357f47722d55b",
+      "institution_id": "371",
+      "institution_name": null,
+      "name": "Education",
+      "kind": null,
+      "overview": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "generated/v1/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:446357f47722d55b",
+      "institution_id": "371",
+      "institution_name": null,
+      "name": "Education",
+      "kind": null,
+      "overview": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "generated/v1/faculties.raw.json"
+      ]
+    },
+    {
+      "id": "fac:446357f47722d55b",
+      "institution_id": "371",
+      "institution_name": null,
+      "name": "Education",
+      "kind": null,
+      "overview": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "generated/v2/faculties.final.json"
+      ]
+    },
+    {
+      "id": "fac:446357f47722d55b",
+      "institution_id": "371",
+      "institution_name": null,
+      "name": "Education",
+      "kind": null,
+      "overview": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "generated/v2/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:446357f47722d55b",
+      "institution_id": "371",
+      "institution_name": null,
+      "name": "Education",
+      "kind": null,
+      "overview": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "generated/v2/faculties.raw.json"
+      ]
+    },
+    {
+      "id": "fac:8e9c836850b6a8ff",
+      "institution_id": "371",
+      "institution_name": "University of the Western Cape",
+      "name": "Dentistry",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "Faculty of Dentistry",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:c5a022babcf5164c",
+      "institution_id": "371",
+      "institution_name": "University of the Western Cape",
+      "name": "Education",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "Faculty of Education",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:d8913b55893e3936",
+      "institution_id": "371",
+      "institution_name": "University of the Western Cape",
+      "name": "Natural Sciences",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "Faculty of Natural Sciences",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "fac:446357f47722d55b",
+      "institution_id": "371",
+      "institution_name": null,
+      "name": "Education",
+      "kind": null,
+      "overview": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "output/v1/faculties.json"
+      ]
+    }
+  ],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 2,
+    "faculties_best": 4,
+    "faculties_all": 10,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

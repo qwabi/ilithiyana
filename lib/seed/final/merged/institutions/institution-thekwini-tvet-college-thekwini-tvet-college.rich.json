@@ -1,0 +1,156 @@
+{
+  "institution": {
+    "id": "institution:thekwini-tvet-college",
+    "slug": "thekwini-tvet-college",
+    "institution_id_raw": "357",
+    "name": "Thekwini TVET College",
+    "institution_type": "tvet-college",
+    "city": "Durban",
+    "province": "KwaZulu-Natal",
+    "official_website": "https://www.thekwini.edu.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/357/thekwini-tvet-college",
+    "source_paths": [
+      "generated/v3/institutions.enriched.json",
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "sector": "higher education",
+      "province": "KwaZulu-Natal",
+      "city": "Durban",
+      "physical_address": "262 D'Aintree Avenue, Asherville, Durban, 4015",
+      "postal_address": "Private Bag X06, Dormerton, 4015",
+      "contact_emails": [
+        "info@thekwini.edu.za"
+      ],
+      "contact_phone_numbers": [
+        "031 250 8200"
+      ],
+      "application_url": "https://thekwini.coltech.co.za/",
+      "socials": {
+        "facebook": "https://www.facebook.com/thekwinitvetcollege",
+        "instagram": "",
+        "linkedin": "https://www.linkedin.com/company/thekwini-tvet-college",
+        "x": "https://twitter.com/ThekwiniTvet",
+        "youtube": ""
+      },
+      "accreditation": {
+        "dh et": "Accredited",
+        "saqa": null
+      },
+      "sources": [
+        "https://nationalgovernment.co.za/units/view/357/thekwini-tvet-college",
+        "https://www.thekwini.edu.za/"
+      ],
+      "qualification_types": [
+        "NC(V)",
+        "Nated (Report 191)",
+        "Skills Programmes",
+        "Apprenticeships"
+      ],
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [
+    {
+      "id": "programme:thekwini-tvet-college--nated-n1",
+      "institution_slug": "thekwini-tvet-college",
+      "institution_name": "Thekwini TVET College",
+      "name": "NATED N1",
+      "normalized_name": "NATED N1",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NATED N1",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:thekwini-tvet-college--nated-n4",
+      "institution_slug": "thekwini-tvet-college",
+      "institution_name": "Thekwini TVET College",
+      "name": "NATED N4",
+      "normalized_name": "NATED N4",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NATED N4",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    }
+  ],
+  "programmes_all": [
+    {
+      "id": "programme:thekwini-tvet-college--nated-n1",
+      "institution_slug": "thekwini-tvet-college",
+      "institution_name": "Thekwini TVET College",
+      "name": "NATED N1",
+      "normalized_name": "NATED N1",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NATED N1",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:thekwini-tvet-college--nated-n4",
+      "institution_slug": "thekwini-tvet-college",
+      "institution_name": "Thekwini TVET College",
+      "name": "NATED N4",
+      "normalized_name": "NATED N4",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NATED N4",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    }
+  ],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 2,
+    "programmes_all": 2
+  }
+}

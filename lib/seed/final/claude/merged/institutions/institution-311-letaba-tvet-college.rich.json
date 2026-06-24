@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "institution_id": "311",
+    "slug": "letaba-tvet-college",
+    "name": "Letaba TVET College",
+    "institution_type": "tvet-college",
+    "province": "Limpopo",
+    "city": "Tzaneen",
+    "official_website": "https://www.letcol.co.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/311/letaba-tvet-college",
+    "application_url": "https://www.letcol.co.za/COLLEGE_APPLICATION",
+    "prospectus_url": null,
+    "nsfas_supported": true,
+    "distance_learning": null,
+    "accreditation": {
+      "dh et": "Accredited",
+      "saqa": null
+    },
+    "qualification_types": [
+      "NC(V)",
+      "Nated (Report 191)",
+      "Skills Programmes",
+      "Apprenticeships"
+    ]
+  },
+  "profile": {},
+  "contact": {
+    "emails": [
+      "tzaneencampus@letcol.co.za",
+      "giyanicampus@letcol.co.za",
+      "modjadjicampus@letcol.co.za",
+      "centraloffice@letcol.co.za",
+      "maakecampus@letcol.co.za"
+    ],
+    "phone_numbers": [
+      "015 307 5440"
+    ],
+    "physical_address": "1 Claude Wheatley Street, Abor Park, Tzaneen, 0850",
+    "postal_address": "Private Bag X4017, Tzaneen, 0850",
+    "socials": {
+      "facebook": "https://www.facebook.com/www.letabafet.co.za/",
+      "instagram": "",
+      "linkedin": "",
+      "x": "https://twitter.com/letabatvet",
+      "youtube": "https://www.youtube.com/channel/UCIZ9X67VPzNuf2zKA6Ty-pQ"
+    }
+  },
+  "campuses": [],
+  "faculties": [],
+  "programmes": [],
+  "admission": {
+    "aps_name": null,
+    "aps_calculation_notes": null,
+    "minimum_aps_for_bachelors": null,
+    "minimum_aps_for_diplomas": null,
+    "minimum_entry_note": null,
+    "life_orientation_cap": null,
+    "aps_rules": [],
+    "programme_requirements": []
+  },
+  "sources": [
+    "generated/v3/institutions.enriched.json",
+    "institutions.json"
+  ],
+  "_stats": {
+    "campuses_count": 0,
+    "faculties_count": 0,
+    "programmes_count": 0,
+    "aps_rules_count": 0,
+    "adm_reqs_count": 0
+  }
+}

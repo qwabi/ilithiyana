@@ -1,0 +1,31 @@
+{
+  "institution": {
+    "institution_id": "319",
+    "name": "South West Gauteng TVET College",
+    "institution_type": "tvet-college",
+    "city": "Johannesburg",
+    "province": "Gauteng",
+    "official_website": "https://www.swgc.co.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/319/south-west-gauteng-tvet-college",
+    "source_paths": [
+      "generated/v3/institutions.enriched.json",
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

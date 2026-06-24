@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "institution_id": "206",
+    "slug": "chemical-industries-education-and-training-authority-chieta",
+    "name": "Chemical Industries Education and Training Authority (CHIETA)",
+    "institution_type": "seta",
+    "province": "Gauteng",
+    "city": "Midrand",
+    "official_website": "https://chieta.org.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/206/chemical-industries-education-and-training-authority-chieta",
+    "application_url": null,
+    "prospectus_url": null,
+    "nsfas_supported": null,
+    "distance_learning": null,
+    "accreditation": {
+      "dh et": null,
+      "saqa": null
+    },
+    "qualification_types": null
+  },
+  "profile": {},
+  "contact": {
+    "phone_numbers": [
+      "011 628 7000"
+    ],
+    "physical_address": "23 Magwa Crescent, Allandale Building, 3rd Floor Office B, Wtarefall City, Midrand",
+    "postal_address": "23 Magwa Crescent, Allandale Building, 3rd Floor Office B, Wtarefall City, Midrand",
+    "socials": {
+      "facebook": "https://www.facebook.com/chietasa/",
+      "instagram": "https://www.instagram.com/chieta_sa/",
+      "linkedin": "https://za.linkedin.com/company/chieta-thechemicalindustrieseducationandtrainingauthority",
+      "x": "",
+      "youtube": ""
+    }
+  },
+  "campuses": [],
+  "faculties": [],
+  "programmes": [],
+  "admission": {
+    "aps_name": null,
+    "aps_calculation_notes": null,
+    "minimum_aps_for_bachelors": null,
+    "minimum_aps_for_diplomas": null,
+    "minimum_entry_note": null,
+    "life_orientation_cap": null,
+    "aps_rules": [],
+    "programme_requirements": []
+  },
+  "sources": [
+    "institutions.json"
+  ],
+  "_stats": {
+    "campuses_count": 0,
+    "faculties_count": 0,
+    "programmes_count": 0,
+    "aps_rules_count": 0,
+    "adm_reqs_count": 0
+  }
+}

@@ -1,0 +1,1109 @@
+{
+  "institutions": [
+    {
+      "id": "312",
+      "institution_id": "312",
+      "official_name": "Lovedale TVET College",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/Lovedale TVET College - Programs, Fees & NSFAS Funding 2026-fees.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 0,
+        "programmes_count": 0,
+        "admissions_count": 0,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "314",
+      "institution_id": "314",
+      "official_name": "Mnambithi TVET College",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/Mnambithi_TVET_Prospectus_2022.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 0,
+        "programmes_count": 6,
+        "admissions_count": 3,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "316",
+      "institution_id": "316",
+      "official_name": "Northern Cape Urban TVET College",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/Admission Requirements – NCUTVET.pdf",
+        "prospectuses/northern-cape-urban-tvet-college.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 0,
+        "programmes_count": 1,
+        "admissions_count": 0,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "199",
+      "institution_id": "199",
+      "official_name": "Agricultural Sector Education and Training Authority (AgriSETA)",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/agricultural-sector-education-and-training-authority-agriseta.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 0,
+        "programmes_count": 0,
+        "admissions_count": 0,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "322",
+      "institution_id": "322",
+      "official_name": "Boland TVET College",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/boland-tvet-college.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 0,
+        "programmes_count": 0,
+        "admissions_count": 0,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "323",
+      "institution_id": "323",
+      "official_name": "Buffalo City TVET College",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/buffalo-city-tvet-college-web.txt"
+      ],
+      "extraction_summary": {
+        "faculties_count": 0,
+        "programmes_count": 0,
+        "admissions_count": 0,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "338",
+      "institution_id": "338",
+      "official_name": "Ingwe TVET College",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/Our Programmes _ Ingwe TVET College.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 0,
+        "programmes_count": 0,
+        "admissions_count": 0,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "324",
+      "institution_id": "324",
+      "official_name": "Cape Peninsula University of Technology",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/cape-peninsula-university-of-technology.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 6,
+        "programmes_count": 115,
+        "admissions_count": 113,
+        "aps_rules_count": 7,
+        "enrichment": "subagent_manual"
+      }
+    },
+    {
+      "id": "345",
+      "institution_id": "345",
+      "official_name": "Mthashana TVET College",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/Mthashana-College-2026booklet_design-3.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 0,
+        "programmes_count": 13,
+        "admissions_count": 1,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "306",
+      "institution_id": "306",
+      "official_name": "Central Johannesburg TVET College",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/central-johannesburg-tvet-college-web.txt"
+      ],
+      "extraction_summary": {
+        "faculties_count": 0,
+        "programmes_count": 0,
+        "admissions_count": 0,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "327",
+      "institution_id": "327",
+      "official_name": "Coastal TVET College",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/coastal-tvet-college.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 0,
+        "programmes_count": 0,
+        "admissions_count": 0,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "326",
+      "institution_id": "326",
+      "official_name": "Central University of Technology, Free State",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/centra-university-of-technology-prospectus.pdf",
+        "prospectuses/central-university-of-technology-prospectus.htm"
+      ],
+      "extraction_summary": {
+        "faculties_count": 34,
+        "programmes_count": 101,
+        "admissions_count": 42,
+        "aps_rules_count": 40,
+        "enrichment": "subagent_manual"
+      }
+    },
+    {
+      "id": "307",
+      "institution_id": "307",
+      "official_name": "Eastcape Midlands TVET College",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/eastcape-midlands-tvet-college.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 1,
+        "programmes_count": 1,
+        "admissions_count": 0,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "329",
+      "institution_id": "329",
+      "official_name": "Durban University of Technology",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/durban-university-of-technology.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 0,
+        "programmes_count": 0,
+        "admissions_count": 0,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "352",
+      "institution_id": "352",
+      "official_name": "Rhodes University",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/Courses – Northern cape rural tvet TVET College prospectus.pdf",
+        "prospectuses/rhodes-university.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 0,
+        "programmes_count": 16,
+        "admissions_count": 12,
+        "aps_rules_count": 1
+      }
+    },
+    {
+      "id": "332",
+      "institution_id": "332",
+      "official_name": "Ekurhuleni West TVET College",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/ekurhuleni-west-tvet-college.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 0,
+        "programmes_count": 14,
+        "admissions_count": 0,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "331",
+      "institution_id": "331",
+      "official_name": "Ekurhuleni East TVET College",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/ekurhuleni-east-tvet-college.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 1,
+        "programmes_count": 7,
+        "admissions_count": 3,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "330",
+      "institution_id": "330",
+      "official_name": "Ehlanzeni TVET College",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/ehlanzeni-college-prospectus.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 0,
+        "programmes_count": 1,
+        "admissions_count": 0,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "222",
+      "institution_id": "222",
+      "official_name": "Energy and Water Sector Education and Training Authority (EWSETA)",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/energy-and-water-sector-education-and-training-authority-ewseta.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 0,
+        "programmes_count": 0,
+        "admissions_count": 0,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "325",
+      "institution_id": "325",
+      "official_name": "Capricorn TVET College",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/capricorn-tvet-college.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 0,
+        "programmes_count": 14,
+        "admissions_count": 5,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "335",
+      "institution_id": "335",
+      "official_name": "Flavius Mareka TVET College",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/flavius-mareka-tvet-college.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 0,
+        "programmes_count": 11,
+        "admissions_count": 4,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "336",
+      "institution_id": "336",
+      "official_name": "Gert Sibande TVET College",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/gert-sibande-tvet-college.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 0,
+        "programmes_count": 2,
+        "admissions_count": 0,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "309",
+      "institution_id": "309",
+      "official_name": "Ikhala TVET College",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/ikhala-tvet-college-web.txt"
+      ],
+      "extraction_summary": {
+        "faculties_count": 0,
+        "programmes_count": 0,
+        "admissions_count": 0,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "310",
+      "institution_id": "310",
+      "official_name": "King Hintsa TVET College",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/king-hintsa-tvet-college.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 0,
+        "programmes_count": 0,
+        "admissions_count": 0,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "340",
+      "institution_id": "340",
+      "official_name": "Lephalale TVET College",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/lepalale tb college fees.png",
+        "prospectuses/lephalale college fees 2.png"
+      ],
+      "extraction_summary": {
+        "faculties_count": 0,
+        "programmes_count": 0,
+        "admissions_count": 0,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "311",
+      "institution_id": "311",
+      "official_name": "Letaba TVET College",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/letaba-tvet-college-web.txt"
+      ],
+      "extraction_summary": {
+        "faculties_count": 0,
+        "programmes_count": 0,
+        "admissions_count": 0,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "341",
+      "institution_id": "341",
+      "official_name": "Majuba TVET College",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/majuba-tvet-college-web.txt"
+      ],
+      "extraction_summary": {
+        "faculties_count": 0,
+        "programmes_count": 0,
+        "admissions_count": 0,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "337",
+      "institution_id": "337",
+      "official_name": "Goldfields TVET College",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/goldfields-tvet-college.pdf",
+        "prospectuses/goldfields-tvet-prospectus.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 0,
+        "programmes_count": 6,
+        "admissions_count": 8,
+        "aps_rules_count": 6
+      }
+    },
+    {
+      "id": "333",
+      "institution_id": "333",
+      "official_name": "Elangeni TVET College",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/elangeni-tvet-college.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 0,
+        "programmes_count": 0,
+        "admissions_count": 0,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "243",
+      "institution_id": "243",
+      "official_name": "Manufacturing, Engineering and Related Services Sector Education and Training Authority (merSETA)",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/manufacturing-engineering-and-related-services-sector-education-and-training-aut.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 0,
+        "programmes_count": 0,
+        "admissions_count": 0,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "120",
+      "institution_id": "120",
+      "official_name": "Mining Qualifications Authority (MQA)",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/mining-qualifications-authority-mqa.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 0,
+        "programmes_count": 0,
+        "admissions_count": 0,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "344",
+      "institution_id": "344",
+      "official_name": "Motheo TVET College",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/motheo-tvet-college-prospectus.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 0,
+        "programmes_count": 1,
+        "admissions_count": 0,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "343",
+      "institution_id": "343",
+      "official_name": "Mopani South TVET College",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/mopani-south-tvet-college.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 0,
+        "programmes_count": 9,
+        "admissions_count": 10,
+        "aps_rules_count": 2
+      }
+    },
+    {
+      "id": "342",
+      "institution_id": "342",
+      "official_name": "Mangosuthu University of Technology",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/mangosuthu-university-of-technology.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 2,
+        "programmes_count": 141,
+        "admissions_count": 0,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "317",
+      "institution_id": "317",
+      "official_name": "Northlink TVET College",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/northlink-tvet-college.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 0,
+        "programmes_count": 0,
+        "admissions_count": 0,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "318",
+      "institution_id": "318",
+      "official_name": "Orbit TVET College",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/orbit-tvet-college.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 0,
+        "programmes_count": 0,
+        "admissions_count": 0,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "351",
+      "institution_id": "351",
+      "official_name": "Port Elizabeth TVET College",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/port-elizabeth-tvet-college.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 0,
+        "programmes_count": 0,
+        "admissions_count": 0,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "334",
+      "institution_id": "334",
+      "official_name": "False Bay TVET College",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/false-bay-student-brochure.pdf",
+        "prospectuses/false-bay-tvet-admission-reqs.pdf",
+        "prospectuses/false-bay-tvet-college.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 0,
+        "programmes_count": 10,
+        "admissions_count": 0,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "347",
+      "institution_id": "347",
+      "official_name": "Nelson Mandela Metropolitan University",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/nelson-mandela-metropolitan-university.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 20,
+        "programmes_count": 148,
+        "admissions_count": 34,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "354",
+      "institution_id": "354",
+      "official_name": "Sekhukhune TVET College",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/sekhukhune-tvet-college-web.txt"
+      ],
+      "extraction_summary": {
+        "faculties_count": 5,
+        "programmes_count": 15,
+        "admissions_count": 5,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "353",
+      "institution_id": "353",
+      "official_name": "Sedibeng TVET College",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/sedibeng-tvet-college.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 0,
+        "programmes_count": 5,
+        "admissions_count": 3,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "355",
+      "institution_id": "355",
+      "official_name": "South Cape TVET College",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/south-cape-tvet-college.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 0,
+        "programmes_count": 0,
+        "admissions_count": 0,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "411",
+      "institution_id": "411",
+      "official_name": "Sol Plaatje University",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/sol-platjie-university-Prospectus-Brochure.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 2,
+        "programmes_count": 29,
+        "admissions_count": 10,
+        "aps_rules_count": 1
+      }
+    },
+    {
+      "id": "369",
+      "institution_id": "369",
+      "official_name": "Stellenbosch University",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/stellenbosch-university.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 6,
+        "programmes_count": 94,
+        "admissions_count": 58,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "356",
+      "institution_id": "356",
+      "official_name": "Taletso TVET College",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/taletso-tvet-college-web.txt"
+      ],
+      "extraction_summary": {
+        "faculties_count": 0,
+        "programmes_count": 0,
+        "admissions_count": 0,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "357",
+      "institution_id": "357",
+      "official_name": "Thekwini TVET College",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/thekwini-tvet-college.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 0,
+        "programmes_count": 2,
+        "admissions_count": 0,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "320",
+      "institution_id": "320",
+      "official_name": "Tshwane South TVET College",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/tshwane-south-tvet-college-web.txt"
+      ],
+      "extraction_summary": {
+        "faculties_count": 0,
+        "programmes_count": 0,
+        "admissions_count": 0,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "359",
+      "institution_id": "359",
+      "official_name": "Tshwane University of Technology",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/tshwane-university-of-technology.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 0,
+        "programmes_count": 0,
+        "admissions_count": 0,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "360",
+      "institution_id": "360",
+      "official_name": "Umfolozi TVET College",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/umfolozi-tvet-college-web.txt"
+      ],
+      "extraction_summary": {
+        "faculties_count": 0,
+        "programmes_count": 0,
+        "admissions_count": 0,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "361",
+      "institution_id": "361",
+      "official_name": "Umgungundlovu TVET College",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/umgungundlovu-tvet-college-web.txt"
+      ],
+      "extraction_summary": {
+        "faculties_count": 0,
+        "programmes_count": 0,
+        "admissions_count": 0,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "349",
+      "institution_id": "349",
+      "official_name": "North-West University",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/north-west-university.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 18,
+        "programmes_count": 62,
+        "admissions_count": 51,
+        "aps_rules_count": 1
+      }
+    },
+    {
+      "id": "362",
+      "institution_id": "362",
+      "official_name": "University of Cape Town",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/university-of-capetown-ug-prospectus-2026.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 9,
+        "programmes_count": 149,
+        "admissions_count": 39,
+        "aps_rules_count": 12
+      }
+    },
+    {
+      "id": "413",
+      "institution_id": "413",
+      "official_name": "Sefako Makgatho Health Sciences University",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/sefako-makgatho-health-sciences-university.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 1,
+        "programmes_count": 71,
+        "admissions_count": 0,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "319",
+      "institution_id": "319",
+      "official_name": "South West Gauteng TVET College",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/south-west-gauteng-tvet-college.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 0,
+        "programmes_count": 0,
+        "admissions_count": 0,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "364",
+      "institution_id": "364",
+      "official_name": "University of Johannesburg",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/university-of-johannesburg.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 12,
+        "programmes_count": 64,
+        "admissions_count": 18,
+        "aps_rules_count": 1
+      }
+    },
+    {
+      "id": "363",
+      "institution_id": "363",
+      "official_name": "University of Fort Hare",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/university-of-fort-hare.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 0,
+        "programmes_count": 84,
+        "admissions_count": 0,
+        "aps_rules_count": 1
+      }
+    },
+    {
+      "id": "412",
+      "institution_id": "412",
+      "official_name": "University of Mpumalanga",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/university-of-mpumalanga.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 0,
+        "programmes_count": 22,
+        "admissions_count": 44,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "365",
+      "institution_id": "365",
+      "official_name": "University of KwaZulu-Natal",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/university-of-kwazulu-natal.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 1,
+        "programmes_count": 96,
+        "admissions_count": 45,
+        "aps_rules_count": 7
+      }
+    },
+    {
+      "id": "366",
+      "institution_id": "366",
+      "official_name": "University of Limpopo",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/university-of-limpopo.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 13,
+        "programmes_count": 133,
+        "admissions_count": 1,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "367",
+      "institution_id": "367",
+      "official_name": "University of Pretoria",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/university-of-pretoria.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 15,
+        "programmes_count": 177,
+        "admissions_count": 44,
+        "aps_rules_count": 3
+      }
+    },
+    {
+      "id": "371",
+      "institution_id": "371",
+      "official_name": "University of the Western Cape",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/university-of-the-western-cape.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 3,
+        "programmes_count": 0,
+        "admissions_count": 0,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "373",
+      "institution_id": "373",
+      "official_name": "University of Venda",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/university-of-venda.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 8,
+        "programmes_count": 61,
+        "admissions_count": 46,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "375",
+      "institution_id": "375",
+      "official_name": "Vaal University of Technology",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/vaal-university-of-technology.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 0,
+        "programmes_count": 2,
+        "admissions_count": 0,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "376",
+      "institution_id": "376",
+      "official_name": "Vhembe TVET College",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/vhembe-tvet-prospectus.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 0,
+        "programmes_count": 1,
+        "admissions_count": 0,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "377",
+      "institution_id": "377",
+      "official_name": "Vuselela TVET College",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/vuselela-tvet-college-web.txt"
+      ],
+      "extraction_summary": {
+        "faculties_count": 0,
+        "programmes_count": 0,
+        "admissions_count": 0,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "374",
+      "institution_id": "374",
+      "official_name": "University of Zululand",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/university-of-zululand.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 1,
+        "programmes_count": 8,
+        "admissions_count": 8,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "379",
+      "institution_id": "379",
+      "official_name": "Waterberg TVET College",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/waterberg-tvet-college.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 0,
+        "programmes_count": 0,
+        "admissions_count": 0,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "380",
+      "institution_id": "380",
+      "official_name": "West Coast TVET College",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/west-coast-tvet-college.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 0,
+        "programmes_count": 0,
+        "admissions_count": 0,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "321",
+      "institution_id": "321",
+      "official_name": "Western College for TVET",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/westcol-admission-reqs.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 0,
+        "programmes_count": 9,
+        "admissions_count": 8,
+        "aps_rules_count": 9
+      }
+    },
+    {
+      "id": "299",
+      "institution_id": "299",
+      "official_name": "Wholesale and Retail Sector Education and Training Authority (W&RSETA)",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/wholesale-and-retail-sector-education-and-training-authority-wrseta.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 0,
+        "programmes_count": 0,
+        "admissions_count": 0,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "372",
+      "institution_id": "372",
+      "official_name": "University of the Witwatersrand",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/university-of-witwatersrand-wits-prospectus-2027.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 29,
+        "programmes_count": 234,
+        "admissions_count": 141,
+        "aps_rules_count": 4
+      }
+    },
+    {
+      "id": "378",
+      "institution_id": "378",
+      "official_name": "Walter Sisulu University of Technology and Science",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/wsu-2026-undergraduate-admission-requirements.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 0,
+        "programmes_count": 138,
+        "admissions_count": 97,
+        "aps_rules_count": 0
+      }
+    },
+    {
+      "id": "370",
+      "institution_id": "370",
+      "official_name": "University of the Free State",
+      "institution_type": null,
+      "matched_files": [
+        "prospectuses/university-of-the-free-state.pdf"
+      ],
+      "extraction_summary": {
+        "faculties_count": 13,
+        "programmes_count": 146,
+        "admissions_count": 296,
+        "aps_rules_count": 1,
+        "enrichment": "subagent_manual"
+      }
+    }
+  ]
+}

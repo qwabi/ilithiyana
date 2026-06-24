@@ -1,0 +1,64 @@
+{
+  "meta": {
+    "institution_id": "201",
+    "slug": "banking-sector-education-and-training-authority-bankseta",
+    "name": "Banking Sector Education and Training Authority (BANKSETA)",
+    "institution_type": "seta",
+    "province": "Gauteng",
+    "city": "Centurion",
+    "official_website": "https://bankseta.org.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/201/banking-sector-education-and-training-authority-bankseta",
+    "application_url": null,
+    "prospectus_url": null,
+    "nsfas_supported": null,
+    "distance_learning": null,
+    "accreditation": {
+      "dh et": null,
+      "saqa": null
+    },
+    "qualification_types": null
+  },
+  "profile": {},
+  "contact": {
+    "emails": [
+      "bankseta@tip-offs.com",
+      "info@bankseta.org.za",
+      "bankseta@tip-offs.co.za"
+    ],
+    "phone_numbers": [
+      "011 805 9661"
+    ],
+    "physical_address": "Building C2, Eco Origin Office Park, Eco-Park Estate, 349 Witch-Hazel Ave, Highveld, Centurion, 0144",
+    "postal_address": "PO Box 11678, Vorna Valley, 1686",
+    "socials": {
+      "facebook": "https://www.facebook.com/TheBankSeta",
+      "instagram": "",
+      "linkedin": "https://www.linkedin.com/company/the-bankseta",
+      "x": "https://twitter.com/thebankingseta",
+      "youtube": "https://www.youtube.com/user/thebankseta"
+    }
+  },
+  "campuses": [],
+  "faculties": [],
+  "programmes": [],
+  "admission": {
+    "aps_name": null,
+    "aps_calculation_notes": null,
+    "minimum_aps_for_bachelors": null,
+    "minimum_aps_for_diplomas": null,
+    "minimum_entry_note": null,
+    "life_orientation_cap": null,
+    "aps_rules": [],
+    "programme_requirements": []
+  },
+  "sources": [
+    "institutions.json"
+  ],
+  "_stats": {
+    "campuses_count": 0,
+    "faculties_count": 0,
+    "programmes_count": 0,
+    "aps_rules_count": 0,
+    "adm_reqs_count": 0
+  }
+}

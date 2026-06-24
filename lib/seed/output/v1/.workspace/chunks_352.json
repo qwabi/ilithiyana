@@ -1,0 +1,335 @@
+{
+  "chunks": [
+    {
+      "type": "other",
+      "text": "WHERE WE ARE SITUATED\nEASTERN CAPE\nWESTERN CAPE\nNORTHERN CAPE\nFREE STATE\nNORTH WEST\nGAUTENG\nLIMPOPO\nMPUMALANGA\nKWAZULU-NATAL\n2 RU READY! RHODES UNIVERSITY UNDERGRADUATE PROSPECTUS\nSIZE MATTERS\nRhodes University is a small residential, contact, research-intensive university located in the Eastern Cape Province, outside a\nmajor urban area and away from major distractions. This offers a unique opportunity for students and staff to focus and excel\nin their academic pursuit. At Rhodes University, every student is a person with a name and a face, and not just a number.\nQUALITY ACADEMIC PROGRAMMES WITH EXCELLENT PASS\nRATES",
+      "institutionId": "352",
+      "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+      "start_char": 0,
+      "end_char": 623
+    },
+    {
+      "type": "faculty",
+      "text": "Rhodes University offers the best quality academic programmes through six faculties – Faculty of Humanities, Faculty of Science,",
+      "institutionId": "352",
+      "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+      "start_char": 624,
+      "end_char": 752
+    },
+    {
+      "type": "faculty",
+      "text": "Faculty of Commerce, Faculty of Pharmacy, Faculty of Education and Faculty of Law.\n• The University’s approach to learning and teaching is underpinned by the philosophy of exposing students to the nature\nof knowledge and inducting them to the intricacies of knowledge-creation.\n• Most academic departments have a low lecturer-to-student ratio. Given the small size of the University, lecturers and\ntutors get to know each student very well.\n• Even at undergraduate level, students are taught by research-active academics who also supervise their research projects.\nThese research-active academics can also share with their students some of the latest developments in their field of\nresearch interest.\n• The University has excellent library facilities which have extensive book collections and provide access to electronic\nmaterials.\nWHAT MAKES RU SPECIAL & DISTINCTIVE\nRU READY! RHODES UNIVERSITY UNDERGRADUATE PROSPECTUS 3\nSAFETY AND SECURITY\nRhodes University places great emphasis on ensuring the safety and security of its students and staff through:\n• A dedicated University Campus Protection Unit.\n• An extensive CCTV security camera system throughout the campus.\n• Designated safe campus routes, and\n• being part of a community policing forum.\nEXCELLENT STUDENT RESIDENCE SYSTEM\nRhodes University prides itself in having an excellent student residence system in the country - the envy of many universities.\nThe residence system provides quality living and learning spaces that are conducive to student growth, development and\nacademic success.\n• Students receive three quality meals prepared in-house every day.\n• In addition to a bed, the University provides linen which is changed regularly for the comfort of students.\n• Rooms are cleaned by the Rhodes University staff.\n• Students have uncapped Wi-Fi in residences and on campus.\nWHERE LEADERS LEARN\nIt is for a good reason that Rhodes University’s slogan is ‘Where Leaders Learn’. The University develops not just leaders, but\nethical and transformative leaders, the kind of leaders that our country and the world need.\nStudents are afforded the opportunity to develop leadership skills through, among others:\n• Participation as sub-wardens and house committee members.\n• Running sports clubs, educational and cultural clubs and societies, and\n• The Student Representative Council (SRC), whose members participate in all the key decision-making committees of\nthe University.\n4 RU READY! RHODES UNIVERSITY UNDERGRADUATE PROSPECTUS\nGRADUATE ATTRIBUTES\nRhodes University pays much attention to both academic and extra-curricular activities to ensure that students have a rich allround experience and develop valuable distinctive graduate attributes, namely ethical leadership, digital competence, critical\nand engaged citizenship, curiosity and innovation, empathy and life-long learning.\nEXCELLENT TEACHING\nAt Rhodes University, students are not taught what to think, but how to think imaginatively, creatively and innovatively. Students\nare permitted to have a maximum choice of undergraduate major subjects and to graduate with combinations that are of\nspecial interest to them. Students can graduate with double or triple majors.\nWhile face-to-face interaction remains at the core of our teaching as a residential University, we embrace the growing importance\nof technology and the need for digital transformation. We promote blended learning and the use of new technologies in\nteaching and learning, as well as research.\nCUTTING-EDGE RESEARCH\nRhodes University is one of the best research-intensive institutions in South Africa:\n• The University enjoys one of the best research outputs per academic staff member.\n• Our academics are at the cutting edge of their fields of research, knowledge generation and dissemination and are South\nAfrica’s leaders in a number of fields globally.\n• We have leaders in, among other fields, medicinal chemistry and nanotechnology, water research, physics and radio\nastronomy techniques, biotechnology innovation, global change, and environmental sustainability.\n• Rhodes University contributes enormously to research on teaching and learning and its academics draw on research to\ninform their pedagogical practice.\nRU READY! RHODES UNIVERSITY UNDERGRADUATE PROSPECTUS 5\nTHE BEST COMMUNITY ENGAGEMENT\nRhodes University has one of the best Community Engagement Divisions in South Africa that:\n• Provides students the opportunity to connect with the surrounding communities through service learning, engaged\ncitizenship/volunteerism, and engaged research.\n• Ensures that the University has a strong connection and links with the communities of Makhanda and the Eastern\nCape towards the creation of relevant knowledge and research that positively impacts the poor whilst earning global\nacknowledgement and recognition.\n• Ensures that students are involved in scores of community development projects and can develop a heightened sense\nand level of social consciousness and responsibility to serve society.\n• Rhodes University has the highest proportion of student volunteers of any university.\nINTERNATIONALISATION\nRhodes University is a highly diverse and cosmopolitan university with one of the highest numbers of international students\nfrom Africa and beyond.\nThe diversity in student population enriches the institutional culture and enhances the intellectual, social, and cultural\ndevelopment of the students.\nThe University is continually expanding its international linkages so that students can benefit from academic exchanges with\noverseas universities.\n6 RU READY! RHODES UNIVERSITY UNDERGRADUATE PROSPECTUS",
+      "institutionId": "352",
+      "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+      "start_char": 753,
+      "end_char": 6365
+    },
+    {
+      "type": "admission",
+      "text": "ADMISSION REQUIREMENTS\nNSC AND IEB\nThe application will only be considered for admission to the University",
+      "institutionId": "352",
+      "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+      "start_char": 6366,
+      "end_char": 6472
+    },
+    {
+      "type": "programme",
+      "text": "if the applicant qualifies for a bachelor's degree study and the applicant\nsatisfies the University's requirements.",
+      "institutionId": "352",
+      "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+      "start_char": 6473,
+      "end_char": 6588
+    },
+    {
+      "type": "programme",
+      "text": "To qualify for a bachelor's pass status, learners are required to take\nseven subjects, four of which are compulsory and require a minimum\npass rate of 50% (two languages and Mathematics or Mathematical\nLiteracy) and three of the learner's own choice from the subjects on\noffer at the school.",
+      "institutionId": "352",
+      "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+      "start_char": 6589,
+      "end_char": 6880
+    },
+    {
+      "type": "admission",
+      "text": "Applicants must note that obtaining the minimum requirements\ndoes not guarantee acceptance.\nHOW TO CALCULATE YOUR ADMISSION",
+      "institutionId": "352",
+      "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+      "start_char": 6881,
+      "end_char": 7004
+    },
+    {
+      "type": "aps",
+      "text": "POINT SCORE (APS)\nTake the percentage (%) of each of your 6 subjects and divide it by 10",
+      "institutionId": "352",
+      "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+      "start_char": 7005,
+      "end_char": 7093
+    },
+    {
+      "type": "aps",
+      "text": "to get a point, then add all your points up to get your total APS (see\nexample in table below).\nADMISSIONS\n*All Faculties: Life Orientation is not counted for points, but you’re\nrequired to obtain at least Level 4 (50%) for acceptance\nDEAN'S DISCRETION",
+      "institutionId": "352",
+      "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+      "start_char": 7094,
+      "end_char": 7346
+    },
+    {
+      "type": "aps",
+      "text": "If the applicant does not meet the required admissions point score (APS)\nof 45+ points for automatic acceptance, you may still be considered for\na place at the Dean's discretion. Such placements are usually offered",
+      "institutionId": "352",
+      "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+      "start_char": 7347,
+      "end_char": 7561
+    },
+    {
+      "type": "aps",
+      "text": "to applicants with an APS of a minimum of 36-44 points with some\nspecial conditions (see Extended Studies Programme on page 8). It\nis, therefore, essential to give full information when completing the\napplication form as this information will form part of the discretionmaking process by the Dean.\nSubject Points %\nEnglish Home Language 7, 8 78\nisiXhosa Home or Additional Language 7,4 74\nMathematics or Mathematics Literacy 6,5 65\nLife Sciences 7, 5 75\nAccounting 7, 2 72\nLife Orientation* - 68\nHistory 6,9 69\nTOTAL 43,3 -\nRU READY! RHODES UNIVERSITY UNDERGRADUATE PROSPECTUS 7\nEXTENDED STUDIES PROGRAMME\nAs an alternative route to studies at Rhodes University, a limited\nnumber of students who show great potential are exposed to a carefully\ndesigned and supportive learning environment, which enhances their\nability to succeed. This option is for students from disadvantaged\nbackgrounds, on condition that they extend their degree over an extra\nyear. It is therefore essential that full information is provided when\ncompleting the application form as this forms part of the discretionmaking process by the Dean.\nNATIONAL BENCHMARK TESTS (NBT)\nIt is recommended that all first-time university-entering South African\napplicants write the NBT. If the applicant does not meet the automatic",
+      "institutionId": "352",
+      "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+      "start_char": 7562,
+      "end_char": 8850
+    },
+    {
+      "type": "admission",
+      "text": "entry requirements, the NBT results will form part of the Dean's\ndecision-making on applications. These test results can also be used\nif a candidate does not meet the entrance requirements in their final\nexaminations.\nThere are two tests which are written throughout the year at various\ncentres:\n• The Academic and Quantitative Literacy Test (AQL) consists\nof two components, namely, academic literacy and quantitative\nliteracy. All applicants should write the AQL test.\n• The Mathematics Test (MAT), this test is for applicants who wish to\nenter the following faculties: Commerce, Pharmacy and Science.\nFor further information about NBT, dates and venues, please visit:\nwww.nbt.ac.za or call 021 650 3523.\n8 RU READY! RHODES UNIVERSITY UNDERGRADUATE PROSPECTUS\nSymbol Result or Grade Points Awarded\nA Level, O Level and IGCSE A B C D E\nHIGCE 1 2 3 4 -\nIB 7 6 5 4 3\nA Level 10 9 8 7 6\nAS Level 9 8 7 6 -\nHIGCSE 8 7 6 - -\nO Level and IGCSE 5 4 3 - -\nIB\nHL 10 9 8 7 6\nSL 7 6 5 4 3\nINTERNATIONAL REQUIREMENTS",
+      "institutionId": "352",
+      "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+      "start_char": 8851,
+      "end_char": 9856
+    },
+    {
+      "type": "aps",
+      "text": "An APS of 40 points and above will receive a firm offer, and 37-39 points\nwill remain on hold until the end of September to be considered by\nthe Dean if space is available. Candidates who offer a combination of\nAdvanced Level (A), Advanced Subsidiary Level (AS), Ordinary Level\n(O), Higher International General Certificate of Secondary Education\n(HIGCSE) and International General Certificate of Secondary Education\n(IGCSE), five different subjects are counted.\nThe basic minimum requirement for admission to the University is a\ncertificate of Full Exemption or Foreign Conditional Exemption from\nthe Matriculation Board.\nVisit: www.mb.usaf.ac.za/online-assessment-and-application\nApplicants who have passed A Levels are eligible for full exemption\nprovided the passes in approved subjects meet the following\nrequirements:\nA LEVEL\nSymbols A-E (minimum of two subjects). AS Level: Symbols A-D (four\nsubjects and one at O Level). O Level: Symbols A-C (maximum of three\nsubjects) – at least two subjects at A Level and three different subjects\nat O Level or three subjects at A Level and two subjects at O Level.\nRATING (POINTS)\nFor candidates who offer A and O Levels and HIGCSE and IGCSEs,\nfive different subjects are counted. An additional one-fifth (1/5) of the\ntotal is added to this total. Zimsec students only deduct three points\nfor a final count.\nRU READY! RHODES UNIVERSITY UNDERGRADUATE PROSPECTUS 9\nLIST OF SUBJECTS/PROGRAMMES\nOFFERED AT RHODES UNIVERSITY\n• Accounting\n• Afrikaans and Netherlandic Studies\n• Anthropology\n• Biochemistry and Microbiology\n• Botany\n• Chemistry\n• Chinese\n• Classical Studies\n• Computer Science\n• Drama\n• Economics and Economics History\n• Education\n• English\n• English Language and Linguistics\n• Environmental Science\n• Fine Art\n• French\n• German\n• Geography\n• Geology\n• History\n• Human Kinetics and Ergonomics\n• Ichthyology and Fisheries Science\n• Information Systems\n• isiXhosa\nSUBJECTS/PROGRAMMES OFFERED\nSTUDENT FEES\nFees are set by the University Council during October or\nNovember each year; the exact fees will be published in the\nfee booklet sent to all students in December.\nIf you are offered an academic place at the University, you\nwill be asked to pay a non-refundable deposit to book your\nacademic place and residence (if required). The deposit will be\ncredited to your account when you register. Full details of the\namount due will be detailed in the letter of offer.\n• Journalism and Media Studies\n• Management\n• Mathematics (Applied and Pure)\n• Modern Fiction\n• Music and Musicology\n• Pharmacy\n• Philosophy\n• Physics and Electronics\n• Political and International Studies\n• Psychology\n• Sociology\n• Statistics\n• Zoology and Entomology\n10 RU READY! RHODES UNIVERSITY UNDERGRADUATE PROSPECTUS\nSPORTS SCHOLARSHIPS\nAwards are made at the end of each year. The awarding of these is\nbased on the achievements and performance of a student throughout\nthe year. Two Sutherland Old Rhodian bursaries are awarded to firsttime entering students. (See p.21 for Sports Bursaries offered.)\nNSFAS\nNSFAS is student-centred, which means that all applications must be\nsubmitted directly to NSFAS online at www.nsfas.org.za. For further\ninformation, please contact NSFAS' offices:\nT 0860 067 327 (share call)\nE info@nsfas.org.za\nW www.nsfas.org.za\nSTUDENT SCHOLARSHIPS\nMERIT SCHOLARSHIPS\nSouth African NSC candidates",
+      "institutionId": "352",
+      "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+      "start_char": 9857,
+      "end_char": 13207
+    },
+    {
+      "type": "aps",
+      "text": "APS\nCommerce,\nEducation,\nHumanities and\nLaw\nPharmacy and\nScience\n53-56 Points Full Tuition Full Tuition\n51-52 Points R35 251 Full Tuition\n49-50 Points R33 779 R33 779\n47-48 Points R29 940 R29 940",
+      "institutionId": "352",
+      "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+      "start_char": 13208,
+      "end_char": 13403
+    },
+    {
+      "type": "aps",
+      "text": "APS Commerce and\nHumanities\nPharmacy and\nScience\n>= 48 Points Full Tuition Full Tuition\n46-47 Points R35 251 Full Tuition\n44-45 Points R33 779 Full Tuition\nSouth African candidates with foreign qualifications\ncalculated on final Grade 12 results, no applications\nrequired\nRU READY! RHODES UNIVERSITY UNDERGRADUATE PROSPECTUS 11\nCOMMERCE FACULT Y",
+      "institutionId": "352",
+      "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+      "start_char": 13404,
+      "end_char": 13749
+    },
+    {
+      "type": "faculty",
+      "text": "The Faculty of Commerce offers three degrees at the undergraduate\nlevel and comprises four departments:\n• Accounting\n• Economics\n• Information Systems\n• Management",
+      "institutionId": "352",
+      "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+      "start_char": 13750,
+      "end_char": 13913
+    },
+    {
+      "type": "faculty",
+      "text": "The faculty prepares its graduates for the leading roles they will be\nexpected to play in their professional lives in the new millennium.\n12 RU READY! RHODES UNIVERSITY UNDERGRADUATE PROSPECTUS\nDegrees Subjects Fields",
+      "institutionId": "352",
+      "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+      "start_char": 13914,
+      "end_char": 14131
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Business Science 38-44 (Dean's discretion)\n45+ (Provisional offer)\nEnglish Level 4 (50-59%)\nMathematics Level 6 (70-79%)\nComputer Science\nEconomics\nInformation Systems\nManagement\nQuantitative Management",
+      "institutionId": "352",
+      "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+      "start_char": 14132,
+      "end_char": 14346
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Commerce (BCom)\n3 Years\n34-39 (Dean's discretion)\n40+ (Provisional offer)\nEnglish Level 4 (50-59%)\nMathematics Level 4 (50-59%)\nAccounting\nGeneral Curriculum",
+      "institutionId": "352",
+      "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+      "start_char": 14347,
+      "end_char": 14516
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Economics (BEco)\n3 Years\n34-39 (Dean's discretion)\n40+ (Provisional offer)\nEnglish Level 4 (50%)\nMathematics Level 4 (50%)\nBusiness Sciences\nEnvironmental Economics\nMineral Economics\nSocial Sciences\nBCom Extended Studies\n4 Years\n34-37\nMathematics (50%)\nAdditional Literacy\nNumeracy Courses\nRU READY! RHODES UNIVERSITY UNDERGRADUATE PROSPECTUS 13\nHUMANITIES FACULT Y",
+      "institutionId": "352",
+      "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+      "start_char": 14517,
+      "end_char": 14894
+    },
+    {
+      "type": "faculty",
+      "text": "The Faculty of Humanities offers a very wide range of possible degrees\nand course combinations. Students can major in Journalism and Politics,\nClassics and French, German, isiXhosa, Afrikaans, or any other language\noffered or Management and Industrial Sociology or Organizational\nPsychology, Fine Art and History, Information Systems and English or\nPhilosophy, Anthropology, Computer Science and Music. Mathematics,\nDrama or Linguistics. There are many possible combinations; students\nare requested to read the rules of their degrees to make sure they are on",
+      "institutionId": "352",
+      "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+      "start_char": 14895,
+      "end_char": 15453
+    },
+    {
+      "type": "faculty",
+      "text": "track to complete their degree within the allocated period. The faculty\noffers an excellent liberal arts education – an education for life which\nis formative for any career choice. A liberal arts education provides\nstudents with critical reasoning skills, in particular, the ability to analyse\nand evaluate arguments and probe hidden assumptions to organize\ncomplex material in coherent ways. A Humanities Degree enhances\na student's ability to understand the views of others, to communicate\nwell, to cope with ambiguity and uncertainty, and to acknowledge one's\nignorance. An education introduces students to the formative moments\nof their histories, societies, and their identities. It allows students to enjoy\nwords of music and drama and literature and languages. All the above\nmay be combined with degrees or courses, which are more immediately\ncareer-orientated than the liberal arts education. Specialised degrees\nin Journalism or Fine Art or Music are offered. However, all within the\ncontext of a broader, rather than technical education. A Humanities\nDegree opens worlds; it provides education and not training. As such,\nit provides students with critical skills and characteristics, which are so\nimportant for our individual and national development.",
+      "institutionId": "352",
+      "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+      "start_char": 15454,
+      "end_char": 16715
+    },
+    {
+      "type": "faculty",
+      "text": "The Faculty of Humanities is by far the largest faculty at Rhodes\nUniversity with 11 academic departments and two schools, it offers a\nrich variety of courses within four broad categories:\n• Arts: Drama, Fine Art, Music and Musicology\n• Languages: isiXhosa, English, Afrikaans, English Language and\nLinguistics, French, German, Latin, Greek and Chinese\n• Professional Courses: Journalism and Media Studies\n• Social Studies: Sociology, Psychology, Anthropology, Political\nStudies, History, Philosophy, Art History and Visual Culture and\nClassical Civilization\n14 RU READY! RHODES UNIVERSITY UNDERGRADUATE PROSPECTUS\nDegrees Subjects Fields",
+      "institutionId": "352",
+      "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+      "start_char": 16716,
+      "end_char": 17354
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Arts (BA) 34-44 (Dean's discretion)\n45+ (Provisional offer)\nEnglish Home Language (60%)\nEnglish First Additional Language (65%)\nAnthropology\nDrama\nEnglish\nLanguages\nLiterature\nPolitics\nPsychology\nSociology",
+      "institutionId": "352",
+      "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+      "start_char": 17355,
+      "end_char": 17572
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Social Science (BSS) 34-44 (Dean's discretion)\n45+ (Provisional offer)\nEnglish Home Language (60%)\nEnglish First Additional Language (65%)\nAnthropology\nEconomics\nManagement\nPolitics\nPsychology\nSociology",
+      "institutionId": "352",
+      "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+      "start_char": 17573,
+      "end_char": 17787
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Fine Arts (BFA) 34-44 (Dean's discretion)\n45+ (Provisional offer)\nEnglish Home Language (60%)\nEnglish First Additional Language (65%)\nArt History\nFine Art Practice\nVisual Culture",
+      "institutionId": "352",
+      "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+      "start_char": 17788,
+      "end_char": 17978
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Music (BMus) 34-44 (Dean's discretion)\n45+ (Provisional offer)\nEnglish Home Language (60%)\nEnglish First Additional Language (65%)\nInstrumental Music\nMusic Theory",
+      "institutionId": "352",
+      "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+      "start_char": 17979,
+      "end_char": 18153
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Journalism (BJourn) 34-44 (Dean's discretion)\n45+ (Provisional offer)\nEnglish Home Language (60%)\nEnglish First Additional Language (65%)\nSame as a BA or BSS with only Journalism in\nthe fourth year\nBA or BSS Extended Studies 34-37\nEnglish Home Language (60%)\nEnglish First Additional Language (65%)\nLimited Curriculum (Journalism and Anthro -\npology or Politics and Sociology in the first\nyear\nPlease note: Some programmes also require portfolios during the application process.\nRU READY! RHODES UNIVERSITY UNDERGRADUATE PROSPECTUS 15\nRhodes University offers two ways to qualify as a professional teacher:",
+      "institutionId": "352",
+      "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+      "start_char": 18154,
+      "end_char": 18772
+    },
+    {
+      "type": "faculty",
+      "text": "• By completing a bachelor's degree in another faculty and then\ncapping it with the one-year Postgraduate Certificate in Education\n(PGCE)\nIf you are planning to do a PGCE, please check your undergraduate\ncurriculum with the Dean of Education. This is to ensure you have the\nappropriate subjects for teaching in your undergraduate degree.\nDegrees Subjects Fields",
+      "institutionId": "352",
+      "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+      "start_char": 18852,
+      "end_char": 19213
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Education (BEDFP)\n4 Years\n39-43 (Dean's discretion)\n44+ (Provisional offer)\nEnglish Level 4 (50-59%)\nMathematics Level 3 (40-49%)\nMathematics Literacy Level 4 (50-59%)\nFoundation Phase Teaching\nPostgraduate Certificate in Education\n(PGCE)\n1 Year",
+      "institutionId": "352",
+      "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+      "start_char": 19214,
+      "end_char": 19471
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor's Degree FET Teaching (Grade 10-12)\nSenior Phase Teaching (Grade 7-9)\nEDUCATION FACULT Y\n16 RU READY! RHODES UNIVERSITY UNDERGRADUATE PROSPECTUS\nLAW FACULT Y",
+      "institutionId": "352",
+      "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+      "start_char": 19472,
+      "end_char": 19638
+    },
+    {
+      "type": "programme",
+      "text": "The Bachelor of Law (LLB) degree is the academic qualification required\nto practise law in South Africa. The degree may be completed as a four\nyear, two year, or three year programme.",
+      "institutionId": "352",
+      "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+      "start_char": 19639,
+      "end_char": 19822
+    },
+    {
+      "type": "faculty",
+      "text": "The Faculty admits a limited number of students directly into LLB1.\nHowever, most students who wish to pursue legal studies first register",
+      "institutionId": "352",
+      "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+      "start_char": 19823,
+      "end_char": 19961
+    },
+    {
+      "type": "faculty",
+      "text": "for a general degree in another Faculty.\nStudents may choose courses from a wide range of subjects, allowing\nfor various combinations. In their second year, students decide which\nroute to follow. This structure also allows students who realise during\ntheir first year that law is not the right career path to change their\ndirection of study without forfeiting a year.\nDegrees Subjects Focus",
+      "institutionId": "352",
+      "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+      "start_char": 19962,
+      "end_char": 20352
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Law (LLB)\n4 Years 40-44 (Dean's discretion)\n45+ (Provisional offer)\nEnglish Home Language Level 5 (60-69%)\nEnglish First Additional Language Level 6\n(70-79%)\nMathematics Level 4 (50-59%)\nMathematics Literacy Level 5 (60-69%)\nLaw\nRU READY! RHODES UNIVERSITY UNDERGRADUATE PROSPECTUS 17\nPHARMACY FACULT Y\nThe BPharm degree is registered on the NQF as a Level 8 qualification,\nand it is a four-year degree. The curriculum is set by the South African\nPharmacy Council.\nPharmacy comprises several subjects concerned with the production,\ncustody, distribution, and use of medicines. Pharmacists play a\nsupporting role in guiding and evaluating medication treatment to\nensure patient safety. The work of a registered pharmacist may be\nperformed in the following sectors: manufacturing, wholesale and\ndistribution, community, hospital, research, or academia.\nIn the final year, students are permitted to select two electives offered",
+      "institutionId": "352",
+      "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+      "start_char": 20353,
+      "end_char": 21289
+    },
+    {
+      "type": "faculty",
+      "text": "in the Faculty of Pharmacy or other Faculties and undertake a research\nelective, provided they are relevant to Pharmacy.\nDegrees Subjects Focus",
+      "institutionId": "352",
+      "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+      "start_char": 21290,
+      "end_char": 21433
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Pharmacy (BPharm) 40-44 (Dean's discretion)\nMathematics Level 5 (60-69%)\nLife Sciences Level 5 (60-69%)\nPhysical Science Level 5 (60-69%)\n45+ (Provisional offer)\nMathematics Level 6 (70-79%)\nLife Sciences Level 6 (70-79%)\nPhysical Science Level 6 (70-79%)\nAnatomy and Physiology 1\nCell Biology\nChemistry\nFoundation of Pharmacy\nIntroduction to ICT\nMathematics 1S\nPharmaceutical Biochemistry 1\n18 RU READY! RHODES UNIVERSITY UNDERGRADUATE PROSPECTUS\nSCIENCE FACULT Y\nThe degree is taken over three years, and the key feature of the",
+      "institutionId": "352",
+      "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+      "start_char": 21434,
+      "end_char": 21975
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Science degree (BSc) is its flexibility. Within the confines\nset by the timetable, students can combine subjects in myriad ways to\ncreate curricula that meet their interests.\nThis flexibility includes allowing students to take a major subject\nfrom Commerce, Humanities and Law such that students can major\nin Environmental Science and Anthropology, Biochemistry and Law,\nor Geology and Economics. The flexibility in curriculum design allows\nstudents to decide if they are attracted to transdisciplinary academic\ntraining and education.\nDegrees Subjects Fields",
+      "institutionId": "352",
+      "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+      "start_char": 21976,
+      "end_char": 22547
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Science (BSc)\n3 Years\n39-44 (Dean's discretion)\n45+ (Provisional offer)\nEnglish Home Language (60%)\nEnglish First Additional Language (65%)\nLife Sciences Level 5 (60-69%) OR\nMathematics Level 4 (50-59%)\nPhysical Science Level 5 (60-69%)\nBiological Sciences\nComputational Sciences\nEarth Sciences\nLife Sciences",
+      "institutionId": "352",
+      "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+      "start_char": 22548,
+      "end_char": 22868
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Information Systems\n(BScInfoSys)\n3 Years\n40-44 (Dean's discretion)\n45+ (Provisional offer)\nEnglish Level 5 (60-69%)\nMathematics Level 4 (50-59%)\nPhysical Science Level 5 (60-69%)\nComputer Science\nEconomics Management\nInformation Systems\nRU READY! RHODES UNIVERSITY UNDERGRADUATE PROSPECTUS 19\nRESIDENCES\nThe Rhodes University residential system is key to the tradition of\nfriendship and kinship. Currently consisting of 14 halls of residence,\neach housing between 50 to 120 students, grouped around a central\ndining hall. Each residence has four houses which have individual\nconstitutions, rules, and traditions. Some halls have both men's and\nwomen's houses, while others are for men or women only.\nAlthough most student rooms are single, some first-year students\nmay be allocated to the few double rooms in various residences; an\napplication may also be made for a double room. The residences are\nrun by hall wardens who are responsible for the general organisation\nand management of the hall, with the hall committee, acting as an\nadvisory body. Hall and house wardens are always available to help\nand advise students, but their function is not that of a surrogate parent\nor 'watchdog'.\nRules are kept to a minimum but are there to maintain an orderly,\npeaceful environment conducive to studying and community living.\nFor further information please visit:\nwww.ru.ac.za/studentlife/hallsresidences\nOPPIDANS\nAn Oppidan is an inhabitant of a university town, a student living offcampus in accommodation rented independently of Rhodes University,\nalso known as an Oppi in short. There is an Oppidan Committee whose\npurpose is to engage with students and look after their interests by\nkeeping open channels of communication. They also assist Oppidan\nstudents by providing a support base in the transition between schools\nand University. They organise events to foster a sense of togetherness\nso that Oppies do not feel excluded from university life because they\ndo not live on campus. Advice is given on signing lease agreements\nand being an employer. Through the Oppidan Committee, first-year\nstudents can request to be assigned a mentor who will assist them in\nadjusting and settling into university life off-campus. Oppidans have\naccess to facilities such as the Stephen Bantu Biko building, where the\nOppidan dining hall is located, as well as the Oppidan common room\nwhere students can relax and have tea and coffee, watch TV, or play\na game of pool in between lectures. Free bus service is available until\n22:00 on weekdays to transport Oppidans.\nFor further information please visit:\nwww.ru.ac.za/studentlife/oppidans\nCAMPUS LIFE\nACCOMMODATION\nApproximately half of our students reside within our 55 residences, while the other half stay off-campus and are referred to as Oppidans.\n20 RU READY! RHODES UNIVERSITY UNDERGRADUATE PROSPECTUS\nSTUDENT SPORTS\nThe University has many active sports clubs to choose from. A wide\nrange of activities is supported by excellent competitive and recreational\nfacilities and equipment which all students are entitled to make use\nof, at whatever level, enabling both competitive and recreational\nsports people to fulfil their sporting ambitions. All the sports facilities,\nexcluding those required for rowing, sailing, and canoeing, are located\non campus and within easy walking distance from the residences.\nInvolvement in sports at Rhodes University holds the promise of\nopportunity, achievement, enjoyment, the establishment of lifelong\nfriendships and, above all, a well-rounded university experience.\nThe following sports bursaries are offered:\n• Sport bursaries that range from R10 000 - R20 000\n• Ally Weakley Rugby Bursary – 1 Full Scholarship (Tuition and\nAccommodation)\n• Red Bull Bursaries – Amount differs every year (Tuition and\nAccommodation)\nAquatics\nArchery\nAthletics\nBasketball\nCanoe\nChess\nCricket\nDance Sport\nFirst Aid\nFly Fishing\nGolf\nHockey\nKarate\nMixed Martial Arts\nMountain Hiking and\nClimbing\nNetball\nPool\nRifle\nRowing\nRugby\nSailing\nSoccer\nSquash\nSurfing\nSwimming\nTable Tennis\nTaekwondo\nTennis\nUltimate Frisbee\nUnderwater Hockey\nVolleyball\nSTUDENT SOCIETIES\nGeneral\nActivate\nAiesec\nAmnesty International\nAstronomy\nBallroom\nBiochemistry and Microbiology\nBotanical\nChamber Choir\nChemistry\nChoral\nDebating\nElectroSoc\nGaming\nGeology\nGolden Key International\nGolden Key Int. Honour\nHeal The World Foundation\nLaw Students Council\nLive Music\nPhotographic\nRotaract\nRUCUS\nRULES\nRUPSA\nStock Exchange\nThinking Strings\nToastmasters\nWine Tasting\nWord Association\nZoology\nInternational and Cultural\nEast African\nFrench\nHellenic\nHindu\nWest African\nZimsoc\nPolitical\nAZASCO\nDemocratic\nPASMA\nSASCO\nSocialist Student Workers\nReligious\nACTS\nAnglican\nAssembly of God\nBahai\nHis People\nMuslim Students Association\nSAUJS\nSeventh Day Adventists\nStudent's Christian Organisation\nVine Branch Ministries\nVoice of Glory\nRU READY! RHODES UNIVERSITY UNDERGRADUATE PROSPECTUS 21\nUniversity life is not always plain sailing. While some students settle\ndown quickly and easily, others need a bit of assistance and support\nalong the way. Through the Office of Student Affairs, the University can\nassist with all kinds; free and confidential support from the Counselling\nCentre, professional and comprehensive primary healthcare from the\nHealth Care Centre and the caring and sensitive warden staff who are\nready to go the extra mile to ensure that students are happy and able\nto focus on their studies.\nSome students know where they are headed, and others might need\na little guidance; whatever the case, students have access to a Career\nCentre which offers year-round advice and workshops to help students\nwith their future career plans. A well-subscribed Graduate Recruitment\nProgramme runs during the third term where more than 60 national and\ninternational employers visit to recruit students.\nDISABILITY SUPPORT\nWhich students can we help?\n• Students with hearing impairments\n• Students with mobility impairments\n• Students with sight impairments\n• Students with learning impairments such as dyslexia\n• Students diagnosed with disabilities or chronic conditions that\nmight negatively affect their studies such as Asperger's Syndrome\nand diabetes\nFor more information, contact:\nT 046 603 8181\nE studentaffairs@ru.ac.za\nSTUDENT SUPPORT\nThis booklet is a summary of a great deal of information.\nFor more about everything you could want to know, visit:\nwww.ru.ac.za/admissiongateway\n22 RU READY! RHODES UNIVERSITY UNDERGRADUATE PROSPECTUS\nONLINE APPLICATIONS\nOpen 01 April – 30 September\nFor more information, visit: www.ru.ac.za/admissiongateway\nApplicants may apply using their Grade 11 final term report,\nor Grade 12 Term 2 report.\nRU READY! RHODES UNIVERSITY UNDERGRADUATE PROSPECTUS 23\nAPPLY ONLINE AT\nwww.ross.ru.ac.za\nRhodes University Student Bureau\nPO Box 94\nMakhanda\nT 046 603 8276\nF 046 603 8300\nregistrar@ru.ac.za\nwww.ru.ac.za\nProspective Students: www.ru.ac.za/studentlife\nApply Here: www.ru.ac.za/admissiongateway\nrustudentrecruitment\nru.student.recrui\nRUStudentRecruitment",
+      "institutionId": "352",
+      "source_file": "lib/seed/prospectuses/rhodes-university.pdf",
+      "start_char": 22869,
+      "end_char": 29896
+    }
+  ],
+  "matched_files": [
+    "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/rhodes-university.pdf"
+  ],
+  "skipped_chunks": [
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/rhodes-university.pdf",
+      "chunk_index": 28,
+      "chars": 78
+    }
+  ]
+}

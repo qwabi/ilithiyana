@@ -1,0 +1,170 @@
+{
+  "institution_id": "wsu",
+  "institution_name": "Walter Sisulu University",
+  "institution_type": "comprehensive-university",
+  "campuses": [
+    {
+      "name": "Mthatha",
+      "city": "Mthatha",
+      "province": "Eastern Cape",
+      "is_main": true
+    },
+    {
+      "name": "Butterworth",
+      "city": "Butterworth",
+      "province": "Eastern Cape",
+      "is_main": false
+    },
+    {
+      "name": "Buffalo City",
+      "city": "East London",
+      "province": "Eastern Cape",
+      "is_main": false
+    },
+    {
+      "name": "Komani",
+      "city": "Queenstown",
+      "province": "Eastern Cape",
+      "is_main": false
+    }
+  ],
+  "faculties": [
+    {
+      "name": "Economic & Financial Sciences",
+      "overview": "Situated at Mthatha campus; includes SAICA-accredited accounting programmes."
+    },
+    {
+      "name": "Education",
+      "overview": "Largest faculty, located at Komani with Mthatha delivery site."
+    },
+    {
+      "name": "Engineering, Built Environment & IT",
+      "overview": "Located at Buffalo City (BCC) and Butterworth (BTW)."
+    },
+    {
+      "name": "Law, Humanities & Social Sciences",
+      "overview": "Covers Law, Arts, Psychology, and Social Work."
+    },
+    {
+      "name": "Management and Public Administration Sciences",
+      "overview": "Located in Butterworth; focuses on Public Admin and Business Management."
+    },
+    {
+      "name": "Medicine & Health Sciences",
+      "overview": "Based at Mthatha; includes the School of Medicine."
+    },
+    {
+      "name": "Natural Sciences",
+      "overview": "Offers 27 programmes across Mthatha and Buffalo City sites."
+    }
+  ],
+  "programmes": [
+    {
+      "name": "Bachelor of Accounting Science",
+      "code": "W63009",
+      "min_aps": 27,
+      "subjects_compulsory": [
+        { "subject": "English", "minimum_nsc_level": 5 },
+        { "subject": "Mathematics", "minimum_nsc_level": 4 }
+      ],
+      "overview": "Foundation for the CA (SA) route."
+    },
+    {
+      "name": "Diploma in Civil Engineering",
+      "code": "W60003",
+      "min_aps": 24,
+      "subjects_compulsory": [
+        { "subject": "English", "minimum_nsc_level": 4 },
+        { "subject": "Mathematics", "minimum_nsc_level": 4 },
+        { "subject": "Physical Sciences", "minimum_nsc_level": 4 }
+      ]
+    },
+    {
+      "name": "Bachelor of Education in Foundation Phase Teaching",
+      "code": "W62006",
+      "min_aps": 24,
+      "subjects_compulsory": [
+        { "subject": "IsiXhosa HL", "minimum_nsc_level": 4 },
+        { "subject": "English FAL", "minimum_nsc_level": 4 },
+        {
+          "subject": "Life Orientation",
+          "minimum_nsc_level": 5,
+          "notes": "Counts as a Major here."
+        }
+      ],
+      "subject_or_groups": [
+        { "options": ["Mathematics", "Math Literacy"], "minimum_nsc_level": 2 }
+      ]
+    },
+    {
+      "name": "Bachelor of Laws (LLB)",
+      "code": "W66021",
+      "min_aps": 26,
+      "subjects_compulsory": [{ "subject": "English", "minimum_nsc_level": 5 }],
+      "subject_or_groups": [
+        { "options": ["Mathematics", "Math Literacy"], "minimum_nsc_level": 3 }
+      ]
+    },
+    {
+      "name": "Bachelor of Medicine and Bachelor of Surgery (MBChB)",
+      "code": "W65006",
+      "min_aps": 30,
+      "subjects_compulsory": [
+        { "subject": "English", "minimum_nsc_level": 5 },
+        { "subject": "Mathematics", "minimum_nsc_level": 5 },
+        { "subject": "Physical Sciences", "minimum_nsc_level": 5 },
+        { "subject": "Life Sciences", "minimum_nsc_level": 5 }
+      ]
+    },
+    {
+      "name": "BSc in Computer Science",
+      "code": "W64015",
+      "min_aps": 25,
+      "subjects_compulsory": [
+        { "subject": "English", "minimum_nsc_level": 4 },
+        { "subject": "Mathematics", "minimum_nsc_level": 5 },
+        { "subject": "Physical Sciences", "minimum_nsc_level": 4 }
+      ]
+    },
+    {
+      "name": "Bachelor of Social Work",
+      "code": "W66023",
+      "min_aps": 26,
+      "subjects_compulsory": [
+        { "subject": "English", "minimum_nsc_level": 4 },
+        { "subject": "African Language", "minimum_nsc_level": 5 },
+        { "subject": "Life Sciences", "minimum_nsc_level": 4 }
+      ]
+    },
+    {
+      "name": "Diploma in Journalism",
+      "code": "W61006",
+      "min_aps": 21,
+      "subjects_compulsory": [
+        { "subject": "English", "minimum_nsc_level": 5 },
+        { "subject": "Another Language", "minimum_nsc_level": 4 }
+      ]
+    },
+    {
+      "name": "Diploma in Internal Auditing",
+      "code": "W63004",
+      "min_aps": 21,
+      "subjects_compulsory": [{ "subject": "English", "minimum_nsc_level": 3 }],
+      "subject_or_groups": [
+        { "options": ["Mathematics", "Accounting"], "minimum_nsc_level": 3 },
+        { "options": ["Math Literacy"], "minimum_nsc_level": 5 }
+      ]
+    },
+    {
+      "name": "Bachelor of Nursing",
+      "code": "W65004",
+      "min_aps": 24,
+      "subjects_compulsory": [
+        { "subject": "English", "minimum_nsc_level": 4 },
+        { "subject": "Mathematics", "minimum_nsc_level": 4 },
+        { "subject": "Physical Sciences", "minimum_nsc_level": 4 },
+        { "subject": "Life Sciences", "minimum_nsc_level": 4 }
+      ]
+    }
+  ]
+}

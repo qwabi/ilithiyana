@@ -1,0 +1,5 @@
+{"ts": 1779893406.8964338, "institutionId": "341", "event": "preprocess_done", "matched_files": ["/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/majuba-tvet-college-web.txt"], "chunks_created": 0, "skipped_chunk_reasons": [{"reason": "chunk_too_small", "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/majuba-tvet-college-web.txt", "chunk_index": 0, "chars": 57}]}
+{"ts": 1779893406.896904, "institutionId": "341", "event": "extract_done", "extracted_programmes_count": 0, "llm_calls": 0, "faculties_found": 0, "chunks_processed": 0}
+{"ts": 1779893406.897289, "institutionId": "341", "event": "normalize_done", "faculties": 0, "programmes": 0}
+{"ts": 1779893406.8977568, "institutionId": "341", "event": "dedupe_done", "programmes_before": 0, "programmes_after": 0}
+{"ts": 1779893406.89818, "institutionId": "341", "event": "institution_pipeline_complete", "etlStatus": "no_programmes_extracted", "total_llm_calls_institution": 0}

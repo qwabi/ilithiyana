@@ -1,0 +1,2042 @@
+{
+  "meta": {
+    "institution_id": "412",
+    "slug": "university-of-mpumalanga",
+    "name": "University of Mpumalanga",
+    "institution_type": "university",
+    "province": "Mpumalanga",
+    "city": "Mbombela",
+    "official_website": "https://www.ump.ac.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/412/university-of-mpumalanga",
+    "application_url": null,
+    "prospectus_url": null,
+    "nsfas_supported": true,
+    "distance_learning": null,
+    "accreditation": {
+      "dh et": "Accredited",
+      "saqa": "Registered"
+    },
+    "qualification_types": [
+      "Undergraduate",
+      "Postgraduate",
+      "Diploma",
+      "Certificate"
+    ]
+  },
+  "profile": {
+    "short_name": "UMP",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/0/08/University_of_Mpumalanga_logo.png"
+  },
+  "contact": {
+    "emails": [
+      "rita.koch@ump.ac.za",
+      "xolile.sibuyi@ump.ac.za",
+      "studentapplications@ump.ac.za",
+      "lebohang.sithole@ump.ac.za",
+      "mduduzi.nkambule@ump.ac.za",
+      "keletso.thobejane@ump.ac.za",
+      "euphodia.mashego@ump.ac.za",
+      "lungile.silombo@ump.ac.za",
+      "info@ump.ac.za",
+      "joseph.mokoatala@ump.ac.za",
+      "welhemina.manamela@ump.ac.za"
+    ],
+    "phone_numbers": [
+      "0130020030",
+      "013 002 0001"
+    ],
+    "physical_address": "Cnr R40 & D725 Roads, Mbombela, 1200",
+    "postal_address": "Bag X11283, Mbombela, 1200",
+    "socials": {
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "x": "",
+      "youtube": ""
+    }
+  },
+  "campuses": [],
+  "faculties": [],
+  "programmes": [
+    {
+      "id": "prog:544873e0f512",
+      "name": "BA (GENERAL)",
+      "normalized_name": "BA (GENERAL)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": 28,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:8087ab9ba210",
+      "name": "BACHELOR OF ADMINISTRATION",
+      "normalized_name": "BACHELOR OF ADMINISTRATION",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": 30,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:5f34c37c0974",
+      "name": "BACHELOR OF AGRICUL TURE",
+      "normalized_name": "BACHELOR OF AGRICUL TURE",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": 26,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:2154ec4abddd",
+      "name": "BACHELOR OF DEVELOPMENT STUDIES",
+      "normalized_name": "BACHELOR OF DEVELOPMENT STUDIES",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": 19,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:e242cd494f3b",
+      "name": "BACHELOR OF ICT",
+      "normalized_name": "BACHELOR OF ICT",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": 32,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:fe5fddc1b630",
+      "name": "BACHELOR OF SOCIAL WORK",
+      "normalized_name": "BACHELOR OF SOCIAL WORK",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": 28,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:336e01e71992",
+      "name": "BCom",
+      "normalized_name": "BCom",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": 30,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:cd550a49c0bd",
+      "name": "BEd",
+      "normalized_name": "BEd",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": 26,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:7c1e81c79817",
+      "name": "BSc",
+      "normalized_name": "BSc",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": 30,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:d5a58573cc64",
+      "name": "BSc IN AGRICUL TURE",
+      "normalized_name": "BSc IN AGRICUL TURE",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": 30,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:a6a7c2017852",
+      "name": "BSc IN ENVIRONMENTAL SCIENCE",
+      "normalized_name": "BSc IN ENVIRONMENTAL SCIENCE",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": 30,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:9f70fab5877a",
+      "name": "BSc IN FORESTRY",
+      "normalized_name": "BSc IN FORESTRY",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": 24,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:adad91456bdb",
+      "name": "Diploma in a relevant ICT Course",
+      "normalized_name": "Diploma in a relevant ICT Course",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": 26,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:dd528c0267fa",
+      "name": "DIPLOMA IN AGRICUL TURE IN PLANT PRODUCTION",
+      "normalized_name": "DIPLOMA IN AGRICUL TURE IN PLANT PRODUCTION",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": 23,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:a1ecf5c69110",
+      "name": "Diploma in an appropriate",
+      "normalized_name": "Diploma in an appropriate",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": 30,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:44f0f4db351f",
+      "name": "Diploma in an appropriate field such as",
+      "normalized_name": "Diploma in an appropriate field such as",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": 24,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:edae79e3961c",
+      "name": "DIPLOMA IN ANIMAL PRODUCTION",
+      "normalized_name": "DIPLOMA IN ANIMAL PRODUCTION",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": 24,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:c5c8f97d6667",
+      "name": "DIPLOMA IN HOSPITALITY MANAGEMENT",
+      "normalized_name": "DIPLOMA IN HOSPITALITY MANAGEMENT",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": 24,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:f1fa3cb39bff",
+      "name": "DIPLOMA IN ICT IN APPLICATIONS DEVELOPMENT",
+      "normalized_name": "DIPLOMA IN ICT IN APPLICATIONS DEVELOPMENT",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": 24,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:5d2c12b11a97",
+      "name": "DIPLOMA IN NATURE CONSERVATION",
+      "normalized_name": "DIPLOMA IN NATURE CONSERVATION",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": 30,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:99756c342677",
+      "name": "LLB",
+      "normalized_name": "LLB",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": 28,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:9ac6c9124023",
+      "name": "NCV level 4",
+      "normalized_name": "NCV level 4",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": 28,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:412:Degree|12fe17ce28a9|bachelor of education",
+      "name": "BACHELOR OF EDUCATION",
+      "normalized_name": null,
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    }
+  ],
+  "admission": {
+    "aps_name": null,
+    "aps_calculation_notes": null,
+    "minimum_aps_for_bachelors": null,
+    "minimum_aps_for_diplomas": null,
+    "minimum_entry_note": null,
+    "life_orientation_cap": null,
+    "aps_rules": [],
+    "programme_requirements": [
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BACHELOR OF ICT",
+        "faculty_name": null,
+        "detail": "Subject requirements for BACHELOR OF ICT",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics: Level 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics: Level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 70,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics and 70%"
+            }
+          ]
+        ],
+        "institution_id": "412",
+        "institution_name": "University of Mpumalanga",
+        "source_file": "prospectuses/university-of-mpumalanga.pdf",
+        "source_excerpt": "BACHELOR OF ICT",
+        "extraction_confidence": 0.91,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:07f2861deeec",
+        "institutionId": "412"
+      },
+      {
+        "rule_type": "aps_minimum",
+        "programme_name": "BSc",
+        "faculty_name": null,
+        "detail": "Minimum APS 30 for BSc",
+        "aps_minimum": 30,
+        "institution_id": "412",
+        "institution_name": "University of Mpumalanga",
+        "source_file": "prospectuses/university-of-mpumalanga.pdf",
+        "source_excerpt": "BACHELOR OF SCIENCE",
+        "extraction_confidence": 0.91,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "aps_minimum",
+        "id": "adm:098443accb4e",
+        "institutionId": "412"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "DIPLOMA IN AGRICUL TURE IN PLANT PRODUCTION",
+        "faculty_name": null,
+        "detail": "Subject requirements for DIPLOMA IN AGRICUL TURE IN PLANT PRODUCTION",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 6,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy: Level 6"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 24,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics or 24"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Sciences: Level 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics: Level 3"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics: Level 4"
+            }
+          ]
+        ],
+        "institution_id": "412",
+        "institution_name": "University of Mpumalanga",
+        "source_file": "prospectuses/university-of-mpumalanga.pdf",
+        "source_excerpt": "DIPLOMA IN AGRICUL TURE IN",
+        "extraction_confidence": 0.91,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:0a010a40727d",
+        "institutionId": "412"
+      },
+      {
+        "rule_type": "aps_minimum",
+        "programme_name": "BACHELOR OF DEVELOPMENT STUDIES",
+        "faculty_name": null,
+        "detail": "Minimum APS 19 for BACHELOR OF DEVELOPMENT STUDIES",
+        "aps_minimum": 19,
+        "institution_id": "412",
+        "institution_name": "University of Mpumalanga",
+        "source_file": "prospectuses/university-of-mpumalanga.pdf",
+        "source_excerpt": "BACHELOR OF DEVELOPMENT STUDIES",
+        "extraction_confidence": 0.91,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "aps_minimum",
+        "id": "adm:0a2b7bca7738",
+        "institutionId": "412"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "DIPLOMA IN HOSPITALITY MANAGEMENT",
+        "faculty_name": null,
+        "detail": "Subject requirements for DIPLOMA IN HOSPITALITY MANAGEMENT",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy: Level 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 25,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics or 25"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematical Literacy",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Mathematical Literacy: Level 3"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics: Level 3"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 2,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics: Level 2"
+            }
+          ]
+        ],
+        "institution_id": "412",
+        "institution_name": "University of Mpumalanga",
+        "source_file": "prospectuses/university-of-mpumalanga.pdf",
+        "source_excerpt": "DIPLOMA IN HOSPITALITY MANAGEMENT",
+        "extraction_confidence": 0.91,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:1219f8c34a7f",
+        "institutionId": "412"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "Diploma in a relevant ICT Course",
+        "faculty_name": null,
+        "detail": "Subject requirements for Diploma in a relevant ICT Course",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 70,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics and 70%"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 27,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics or 27"
+            }
+          ]
+        ],
+        "institution_id": "412",
+        "institution_name": "University of Mpumalanga",
+        "source_file": "prospectuses/university-of-mpumalanga.pdf",
+        "source_excerpt": "Diploma in a relevant ICT Course",
+        "extraction_confidence": 0.91,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:1c6fb6b0e324",
+        "institutionId": "412"
+      },
+      {
+        "rule_type": "aps_minimum",
+        "programme_name": "DIPLOMA IN HOSPITALITY MANAGEMENT",
+        "faculty_name": null,
+        "detail": "Minimum APS 24 for DIPLOMA IN HOSPITALITY MANAGEMENT",
+        "aps_minimum": 24,
+        "institution_id": "412",
+        "institution_name": "University of Mpumalanga",
+        "source_file": "prospectuses/university-of-mpumalanga.pdf",
+        "source_excerpt": "DIPLOMA IN HOSPITALITY MANAGEMENT",
+        "extraction_confidence": 0.91,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "aps_minimum",
+        "id": "adm:2aa000acbb49",
+        "institutionId": "412"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BACHELOR OF AGRICUL TURE",
+        "faculty_name": null,
+        "detail": "Subject requirements for BACHELOR OF AGRICUL TURE",
+        "subjects_compulsory": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Life Science: Level 4"
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 6,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy: Level 6"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 28,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics or 28"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Science: Level 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics: Level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics: Level 4"
+            }
+          ]
+        ],
+        "institution_id": "412",
+        "institution_name": "University of Mpumalanga",
+        "source_file": "prospectuses/university-of-mpumalanga.pdf",
+        "source_excerpt": "BACHELOR OF AGRICUL TURE",
+        "extraction_confidence": 0.91,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:2b75d39c1a19",
+        "institutionId": "412"
+      },
+      {
+        "rule_type": "aps_minimum",
+        "programme_name": "DIPLOMA IN ICT IN APPLICATIONS DEVELOPMENT",
+        "faculty_name": null,
+        "detail": "Minimum APS 24 for DIPLOMA IN ICT IN APPLICATIONS DEVELOPMENT",
+        "aps_minimum": 24,
+        "institution_id": "412",
+        "institution_name": "University of Mpumalanga",
+        "source_file": "prospectuses/university-of-mpumalanga.pdf",
+        "source_excerpt": "DIPLOMA IN ICT IN",
+        "extraction_confidence": 0.91,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "aps_minimum",
+        "id": "adm:3c01e89851e1",
+        "institutionId": "412"
+      },
+      {
+        "rule_type": "aps_minimum",
+        "programme_name": "Diploma in a relevant ICT Course",
+        "faculty_name": null,
+        "detail": "Minimum APS 26 for Diploma in a relevant ICT Course",
+        "aps_minimum": 26,
+        "institution_id": "412",
+        "institution_name": "University of Mpumalanga",
+        "source_file": "prospectuses/university-of-mpumalanga.pdf",
+        "source_excerpt": "Diploma in a relevant ICT Course",
+        "extraction_confidence": 0.91,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "aps_minimum",
+        "id": "adm:3dec788b05f0",
+        "institutionId": "412"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "NCV level 4",
+        "faculty_name": null,
+        "detail": "Subject requirements for NCV level 4",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy: Level 3"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics: Level 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 2,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics: Level 2"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 2,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics: Level 2"
+            }
+          ]
+        ],
+        "institution_id": "412",
+        "institution_name": "University of Mpumalanga",
+        "source_file": "prospectuses/university-of-mpumalanga.pdf",
+        "source_excerpt": "NCV level 4",
+        "extraction_confidence": 0.91,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:470f2a113c1a",
+        "institutionId": "412"
+      },
+      {
+        "rule_type": "aps_minimum",
+        "programme_name": "BACHELOR OF ICT",
+        "faculty_name": null,
+        "detail": "Minimum APS 32 for BACHELOR OF ICT",
+        "aps_minimum": 32,
+        "institution_id": "412",
+        "institution_name": "University of Mpumalanga",
+        "source_file": "prospectuses/university-of-mpumalanga.pdf",
+        "source_excerpt": "BACHELOR OF ICT",
+        "extraction_confidence": 0.91,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "aps_minimum",
+        "id": "adm:4ccb8e892bab",
+        "institutionId": "412"
+      },
+      {
+        "rule_type": "aps_minimum",
+        "programme_name": "BACHELOR OF AGRICUL TURE",
+        "faculty_name": null,
+        "detail": "Minimum APS 26 for BACHELOR OF AGRICUL TURE",
+        "aps_minimum": 26,
+        "institution_id": "412",
+        "institution_name": "University of Mpumalanga",
+        "source_file": "prospectuses/university-of-mpumalanga.pdf",
+        "source_excerpt": "BACHELOR OF AGRICUL TURE",
+        "extraction_confidence": 0.91,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "aps_minimum",
+        "id": "adm:55735642b810",
+        "institutionId": "412"
+      },
+      {
+        "rule_type": "aps_minimum",
+        "programme_name": "Diploma in an appropriate field such as",
+        "faculty_name": null,
+        "detail": "Minimum APS 24 for Diploma in an appropriate field such as",
+        "aps_minimum": 24,
+        "institution_id": "412",
+        "institution_name": "University of Mpumalanga",
+        "source_file": "prospectuses/university-of-mpumalanga.pdf",
+        "source_excerpt": "Diploma in an appropriate field such as",
+        "extraction_confidence": 0.91,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "aps_minimum",
+        "id": "adm:5cc7838c9dc6",
+        "institutionId": "412"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BACHELOR OF ADMINISTRATION",
+        "faculty_name": null,
+        "detail": "Subject requirements for BACHELOR OF ADMINISTRATION",
+        "subjects_compulsory": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Life\nScience: Level 4"
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy: Level 3"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics: Level 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematical Literacy",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematical Literacy: Level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 2,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics: Level 2"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics: Level 4"
+            }
+          ]
+        ],
+        "institution_id": "412",
+        "institution_name": "University of Mpumalanga",
+        "source_file": "prospectuses/university-of-mpumalanga.pdf",
+        "source_excerpt": "BACHELOR OF ADMINISTRATION",
+        "extraction_confidence": 0.91,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:5fde7e6434d2",
+        "institutionId": "412"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "Diploma in an appropriate field such as",
+        "faculty_name": null,
+        "detail": "Subject requirements for Diploma in an appropriate field such as",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics: Level 4"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "412",
+        "institution_name": "University of Mpumalanga",
+        "source_file": "prospectuses/university-of-mpumalanga.pdf",
+        "source_excerpt": "Diploma in an appropriate field such as",
+        "extraction_confidence": 0.91,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:6152576bb13e",
+        "institutionId": "412"
+      },
+      {
+        "rule_type": "aps_minimum",
+        "programme_name": "BACHELOR OF ADMINISTRATION",
+        "faculty_name": null,
+        "detail": "Minimum APS 30 for BACHELOR OF ADMINISTRATION",
+        "aps_minimum": 30,
+        "institution_id": "412",
+        "institution_name": "University of Mpumalanga",
+        "source_file": "prospectuses/university-of-mpumalanga.pdf",
+        "source_excerpt": "BACHELOR OF ADMINISTRATION",
+        "extraction_confidence": 0.91,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "aps_minimum",
+        "id": "adm:6224494b21f9",
+        "institutionId": "412"
+      },
+      {
+        "rule_type": "aps_minimum",
+        "programme_name": "BA (GENERAL)",
+        "faculty_name": null,
+        "detail": "Minimum APS 28 for BA (GENERAL)",
+        "aps_minimum": 28,
+        "institution_id": "412",
+        "institution_name": "University of Mpumalanga",
+        "source_file": "prospectuses/university-of-mpumalanga.pdf",
+        "source_excerpt": "BACHELOR OF ARTS (GENERAL)",
+        "extraction_confidence": 0.91,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "aps_minimum",
+        "id": "adm:643547a788b6",
+        "institutionId": "412"
+      },
+      {
+        "rule_type": "aps_minimum",
+        "programme_name": "NCV level 4",
+        "faculty_name": null,
+        "detail": "Minimum APS 28 for NCV level 4",
+        "aps_minimum": 28,
+        "institution_id": "412",
+        "institution_name": "University of Mpumalanga",
+        "source_file": "prospectuses/university-of-mpumalanga.pdf",
+        "source_excerpt": "NCV level 4",
+        "extraction_confidence": 0.91,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "aps_minimum",
+        "id": "adm:6be04c112d38",
+        "institutionId": "412"
+      },
+      {
+        "rule_type": "aps_minimum",
+        "programme_name": "Diploma in an appropriate",
+        "faculty_name": null,
+        "detail": "Minimum APS 30 for Diploma in an appropriate",
+        "aps_minimum": 30,
+        "institution_id": "412",
+        "institution_name": "University of Mpumalanga",
+        "source_file": "prospectuses/university-of-mpumalanga.pdf",
+        "source_excerpt": "Diploma in an appropriate",
+        "extraction_confidence": 0.91,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "aps_minimum",
+        "id": "adm:6eb6e6853cd3",
+        "institutionId": "412"
+      },
+      {
+        "rule_type": "aps_minimum",
+        "programme_name": "BSc IN AGRICUL TURE",
+        "faculty_name": null,
+        "detail": "Minimum APS 30 for BSc IN AGRICUL TURE",
+        "aps_minimum": 30,
+        "institution_id": "412",
+        "institution_name": "University of Mpumalanga",
+        "source_file": "prospectuses/university-of-mpumalanga.pdf",
+        "source_excerpt": "BACHELOR OF SCIENCE IN",
+        "extraction_confidence": 0.91,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "aps_minimum",
+        "id": "adm:78679a90f50e",
+        "institutionId": "412"
+      },
+      {
+        "rule_type": "aps_minimum",
+        "programme_name": "DIPLOMA IN AGRICUL TURE IN PLANT PRODUCTION",
+        "faculty_name": null,
+        "detail": "Minimum APS 23 for DIPLOMA IN AGRICUL TURE IN PLANT PRODUCTION",
+        "aps_minimum": 23,
+        "institution_id": "412",
+        "institution_name": "University of Mpumalanga",
+        "source_file": "prospectuses/university-of-mpumalanga.pdf",
+        "source_excerpt": "DIPLOMA IN AGRICUL TURE IN",
+        "extraction_confidence": 0.91,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "aps_minimum",
+        "id": "adm:8faceaf77fa3",
+        "institutionId": "412"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BACHELOR OF DEVELOPMENT STUDIES",
+        "faculty_name": null,
+        "detail": "Subject requirements for BACHELOR OF DEVELOPMENT STUDIES",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy: Level 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics: Level 3"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematical Literacy",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Mathematical Literacy: Level 3"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 2,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics: Level 2"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 21,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics or 21"
+            }
+          ]
+        ],
+        "institution_id": "412",
+        "institution_name": "University of Mpumalanga",
+        "source_file": "prospectuses/university-of-mpumalanga.pdf",
+        "source_excerpt": "BACHELOR OF DEVELOPMENT STUDIES",
+        "extraction_confidence": 0.91,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:98d6b180e148",
+        "institutionId": "412"
+      },
+      {
+        "rule_type": "aps_minimum",
+        "programme_name": "BCom",
+        "faculty_name": null,
+        "detail": "Minimum APS 30 for BCom",
+        "aps_minimum": 30,
+        "institution_id": "412",
+        "institution_name": "University of Mpumalanga",
+        "source_file": "prospectuses/university-of-mpumalanga.pdf",
+        "source_excerpt": "BACHELOR OF COMMERCE",
+        "extraction_confidence": 0.91,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "aps_minimum",
+        "id": "adm:9ca29e6b5b72",
+        "institutionId": "412"
+      },
+      {
+        "rule_type": "aps_minimum",
+        "programme_name": "BACHELOR OF SOCIAL WORK",
+        "faculty_name": null,
+        "detail": "Minimum APS 28 for BACHELOR OF SOCIAL WORK",
+        "aps_minimum": 28,
+        "institution_id": "412",
+        "institution_name": "University of Mpumalanga",
+        "source_file": "prospectuses/university-of-mpumalanga.pdf",
+        "source_excerpt": "BACHELOR OF SOCIAL WORK",
+        "extraction_confidence": 0.91,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "aps_minimum",
+        "id": "adm:9d1a2eccf469",
+        "institutionId": "412"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BSc IN FORESTRY",
+        "faculty_name": null,
+        "detail": "Subject requirements for BSc IN FORESTRY",
+        "subjects_compulsory": [
+          {
+            "subject": "Agricultural Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Agricultural\nScience or Geography: Level 4"
+          },
+          {
+            "subject": "Geography",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Geography: Level 4"
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 6,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy: Level 6"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics: Level 4"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Science: Level 4 / Physical Sciences: Level 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 27,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics or 27"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics: Level 3"
+            }
+          ]
+        ],
+        "institution_id": "412",
+        "institution_name": "University of Mpumalanga",
+        "source_file": "prospectuses/university-of-mpumalanga.pdf",
+        "source_excerpt": "BACHELOR OF SCIENCE IN",
+        "extraction_confidence": 0.91,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:a6c577efb5c4",
+        "institutionId": "412"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "DIPLOMA IN ICT IN APPLICATIONS DEVELOPMENT",
+        "faculty_name": null,
+        "detail": "Subject requirements for DIPLOMA IN ICT IN APPLICATIONS DEVELOPMENT",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics: Level 4"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "412",
+        "institution_name": "University of Mpumalanga",
+        "source_file": "prospectuses/university-of-mpumalanga.pdf",
+        "source_excerpt": "DIPLOMA IN ICT IN",
+        "extraction_confidence": 0.91,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:a71a1de2f591",
+        "institutionId": "412"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BSc IN AGRICUL TURE",
+        "faculty_name": null,
+        "detail": "Subject requirements for BSc IN AGRICUL TURE",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 6,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy: Level 6"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 24,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics or 24"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Sciences: Level 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics: Level 3"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics: Level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics: Level 4"
+            }
+          ]
+        ],
+        "institution_id": "412",
+        "institution_name": "University of Mpumalanga",
+        "source_file": "prospectuses/university-of-mpumalanga.pdf",
+        "source_excerpt": "BACHELOR OF SCIENCE IN",
+        "extraction_confidence": 0.91,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:b305db989a50",
+        "institutionId": "412"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "DIPLOMA IN NATURE CONSERVATION",
+        "faculty_name": null,
+        "detail": "Subject requirements for DIPLOMA IN NATURE CONSERVATION",
+        "subjects_compulsory": [
+          {
+            "subject": "Geography",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Geography: Level 4"
+          },
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Life\nSciences and Geography: Level 4"
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy: Level 3"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 2,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics: Level 2"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "412",
+        "institution_name": "University of Mpumalanga",
+        "source_file": "prospectuses/university-of-mpumalanga.pdf",
+        "source_excerpt": "DIPLOMA IN NATURE CONSERVATION",
+        "extraction_confidence": 0.91,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:ba2ea1f2e089",
+        "institutionId": "412"
+      },
+      {
+        "rule_type": "aps_minimum",
+        "programme_name": "BEd",
+        "faculty_name": null,
+        "detail": "Minimum APS 26 for BEd",
+        "aps_minimum": 26,
+        "institution_id": "412",
+        "institution_name": "University of Mpumalanga",
+        "source_file": "prospectuses/university-of-mpumalanga.pdf",
+        "source_excerpt": "BACHELOR OF EDUCATION",
+        "extraction_confidence": 0.91,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "aps_minimum",
+        "id": "adm:bb64f83c3707",
+        "institutionId": "412"
+      },
+      {
+        "rule_type": "aps_minimum",
+        "programme_name": "LLB",
+        "faculty_name": null,
+        "detail": "Minimum APS 28 for LLB",
+        "aps_minimum": 28,
+        "institution_id": "412",
+        "institution_name": "University of Mpumalanga",
+        "source_file": "prospectuses/university-of-mpumalanga.pdf",
+        "source_excerpt": "BACHELOR OF LAWS",
+        "extraction_confidence": 0.91,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "aps_minimum",
+        "id": "adm:bc487be0c225",
+        "institutionId": "412"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BEd",
+        "faculty_name": null,
+        "detail": "Subject requirements for BEd",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 27,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics or 27"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "412",
+        "institution_name": "University of Mpumalanga",
+        "source_file": "prospectuses/university-of-mpumalanga.pdf",
+        "source_excerpt": "BACHELOR OF EDUCATION",
+        "extraction_confidence": 0.91,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:bd50dbd68d75",
+        "institutionId": "412"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BSc IN ENVIRONMENTAL SCIENCE",
+        "faculty_name": null,
+        "detail": "Subject requirements for BSc IN ENVIRONMENTAL SCIENCE",
+        "subjects_compulsory": [
+          {
+            "subject": "Geography",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Geography: Level 4"
+          },
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Life Science: Level 4"
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 6,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy: Level 6"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics: Level 4"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Science: Level 4 / Physical\nScience or Geography: Level 4"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "412",
+        "institution_name": "University of Mpumalanga",
+        "source_file": "prospectuses/university-of-mpumalanga.pdf",
+        "source_excerpt": "BACHELOR OF SCIENCE IN",
+        "extraction_confidence": 0.91,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:c081c4d48a2e",
+        "institutionId": "412"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BCom",
+        "faculty_name": null,
+        "detail": "Subject requirements for BCom",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy: Level 3"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics: Level 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematical Literacy",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematical Literacy: Level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 2,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics: Level 2"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics: Level 4"
+            }
+          ]
+        ],
+        "institution_id": "412",
+        "institution_name": "University of Mpumalanga",
+        "source_file": "prospectuses/university-of-mpumalanga.pdf",
+        "source_excerpt": "BACHELOR OF COMMERCE",
+        "extraction_confidence": 0.91,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:c258367e4fd9",
+        "institutionId": "412"
+      },
+      {
+        "rule_type": "aps_minimum",
+        "programme_name": "BSc IN ENVIRONMENTAL SCIENCE",
+        "faculty_name": null,
+        "detail": "Minimum APS 30 for BSc IN ENVIRONMENTAL SCIENCE",
+        "aps_minimum": 30,
+        "institution_id": "412",
+        "institution_name": "University of Mpumalanga",
+        "source_file": "prospectuses/university-of-mpumalanga.pdf",
+        "source_excerpt": "BACHELOR OF SCIENCE IN",
+        "extraction_confidence": 0.91,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "aps_minimum",
+        "id": "adm:c61089367b2d",
+        "institutionId": "412"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BACHELOR OF SOCIAL WORK",
+        "faculty_name": null,
+        "detail": "Subject requirements for BACHELOR OF SOCIAL WORK",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy: Level 3"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 2,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics: Level 2"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "412",
+        "institution_name": "University of Mpumalanga",
+        "source_file": "prospectuses/university-of-mpumalanga.pdf",
+        "source_excerpt": "BACHELOR OF SOCIAL WORK",
+        "extraction_confidence": 0.91,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:c6f010745a6b",
+        "institutionId": "412"
+      },
+      {
+        "rule_type": "aps_minimum",
+        "programme_name": "DIPLOMA IN NATURE CONSERVATION",
+        "faculty_name": null,
+        "detail": "Minimum APS 30 for DIPLOMA IN NATURE CONSERVATION",
+        "aps_minimum": 30,
+        "institution_id": "412",
+        "institution_name": "University of Mpumalanga",
+        "source_file": "prospectuses/university-of-mpumalanga.pdf",
+        "source_excerpt": "DIPLOMA IN NATURE CONSERVATION",
+        "extraction_confidence": 0.91,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "aps_minimum",
+        "id": "adm:cc310731b37a",
+        "institutionId": "412"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BA (GENERAL)",
+        "faculty_name": null,
+        "detail": "Subject requirements for BA (GENERAL)",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy: Level 3"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 2,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics: Level 2"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematical Literacy",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Mathematical Literacy: Level 3"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematical Literacy",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematical Literacy: Level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 2,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics: Level 2"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics: Level 3"
+            }
+          ]
+        ],
+        "institution_id": "412",
+        "institution_name": "University of Mpumalanga",
+        "source_file": "prospectuses/university-of-mpumalanga.pdf",
+        "source_excerpt": "BACHELOR OF ARTS (GENERAL)",
+        "extraction_confidence": 0.91,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:d3654729ab10",
+        "institutionId": "412"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BSc",
+        "faculty_name": null,
+        "detail": "Subject requirements for BSc",
+        "subjects_compulsory": [
+          {
+            "subject": "Geography",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Geography: Level 4"
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 6,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy: Level 6"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics: Level 4"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "412",
+        "institution_name": "University of Mpumalanga",
+        "source_file": "prospectuses/university-of-mpumalanga.pdf",
+        "source_excerpt": "BACHELOR OF SCIENCE",
+        "extraction_confidence": 0.91,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:d5f12c32e702",
+        "institutionId": "412"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "Diploma in an appropriate",
+        "faculty_name": null,
+        "detail": "Subject requirements for Diploma in an appropriate",
+        "subjects_compulsory": [
+          {
+            "subject": "Geography",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Geography: Level 4"
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 6,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy: Level 6"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics: Level 4"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "412",
+        "institution_name": "University of Mpumalanga",
+        "source_file": "prospectuses/university-of-mpumalanga.pdf",
+        "source_excerpt": "Diploma in an appropriate",
+        "extraction_confidence": 0.91,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:dd56e1586c8e",
+        "institutionId": "412"
+      },
+      {
+        "rule_type": "aps_minimum",
+        "programme_name": "DIPLOMA IN ANIMAL PRODUCTION",
+        "faculty_name": null,
+        "detail": "Minimum APS 24 for DIPLOMA IN ANIMAL PRODUCTION",
+        "aps_minimum": 24,
+        "institution_id": "412",
+        "institution_name": "University of Mpumalanga",
+        "source_file": "prospectuses/university-of-mpumalanga.pdf",
+        "source_excerpt": "DIPLOMA IN ANIMAL PRODUCTION",
+        "extraction_confidence": 0.91,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "aps_minimum",
+        "id": "adm:f5a7734aadff",
+        "institutionId": "412"
+      },
+      {
+        "rule_type": "aps_minimum",
+        "programme_name": "BSc IN FORESTRY",
+        "faculty_name": null,
+        "detail": "Minimum APS 24 for BSc IN FORESTRY",
+        "aps_minimum": 24,
+        "institution_id": "412",
+        "institution_name": "University of Mpumalanga",
+        "source_file": "prospectuses/university-of-mpumalanga.pdf",
+        "source_excerpt": "BACHELOR OF SCIENCE IN",
+        "extraction_confidence": 0.91,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "aps_minimum",
+        "id": "adm:f7ded3e686cc",
+        "institutionId": "412"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "DIPLOMA IN ANIMAL PRODUCTION",
+        "faculty_name": null,
+        "detail": "Subject requirements for DIPLOMA IN ANIMAL PRODUCTION",
+        "subjects_compulsory": [
+          {
+            "subject": "Agricultural Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Agricultural\nScience or Geography: Level 4"
+          },
+          {
+            "subject": "Geography",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Geography: Level 4"
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 6,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy: Level 6"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics: Level 4"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Science: Level 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 27,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics or 27"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics: Level 3"
+            }
+          ],
+          [
+            {
+              "subject": "Physical Sciences",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Physical Science: Level 3"
+            }
+          ]
+        ],
+        "institution_id": "412",
+        "institution_name": "University of Mpumalanga",
+        "source_file": "prospectuses/university-of-mpumalanga.pdf",
+        "source_excerpt": "DIPLOMA IN ANIMAL PRODUCTION",
+        "extraction_confidence": 0.91,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:f8b5af7f1822",
+        "institutionId": "412"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "LLB",
+        "faculty_name": null,
+        "detail": "Subject requirements for LLB",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematical Literacy: Level 3"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 2,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics: Level 2"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematical Literacy",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematical Literacy: Level 4"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics: Level 3"
+            }
+          ]
+        ],
+        "institution_id": "412",
+        "institution_name": "University of Mpumalanga",
+        "source_file": "prospectuses/university-of-mpumalanga.pdf",
+        "source_excerpt": "BACHELOR OF LAWS",
+        "extraction_confidence": 0.91,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:f98a16af63b9",
+        "institutionId": "412"
+      }
+    ]
+  },
+  "sources": [
+    "enriched_universities.json",
+    "generated/v3/institutions.enriched.json",
+    "institutions.json"
+  ],
+  "_stats": {
+    "campuses_count": 0,
+    "faculties_count": 0,
+    "programmes_count": 23,
+    "aps_rules_count": 0,
+    "adm_reqs_count": 44
+  }
+}

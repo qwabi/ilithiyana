@@ -1,0 +1,2259 @@
+{
+  "chunks": [
+    {
+      "type": "other",
+      "text": "Visit us: www.ul.ac.za University of Limpopo @ULVarsity\nPOSTGRADUATE\nPROSPECTUS\nPOSTGRADUATE PROSPECTUS: 2026 2\nContents\nCONTACT DETAILS ........................................................................................................................................... 3\nUNIVERSITY OF LIMPOPO’S VISION STATEMENT ............................................................................................ 5\nWelcome Message .......................................................................................................................................... 6\nHOW TO APPLY ONLINE FOR POSTGRADUATE QUALIFICATION .................................................................... 7\nHOW TO UPLOAD/VIEW DOCUMENTS ON I-ENABLER -ONLINE FACILITIES ................................................... 8\nUNIVERSITY BANK DETAILS ............................................................................................................................. 8\nGENERAL RULES THAT APPLY FOR POSTGRADUATE ADMISSION ................................................................... 9\nGENERAL INFORMATION .............................................................................................................................. 10",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 0,
+      "end_char": 1232
+    },
+    {
+      "type": "faculty",
+      "text": "FACULTY OF HEALTH SCIENCES ........................................................................................................... 11",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 1233,
+      "end_char": 1370
+    },
+    {
+      "type": "faculty",
+      "text": "SCHOOL OF HEALTH CARE SCIENCES ............................................................................................................ 11",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 1371,
+      "end_char": 1513
+    },
+    {
+      "type": "faculty",
+      "text": "SCHOOL OF MEDICINE .................................................................................................................................. 16",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 1514,
+      "end_char": 1666
+    },
+    {
+      "type": "faculty",
+      "text": "FACULTY OF HUMANITIES .................................................................................................................. 20",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 1667,
+      "end_char": 1806
+    },
+    {
+      "type": "faculty",
+      "text": "SCHOOL OF EDUCATION ............................................................................................................................... 20",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 1807,
+      "end_char": 1957
+    },
+    {
+      "type": "faculty",
+      "text": "SCHOOL OF LANGUAGES & COMMUNICATION STUDIES ............................................................................. 28",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 1958,
+      "end_char": 2082
+    },
+    {
+      "type": "faculty",
+      "text": "SCHOOL OF SOCIAL SCIENCES ....................................................................................................................... 32",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 2083,
+      "end_char": 2231
+    },
+    {
+      "type": "faculty",
+      "text": "FACULTY OF MANAGEMENT & LAW.................................................................................................... 35",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 2232,
+      "end_char": 2362
+    },
+    {
+      "type": "faculty",
+      "text": "SCHOOL OF ACCOUNTANCY .......................................................................................................................... 35",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 2363,
+      "end_char": 2510
+    },
+    {
+      "type": "faculty",
+      "text": "SCHOOL OF ECONOMICS & MANAGEMENT ................................................................................................. 37",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 2511,
+      "end_char": 2644
+    },
+    {
+      "type": "faculty",
+      "text": "SCHOOL OF LAW ........................................................................................................................................... 41",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 2645,
+      "end_char": 2801
+    },
+    {
+      "type": "faculty",
+      "text": "TURFLOOP GRADUATE SCHOOL OF LEADERSHIP ......................................................................................... 43",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 2802,
+      "end_char": 2933
+    },
+    {
+      "type": "faculty",
+      "text": "FACULTY OF SCIENCE & AGRICULTURE ................................................................................................ 45",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 2934,
+      "end_char": 3066
+    },
+    {
+      "type": "faculty",
+      "text": "SCHOOL OF AGRICULTURAL & ENVIRONMENTAL SCIENCES ........................................................................ 45",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 3067,
+      "end_char": 3190
+    },
+    {
+      "type": "faculty",
+      "text": "SCHOOL OF MATHEMATICAL & COMPUTER SCIENCES ................................................................................ 50",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 3191,
+      "end_char": 3317
+    },
+    {
+      "type": "faculty",
+      "text": "SCHOOL OF MOLECULAR & LIFE SCIENCES ................................................................................................... 53",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 3318,
+      "end_char": 3456
+    },
+    {
+      "type": "faculty",
+      "text": "SCHOOL OF PHYSICAL & MINERAL SCIENCES ............................................................................................... 55\nDisclaimer: The University has made every effort to ensure the accuracy of this document. Any\nerrors will be dealt with in compliance with the University Academic Rules\nThe University of Limpopo reserves the right to withdraw, add or amend any programme or any\ninformation in this prospectus without prior notification.\nPOSTGRADUATE PROSPECTUS: 2026 3\nCONTACT DETAILS\nENROLMENT MANAGEMENT DEPARTMENT\nCall Centre: +27 (015) 268 3332\nEmail: enrolment@ul.ac.za\nWebsite: www.ul.ac.za\n…………………………………………………………………………………………………………....",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 3457,
+      "end_char": 4118
+    },
+    {
+      "type": "faculty",
+      "text": "DEPARTMENT OF FINANCE REVENUE\nTelephone: +27 (015) 268 2137/ 3472 / 2436 / 2110 / 2251 / 2822 / 3650\nEmail: studentfeesqueries@ul.ac.za\n…………………………………………………………………………………………………………....\nFINANCIAL AID OFFICE\nTelephone: +27 (015) 268 3088 / 2405\nEmail: postgraduatebursaries@ul.ac.za (General Queries)\ntuitionfeewaiver@ul.ac.za (Tuition waiver, application forms and submission)\n…………………………………………………………………………………………………………....\nSTUDENT HOUSING\nTelephone: +27 (015) 268 2520/ 2570/4175\nEmail: accommodation@ul.ac.za\n…………………………………………………………………………………………………………....\nINTERNATIONAL OFFICE\nTelephone: +27 (015) 268 3046\nEmail: internationaloffice@ul.ac.za\n…………………………………………………………………………………………………………....\nPOSTGRADUATE PROSPECTUS: 2026 4",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 4119,
+      "end_char": 4831
+    },
+    {
+      "type": "faculty",
+      "text": "Faculty Postgraduate Office +27 (015) 268 4809/4793/2975/2943 fh.postgraduate@ul.ac.za",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 4909,
+      "end_char": 4995
+    },
+    {
+      "type": "faculty",
+      "text": "FACULTY OF MANAGEMENT AND LAW\nName of School /Office Telephone numbers Email Address",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 5274,
+      "end_char": 5358
+    },
+    {
+      "type": "faculty",
+      "text": "Faculty Postgraduate Office +27 (015) 268 2947 /3947 fml.postgradoffice@ul.ac.za",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 5359,
+      "end_char": 5439
+    },
+    {
+      "type": "faculty",
+      "text": "Turfloop Graduate School of\nLeadership\n+27 (015) 268 3735 / 4180 /\n4141/ 4181 /4179\ntgsl@ul.ac.za",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 5440,
+      "end_char": 5537
+    },
+    {
+      "type": "faculty",
+      "text": "FACULTY OF SCIENCE AND AGRICULTURE\nName of School /Office Telephone numbers Email Address",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 5734,
+      "end_char": 5823
+    },
+    {
+      "type": "faculty",
+      "text": "School of Agricultural and\nEnvironmental Sciences\n+27 (015) 268 2202 / 3464 SAES@ul.ac.za",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 5894,
+      "end_char": 5983
+    },
+    {
+      "type": "faculty",
+      "text": "School of Computational and\nMathematical Sciences\n+27 (015) 268 3027/ 3593\nDoSSMCS@ul.ac.za",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 5984,
+      "end_char": 6075
+    },
+    {
+      "type": "faculty",
+      "text": "FACULTY OF HEALTH SCIENCES\nName of School /Office Telephone numbers Email Address",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 6234,
+      "end_char": 6315
+    },
+    {
+      "type": "faculty",
+      "text": "School of Health Care Sciences +27 (015) 268 4311 / 2349 SHCS@ul.ac.za\nPOSTGRADUATE PROSPECTUS: 2026 5\nUNIVERSITY OF LIMPOPO’S VISION STATEMENT\n“To be a leading African University focused on the developmental needs of its communities and\nepitomising academic excellence and innovativeness.”\nUNIVERSITY OF LIMPOPO’S MISSION STATEMENT\n• We provide excellent and relevant academic programmes, research and\n• community engagement initiatives which respond to the developmental\n• needs of communities whilst producing well rounded graduates who give back to their communities\nand are global citizens.\n• We enhance access to higher education for under-prepared, socially and economically disadvantaged\nstudents in particular.\n• We provide academic support services to all students at the University in order to ensure success in\ntheir studies.\n• We provide planned opportunities for the development of all staff, particularly the academic staff in\nrespect of their teaching, research and community engagement skills.\n• We strive to strengthen and maintain partnerships and collaboration with the government and private\nsector, local authorities, international institutions and our alumni community.\n• We endeavour to diversify the University’s funding streams significantly,\n• particularly the increase of third-stream income, in order to support the launching of new teaching and\nlearning, research and community engagement activities and sustain the existing ones.\nUNIVERSITY OF LIMPOPO’S MOTTO\n“Finding Solutions for Africa.”\nPOSTGRADUATE PROSPECTUS: 2026 6\nWelcome Message\nThe University warmly welcomes your interest in advancing your postgraduate education with us. In line with\nour vision, pursuing a postgraduate degree is not only about personal growth and development, but also\nabout making significant social and economic contributions to society.\nA postgraduate qualification does more than give you a competitive edge in your career. It is a personally",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 6453,
+      "end_char": 8412
+    },
+    {
+      "type": "programme",
+      "text": "rewarding and prestigious achievement. Starting your journey at the Honours or Postgraduate Diploma level\nopens doors for career progression, allows for specialisation in your chosen field, and sparks an interest in\nresearch and lifelong learning.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 8413,
+      "end_char": 8660
+    },
+    {
+      "type": "programme",
+      "text": "As you advance to the Masters and Doctoral levels, you will further deepen your specialised knowledge and\nskills, thereby enhanci ng your competitiveness in your career. You will also develop the proficiency to\nconduct impactful research projects, contributing to the body of knowledge in your discipline and publishing\nyour findings in academic journals.\nMoreover, postgraduate studies offer the opportunity to expand your network. Engaging with lecturers, peers,\nand other professionals provides invaluable opportunities for collaboration and personal growth. Pursuing\npostgraduate studies is a holistic academic journey and experience that shapes your career and contribution\ntowards imperatives such as human resource development strategy of the country, Sustainable\nDevelopment Goals, National Development Plan, Africa Agenda 2063 and the Millenium D evelopment\nGoals.\nDISCLAIMER\nThe University reserves the right to withdraw, add or amend any programme or any information in this\nprospectus without prior notification.\nThe University reserves the right not to offer programmes for a particular year.\nThe University may only offer programmes that are accredited by the relevant professional bodies for the\nyear indicated.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 8661,
+      "end_char": 9887
+    },
+    {
+      "type": "admission",
+      "text": "Fulfilling the minimum admission requirements does not guarantee admission into a study programme",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 9888,
+      "end_char": 9985
+    },
+    {
+      "type": "programme",
+      "text": "(degree, diploma or certificate) at the University of Limpopo. All postgraduate students will be subjected to\nDepartmental selection processes.\nPOSTGRADUATE PROSPECTUS: 2026 7\nHOW TO APPLY ONLINE FOR POSTGRADUATE QUALIFICATION\nCATEGORY A: Current and Former UL students (with student number)\nStep 1: Login to I- Enabler (online facilities-www.ul.ac.za)\nStep 2: Go to Academic Application\nStep 3: View Application Rules and Click Accept\nStep 4: Go to School Attended\nStep 5: Select School Name and Save\nStep 6: Enter School Leaving Subjects\nStep 7: Go to Disabilities and Click None/ Select and Click Save\nStep 8: Go to submit application\nStep 9: Enter your Academic Preference Qualification/s (maximum of 2)\nStep 10: Save and Continue to Residence Application if required.\nCATEGORY B: New Postgraduate Students (without student numbers)\nStep 1: Browse www.ul.ac.za\nby accurately typing the URL on your device address bar.\nStep 2: Once you have landed on UL website, Click Apply Now\nStep 3: Go to Online Application\nStep 4: View Application Rules and Click Accept\nStep 5: From there, follow the steps as indicated on the online application wizard\nStep 6: Before finalising your application, make sure that you have entered your qualification/s, and\nthat the system has issued a student number for you.\nPOSTGRADUATE PROSPECTUS: 2026 8\nHOW TO UPLOAD/VIEW DOCUMENTS ON I-ENABLER -ONLINE FACILITIES\nStep 1: Go to academic application\nStep 2: Go to enter School Leaving subject\nStep 3: Scroll down until you see load or view documents and click; choose category icon will pop up\nand then click\nStep 4: Click upload and then click Browse\nUNIVERSITY BANK DETAILS (For Application Handling Fee Only)\nUniversity of Limpopo\nStandard Bank\nAccount No.: 030131405\nBranch No.: 051001\nSWIFT Address: SBZA ZA JJ\nReference: Use your ID NO. /Passport No.\nOnline Application Handling Fee:\nSouth African Students: R200\nInternational Students: R750\nN.B: Students currently registered with the University of Limpopo DO NOT pay a handling fee\n*********************************************************************************************************\nUNIVERSITY BANK DETAILS (For Registration Fees and Student Account)\nUniversity of Limpopo\nStandard Bank\nAccount No.: 330040006\nBranch No.: 051001\nSWIFT Address: SBZA ZA JJ\nReference: Use your Student No.\n*******************************************************************************************************************\nPOSTGRADUATE PROSPECTUS: 2026 9\nGENERAL RULES THAT APPLY FOR POSTGRADUATE ADMISSION\nADMISSION RULES FOR POSTGRADUATE CERTIFICATES, POSTGRADUATE DIPLOMAS AND",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 9986,
+      "end_char": 12587
+    },
+    {
+      "type": "programme",
+      "text": "HONOURS DEGREE STUDIES\nG30\n30.1 In addition to the rules in this Section, those contained under Section A (General\nRules) and Section C (Rules for Postgraduate Study) also apply.\n30.2 Admission criteria:\n30.2.1 A relevant undergraduate qualification or equivalent.\n30.2.2 At least 60% obtained as an average final mark in the appropriate\nmajor.\nOr",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 12588,
+      "end_char": 12935
+    },
+    {
+      "type": "programme",
+      "text": "ADMISSION RULES FOR MASTERS’ DEGREE STUDY\nG36\n36.1 In addition to the rules in this Section, those contained under Section A (General\nRules) and Section C (Rules for Postgraduate Study) also apply.\n36.2 Admission criteria:",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 12995,
+      "end_char": 13217
+    },
+    {
+      "type": "programme",
+      "text": "36.2.1 A relevant honours bachelor’s degree or equivalent.\n36.2.2 At least 60% obtained as an average final mark in the appropriate major\nlearning programme.\nOr",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 13218,
+      "end_char": 13378
+    },
+    {
+      "type": "programme",
+      "text": "he/she holds an honours degree.\nADMISSION RULES FOR DOCTORAL DEGREE STUDY\nG53\n53.1 In addition to the rules in this Section, those contained under Section A (General Rules) and\nSection C (Rules for Postgraduate Study) also apply.\n53.2 Admission criteria:\n5.3.2.1 A master’s degree or equivalent qualification.\n53.2.2 If a candidate does not have a master’s degree, he/she may be admitted to the\ndoctoral study provided that Senate through the recognition of prior learning (RPL)\nis satisfied that such a candidate has reached the standard of a master’s degree.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 13596,
+      "end_char": 14156
+    },
+    {
+      "type": "faculty",
+      "text": "53.3 Before a candidate is accepted for doctoral study, the Faculty concerned must be convinced\nthat the candidate has sufficient knowledge of the field of study to be able to fulfil the\nrequirements for the degree.\nPOSTGRADUATE PROSPECTUS: 2026 10\nGENERAL INFORMATION\nStudent Selection",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 14157,
+      "end_char": 14443
+    },
+    {
+      "type": "admission",
+      "text": "Meeting the admission requirements of a programme does not guarantee admission. Postgraduate\napplications are subject to selection based on the number of spaces available for a programme.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 14444,
+      "end_char": 14631
+    },
+    {
+      "type": "programme",
+      "text": "Academic history provides the basis of selection at the Postgraduate Diploma and Honours levels.\nFor senior postgraduate programmes, selection is based on the supervisor capacity and the\navailability of other appropriate resources. Additionally, the skills profile of potential students will be\nassessed, and they may be required to complete additional modules or acquire competencies\ndeemed essential by the Department.\nRecognition of Prior Learning (RPL)\nThe University allows for access, advanced standing and awarding of credits (for taught courses)\nthrough RPL as per the RPL policy and General Academic Rules of the University. This applies to all\nprogrammes, except those for which the Professional Body does not permit (please inquire with the\nrelevant School). RPL will be conducted a nd assessed in accordance with the University General\nAcademic Rules and the University of Limpopo Recognition of Prior Learning Policy. Applicants for",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 14632,
+      "end_char": 15577
+    },
+    {
+      "type": "faculty",
+      "text": "postgraduate studies via the RPL route must consult with the Faculty in which they intend to study.\nFinancial Aid",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 15578,
+      "end_char": 15691
+    },
+    {
+      "type": "faculty",
+      "text": "Financial aid opportunities are available for postgraduate students. The Faculty will be able to advise\nyou on potential funding opportunities. Potential students are also advised to contact the Financial Aid\noffice at the University.\nExpectations for the Successful Graduation of the Work",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 15692,
+      "end_char": 15981
+    },
+    {
+      "type": "programme",
+      "text": "To ensure all learning outcomes are achieved, Honours and Postgraduate Diploma/Certificate students\nare expected to spend a minimum of 40 hours per week on their studies throughout the academic year.\nFor Master's and Doctoral Postgraduate programme student s, a minimum of 40 hours per week is\nrequired for 45 weeks of the year for full-time study.\nAll Master's and Doctoral students are required to have a signed Memorandum of Understanding with\ntheir supervisors outlining the expectations of both parties for the successful completion of their\nqualification. This includes the requirement for the approval of the research proposal within 6 months\nfollowing registration.\nPOSTGRADUATE PROSPECTUS: 2026 11",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 15982,
+      "end_char": 16688
+    },
+    {
+      "type": "programme",
+      "text": "Postgraduate Diploma in Health Promotion (PGDip (Health Promotion))\nThe course in Health Promotion and Education for Health aims to develop the skills of health, social\nwork, agriculture, education, and related workers at district, regional, provincial, and national levels,\nas well as those who will be responsible for planning, implementing, and evaluating health promotion\nProgrammes. The course will enable participants to acquire a broad understanding of the many\nfacets which impact on promoting health and wellbeing, and to develop skills necessary for improving\ncommunication betw een s ervice providers and com munities, identifying need s, pri orities, d esign\nappropriate educational materials, advocate and negotiate policies to strengthen community action,\nand implement empowering educational processes.\nCourse Design:",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 16747,
+      "end_char": 17579
+    },
+    {
+      "type": "programme",
+      "text": "(a) The Postgraduate Diploma in Health Promotion is an action-learning based full-time one-year\ncourse with six residential teaching modules for the full-time programme.\n(b) Self-study segments, supported by custom-developed teaching materials, form part of both\ncurricula.\n(c) Each residential teaching block will last for six days (Monday to Saturday).\n(d) Students must undertake a project based in their work setting/agencies working in their area\nof interest.\nAdmission Criteria:\n(a) Applicants must be in possession of a B achelor’s de gree or equival ent in Health or relat ed\ndisciplines.\n(b) Priority will be given to those who have or will have:\n- The responsibility for planning, implementing and evaluating health promotion activities\nat the district, regional and provincial levels.\n- The r esponsibility for the promotion of heal th and well -being in dir ect liais on with the\ncommunity.\nDuration\n(a) One year minimum\n(b) Two years maximum\nPOSTGRADUATE PROSPECTUS: 2026 12\nMaster of Nursing (MNurs)\nThe Master’s degree programme is offere d as a res earch Master's programme culminating in a\ndissertation relevant to the discipline.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 17580,
+      "end_char": 18727
+    },
+    {
+      "type": "programme",
+      "text": "(a) Applicants must be in possession of a 4 year basic degree in Nursing (Bachelor of",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 18752,
+      "end_char": 18837
+    },
+    {
+      "type": "programme",
+      "text": "Nursing) or post basic BNurs degree with an Honours degree in nursing (or equivalent).\n(b) Registration with South African Nursing Council as registered Nurse Practitioner.\n(c) An average of 60% in the major subjects.\nDuration:\n(a) One year minimum\n(b) Three years maximum\nPresentation of the Programme:\n(a) Students will be required to complete the one week research programme before taking on\nthe research projects.\n(b) All research proposals will be registered with the University of Limpopo after approval by\nthe relevant University Committee.\nMaster of Science in Dietetics (MSc (Dietetics))\nThe Master’s degree programme is offere d as a res earch Master’s programme culminating in a\ndissertation relevant to the discipline.\nThe student is required to produce a dissertation on a subject approved by the Head of the\nDepartment. An oral examination may be required.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 18838,
+      "end_char": 19708
+    },
+    {
+      "type": "programme",
+      "text": "(a) A relevant 4-year Bachelor’s degree or equivalent.\n(b) An average of 60% in the major subjects\nCurriculum:\n(a) A dissertation must be submitted based on a topic approved by the Programme Manager and\nSenate.\nDuration:\n(a) One year minimum\n(b) Three years maximum\nPOSTGRADUATE PROSPECTUS: 2026 13\nMaster of Optometry (MOptom)\nThe Master’s degree programme is offere d as a res earch Master’s programme culminating in a\ndissertation relevant to the discipline.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 19733,
+      "end_char": 20194
+    },
+    {
+      "type": "programme",
+      "text": "(a) Candidates for the MOptom degree must possess a 4-year Bachelor of Optom etry\n(BOptom) degree or its equivalent from a recognised institution.\n(b) The candidates may be required to have received at least a 60% pass in the BOptom\ndegree in the subject for the Master’s dissertation.\nDuration:\n(a) One year minimum\n(b) Three years maximum\nDissertation:\n(a) A research dissertation shall be submitted for assessment.\nMaster of Pharmacy (MPharm)",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 20219,
+      "end_char": 20664
+    },
+    {
+      "type": "programme",
+      "text": "The Master’s degree programme is offe red as a res earch Masters programme culminating in a\ndissertation relevant to the discipline of choice.\nDiscipline:\n(a) Pharmacology\n(b) Pharmaceutics",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 20665,
+      "end_char": 20854
+    },
+    {
+      "type": "programme",
+      "text": "(a) A 4-year Bachelor’s degree or equivalent in Pharmacy.\n(b) An average of 60% in the major subjects\nDuration:\n(a) One year minimum\n(b) Three years maximum\nDissertation:\n(a) The assessment consists of a dissertation in addition to which an oral or written\nassessment may be requi red, on a subj ect approved by the Progr amme Manager of the\nrelevant discipline.\nPOSTGRADUATE PROSPECTUS: 2026 14\nDoctor of Philosophy (PhD)\nThe Doctoral degree programme is based on an original research project culminating in a thesis\nrelevant to the discipline of choice.\nDisciplines:\n(a) Nursing",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 20879,
+      "end_char": 21459
+    },
+    {
+      "type": "admission",
+      "text": "Admission requirements:\n(a) Applicants must be in possession of a relevant Master's degree.\nDuration:\n(a) Two years minimum\n(b) Four years maximum\nThesis:\n(a) A thesis shall be submitted for assessment.\nDoctor of Optometry (DOptom)\nThe Doctoral degree programme is based on an original research project culminating in a thesis\nrelevant to the discipline.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 21460,
+      "end_char": 21814
+    },
+    {
+      "type": "admission",
+      "text": "Admission requirements:\n(a) Applicants must be in possession of a relevant Master’s degree in an Optometry Discipline\nDuration:\n(a) Two years minimum\n(b) Four years maximum\nThesis:\n(a) A thesis shall be submitted for assessment.\nPOSTGRADUATE PROSPECTUS: 2026 15\nDoctor of Pharmacy (DPharm)\nThe Doctoral degree programme is based on an original research project culminating in a thesis\nrelevant to the discipline.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 21815,
+      "end_char": 22227
+    },
+    {
+      "type": "admission",
+      "text": "Admission requirements:\n(a) Applicants must be in possession of a relevant Master’s degree in a Pharmacy Discipline.\nDuration:\n(a) Two years minimum\n(b) Four years maximum\nThesis:\n(a) A thesis shall be submitted for assessment.\nPOSTGRADUATE PROSPECTUS: 2026 16",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 22228,
+      "end_char": 22488
+    },
+    {
+      "type": "faculty",
+      "text": "SCHOOL OF MEDICINE\nMaster of Science in Medical Sciences (MSc (Medical Sciences))\nThe Master’s degree programme is offere d as a res earch Master’s programme culminating in a\ndissertation relevant to the discipline of choice.\nDisciplines:\n(a) Chemical Pathology\n(b) Haematology\n(c) Immunology\n(d) Medical Microbiology\n(e) Medical Genetics",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 22516,
+      "end_char": 22854
+    },
+    {
+      "type": "programme",
+      "text": "(a) A 4-year Bachelor’s degree or equivalent in Medical Sciences or a 4-year Health Sciences\nrelated degree\n(b) An average of at least 60% in the relevant major subjects\nDuration:\n(a) One year minimum\n(b) Three year’s maximum\nMaster of Public Health (MPH)\nDisciplines:\n(a) Health Measurement\n(b) Health Policy and Management\n(c) Environmental and Occupational Health\n(d) Social and Behavioural Sciences in Public Health",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 22879,
+      "end_char": 23298
+    },
+    {
+      "type": "programme",
+      "text": "(a) A relevant Bachelor Honours degree or equivalent.\n(b) At least 60% in the relevant major subjects.\n(b) If Senate is satisfied that the candidate sufficiently qualifies to pursue the programme\nenvisaged for the degree of Master of Public Health, any of the following may be admitted as\na candidate:",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 23323,
+      "end_char": 23624
+    },
+    {
+      "type": "programme",
+      "text": "(i) The holder of a degree of Bachelor of Arts or Sciences with Honours in Nursing,\nPsychology or Sociology or in a field wh ich, in the opini on of the Sen ate, is relevant to\nPublic Health.\n(ii) A graduate of any other university who has satisfied the Senate by means of a written\nor oral test (or both) or by means of any other mode of assessment to be determined\nPOSTGRADUATE PROSPECTUS: 2026 17\nfrom time to time by the Senate that he/she is qualified to undertake the line of study\nproposed or research (or both) required for the degree.\nDuration:\n(a) One year minimum\n(b) Three years maximum\nMini-Dissertation:\n(a) A candidate shall submit a topic for the approval of the Senate before June of the first\nacademic year of study.\n(b) A candidate may be permitted by the Senate to substitute a new topic for the research\nreport before November of the first year\nMASTER OF MEDICINE\nNON-SURGICAL DISCIPLINES*\nMaster of Medicine in Anaesthesiology (MMed (Anaesthesiology))\nMaster of Medicine in Dermatology (MMed (Dermatology))\nMaster of Medicine in Diagnostic Radiography (MMed (Diagnostic Radiography))\nMaster of Medicine in Family Medicine (MMed (Family Medicine))\nMaster of Medicine in Forensic Pathology (MMed (Forensic Pathology))\nMaster of Medicine in Internal Medicine (MMed (Internal Medicine))\nMaster of Medicine in Nuclear Medicine (MMed (Nuclear Medicine))\nMaster of Medicine in Obstetrics & Gynaecology (MMed (Obstetrics & Gynaecology))\nMaster of Medicine in Ophthalmology (MMed (Ophthalmology))\nMaster of Medicine in Otorhinolaryngology (MMed (Otorhinolaryngology))\nMaster of Medicine in Paediatrics & Child Health (MMed (Paediatrics & Child Health))\nMaster of Medicine in Psychiatry (MMed (Psychiatry))\nPOSTGRADUATE PROSPECTUS: 2026 18\nMaster of Medicine in Public Health Medicine (MMed (Public Health Medicine))\nMaster of Medicine in Radiation Oncology (MMed (Radiation Oncology))",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 23625,
+      "end_char": 25522
+    },
+    {
+      "type": "admission",
+      "text": "Admission Requirements:\nIn order to be admitted to MMed degree course a candidate must:\n(a) Be in possession of MBChB or equivalent degree and be registered with the Health Professions\nCouncil of South Africa as a medical practitioner (Independent Practice).\n(b) Be appointed to a Registrar's post recogni sed by the HPCSA. This post must be occupied for\nthe full duration of registration as required under the University rules.\n(c) Meet any other requirements that may be enunciated in the rules for the specific degree for\nwhich registration is requested.\nDuration:\n(a) The duration of the MMed degrees will be a minimum of four years.\n(b) The maximum will be six years.\nMASTER OF MEDICINE\nSURGICAL DISCIPLINES*\nMaster of Medicine in General Surgery (MMed (General Surgery))\nMaster of Medicine in Orthopaedics (MMed (Orthopaedics))\nMaster of Medicine in Urology (MMed (Urology))",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 25523,
+      "end_char": 26403
+    },
+    {
+      "type": "admission",
+      "text": "Admission Requirements:\nIn order to be admitted to MMed degree course a candidate must:\n(a) Be in possession of MBChB or equivalent degree and be registered with the Health Professions\nCouncil of South Africa as a medical practitioner (Independent Practice).\n(b) Be appointed to a Registrar's post recognised by the HPCSA. This post must be occupied for\nthe full duration of registration as required under the rules.\n(c) Meet any other requirements that may be enunciated in the rules for the specific degree for\nwhich registration is requested.\nDuration:\n(a) The duration of the MMed degrees will be a minimum of five years\n(b) The maximum will be seven years.\n* Ther University may only offer programmes that are accredited by the Health Professions Council\nof South Africa\nPOSTGRADUATE PROSPECTUS: 2026 19\nDoctor of Philosophy (PhD)\nThe Doctoral degree programme is based on an original research project culminating in a thesis\nrelevant to the discipline of choice.\nDisciplines:\n(a) Chemical Pathology\n(b) Haematology\n(c) Immunology\n(d) Medical Microbiology\n(e) Medical Genetics\n(f) Public Health",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 26404,
+      "end_char": 27503
+    },
+    {
+      "type": "admission",
+      "text": "Admission requirements:\n(a) Applicants must be in possession of a relevant Master’s degree.\nDuration:\n(c) Two years minimum\n(d) Four years maximum\nThesis:\n(a) A thesis shall be submitted for assessment.\nPOSTGRADUATE PROSPECTUS: 2026 20",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 27504,
+      "end_char": 27739
+    },
+    {
+      "type": "faculty",
+      "text": "The School of Education is primarily committed to rural regeneration, empowerment and development,\nthrough a lifelong learning approach to teaching and interdisciplinary research.\nPostgraduate Cer tificate in Education in Further Education and Training Teaching (PGCE\n(FET Teaching))\nThe degree may be studied in the following disciplines:\n(a) Languages and Social Sciences:\nEnglish Stud ies or Sepedi (Sep edi to read a s Northe rn Sot ho/Sepedi) or Tshivend a or\nXitsonga or Geography or History\n(b) Economic Management Sciences:\nAccounting or Business Management or Economics.\n(c) Mathematics, Science & Technology:\nLife Sciences or Mathematics or Physical Science (Chemistry/Physics) or Technology.\n(d) Languages and Life Orientation:\nEnglish Studies or Sepedi (Sepedi to read as Northern Sotho/Sepedi) or Tshivenda or\nXitsonga AND Life Orientation.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 27782,
+      "end_char": 28635
+    },
+    {
+      "type": "programme",
+      "text": "(a) A candidate must have an approved Bachelor’s degree (360 credits) or appropriate Diploma\n(2 School related subjects).\nDuration:\n(a) One year minimum\n(b) Two years maximum",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 28660,
+      "end_char": 28834
+    },
+    {
+      "type": "programme",
+      "text": "Advanced Diploma in Adult and Community Education and Training Teaching (AdvDip (Adult\nand Community Education and Training Teaching)\nThe degree may be studied in the following disciplines:\n(a) Mathematics, Science and Technology for ACET (Information Technology, Mathematical\nLiteracy, Mathematics, Natural Sciences, Technology)\n(b) Economic and Management Sciences for ACET (Small, Medium and Micro- Enterprises,\nEconomics and Management Sciences)\n(c) Humanities for ACET (English, Sepedi, Xitsonga, Tshivenda, Life Orientation, Human and\nSocial Sciences, Early Childhood Development)\nPOSTGRADUATE PROSPECTUS: 2026 21",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 28835,
+      "end_char": 29454
+    },
+    {
+      "type": "programme",
+      "text": "(a) An appropriate 360 credit Level 6 Diploma or National N -Diploma, or a 360 credit Level 7",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 29479,
+      "end_char": 29572
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor’s degree, or a 480 credit Level 8 Bachelor’s degree, sometimes referred to as a",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 29573,
+      "end_char": 29661
+    },
+    {
+      "type": "programme",
+      "text": "“Professional Bachelor’s Degree”.\n(b) Graduates entering into the programme should have included in their undergraduate\nqualifications at least two fields of learning that are appropriate for Lecturing subjects or fields\nin the ACET curriculum. One field should have been studied and passed at the second-year\nlevel and another at third third-year level.\nDuration:\n(c) One year minimum\n(d) Two years maximum",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 29662,
+      "end_char": 30069
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Education Honours in Curriculum Studies (BEdHons (Curriculum Studies))",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 30070,
+      "end_char": 30152
+    },
+    {
+      "type": "admission",
+      "text": "(a) The minimum admission requirements for the BEdHons degree, is a four -year professional\nteaching degree (in Senior phase and / or FET phase teaching) within the particular subject\nOR",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 30177,
+      "end_char": 30363
+    },
+    {
+      "type": "programme",
+      "text": "(b) an appropriate Bachelor’s degree (within appropriate subject area) and a recognised\nprofessional teaching qualification (in Senior phase and / or FET phase teaching) with an\naverage of 60% pass mark in disciplinary area.\nDuration:\n(a) Minimum one year.\n(b) Maximum two years",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 30364,
+      "end_char": 30642
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Education Honours in Educational Management (BEdHons (Educational\nManagement))",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 30643,
+      "end_char": 30733
+    },
+    {
+      "type": "admission",
+      "text": "(a) The minimum admission requirements for the BEdHons degree, is a four -year professional\nteaching degree (in Senior phase and / or FET phase teaching) within the particular subject\nOR",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 30758,
+      "end_char": 30944
+    },
+    {
+      "type": "programme",
+      "text": "(b) an appropriate Bachelor’s degree (within appropriate subject area) and a recognised\nprofessional teaching qualification (in Senior phase and / or FET phase teaching) with an\naverage of 60% pass mark in disciplinary area.\nDuration:\n(a) Minimum one year.\n(b) Maximum two years\nPOSTGRADUATE PROSPECTUS: 2026 22",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 30945,
+      "end_char": 31256
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Education Honours in Educational Studies (BEdHons (Educational Studies))",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 31257,
+      "end_char": 31341
+    },
+    {
+      "type": "admission",
+      "text": "(a) The minimum admission requirements for the BEdHons degree, is a four -year professional\nteaching degree (in Senior phase and / or FET phase teaching) within the particular subject\nOR",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 31366,
+      "end_char": 31552
+    },
+    {
+      "type": "programme",
+      "text": "(b) an appropriate Bachelor’s degree (within appropriate subject area) and a recognised\nprofessional teaching qualification (in Senior phase and / or FET phase teaching) with an\naverage of 60% pass mark in disciplinary area.\nDuration:\n(a) Minimum one year\n(b) Maximum two years",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 31553,
+      "end_char": 31830
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Education Honours in Language Education (BEdHons (Language Education))",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 31831,
+      "end_char": 31913
+    },
+    {
+      "type": "admission",
+      "text": "(a) The minimum admission requirements for the BEd Hons degree, is a four -year professional\nteaching degree (in Senior phase and / or FET phase teaching) within the particular subject\nOR",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 31938,
+      "end_char": 32125
+    },
+    {
+      "type": "programme",
+      "text": "(b) an appropriate Bachelor’s degree (within appropriate subject area) and a recogni sed\nprofessional teaching qualification (in Senior phase and / or FET phase teaching) with an\naverage of 60% pass mark in disciplinary area,\n(c) For candidates to enroll for the BEd Ho nours degree in Language Education– they must\nhave majored in English, Sepedi, Tshivenda or Xitsonga.\nDuration:\n(a) Minimum one year\n(b) Maximum two years",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 32126,
+      "end_char": 32550
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Education Honours in Mathematics Education (BEdHo ns (Mathematics\nEducation))",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 32551,
+      "end_char": 32640
+    },
+    {
+      "type": "admission",
+      "text": "(a) The minimum admission requirements for the BEdHons degree, is a four -year professional\nteaching degree (in Senior phase and / or FET phase teaching) within the particular subject\nOR",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 32665,
+      "end_char": 32851
+    },
+    {
+      "type": "programme",
+      "text": "(b) an appropriate Bachelor’s degree (within appropr iate subject area) and a recognised\nprofessional teaching qualification (in Senior phase and / or FET phase teaching) with an\naverage of 60% pass mark in disciplinary area.\nPOSTGRADUATE PROSPECTUS: 2026 23\nDuration:\n(a) Minimum one year\n(b) Maximum two years",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 32852,
+      "end_char": 33163
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Education Honours in Science Education (BEdHons (Science Education))",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 33164,
+      "end_char": 33244
+    },
+    {
+      "type": "admission",
+      "text": "(a) The minimum admission requirements for the BEdHons degree, is a four -year professional\nteaching degree (in Senior phase and / or FET phase teaching) within the particular subject\nOR",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 33269,
+      "end_char": 33455
+    },
+    {
+      "type": "programme",
+      "text": "(b) An appropriate Bachelor’s degree (within appropriate subject area) and a recognised\nprofessional teaching qualification (in Senior phase and / or FET phase teaching) with an\naverage of 60% pass mark in disciplinary area.\nDuration:\n(a) Minimum one year\n(b) Maximum two years",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 33456,
+      "end_char": 33733
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Education Honours in Technology Education (BEdHons (Technology Education)",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 33734,
+      "end_char": 33819
+    },
+    {
+      "type": "admission",
+      "text": "(a) The minimum admission requirements for the BEdHons degree, is a four -year professional\nteaching degree (in Senior phase and / or FET phase teaching) within the particular subject\nOR",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 33844,
+      "end_char": 34030
+    },
+    {
+      "type": "programme",
+      "text": "(b) an appropriate Bachelor’s degree (within appropriate subject area) and a recogni sed\nprofessional teaching qualification (in Senior phase and / or FET phase teaching) with an\naverage of 60% pass mark in disciplinary area.\nDuration:\n(a) Minimum one year\n(b) Maximum two years\nPOSTGRADUATE PROSPECTUS: 2026 24",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 34031,
+      "end_char": 34342
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Education Honours in Adult and Commun ity Education and Training (BEdHons\n(Adult and Community Education and Training))",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 34343,
+      "end_char": 34474
+    },
+    {
+      "type": "admission",
+      "text": "(a) The minimum admission requirements for the BEdHons degree, is a four -year professional\nteaching degree (in Senior phase and / or FET phase teaching) within the particular subject\nOR",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 34499,
+      "end_char": 34685
+    },
+    {
+      "type": "programme",
+      "text": "(b) an appropriate Bachelor’s degree (within appropriate subject area) and a recognised\nprofessional teaching qualification (in Senior phase and / or FET phase teaching) with an\naverage of 60% pass mark in disciplinary area,\nDuration:\n(a) One year full-time.\n(b) Maximum two years\nMaster of Education (MEd)\nThe Master’s degree programme is offe red as a res earch Master’s programme culminating in a\ndissertation relevant to the discipline of choice.\nThe degree may be studied in the following disciplines:\n(a) Adult Education\n(b) Curriculum Studies\n(c) Education\n(d) Language Education\n(e) Mathematics Education\n(f) Science Education\n(g) Technology Education",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 34686,
+      "end_char": 35345
+    },
+    {
+      "type": "programme",
+      "text": "(a) A candidate must hold a relevant Bachelor of Education Honours degree or PGDip\n(Education) and a research project.\n(b) The Candidate shall have majored in a subject in which he/she wishes to carry out research.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 35370,
+      "end_char": 35584
+    },
+    {
+      "type": "programme",
+      "text": "(c) An average of 60% in the Honours qualification.\nDuration:\n(a) One year minimum\n(b) Maximum three years\nPOSTGRADUATE PROSPECTUS: 2026 25\nMaster of Education in Mathematics Education (MEd (Mathematics Education))\nThis is a taught Ma sters’ programme culminating in a mini-dissertation that carries 50% of the final\nmark.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 35585,
+      "end_char": 35907
+    },
+    {
+      "type": "programme",
+      "text": "(a) Candidate must be in possession of a BEd Honours in Mathematics\n(b) Preference will be given to candidate with teaching experience in Mathematics, but others\nmay apply for available space.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 35932,
+      "end_char": 36124
+    },
+    {
+      "type": "programme",
+      "text": "(c) An average of 60% in the Honours qualification.\nDuration:\nMinimum of one year and maximum of three years.\nMaster of Education in Science Education (MEd (Science Education))\nThis is a taught Ma sters’ programme culminating in a mini-dissertation that carries 50% of the final\nmark.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 36125,
+      "end_char": 36409
+    },
+    {
+      "type": "programme",
+      "text": "(a) Candidate must be in possession of a BEd Honours in Physical Science or Biology.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 36434,
+      "end_char": 36518
+    },
+    {
+      "type": "programme",
+      "text": "(b) An average of 60% in the Honours qualification.\n(b) Preference will be given to candidate with teaching experience in Biology and/or Physical\nScience\nDuration:\nMinimum of one year and maximum of three years.\nMaster of Education in Technology Education (MEd (Technology Education))\nThis is a taught Ma sters’ programme culminating in a mini-dissertation that carries 50% of the final\nmark.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 36519,
+      "end_char": 36911
+    },
+    {
+      "type": "programme",
+      "text": "(b) An average of 60% in the Honours qualification.\n(b) Preference will be given to candidate with teaching experience in Technology Education,\nbut others may apply for available space.\nDuration:\nMinimum of one year and maximum of three years.\nPOSTGRADUATE PROSPECTUS: 2026 26\nMaster of Education in Language Education (MEd (Language Education))\nThis is a taught Ma sters’ programme culminating in a mini-dissertation that carries 50% of the final\nmark.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 37013,
+      "end_char": 37466
+    },
+    {
+      "type": "programme",
+      "text": "(b) An average of 60% in the Honours qualification.\nDuration:\nMinimum of one year and maximum of three years.\nMaster of Education in Adult Education (MEd (Adult Education))\nThis is a taught Ma sters’ programme culminating in a mini-dissertation that carries 50% of the final\nmark.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 37528,
+      "end_char": 37808
+    },
+    {
+      "type": "programme",
+      "text": "(b) An average of 60% in the Honours qualification.\nDuration:\n(a) Minimum of one year and maximum of three years.\nPOSTGRADUATE PROSPECTUS: 2026 27\nDoctor of Philosophy (PhD)\nThe Doctoral degree programme is based on an original research project culminating in a thesis\nrelevant to the discipline of choice.\nThe degree may be studied in the following disciplines:\n(a) Adult Education\n(b) Curriculum Studies\n(c) Educational Administration\n(d) Educational Psychology\n(e) Educational Studies\n(f) Language Education\n(g) Mathematics Education\n(h) Science Education\n(i) Technology Education",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 37881,
+      "end_char": 38464
+    },
+    {
+      "type": "programme",
+      "text": "(a) A candidate must hold a Master of Education degree or the Bachelor of Education Honours\ndegree and an approved Master’s degree.\nDuration:\n(a) A minimum of two years and a maximum of four years.\nPOSTGRADUATE PROSPECTUS: 2026 28",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 38489,
+      "end_char": 38719
+    },
+    {
+      "type": "faculty",
+      "text": "The School of Languages & Communication Studies trains, educates, and serves the people of the\nLimpopo Province, the country - and beyond - by providing quality programmes in a multicultural\ncontext in languages and communication studies.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 38786,
+      "end_char": 39024
+    },
+    {
+      "type": "programme",
+      "text": "(a) A relevant Bachelor’s degree in Information Studies or related disciplines with NQF exit level 7\nDuration:\n(a) Minimum of one year and maximum of two years.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 39123,
+      "end_char": 39283
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Arts Honours (BAHons)\nThe degree may be studied in the following disciplines:\n(a) Communication Studies\n(b) English Studies\n(c) Applied Language and Multilingual Studies\n(d) Media Studies\n(e) Northern Sotho\n(f) Translation Studies and Linguistics\n(g) Tshivenda\n(h) Xitsonga",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 39284,
+      "end_char": 39569
+    },
+    {
+      "type": "programme",
+      "text": "(a) Candidate must be in possession of a relevant Bachelor’s degree in which at least sixty\npercent (60%) has been obtained in the f inal formal assessment (ex amination) of the\nappropriate subject.\nDuration:\n(a) Minimum of one year and maximum of two years.\nPOSTGRADUATE PROSPECTUS: 2026 29\nMaster of Arts in African Languages (MA (African Languages))\nThis is a taught Ma sters’ programme culminating in a mini-dissertation that carries 50% of the final\nmark.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 39594,
+      "end_char": 40054
+    },
+    {
+      "type": "programme",
+      "text": "(a) An Honours degree in an African Language with an average of 60%.\nDuration:\nMinimum of one year and maximum of three years.\nMaster of Arts in English Studies (MA (English Studies))\nThis is a taught Ma sters’ programme culminating in a mini-dissertation that carries 50% of the final\nmark.\nThe degree may be studied in the following areas:\na) Literature\nb) Language",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 40079,
+      "end_char": 40446
+    },
+    {
+      "type": "programme",
+      "text": "An Honours degree in English with an average of 60% in Literature, Language or the\ncombination thereof.\nDuration:\nMinimum of one year and maximum of three years.\nMaster of Arts in Translation Studies & Linguistics (MA (Translation Studies and Linguistics)\nThis is a taught Ma sters’ programme culminating in a mini-dissertation that carries 50% of the final\nmark.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 40471,
+      "end_char": 40834
+    },
+    {
+      "type": "programme",
+      "text": "A candidate must be in possession of a Bachelor Honours degree in a relevant subject with a mark\nof 60% for the relevant major.\nDuration:\n(a) Minimum of one year and maximum of three years.\nPOSTGRADUATE PROSPECTUS: 2026 30\nMaster of Arts (MA)\nThe Master’s degree programme is offere d as a res earch Master’s programme culminating in a\ndissertation relevant to the discipline of choice.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 40859,
+      "end_char": 41245
+    },
+    {
+      "type": "programme",
+      "text": "(b) An average of 60% in the Honours qualification.\nThe degree may be studied in the following disciplines:\n(a) Communication Studies\n(b) English Studies\n(c) Media Studies\n(d) Northern Sotho\n(e) Tshivenda\n(f) Xitsonga\nDuration:\n(a) Minimum of one year with a maximum of three years.\nMaster of Information Studies (MInf)\nThe Master’s degree programme is offe red as a res earch Master’s programme culminating in a\ndissertation relevant to the discipline of choice.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 41347,
+      "end_char": 41810
+    },
+    {
+      "type": "programme",
+      "text": "(b) An average of 60% in the Honours qualification.\nDuration:\n(a) Minimum of one year and maximum of three years.\nDoctor of Philosophy (PhD)\nThe Doctoral degree programme is based on an original research project culminating in a thesis\nrelevant to the discipline of choice.\nThe degree may be studied in the following disciplines:\n(a) Communication Studies\n(b) English Studies\n(c) Media Studies\n(d) Northern Sotho\n(e) Translation Studies\nPOSTGRADUATE PROSPECTUS: 2026 31\n(f) Tshivenda\n(g) Xitsonga",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 41902,
+      "end_char": 42398
+    },
+    {
+      "type": "admission",
+      "text": "Admission Requirements:\n(a) A Relevant Master’s degree in the discipline of choice or equivalent qualification.\nDuration:\n(a) A minimum of two years.\n(b) A maximum of four years.\nPOSTGRADUATE PROSPECTUS: 2026 32",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 42399,
+      "end_char": 42610
+    },
+    {
+      "type": "faculty",
+      "text": "SCHOOL OF SOCIAL SCIENCES\nThe Sc hool of Social Scie nces aims to train an i ntellectual and academic professional cadre, to\nconduct relevant research, and to foster community renewal in such a way that people experience\nhuman dignity at grass roots level.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 42633,
+      "end_char": 42889
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Arts Honours (BAHons)\nThe degree may be studied in the following disciplines:\n(a) Anthropology\n(b) Criminology\n(c) History\n(d) International Politics\n(e) Philosophy\n(f) Political Science\n(g) Psychology\n(h) Sociology",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 42890,
+      "end_char": 43117
+    },
+    {
+      "type": "programme",
+      "text": "(a) A candidate must be in possession of Bachelor’s degree within the disciplinary area of choice\n(b) An average of 60% for the major subject\nDuration:\n(a) One year minimum and two years maximum\nMaster of Arts in Folklore Studies (MA (Folklore Studies))\nThis is a taught Ma sters’ programme culminating in a mini-dissertation that carries 50% of the final\nmark.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 43142,
+      "end_char": 43503
+    },
+    {
+      "type": "programme",
+      "text": "(b) An average of 60% in the Honours qualification.\nDuration:\n(a) One year minimum and a maximum of three years.\nPOSTGRADUATE PROSPECTUS: 2026 33\nMaster of Arts in Clinical Psychology (MA (Clinical Psychology))\nThis is a taught Ma sters’ programme culminating in a mini-dissertation that carries 50% of the final\nmark.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 43590,
+      "end_char": 43908
+    },
+    {
+      "type": "admission",
+      "text": "Admission Requirements:\n(a) An Hon ours degree in Psychology or Bac helor of Psychol ogy (BPsyc h) and a p ersonal\ninterview.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 43909,
+      "end_char": 44034
+    },
+    {
+      "type": "programme",
+      "text": "(b) An average of 60% in the Honours qualification.\nDuration:\n(a) One year minimum and a maximum of three years.\nMaster of Arts (MA)\nThe Master’s degree programme is offe red as a res earch Master’s programme culminating in a\ndissertation relevant to the discipline of choice.\nThe degree may be studied in the following disciplines:\n(a) Anthropology\n(b) Criminology\n(c) Folklore Studies\n(d) History\n(e) International Politics\n(f) Philosophy\n(g) Political Science\n(h) Psychology\n(i) Sociology",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 44035,
+      "end_char": 44526
+    },
+    {
+      "type": "programme",
+      "text": "(a) A candidate must be in possession of a Bachelor Honours degree in a relevant subject.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 44551,
+      "end_char": 44640
+    },
+    {
+      "type": "programme",
+      "text": "(b) An average of 60% in the Honours degree.\nDuration:\n(a) A minimum of one year and a maximum of three years.\nPOSTGRADUATE PROSPECTUS: 2026 34\nMaster of Social Work (MSW)\nThe Master’s degree programme is offe red as a res earch Master’s programme culminating in a\ndissertation relevant to Social Work.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 44641,
+      "end_char": 44943
+    },
+    {
+      "type": "programme",
+      "text": "(a) A candidate must be in possession of a Bachelor of Social Work degree or equivalent at NQF\nlevel 8.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 44968,
+      "end_char": 45071
+    },
+    {
+      "type": "programme",
+      "text": "(b) An average of 60% in the Honours qualification.\nDuration:\n(a) A minimum of one year and a maximum of three years.\nDoctor of Philosophy (PhD)\nThe Doctoral degree programme is based on an original research project culminating in a thesis\nrelevant to the discipline of choice.\nThe degree may be studied in the following disciplines:\n(a) Anthropology\n(b) Criminology\n(c) Folklore Studies\n(d) History\n(e) International Politics\n(f) Philosophy\n(g) Political Science\n(h) Psychology\n(i) Social Work\n(j) Sociology",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 45072,
+      "end_char": 45580
+    },
+    {
+      "type": "admission",
+      "text": "Admission Requirements:\n(a) A Relevant Master’s degree or equivalent qualification.\nDuration:\n(a) A minimum of two years.\n(b) A maximum of four years.\nPOSTGRADUATE PROSPECTUS: 2026 35",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 45581,
+      "end_char": 45764
+    },
+    {
+      "type": "programme",
+      "text": "Postgraduate Diploma in Accountancy (PGDip (Accountancy))\nThis programme has been recognised by SAICA as a CTA programme",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 45815,
+      "end_char": 45935
+    },
+    {
+      "type": "programme",
+      "text": "(a) Completion of recognised SAICA accredited Bachelor's qualification (NQF level 7 or 8) with 55%\nin Financial Accounting and an overall average of 55% in all four main courses passed (preferably\nat the same year), or Equivalent.\nDuration:\n(a) Minimum of one year\n(b) Maximum of two years",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 45960,
+      "end_char": 46249
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Commerce Honours in Accountancy (BComHons (Accountancy))\nThe degree may be conferred in the following programs:\n(a) Accounting (BCTA)\n(b) Public Finance Accounting",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 46250,
+      "end_char": 46425
+    },
+    {
+      "type": "programme",
+      "text": "(a) A Bachelor’s degree or equivalent with Major subjects being in Accountancy.\n(b) Applicants must obtain at least 60 % in the final course of Accounting.\nDuration:\n(a) Minimum of one year and a maximum of two years\nMaster of Commerce (MCom)\nThe Master’s degree programme is offered as a research-focused Master’s programme, culminating\nin a dissertation relevant to the chosen discipline.\nThe degree may be conferred in the following subject:\n(a) Accounting",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 46450,
+      "end_char": 46909
+    },
+    {
+      "type": "programme",
+      "text": "(a) Applicants must be in possession of an Honours degree or equivalent in Accountancy or\nrelated Disciplines and submit a suitable research proposal.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 46934,
+      "end_char": 47084
+    },
+    {
+      "type": "programme",
+      "text": "(b) An average of 60% in the Honours qualification.\nDuration:\n(a) Minimum of one year and maximum of three years\nPOSTGRADUATE PROSPECTUS: 2026 36\nDoctor of Commerce (DCom)\nThe Doctoral degree programme is based on an original research project culminating in a thesis\nrelevant to the discipline.\nA thesis dealing with a subject in the fields of:\n(a) Accounting",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 47085,
+      "end_char": 47444
+    },
+    {
+      "type": "admission",
+      "text": "Admission Requirements:\n(a) Applicants must be in possession of a Master’s degree in the programme that he/she\nintends to study and submit a suitable research proposal.\nDuration:\n(a) Minimum of two years and maximum of four years\nPOSTGRADUATE PROSPECTUS: 2026 37",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 47445,
+      "end_char": 47707
+    },
+    {
+      "type": "programme",
+      "text": "(a) A Bachelor’s degree or equivalent majoring in Economics\n(b) Applicants must obtain at least 60 % average in the Final Year Economics modules.\nDuration:\n(a) Minimum of one year and maximum of three years.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 47858,
+      "end_char": 48065
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Commerce Hono urs in Business Management (BComHo ns (Business\nManagement))",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 48066,
+      "end_char": 48152
+    },
+    {
+      "type": "programme",
+      "text": "(a) A Bachelor’s degree or equivalent with Business management as a Major.\n(b) Applicants must obtain at least 60 % average in the final modules of Business Management\nDuration:\n(a) Minimum of one year and maximum of two years.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 48177,
+      "end_char": 48404
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Commerce Hono urs in Human Resource Management (BComHo ns (Human\nResource Management))",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 48405,
+      "end_char": 48503
+    },
+    {
+      "type": "programme",
+      "text": "(a) A Bachelor’s degree or equivalent majoring in Human Resource Management.\n(b) Applicants must obtain at least 60 % average in the final year Human Resource Management\nModules\nDuration:\n(a) Minimum of one year and maximum of three years\nPOSTGRADUATE PROSPECTUS: 2026 38",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 48528,
+      "end_char": 48799
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Development Honours in Planning & Management (BDevHons (Planning &\nManagement))",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 48800,
+      "end_char": 48891
+    },
+    {
+      "type": "programme",
+      "text": "(a) A relevant Bachelor’s degree at NQF l evel 7, as approved by the H OD of Dev elopment\nManagement.\n(b) Applicants must obtain at least 60% in the final course of the qualifying subject.\nDuration:\n(a) Minimum of one year and maximum of two years.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 48916,
+      "end_char": 49164
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Administr ation Ho nours in Public Administration (BAdminHons\n(PublicAdministration))",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 49165,
+      "end_char": 49262
+    },
+    {
+      "type": "programme",
+      "text": "(a) A Relevant Bachelor’s degree at NQF level 7.\n(b) Applicants must obtain at least 60 % in the final course of the subject in which he/she intends",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 49287,
+      "end_char": 49435
+    },
+    {
+      "type": "programme",
+      "text": "to do the Honours study.\nDuration:\n(a) Minimum of one year and a maximum of two years.\nMaster of Commerce (MCom)\nThe Master’s degree programme is offered as a research-focused Master’s programme, culminating\nin a dissertation relevant to the chosen discipline.\nThe Research degree may be conferred in the following subjects:\n(a) Economics\n(b) Business Management\n(c) Human Resource Management",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 49436,
+      "end_char": 49828
+    },
+    {
+      "type": "programme",
+      "text": "(a) Applicants must be in po ssession of an Honours degree in the program that he/she intends to\nstudy.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 49853,
+      "end_char": 49956
+    },
+    {
+      "type": "programme",
+      "text": "(b) An average of 60% in the Honours qualification.\nDuration:\n(a) Minimum of one year and maximum of three years.\nPOSTGRADUATE PROSPECTUS: 2026 39\nMaster of Development in Planning and Management (MDev (Planning & Management))\nThe Master’s degree programme is offe red as a res earch Master’s programme culminating in a\ndissertation.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 49957,
+      "end_char": 50290
+    },
+    {
+      "type": "programme",
+      "text": "(a) Applicants must be in possession of at least an honours degree in the program that he/she\nintends to study.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 50315,
+      "end_char": 50426
+    },
+    {
+      "type": "programme",
+      "text": "(b) An average of 60% in the Honours qualification.\nDuration:\n(a) Minimum of one year and maximum of three years.\nMaster of Public Administration and Management (MPAM)\nThe Master’s degree programme is offe red as a res earch Master’s programme culminating in a\ndissertation.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 50427,
+      "end_char": 50701
+    },
+    {
+      "type": "programme",
+      "text": "(a) Applicants must be in possession of at least an Honours degree in the program that he/she\nintends to study.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 50726,
+      "end_char": 50837
+    },
+    {
+      "type": "programme",
+      "text": "(b) An average of 60% in the Honours qualification.\nDuration:\n(a) Minimum of one year and maximum of three years.\nDoctor of Commerce (DCom)\nThe Doctoral degree programme is based on an original research project culminating in a thesis\nrelevant to the chosen discipline.\nA thesis dealing with a subject in the fields of:\n(a) Economics\n(b) Business Management\n(c) Human Resource Management",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 50838,
+      "end_char": 51225
+    },
+    {
+      "type": "admission",
+      "text": "Admission Requirements:\n(a) Applicants must be in po ssession of a Master's degree in the pr ogram that he/she intends to\nstudy.\nDuration:\n(a) Minimum of two years and maximum of four years.\nPOSTGRADUATE PROSPECTUS: 2026 40\nDoctor of Administration (DAdmin)\nThe Doctoral degree programme is based on an original research project culminating in a thesis\nrelevant to the discipline of choice.\nA thesis dealing with a subject in the fields of:\n(a) Development Planning & Management\n(b) Public Administration",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 51226,
+      "end_char": 51730
+    },
+    {
+      "type": "admission",
+      "text": "Admission Requirements:\n(a) Applicants must be in po ssession of a Master’s degree in the pr ogram that he/she intends to\nstudy.\nDuration:\n(a) Minimum of two years and maximum of four years.\nPOSTGRADUATE PROSPECTUS: 2026 41",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 51731,
+      "end_char": 51954
+    },
+    {
+      "type": "faculty",
+      "text": "The School of Law has made a significant contribution to the legal fraternity in South Africa over the\nprevious years. It has, amongst others, produced esteemed judges and advocates like judges\nBM Ngoepe (the Judge President of Transvaal Provincial Division), P Mojapelo (Deputy President\nof Transvaal Provincial Division), Y Mokgoro (Judge of the Constitutional Court), L Mailula (Judge\nof the High Court), to name a few. The School has produced leaders in politics and business in the\npublic and private sectors.\nAll the programmes offered in this School are intended to enrich a candidate’s background\non various laws.\nMaster of Laws in Labour Law (LLM (Labour Law))\nThis is a taught Master's degree with a mini-dissertation contributing at least 50% towards the final\nmark.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 51997,
+      "end_char": 52774
+    },
+    {
+      "type": "admission",
+      "text": "Admission Requirements:\n(a) LLB UG degree or an equivalent four year law degree.\n(b) A candidate should h ave at least 60% aggregate for his/he r modul es in hi s/her preceding\ndegree.\nDuration:\n(a) The programme is offered over one year and a maximum period of three years.\nMaster of Laws in Development and Management Law (LLM (Development & Management\nLaw))\nThis is a taught Master’s degree with a mini-dissertation contributing at least 50% towards the final\nmark.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 52775,
+      "end_char": 53243
+    },
+    {
+      "type": "admission",
+      "text": "Admission Requirements:\n(a) LLB UG degree or an equivalent four year law degree.\n(b) A candidate should h ave at least 60% aggregate for his/he r modul es in hi s/her preceding\ndegree.\nDuration:\n(a) The programme is offered over one year and a maximum period of three years.\nPOSTGRADUATE PROSPECTUS: 2026 42\nMaster of Laws (LLM) by Research\nThe Master’s degr ee programme is offe red as a research-focused Master’s programme,\nculminating in a dissertation relevant to the chosen discipline.\nThe programme is offered in the following disciplines:\n(a) International Aspects of Law\n(b) Perspectives on Law\n(c) Legal Profession\n(d) Mercantile Law\n(e) Procedural Law\n(f) Public Law\n(g) Private Law",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 53244,
+      "end_char": 53936
+    },
+    {
+      "type": "admission",
+      "text": "Admission Requirements:\n(a) LLB UG degree or an equivalent four-year law degree.\n(b) A candidate should h ave at least 60% agg regate for his/he r modul es in h is/her preceding\ndegree.\nDuration:\n(a) The programme is offered over one year and a maximum period of three years.\nDoctor of Laws (LLD)\nThe Doctoral degree programme is based on an original research project culminating in a thesis\nrelevant to the chosen discipline.\nThe programme is offered in the following disciplines:\n(a) International Aspects of Law\n(b) Perspectives on Law\n(c) Legal Profession\n(d) Mercantile Law\n(e) Formal Law\n(f) Public Law\n(g) Private Law",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 53937,
+      "end_char": 54561
+    },
+    {
+      "type": "admission",
+      "text": "Admission Requirements:\n(a) To be admitted to the LLD degree programme, a candidate should have completed an LLM\ndegree or an equivalent qualification.\nDuration:\n(a) The programme is offered over two years and a maximum period of four years.\nPOSTGRADUATE PROSPECTUS: 2026 43",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 54562,
+      "end_char": 54836
+    },
+    {
+      "type": "faculty",
+      "text": "TURFLOOP GRADUATE SCHOOL OF LEADERSHIP\nAll the programmes offered at this School are intended to enrich a candidate’s theoretical\nbackground as well as instil practical skills necessary for on e to operate at managerial and/ or\nsupervisory levels in business, public and civil se ctors of the S ociety. We are a Graduate School\nbent on excellence and relevance and are facing the future with pride and determination.\nMaster of Business Administration (MBA)\nThis is a taught Master’s degree that includes a research component.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 54865,
+      "end_char": 55390
+    },
+    {
+      "type": "admission",
+      "text": "Admission Requirements:\n(a) Application for admission to the MBA Programme is subject to strict evaluation and selection\nis based on the candidate's academic achievements, experience, attitude and motivation for\nfurther study.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 55391,
+      "end_char": 55617
+    },
+    {
+      "type": "programme",
+      "text": "(c) An average of 60% in the Honours qualification.\n(d) A letter from their employer confirming that they will be allowed to attend classes.\n(e) Matriculation Mathematics or any qualification in Mathematics or Statistics which is deemed\nappropriate by the Selection Committee for MBA applicants.\nDuration:\n(a) The programme is offered over a minimum of a one year period and a maximum of three years.\nMaster of Development in Planning and Management (MDev (Planning and Management))\nThis is a taught Master’s degree with a mini-dissertation contributing at least 50% towards the final\nmark.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 55679,
+      "end_char": 56269
+    },
+    {
+      "type": "admission",
+      "text": "Admission Requirements:\n(a) Application for admission to the MDev (Planning and Management) Programme is subject to\nstrict evaluation and selection is based on the c andidate's academic achievem ents,\nexperience, attitude and motivation for further study.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 56270,
+      "end_char": 56525
+    },
+    {
+      "type": "programme",
+      "text": "(c) An average of 60% in the Honours qualification.\n(d) Candidates are also required to submit a letter from their employer confirming that they will be\nallowed to attend classes.\nDuration:\n(a) The programme is offered over a one year period minimum and three years maximum.\nPOSTGRADUATE PROSPECTUS: 2026 44\nMaster of Public Administration and Management (MPAM)\nThis is a taught Master’s degree with a mini-dissertation contributing at least 50% towards the final\nmark.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 56587,
+      "end_char": 57056
+    },
+    {
+      "type": "admission",
+      "text": "Admission Requirements:\n(a) Application for admission to the MPAM Programme is subject to strict evaluation and selection\nis based on the candidate's academic achievements, experience, attitude and motivation for\nfurther study.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 57057,
+      "end_char": 57284
+    },
+    {
+      "type": "programme",
+      "text": "(b) At least an Honours degree or equivalent NQF level 8 qualification in Public Administration or\nrelated field.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 57285,
+      "end_char": 57398
+    },
+    {
+      "type": "programme",
+      "text": "(c) An average of 60% in the Honours qualification.\n(d) Candidates are also required to submit a letter from their employer confirming that they will be\nallowed to attend classes.\nDuration:\n(a) The programme is offered over a one (1) year period, a minimum of one year and a maximum\nof three years.\nPOSTGRADUATE PROSPECTUS: 2026 45",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 57399,
+      "end_char": 57730
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Agricultural Management Honours (BAgrManHons)\nDisciplines:\n(a) Agricultural Economics\n(b) Animal Production\n(c) Plant Production\n(d) Agriculture Extension",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 57812,
+      "end_char": 57978
+    },
+    {
+      "type": "programme",
+      "text": "(a) A relevant Bachelor’s or equivalent qualification.\n(b) An average of 60% in the relevant major subject\nDuration:\n(a) Minimum one year.\n(b) Maximum two years.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 58003,
+      "end_char": 58164
+    },
+    {
+      "type": "programme",
+      "text": "The Honours degree programmes consist of a research project and four theory modules\nrelevant to the chosen discipline.\nDisciplines:\n(a) Aquaculture\n(b) Geography",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 58203,
+      "end_char": 58364
+    },
+    {
+      "type": "programme",
+      "text": "(a) A relevant Bachelor’s or equivalent qualification in terms of NQF level.\n(b) 60% in the major subjects\nDuration:\n(a) Minimum one (1) year\n(b) Maximum two (2) years\nPOSTGRADUATE PROSPECTUS: 2026 46\nMaster of Agricultural Management (MAgricMan)\nThe Master’s degree Programme is offered as a Research Master’s Programme culminating in a\nDissertation relevant to the discipline of choice.\nDisciplines:\n(a) Agricultural Economics\n(b) Animal Production\n(c) Plant Production\n(d) Agricultural Extension",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 58389,
+      "end_char": 58887
+    },
+    {
+      "type": "programme",
+      "text": "(a) A relevant Honours or a four-year equivalent NQF level 8 qualification degree\n(b) with at least a 60% average, in the appropriate major learning programme\nDuration:\n(a) Minimum one (1) year.\n(b) Maximum three (3) years.\nMaster of Science in Agricultural Economics (MSc (Agricultural Economics))\nThis is a taught Master’s degree with a mini-dissertation contributing at least 50% towards the final\nmark.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 58912,
+      "end_char": 59318
+    },
+    {
+      "type": "admission",
+      "text": "Admission Requirements:\n(a) A relevant BSc Agric or a four-year equivalent degree with specialisation in Agricultural\nEconomics or related discipline, with an average of at least 60%, or applying the RPL Policy.\nDuration:\n(a) Minimum one (1) year.\n(b) Maximum three (3) years.\nMaster of Science in Animal Production (MSc (Animal Production))\nThis is a taught Master’s degree with a mini-dissertation contributing at least 50% towards the final\nmark.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 59319,
+      "end_char": 59768
+    },
+    {
+      "type": "admission",
+      "text": "Admission Requirements:\n(a) A relevant BSc Agric or a four-year equivalent degree with specialisation in Animal production\nor related discipline, with an average of at least 60%.\nDuration:\n(a) Minimum one (1) year.\n(b) Maximum three (3) years.\nPOSTGRADUATE PROSPECTUS: 2026 47\nMaster of Science in Agronomy (MSc (Agronomy))\nThis is a taught Master’s degree with a mini-dissertation contributing at least 50% towards the final\nmark.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 59769,
+      "end_char": 60200
+    },
+    {
+      "type": "admission",
+      "text": "Admission Requirements:\n(a) A relevant BSc Agric or a four-year equivalent degree with specialisation in Plant production or\nrelated discipline, with an average of at least 60%.\nDuration:\n(a) Minimum one (1) year.\n(b) Maximum three (3) years.\nMaster of Science in Horticulture (MSc (Horticulture))\nThis is a taught Master’s degree with a mini-dissertation contributing at least 50% towards the final\nmark.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 60201,
+      "end_char": 60606
+    },
+    {
+      "type": "admission",
+      "text": "Admission Requirements:\n(a) A relevant BSc Agric or a four-year equivalent degree with specialisation in Plant production or\nrelated discipline, with an average of at least 60%.\nDuration:\n(a) Minimum one (1) year.\n(b) Maximum three (3) years.\nMaster of Science in Pasture Science (MSc (Pasture Science))\nThis is a taught Master’s degree with a mini-dissertation contributing at least 50% towards the final\nmark.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 60607,
+      "end_char": 61018
+    },
+    {
+      "type": "admission",
+      "text": "Admission Requirements:\n(a) A relevant BSc Agric or a four-year equivalent degree with specialisation in Plant/Animal\nproduction or related discipline, with an average of at least 60%.\nDuration:\n(a) Minimum one (1) year.\n(b) Maximum three (3) years.\nPOSTGRADUATE PROSPECTUS: 2026 48\nMaster of Science in Soil Science (MSc (Soil Science))\nThis is a taught Master’s degree with a mini-dissertation contributing at least 50% towards the final\nmark.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 61019,
+      "end_char": 61464
+    },
+    {
+      "type": "admission",
+      "text": "Admission Requirements:\n(a) A relevant BSc Agric or a four-year equivalent degree with specialisation in Soil Science or\nrelated discipline, with an average of at least 60%.\nDuration:\n(a) Minimum one (1) year.\n(b) Maximum three (3) years.\nMaster of Science in Plant Protection (MSc (Plant Protection))\nThis is a taught Master’s degree with a mini-dissertation contributing at least 50% towards the\nfinal mark.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 61465,
+      "end_char": 61874
+    },
+    {
+      "type": "admission",
+      "text": "Admission Requirements:\n(a) A relevant BSc Agric or a four-year equivalent degree with specialisation in Plant production or\nrelated discipline, with an average of at least 60%.\nDuration:\n(a) Minimum one (1) year.\n(b) Maximum three (3) years.\nMaster of Science (MSc)\nThe Master’s degree programme is offered as a research-focused Master’s programme,\nculminating in a dissertation relevant to the chosen discipline.\nDisciplines:\n(a) Aquaculture\n(b) Geography",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 61875,
+      "end_char": 62332
+    },
+    {
+      "type": "admission",
+      "text": "Admission Requirements:\n(a) A BSc Hons degree or its equivalent at NQF level 8 in the appropriate disciplinary area.\n(b) An average of at least 60%.\nDuration:\n(a) Minimum one (1) year\n(b) Maximum three (3) years.\nPOSTGRADUATE PROSPECTUS: 2026 49\nDoctor of Philosophy (PhD)\nThe Doctoral degree programmes are based on an original research project culminating in a\nthesis relevant to the chosen discipline.\nDisciplines:\n(a) Agricultural Economics\n(b) Agricultural Extension\n(c) Animal Production\n(d) Aquaculture\n(d) Geography\n(e) Plant Production\n(f) Soil Science",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 62333,
+      "end_char": 62894
+    },
+    {
+      "type": "admission",
+      "text": "Admission Requirements:\n(a) A relevant Master’s degree or equivalent qualification in the relevant disciplinary area.\nDuration:\n(a) Minimum two (2) years.\n(b) Maximum four (4) years.\nPOSTGRADUATE PROSPECTUS: 2026 50",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 62895,
+      "end_char": 63110
+    },
+    {
+      "type": "faculty",
+      "text": "SCHOOL OF MATHEMATICAL & COMPUTER SCIENCES\nThe School strives for excellence through research and provides the necessary skills required by",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 63144,
+      "end_char": 63283
+    },
+    {
+      "type": "programme",
+      "text": "the public and private sectors for the country's development . It offers Honours, Master's and\nDoctoral degrees.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 63284,
+      "end_char": 63396
+    },
+    {
+      "type": "programme",
+      "text": "The Honours degree programmes consist of a research project and four theory modules\nrelevant to the chosen discipline.\nDisciplines:\n(a) Applied Mathematics\n(b) Computer Science\n(c) Mathematics\n(d) Statistics",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 63435,
+      "end_char": 63642
+    },
+    {
+      "type": "admission",
+      "text": "Admission Requirements:\n(a) A BSc Hons degree or its equivalent at NQF level 8 in the appropriate disciplinary area.\n(b) An average of 60% in the relevant major subject.\nDuration:\n(a) Minimum one (1) year\n(b) Maximum two (2) years.\nMaster of Science (MSc)\nThe Master’s degree programme is offered as a research-focused Master’s programme, culminating\nin a dissertation relevant to the chosen discipline.\nDisciplines:\n(a) Applied Mathematics\n(b) Computer Science\n(c) Mathematics\n(d) Statistics",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 63643,
+      "end_char": 64135
+    },
+    {
+      "type": "admission",
+      "text": "Admission Requirements:\n(a) A BSc Hons degree or its equivalent at NQF level 8 in the appropriate disciplinary area.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 64136,
+      "end_char": 64252
+    },
+    {
+      "type": "programme",
+      "text": "(b) An average of at least 60% in the Honours degree.\nDuration:\n(a) Minimum one (1) year\n(b) Maximum three (3) years.\nPOSTGRADUATE PROSPECTUS: 2026 51\nMaster of Science in eScience (MSc (eScience))\nThis is a taught Master’s programme culminating in a mini-dissertation that carries 50% of the final\nmark. This course is offered as part of a collaboration with other Universities.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 64253,
+      "end_char": 64632
+    },
+    {
+      "type": "admission",
+      "text": "Admission Requirements:\n(a) A BSc Hons degree or its equivalent, specialising in relevant disciplines such as\nmathematics, statistics and computer science.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 64633,
+      "end_char": 64788
+    },
+    {
+      "type": "programme",
+      "text": "(b) An average of 60% in the Honours degree.\nDuration:\n(a) Minimum one (1) year\n(b) Maximum three (3) years.\nMaster of Science in Applied Mathematics (MSc (Applied Mathematics))\nThis is a taught Master’s programme culminating in a mini-dissertation that accounts for 50% of the\nfinal mark.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 64789,
+      "end_char": 65078
+    },
+    {
+      "type": "admission",
+      "text": "Admission Requirements:\n(a) A BSc Hons degree or its equivalent, specialising in Applied Mathematics.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 65079,
+      "end_char": 65180
+    },
+    {
+      "type": "programme",
+      "text": "(b) An average of 60% in the Honours degree.\nDuration:\n(a) Minimum one (1) year\n(b) Maximum three (3) years.\nMaster of Science in Mathematics (MSc (Mathematics))\nThis is a taught Master’s programme culminating in a mini-dissertation that carries 50% of the final\nmark.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 65181,
+      "end_char": 65449
+    },
+    {
+      "type": "admission",
+      "text": "Admission Requirements:\n(a) A BSc Hons degree or its equivalent, specialising in Mathematics",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 65450,
+      "end_char": 65542
+    },
+    {
+      "type": "programme",
+      "text": "(b) An average of 60% in the Honours degree\nDuration:\n(c) Minimum one (1) year\n(d) Maximum three (3) years.\nPOSTGRADUATE PROSPECTUS: 2026 52\nDoctor of Philosophy (PhD)\nThe Doctoral degree programmes are based on an original research project, culminating in a\nthesis relevant to the chosen discipline.\nDisciplines:\n(a) Applied Mathematics\n(b) Computer Science\n(c) Mathematics\n(d) Statistics",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 65543,
+      "end_char": 65932
+    },
+    {
+      "type": "admission",
+      "text": "Admission Requirements:\n(a) A relevant Master’s degree or equivalent qualification in the relevant disciplinary area.\nDuration:\n(a) Minimum two (2) years.\n(b) Maximum four (4) years.\nPOSTGRADUATE PROSPECTUS: 2026 53",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 65933,
+      "end_char": 66148
+    },
+    {
+      "type": "programme",
+      "text": "The Honours degree programmes consist of a research project and four theory modules\nrelevant to the chosen discipline.\nDisciplinary Areas:\n(a) Biochemistry\n(b) Botany\n(c) Microbiology\n(d) Physiology & Environmental Health\n(e) Zoology",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 66256,
+      "end_char": 66489
+    },
+    {
+      "type": "admission",
+      "text": "Admission Requirements:\n(a) A BSc Hons degree or its equivalent at NQF level 8 in the appropriate disciplinary area.\n(b) An average of 60% in the relevant major subject.\nDuration:\n(c) Minimum one (1) year\n(d) Maximum two (2) years.\nMaster of Science (MSc)\nThe Master’s degree programme is offered as a research-focused Master’s programme, culminating\nin a dissertation relevant to the chosen discipline.\nDisciplines:\n(a) Biochemistry\n(b) Botany\n(c) Microbiology\n(d) Physiology and Environmental Health\n(e) Zoology\nPOSTGRADUATE PROSPECTUS: 2026 54",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 66490,
+      "end_char": 67036
+    },
+    {
+      "type": "admission",
+      "text": "Admission Requirements:\n(a) A BSc Hons degree in the discipline in which the student intends to do an MSc degree\n(b) A minimum of 60% average mark in the BSc Hons degree.\nDuration:\n(a) Minimum one (1) year.\n(b) Maximum three (3) years.\nDoctor of Philosophy (PhD)\nThe Doctoral degree programmes are based on an original research project culminating in a thesis\nrelevant to the discipline of choice.\nDisciplines:\n(a) Biochemistry\n(b) Botany\n(c) Microbiology\n(d) Physiology and Environmental Health\n(e) Zoology",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 67037,
+      "end_char": 67544
+    },
+    {
+      "type": "admission",
+      "text": "Admission Requirements:\n(a) An MSc degree in the discipline in which the student intends to do a PhD degree and\npreferably with a minimum of 60% average mark in the MSc degree.\nDuration:\n(a) Minimum period of two (2) years.\n(b) Maximum period of four (4) years.\nPOSTGRADUATE PROSPECTUS: 2026 55",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 67545,
+      "end_char": 67839
+    },
+    {
+      "type": "programme",
+      "text": "The Honours degree programmes consist of a research project and four theory modules\nrelevant to the discipline of choice.\nDisciplines:\n(a) Chemistry\n(b) Geology\n(c) Physics",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 67949,
+      "end_char": 68121
+    },
+    {
+      "type": "admission",
+      "text": "Admission Requirements:\n(a) A BSc degree with major(s) in courses in the discipline area in which a student intends to\nstudy.\n(b) A final average mark for the relevant final year major(s) of at least 60%.\nDuration:\n(a) One (1) year minimum\n(b) Two (2) years maximum",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 68122,
+      "end_char": 68387
+    },
+    {
+      "type": "programme",
+      "text": "The Honours degree programme consists of a r esearch project and four theory modules.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 68447,
+      "end_char": 68532
+    },
+    {
+      "type": "admission",
+      "text": "Admission Requirements:\n(a) A BSc degree with major(s) in courses in Geology\n(b) A final average mark for the relevant final year major(s) of at least 60%.\nDuration:\n(a) One (1) year minimum\n(b) Two (2) years maximum\nPOSTGRADUATE PROSPECTUS: 2026 56",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 68533,
+      "end_char": 68782
+    },
+    {
+      "type": "programme",
+      "text": "The above Honours degree programme consists of a research project and four theory modules.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 68856,
+      "end_char": 68946
+    },
+    {
+      "type": "admission",
+      "text": "Admission Requirements:\n(a) A BSc degree with major(s) in courses in Geology.\n(b) A final average mark for the relevant final year major(s) of at least 60%.\nDuration:\n(a) One (1) year minimum\n(b) Two (2) years maximum",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 68947,
+      "end_char": 69164
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Science Honours in Mineral Processing and Ore Beneficiation\n(BScHons (Mineral Processing and Ore Beneficiation))",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 69165,
+      "end_char": 69289
+    },
+    {
+      "type": "programme",
+      "text": "The Honours degree programme consists of a research project and four theory modules.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 69290,
+      "end_char": 69374
+    },
+    {
+      "type": "admission",
+      "text": "Admission Requirements:\n(a) A BSc degree with major(s) in courses in Geology\n(b) A final average mark for the relevant final year major(s) of at least 60%.\nDuration:\n(a) One (1) year minimum\n(b) Two (2) years maximum",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 69375,
+      "end_char": 69591
+    },
+    {
+      "type": "programme",
+      "text": "The Postgraduate Diploma programm e consists of taught modules which include practical\napplication aspects.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 69670,
+      "end_char": 69777
+    },
+    {
+      "type": "programme",
+      "text": "(a) Completion of Bachelor's qualification (NQF level 7) or Equivalent, which includes Science or\nScience Education. and/or Communication related (e.g. Communication, Media Studies,\nJournalism etc.) qualifications.\n(b) A final average mark of 60% for the relevant major subjects.\nDuration:\n(c) One (1) year minimum\n(d) Two (2) years maximum\nPOSTGRADUATE PROSPECTUS: 2026 57\nMaster of Science (MSc)\nThe Master’s degree programme is offe red as a res earch Master’s programme culminating in a\ndissertation relevant to the discipline of choice.\nDisciplines:\n(a) Chemistry\n(b) Geology\n(c) Physics",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 69802,
+      "end_char": 70394
+    },
+    {
+      "type": "admission",
+      "text": "Admission Requirements:\n(a) A BSc Hons degree or its equivalent at NQF level 8 in the appropriate disciplinary area.",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 70395,
+      "end_char": 70511
+    },
+    {
+      "type": "programme",
+      "text": "(b) An average of 60% for the Honours degree.\nDuration:\n(a) Minimum one (1) year.\n(b) Maximum three (3) years.\nDoctor of Philosophy (PhD)\nThe Doctoral degree programme is based on an original research project culminating in a thesis\nrelevant to the discipline of choice.\nDisciplines:\n(a) Chemistry\n(b) Geology\n(c) Physics",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 70512,
+      "end_char": 70833
+    },
+    {
+      "type": "admission",
+      "text": "Admission Requirements:\n(a) An MSc degree in the discipline in which the student intends to do a PhD degree and\npreferably with a minimum of 60% average mark in the MSc degree.\nDuration:\n(a) Minimum period of two (2) years.\n(b) Maximum period of four (4) years.\nVisit us: www.ul.ac.za University of Limpopo @ULVarsity",
+      "institutionId": "366",
+      "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "start_char": 70834,
+      "end_char": 71151
+    }
+  ],
+  "matched_files": [
+    "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf"
+  ],
+  "skipped_chunks": [
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 19,
+      "chars": 76
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 21,
+      "chars": 60
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 22,
+      "chars": 76
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 23,
+      "chars": 64
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 24,
+      "chars": 74
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 28,
+      "chars": 53
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 29,
+      "chars": 67
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 30,
+      "chars": 73
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 32,
+      "chars": 69
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 35,
+      "chars": 77
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 36,
+      "chars": 79
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 38,
+      "chars": 78
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 39,
+      "chars": 57
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 46,
+      "chars": 58
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 49,
+      "chars": 58
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 50,
+      "chars": 79
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 51,
+      "chars": 77
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 59,
+      "chars": 26
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 60,
+      "chars": 30
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 63,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 66,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 68,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 71,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 76,
+      "chars": 26
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 78,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 80,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 86,
+      "chars": 21
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 87,
+      "chars": 19
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 89,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 92,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 97,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 101,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 105,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 109,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 113,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 117,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 121,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 125,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 128,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 131,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 134,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 137,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 138,
+      "chars": 76
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 140,
+      "chars": 60
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 142,
+      "chars": 71
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 144,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 146,
+      "chars": 21
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 147,
+      "chars": 43
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 149,
+      "chars": 73
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 150,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 153,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 155,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 157,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 159,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 161,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 162,
+      "chars": 76
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 164,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 165,
+      "chars": 66
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 168,
+      "chars": 21
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 171,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 173,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 174,
+      "chars": 61
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 178,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 181,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 185,
+      "chars": 27
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 186,
+      "chars": 21
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 188,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 191,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 193,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 197,
+      "chars": 27
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 198,
+      "chars": 32
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 199,
+      "chars": 64
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 200,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 203,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 206,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 209,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 212,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 215,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 218,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 221,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 226,
+      "chars": 27
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 227,
+      "chars": 13
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 233,
+      "chars": 27
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 236,
+      "chars": 60
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 239,
+      "chars": 60
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 244,
+      "chars": 32
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 245,
+      "chars": 47
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 247,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 249,
+      "chars": 37
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 251,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 253,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 264,
+      "chars": 32
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 267,
+      "chars": 37
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 279,
+      "chars": 32
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 280,
+      "chars": 35
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 281,
+      "chars": 37
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 286,
+      "chars": 32
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 287,
+      "chars": 37
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 288,
+      "chars": 37
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 291,
+      "chars": 58
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 294,
+      "chars": 72
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 300,
+      "chars": 77
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-limpopo.pdf",
+      "chunk_index": 302,
+      "chars": 23
+    }
+  ]
+}

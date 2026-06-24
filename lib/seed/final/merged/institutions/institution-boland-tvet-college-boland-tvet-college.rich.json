@@ -1,0 +1,65 @@
+{
+  "institution": {
+    "id": "institution:boland-tvet-college",
+    "slug": "boland-tvet-college",
+    "institution_id_raw": "322",
+    "name": "Boland TVET College",
+    "institution_type": "tvet-college",
+    "city": "Stellenbosch",
+    "province": "Western Cape",
+    "official_website": "https://bolandcollege.com/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/322/boland-tvet-college",
+    "source_paths": [
+      "generated/v3/institutions.enriched.json",
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "sector": "higher education",
+      "province": "Western Cape",
+      "city": "Stellenbosch",
+      "physical_address": "85 Bird Street, Stellenbosch",
+      "postal_address": "Private Bag X5068, Stellenbosch, 7599",
+      "contact_phone_numbers": [
+        "021 741 3000/1",
+        "021 741 3000"
+      ],
+      "application_url": "https://bolandcollege.com/study-here/apply-now/",
+      "socials": {
+        "facebook": "https://www.facebook.com/BolCol",
+        "instagram": "https://www.instagram.com/boland_college/",
+        "linkedin": "",
+        "x": "",
+        "youtube": ""
+      },
+      "accreditation": {
+        "dh et": "Accredited",
+        "saqa": null
+      },
+      "sources": [
+        "https://nationalgovernment.co.za/units/view/322/boland-tvet-college",
+        "https://bolandcollege.com/"
+      ],
+      "qualification_types": [
+        "NC(V)",
+        "Nated (Report 191)",
+        "Skills Programmes",
+        "Apprenticeships"
+      ],
+      "student_accommodation": true,
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

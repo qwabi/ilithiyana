@@ -1,0 +1,5 @@
+{"ts": 1779897473.024402, "institutionId": "352", "event": "preprocess_done", "matched_files": ["/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/rhodes-university.pdf"], "chunks_created": 40, "skipped_chunk_reasons": [{"reason": "chunk_too_small", "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/rhodes-university.pdf", "chunk_index": 28, "chars": 78}]}
+{"ts": 1779897473.036879, "institutionId": "352", "event": "extract_done", "extracted_programmes_count": 19, "llm_calls": 0, "faculties_found": 0, "chunks_processed": 40}
+{"ts": 1779897473.038839, "institutionId": "352", "event": "normalize_done", "faculties": 0, "programmes": 19}
+{"ts": 1779897473.0404842, "institutionId": "352", "event": "dedupe_done", "programmes_before": 19, "programmes_after": 18}
+{"ts": 1779897473.041878, "institutionId": "352", "event": "institution_pipeline_complete", "etlStatus": "ok", "total_llm_calls_institution": 0}

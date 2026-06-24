@@ -1,0 +1,214 @@
+{
+  "meta": {
+    "institution_id": "371",
+    "slug": "university-of-the-western-cape",
+    "name": "University of the Western Cape",
+    "institution_type": "university",
+    "province": "Western Cape",
+    "city": "Cape Town",
+    "official_website": "https://www.uwc.ac.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/371/university-of-the-western-cape",
+    "application_url": "https://www.uwc.ac.za/apply-now",
+    "prospectus_url": null,
+    "nsfas_supported": true,
+    "distance_learning": null,
+    "accreditation": {
+      "dh et": "Accredited",
+      "saqa": "Registered"
+    },
+    "qualification_types": [
+      "Undergraduate",
+      "Postgraduate",
+      "Diploma",
+      "Certificate"
+    ]
+  },
+  "profile": {
+    "short_name": "UWC",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/7/71/University_of_the_Western_Cape_logo.png",
+    "motto": "Respice Prospice",
+    "colors": [
+      "Blue",
+      "Yellow"
+    ],
+    "languages": [
+      "English",
+      "Afrikaans",
+      "isiXhosa"
+    ],
+    "student_count": "23,000+",
+    "nickname": "Bush",
+    "mascot": "Bushie"
+  },
+  "contact": {
+    "emails": [
+      "arts@uwc.ac.za",
+      "lawundergradenq@uwc.ac.za",
+      "oswd@uwc.ac.za",
+      "admissions@uwc.ac.za",
+      "edumed-phd@uwc.ac.za",
+      "eduhonours@uwc.ac.za",
+      "orientation@uwc.ac.za",
+      "bmaart@uwc.ac.za",
+      "accounting@uwc.ac.za",
+      "hod-management@uwc.ac.za",
+      "zsmith@uwc.ac.za",
+      "educundergraduate@uwc.ac.za",
+      "chshelpdesk@uwc.ac.za",
+      "artspostgrad@uwc.ac.za",
+      "finaid@uwc.ac.za",
+      "info@uwc.ac.za",
+      "fye@uwc.ac.za",
+      "cdilgee@uwc.ac.za",
+      "studaccount@uwc.ac.za",
+      "isd@uwc.ac.za",
+      "fpetersen@uwc.ac.za",
+      "emsadmin@uwc.ac.za",
+      "edupgce@uwc.ac.za",
+      "chenry@uwc.ac.za",
+      "mamarais@uwc.ac.za",
+      "lawpostgradenq@uwc.ac.za",
+      "scm@uwc.ac.za",
+      "science-postgrad@uwc.ac.za",
+      "naid@uwc.ac.za",
+      "studentnumber@myuwc.ac.za",
+      "dentistry-postgrad@uwc.ac.za",
+      "arooks@uwc.ac.za",
+      "science-undergrad@uwc.ac.za"
+    ],
+    "phone_numbers": [
+      "021 959 3291",
+      "021 959 3164",
+      "021 959 2852",
+      "021 959 2152",
+      "021 959 2276",
+      "021959 3558",
+      "021 959 3900",
+      "021 959 3900/1",
+      "021 959 3426",
+      "021 937 3000"
+    ],
+    "physical_address": "Robert Sobukwe Road, Bellville, Cape Town, 7535",
+    "postal_address": "Private Bag X17, Bellville, 7535",
+    "socials": {
+      "facebook": "https://www.facebook.com/pages/UWC-Online/194989287319013",
+      "instagram": "https://www.instagram.com/uwconline",
+      "linkedin": "https://www.linkedin.com/school/uwc/",
+      "x": "https://twitter.com/UWCONLINE",
+      "youtube": ""
+    }
+  },
+  "campuses": [
+    {
+      "name": "Main Campus",
+      "city": "Bellville",
+      "province": "Western Cape",
+      "is_main": null,
+      "type": "Main campus",
+      "address": null,
+      "coordinates": {
+        "lat": -33.933,
+        "lng": 18.633
+      },
+      "contact": null
+    },
+    {
+      "name": "Tygerberg Campus",
+      "city": "Bellville",
+      "province": "Western Cape",
+      "is_main": null,
+      "type": "Oral Health Centre",
+      "address": null,
+      "coordinates": {
+        "lat": null,
+        "lng": null
+      },
+      "contact": null
+    }
+  ],
+  "faculties": [
+    {
+      "id": null,
+      "name": "DentistryFaculty of Economic",
+      "overview": null,
+      "kind": null
+    },
+    {
+      "id": null,
+      "name": "Economic and Management Sciences",
+      "overview": null,
+      "kind": null
+    },
+    {
+      "id": null,
+      "name": "Natural Sciences",
+      "overview": null,
+      "kind": null
+    },
+    {
+      "id": null,
+      "name": "Government",
+      "overview": null,
+      "kind": null
+    },
+    {
+      "id": null,
+      "name": "Community Health Sciences",
+      "overview": null,
+      "kind": null
+    },
+    {
+      "id": null,
+      "name": "Dentistry",
+      "overview": null,
+      "kind": null
+    },
+    {
+      "id": null,
+      "name": "Education",
+      "overview": null,
+      "kind": null
+    },
+    {
+      "id": null,
+      "name": "Arts",
+      "overview": null,
+      "kind": null
+    },
+    {
+      "id": null,
+      "name": "Community",
+      "overview": null,
+      "kind": null
+    },
+    {
+      "id": null,
+      "name": "Arts and Humanities",
+      "overview": null,
+      "kind": null
+    }
+  ],
+  "programmes": [],
+  "admission": {
+    "aps_name": null,
+    "aps_calculation_notes": null,
+    "minimum_aps_for_bachelors": null,
+    "minimum_aps_for_diplomas": null,
+    "minimum_entry_note": null,
+    "life_orientation_cap": null,
+    "aps_rules": [],
+    "programme_requirements": []
+  },
+  "sources": [
+    "enriched_universities.json",
+    "generated/v3/institutions.enriched.json",
+    "institutions.json"
+  ],
+  "_stats": {
+    "campuses_count": 2,
+    "faculties_count": 10,
+    "programmes_count": 0,
+    "aps_rules_count": 0,
+    "adm_reqs_count": 0
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "institution": {
+    "id": "institution:goldfields-tvet-college",
+    "slug": "goldfields-tvet-college",
+    "institution_id_raw": "337",
+    "name": "Goldfields TVET College",
+    "institution_type": "tvet-college",
+    "city": "Welkom",
+    "province": "Free State",
+    "official_website": "https://goldfieldstvet.edu.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/337/goldfields-tvet-college",
+    "source_paths": [
+      "generated/v3/institutions.enriched.json",
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "sector": "higher education",
+      "province": "Free State",
+      "city": "Welkom",
+      "physical_address": "36 Buren Street, Flamingo Park, Welkom",
+      "postal_address": "Private Bag X95, Welkom, 9460",
+      "contact_emails": [
+        "marketing@goldfieldstvet.edu.za"
+      ],
+      "contact_phone_numbers": [
+        "057 910 6000"
+      ],
+      "application_url": "https://goldfieldstvet.edu.za/",
+      "socials": {
+        "facebook": "https://www.facebook.com/gfcol",
+        "instagram": "",
+        "linkedin": "",
+        "x": "https://twitter.com/GTVETCOLLEGE",
+        "youtube": ""
+      },
+      "accreditation": {
+        "dh et": "Accredited",
+        "saqa": null
+      },
+      "sources": [
+        "https://nationalgovernment.co.za/units/view/337/goldfields-tvet-college",
+        "https://goldfieldstvet.edu.za/"
+      ],
+      "qualification_types": [
+        "NC(V)",
+        "Nated (Report 191)",
+        "Skills Programmes",
+        "Apprenticeships"
+      ],
+      "nsfas_supported": true,
+      "student_accommodation": true,
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [
+    {
+      "id": "programme:goldfields-tvet-college--nc-v-l2",
+      "institution_slug": "goldfields-tvet-college",
+      "institution_name": "Goldfields TVET College",
+      "name": "NC(V) L2",
+      "normalized_name": "NC(V) L2",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": 18,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NC(V) L2",
+      "extraction_confidence": 0.83,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:goldfields-tvet-college--nc-v-l3",
+      "institution_slug": "goldfields-tvet-college",
+      "institution_name": "Goldfields TVET College",
+      "name": "NC(V) L3",
+      "normalized_name": "NC(V) L3",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": 18,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NC(V) L3",
+      "extraction_confidence": 0.83,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:goldfields-tvet-college--nc-v-l4",
+      "institution_slug": "goldfields-tvet-college",
+      "institution_name": "Goldfields TVET College",
+      "name": "NC(V) L4",
+      "normalized_name": "NC(V) L4",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": 18,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NC(V) L4",
+      "extraction_confidence": 0.91,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    }
+  ],
+  "programmes_all": [
+    {
+      "id": "programme:goldfields-tvet-college--nc-v-l2",
+      "institution_slug": "goldfields-tvet-college",
+      "institution_name": "Goldfields TVET College",
+      "name": "NC(V) L2",
+      "normalized_name": "NC(V) L2",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": 18,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NC(V) L2",
+      "extraction_confidence": 0.83,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:goldfields-tvet-college--nc-v-l3",
+      "institution_slug": "goldfields-tvet-college",
+      "institution_name": "Goldfields TVET College",
+      "name": "NC(V) L3",
+      "normalized_name": "NC(V) L3",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": 18,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NC(V) L3",
+      "extraction_confidence": 0.83,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:goldfields-tvet-college--nc-v-l4",
+      "institution_slug": "goldfields-tvet-college",
+      "institution_name": "Goldfields TVET College",
+      "name": "NC(V) L4",
+      "normalized_name": "NC(V) L4",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": 18,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NC(V) L4",
+      "extraction_confidence": 0.91,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    }
+  ],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 3,
+    "programmes_all": 3
+  }
+}

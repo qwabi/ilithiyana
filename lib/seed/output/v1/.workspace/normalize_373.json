@@ -1,0 +1,2725 @@
+{
+  "faculties": [
+    {
+      "institutionId": "373",
+      "name": "SCIENCE,",
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 7927,
+        "char_end": 7946,
+        "excerpt": "FACULTY OF SCIENCE,"
+      },
+      "normalization_key": "faculty|science,"
+    },
+    {
+      "institutionId": "373",
+      "name": "Humanities,",
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 8372,
+        "char_end": 8394,
+        "excerpt": "Faculty of Humanities,"
+      },
+      "normalization_key": "faculty|humanities,"
+    },
+    {
+      "institutionId": "373",
+      "name": "Law: 1, Law Clinic: 1",
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 12064,
+        "char_end": 12095,
+        "excerpt": "School of Law: 1, Law Clinic: 1"
+      },
+      "normalization_key": "faculty|law: 1, law clinic: 1"
+    },
+    {
+      "institutionId": "373",
+      "name": "Health Sciences: Prof TM Mulaudzi",
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 30987,
+        "char_end": 31031,
+        "excerpt": "Faculty of Health Sciences: Prof TM Mulaudzi"
+      },
+      "normalization_key": "faculty|health sciences: prof tm mulaudzi"
+    }
+  ],
+  "programmes": [
+    {
+      "id": "prog:373:Degree|2254713fa64f|bachelor of arts (media",
+      "institutionId": "373",
+      "name": "BA (Media",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 8511,
+        "char_end": 8534,
+        "excerpt": "Bachelor of Arts (Media"
+      },
+      "normalization_key": "Degree|2254713fa64f|bachelor of arts (media"
+    },
+    {
+      "id": "prog:373:Degree|dfe5e6128551|bachelor of arts (hsbba) ncs 30 + an adequate achievement (50 -59%) or better in",
+      "institutionId": "373",
+      "name": "BA (HSBBA) NCS 30 + an adequate achievement (50 -59%) or better in English 3 years",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "English",
+            "minimum_percentage": 3
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 8646,
+        "char_end": 8742,
+        "excerpt": "Bachelor of Arts (HSBBA) NCS 30 + an adequate achievement (50 -59%) or better in English 3 years"
+      },
+      "normalization_key": "Degree|dfe5e6128551|bachelor of arts (hsbba) ncs 30 + an adequate achievement (50 -59%) or better in"
+    },
+    {
+      "id": "prog:373:Degree|32232fc9f0d9|bachelor of arts",
+      "institutionId": "373",
+      "name": "BA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 8743,
+        "char_end": 8759,
+        "excerpt": "Bachelor of Arts"
+      },
+      "normalization_key": "Degree|32232fc9f0d9|bachelor of arts"
+    },
+    {
+      "id": "prog:373:Degree|5ccb2fa5403c|bachelor of indigenous",
+      "institutionId": "373",
+      "name": "Bachelor of Indigenous",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "English",
+            "minimum_percentage": 4
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 8888,
+        "char_end": 8910,
+        "excerpt": "Bachelor of Indigenous"
+      },
+      "normalization_key": "Degree|5ccb2fa5403c|bachelor of indigenous"
+    },
+    {
+      "id": "prog:373:Degree|595de22b7d2f|bachelor of arts in",
+      "institutionId": "373",
+      "name": "BA in",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "English",
+            "minimum_percentage": 4
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 9282,
+        "char_end": 9301,
+        "excerpt": "Bachelor of Arts in"
+      },
+      "normalization_key": "Degree|595de22b7d2f|bachelor of arts in"
+    },
+    {
+      "id": "prog:373:Degree|336f95781f1d|bachelor of arts (english",
+      "institutionId": "373",
+      "name": "BA (English",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "English",
+            "minimum_percentage": 3
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 9150,
+        "char_end": 9175,
+        "excerpt": "Bachelor of Arts (English"
+      },
+      "normalization_key": "Degree|336f95781f1d|bachelor of arts (english"
+    },
+    {
+      "id": "prog:373:Degree|595de22b7d2f|bachelor of arts in",
+      "institutionId": "373",
+      "name": "BA in",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "English",
+            "minimum_percentage": 3
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 9282,
+        "char_end": 9301,
+        "excerpt": "Bachelor of Arts in"
+      },
+      "normalization_key": "Degree|595de22b7d2f|bachelor of arts in"
+    },
+    {
+      "id": "prog:373:Degree|a17860b964d4|bachelor of arts in youth",
+      "institutionId": "373",
+      "name": "BA in Youth",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "English",
+            "minimum_percentage": 4
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 9432,
+        "char_end": 9457,
+        "excerpt": "Bachelor of Arts in Youth"
+      },
+      "normalization_key": "Degree|a17860b964d4|bachelor of arts in youth"
+    },
+    {
+      "id": "prog:373:Degree|1f3655a17d38|bachelor of arts (history) (hsbbah) nsc 30 + an adequate achievement (50 -59%) o",
+      "institutionId": "373",
+      "name": "BA (History) (HSBBAH) NSC 30 + an adequate achievement (50 -59%) or better in History and",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "English",
+            "minimum_percentage": 3
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 9551,
+        "char_end": 9654,
+        "excerpt": "Bachelor of Arts (History) (HSBBAH) NSC 30 + an adequate achievement (50 -59%) or better in History and"
+      },
+      "normalization_key": "Degree|1f3655a17d38|bachelor of arts (history) (hsbbah) nsc 30 + an adequate achievement (50 -59%) o"
+    },
+    {
+      "id": "prog:373:Degree|7e4fa9446e3f|bachelor of theology (hsbbt) nsc 30 + or rpl according to university policy 3 ye",
+      "institutionId": "373",
+      "name": "Bachelor of Theology (HSBBT) NSC 30 + or RPL according to University Policy 3 Years",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "English",
+            "minimum_percentage": 1
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 9671,
+        "char_end": 9754,
+        "excerpt": "Bachelor of Theology (HSBBT) NSC 30 + or RPL according to University Policy 3 Years"
+      },
+      "normalization_key": "Degree|7e4fa9446e3f|bachelor of theology (hsbbt) nsc 30 + or rpl according to university policy 3 ye"
+    },
+    {
+      "id": "prog:373:Degree|a1c331bdcdd2|bachelor of social work (hsbbsw) nsc 35 + an adequate achievement (50 -59%) or b",
+      "institutionId": "373",
+      "name": "Bachelor of Social Work (HSBBSW) NSC 35 + an adequate achievement (50 -59%) or better in English 4 Years",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "English",
+            "minimum_percentage": 4
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 9840,
+        "char_end": 9944,
+        "excerpt": "Bachelor of Social Work (HSBBSW) NSC 35 + an adequate achievement (50 -59%) or better in English 4 Years"
+      },
+      "normalization_key": "Degree|a1c331bdcdd2|bachelor of social work (hsbbsw) nsc 35 + an adequate achievement (50 -59%) or b"
+    },
+    {
+      "id": "prog:373:Degree|da513b5a51bd|bachelor of education in",
+      "institutionId": "373",
+      "name": "Bachelor of Education in",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 10347,
+        "char_end": 10371,
+        "excerpt": "Bachelor of Education in"
+      },
+      "normalization_key": "Degree|da513b5a51bd|bachelor of education in"
+    },
+    {
+      "id": "prog:373:Degree|da513b5a51bd|bachelor of education in",
+      "institutionId": "373",
+      "name": "Bachelor of Education in",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics (Literacy)",
+            "minimum_percentage": 50
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 40
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 10347,
+        "char_end": 10371,
+        "excerpt": "Bachelor of Education in"
+      },
+      "normalization_key": "Degree|da513b5a51bd|bachelor of education in"
+    },
+    {
+      "id": "prog:373:Degree|b050ae3150d9|bachelor of nursing (shbbn)",
+      "institutionId": "373",
+      "name": "Bachelor of Nursing (SHBBN)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 50
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 60
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 10918,
+        "char_end": 10945,
+        "excerpt": "Bachelor of Nursing (SHBBN)"
+      },
+      "normalization_key": "Degree|b050ae3150d9|bachelor of nursing (shbbn)"
+    },
+    {
+      "id": "prog:373:Degree|61d49f0b2586|bsc in nutrition (shbbsn)",
+      "institutionId": "373",
+      "name": "BSc in Nutrition (SHBBSN)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "English",
+            "minimum_percentage": 4
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 50
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 60
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 11103,
+        "char_end": 11128,
+        "excerpt": "BSc in Nutrition (SHBBSN)"
+      },
+      "normalization_key": "Degree|61d49f0b2586|bsc in nutrition (shbbsn)"
+    },
+    {
+      "id": "prog:373:Degree|98b291669890|bsc in sports and exercise",
+      "institutionId": "373",
+      "name": "BSc in Sports and Exercise",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "English",
+            "minimum_percentage": 4
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 11262,
+        "char_end": 11288,
+        "excerpt": "BSc in Sports and Exercise"
+      },
+      "normalization_key": "Degree|98b291669890|bsc in sports and exercise"
+    },
+    {
+      "id": "prog:373:Degree|7c39adebcacb|bsc in biokinetics (shbbsk) nsc 34 + adequate achievement (50-59%) in life scien",
+      "institutionId": "373",
+      "name": "BSc in Biokinetics (SHBBSK) NSC 34 + adequate achievement (50-59%) in Life Sciences, En",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "English",
+            "minimum_percentage": 4
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 11402,
+        "char_end": 11489,
+        "excerpt": "BSc in Biokinetics (SHBBSK) NSC 34 + adequate achievement (50-59%) in Life Sciences, En"
+      },
+      "normalization_key": "Degree|7c39adebcacb|bsc in biokinetics (shbbsk) nsc 34 + adequate achievement (50-59%) in life scien"
+    },
+    {
+      "id": "prog:373:Degree|967c17645b22|bsc in recreation and",
+      "institutionId": "373",
+      "name": "BSc in Recreation and",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "English",
+            "minimum_percentage": 4
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 11539,
+        "char_end": 11560,
+        "excerpt": "BSc in Recreation and"
+      },
+      "normalization_key": "Degree|967c17645b22|bsc in recreation and"
+    },
+    {
+      "id": "prog:373:Degree|a71e2a198d58|bachelor of psychology (shbbp) nsc 36 + adequate achievement (50-59%) in english",
+      "institutionId": "373",
+      "name": "Bachelor of Psychology (SHBBP) NSC 36 + adequate achievement (50-59%) in English",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 11644,
+        "char_end": 11724,
+        "excerpt": "Bachelor of Psychology (SHBBP) NSC 36 + adequate achievement (50-59%) in English"
+      },
+      "normalization_key": "Degree|a71e2a198d58|bachelor of psychology (shbbp) nsc 36 + adequate achievement (50-59%) in english"
+    },
+    {
+      "id": "prog:373:Diploma|ed62dd984e14|diploma in nursing (shdpn)",
+      "institutionId": "373",
+      "name": "Diploma in Nursing (SHDPN)",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 11758,
+        "char_end": 11784,
+        "excerpt": "Diploma in Nursing (SHDPN)"
+      },
+      "normalization_key": "Diploma|ed62dd984e14|diploma in nursing (shdpn)"
+    },
+    {
+      "id": "prog:373:Degree|f027106bc60a|bachelor of admin in",
+      "institutionId": "373",
+      "name": "Bachelor of Admin in",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 13371,
+        "char_end": 13391,
+        "excerpt": "Bachelor of Admin in"
+      },
+      "normalization_key": "Degree|f027106bc60a|bachelor of admin in"
+    },
+    {
+      "id": "prog:373:Degree|c0a2c54561bf|bachelor of commerce in",
+      "institutionId": "373",
+      "name": "BCom in",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4
+          },
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 35
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 15489,
+        "char_end": 15512,
+        "excerpt": "Bachelor of Commerce in"
+      },
+      "normalization_key": "Degree|c0a2c54561bf|bachelor of commerce in"
+    },
+    {
+      "id": "prog:373:Degree|c0a2c54561bf|bachelor of commerce in",
+      "institutionId": "373",
+      "name": "BCom in",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 15489,
+        "char_end": 15512,
+        "excerpt": "Bachelor of Commerce in"
+      },
+      "normalization_key": "Degree|c0a2c54561bf|bachelor of commerce in"
+    },
+    {
+      "id": "prog:373:Degree|c0a2c54561bf|bachelor of commerce in",
+      "institutionId": "373",
+      "name": "BCom in",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3
+          },
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 32
+          },
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 3
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 15489,
+        "char_end": 15512,
+        "excerpt": "Bachelor of Commerce in"
+      },
+      "normalization_key": "Degree|c0a2c54561bf|bachelor of commerce in"
+    },
+    {
+      "id": "prog:373:Degree|c0a2c54561bf|bachelor of commerce in",
+      "institutionId": "373",
+      "name": "BCom in",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 75
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 15489,
+        "char_end": 15512,
+        "excerpt": "Bachelor of Commerce in"
+      },
+      "normalization_key": "Degree|c0a2c54561bf|bachelor of commerce in"
+    },
+    {
+      "id": "prog:373:Degree|c0a2c54561bf|bachelor of commerce in",
+      "institutionId": "373",
+      "name": "BCom in",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 15489,
+        "char_end": 15512,
+        "excerpt": "Bachelor of Commerce in"
+      },
+      "normalization_key": "Degree|c0a2c54561bf|bachelor of commerce in"
+    },
+    {
+      "id": "prog:373:Degree|c0a2c54561bf|bachelor of commerce in",
+      "institutionId": "373",
+      "name": "BCom in",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3
+          },
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 3
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 15489,
+        "char_end": 15512,
+        "excerpt": "Bachelor of Commerce in"
+      },
+      "normalization_key": "Degree|c0a2c54561bf|bachelor of commerce in"
+    },
+    {
+      "id": "prog:373:Degree|c0a2c54561bf|bachelor of commerce in",
+      "institutionId": "373",
+      "name": "BCom in",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 15489,
+        "char_end": 15512,
+        "excerpt": "Bachelor of Commerce in"
+      },
+      "normalization_key": "Degree|c0a2c54561bf|bachelor of commerce in"
+    },
+    {
+      "id": "prog:373:Degree|88b8bf4e2263|bachelor of commerce",
+      "institutionId": "373",
+      "name": "BCom",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 15228,
+        "char_end": 15248,
+        "excerpt": "Bachelor of Commerce"
+      },
+      "normalization_key": "Degree|88b8bf4e2263|bachelor of commerce"
+    },
+    {
+      "id": "prog:373:Degree|c0a2c54561bf|bachelor of commerce in",
+      "institutionId": "373",
+      "name": "BCom in",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 15489,
+        "char_end": 15512,
+        "excerpt": "Bachelor of Commerce in"
+      },
+      "normalization_key": "Degree|c0a2c54561bf|bachelor of commerce in"
+    },
+    {
+      "id": "prog:373:Degree|2e9c2442352d|bachelor of arts in criminal",
+      "institutionId": "373",
+      "name": "BA in Criminal",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "English",
+            "minimum_percentage": 3
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 15827,
+        "char_end": 15855,
+        "excerpt": "Bachelor of Arts in Criminal"
+      },
+      "normalization_key": "Degree|2e9c2442352d|bachelor of arts in criminal"
+    },
+    {
+      "id": "prog:373:Degree|083671abb648|bachelor of science degree",
+      "institutionId": "373",
+      "name": "BSc degree",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 18915,
+        "char_end": 18941,
+        "excerpt": "Bachelor of Science degree"
+      },
+      "normalization_key": "Degree|083671abb648|bachelor of science degree"
+    },
+    {
+      "id": "prog:373:Degree|5f75057e98ee|bsc",
+      "institutionId": "373",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 25787,
+        "char_end": 25790,
+        "excerpt": "BSC"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:373:Degree|46e31b2d4c0a|bsc (biochemistry and microbiology)",
+      "institutionId": "373",
+      "name": "BSc (Biochemistry and Microbiology)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 25865,
+        "char_end": 25900,
+        "excerpt": "BSc (Biochemistry and Microbiology)"
+      },
+      "normalization_key": "Degree|46e31b2d4c0a|bsc (biochemistry and microbiology)"
+    },
+    {
+      "id": "prog:373:Degree|cec42578987e|bsc (biochemistry and biology)",
+      "institutionId": "373",
+      "name": "BSc (Biochemistry and Biology)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 26114,
+        "char_end": 26144,
+        "excerpt": "BSc (Biochemistry and Biology)"
+      },
+      "normalization_key": "Degree|cec42578987e|bsc (biochemistry and biology)"
+    },
+    {
+      "id": "prog:373:Degree|5f75057e98ee|bsc",
+      "institutionId": "373",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 25787,
+        "char_end": 25790,
+        "excerpt": "BSC"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:373:Degree|5f75057e98ee|bsc",
+      "institutionId": "373",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 25787,
+        "char_end": 25790,
+        "excerpt": "BSC"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:373:Degree|5462a68aefde|bsc (mathematics and physics)",
+      "institutionId": "373",
+      "name": "BSc (Mathematics and Physics)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 27136,
+        "char_end": 27165,
+        "excerpt": "BSc (Mathematics and Physics)"
+      },
+      "normalization_key": "Degree|5462a68aefde|bsc (mathematics and physics)"
+    },
+    {
+      "id": "prog:373:Degree|554aa0177450|bsc (mathematics and statistics)",
+      "institutionId": "373",
+      "name": "BSc (Mathematics and Statistics)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 27374,
+        "char_end": 27406,
+        "excerpt": "BSc (Mathematics and Statistics)"
+      },
+      "normalization_key": "Degree|554aa0177450|bsc (mathematics and statistics)"
+    },
+    {
+      "id": "prog:373:Degree|9ba99015f7b6|bsc (physics and chemistry)",
+      "institutionId": "373",
+      "name": "BSc (Physics and Chemistry)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 27615,
+        "char_end": 27642,
+        "excerpt": "BSc (Physics and Chemistry)"
+      },
+      "normalization_key": "Degree|9ba99015f7b6|bsc (physics and chemistry)"
+    },
+    {
+      "id": "prog:373:Degree|91872a99c7d9|bsc (chemistry and mathematics)",
+      "institutionId": "373",
+      "name": "BSc (Chemistry and Mathematics)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 27851,
+        "char_end": 27882,
+        "excerpt": "BSc (Chemistry and Mathematics)"
+      },
+      "normalization_key": "Degree|91872a99c7d9|bsc (chemistry and mathematics)"
+    },
+    {
+      "id": "prog:373:Degree|144daac7c435|bsc (chemistry and biochemistry)",
+      "institutionId": "373",
+      "name": "BSc (Chemistry and Biochemistry)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 28091,
+        "char_end": 28123,
+        "excerpt": "BSc (Chemistry and Biochemistry)"
+      },
+      "normalization_key": "Degree|144daac7c435|bsc (chemistry and biochemistry)"
+    },
+    {
+      "id": "prog:373:Degree|423b6bf6d468|bsc in chemistry and",
+      "institutionId": "373",
+      "name": "BSc in Chemistry and",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 21726,
+        "char_end": 21746,
+        "excerpt": "BSc in Chemistry and"
+      },
+      "normalization_key": "Degree|423b6bf6d468|bsc in chemistry and"
+    },
+    {
+      "id": "prog:373:Degree|3c0fbe56a649|bsc (botany and zoology)",
+      "institutionId": "373",
+      "name": "BSc (Botany and Zoology)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 28590,
+        "char_end": 28614,
+        "excerpt": "BSc (Botany and Zoology)"
+      },
+      "normalization_key": "Degree|3c0fbe56a649|bsc (botany and zoology)"
+    },
+    {
+      "id": "prog:373:Degree|d1207ae55150|bsc (computer science)",
+      "institutionId": "373",
+      "name": "BSc (Computer Science)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 28835,
+        "char_end": 28857,
+        "excerpt": "BSc (Computer Science)"
+      },
+      "normalization_key": "Degree|d1207ae55150|bsc (computer science)"
+    },
+    {
+      "id": "prog:373:Degree|0ec8c214f96f|bsc (computer science and mathematics)",
+      "institutionId": "373",
+      "name": "BSc (Computer Science and Mathematics)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 26877,
+        "char_end": 26915,
+        "excerpt": "BSc (Computer Science and Mathematics)"
+      },
+      "normalization_key": "Degree|0ec8c214f96f|bsc (computer science and mathematics)"
+    },
+    {
+      "id": "prog:373:Degree|908e3a6f2fe9|bachelor of environmental",
+      "institutionId": "373",
+      "name": "Bachelor of Environmental",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 23987,
+        "char_end": 24012,
+        "excerpt": "Bachelor of Environmental"
+      },
+      "normalization_key": "Degree|908e3a6f2fe9|bachelor of environmental"
+    },
+    {
+      "id": "prog:373:Degree|e2166b5ac055|bachelor of earth",
+      "institutionId": "373",
+      "name": "Bachelor of Earth",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 50
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 22994,
+        "char_end": 23011,
+        "excerpt": "Bachelor of Earth"
+      },
+      "normalization_key": "Degree|e2166b5ac055|bachelor of earth"
+    },
+    {
+      "id": "prog:373:Degree|d0e5b3765c0d|bachelor of earth sciences",
+      "institutionId": "373",
+      "name": "Bachelor of Earth Sciences",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 50
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 23319,
+        "char_end": 23345,
+        "excerpt": "Bachelor of Earth Sciences"
+      },
+      "normalization_key": "Degree|d0e5b3765c0d|bachelor of earth sciences"
+    },
+    {
+      "id": "prog:373:Degree|734f0f2939bd|bachelor of urban and",
+      "institutionId": "373",
+      "name": "Bachelor of Urban and",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 23631,
+        "char_end": 23652,
+        "excerpt": "Bachelor of Urban and"
+      },
+      "normalization_key": "Degree|734f0f2939bd|bachelor of urban and"
+    },
+    {
+      "id": "prog:373:Degree|908e3a6f2fe9|bachelor of environmental",
+      "institutionId": "373",
+      "name": "Bachelor of Environmental",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 50
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 23987,
+        "char_end": 24012,
+        "excerpt": "Bachelor of Environmental"
+      },
+      "normalization_key": "Degree|908e3a6f2fe9|bachelor of environmental"
+    },
+    {
+      "id": "prog:373:Degree|b9ac5a4d64c9|bachelor of science in",
+      "institutionId": "373",
+      "name": "BSc in",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 25407,
+        "char_end": 25429,
+        "excerpt": "Bachelor of Science in"
+      },
+      "normalization_key": "Degree|b9ac5a4d64c9|bachelor of science in"
+    },
+    {
+      "id": "prog:373:Degree|b9ac5a4d64c9|bachelor of science in",
+      "institutionId": "373",
+      "name": "BSc in",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 4
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 25407,
+        "char_end": 25429,
+        "excerpt": "Bachelor of Science in"
+      },
+      "normalization_key": "Degree|b9ac5a4d64c9|bachelor of science in"
+    },
+    {
+      "id": "prog:373:Degree|78d183af166a|bachelor of science",
+      "institutionId": "373",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 4
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 25055,
+        "char_end": 25074,
+        "excerpt": "Bachelor of Science"
+      },
+      "normalization_key": "Degree|78d183af166a|bachelor of science"
+    },
+    {
+      "id": "prog:373:Degree|b9ac5a4d64c9|bachelor of science in",
+      "institutionId": "373",
+      "name": "BSc in",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 4
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 25407,
+        "char_end": 25429,
+        "excerpt": "Bachelor of Science in"
+      },
+      "normalization_key": "Degree|b9ac5a4d64c9|bachelor of science in"
+    },
+    {
+      "id": "prog:373:Degree|78d183af166a|bachelor of science",
+      "institutionId": "373",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 4
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 25055,
+        "char_end": 25074,
+        "excerpt": "Bachelor of Science"
+      },
+      "normalization_key": "Degree|78d183af166a|bachelor of science"
+    },
+    {
+      "id": "prog:373:Degree|2ac5afd530c1|bachelor of science in soil",
+      "institutionId": "373",
+      "name": "BSc in Soil",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 4
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 25240,
+        "char_end": 25267,
+        "excerpt": "Bachelor of Science in Soil"
+      },
+      "normalization_key": "Degree|2ac5afd530c1|bachelor of science in soil"
+    },
+    {
+      "id": "prog:373:Degree|b9ac5a4d64c9|bachelor of science in",
+      "institutionId": "373",
+      "name": "BSc in",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 4
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 25407,
+        "char_end": 25429,
+        "excerpt": "Bachelor of Science in"
+      },
+      "normalization_key": "Degree|b9ac5a4d64c9|bachelor of science in"
+    },
+    {
+      "id": "prog:373:Degree|212cf69d028f|bachelor of science in food",
+      "institutionId": "373",
+      "name": "BSc in Food",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 25570,
+        "char_end": 25597,
+        "excerpt": "Bachelor of Science in Food"
+      },
+      "normalization_key": "Degree|212cf69d028f|bachelor of science in food"
+    },
+    {
+      "id": "prog:373:Degree|5f75057e98ee|bsc",
+      "institutionId": "373",
+      "name": "BSC",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 25787,
+        "char_end": 25790,
+        "excerpt": "BSC"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:373:Degree|46e31b2d4c0a|bsc (biochemistry and microbiology)",
+      "institutionId": "373",
+      "name": "BSc (Biochemistry and Microbiology)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 25865,
+        "char_end": 25900,
+        "excerpt": "BSc (Biochemistry and Microbiology)"
+      },
+      "normalization_key": "Degree|46e31b2d4c0a|bsc (biochemistry and microbiology)"
+    },
+    {
+      "id": "prog:373:Degree|cec42578987e|bsc (biochemistry and biology)",
+      "institutionId": "373",
+      "name": "BSc (Biochemistry and Biology)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 26114,
+        "char_end": 26144,
+        "excerpt": "BSc (Biochemistry and Biology)"
+      },
+      "normalization_key": "Degree|cec42578987e|bsc (biochemistry and biology)"
+    },
+    {
+      "id": "prog:373:Degree|d0a6a5e6739a|bsc (microbiology and botany)",
+      "institutionId": "373",
+      "name": "BSc (Microbiology and Botany)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 26365,
+        "char_end": 26394,
+        "excerpt": "BSc (Microbiology and Botany)"
+      },
+      "normalization_key": "Degree|d0a6a5e6739a|bsc (microbiology and botany)"
+    },
+    {
+      "id": "prog:373:Degree|c1a2796cbda4|bsc (mathematics and applied mathematics)",
+      "institutionId": "373",
+      "name": "BSc (Mathematics and Applied Mathematics)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 26615,
+        "char_end": 26656,
+        "excerpt": "BSc (Mathematics and Applied Mathematics)"
+      },
+      "normalization_key": "Degree|c1a2796cbda4|bsc (mathematics and applied mathematics)"
+    },
+    {
+      "id": "prog:373:Degree|0ec8c214f96f|bsc (computer science and mathematics)",
+      "institutionId": "373",
+      "name": "BSc (Computer Science and Mathematics)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 26877,
+        "char_end": 26915,
+        "excerpt": "BSc (Computer Science and Mathematics)"
+      },
+      "normalization_key": "Degree|0ec8c214f96f|bsc (computer science and mathematics)"
+    },
+    {
+      "id": "prog:373:Degree|5462a68aefde|bsc (mathematics and physics)",
+      "institutionId": "373",
+      "name": "BSc (Mathematics and Physics)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 27136,
+        "char_end": 27165,
+        "excerpt": "BSc (Mathematics and Physics)"
+      },
+      "normalization_key": "Degree|5462a68aefde|bsc (mathematics and physics)"
+    },
+    {
+      "id": "prog:373:Degree|554aa0177450|bsc (mathematics and statistics)",
+      "institutionId": "373",
+      "name": "BSc (Mathematics and Statistics)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 27374,
+        "char_end": 27406,
+        "excerpt": "BSc (Mathematics and Statistics)"
+      },
+      "normalization_key": "Degree|554aa0177450|bsc (mathematics and statistics)"
+    },
+    {
+      "id": "prog:373:Degree|9ba99015f7b6|bsc (physics and chemistry)",
+      "institutionId": "373",
+      "name": "BSc (Physics and Chemistry)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 27615,
+        "char_end": 27642,
+        "excerpt": "BSc (Physics and Chemistry)"
+      },
+      "normalization_key": "Degree|9ba99015f7b6|bsc (physics and chemistry)"
+    },
+    {
+      "id": "prog:373:Degree|91872a99c7d9|bsc (chemistry and mathematics)",
+      "institutionId": "373",
+      "name": "BSc (Chemistry and Mathematics)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 27851,
+        "char_end": 27882,
+        "excerpt": "BSc (Chemistry and Mathematics)"
+      },
+      "normalization_key": "Degree|91872a99c7d9|bsc (chemistry and mathematics)"
+    },
+    {
+      "id": "prog:373:Degree|144daac7c435|bsc (chemistry and biochemistry)",
+      "institutionId": "373",
+      "name": "BSc (Chemistry and Biochemistry)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 28091,
+        "char_end": 28123,
+        "excerpt": "BSc (Chemistry and Biochemistry)"
+      },
+      "normalization_key": "Degree|144daac7c435|bsc (chemistry and biochemistry)"
+    },
+    {
+      "id": "prog:373:Degree|bda144759c04|bsc (chemistry and applied chemistry)",
+      "institutionId": "373",
+      "name": "BSc (Chemistry and Applied Chemistry)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 28332,
+        "char_end": 28369,
+        "excerpt": "BSc (Chemistry and Applied Chemistry)"
+      },
+      "normalization_key": "Degree|bda144759c04|bsc (chemistry and applied chemistry)"
+    },
+    {
+      "id": "prog:373:Degree|3c0fbe56a649|bsc (botany and zoology)",
+      "institutionId": "373",
+      "name": "BSc (Botany and Zoology)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 28590,
+        "char_end": 28614,
+        "excerpt": "BSc (Botany and Zoology)"
+      },
+      "normalization_key": "Degree|3c0fbe56a649|bsc (botany and zoology)"
+    },
+    {
+      "id": "prog:373:Degree|d1207ae55150|bsc (computer science)",
+      "institutionId": "373",
+      "name": "BSc (Computer Science)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+        "char_start": 28835,
+        "char_end": 28857,
+        "excerpt": "BSc (Computer Science)"
+      },
+      "normalization_key": "Degree|d1207ae55150|bsc (computer science)"
+    }
+  ],
+  "admissions_rules": [
+    {
+      "id": "adm:373:Degree|dfe5e6128551|bachelor of arts (hsbba) ncs 30 + an adequate achievement (50 -59%) or better in:subjects",
+      "institutionId": "373",
+      "programmeId": "prog:373:Degree|dfe5e6128551|bachelor of arts (hsbba) ncs 30 + an adequate achievement (50 -59%) or better in",
+      "ruleType": "subject_requirements",
+      "detail": "English >= 3%",
+      "subjects": [
+        {
+          "subject": "English",
+          "minimum_percentage": 3,
+          "raw_span": "English 3 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 8727,
+            "char_end": 8737,
+            "excerpt": "English 3"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf"
+    },
+    {
+      "id": "adm:373:Degree|5ccb2fa5403c|bachelor of indigenous:subjects",
+      "institutionId": "373",
+      "programmeId": "prog:373:Degree|5ccb2fa5403c|bachelor of indigenous",
+      "ruleType": "subject_requirements",
+      "detail": "English >= 4%",
+      "subjects": [
+        {
+          "subject": "English",
+          "minimum_percentage": 4,
+          "raw_span": "English 4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 8994,
+            "char_end": 9004,
+            "excerpt": "English 4"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf"
+    },
+    {
+      "id": "adm:373:Degree|595de22b7d2f|bachelor of arts in:subjects",
+      "institutionId": "373",
+      "programmeId": "prog:373:Degree|595de22b7d2f|bachelor of arts in",
+      "ruleType": "subject_requirements",
+      "detail": "English >= 4%",
+      "subjects": [
+        {
+          "subject": "English",
+          "minimum_percentage": 4,
+          "raw_span": "English 4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 9134,
+            "char_end": 9144,
+            "excerpt": "English 4"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf"
+    },
+    {
+      "id": "adm:373:Degree|336f95781f1d|bachelor of arts (english:subjects",
+      "institutionId": "373",
+      "programmeId": "prog:373:Degree|336f95781f1d|bachelor of arts (english",
+      "ruleType": "subject_requirements",
+      "detail": "English >= 3%",
+      "subjects": [
+        {
+          "subject": "English",
+          "minimum_percentage": 3,
+          "raw_span": "English 3 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 9266,
+            "char_end": 9276,
+            "excerpt": "English 3"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf"
+    },
+    {
+      "id": "adm:373:Degree|595de22b7d2f|bachelor of arts in:subjects",
+      "institutionId": "373",
+      "programmeId": "prog:373:Degree|595de22b7d2f|bachelor of arts in",
+      "ruleType": "subject_requirements",
+      "detail": "English >= 3%",
+      "subjects": [
+        {
+          "subject": "English",
+          "minimum_percentage": 3,
+          "raw_span": "English 3 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 9416,
+            "char_end": 9426,
+            "excerpt": "English 3"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf"
+    },
+    {
+      "id": "adm:373:Degree|a17860b964d4|bachelor of arts in youth:subjects",
+      "institutionId": "373",
+      "programmeId": "prog:373:Degree|a17860b964d4|bachelor of arts in youth",
+      "ruleType": "subject_requirements",
+      "detail": "English >= 4%",
+      "subjects": [
+        {
+          "subject": "English",
+          "minimum_percentage": 4,
+          "raw_span": "English 4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 9535,
+            "char_end": 9545,
+            "excerpt": "English 4"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf"
+    },
+    {
+      "id": "adm:373:Degree|1f3655a17d38|bachelor of arts (history) (hsbbah) nsc 30 + an adequate achievement (50 -59%) o:subjects",
+      "institutionId": "373",
+      "programmeId": "prog:373:Degree|1f3655a17d38|bachelor of arts (history) (hsbbah) nsc 30 + an adequate achievement (50 -59%) o",
+      "ruleType": "subject_requirements",
+      "detail": "English >= 3%",
+      "subjects": [
+        {
+          "subject": "English",
+          "minimum_percentage": 3,
+          "raw_span": "English 3 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 9655,
+            "char_end": 9665,
+            "excerpt": "English 3"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf"
+    },
+    {
+      "id": "adm:373:Degree|7e4fa9446e3f|bachelor of theology (hsbbt) nsc 30 + or rpl according to university policy 3 ye:subjects",
+      "institutionId": "373",
+      "programmeId": "prog:373:Degree|7e4fa9446e3f|bachelor of theology (hsbbt) nsc 30 + or rpl according to university policy 3 ye",
+      "ruleType": "subject_requirements",
+      "detail": "English >= 1%",
+      "subjects": [
+        {
+          "subject": "English",
+          "minimum_percentage": 1,
+          "raw_span": "English 1 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 9825,
+            "char_end": 9835,
+            "excerpt": "English 1"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf"
+    },
+    {
+      "id": "adm:373:Degree|a1c331bdcdd2|bachelor of social work (hsbbsw) nsc 35 + an adequate achievement (50 -59%) or b:subjects",
+      "institutionId": "373",
+      "programmeId": "prog:373:Degree|a1c331bdcdd2|bachelor of social work (hsbbsw) nsc 35 + an adequate achievement (50 -59%) or b",
+      "ruleType": "subject_requirements",
+      "detail": "English >= 4%",
+      "subjects": [
+        {
+          "subject": "English",
+          "minimum_percentage": 4,
+          "raw_span": "English 4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 9929,
+            "char_end": 9939,
+            "excerpt": "English 4"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf"
+    },
+    {
+      "id": "adm:373:Degree|da513b5a51bd|bachelor of education in:subjects",
+      "institutionId": "373",
+      "programmeId": "prog:373:Degree|da513b5a51bd|bachelor of education in",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics (Literacy) >= 50%; Mathematics >= 40%",
+      "subjects": [
+        {
+          "subject": "Mathematics (Literacy)",
+          "minimum_percentage": 50,
+          "raw_span": "Mathematics Literacy (50%",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 10498,
+            "char_end": 10523,
+            "excerpt": "Mathematics Literacy (50%"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 40,
+          "raw_span": "Mathematics (40%",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 10526,
+            "char_end": 10542,
+            "excerpt": "Mathematics (40%"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf"
+    },
+    {
+      "id": "adm:373:Degree|b050ae3150d9|bachelor of nursing (shbbn):subjects",
+      "institutionId": "373",
+      "programmeId": "prog:373:Degree|b050ae3150d9|bachelor of nursing (shbbn)",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 50%; Mathematics >= 4%; Physical Sciences >= 60%; Physical Sciences >= 4%; Physical Sciences >= 4%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 50,
+          "raw_span": "Mathematics (50",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 11046,
+            "char_end": 11061,
+            "excerpt": "Mathematics (50"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 4,
+          "raw_span": "Mathematics, and Physical Sciences 4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 11496,
+            "char_end": 11533,
+            "excerpt": "Mathematics, and Physical Sciences 4"
+          }
+        },
+        {
+          "subject": "Physical Sciences",
+          "minimum_percentage": 60,
+          "raw_span": "Physical Sciences (60",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 11016,
+            "char_end": 11037,
+            "excerpt": "Physical Sciences (60"
+          }
+        },
+        {
+          "subject": "Physical Sciences",
+          "minimum_percentage": 4,
+          "raw_span": "Physical Sciences 4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 11376,
+            "char_end": 11396,
+            "excerpt": "Physical Sciences 4"
+          }
+        },
+        {
+          "subject": "Physical Sciences",
+          "minimum_percentage": 4,
+          "raw_span": "Physical Sciences 4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 11513,
+            "char_end": 11533,
+            "excerpt": "Physical Sciences 4"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf"
+    },
+    {
+      "id": "adm:373:Degree|61d49f0b2586|bsc in nutrition (shbbsn):subjects",
+      "institutionId": "373",
+      "programmeId": "prog:373:Degree|61d49f0b2586|bsc in nutrition (shbbsn)",
+      "ruleType": "subject_requirements",
+      "detail": "English >= 4%; Mathematics >= 50%; Mathematics >= 4%; Physical Sciences >= 60%; Physical Sciences >= 4%; Physical Sciences >= 4%",
+      "subjects": [
+        {
+          "subject": "English",
+          "minimum_percentage": 4,
+          "raw_span": "English 4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 11628,
+            "char_end": 11638,
+            "excerpt": "English 4"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 50,
+          "raw_span": "Mathematics (50",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 11046,
+            "char_end": 11061,
+            "excerpt": "Mathematics (50"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 4,
+          "raw_span": "Mathematics, and Physical Sciences 4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 11496,
+            "char_end": 11533,
+            "excerpt": "Mathematics, and Physical Sciences 4"
+          }
+        },
+        {
+          "subject": "Physical Sciences",
+          "minimum_percentage": 60,
+          "raw_span": "Physical Sciences (60",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 11016,
+            "char_end": 11037,
+            "excerpt": "Physical Sciences (60"
+          }
+        },
+        {
+          "subject": "Physical Sciences",
+          "minimum_percentage": 4,
+          "raw_span": "Physical Sciences 4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 11376,
+            "char_end": 11396,
+            "excerpt": "Physical Sciences 4"
+          }
+        },
+        {
+          "subject": "Physical Sciences",
+          "minimum_percentage": 4,
+          "raw_span": "Physical Sciences 4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 11513,
+            "char_end": 11533,
+            "excerpt": "Physical Sciences 4"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf"
+    },
+    {
+      "id": "adm:373:Degree|98b291669890|bsc in sports and exercise:subjects",
+      "institutionId": "373",
+      "programmeId": "prog:373:Degree|98b291669890|bsc in sports and exercise",
+      "ruleType": "subject_requirements",
+      "detail": "English >= 4%; Mathematics >= 4%; Physical Sciences >= 4%; Physical Sciences >= 4%",
+      "subjects": [
+        {
+          "subject": "English",
+          "minimum_percentage": 4,
+          "raw_span": "English 4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 11628,
+            "char_end": 11638,
+            "excerpt": "English 4"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 4,
+          "raw_span": "Mathematics, and Physical Sciences 4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 11496,
+            "char_end": 11533,
+            "excerpt": "Mathematics, and Physical Sciences 4"
+          }
+        },
+        {
+          "subject": "Physical Sciences",
+          "minimum_percentage": 4,
+          "raw_span": "Physical Sciences 4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 11376,
+            "char_end": 11396,
+            "excerpt": "Physical Sciences 4"
+          }
+        },
+        {
+          "subject": "Physical Sciences",
+          "minimum_percentage": 4,
+          "raw_span": "Physical Sciences 4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 11513,
+            "char_end": 11533,
+            "excerpt": "Physical Sciences 4"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf"
+    },
+    {
+      "id": "adm:373:Degree|7c39adebcacb|bsc in biokinetics (shbbsk) nsc 34 + adequate achievement (50-59%) in life scien:subjects",
+      "institutionId": "373",
+      "programmeId": "prog:373:Degree|7c39adebcacb|bsc in biokinetics (shbbsk) nsc 34 + adequate achievement (50-59%) in life scien",
+      "ruleType": "subject_requirements",
+      "detail": "English >= 4%; Mathematics >= 4%; Physical Sciences >= 4%; Physical Sciences >= 4%",
+      "subjects": [
+        {
+          "subject": "English",
+          "minimum_percentage": 4,
+          "raw_span": "English 4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 11628,
+            "char_end": 11638,
+            "excerpt": "English 4"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 4,
+          "raw_span": "Mathematics, and Physical Sciences 4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 11496,
+            "char_end": 11533,
+            "excerpt": "Mathematics, and Physical Sciences 4"
+          }
+        },
+        {
+          "subject": "Physical Sciences",
+          "minimum_percentage": 4,
+          "raw_span": "Physical Sciences 4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 11376,
+            "char_end": 11396,
+            "excerpt": "Physical Sciences 4"
+          }
+        },
+        {
+          "subject": "Physical Sciences",
+          "minimum_percentage": 4,
+          "raw_span": "Physical Sciences 4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 11513,
+            "char_end": 11533,
+            "excerpt": "Physical Sciences 4"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf"
+    },
+    {
+      "id": "adm:373:Degree|967c17645b22|bsc in recreation and:subjects",
+      "institutionId": "373",
+      "programmeId": "prog:373:Degree|967c17645b22|bsc in recreation and",
+      "ruleType": "subject_requirements",
+      "detail": "English >= 4%; Mathematics >= 4%; Physical Sciences >= 4%",
+      "subjects": [
+        {
+          "subject": "English",
+          "minimum_percentage": 4,
+          "raw_span": "English 4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 11628,
+            "char_end": 11638,
+            "excerpt": "English 4"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 4,
+          "raw_span": "Mathematics, and Physical Sciences 4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 11496,
+            "char_end": 11533,
+            "excerpt": "Mathematics, and Physical Sciences 4"
+          }
+        },
+        {
+          "subject": "Physical Sciences",
+          "minimum_percentage": 4,
+          "raw_span": "Physical Sciences 4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 11513,
+            "char_end": 11533,
+            "excerpt": "Physical Sciences 4"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf"
+    },
+    {
+      "id": "adm:373:Degree|c0a2c54561bf|bachelor of commerce in:subjects",
+      "institutionId": "373",
+      "programmeId": "prog:373:Degree|c0a2c54561bf|bachelor of commerce in",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 4%; Accounting >= 35%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 4,
+          "raw_span": "Mathematics 4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 13737,
+            "char_end": 13751,
+            "excerpt": "Mathematics 4"
+          }
+        },
+        {
+          "subject": "Accounting",
+          "minimum_percentage": 35,
+          "raw_span": "Accounting Sciences (MSBCAS) NSC 35 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 13624,
+            "char_end": 13660,
+            "excerpt": "Accounting Sciences (MSBCAS) NSC 35"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf"
+    },
+    {
+      "id": "adm:373:Degree|c0a2c54561bf|bachelor of commerce in:subjects",
+      "institutionId": "373",
+      "programmeId": "prog:373:Degree|c0a2c54561bf|bachelor of commerce in",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 3%; Accounting >= 32%; Accounting >= 3%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 3,
+          "raw_span": "Mathematics 3 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 14196,
+            "char_end": 14210,
+            "excerpt": "Mathematics 3"
+          }
+        },
+        {
+          "subject": "Accounting",
+          "minimum_percentage": 32,
+          "raw_span": "Accounting (MSBBCA) NSC 32 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 14099,
+            "char_end": 14126,
+            "excerpt": "Accounting (MSBBCA) NSC 32"
+          }
+        },
+        {
+          "subject": "Accounting",
+          "minimum_percentage": 3,
+          "raw_span": "Accounting or Mathematics 3 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 14182,
+            "char_end": 14210,
+            "excerpt": "Accounting or Mathematics 3"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf"
+    },
+    {
+      "id": "adm:373:Degree|c0a2c54561bf|bachelor of commerce in:subjects",
+      "institutionId": "373",
+      "programmeId": "prog:373:Degree|c0a2c54561bf|bachelor of commerce in",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 75%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 75,
+          "raw_span": "Mathematics or 75%",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 14364,
+            "char_end": 14382,
+            "excerpt": "Mathematics or 75%"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf"
+    },
+    {
+      "id": "adm:373:Degree|c0a2c54561bf|bachelor of commerce in:subjects",
+      "institutionId": "373",
+      "programmeId": "prog:373:Degree|c0a2c54561bf|bachelor of commerce in",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 3%; Accounting >= 3%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 3,
+          "raw_span": "Mathematics 3 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 14956,
+            "char_end": 14970,
+            "excerpt": "Mathematics 3"
+          }
+        },
+        {
+          "subject": "Accounting",
+          "minimum_percentage": 3,
+          "raw_span": "Accounting or Mathematics 3 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 14942,
+            "char_end": 14970,
+            "excerpt": "Accounting or Mathematics 3"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf"
+    },
+    {
+      "id": "adm:373:Degree|2e9c2442352d|bachelor of arts in criminal:subjects",
+      "institutionId": "373",
+      "programmeId": "prog:373:Degree|2e9c2442352d|bachelor of arts in criminal",
+      "ruleType": "subject_requirements",
+      "detail": "English >= 3%",
+      "subjects": [
+        {
+          "subject": "English",
+          "minimum_percentage": 3,
+          "raw_span": "English 3 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 15902,
+            "char_end": 15912,
+            "excerpt": "English 3"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf"
+    },
+    {
+      "id": "adm:373:Degree|e2166b5ac055|bachelor of earth:subjects",
+      "institutionId": "373",
+      "programmeId": "prog:373:Degree|e2166b5ac055|bachelor of earth",
+      "ruleType": "subject_requirements",
+      "detail": "Physical Sciences >= 50%",
+      "subjects": [
+        {
+          "subject": "Physical Sciences",
+          "minimum_percentage": 50,
+          "raw_span": "Physical Science (adequate achievement, 50",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 23129,
+            "char_end": 23171,
+            "excerpt": "Physical Science (adequate achievement, 50"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf"
+    },
+    {
+      "id": "adm:373:Degree|d0e5b3765c0d|bachelor of earth sciences:subjects",
+      "institutionId": "373",
+      "programmeId": "prog:373:Degree|d0e5b3765c0d|bachelor of earth sciences",
+      "ruleType": "subject_requirements",
+      "detail": "Physical Sciences >= 50%",
+      "subjects": [
+        {
+          "subject": "Physical Sciences",
+          "minimum_percentage": 50,
+          "raw_span": "Physical Sciences and an adequate achievement (50",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 23457,
+            "char_end": 23506,
+            "excerpt": "Physical Sciences and an adequate achievement (50"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf"
+    },
+    {
+      "id": "adm:373:Degree|908e3a6f2fe9|bachelor of environmental:subjects",
+      "institutionId": "373",
+      "programmeId": "prog:373:Degree|908e3a6f2fe9|bachelor of environmental",
+      "ruleType": "subject_requirements",
+      "detail": "Life Sciences >= 50%",
+      "subjects": [
+        {
+          "subject": "Life Sciences",
+          "minimum_percentage": 50,
+          "raw_span": "Life Sciences, (adequate achievement, 50",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 24133,
+            "char_end": 24173,
+            "excerpt": "Life Sciences, (adequate achievement, 50"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf"
+    },
+    {
+      "id": "adm:373:Degree|b9ac5a4d64c9|bachelor of science in:subjects",
+      "institutionId": "373",
+      "programmeId": "prog:373:Degree|b9ac5a4d64c9|bachelor of science in",
+      "ruleType": "subject_requirements",
+      "detail": "Life Sciences >= 4%; Physical Sciences >= 4%",
+      "subjects": [
+        {
+          "subject": "Life Sciences",
+          "minimum_percentage": 4,
+          "raw_span": "Life Sciences 4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 24659,
+            "char_end": 24675,
+            "excerpt": "Life Sciences 4"
+          }
+        },
+        {
+          "subject": "Physical Sciences",
+          "minimum_percentage": 4,
+          "raw_span": "Physical Science and Life Sciences 4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 24638,
+            "char_end": 24675,
+            "excerpt": "Physical Science and Life Sciences 4"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf"
+    },
+    {
+      "id": "adm:373:Degree|78d183af166a|bachelor of science:subjects",
+      "institutionId": "373",
+      "programmeId": "prog:373:Degree|78d183af166a|bachelor of science",
+      "ruleType": "subject_requirements",
+      "detail": "Life Sciences >= 4%; Physical Sciences >= 4%",
+      "subjects": [
+        {
+          "subject": "Life Sciences",
+          "minimum_percentage": 4,
+          "raw_span": "Life Sciences 4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 24842,
+            "char_end": 24858,
+            "excerpt": "Life Sciences 4"
+          }
+        },
+        {
+          "subject": "Physical Sciences",
+          "minimum_percentage": 4,
+          "raw_span": "Physical Science and Life Sciences 4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 24821,
+            "char_end": 24858,
+            "excerpt": "Physical Science and Life Sciences 4"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf"
+    },
+    {
+      "id": "adm:373:Degree|b9ac5a4d64c9|bachelor of science in:subjects",
+      "institutionId": "373",
+      "programmeId": "prog:373:Degree|b9ac5a4d64c9|bachelor of science in",
+      "ruleType": "subject_requirements",
+      "detail": "Life Sciences >= 4%; Physical Sciences >= 4%",
+      "subjects": [
+        {
+          "subject": "Life Sciences",
+          "minimum_percentage": 4,
+          "raw_span": "Life Sciences 4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 25033,
+            "char_end": 25049,
+            "excerpt": "Life Sciences 4"
+          }
+        },
+        {
+          "subject": "Physical Sciences",
+          "minimum_percentage": 4,
+          "raw_span": "Physical Science and Life Sciences 4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 25012,
+            "char_end": 25049,
+            "excerpt": "Physical Science and Life Sciences 4"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf"
+    },
+    {
+      "id": "adm:373:Degree|78d183af166a|bachelor of science:subjects",
+      "institutionId": "373",
+      "programmeId": "prog:373:Degree|78d183af166a|bachelor of science",
+      "ruleType": "subject_requirements",
+      "detail": "Life Sciences >= 4%; Physical Sciences >= 4%",
+      "subjects": [
+        {
+          "subject": "Life Sciences",
+          "minimum_percentage": 4,
+          "raw_span": "Life Sciences 4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 25218,
+            "char_end": 25234,
+            "excerpt": "Life Sciences 4"
+          }
+        },
+        {
+          "subject": "Physical Sciences",
+          "minimum_percentage": 4,
+          "raw_span": "Physical Science and Life Sciences 4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 25197,
+            "char_end": 25234,
+            "excerpt": "Physical Science and Life Sciences 4"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf"
+    },
+    {
+      "id": "adm:373:Degree|2ac5afd530c1|bachelor of science in soil:subjects",
+      "institutionId": "373",
+      "programmeId": "prog:373:Degree|2ac5afd530c1|bachelor of science in soil",
+      "ruleType": "subject_requirements",
+      "detail": "Life Sciences >= 4%; Physical Sciences >= 4%",
+      "subjects": [
+        {
+          "subject": "Life Sciences",
+          "minimum_percentage": 4,
+          "raw_span": "Life Sciences 4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 25385,
+            "char_end": 25401,
+            "excerpt": "Life Sciences 4"
+          }
+        },
+        {
+          "subject": "Physical Sciences",
+          "minimum_percentage": 4,
+          "raw_span": "Physical Science and Life Sciences 4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 25364,
+            "char_end": 25401,
+            "excerpt": "Physical Science and Life Sciences 4"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf"
+    },
+    {
+      "id": "adm:373:Degree|b9ac5a4d64c9|bachelor of science in:subjects",
+      "institutionId": "373",
+      "programmeId": "prog:373:Degree|b9ac5a4d64c9|bachelor of science in",
+      "ruleType": "subject_requirements",
+      "detail": "Life Sciences >= 4%; Physical Sciences >= 4%",
+      "subjects": [
+        {
+          "subject": "Life Sciences",
+          "minimum_percentage": 4,
+          "raw_span": "Life Sciences 4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 25548,
+            "char_end": 25564,
+            "excerpt": "Life Sciences 4"
+          }
+        },
+        {
+          "subject": "Physical Sciences",
+          "minimum_percentage": 4,
+          "raw_span": "Physical Science and Life Sciences 4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-venda.pdf",
+            "char_start": 25527,
+            "char_end": 25564,
+            "excerpt": "Physical Science and Life Sciences 4"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-venda.pdf",
+      "sourceUrl": "https://www.univen.ac.za/wp-content/uploads/2026/03/2027-Univen-Undergraduate-Prospectus.pdf"
+    }
+  ],
+  "aps_rules": [],
+  "llm_calls": 0
+}

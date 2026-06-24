@@ -1,0 +1,3608 @@
+{
+  "meta": {
+    "institution_id": "373",
+    "slug": "university-of-venda",
+    "name": "University of Venda",
+    "institution_type": "university",
+    "province": "Limpopo",
+    "city": "Thohoyandou",
+    "official_website": "https://www.univen.ac.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/373/university-of-venda",
+    "application_url": "https://www.univen.ac.za/students/student-support-services/how-to-apply/",
+    "prospectus_url": null,
+    "nsfas_supported": null,
+    "distance_learning": null,
+    "accreditation": {
+      "dh et": "Accredited",
+      "saqa": "Registered"
+    },
+    "qualification_types": [
+      "Undergraduate",
+      "Postgraduate",
+      "Diploma",
+      "Certificate"
+    ]
+  },
+  "profile": {
+    "short_name": "UNIVEN",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/0/0f/University_of_Venda_logo.png"
+  },
+  "contact": {
+    "emails": [
+      "ndakajohn.ndaka@univen.ac.za",
+      "gumani.tshimange@univen.ac.zams",
+      "solomon.phungo@univen.ac.za",
+      "mercy.mulaudzi@univen.ac.zafaculty",
+      "julius.netshidzivhe@univen.ac.za",
+      "aluwani.bugane@univen.ac.zams",
+      "kwindafulufhelo.kwinda@univen.ac.za",
+      "munyaifulufhedzani.munyai@univen.ac.za",
+      "mulidzifhatuwani.mulidzi@univen.ac.za",
+      "justice.lebopa@univen.ac.zainformation",
+      "thizwilondithizwilondi.nefale@univen.ac.za",
+      "mabulepatience.mabule@univen.ac.za",
+      "patricia.mashau@univen.ac.zaenquiries",
+      "madzivhandilabala.madzivhandila@univen.ac.za",
+      "prince.khakhu@univen.ac.zams",
+      "elizabeth.chauke@univen.ac.zaprofessor",
+      "ntebogeng.mokgalaka@univen.ac.zafaculty",
+      "mukondeleli.masia@univen.ac.za",
+      "bronia.mantshimuli@univen.ac.zaprof",
+      "phathuphathutshedzo.makhavhu@univen.ac.za",
+      "mmbobostella.mmbobo@univen.ac.za",
+      "nengwekhulumishumo.nengwekhulu@univen.ac.za",
+      "aluwani.fungisani@univen.ac.zageneral",
+      "mogotsitshepiso.mogotsi@univen.ac.za",
+      "financialaid@univen.ac.zacontact",
+      "barwa.kanyane@univen.ac.zaphone",
+      "donald.morema@univen.ac.zawe",
+      "barbara.netshiombo@univen.ac.zaprof",
+      "christinah.murovhi@univen.a.czaprof",
+      "maboho@univen.ac.zamr",
+      "mashudu.mainganye@univen.ac.za",
+      "takalani.dzaga@univen.ac.zawas",
+      "tshililo.muthadzwi@univen.ac.zadr",
+      "bongani.bantwini@univen.ac.zaoffice"
+    ],
+    "phone_numbers": [
+      "015 962 9489",
+      "064 977 2909",
+      "015 962 8164",
+      "015 962 8603",
+      "015 962 8000",
+      "064 978 8796",
+      "015 963 1397",
+      "082 589 6297"
+    ],
+    "physical_address": "University Road, Thohoyandou, 0950",
+    "postal_address": "Private Bag X5050, Thohoyandou, 0950",
+    "socials": {
+      "facebook": "https://www.facebook.com/UniversityOfVenda/",
+      "instagram": "https://instagram.com/universityofvenda",
+      "linkedin": "https://www.linkedin.com/company/university-of-venda",
+      "x": "https://twitter.com/Univenofficial",
+      "youtube": "https://www.youtube.com/channel/UCrWNHz2Nv_WXJwRns1wHUWw"
+    }
+  },
+  "campuses": [],
+  "faculties": [
+    {
+      "id": null,
+      "name": "Health Sciences Calendar",
+      "overview": null,
+      "kind": null
+    },
+    {
+      "id": null,
+      "name": "Human, Social Science and Education",
+      "overview": null,
+      "kind": null
+    },
+    {
+      "id": null,
+      "name": "Management, Commerce and LawDownload",
+      "overview": null,
+      "kind": null
+    },
+    {
+      "id": null,
+      "name": "Science, Engineering and Agriculture",
+      "overview": null,
+      "kind": null
+    },
+    {
+      "id": null,
+      "name": "Humanities, Social Science and Education",
+      "overview": null,
+      "kind": null
+    },
+    {
+      "id": null,
+      "name": "Health Sciences",
+      "overview": null,
+      "kind": null
+    },
+    {
+      "id": null,
+      "name": "Health SciencesDownload",
+      "overview": null,
+      "kind": null
+    },
+    {
+      "id": null,
+      "name": "Management, Commerce and Law",
+      "overview": null,
+      "kind": null
+    },
+    {
+      "id": null,
+      "name": "Science, Engineering and AgricultureDownload",
+      "overview": null,
+      "kind": null
+    },
+    {
+      "id": "fac:776c78aa7289",
+      "name": "HEAL TH SCIENCES",
+      "overview": "FACULTY OF HEAL TH SCIENCES",
+      "kind": "faculty"
+    },
+    {
+      "id": "fac:111bd11a9fc7",
+      "name": "HEALTH",
+      "overview": "FACULTY OF HEALTH",
+      "kind": "faculty"
+    },
+    {
+      "id": "fac:2a9a6c56f07c",
+      "name": "HUMANITIES",
+      "overview": "FACULTY OF HUMANITIES,",
+      "kind": "faculty"
+    },
+    {
+      "id": "fac:379747a90b5d",
+      "name": "HUMANITIES, SOCIAL",
+      "overview": "FACULTY OF HUMANITIES, SOCIAL",
+      "kind": "faculty"
+    },
+    {
+      "id": "fac:2ccfe6c50f30",
+      "name": "MANAGEMENT",
+      "overview": "FACULTY OF MANAGEMENT,",
+      "kind": "faculty"
+    },
+    {
+      "id": "fac:cd7f43da3eda",
+      "name": "SCIENCE",
+      "overview": "FACULTY OF SCIENCE,",
+      "kind": "faculty"
+    },
+    {
+      "id": "fac:f187cc6dc249",
+      "name": "Science, Engineering and Agriculture; Faculty of",
+      "overview": "Faculty of Science, Engineering and Agriculture; Faculty of",
+      "kind": "faculty"
+    },
+    {
+      "id": "fac:373:ac9be24234a1",
+      "name": "Law: 1, Law Clinic: 1",
+      "overview": null,
+      "kind": null
+    },
+    {
+      "id": "fac:373:131d016a8f44",
+      "name": "Health Sciences: Prof TM Mulaudzi",
+      "overview": null,
+      "kind": null
+    }
+  ],
+  "programmes": [
+    {
+      "id": "prog:383ed44951d4",
+      "name": "BA",
+      "normalized_name": "BA",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "HUMANITIES",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:010ca0bef7b7",
+      "name": "BA (English",
+      "normalized_name": "BA (English",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "HUMANITIES",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:12cd19d0918c",
+      "name": "BA (History) (HSBBAH) NSC 30 + an adequate achievement (50 -59%) or better in History and English 3 Years",
+      "normalized_name": "BA (History) (HSBBAH) NSC 30 + an adequate achievement (50 -59%) or better in History and English 3 Years",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "HUMANITIES",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:041e54887def",
+      "name": "BA (HSBBA) NCS 30 + an adequate achievement (50 -59%) or better in English 3 years",
+      "normalized_name": "BA (HSBBA) NCS 30 + an adequate achievement (50 -59%) or better in English 3 years",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "HUMANITIES",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:0b45c61a20f0",
+      "name": "BA (Media",
+      "normalized_name": "BA (Media",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "HUMANITIES",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:10f8ee12e447",
+      "name": "BA in",
+      "normalized_name": "BA in",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "HUMANITIES",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:36d30bff82b8",
+      "name": "BA in Criminal",
+      "normalized_name": "BA in Criminal",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "MANAGEMENT",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": 28,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:c7503b81895e",
+      "name": "BA in Youth",
+      "normalized_name": "BA in Youth",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "HUMANITIES",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:1fd4519802e6",
+      "name": "Bachelor of Admin in",
+      "normalized_name": "Bachelor of Admin in",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "MANAGEMENT",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:e7b2e1b354bb",
+      "name": "Bachelor of Administration MSEBAD 4 years",
+      "normalized_name": "Bachelor of Administration MSEBAD 4 years",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "MANAGEMENT",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:085413e1e079",
+      "name": "Bachelor of Earth",
+      "normalized_name": "Bachelor of Earth",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "SCIENCE",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:7b70f5930fa8",
+      "name": "Bachelor of Earth Sciences",
+      "normalized_name": "Bachelor of Earth Sciences",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "SCIENCE",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:369731864dd6",
+      "name": "Bachelor of Environmental",
+      "normalized_name": "Bachelor of Environmental",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "SCIENCE",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:b97b0c3bc600",
+      "name": "Bachelor of Indigenous",
+      "normalized_name": "Bachelor of Indigenous",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "HUMANITIES",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:d01b92a1494c",
+      "name": "Bachelor of Psychology (SHBBP) NSC 36 + adequate achievement (50-59%) in English",
+      "normalized_name": "Bachelor of Psychology (SHBBP) NSC 36 + adequate achievement (50-59%) in English",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "HEAL TH SCIENCES",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:d3c7c2f93ec9",
+      "name": "Bachelor of Social Work (HSBBSW) NSC 35 + an adequate achievement (50 -59%) or better in English 4 Years",
+      "normalized_name": "Bachelor of Social Work (HSBBSW) NSC 35 + an adequate achievement (50 -59%) or better in English 4 Years",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "HUMANITIES",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:1141725a16c3",
+      "name": "Bachelor of Theology (HSBBT) NSC 30 + or RPL according to University Policy 3 Years",
+      "normalized_name": "Bachelor of Theology (HSBBT) NSC 30 + or RPL according to University Policy 3 Years",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "HUMANITIES",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:3bd4547250f3",
+      "name": "Bachelor of Urban and Regional Planning (ESBURP)",
+      "normalized_name": "Bachelor of Urban and Regional Planning (ESBURP)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "SCIENCE",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:457f1fa45570",
+      "name": "BCom",
+      "normalized_name": "BCom",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "MANAGEMENT",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:95379d86138b",
+      "name": "BCom (Human",
+      "normalized_name": "BCom (Human",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "MANAGEMENT",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:58ac7b770dc1",
+      "name": "BCom (in various disciplines)",
+      "normalized_name": "BCom (in various disciplines)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "MANAGEMENT",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:ae316ac3a363",
+      "name": "BCom in",
+      "normalized_name": "BCom in",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "MANAGEMENT",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:3d49535952ed",
+      "name": "BCom in Business Information",
+      "normalized_name": "BCom in Business Information",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "MANAGEMENT",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:c603a7abdba1",
+      "name": "BCom in Business Management (MSBCBM)",
+      "normalized_name": "BCom in Business Management (MSBCBM)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "MANAGEMENT",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:c68a3e9d9a89",
+      "name": "BCom in Cost and Management",
+      "normalized_name": "BCom in Cost and Management",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "MANAGEMENT",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:9b0ecfb0ecfb",
+      "name": "BCom in Economics (MSBBCE)",
+      "normalized_name": "BCom in Economics (MSBBCE)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "MANAGEMENT",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:ce5c053ba21d",
+      "name": "BCom in Industrial Psychology (MSBIP)",
+      "normalized_name": "BCom in Industrial Psychology (MSBIP)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "MANAGEMENT",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:4574a7abd260",
+      "name": "BCom in Tourism Management (MSBTRM)",
+      "normalized_name": "BCom in Tourism Management (MSBTRM)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "MANAGEMENT",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:cddfa7433479",
+      "name": "BEd in Foundation Phase",
+      "normalized_name": "BEd in Foundation Phase",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "HUMANITIES",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:6fe144cc0554",
+      "name": "BEd in Senior Phase and Further",
+      "normalized_name": "BEd in Senior Phase and Further",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "HUMANITIES",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:fecc860502f1",
+      "name": "BNurs (SHBBN)",
+      "normalized_name": "BNurs (SHBBN)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "HEAL TH SCIENCES",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:d9edd6b0dcc6",
+      "name": "BSc",
+      "normalized_name": "BSc",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "SCIENCE",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:5737cf31bef3",
+      "name": "BSc (Biochemistry and Biology)",
+      "normalized_name": "BSc (Biochemistry and Biology)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "SCIENCE",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:3eede2755913",
+      "name": "BSc (Biochemistry and Microbiology)",
+      "normalized_name": "BSc (Biochemistry and Microbiology)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "SCIENCE",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:f78133333303",
+      "name": "BSc (Botany and Zoology)",
+      "normalized_name": "BSc (Botany and Zoology)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "SCIENCE",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:014426854c84",
+      "name": "BSc (Chemistry and Applied Chemistry)",
+      "normalized_name": "BSc (Chemistry and Applied Chemistry)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "SCIENCE",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:606c8f3e3730",
+      "name": "BSc (Chemistry and Biochemistry)",
+      "normalized_name": "BSc (Chemistry and Biochemistry)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "SCIENCE",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:62902cfc829b",
+      "name": "BSc (Chemistry and Mathematics)",
+      "normalized_name": "BSc (Chemistry and Mathematics)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "SCIENCE",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:12f7a14b4fab",
+      "name": "BSc (Computer Science and Mathematics)",
+      "normalized_name": "BSc (Computer Science and Mathematics)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "SCIENCE",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:b3b74a1cd4f9",
+      "name": "BSc (Computer Science)",
+      "normalized_name": "BSc (Computer Science)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "SCIENCE",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:2da76b410dac",
+      "name": "BSc (Mathematics and Applied Mathematics)",
+      "normalized_name": "BSc (Mathematics and Applied Mathematics)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "SCIENCE",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:cb8ab6d0b5bc",
+      "name": "BSc (Mathematics and Physics)",
+      "normalized_name": "BSc (Mathematics and Physics)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "SCIENCE",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:88eaa451de79",
+      "name": "BSc (Mathematics and Statistics)",
+      "normalized_name": "BSc (Mathematics and Statistics)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "SCIENCE",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:21bc2571b2a8",
+      "name": "BSc (Microbiology and Botany)",
+      "normalized_name": "BSc (Microbiology and Botany)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "SCIENCE",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:58ca31738857",
+      "name": "BSc (Physics and Chemistry)",
+      "normalized_name": "BSc (Physics and Chemistry)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "SCIENCE",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:304cc18016f0",
+      "name": "BSc degree",
+      "normalized_name": "BSc degree",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "SCIENCE",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:ac52293126ad",
+      "name": "BSc DEGREES",
+      "normalized_name": "BSc DEGREES",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "SCIENCE",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:d7db763c9408",
+      "name": "BSc in",
+      "normalized_name": "BSc in",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "SCIENCE",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:cc35ffb73b0a",
+      "name": "BSc in Agriculture (Agribusiness",
+      "normalized_name": "BSc in Agriculture (Agribusiness",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "SCIENCE",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:7c861f1d937e",
+      "name": "BSc in Agriculture (Agricultural",
+      "normalized_name": "BSc in Agriculture (Agricultural",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "SCIENCE",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:c9a2e311fa34",
+      "name": "BSc in Agriculture (Horticultural",
+      "normalized_name": "BSc in Agriculture (Horticultural",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "SCIENCE",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:02e72f783faa",
+      "name": "BSc in Biokinetics (SHBBSK) NSC 34 + adequate achievement (50-59%) in Life Sciences, En",
+      "normalized_name": "BSc in Biokinetics (SHBBSK) NSC 34 + adequate achievement (50-59%) in Life Sciences, En",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "HEAL TH SCIENCES",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:00f4bdf0856b",
+      "name": "BSc in Chemistry and Applied Chemistry",
+      "normalized_name": "BSc in Chemistry and Applied Chemistry",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "SCIENCE",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:1cc50eee8c86",
+      "name": "BSc in Food",
+      "normalized_name": "BSc in Food",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "SCIENCE",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:d92c5c487aa0",
+      "name": "BSc in Nutrition (SHBBSN)",
+      "normalized_name": "BSc in Nutrition (SHBBSN)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "HEAL TH SCIENCES",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:27fd7467c120",
+      "name": "BSc in Recreation and",
+      "normalized_name": "BSc in Recreation and",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "HEAL TH SCIENCES",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:fd1d02e95c01",
+      "name": "BSc in Soil",
+      "normalized_name": "BSc in Soil",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "SCIENCE",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:c28de840ef4a",
+      "name": "BSc in Sports and Exercise",
+      "normalized_name": "BSc in Sports and Exercise",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "HEAL TH SCIENCES",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:498651bf7672",
+      "name": "Diploma in Freshwater",
+      "normalized_name": "Diploma in Freshwater",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "SCIENCE",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:f5a7f1252810",
+      "name": "Diploma in Nursing (SHDPN)",
+      "normalized_name": "Diploma in Nursing (SHDPN)",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "HEAL TH SCIENCES",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:a74977952ff3",
+      "name": "LLB (LWBBL) NSC 38 + a minimum of 60% in English 4 years",
+      "normalized_name": "LLB (LWBBL) NSC 38 + a minimum of 60% in English 4 years",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "MANAGEMENT",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": 28,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:373:Degree|454ba1672c68|bachelor of education in foundation phase",
+      "name": "Bachelor of Education in Foundation Phase",
+      "normalized_name": null,
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:373:Degree|31f92ae05cd8|bachelor of education in senior phase and further",
+      "name": "Bachelor of Education in Senior Phase and Further",
+      "normalized_name": null,
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:373:Degree|b050ae3150d9|bachelor of nursing (shbbn)",
+      "name": "Bachelor of Nursing (SHBBN)",
+      "normalized_name": null,
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    }
+  ],
+  "admission": {
+    "aps_name": null,
+    "aps_calculation_notes": null,
+    "minimum_aps_for_bachelors": null,
+    "minimum_aps_for_diplomas": null,
+    "minimum_entry_note": null,
+    "life_orientation_cap": null,
+    "aps_rules": [],
+    "programme_requirements": [
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "Bachelor of Environmental",
+        "faculty_name": "Science",
+        "detail": "Subject requirements for Bachelor of Environmental",
+        "subjects_compulsory": [
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Physical Science (adequate achievement, 50"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "373",
+        "institution_name": "University of Venda",
+        "source_file": "prospectuses/university-of-venda.pdf",
+        "source_excerpt": "Bachelor of Environmental",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:0097e6d0af98",
+        "institutionId": "373"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BSc in Food",
+        "faculty_name": "Science",
+        "detail": "Subject requirements for BSc in Food",
+        "subjects_compulsory": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Life Sciences 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics, Physical Science and Life Sciences 4"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Science and Life Sciences 4"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "373",
+        "institution_name": "University of Venda",
+        "source_file": "prospectuses/university-of-venda.pdf",
+        "source_excerpt": "Bachelor of Science in Food",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:0237739eecc1",
+        "institutionId": "373"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BSc in Recreation and",
+        "faculty_name": "Health Sciences",
+        "detail": "Subject requirements for BSc in Recreation and",
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "English 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics, and Physical Sciences 4"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Sciences 4"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "373",
+        "institution_name": "University of Venda",
+        "source_file": "prospectuses/university-of-venda.pdf",
+        "source_excerpt": "BSc in Recreation and",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:02ac902c5b62",
+        "institutionId": "373"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BSc in Agriculture (Horticultural",
+        "faculty_name": "Science",
+        "detail": "Subject requirements for BSc in Agriculture (Horticultural",
+        "subjects_compulsory": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Life Sciences 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics, Physical Science and Life Sciences 4"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Science and Life Sciences 4"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "373",
+        "institution_name": "University of Venda",
+        "source_file": "prospectuses/university-of-venda.pdf",
+        "source_excerpt": "Bachelor of Science in",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:14136705054c",
+        "institutionId": "373"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BNurs (SHBBN)",
+        "faculty_name": "Health Sciences",
+        "detail": "Subject requirements for BNurs (SHBBN)",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics (50"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Physical Sciences (60"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics, and Physical Sciences 4"
+            }
+          ],
+          [
+            {
+              "subject": "Physical Sciences",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Physical Sciences 4"
+            }
+          ],
+          [
+            {
+              "subject": "Physical Sciences",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Physical Sciences 4"
+            }
+          ]
+        ],
+        "institution_id": "373",
+        "institution_name": "University of Venda",
+        "source_file": "prospectuses/university-of-venda.pdf",
+        "source_excerpt": "Bachelor of Nursing (SHBBN)",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:1cfcde60d2c0",
+        "institutionId": "373"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BCom in Industrial Psychology (MSBIP)",
+        "faculty_name": "Management",
+        "detail": "Subject requirements for BCom in Industrial Psychology (MSBIP)",
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "English 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "English 3"
+            }
+          ]
+        ],
+        "institution_id": "373",
+        "institution_name": "University of Venda",
+        "source_file": "prospectuses/university-of-venda.pdf",
+        "source_excerpt": "Bachelor of Commerce in",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:1fdb20742e2e",
+        "institutionId": "373"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BSc in Agriculture (Agricultural",
+        "faculty_name": "Science",
+        "detail": "Subject requirements for BSc in Agriculture (Agricultural",
+        "subjects_compulsory": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Life Sciences, (adequate achievement, 50"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics, Physical Science and Life Sciences 4"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Science and Life Sciences 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Life Sciences",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Life Sciences 4"
+            }
+          ],
+          [
+            {
+              "subject": "Life Sciences",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Life Sciences 4"
+            }
+          ]
+        ],
+        "institution_id": "373",
+        "institution_name": "University of Venda",
+        "source_file": "prospectuses/university-of-venda.pdf",
+        "source_excerpt": "Bachelor of Science in",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:2659ad7c05b7",
+        "institutionId": "373"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "Bachelor of Earth Sciences",
+        "faculty_name": "Science",
+        "detail": "Subject requirements for Bachelor of Earth Sciences",
+        "subjects_compulsory": [
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Physical Sciences and an adequate achievement (50"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "373",
+        "institution_name": "University of Venda",
+        "source_file": "prospectuses/university-of-venda.pdf",
+        "source_excerpt": "Bachelor of Earth Sciences",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:2720afd2ec44",
+        "institutionId": "373"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "Bachelor of Social Work (HSBBSW) NSC 35 + an adequate achievement (50 -59%) or better in English 4 Years",
+        "faculty_name": "Humanities",
+        "detail": "Subject requirements for Bachelor of Social Work (HSBBSW) NSC 35 + an adequate achievement (50 -59%) or better in English 4 Years",
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 1,
+            "minimum_nsc_level": null,
+            "notes": "English 1"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 40,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics (40%"
+          },
+          {
+            "subject": "Mathematics (Literacy)",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics Literacy (50%"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "English 4"
+            }
+          ]
+        ],
+        "institution_id": "373",
+        "institution_name": "University of Venda",
+        "source_file": "prospectuses/university-of-venda.pdf",
+        "source_excerpt": "Bachelor of Social Work (HSBBSW) NSC 35 + an adequate achievement (50 -59%) or better in English 4 Years",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:290165ca4aca",
+        "institutionId": "373"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "Diploma in Nursing (SHDPN)",
+        "faculty_name": "Health Sciences",
+        "detail": "Subject requirements for Diploma in Nursing (SHDPN)",
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "English 4"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "373",
+        "institution_name": "University of Venda",
+        "source_file": "prospectuses/university-of-venda.pdf",
+        "source_excerpt": "Diploma in Nursing (SHDPN)",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:4851404dd545",
+        "institutionId": "373"
+      },
+      {
+        "rule_type": "aps_minimum",
+        "programme_name": "BA in Criminal",
+        "faculty_name": "Management",
+        "detail": "Minimum APS 28 for BA in Criminal",
+        "aps_minimum": 28,
+        "institution_id": "373",
+        "institution_name": "University of Venda",
+        "source_file": "prospectuses/university-of-venda.pdf",
+        "source_excerpt": "Bachelor of Arts in Criminal",
+        "extraction_confidence": 0.91,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "aps_minimum",
+        "id": "adm:4ce9870e4886",
+        "institutionId": "373"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BSc in Biokinetics (SHBBSK) NSC 34 + adequate achievement (50-59%) in Life Sciences, En",
+        "faculty_name": "Health Sciences",
+        "detail": "Subject requirements for BSc in Biokinetics (SHBBSK) NSC 34 + adequate achievement (50-59%) in Life Sciences, En",
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "English 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics, and Physical Sciences 4"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Sciences 4"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "373",
+        "institution_name": "University of Venda",
+        "source_file": "prospectuses/university-of-venda.pdf",
+        "source_excerpt": "BSc in Biokinetics (SHBBSK) NSC 34 + adequate achievement (50-59%) in Life Sciences, En",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:51c94131d105",
+        "institutionId": "373"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BA (History) (HSBBAH) NSC 30 + an adequate achievement (50 -59%) or better in History and English 3 Years",
+        "faculty_name": "Humanities",
+        "detail": "Subject requirements for BA (History) (HSBBAH) NSC 30 + an adequate achievement (50 -59%) or better in History and English 3 Years",
+        "subjects_compulsory": [
+          {
+            "subject": "Economics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Economics and English 3"
+          },
+          {
+            "subject": "English",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "English 3"
+          },
+          {
+            "subject": "History",
+            "minimum_percentage": 30,
+            "minimum_nsc_level": null,
+            "notes": "History) (HSBBAH) NSC 30"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "English 4"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "English 3"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 1,
+              "minimum_nsc_level": null,
+              "notes": "English 1"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "English 4"
+            }
+          ]
+        ],
+        "institution_id": "373",
+        "institution_name": "University of Venda",
+        "source_file": "prospectuses/university-of-venda.pdf",
+        "source_excerpt": "Bachelor of Arts (History) (HSBBAH) NSC 30 + an adequate achievement (50 -59%) or better in History and",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:5a31ab00b3d5",
+        "institutionId": "373"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BCom (Human",
+        "faculty_name": "Management",
+        "detail": "Subject requirements for BCom (Human",
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Accounting) MSECMA 4"
+          },
+          {
+            "subject": "Economics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Economics) MSEBCE 4"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "373",
+        "institution_name": "University of Venda",
+        "source_file": "prospectuses/university-of-venda.pdf",
+        "source_excerpt": "Bachelor of Commerce (Human",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:5e65450293ff",
+        "institutionId": "373"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BSc in Soil",
+        "faculty_name": "Science",
+        "detail": "Subject requirements for BSc in Soil",
+        "subjects_compulsory": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Life Sciences 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics, Physical Science and Life Sciences 4"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Science and Life Sciences 4"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "373",
+        "institution_name": "University of Venda",
+        "source_file": "prospectuses/university-of-venda.pdf",
+        "source_excerpt": "Bachelor of Science in Soil",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:66816f38afcd",
+        "institutionId": "373"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "Bachelor of Admin in",
+        "faculty_name": "Management",
+        "detail": "Subject requirements for Bachelor of Admin in",
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 35,
+            "minimum_nsc_level": null,
+            "notes": "Accounting Sciences (MSBCAS) NSC 35"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 4"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "373",
+        "institution_name": "University of Venda",
+        "source_file": "prospectuses/university-of-venda.pdf",
+        "source_excerpt": "Bachelor of Admin in",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:6a125924d8ab",
+        "institutionId": "373"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BA in Criminal",
+        "faculty_name": "Management",
+        "detail": "Subject requirements for BA in Criminal",
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "English 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "English 3"
+            }
+          ]
+        ],
+        "institution_id": "373",
+        "institution_name": "University of Venda",
+        "source_file": "prospectuses/university-of-venda.pdf",
+        "source_excerpt": "Bachelor of Arts in Criminal",
+        "extraction_confidence": 0.91,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:6bb4a634742b",
+        "institutionId": "373"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BCom",
+        "faculty_name": "Management",
+        "detail": "Subject requirements for BCom",
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "English 4"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "373",
+        "institution_name": "University of Venda",
+        "source_file": "prospectuses/university-of-venda.pdf",
+        "source_excerpt": "Bachelor of Commerce",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:71888f8d1fd5",
+        "institutionId": "373"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BSc in Agriculture (Agribusiness",
+        "faculty_name": "Science",
+        "detail": "Subject requirements for BSc in Agriculture (Agribusiness",
+        "subjects_compulsory": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Life Sciences 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics, Physical Science and Life Sciences 4"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Science and Life Sciences 4"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "373",
+        "institution_name": "University of Venda",
+        "source_file": "prospectuses/university-of-venda.pdf",
+        "source_excerpt": "Bachelor of Science in",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:88fa26eba524",
+        "institutionId": "373"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BA in Youth",
+        "faculty_name": "Humanities",
+        "detail": "Subject requirements for BA in Youth",
+        "subjects_compulsory": [
+          {
+            "subject": "Economics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Economics and English 3"
+          },
+          {
+            "subject": "English",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "English 3"
+          },
+          {
+            "subject": "History",
+            "minimum_percentage": 30,
+            "minimum_nsc_level": null,
+            "notes": "History) (HSBBAH) NSC 30"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "English 4"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "English 3"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 1,
+              "minimum_nsc_level": null,
+              "notes": "English 1"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "English 4"
+            }
+          ]
+        ],
+        "institution_id": "373",
+        "institution_name": "University of Venda",
+        "source_file": "prospectuses/university-of-venda.pdf",
+        "source_excerpt": "Bachelor of Arts in Youth",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:89de1fc87c71",
+        "institutionId": "373"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BCom in Cost and Management",
+        "faculty_name": "Management",
+        "detail": "Subject requirements for BCom in Cost and Management",
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Accounting or Mathematics 3"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 3"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "373",
+        "institution_name": "University of Venda",
+        "source_file": "prospectuses/university-of-venda.pdf",
+        "source_excerpt": "Bachelor of Commerce in",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:8b18bd23d859",
+        "institutionId": "373"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BCom in Economics (MSBBCE)",
+        "faculty_name": "Management",
+        "detail": "Subject requirements for BCom in Economics (MSBBCE)",
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Accounting or Mathematics 3"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 3"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "373",
+        "institution_name": "University of Venda",
+        "source_file": "prospectuses/university-of-venda.pdf",
+        "source_excerpt": "Bachelor of Commerce in",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:8ea5afc264fd",
+        "institutionId": "373"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "Bachelor of Psychology (SHBBP) NSC 36 + adequate achievement (50-59%) in English",
+        "faculty_name": "Health Sciences",
+        "detail": "Subject requirements for Bachelor of Psychology (SHBBP) NSC 36 + adequate achievement (50-59%) in English",
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "English 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics, and Physical Sciences 4"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Sciences 4"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "373",
+        "institution_name": "University of Venda",
+        "source_file": "prospectuses/university-of-venda.pdf",
+        "source_excerpt": "Bachelor of Psychology (SHBBP) NSC 36 + adequate achievement (50-59%) in English",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:9308f984b36d",
+        "institutionId": "373"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BCom in Tourism Management (MSBTRM)",
+        "faculty_name": "Management",
+        "detail": "Subject requirements for BCom in Tourism Management (MSBTRM)",
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 35,
+            "minimum_nsc_level": null,
+            "notes": "Accounting Sciences (MSBCAS) NSC 35"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics 3"
+            }
+          ],
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 7,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics or 7"
+            }
+          ],
+          [
+            {
+              "subject": "Accounting",
+              "minimum_percentage": 32,
+              "minimum_nsc_level": null,
+              "notes": "Accounting (MSBBCA) NSC 32"
+            }
+          ],
+          [
+            {
+              "subject": "Accounting",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Accounting or Mathematics 3"
+            }
+          ]
+        ],
+        "institution_id": "373",
+        "institution_name": "University of Venda",
+        "source_file": "prospectuses/university-of-venda.pdf",
+        "source_excerpt": "Bachelor of Commerce in",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:9b39f54ed1a1",
+        "institutionId": "373"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BEd in Foundation Phase",
+        "faculty_name": "Humanities",
+        "detail": "Subject requirements for BEd in Foundation Phase",
+        "subjects_compulsory": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 40,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics (40%"
+          },
+          {
+            "subject": "Mathematics (Literacy)",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics Literacy (50%"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "373",
+        "institution_name": "University of Venda",
+        "source_file": "prospectuses/university-of-venda.pdf",
+        "source_excerpt": "Bachelor of Education in",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:ab30fcf22810",
+        "institutionId": "373"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BCom in Business Information",
+        "faculty_name": "Management",
+        "detail": "Subject requirements for BCom in Business Information",
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 32,
+            "minimum_nsc_level": null,
+            "notes": "Accounting (MSBBCA) NSC 32"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 3"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 75,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics or 75%"
+            }
+          ],
+          [
+            {
+              "subject": "Accounting",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Accounting or Mathematics 3"
+            }
+          ]
+        ],
+        "institution_id": "373",
+        "institution_name": "University of Venda",
+        "source_file": "prospectuses/university-of-venda.pdf",
+        "source_excerpt": "Bachelor of Commerce in",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:ad9d1b219dc8",
+        "institutionId": "373"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BCom (in various disciplines)",
+        "faculty_name": "Management",
+        "detail": "Subject requirements for BCom (in various disciplines)",
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 35,
+            "minimum_nsc_level": null,
+            "notes": "Accounting Sciences (MSBCAS) NSC 35"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Accounting",
+              "minimum_percentage": 32,
+              "minimum_nsc_level": null,
+              "notes": "Accounting (MSBBCA) NSC 32"
+            }
+          ]
+        ],
+        "institution_id": "373",
+        "institution_name": "University of Venda",
+        "source_file": "prospectuses/university-of-venda.pdf",
+        "source_excerpt": "BACHELOR OF COMMERCE (in various disciplines)",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:b0c0fd313cc3",
+        "institutionId": "373"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BCom in Business Management (MSBCBM)",
+        "faculty_name": "Management",
+        "detail": "Subject requirements for BCom in Business Management (MSBCBM)",
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Accounting or Mathematics 3"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 3"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "373",
+        "institution_name": "University of Venda",
+        "source_file": "prospectuses/university-of-venda.pdf",
+        "source_excerpt": "Bachelor of Commerce in",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:ba41bdf9a0a4",
+        "institutionId": "373"
+      },
+      {
+        "rule_type": "aps_minimum",
+        "programme_name": "LLB (LWBBL) NSC 38 + a minimum of 60% in English 4 years",
+        "faculty_name": "Management",
+        "detail": "Minimum APS 28 for LLB (LWBBL) NSC 38 + a minimum of 60% in English 4 years",
+        "aps_minimum": 28,
+        "institution_id": "373",
+        "institution_name": "University of Venda",
+        "source_file": "prospectuses/university-of-venda.pdf",
+        "source_excerpt": "Bachelor of Laws (LWBBL) NSC 38 + a minimum of 60% in English 4 years",
+        "extraction_confidence": 0.91,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "aps_minimum",
+        "id": "adm:ba570cf43cd6",
+        "institutionId": "373"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BA (English",
+        "faculty_name": "Humanities",
+        "detail": "Subject requirements for BA (English",
+        "subjects_compulsory": [
+          {
+            "subject": "Economics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Economics and English 3"
+          },
+          {
+            "subject": "English",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "English 4"
+          },
+          {
+            "subject": "History",
+            "minimum_percentage": 30,
+            "minimum_nsc_level": null,
+            "notes": "History) (HSBBAH) NSC 30"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "English 3"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "English 3"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "English 4"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "English 3"
+            }
+          ]
+        ],
+        "institution_id": "373",
+        "institution_name": "University of Venda",
+        "source_file": "prospectuses/university-of-venda.pdf",
+        "source_excerpt": "Bachelor of Arts (English",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:babdce36e175",
+        "institutionId": "373"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "Bachelor of Urban and Regional Planning (ESBURP)",
+        "faculty_name": "Science",
+        "detail": "Subject requirements for Bachelor of Urban and Regional Planning (ESBURP)",
+        "subjects_compulsory": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Life Sciences, (adequate achievement, 50"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "373",
+        "institution_name": "University of Venda",
+        "source_file": "prospectuses/university-of-venda.pdf",
+        "source_excerpt": "Bachelor of Urban and",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:c36152667261",
+        "institutionId": "373"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "Bachelor of Administration MSEBAD 4 years",
+        "faculty_name": "Management",
+        "detail": "Subject requirements for Bachelor of Administration MSEBAD 4 years",
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Accounting) MSECMA 4 / Accounting) MSEBCA 4"
+          },
+          {
+            "subject": "Economics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Economics) MSEBCE 4"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "373",
+        "institution_name": "University of Venda",
+        "source_file": "prospectuses/university-of-venda.pdf",
+        "source_excerpt": "Bachelor of Administration MSEBAD 4 years",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:c7fba84619ab",
+        "institutionId": "373"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "Bachelor of Theology (HSBBT) NSC 30 + or RPL according to University Policy 3 Years",
+        "faculty_name": "Humanities",
+        "detail": "Subject requirements for Bachelor of Theology (HSBBT) NSC 30 + or RPL according to University Policy 3 Years",
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "English 4"
+          },
+          {
+            "subject": "History",
+            "minimum_percentage": 30,
+            "minimum_nsc_level": null,
+            "notes": "History) (HSBBAH) NSC 30"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "English 3"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 1,
+              "minimum_nsc_level": null,
+              "notes": "English 1"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "English 4"
+            }
+          ]
+        ],
+        "institution_id": "373",
+        "institution_name": "University of Venda",
+        "source_file": "prospectuses/university-of-venda.pdf",
+        "source_excerpt": "Bachelor of Theology (HSBBT) NSC 30 + or RPL according to University Policy 3 Years",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:c947b604325a",
+        "institutionId": "373"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "Bachelor of Earth",
+        "faculty_name": "Science",
+        "detail": "Subject requirements for Bachelor of Earth",
+        "subjects_compulsory": [
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Physical Science (adequate achievement, 50 / Physical Sciences and an adequate achievement (50"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "373",
+        "institution_name": "University of Venda",
+        "source_file": "prospectuses/university-of-venda.pdf",
+        "source_excerpt": "Bachelor of Earth",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:c9c3e04427f8",
+        "institutionId": "373"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BA (HSBBA) NCS 30 + an adequate achievement (50 -59%) or better in English 3 years",
+        "faculty_name": "Humanities",
+        "detail": "Subject requirements for BA (HSBBA) NCS 30 + an adequate achievement (50 -59%) or better in English 3 years",
+        "subjects_compulsory": [
+          {
+            "subject": "Economics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Economics 3"
+          },
+          {
+            "subject": "English",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "English 3"
+          },
+          {
+            "subject": "History",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "History or Economics 3"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "English 4"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "English 4"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "English 3"
+            }
+          ]
+        ],
+        "institution_id": "373",
+        "institution_name": "University of Venda",
+        "source_file": "prospectuses/university-of-venda.pdf",
+        "source_excerpt": "Bachelor of Arts (HSBBA) NCS 30 + an adequate achievement (50 -59%) or better in English 3 years",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:cacf13b49b58",
+        "institutionId": "373"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BA",
+        "faculty_name": "Humanities",
+        "detail": "Subject requirements for BA",
+        "subjects_compulsory": [
+          {
+            "subject": "Economics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Economics 3"
+          },
+          {
+            "subject": "English",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "English 3"
+          },
+          {
+            "subject": "History",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "History or Economics 3"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "English 4"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "English 4"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "English 3"
+            }
+          ]
+        ],
+        "institution_id": "373",
+        "institution_name": "University of Venda",
+        "source_file": "prospectuses/university-of-venda.pdf",
+        "source_excerpt": "Bachelor of Arts",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:cf77e3e1717b",
+        "institutionId": "373"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "LLB (LWBBL) NSC 38 + a minimum of 60% in English 4 years",
+        "faculty_name": "Management",
+        "detail": "Subject requirements for LLB (LWBBL) NSC 38 + a minimum of 60% in English 4 years",
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "English 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "English 3"
+            }
+          ]
+        ],
+        "institution_id": "373",
+        "institution_name": "University of Venda",
+        "source_file": "prospectuses/university-of-venda.pdf",
+        "source_excerpt": "Bachelor of Laws (LWBBL) NSC 38 + a minimum of 60% in English 4 years",
+        "extraction_confidence": 0.91,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:d343134a1e04",
+        "institutionId": "373"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BSc in Nutrition (SHBBSN)",
+        "faculty_name": "Health Sciences",
+        "detail": "Subject requirements for BSc in Nutrition (SHBBSN)",
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "English 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics (50"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 60,
+            "minimum_nsc_level": null,
+            "notes": "Physical Sciences (60"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics, and Physical Sciences 4"
+            }
+          ],
+          [
+            {
+              "subject": "Physical Sciences",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Physical Sciences 4"
+            }
+          ],
+          [
+            {
+              "subject": "Physical Sciences",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "Physical Sciences 4"
+            }
+          ]
+        ],
+        "institution_id": "373",
+        "institution_name": "University of Venda",
+        "source_file": "prospectuses/university-of-venda.pdf",
+        "source_excerpt": "BSc in Nutrition (SHBBSN)",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:db2dc65b6b8d",
+        "institutionId": "373"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BSc in",
+        "faculty_name": "Science",
+        "detail": "Subject requirements for BSc in",
+        "subjects_compulsory": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Life Sciences 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics, Physical Science and Life Sciences 4"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Science and Life Sciences 4"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "373",
+        "institution_name": "University of Venda",
+        "source_file": "prospectuses/university-of-venda.pdf",
+        "source_excerpt": "Bachelor of Science in",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:e0200e80d643",
+        "institutionId": "373"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BA in",
+        "faculty_name": "Humanities",
+        "detail": "Subject requirements for BA in",
+        "subjects_compulsory": [
+          {
+            "subject": "Economics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Economics 3 / Economics and English 3"
+          },
+          {
+            "subject": "English",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "English 4"
+          },
+          {
+            "subject": "History",
+            "minimum_percentage": 30,
+            "minimum_nsc_level": null,
+            "notes": "History) (HSBBAH) NSC 30"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "English 4"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "English 3"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "English 3"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "English 4"
+            }
+          ]
+        ],
+        "institution_id": "373",
+        "institution_name": "University of Venda",
+        "source_file": "prospectuses/university-of-venda.pdf",
+        "source_excerpt": "Bachelor of Arts in",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:e3880a1aa06d",
+        "institutionId": "373"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BA (Media",
+        "faculty_name": "Humanities",
+        "detail": "Subject requirements for BA (Media",
+        "subjects_compulsory": [
+          {
+            "subject": "Economics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Economics 3"
+          },
+          {
+            "subject": "English",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "English 3"
+          },
+          {
+            "subject": "History",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "History or Economics 3"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "English 4"
+            }
+          ]
+        ],
+        "institution_id": "373",
+        "institution_name": "University of Venda",
+        "source_file": "prospectuses/university-of-venda.pdf",
+        "source_excerpt": "Bachelor of Arts (Media",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:e4307dcaed05",
+        "institutionId": "373"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BCom in",
+        "faculty_name": "Management",
+        "detail": "Subject requirements for BCom in",
+        "subjects_compulsory": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 35,
+            "minimum_nsc_level": null,
+            "notes": "Accounting Sciences (MSBCAS) NSC 35"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Mathematics",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Mathematics 3"
+            }
+          ],
+          [
+            {
+              "subject": "Accounting",
+              "minimum_percentage": 32,
+              "minimum_nsc_level": null,
+              "notes": "Accounting (MSBBCA) NSC 32"
+            }
+          ],
+          [
+            {
+              "subject": "Accounting",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Accounting or Mathematics 3"
+            }
+          ]
+        ],
+        "institution_id": "373",
+        "institution_name": "University of Venda",
+        "source_file": "prospectuses/university-of-venda.pdf",
+        "source_excerpt": "Bachelor of Commerce in",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:efaf47119a30",
+        "institutionId": "373"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BSc",
+        "faculty_name": "Science",
+        "detail": "Subject requirements for BSc",
+        "subjects_compulsory": [
+          {
+            "subject": "Life Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Life Sciences 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics, Physical Science and Life Sciences 4"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Science and Life Sciences 4"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "373",
+        "institution_name": "University of Venda",
+        "source_file": "prospectuses/university-of-venda.pdf",
+        "source_excerpt": "Bachelor of Science",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:f491ed382a12",
+        "institutionId": "373"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "Bachelor of Indigenous",
+        "faculty_name": "Humanities",
+        "detail": "Subject requirements for Bachelor of Indigenous",
+        "subjects_compulsory": [
+          {
+            "subject": "Economics",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Economics 3 / Economics and English 3"
+          },
+          {
+            "subject": "English",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "English 4"
+          },
+          {
+            "subject": "History",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "History or Economics 3"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "English 4"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "English 3"
+            }
+          ],
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "English 3"
+            }
+          ]
+        ],
+        "institution_id": "373",
+        "institution_name": "University of Venda",
+        "source_file": "prospectuses/university-of-venda.pdf",
+        "source_excerpt": "Bachelor of Indigenous",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:f5ca16592ab8",
+        "institutionId": "373"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BEd in Senior Phase and Further",
+        "faculty_name": "Humanities",
+        "detail": "Subject requirements for BEd in Senior Phase and Further",
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 1,
+            "minimum_nsc_level": null,
+            "notes": "English 1"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 40,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics (40%"
+          },
+          {
+            "subject": "Mathematics (Literacy)",
+            "minimum_percentage": 50,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics Literacy (50%"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "English",
+              "minimum_percentage": 4,
+              "minimum_nsc_level": null,
+              "notes": "English 4"
+            }
+          ]
+        ],
+        "institution_id": "373",
+        "institution_name": "University of Venda",
+        "source_file": "prospectuses/university-of-venda.pdf",
+        "source_excerpt": "Bachelor of Education in",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:fa3c2cca7c63",
+        "institutionId": "373"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BSc in Sports and Exercise",
+        "faculty_name": "Health Sciences",
+        "detail": "Subject requirements for BSc in Sports and Exercise",
+        "subjects_compulsory": [
+          {
+            "subject": "English",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "English 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Mathematics, and Physical Sciences 4"
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Physical Sciences 4"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "373",
+        "institution_name": "University of Venda",
+        "source_file": "prospectuses/university-of-venda.pdf",
+        "source_excerpt": "BSc in Sports and Exercise",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:fc5932b9cce7",
+        "institutionId": "373"
+      }
+    ]
+  },
+  "sources": [
+    "enriched_universities.json",
+    "generated/v3/institutions.enriched.json",
+    "institutions.json"
+  ],
+  "_stats": {
+    "campuses_count": 0,
+    "faculties_count": 18,
+    "programmes_count": 64,
+    "aps_rules_count": 0,
+    "adm_reqs_count": 46
+  }
+}

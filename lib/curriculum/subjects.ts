@@ -9,40 +9,48 @@ export type { ClassBand };
 
 /** Canonical names stored on `classes.subject` and used across admin, enrollment, and reports. */
 export const TUTORING_SUBJECTS = [
-  "English",
-  "Pure Maths",
-  "Natural Sciences",
-  "Social Sciences",
-  "Technology",
-  "Economic Management Sciences",
-  "Life Orientation",
-  "Creative Arts",
-  "Physical Science",
+  "Agricultural Sciences",
+  "Civil Technology",
+  "Coding & Robotics",
+  "Electrical Technology",
+  "Engineering Graphic Design",
+  "English (H.L & F.A.L)",
   "Life Sciences",
+  "Mathematics",
+  "Mechanical Technology",
+  "Natural Sciences",
+  "Physical Sciences",
+  "Technical Mathematics",
+  "Technical Science",
+  "Technology",
 ] as const;
 
 export type TutoringSubject = (typeof TUTORING_SUBJECTS)[number];
 
 /** Weekly default slot (SAST) per tutoring subject — shared by class seeding and session generation. */
 export const TUTORING_SUBJECT_SCHEDULE_DAY: Record<TutoringSubject, string> = {
-  English: "wednesday",
-  "Pure Maths": "tuesday",
+  "English (H.L & F.A.L)": "wednesday",
+  Mathematics: "tuesday",
   "Natural Sciences": "monday",
-  "Social Sciences": "thursday",
   Technology: "friday",
-  "Economic Management Sciences": "monday",
-  "Life Orientation": "saturday",
-  "Creative Arts": "saturday",
-  "Physical Science": "thursday",
+  "Physical Sciences": "thursday",
   "Life Sciences": "friday",
+  "Agricultural Sciences": "monday",
+  "Civil Technology": "tuesday",
+  "Electrical Technology": "wednesday",
+  "Mechanical Technology": "thursday",
+  "Engineering Graphic Design": "friday",
+  "Technical Mathematics": "saturday",
+  "Technical Science": "saturday",
+  "Coding & Robotics": "monday",
 };
 
 export const TUTORING_SUBJECT_SCHEDULE_TIME: Partial<
   Record<TutoringSubject, string>
 > = {
-  "Economic Management Sciences": "17:00",
-  "Life Orientation": "10:00",
-  "Creative Arts": "11:00",
+  "Coding & Robotics": "17:00",
+  "Technical Mathematics": "10:00",
+  "Technical Science": "11:00",
 };
 
 const SENIOR_PHASE_GRADES = [6, 7, 8, 9] as const;
@@ -50,21 +58,25 @@ const FET_GRADES = [10, 11, 12] as const;
 
 /** Display order for admin class groups and forms. */
 const SENIOR_TUTORING_ORDER: TutoringSubject[] = [
-  "English",
-  "Pure Maths",
+  "English (H.L & F.A.L)",
+  "Mathematics",
   "Natural Sciences",
-  "Social Sciences",
   "Technology",
-  "Economic Management Sciences",
-  "Life Orientation",
-  "Creative Arts",
+  "Coding & Robotics",
 ];
 
 const FET_TUTORING_ORDER: TutoringSubject[] = [
-  "English",
-  "Pure Maths",
-  "Physical Science",
+  "English (H.L & F.A.L)",
+  "Mathematics",
+  "Physical Sciences",
   "Life Sciences",
+  "Agricultural Sciences",
+  "Civil Technology",
+  "Electrical Technology",
+  "Mechanical Technology",
+  "Engineering Graphic Design",
+  "Technical Mathematics",
+  "Technical Science",
 ];
 
 export type SubjectEntry = {
@@ -87,7 +99,7 @@ export const JUNIOR_CONTENT_SUBJECTS: SubjectEntry[] = [
     phase: "junior",
     grades: [6, 7, 8, 9],
     is_offered: true,
-    tutoringSubject: "Pure Maths",
+    tutoringSubject: "Mathematics",
   },
   {
     id: "natural-sciences",
@@ -104,8 +116,7 @@ export const JUNIOR_CONTENT_SUBJECTS: SubjectEntry[] = [
     category: "content",
     phase: "junior",
     grades: [6, 7, 8, 9],
-    is_offered: true,
-    tutoringSubject: "Social Sciences",
+    is_offered: false,
   },
   {
     id: "technology",
@@ -117,13 +128,21 @@ export const JUNIOR_CONTENT_SUBJECTS: SubjectEntry[] = [
     tutoringSubject: "Technology",
   },
   {
+    id: "coding-robotics",
+    name: "Coding & Robotics",
+    category: "content",
+    phase: "junior",
+    grades: [7, 8, 9],
+    is_offered: true,
+    tutoringSubject: "Coding & Robotics",
+  },
+  {
     id: "economic-management-sciences",
     name: "Economic and Management Sciences",
     category: "content",
     phase: "junior",
     grades: [6, 7, 8, 9],
-    is_offered: true,
-    tutoringSubject: "Economic Management Sciences",
+    is_offered: false,
   },
   {
     id: "life-orientation-junior",
@@ -131,8 +150,7 @@ export const JUNIOR_CONTENT_SUBJECTS: SubjectEntry[] = [
     category: "content",
     phase: "junior",
     grades: [6, 7, 8, 9],
-    is_offered: true,
-    tutoringSubject: "Life Orientation",
+    is_offered: false,
   },
   {
     id: "creative-arts",
@@ -140,8 +158,7 @@ export const JUNIOR_CONTENT_SUBJECTS: SubjectEntry[] = [
     category: "content",
     phase: "junior",
     grades: [6, 7, 8, 9],
-    is_offered: true,
-    tutoringSubject: "Creative Arts",
+    is_offered: false,
   },
 ];
 
@@ -173,7 +190,7 @@ function juniorLanguages(): SubjectEntry[] {
         grades: [6, 7, 8, 9],
         is_offered: offered,
         requires_level: level,
-        tutoringSubject: offered ? "English" : null,
+        tutoringSubject: offered ? "English (H.L & F.A.L)" : null,
       });
     }
   }
@@ -198,7 +215,7 @@ export const FET_COMPULSORY_SUBJECTS: SubjectEntry[] = [
     phase: "fet",
     grades: [10, 11, 12],
     is_offered: true,
-    tutoringSubject: "Pure Maths",
+    tutoringSubject: "Mathematics",
   },
   {
     id: "mathematical-literacy",
@@ -224,7 +241,7 @@ function fetLanguages(): SubjectEntry[] {
         grades: [10, 11, 12],
         is_offered: offered,
         requires_level: level,
-        tutoringSubject: offered ? "English" : null,
+        tutoringSubject: offered ? "English (H.L & F.A.L)" : null,
       });
     }
   }
@@ -256,7 +273,8 @@ export const FET_ELECTIVE_SUBJECTS: SubjectEntry[] = [
     category: "elective",
     phase: "fet",
     grades: [10, 11, 12],
-    is_offered: false,
+    is_offered: true,
+    tutoringSubject: "Agricultural Sciences",
   },
   {
     id: "agricultural-technology",
@@ -280,7 +298,8 @@ export const FET_ELECTIVE_SUBJECTS: SubjectEntry[] = [
     category: "elective",
     phase: "fet",
     grades: [10, 11, 12],
-    is_offered: false,
+    is_offered: true,
+    tutoringSubject: "Civil Technology",
   },
   {
     id: "computer-applications-tech",
@@ -336,15 +355,17 @@ export const FET_ELECTIVE_SUBJECTS: SubjectEntry[] = [
     category: "elective",
     phase: "fet",
     grades: [10, 11, 12],
-    is_offered: false,
+    is_offered: true,
+    tutoringSubject: "Electrical Technology",
   },
   {
     id: "engineering-graphics-design",
-    name: "Engineering Graphics and Design",
+    name: "Engineering Graphic Design",
     category: "elective",
     phase: "fet",
     grades: [10, 11, 12],
-    is_offered: false,
+    is_offered: true,
+    tutoringSubject: "Engineering Graphic Design",
   },
   {
     id: "geography",
@@ -393,7 +414,8 @@ export const FET_ELECTIVE_SUBJECTS: SubjectEntry[] = [
     category: "elective",
     phase: "fet",
     grades: [10, 11, 12],
-    is_offered: false,
+    is_offered: true,
+    tutoringSubject: "Mechanical Technology",
   },
   {
     id: "music",
@@ -410,7 +432,7 @@ export const FET_ELECTIVE_SUBJECTS: SubjectEntry[] = [
     phase: "fet",
     grades: [10, 11, 12],
     is_offered: true,
-    tutoringSubject: "Physical Science",
+    tutoringSubject: "Physical Sciences",
   },
   {
     id: "religion-studies",
@@ -434,15 +456,26 @@ export const FET_ELECTIVE_SUBJECTS: SubjectEntry[] = [
     category: "elective",
     phase: "fet",
     grades: [10, 11, 12],
-    is_offered: false,
+    is_offered: true,
+    tutoringSubject: "Technical Mathematics",
   },
   {
     id: "technical-sciences",
-    name: "Technical Sciences",
+    name: "Technical Science",
     category: "elective",
     phase: "fet",
     grades: [10, 11, 12],
-    is_offered: false,
+    is_offered: true,
+    tutoringSubject: "Technical Science",
+  },
+  {
+    id: "coding-robotics-fet",
+    name: "Coding & Robotics",
+    category: "elective",
+    phase: "fet",
+    grades: [10, 11, 12],
+    is_offered: true,
+    tutoringSubject: "Coding & Robotics",
   },
   {
     id: "tourism",
@@ -542,7 +575,7 @@ export function scheduleForTutoringSubject(subject: string): {
   return {
     schedule_day:
       TUTORING_SUBJECT_SCHEDULE_DAY[key] ??
-      TUTORING_SUBJECT_SCHEDULE_DAY["Pure Maths"],
+      TUTORING_SUBJECT_SCHEDULE_DAY["Mathematics"],
     schedule_time: TUTORING_SUBJECT_SCHEDULE_TIME[key] ?? "18:00",
   };
 }

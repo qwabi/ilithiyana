@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "institution_id": "233",
+    "slug": "insurance-sector-education-and-training-authority-inseta",
+    "name": "Insurance Sector Education and Training Authority (Inseta)",
+    "institution_type": "seta",
+    "province": "Gauteng",
+    "city": "Sandton",
+    "official_website": "https://inseta.org.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/233/insurance-sector-education-and-training-authority-inseta",
+    "application_url": "https://applybe.com/inseta/search/results/all/1?keywords=",
+    "prospectus_url": null,
+    "nsfas_supported": null,
+    "distance_learning": null,
+    "accreditation": {
+      "dh et": null,
+      "saqa": null
+    },
+    "qualification_types": null
+  },
+  "profile": {},
+  "contact": {
+    "phone_numbers": [
+      "011 381 8900"
+    ],
+    "physical_address": "18 Fricker Road, Illovo, Sandton, 2196",
+    "postal_address": "PO Box 32035, Braamfontein, 2017",
+    "socials": {
+      "facebook": "https://www.facebook.com/",
+      "instagram": "https://www.instagram.com/",
+      "linkedin": "https://www.linkedin.com/in/",
+      "x": "https://twitter.com/",
+      "youtube": ""
+    }
+  },
+  "campuses": [],
+  "faculties": [],
+  "programmes": [],
+  "admission": {
+    "aps_name": null,
+    "aps_calculation_notes": null,
+    "minimum_aps_for_bachelors": null,
+    "minimum_aps_for_diplomas": null,
+    "minimum_entry_note": null,
+    "life_orientation_cap": null,
+    "aps_rules": [],
+    "programme_requirements": []
+  },
+  "sources": [
+    "institutions.json"
+  ],
+  "_stats": {
+    "campuses_count": 0,
+    "faculties_count": 0,
+    "programmes_count": 0,
+    "aps_rules_count": 0,
+    "adm_reqs_count": 0
+  }
+}

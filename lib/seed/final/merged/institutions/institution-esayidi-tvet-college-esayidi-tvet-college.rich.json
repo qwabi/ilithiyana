@@ -1,0 +1,60 @@
+{
+  "institution": {
+    "id": "institution:esayidi-tvet-college",
+    "slug": "esayidi-tvet-college",
+    "institution_id_raw": "308",
+    "name": "Esayidi TVET College",
+    "institution_type": "tvet-college",
+    "city": "Port Shepstone",
+    "province": "",
+    "official_website": "https://esayiditvet.co.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/308/esayidi-tvet-college",
+    "source_paths": [
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "sector": "higher education",
+      "city": "Port Shepstone",
+      "physical_address": "5 Nelson Mandela Drive, Port Shepstone, 4240",
+      "postal_address": "Private Bag 814, Port Shepstone, 4240",
+      "contact_phone_numbers": [
+        "039 685 5482/3"
+      ],
+      "socials": {
+        "facebook": "https://web.facebook.com/EsayidiTVETCollege?_rdc=1&_rdr",
+        "instagram": "https://www.instagram.com/esayiditvetcollege/?hl=en",
+        "linkedin": "https://www.linkedin.com/in/esayidi-tvet-college-123a38361/",
+        "x": "",
+        "youtube": "https://www.youtube.com/@ESAYIDITVETCOLLEGE"
+      },
+      "accreditation": {
+        "dh et": "Accredited",
+        "saqa": null
+      },
+      "sources": [
+        "https://nationalgovernment.co.za/units/view/308/esayidi-tvet-college",
+        "https://esayiditvet.co.za/"
+      ],
+      "qualification_types": [
+        "NC(V)",
+        "Nated (Report 191)",
+        "Skills Programmes",
+        "Apprenticeships"
+      ],
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

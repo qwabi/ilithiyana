@@ -1,0 +1,86 @@
+{
+  "institution": {
+    "institution_id": "ikhala",
+    "name": "Ikhala TVET College",
+    "institution_type": "tvet-college",
+    "city": null,
+    "province": null,
+    "official_website": null,
+    "detail_source": null,
+    "source_paths": [
+      "workik/batch1/online/ikhala.json",
+      "workik/batch1/online/ikhala2.json"
+    ],
+    "profile": {}
+  },
+  "campuses": [
+    {
+      "id": "camp:eb607df08a774ab7",
+      "institution_id": "ikhala",
+      "name": "Ezibeleni",
+      "city": "Queenstown",
+      "province": "Eastern Cape",
+      "is_main": true,
+      "source_paths": [
+        "workik/batch1/online/ikhala.json",
+        "workik/batch1/online/ikhala2.json"
+      ]
+    },
+    {
+      "id": "camp:961a72448807ecb4",
+      "institution_id": "ikhala",
+      "name": "Aliwal North",
+      "city": "Aliwal North",
+      "province": "Eastern Cape",
+      "is_main": false,
+      "source_paths": [
+        "workik/batch1/online/ikhala.json",
+        "workik/batch1/online/ikhala2.json"
+      ]
+    },
+    {
+      "id": "camp:848398abbbc1951f",
+      "institution_id": "ikhala",
+      "name": "Komani",
+      "city": "Queenstown",
+      "province": "Eastern Cape",
+      "is_main": false,
+      "source_paths": [
+        "workik/batch1/online/ikhala2.json"
+      ]
+    },
+    {
+      "id": "camp:4b1664430f305d72",
+      "institution_id": "ikhala",
+      "name": "Queen Nonesi",
+      "city": "Lady Frere",
+      "province": "Eastern Cape",
+      "is_main": false,
+      "source_paths": [
+        "workik/batch1/online/ikhala2.json"
+      ]
+    },
+    {
+      "id": "camp:8d7ee969eef28361",
+      "institution_id": "ikhala",
+      "name": "Sterkspruit",
+      "city": "Sterkspruit",
+      "province": "Eastern Cape",
+      "is_main": false,
+      "source_paths": [
+        "workik/batch1/online/ikhala2.json"
+      ]
+    }
+  ],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 5,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

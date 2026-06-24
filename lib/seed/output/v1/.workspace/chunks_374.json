@@ -1,0 +1,465 @@
+{
+  "chunks": [
+    {
+      "type": "other",
+      "text": "UNDERGRADUATE\nPROGRAMMES\nVISION\nA leading comprehensive African university that thrives on quality and fosters collaborative and\ninnovative cultures with its rural and urban campuses.\nMISSION\nUNIZULU seeks to:\n• produce globally competitive graduates relevant to the development needs of the country, and;\n• engage with society for the betterment of all.\nVALUES\nValues 2022-2027 serve as a foundation for a more equitable and inclusive UNIZULU community.\nThe values are:\n• Discovery and pursuit of excellence through teaching, learning, research and innovation\n• Community of Belonging. We embrace all forms of diversity, social inclusion and elimination of\nsocial injustices.\n• T eamwork. Working together to accomplish a common goal.\n• Accountability: Subscribing to integrity and transparency\nADMISSION TO UNIZULU\nThe /f_irst step when applying for admission at the University is deciding on the quali/f_ications\nyou wish to obtain. Upon acceptance, depending on the chosen course, you are then admitted\nto one of the institution’s four faculties.",
+      "institutionId": "374",
+      "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "start_char": 0,
+      "end_char": 1050
+    },
+    {
+      "type": "admission",
+      "text": "ENTRY REQUIREMENTS\nHOW TO CALCULATE YOUR ADMISSION POINTS EXAMPLE OF HOW TO CALCULATE POINTS",
+      "institutionId": "374",
+      "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "start_char": 1051,
+      "end_char": 1143
+    },
+    {
+      "type": "faculty",
+      "text": "Your application will only be considered for admission if you qualify and meet the faculty",
+      "institutionId": "374",
+      "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "start_char": 1144,
+      "end_char": 1234
+    },
+    {
+      "type": "admission",
+      "text": "requirements. NOTE: Meeting the minimum admission requirements only means that you are\neligible for selection, NOT that you will necessarily be accepted.\nNSC rating\nlevel of\nperformance\nPercentage\n7 80% - 100%\n6 70% - 79%\n5 60% - 69%\n4 50% - 59%\n3 40% - 49%\n2 30% - 39%\n1 10% - 29%\nSenior Certi/f_icate\nSymbol\nA\nHigher\nGrade\nStandard\nGrade\n8 6\nB 7 5\nC 6 4\nD 5 3\nE 4 2\nF 3 1\nExample\nSubject\nEnglish Home Language\nIsiZulu /f_irst/IsiXhosa/Afrikaans/\nAdditional Language\nMathematics\nLife Science\nPhysical Sciences\nLife Orientation\nPercentage\n75%\n90%\n80%\n62%\n72%\n68%\nPoints\nT otal 32\nHOW DO I APPL Y?\n• Prospective students must apply online for admission to an undergraduate quali/f_ication via the\nCentral Applications Of/f_ice (CAO) on www.cao.ac.za\n• The cycle for 2026 applications opens on 1 March 2025\n• The CAO application fee is R250\nREMEMBER TO HAVE THE FOLLOWING DOCUMENTS\n• Certi/f_ied National Senior Certi/f_icate or Statement of Results or,\n• Certi/f_ied Senior Certi/f_icate\n• Copy of ID\nADDITIONAL DOCUMENTATION FOR INTERNATIONAL PROSPECTIVE STUDENTS:\n• Original passport /certi/f_ied copy\n• Study permit\n• Medical aid/health insurance cover (Momentum or Compcare)\n• Certi/f_icate of conditional exemption (Undergraduate students) If not SA matric\n• Certi/f_ied Final School Results/HESA Certi/f_icates\nWHY STUDY WITH UNIZULU?\n• It is the only comprehensive university north of the uThukela River\n• It aspires to be a leading comprehensive university providing quality education\n• It has the best Science Centre in Africa\n• It undertakes research relevant to local communities\n• It recognises academic excellence through scholarships\n• It boasts producing graduates who have gone on to occupy key positions both in public and\nprivate sectors\nPlease contact CAO on 031 268 4444 or visit www.cao.ac.za or consult faculties.\nFOR FURTHER INFORMATION REGARDING THE APPLICATION",
+      "institutionId": "374",
+      "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "start_char": 1235,
+      "end_char": 3119
+    },
+    {
+      "type": "faculty",
+      "text": "FACULTY OF HUMANITIES AND SOCIAL SCIENCES\nTEL: 035 902 6087/6366\nClosing date: 31 October 2025",
+      "institutionId": "374",
+      "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "start_char": 3120,
+      "end_char": 3214
+    },
+    {
+      "type": "admission",
+      "text": "Programme Name Years Min Points Min Admission Requirements\nB A Environmental Planning & Development 3 yrs 28 NSC Deg with Engl 4 and Geog 4 and four 20 credit subjects\nB A in Intercultural Communication 3 yrs 26 NSC Deg with Engl 4 and five 20 credit subjects",
+      "institutionId": "374",
+      "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "start_char": 3215,
+      "end_char": 3474
+    },
+    {
+      "type": "programme",
+      "text": "Diploma in Media Studies 3 yrs 24 NSC Dip with Engl 4 and five 20 credit subjects\nB A Correctional Studies 3 yrs 28 NSC Deg with Engl 5 and five 20 credit subjects\nB A Industrial Sociology 3 yrs 26 NSC Deg with Engl 4 and five 20 credit subjects\nB A (Anthropology & History) 3 yrs 26 NSC Deg with Engl 4 and five 20 credit subjects\nB A (Geography & History) 3 yrs 26 NSC Deg with Engl 4 and five 20 credit subjects\nB A (Geography & Tourism) 3 yrs 26 NSC Deg with Engl 4 and five 20 credit subjects\nB A (History & IsiZulu) 3 yrs 26 NSC Deg with Engl 4 and five 20 credit subjects\nB A (Linguistics & English) 3 yrs 26 NSC Deg with Engl 4 and five 20 credit subjects\nB A (Philosophy & Psychology) 3 yrs 26 NSC Deg with Engl 4 and five 20 credit subjects\nBA in Psychology 3 yrs 28 NSC Deg with Engl 4 and Social Sci (Geography/History) 4 and four\n20 credit subjects\nBA in Drama, Theatre and Performance 3 yrs 26 NSC Deg with Engl 4 and Dramatic Art or Visual Art 4 and\nFour 20 credit subjects",
+      "institutionId": "374",
+      "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "start_char": 3475,
+      "end_char": 4463
+    },
+    {
+      "type": "programme",
+      "text": "Diploma in Public Relations Management 3 yrs 24 NSC Dip with Engl 4 and five 20 credit subjects\nB A Development Studies 3 yrs 26 NSC Deg with Engl 4 and five 20 credit subjects\nB A Information Science 3 yrs 26 NSC Deg with Engl 4 and five 20 credit subjects\nB Library & Information Science 4 yrs 26 NSC Deg with Engl 4 and five 20 credit subjects\nB Social Work 4 yrs 28 NSC Deg with Engl HL 4/FAL 5 and five 20 credit subjects\nB A Sociology 3 yrs 26 NSC Deg with Engl 4 and five 20 credit subjects",
+      "institutionId": "374",
+      "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "start_char": 4464,
+      "end_char": 4961
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Social Sciences in Political and\nInternational Studies\n3 yrs 26 NSC Deg with Engl 4 and Geog 4 and Hist 4 and Economics/Math Literacy 4\nand two 20 credit subjects\nB Tourism Studies 3 yrs 26 NSC Deg with Engl 4 and Tourism or Geog 4 and four 20 credit subjects",
+      "institutionId": "374",
+      "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "start_char": 4962,
+      "end_char": 5233
+    },
+    {
+      "type": "programme",
+      "text": "Diploma in Tourism Management 3 yrs 24 NSC Dip with Engl 4 and (any five) subjects: Maths/Maths Lit, Tourism and/\nor Geog and/or Hosp Stud, Bus Stud and/or Acc at min level of 4",
+      "institutionId": "374",
+      "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "start_char": 5234,
+      "end_char": 5411
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Education in Foundation Phase\nTeaching\n4 yrs 26 NSC Deg with IsiZulu HL 4 and Engl FAL 4 and Maths 3/Maths Lit 4",
+      "institutionId": "374",
+      "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "start_char": 5545,
+      "end_char": 5669
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Education in Intermediate Phase\nTeaching: Languages and Humanities\n4 yrs 26 NSC Deg with IsiZulu 4 and Engl 4 and Geog and Hist 4",
+      "institutionId": "374",
+      "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "start_char": 5670,
+      "end_char": 5811
+    },
+    {
+      "type": "faculty",
+      "text": "FACULTY OF HUMANITIES AND SOCIAL SCIENCES\nTEL: 035 902 6087/6366\nClosing date: 31 October 2025",
+      "institutionId": "374",
+      "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "start_char": 5812,
+      "end_char": 5906
+    },
+    {
+      "type": "admission",
+      "text": "Programme Name Years Min Points Min Admission Requirements\nB A Environmental Planning & Development 3 yrs 28 NSC Deg with Engl 4 and Geog 4 and four 20 credit subjects\nB A in Intercultural Communication 3 yrs 26 NSC Deg with Engl 4 and five 20 credit subjects",
+      "institutionId": "374",
+      "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "start_char": 5907,
+      "end_char": 6166
+    },
+    {
+      "type": "programme",
+      "text": "Diploma in Media Studies 3 yrs 24 NSC Dip with Engl 4 and five 20 credit subjects\nB A Correctional Studies 3 yrs 28 NSC Deg with Engl 5 and five 20 credit subjects\nB A Industrial Sociology 3 yrs 26 NSC Deg with Engl 4 and five 20 credit subjects\nB A (Anthropology & History) 3 yrs 26 NSC Deg with Engl 4 and five 20 credit subjects\nB A (Geography & History) 3 yrs 26 NSC Deg with Engl 4 and five 20 credit subjects\nB A (Geography & Tourism) 3 yrs 26 NSC Deg with Engl 4 and five 20 credit subjects\nB A (History & IsiZulu) 3 yrs 26 NSC Deg with Engl 4 and five 20 credit subjects\nB A (Linguistics & English) 3 yrs 26 NSC Deg with Engl 4 and five 20 credit subjects\nB A (Philosophy & Psychology) 3 yrs 26 NSC Deg with Engl 4 and five 20 credit subjects\nBA in Psychology 3 yrs 28 NSC Deg with Engl 4 and Social Sci (Geography/History) 4 and four\n20 credit subjects\nBA in Drama, Theatre and Performance 3 yrs 26 NSC Deg with Engl 4 and Dramatic Art or Visual Art 4 and\nFour 20 credit subjects",
+      "institutionId": "374",
+      "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "start_char": 6167,
+      "end_char": 7155
+    },
+    {
+      "type": "programme",
+      "text": "Diploma in Public Relations Management 3 yrs 24 NSC Dip with Engl 4 and five 20 credit subjects\nB A Development Studies 3 yrs 26 NSC Deg with Engl 4 and five 20 credit subjects\nB A Information Science 3 yrs 26 NSC Deg with Engl 4 and five 20 credit subjects\nB Library & Information Science 4 yrs 26 NSC Deg with Engl 4 and five 20 credit subjects\nB Social Work 4 yrs 28 NSC Deg with Engl HL 4/FAL 5 and five 20 credit subjects\nB A Sociology 3 yrs 26 NSC Deg with Engl 4 and five 20 credit subjects",
+      "institutionId": "374",
+      "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "start_char": 7156,
+      "end_char": 7653
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Social Sciences in Political and\nInternational Studies\n3 yrs 26 NSC Deg with Engl 4 and Geog 4 and Hist 4 and Economics/Math Literacy 4\nand two 20 credit subjects\nB Tourism Studies 3 yrs 26 NSC Deg with Engl 4 and Tourism or Geog 4 and four 20 credit subjects",
+      "institutionId": "374",
+      "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "start_char": 7654,
+      "end_char": 7925
+    },
+    {
+      "type": "programme",
+      "text": "Diploma in Tourism Management 3 yrs 24 NSC Dip with Engl 4 and (any five) subjects: Maths/Maths Lit, Tourism and/\nor Geog and/or Hosp Stud, Bus Stud and/or Acc at min level of 4",
+      "institutionId": "374",
+      "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "start_char": 7926,
+      "end_char": 8103
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Education in Foundation Phase\nTeaching\n4 yrs 26 NSC Deg with IsiZulu HL 4 and Engl FAL 4 and Maths 3/Maths Lit 4",
+      "institutionId": "374",
+      "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "start_char": 8237,
+      "end_char": 8361
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Education in Intermediate Phase\nTeaching: Languages and Humanities\n4 yrs 26 NSC Deg with IsiZulu 4 and Engl 4 and Geog and Hist 4",
+      "institutionId": "374",
+      "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "start_char": 8362,
+      "end_char": 8503
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Education in Intermediate Phase\nTeaching: Languages, Maths, Natural Science\n& Technology\n4 yrs 26 NSC Deg with IsiZulu FAL/HL 4 and Engl HL/FAL 4 and Maths 4 and Phys\nSci 3 or Maths 3 and Phys Sci 4",
+      "institutionId": "374",
+      "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "start_char": 8504,
+      "end_char": 8714
+    },
+    {
+      "type": "faculty",
+      "text": "FACULTY OF COMMERCE, ADMINISTRATION AND LAW\nTEL: 035 902 6539/6362\nClosing date: 31 October 2025",
+      "institutionId": "374",
+      "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "start_char": 8715,
+      "end_char": 8811
+    },
+    {
+      "type": "admission",
+      "text": "Programme Name Years Min Points Min Admission Requirements\nB Admin: Public Administration and Business\nManagement\n3 yrs 28 NSC Deg Endorsement with Engl 4 and Maths 3/Maths Lit 4\nB Admin: Public Administration and\nEconomics\n3 yrs 28 NSC Deg Endorsement with Engl 4 and Maths 3/Maths Lit 4\nB Admin: Public Administration and Human\nResources\n3 yrs 28 NSC Deg Endorsement with Engl 4 and Maths 3/Maths Lit 4\nB Admin: Public Administration and Political\nScience\n3 yrs 28 NSC Deg Endorsement with Engl 4 and Maths 3/Maths Lit 4\nB Com (Accounting and Economics) 3 yrs 28 NSC Deg Endorsement with Engl 4 and Maths 3/Maths Lit 6\nB Com (Accounting and Economics) 4 years 4 yrs 26 NSC Deg Endorsement with Engl 3 and Maths 3/Maths Lit 4\nB Com (Accounting) 4 years 4 yrs 26 NSC Deg Endorsement with Engl 3 and Maths 3/Maths Lit 4\nB Com (Banking and Business Management) 3 yrs 28 NSC Deg Endorsement with Engl 4 and Maths 3/Maths Lit 6\nB Com (Banking and Business Management)\n4 years\n4 yrs 26 NSC Deg Endorsement with Engl 3 and Maths 3/Maths Lit 4\nB Com (Business Management and\nAccounting)\n3 yrs 28 NSC Deg Endorsement with Engl 4 and Maths 3/Maths Lit 6\nB Com (Business Management and\nAccounting) 4 years\n4 yrs 26 NSC Deg Endorsement with Engl 3 and Maths 3/Maths Lit 4\nB Com (Business Management and\nEconomics)\n3 yrs 28 NSC Deg Endorsement with Engl 4 and Maths 3/Maths Lit 6\nB Com (Business Management and\nEconomics) 4 years\n4 yrs 26 NSC Deg Endorsement with Engl 3 and Maths 3/Maths Lit 4\nB Com (Business Management and Human\nResource Management) 4 years\n4 yrs 26 NSC Deg Endorsement with Engl 3 and Maths 3/Maths Lit 4\nB Com (Economics and Banking) 3 yrs 28 NSC Deg Endorsement with Engl 4 and Maths 3/Maths Lit 6\nB Com (Economics and Banking) 4 years 4 yrs 26 NSC Deg Endorsement with Engl 3 and Maths 3/Maths Lit 4\nB Com (Economics and Human Resource\nManagement)\n3 yrs 28 NSC Deg Endorsement with Engl 4 and Maths 3/Maths Lit 6\nB Com (Economics and Human Resources\nManagement) 4 years\n4 yrs 26 NSC Deg Endorsement with Engl 3 and Maths 3/Maths Lit 4\nB Com (Human Resource Management and\nBusiness Management)\n3 yrs 28 NSC Deg Endorsement with Engl 4 and Maths 3/Maths Lit 6\nB Com (Management Information Systems) 3 yrs 28 NSC Deg Endorsement with Engl and Maths 4\nB Com (Management Information Systems)\n4 years\n4 yrs 26 NSC Deg Endorsement with Engl 3 and Maths 3/Maths Lit 4\nB Com Accounting Science 4 yrs 28 NSC Deg Endorsement with Engl and Maths 4\nB Com in Accounting 3 yrs 28 NSC Deg Endorsement with Engl and Maths 4\nB Laws 4 yrs 30 NSC Deg Endorsement with Engl 4 and Maths 3/Maths Lit 4\nB A in Psychology\nB A in Drama, Theatre and Performance",
+      "institutionId": "374",
+      "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "start_char": 8812,
+      "end_char": 11458
+    },
+    {
+      "type": "faculty",
+      "text": "FACULTY OF HUMANITIES AND SOCIAL SCIENCES\nTEL: 035 902 6087/6366\nClosing date: 31 October 2025",
+      "institutionId": "374",
+      "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "start_char": 11459,
+      "end_char": 11553
+    },
+    {
+      "type": "admission",
+      "text": "Programme Name Years Min Points Min Admission Requirements\nB A Environmental Planning & Development 3 yrs 28 NSC Deg with Engl 4 and Geog 4 and four 20 credit subjects\nB A in Intercultural Communication 3 yrs 26 NSC Deg with Engl 4 and five 20 credit subjects",
+      "institutionId": "374",
+      "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "start_char": 11554,
+      "end_char": 11813
+    },
+    {
+      "type": "programme",
+      "text": "Diploma in Media Studies 3 yrs 24 NSC Dip with Engl 4 and five 20 credit subjects\nB A Correctional Studies 3 yrs 28 NSC Deg with Engl 5 and five 20 credit subjects\nB A Industrial Sociology 3 yrs 26 NSC Deg with Engl 4 and five 20 credit subjects\nB A (Anthropology & History) 3 yrs 26 NSC Deg with Engl 4 and five 20 credit subjects\nB A (Geography & History) 3 yrs 26 NSC Deg with Engl 4 and five 20 credit subjects\nB A (Geography & Tourism) 3 yrs 26 NSC Deg with Engl 4 and five 20 credit subjects\nB A (History & IsiZulu) 3 yrs 26 NSC Deg with Engl 4 and five 20 credit subjects\nB A (Linguistics & English) 3 yrs 26 NSC Deg with Engl 4 and five 20 credit subjects\nB A (Philosophy & Psychology) 3 yrs 26 NSC Deg with Engl 4 and five 20 credit subjects\nBA in Psychology 3 yrs 28 NSC Deg with Engl 4 and Social Sci (Geography/History) 4 and four\n20 credit subjects\nBA in Drama, Theatre and Performance 3 yrs 26 NSC Deg with Engl 4 and Dramatic Art or Visual Art 4 and\nFour 20 credit subjects",
+      "institutionId": "374",
+      "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "start_char": 11814,
+      "end_char": 12802
+    },
+    {
+      "type": "programme",
+      "text": "Diploma in Public Relations Management 3 yrs 24 NSC Dip with Engl 4 and five 20 credit subjects\nB A Development Studies 3 yrs 26 NSC Deg with Engl 4 and five 20 credit subjects\nB A Information Science 3 yrs 26 NSC Deg with Engl 4 and five 20 credit subjects\nB Library & Information Science 4 yrs 26 NSC Deg with Engl 4 and five 20 credit subjects\nB Social Work 4 yrs 28 NSC Deg with Engl HL 4/FAL 5 and five 20 credit subjects\nB A Sociology 3 yrs 26 NSC Deg with Engl 4 and five 20 credit subjects",
+      "institutionId": "374",
+      "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "start_char": 12803,
+      "end_char": 13300
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Social Sciences in Political and\nInternational Studies\n3 yrs 26 NSC Deg with Engl 4 and Geog 4 and Hist 4 and Economics/Math Literacy 4\nand two 20 credit subjects\nB Tourism Studies 3 yrs 26 NSC Deg with Engl 4 and Tourism or Geog 4 and four 20 credit subjects",
+      "institutionId": "374",
+      "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "start_char": 13301,
+      "end_char": 13572
+    },
+    {
+      "type": "programme",
+      "text": "Diploma in Tourism Management 3 yrs 24 NSC Dip with Engl 4 and (any five) subjects: Maths/Maths Lit, Tourism and/\nor Geog and/or Hosp Stud, Bus Stud and/or Acc at min level of 4",
+      "institutionId": "374",
+      "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "start_char": 13573,
+      "end_char": 13750
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Education in Foundation Phase\nTeaching\n4 yrs 26 NSC Deg with IsiZulu HL 4 and Engl FAL 4 and Maths 3/Maths Lit 4",
+      "institutionId": "374",
+      "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "start_char": 13884,
+      "end_char": 14008
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Education in Intermediate Phase\nTeaching: Languages and Humanities\n4 yrs 26 NSC Deg with IsiZulu 4 and Engl 4 and Geog and Hist 4",
+      "institutionId": "374",
+      "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "start_char": 14009,
+      "end_char": 14150
+    },
+    {
+      "type": "faculty",
+      "text": "FACULTY OF HUMANITIES AND SOCIAL SCIENCES\nTEL: 035 902 6087/6366\nClosing date: 31 October 2025",
+      "institutionId": "374",
+      "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "start_char": 14151,
+      "end_char": 14245
+    },
+    {
+      "type": "admission",
+      "text": "Programme Name Years Min Points Min Admission Requirements\nB A Environmental Planning & Development 3 yrs 28 NSC Deg with Engl 4 and Geog 4 and four 20 credit subjects\nB A in Intercultural Communication 3 yrs 26 NSC Deg with Engl 4 and five 20 credit subjects",
+      "institutionId": "374",
+      "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "start_char": 14246,
+      "end_char": 14505
+    },
+    {
+      "type": "programme",
+      "text": "Diploma in Media Studies 3 yrs 24 NSC Dip with Engl 4 and five 20 credit subjects\nB A Correctional Studies 3 yrs 28 NSC Deg with Engl 5 and five 20 credit subjects\nB A Industrial Sociology 3 yrs 26 NSC Deg with Engl 4 and five 20 credit subjects\nB A (Anthropology & History) 3 yrs 26 NSC Deg with Engl 4 and five 20 credit subjects\nB A (Geography & History) 3 yrs 26 NSC Deg with Engl 4 and five 20 credit subjects\nB A (Geography & Tourism) 3 yrs 26 NSC Deg with Engl 4 and five 20 credit subjects\nB A (History & IsiZulu) 3 yrs 26 NSC Deg with Engl 4 and five 20 credit subjects\nB A (Linguistics & English) 3 yrs 26 NSC Deg with Engl 4 and five 20 credit subjects\nB A (Philosophy & Psychology) 3 yrs 26 NSC Deg with Engl 4 and five 20 credit subjects\nBA in Psychology 3 yrs 28 NSC Deg with Engl 4 and Social Sci (Geography/History) 4 and four\n20 credit subjects\nBA in Drama, Theatre and Performance 3 yrs 26 NSC Deg with Engl 4 and Dramatic Art or Visual Art 4 and\nFour 20 credit subjects",
+      "institutionId": "374",
+      "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "start_char": 14506,
+      "end_char": 15494
+    },
+    {
+      "type": "programme",
+      "text": "Diploma in Public Relations Management 3 yrs 24 NSC Dip with Engl 4 and five 20 credit subjects\nB A Development Studies 3 yrs 26 NSC Deg with Engl 4 and five 20 credit subjects\nB A Information Science 3 yrs 26 NSC Deg with Engl 4 and five 20 credit subjects\nB Library & Information Science 4 yrs 26 NSC Deg with Engl 4 and five 20 credit subjects\nB Social Work 4 yrs 28 NSC Deg with Engl HL 4/FAL 5 and five 20 credit subjects\nB A Sociology 3 yrs 26 NSC Deg with Engl 4 and five 20 credit subjects",
+      "institutionId": "374",
+      "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "start_char": 15495,
+      "end_char": 15992
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Social Sciences in Political and\nInternational Studies\n3 yrs 26 NSC Deg with Engl 4 and Geog 4 and Hist 4 and Economics/Math Literacy 4\nand two 20 credit subjects\nB Tourism Studies 3 yrs 26 NSC Deg with Engl 4 and Tourism or Geog 4 and four 20 credit subjects",
+      "institutionId": "374",
+      "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "start_char": 15993,
+      "end_char": 16264
+    },
+    {
+      "type": "programme",
+      "text": "Diploma in Tourism Management 3 yrs 24 NSC Dip with Engl 4 and (any five) subjects: Maths/Maths Lit, Tourism and/\nor Geog and/or Hosp Stud, Bus Stud and/or Acc at min level of 4",
+      "institutionId": "374",
+      "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "start_char": 16265,
+      "end_char": 16442
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Education in Foundation Phase\nTeaching\n4 yrs 26 NSC Deg with IsiZulu HL 4 and Engl FAL 4 and Maths 3/Maths Lit 4",
+      "institutionId": "374",
+      "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "start_char": 16576,
+      "end_char": 16700
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Education in Intermediate Phase\nTeaching: Languages and Humanities\n4 yrs 26 NSC Deg with IsiZulu 4 and Engl 4 and Geog and Hist 4",
+      "institutionId": "374",
+      "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "start_char": 16701,
+      "end_char": 16842
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Education in Intermediate Phase\nTeaching: Languages, Maths, Natural Science\n& Technology\n4 yrs 26 NSC Deg with IsiZulu FAL/HL 4 and Engl HL/FAL 4 and Maths 4 and Phys\nSci 3 or Maths 3 and Phys Sci 4",
+      "institutionId": "374",
+      "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "start_char": 16843,
+      "end_char": 17053
+    },
+    {
+      "type": "faculty",
+      "text": "FACULTY OF COMMERCE, ADMINISTRATION AND LAW\nTEL: 035 902 6539/6362\nClosing date: 31 October 2025",
+      "institutionId": "374",
+      "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "start_char": 17054,
+      "end_char": 17150
+    },
+    {
+      "type": "admission",
+      "text": "Programme Name Years Min Points Min Admission Requirements\nB Admin: Public Administration and Business\nManagement\n3 yrs 28 NSC Deg Endorsement with Engl 4 and Maths 3/Maths Lit 4\nB Admin: Public Administration and\nEconomics\n3 yrs 28 NSC Deg Endorsement with Engl 4 and Maths 3/Maths Lit 4\nB Admin: Public Administration and Human\nResources\n3 yrs 28 NSC Deg Endorsement with Engl 4 and Maths 3/Maths Lit 4\nB Admin: Public Administration and Political\nScience\n3 yrs 28 NSC Deg Endorsement with Engl 4 and Maths 3/Maths Lit 4\nB Com (Accounting and Economics) 3 yrs 28 NSC Deg Endorsement with Engl 4 and Maths 3/Maths Lit 6\nB Com (Accounting and Economics) 4 years 4 yrs 26 NSC Deg Endorsement with Engl 3 and Maths 3/Maths Lit 4\nB Com (Accounting) 4 years 4 yrs 26 NSC Deg Endorsement with Engl 3 and Maths 3/Maths Lit 4\nB Com (Banking and Business Management) 3 yrs 28 NSC Deg Endorsement with Engl 4 and Maths 3/Maths Lit 6\nB Com (Banking and Business Management)\n4 years\n4 yrs 26 NSC Deg Endorsement with Engl 3 and Maths 3/Maths Lit 4\nB Com (Business Management and\nAccounting)\n3 yrs 28 NSC Deg Endorsement with Engl 4 and Maths 3/Maths Lit 6\nB Com (Business Management and\nAccounting) 4 years\n4 yrs 26 NSC Deg Endorsement with Engl 3 and Maths 3/Maths Lit 4\nB Com (Business Management and\nEconomics)\n3 yrs 28 NSC Deg Endorsement with Engl 4 and Maths 3/Maths Lit 6\nB Com (Business Management and\nEconomics) 4 years\n4 yrs 26 NSC Deg Endorsement with Engl 3 and Maths 3/Maths Lit 4\nB Com (Business Management and Human\nResource Management) 4 years\n4 yrs 26 NSC Deg Endorsement with Engl 3 and Maths 3/Maths Lit 4\nB Com (Economics and Banking) 3 yrs 28 NSC Deg Endorsement with Engl 4 and Maths 3/Maths Lit 6\nB Com (Economics and Banking) 4 years 4 yrs 26 NSC Deg Endorsement with Engl 3 and Maths 3/Maths Lit 4\nB Com (Economics and Human Resource\nManagement)\n3 yrs 28 NSC Deg Endorsement with Engl 4 and Maths 3/Maths Lit 6\nB Com (Economics and Human Resources\nManagement) 4 years\n4 yrs 26 NSC Deg Endorsement with Engl 3 and Maths 3/Maths Lit 4\nB Com (Human Resource Management and\nBusiness Management)\n3 yrs 28 NSC Deg Endorsement with Engl 4 and Maths 3/Maths Lit 6\nB Com (Management Information Systems) 3 yrs 28 NSC Deg Endorsement with Engl and Maths 4\nB Com (Management Information Systems)\n4 years\n4 yrs 26 NSC Deg Endorsement with Engl 3 and Maths 3/Maths Lit 4\nB Com Accounting Science 4 yrs 28 NSC Deg Endorsement with Engl and Maths 4\nB Com in Accounting 3 yrs 28 NSC Deg Endorsement with Engl and Maths 4\nB Laws 4 yrs 30 NSC Deg Endorsement with Engl 4 and Maths 3/Maths Lit 4",
+      "institutionId": "374",
+      "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "start_char": 17151,
+      "end_char": 19741
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor of Education in Intermediate Phase\nTeaching: Languages, Maths, Natural Science\n& Technology\n4 yrs 26 NSC Deg with IsiZulu FAL/HL 4 and Engl HL/FAL 4 and Maths 4 and Phys\nSci 3 or Maths 3 and Phys Sci 4",
+      "institutionId": "374",
+      "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "start_char": 19742,
+      "end_char": 19952
+    },
+    {
+      "type": "faculty",
+      "text": "FACULTY OF COMMERCE, ADMINISTRATION AND LAW\nTEL: 035 902 6539/6362\nClosing date: 31 October 2025",
+      "institutionId": "374",
+      "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "start_char": 19953,
+      "end_char": 20049
+    },
+    {
+      "type": "admission",
+      "text": "Programme Name Years Min Points Min Admission Requirements\nB Admin: Public Administration and Business\nManagement\n3 yrs 28 NSC Deg Endorsement with Engl 4 and Maths 3/Maths Lit 4\nB Admin: Public Administration and\nEconomics\n3 yrs 28 NSC Deg Endorsement with Engl 4 and Maths 3/Maths Lit 4\nB Admin: Public Administration and Human\nResources\n3 yrs 28 NSC Deg Endorsement with Engl 4 and Maths 3/Maths Lit 4\nB Admin: Public Administration and Political\nScience\n3 yrs 28 NSC Deg Endorsement with Engl 4 and Maths 3/Maths Lit 4\nB Com (Accounting and Economics) 3 yrs 28 NSC Deg Endorsement with Engl 4 and Maths 3/Maths Lit 6\nB Com (Accounting and Economics) 4 years 4 yrs 26 NSC Deg Endorsement with Engl 3 and Maths 3/Maths Lit 4\nB Com (Accounting) 4 years 4 yrs 26 NSC Deg Endorsement with Engl 3 and Maths 3/Maths Lit 4\nB Com (Banking and Business Management) 3 yrs 28 NSC Deg Endorsement with Engl 4 and Maths 3/Maths Lit 6\nB Com (Banking and Business Management)\n4 years\n4 yrs 26 NSC Deg Endorsement with Engl 3 and Maths 3/Maths Lit 4\nB Com (Business Management and\nAccounting)\n3 yrs 28 NSC Deg Endorsement with Engl 4 and Maths 3/Maths Lit 6\nB Com (Business Management and\nAccounting) 4 years\n4 yrs 26 NSC Deg Endorsement with Engl 3 and Maths 3/Maths Lit 4\nB Com (Business Management and\nEconomics)\n3 yrs 28 NSC Deg Endorsement with Engl 4 and Maths 3/Maths Lit 6\nB Com (Business Management and\nEconomics) 4 years\n4 yrs 26 NSC Deg Endorsement with Engl 3 and Maths 3/Maths Lit 4\nB Com (Business Management and Human\nResource Management) 4 years\n4 yrs 26 NSC Deg Endorsement with Engl 3 and Maths 3/Maths Lit 4\nB Com (Economics and Banking) 3 yrs 28 NSC Deg Endorsement with Engl 4 and Maths 3/Maths Lit 6\nB Com (Economics and Banking) 4 years 4 yrs 26 NSC Deg Endorsement with Engl 3 and Maths 3/Maths Lit 4\nB Com (Economics and Human Resource\nManagement)\n3 yrs 28 NSC Deg Endorsement with Engl 4 and Maths 3/Maths Lit 6\nB Com (Economics and Human Resources\nManagement) 4 years\n4 yrs 26 NSC Deg Endorsement with Engl 3 and Maths 3/Maths Lit 4\nB Com (Human Resource Management and\nBusiness Management)\n3 yrs 28 NSC Deg Endorsement with Engl 4 and Maths 3/Maths Lit 6\nB Com (Management Information Systems) 3 yrs 28 NSC Deg Endorsement with Engl and Maths 4\nB Com (Management Information Systems)\n4 years\n4 yrs 26 NSC Deg Endorsement with Engl 3 and Maths 3/Maths Lit 4\nB Com Accounting Science 4 yrs 28 NSC Deg Endorsement with Engl and Maths 4\nB Com in Accounting 3 yrs 28 NSC Deg Endorsement with Engl and Maths 4\nB Laws 4 yrs 30 NSC Deg Endorsement with Engl 4 and Maths 3/Maths Lit 4\nDip Co-Operatives Management 3 yrs 24 NSC Dip Endorsement with Engl 3 and Maths 3/Maths Lit 4\nDip Logistics Management 3 yrs 24 NSC Dip Endorsement with Engl 3 and Maths 3/Maths Lit 4\nDip Transport Management 3 yrs 24 NSC Dip Endorsement with Engl 3 and Maths 3/Maths Lit 4\nH Cert Accountancy 1 yr 22 NSC Certificate Endorsement with Engl 3 and Maths 3/Maths Lit 4",
+      "institutionId": "374",
+      "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "start_char": 20050,
+      "end_char": 23005
+    },
+    {
+      "type": "faculty",
+      "text": "FACULTY OF SCIENCE, AGRICULTURE AND ENGINEERING\nTEL: 035 902 6306/6649\nClosing date: 31 October 2025",
+      "institutionId": "374",
+      "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "start_char": 23006,
+      "end_char": 23106
+    },
+    {
+      "type": "admission",
+      "text": "Programme Name Years Min Points Min Admission Requirements\nB Consumer Science: Extension & Rural\nDevelopment\n4 yrs 28 NSC Deg with Engl and LO 4 and Life Sci OR Agric Sci 4\nB Consumer Science: Hospitality & Tourism 3 yrs 28 NSC Deg with Engl AND LO 4\nB Eng Electrical Engineering 4 yrs 30 NSC Deg with Engl 4 and Maths 5 and Phys Sci 5\nB Eng Electrical Engineering and Computer\nEngineering\n4 yrs 30 NSC Deg with Engl 4 and Maths 5 and Phys Sci 5\nB Eng Mechanical Engineering 4 yrs 30 NSC Deg with Engl 4 and Maths 5 and Phys Sci 5\nB Eng Mechatronic Engineering 4 yrs 30 NSC Deg with Engl 4 and Maths 5 and Phys Sci 5\nB Nursing Science 4 yrs 30 NSC Deg with Engl and Life Sci 4 and level 3 in Maths/level 4 maths\nliteracy\nB Sc Agric: Agronomy 4 yrs 28 NSC Deg with Engl AND Maths 4 AND Phys Sci 3 AND Life Sci OR\nAgric Sci 4\nB Sc Agric: Animal Science 4 yrs 28 NSC Deg with Engl AND Maths 4 AND Phys Sci 3 AND Life Sci OR\nAgric Sci 4\nB Sc Agricultural Economics: Agribusiness\nManagement\n4 yrs 28 NSC Deg with Engl AND Maths 4 AND Phys Sci 3 AND Life Sci OR\nAgric Sci 4\nB Sc Applied Mathematics with Computer\nSciences as Major 2\n3 yrs 28 NSC Deg with Engl 4 and Maths 5 and Phys Sci 4\nB Sc Applied Mathematics with Hydrology\nas Major 2\n3 yrs 28 NSC Deg with Engl 4 and Maths 5 and Phys Sci 4\nB Sc Applied Mathematics with Mathematics\nas Major 2\n3 yrs 28 NSC Deg with Engl 4 and Maths 5 and Phys Sci 4\nB Sc Applied Mathematics with Physics as\nMajor 2\n3 yrs 28 NSC Deg with Engl 4 and Maths 5 and Phys Sci 4\nB Sc Applied Mathematics with Statistics as\nMajor 2\n3 yrs 28 NSC Deg with Engl 4 and Maths 5 and Phys Sci 4\nB Sc Augmented: Life Sciences 4 yrs 28 NSC Deg with Engl 3 AND Maths AND Phys Sci 3 AND Life Sci\nOR Agric Sci 3\nB Sc Augmented: Physical Sciences 4 yrs 28 NSC Deg with Engl 3 AND Maths AND Phys Sci 3\nB Sc Biochemistry with Botany as Major 2 3 yrs 28 NSC Deg with Engl AND Maths 4 AND Phys Sci 3 AND Life Sci OR\nAgric Sci 4\nB Sc Biochemistry with Chemistry as Major 2 3 yrs 28 NSC Deg with Engl HL/FAL 4 and Maths 5 and Phys Sci 4 and Life Sci OR\nAgric Sci 4\nB Sc Biochemistry with Human Movement\nScience as Major 2\n3 yrs 28 NSC Deg with Engl and Maths and Phys Sci 4 and Life Sci OR Agric Sci 4\nB Sc Biochemistry with Microbiology as\nMajor 2\n3 yrs 28 NSC Deg with Engl AND Maths 4 AND Phys Sci 3 AND Life Sci OR\nAgric Sci 4\nB Sc Biochemistry with Zoology as Major 2 3 yrs 28 NSC Deg with Engl AND Maths 4 AND Phys Sci 3 AND Life Sci OR\nAgric Sci 4\nDip Co-Operatives Management 3 yrs 24 NSC Dip Endorsement with Engl 3 and Maths 3/Maths Lit 4\nDip Logistics Management 3 yrs 24 NSC Dip Endorsement with Engl 3 and Maths 3/Maths Lit 4\nDip Transport Management 3 yrs 24 NSC Dip Endorsement with Engl 3 and Maths 3/Maths Lit 4\nH Cert Accountancy 1 yr 22 NSC Certificate Endorsement with Engl 3 and Maths 3/Maths Lit 4",
+      "institutionId": "374",
+      "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "start_char": 23107,
+      "end_char": 25931
+    },
+    {
+      "type": "faculty",
+      "text": "FACULTY OF SCIENCE, AGRICULTURE AND ENGINEERING\nTEL: 035 902 6306/6649\nClosing date: 31 October 2025",
+      "institutionId": "374",
+      "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "start_char": 25932,
+      "end_char": 26032
+    },
+    {
+      "type": "admission",
+      "text": "Programme Name Years Min Points Min Admission Requirements\nB Consumer Science: Extension & Rural\nDevelopment\n4 yrs 28 NSC Deg with Engl and LO 4 and Life Sci OR Agric Sci 4\nB Consumer Science: Hospitality & Tourism 3 yrs 28 NSC Deg with Engl AND LO 4\nB Eng Electrical Engineering 4 yrs 30 NSC Deg with Engl 4 and Maths 5 and Phys Sci 5\nB Eng Electrical Engineering and Computer\nEngineering\n4 yrs 30 NSC Deg with Engl 4 and Maths 5 and Phys Sci 5\nB Eng Mechanical Engineering 4 yrs 30 NSC Deg with Engl 4 and Maths 5 and Phys Sci 5\nB Eng Mechatronic Engineering 4 yrs 30 NSC Deg with Engl 4 and Maths 5 and Phys Sci 5\nB Nursing Science 4 yrs 30 NSC Deg with Engl and Life Sci 4 and level 3 in Maths/level 4 maths\nliteracy\nB Sc Agric: Agronomy 4 yrs 28 NSC Deg with Engl AND Maths 4 AND Phys Sci 3 AND Life Sci OR\nAgric Sci 4\nB Sc Agric: Animal Science 4 yrs 28 NSC Deg with Engl AND Maths 4 AND Phys Sci 3 AND Life Sci OR\nAgric Sci 4\nB Sc Agricultural Economics: Agribusiness\nManagement\n4 yrs 28 NSC Deg with Engl AND Maths 4 AND Phys Sci 3 AND Life Sci OR\nAgric Sci 4\nB Sc Applied Mathematics with Computer\nSciences as Major 2\n3 yrs 28 NSC Deg with Engl 4 and Maths 5 and Phys Sci 4\nB Sc Applied Mathematics with Hydrology\nas Major 2\n3 yrs 28 NSC Deg with Engl 4 and Maths 5 and Phys Sci 4\nB Sc Applied Mathematics with Mathematics\nas Major 2\n3 yrs 28 NSC Deg with Engl 4 and Maths 5 and Phys Sci 4\nB Sc Applied Mathematics with Physics as\nMajor 2\n3 yrs 28 NSC Deg with Engl 4 and Maths 5 and Phys Sci 4\nB Sc Applied Mathematics with Statistics as\nMajor 2\n3 yrs 28 NSC Deg with Engl 4 and Maths 5 and Phys Sci 4\nB Sc Augmented: Life Sciences 4 yrs 28 NSC Deg with Engl 3 AND Maths AND Phys Sci 3 AND Life Sci\nOR Agric Sci 3\nB Sc Augmented: Physical Sciences 4 yrs 28 NSC Deg with Engl 3 AND Maths AND Phys Sci 3\nB Sc Biochemistry with Botany as Major 2 3 yrs 28 NSC Deg with Engl AND Maths 4 AND Phys Sci 3 AND Life Sci OR\nAgric Sci 4\nB Sc Biochemistry with Chemistry as Major 2 3 yrs 28 NSC Deg with Engl HL/FAL 4 and Maths 5 and Phys Sci 4 and Life Sci OR\nAgric Sci 4\nB Sc Biochemistry with Human Movement\nScience as Major 2\n3 yrs 28 NSC Deg with Engl and Maths and Phys Sci 4 and Life Sci OR Agric Sci 4\nB Sc Biochemistry with Microbiology as\nMajor 2\n3 yrs 28 NSC Deg with Engl AND Maths 4 AND Phys Sci 3 AND Life Sci OR\nAgric Sci 4\nB Sc Biochemistry with Zoology as Major 2 3 yrs 28 NSC Deg with Engl AND Maths 4 AND Phys Sci 3 AND Life Sci OR\nAgric Sci 4\nB Sc Botany with Geography as Major 2 3 yrs 28 NSC Deg with Engl and Maths 4 and Phys Sci 3 and Geog 4 and Life Sci OR\nAgric Sci 4\nB Sc Botany with Hydrology as Major 2 3 yrs 28 NSC Deg with Engl and Maths and Phys Sci 4 and Life Sci OR Agric Sci 4\nB Sc Botany with Microbiology as Major 2 3 yrs 28 NSC Deg with Engl AND Maths 4 AND Phys Sci 3 AND Life Sci OR\nAgric Sci 4",
+      "institutionId": "374",
+      "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "start_char": 26033,
+      "end_char": 28864
+    },
+    {
+      "type": "admission",
+      "text": "Programme Name Years Min Points Min Admission Requirements\nB Sc Botany with Zoology as Major 2 3 yrs 28 NSC Deg with Engl AND Maths 4 AND Phys Sci 3 AND Life Sci OR\nAgric Sci 4\nB Sc Chemistry with Computer Science as\nMajor 2\n3 yrs 28 NSC Deg with Engl 4 and Maths 5 and Phys Sci 4\nB Sc Chemistry with Hydrology as Major 2 3 yrs 28 NSC Deg with Engl 4 and Maths 5 and Phys Sci 4\nB Sc Chemistry with Mathematics as Major 2 3 yrs 28 NSC Deg with Engl 4 and Maths 5 and Phys Sci 4\nB Sc Chemistry with Physics as Major 2 3 yrs 28 NSC Deg with Engl 4 and Maths 5 and Phys Sci 4\nB Sc Chemistry with Zoology as Major 2 3 yrs 28 NSC Deg with Engl HL/FAL 4 and Maths 5 and Phys Sci 4 and Life Sci OR\nAgric Sci 4\nB Sc Computer Science with Hydrology as\nMajor 2\n3 yrs 28 NSC Deg with Engl 4 and Maths 5 and Phys Sci 4\nB Sc Computer Science with Mathematics\nas Major 2\n3 yrs 28 NSC Deg with Engl 4 and Maths 5 and Phys Sci 4\nB Sc Computer Science with Physics as\nMajor 2\n3 yrs 28 NSC Deg with Engl 4 and Maths 5 and Phys Sci 4\nB Sc Computer Science with Statistics as\nMajor 2\n3 yrs 28 NSC Deg with Engl 4 and Maths 5 and Phys Sci 4\nB Sc Geography with Hydrology as Major 2 3 yrs 28 NSC Deg with Engl and Maths and Phys Sci and Geog 4\nB Sc Geography with Physics as Major 2 3 yrs 28 NSC Deg with Engl 4 and Maths 5 and Phys Sci and Geog 4\nB Sc Geography with Statistics as Major 2 3 yrs 28 NSC Deg with Engl 4 and Maths 5 and Phys Sci and Geog 4\nB Sc Geography with Zoology as Major 2 3 yrs 28 NSC Deg with Engl and Maths 4 and Phys Sci 3 and Geog 4 and Life Sci OR\nAgric Sci 4\nB Sc Human Movement Science with Physics\nas Major 2\n3 yrs 28 NSC Deg with Engl HL/FAL 4 and Maths 5 and Phys Sci 4 and Life Sci OR\nAgric Sci 4\nB Sc Human Movement Science with\nZoology as Major 2\n3 yrs 28 NSC Deg with Engl and Maths and Phys Sci 4 and Life Sci OR Agric Sci 4\nB Sc Hydrology with Microbiology as Major 2 3 yrs 28 NSC Deg with Engl and Maths and Phys Sci 4 and Life Sci OR Agric Sci 4\nB Sc Hydrology with Physics as Major 2 3 yrs 28 NSC Deg with Engl 4 and Maths 5 and Phys Sci 4\nB Sc Hydrology with Statistics as Major 2 3 yrs 28 NSC Deg with Engl 4 and Maths 5 and Phys Sci 4\nB Sc Hydrology with Zoology as Major 2 3 yrs 28 NSC Deg with Engl and Maths and Phys Sci 4 and Life Sci OR Agric Sci 4\nB Sc Mathematics with Physics as Major 2 3 yrs 28 NSC Deg with Engl 4 and Maths 5 and Phys Sci 4\nB Sc Mathematics with Statistics as Major 2 3 yrs 28 NSC Deg with Engl 4 and Maths 5 and Phys Sci 4\nB Sc Microbiology with Human Movement\nScience as Major 2\n3 yrs 28 NSC Deg with Engl and Maths and Phys Sci 4 and Life Sci OR Agric Sci 4\nB Sc Microbiology with Zoology as Major 2 3 yrs 28 NSC Deg with Engl AND Maths 4 AND Phys Sci 3 AND Life Sci OR\nAgric Sci 4\nB Sc4 Foundation 4 yrs 26 NSC Deg with Engl 3 and Maths 3 and Phys Sci 2 and Agric Sci OR Life Sci 3\nDip Hospitality Management 3 yrs 26 NSC Dip with Engl 4 and four 20 credit subjects (excl lang) 3\nDip Sport & Exercise Technology 3 yrs 26 NSC Dip with Engl HL 4/FAL 3 and three subjects from the designated list 3\nB Sc Botany with Geography as Major 2 3 yrs 28 NSC Deg with Engl and Maths 4 and Phys Sci 3 and Geog 4 and Life Sci OR\nAgric Sci 4\nB Sc Botany with Hydrology as Major 2 3 yrs 28 NSC Deg with Engl and Maths and Phys Sci 4 and Life Sci OR Agric Sci 4\nB Sc Botany with Microbiology as Major 2 3 yrs 28 NSC Deg with Engl AND Maths 4 AND Phys Sci 3 AND Life Sci OR\nAgric Sci 4",
+      "institutionId": "374",
+      "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "start_char": 28865,
+      "end_char": 32284
+    },
+    {
+      "type": "admission",
+      "text": "Programme Name Years Min Points Min Admission Requirements\nB Sc Botany with Zoology as Major 2 3 yrs 28 NSC Deg with Engl AND Maths 4 AND Phys Sci 3 AND Life Sci OR\nAgric Sci 4\nB Sc Chemistry with Computer Science as\nMajor 2\n3 yrs 28 NSC Deg with Engl 4 and Maths 5 and Phys Sci 4\nB Sc Chemistry with Hydrology as Major 2 3 yrs 28 NSC Deg with Engl 4 and Maths 5 and Phys Sci 4\nB Sc Chemistry with Mathematics as Major 2 3 yrs 28 NSC Deg with Engl 4 and Maths 5 and Phys Sci 4\nB Sc Chemistry with Physics as Major 2 3 yrs 28 NSC Deg with Engl 4 and Maths 5 and Phys Sci 4\nB Sc Chemistry with Zoology as Major 2 3 yrs 28 NSC Deg with Engl HL/FAL 4 and Maths 5 and Phys Sci 4 and Life Sci OR\nAgric Sci 4\nB Sc Computer Science with Hydrology as\nMajor 2\n3 yrs 28 NSC Deg with Engl 4 and Maths 5 and Phys Sci 4\nB Sc Computer Science with Mathematics\nas Major 2\n3 yrs 28 NSC Deg with Engl 4 and Maths 5 and Phys Sci 4\nB Sc Computer Science with Physics as\nMajor 2\n3 yrs 28 NSC Deg with Engl 4 and Maths 5 and Phys Sci 4\nB Sc Computer Science with Statistics as\nMajor 2\n3 yrs 28 NSC Deg with Engl 4 and Maths 5 and Phys Sci 4\nB Sc Geography with Hydrology as Major 2 3 yrs 28 NSC Deg with Engl and Maths and Phys Sci and Geog 4\nB Sc Geography with Physics as Major 2 3 yrs 28 NSC Deg with Engl 4 and Maths 5 and Phys Sci and Geog 4\nB Sc Geography with Statistics as Major 2 3 yrs 28 NSC Deg with Engl 4 and Maths 5 and Phys Sci and Geog 4\nB Sc Geography with Zoology as Major 2 3 yrs 28 NSC Deg with Engl and Maths 4 and Phys Sci 3 and Geog 4 and Life Sci OR\nAgric Sci 4\nB Sc Human Movement Science with Physics\nas Major 2\n3 yrs 28 NSC Deg with Engl HL/FAL 4 and Maths 5 and Phys Sci 4 and Life Sci OR\nAgric Sci 4\nB Sc Human Movement Science with\nZoology as Major 2\n3 yrs 28 NSC Deg with Engl and Maths and Phys Sci 4 and Life Sci OR Agric Sci 4\nB Sc Hydrology with Microbiology as Major 2 3 yrs 28 NSC Deg with Engl and Maths and Phys Sci 4 and Life Sci OR Agric Sci 4\nB Sc Hydrology with Physics as Major 2 3 yrs 28 NSC Deg with Engl 4 and Maths 5 and Phys Sci 4\nB Sc Hydrology with Statistics as Major 2 3 yrs 28 NSC Deg with Engl 4 and Maths 5 and Phys Sci 4\nB Sc Hydrology with Zoology as Major 2 3 yrs 28 NSC Deg with Engl and Maths and Phys Sci 4 and Life Sci OR Agric Sci 4\nB Sc Mathematics with Physics as Major 2 3 yrs 28 NSC Deg with Engl 4 and Maths 5 and Phys Sci 4\nB Sc Mathematics with Statistics as Major 2 3 yrs 28 NSC Deg with Engl 4 and Maths 5 and Phys Sci 4\nB Sc Microbiology with Human Movement\nScience as Major 2\n3 yrs 28 NSC Deg with Engl and Maths and Phys Sci 4 and Life Sci OR Agric Sci 4\nB Sc Microbiology with Zoology as Major 2 3 yrs 28 NSC Deg with Engl AND Maths 4 AND Phys Sci 3 AND Life Sci OR\nAgric Sci 4\nB Sc4 Foundation 4 yrs 26 NSC Deg with Engl 3 and Maths 3 and Phys Sci 2 and Agric Sci OR Life Sci 3\nDip Hospitality Management 3 yrs 26 NSC Dip with Engl 4 and four 20 credit subjects (excl lang) 3\nDip Sport & Exercise Technology 3 yrs 26 NSC Dip with Engl HL 4/FAL 3 and three subjects from the designated list 3\nB Sc Foundation\nKwaDlangezwa Campus:\n+27 (035) 902 6649\nRichards Bay Campus:\n+27 (035) 902 6950\nwww.unizulu.ac.za",
+      "institutionId": "374",
+      "source_file": "lib/seed/prospectuses/university-of-zululand.pdf",
+      "start_char": 32285,
+      "end_char": 35446
+    }
+  ],
+  "matched_files": [
+    "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-zululand.pdf"
+  ],
+  "skipped_chunks": [
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-zululand.pdf",
+      "chunk_index": 10,
+      "chars": 73
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-zululand.pdf",
+      "chunk_index": 11,
+      "chars": 58
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-zululand.pdf",
+      "chunk_index": 20,
+      "chars": 73
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-zululand.pdf",
+      "chunk_index": 21,
+      "chars": 58
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-zululand.pdf",
+      "chunk_index": 33,
+      "chars": 73
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-zululand.pdf",
+      "chunk_index": 34,
+      "chars": 58
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-zululand.pdf",
+      "chunk_index": 43,
+      "chars": 73
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-zululand.pdf",
+      "chunk_index": 44,
+      "chars": 58
+    }
+  ]
+}

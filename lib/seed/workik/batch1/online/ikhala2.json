@@ -1,0 +1,137 @@
+{
+  "institution_id": "ikhala",
+  "institution_name": "Ikhala TVET College",
+  "institution_type": "tvet-college",
+  "campuses": [
+    {
+      "name": "Ezibeleni",
+      "city": "Queenstown",
+      "province": "Eastern Cape",
+      "is_main": true
+    },
+    {
+      "name": "Aliwal North",
+      "city": "Aliwal North",
+      "province": "Eastern Cape",
+      "is_main": false
+    },
+    {
+      "name": "Queen Nonesi",
+      "city": "Lady Frere",
+      "province": "Eastern Cape",
+      "is_main": false
+    },
+    {
+      "name": "Komani",
+      "city": "Queenstown",
+      "province": "Eastern Cape",
+      "is_main": false
+    },
+    {
+      "name": "Sterkspruit",
+      "city": "Sterkspruit",
+      "province": "Eastern Cape",
+      "is_main": false
+    }
+  ],
+  "faculties": [
+    {
+      "name": "Business Studies",
+      "overview": "Focuses on NATED N4-N6 and NCV Business Management, Finance, and HR."
+    },
+    {
+      "name": "Engineering Studies",
+      "overview": "Includes NCV and NATED Electrical, Civil, and Mechanical Engineering."
+    },
+    {
+      "name": "Utility & Social Studies",
+      "overview": "Covers Hospitality, Tourism, and Consumer Science."
+    },
+    {
+      "name": "Occupational Training",
+      "overview": "Specialized skill-bearing certificates and workplace-integrated learning."
+    }
+  ],
+  "programmes": [
+    {
+      "name": "NC(V) Civil Engineering & Building Construction",
+      "qualification_type": "NC(V)",
+      "qualification_level": "NQF 2-4",
+      "campus": "Ezibeleni",
+      "subjects_compulsory": [
+        { "subject": "Mathematics", "minimum_percentage": 40 },
+        { "subject": "English", "minimum_percentage": 40 }
+      ],
+      "entry_requirement": "Grade 9 or higher pass."
+    },
+    {
+      "name": "NATED Business Management",
+      "qualification_type": "NATED",
+      "qualification_level": "N4-N6",
+      "campus": "Aliwal North / Komani",
+      "subjects_compulsory": [
+        { "subject": "Accounting", "notes": "Compulsory at Grade 12 level." }
+      ],
+      "entry_requirement": "Grade 12 or NC(V) Level 4 in Management/Finance."
+    },
+    {
+      "name": "NC(V) Electrical Infrastructure Construction",
+      "qualification_type": "NC(V)",
+      "qualification_level": "NQF 2-4",
+      "campus": "Ezibeleni",
+      "subjects_compulsory": [
+        { "subject": "Mathematics", "minimum_percentage": 40 },
+        { "subject": "English", "minimum_percentage": 40 }
+      ]
+    },
+    {
+      "name": "NATED Farming Management & Mechanization",
+      "qualification_type": "NATED",
+      "qualification_level": "N4-N6",
+      "campus": "Queen Nonesi",
+      "subjects_compulsory": [
+        { "subject": "Agriculture", "notes": "Grade 12 Level required." },
+        { "subject": "Mathematics", "notes": "Or Mathematical Literacy." }
+      ]
+    },
+    {
+      "name": "NC(V) Finance, Economics & Accounting",
+      "qualification_type": "NC(V)",
+      "qualification_level": "NQF 2-4",
+      "campus": "Ezibeleni",
+      "entry_requirement": "Grade 9 or higher with Accounting."
+    },
+    {
+      "name": "NATED Human Resource Management",
+      "qualification_type": "NATED",
+      "qualification_level": "N4-N6",
+      "campus": "Aliwal North / Komani",
+      "entry_requirement": "Grade 12 or Introductory N4 or Relevant NCV L4."
+    },
+    {
+      "name": "NC(V) Information Technology & Computer Science",
+      "qualification_type": "NC(V)",
+      "qualification_level": "NQF 2-4",
+      "campus": "Aliwal North / Ezibeleni / Komani"
+    },
+    {
+      "name": "NATED Tourism",
+      "qualification_type": "NATED",
+      "qualification_level": "N4-N6",
+      "campus": "Queen Nonesi",
+      "entry_requirement": "Grade 12 with Tourism/Geography or NCV L4 Tourism."
+    },
+    {
+      "name": "NC(V) Hospitality",
+      "qualification_type": "NC(V)",
+      "qualification_level": "NQF 2-4",
+      "campus": "Aliwal North"
+    },
+    {
+      "name": "NATED Public Management",
+      "qualification_type": "NATED",
+      "qualification_level": "N4-N6",
+      "campus": "Aliwal North / Komani / Sterkspruit"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{"ts": 1779897503.259161, "institutionId": "361", "event": "preprocess_done", "matched_files": ["/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/umgungundlovu-tvet-college-web.txt"], "chunks_created": 0, "skipped_chunk_reasons": [{"reason": "chunk_too_small", "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/umgungundlovu-tvet-college-web.txt", "chunk_index": 0, "chars": 51}]}
+{"ts": 1779897503.259686, "institutionId": "361", "event": "extract_done", "extracted_programmes_count": 0, "llm_calls": 0, "faculties_found": 0, "chunks_processed": 0}
+{"ts": 1779897503.260097, "institutionId": "361", "event": "normalize_done", "faculties": 0, "programmes": 0}
+{"ts": 1779897503.26057, "institutionId": "361", "event": "dedupe_done", "programmes_before": 0, "programmes_after": 0}
+{"ts": 1779897503.260944, "institutionId": "361", "event": "institution_pipeline_complete", "etlStatus": "no_programmes_extracted", "total_llm_calls_institution": 0}

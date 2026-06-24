@@ -1,0 +1,5 @@
+{"ts": 1779893407.586858, "institutionId": "313", "event": "preprocess_done", "matched_files": ["/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/maluti-tvet-college.docx"], "chunks_created": 1, "skipped_chunk_reasons": []}
+{"ts": 1779893407.6180632, "institutionId": "313", "event": "extract_done", "extracted_programmes_count": 4, "llm_calls": 0, "faculties_found": 0, "chunks_processed": 1}
+{"ts": 1779893407.618811, "institutionId": "313", "event": "normalize_done", "faculties": 0, "programmes": 4}
+{"ts": 1779893407.6194282, "institutionId": "313", "event": "dedupe_done", "programmes_before": 4, "programmes_after": 1}
+{"ts": 1779893407.6199858, "institutionId": "313", "event": "institution_pipeline_complete", "etlStatus": "ok", "total_llm_calls_institution": 0}

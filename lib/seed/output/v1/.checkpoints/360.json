@@ -1,0 +1,22 @@
+{
+  "institutionId": "360",
+  "stages": {
+    "preprocess": {
+      "ok": true,
+      "artifact": ".workspace/chunks_360.json"
+    },
+    "extract": {
+      "ok": true,
+      "artifact": ".workspace/extract_360.json"
+    },
+    "normalize": {
+      "ok": true,
+      "artifact": ".workspace/normalize_360.json"
+    },
+    "dedupe": {
+      "ok": true,
+      "artifact": ".workspace/dedupe_360.json"
+    }
+  },
+  "version": 1
+}

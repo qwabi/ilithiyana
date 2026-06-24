@@ -1,0 +1,32 @@
+{
+  "institution": {
+    "institution_id": "312",
+    "name": "Lovedale TVET College",
+    "institution_type": "tvet-college",
+    "city": "King William's Town",
+    "province": "",
+    "official_website": "https://www.lovedale.edu.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/312/lovedale-tvet-college",
+    "source_paths": [
+      "generated/v3/institutions.enriched.json",
+      "institutions.json",
+      "result.json",
+      "workik/batch1/cursor/institution-312-lovedale-tvet-college.json"
+    ],
+    "profile": {
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

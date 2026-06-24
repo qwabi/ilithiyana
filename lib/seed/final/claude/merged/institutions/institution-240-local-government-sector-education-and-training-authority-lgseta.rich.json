@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "institution_id": "240",
+    "slug": "local-government-sector-education-and-training-authority-lgseta",
+    "name": "Local Government Sector Education and Training Authority (LGSETA)",
+    "institution_type": "seta",
+    "province": null,
+    "city": "Bedfordview",
+    "official_website": "https://lgseta.org.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/240/local-government-sector-education-and-training-authority-lgseta",
+    "application_url": null,
+    "prospectus_url": null,
+    "nsfas_supported": null,
+    "distance_learning": null,
+    "accreditation": {
+      "dh et": null,
+      "saqa": null
+    },
+    "qualification_types": null
+  },
+  "profile": {},
+  "contact": {
+    "phone_numbers": [
+      "011 456 8579"
+    ],
+    "physical_address": "Gillooly's View Office Park, 1 Osborne Lane, Bedfordview",
+    "postal_address": "PO Box 1964, Bedfordview, 2008",
+    "socials": {
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "x": "",
+      "youtube": ""
+    }
+  },
+  "campuses": [],
+  "faculties": [],
+  "programmes": [],
+  "admission": {
+    "aps_name": null,
+    "aps_calculation_notes": null,
+    "minimum_aps_for_bachelors": null,
+    "minimum_aps_for_diplomas": null,
+    "minimum_entry_note": null,
+    "life_orientation_cap": null,
+    "aps_rules": [],
+    "programme_requirements": []
+  },
+  "sources": [
+    "institutions.json"
+  ],
+  "_stats": {
+    "campuses_count": 0,
+    "faculties_count": 0,
+    "programmes_count": 0,
+    "aps_rules_count": 0,
+    "adm_reqs_count": 0
+  }
+}

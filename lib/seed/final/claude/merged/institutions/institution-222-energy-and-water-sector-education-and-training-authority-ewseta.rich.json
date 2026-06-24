@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "institution_id": "222",
+    "slug": "energy-and-water-sector-education-and-training-authority-ewseta",
+    "name": "Energy and Water Sector Education and Training Authority (EWSETA)",
+    "institution_type": "seta",
+    "province": "Gauteng",
+    "city": "Johannesburg",
+    "official_website": "https://ewseta.org.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/222/energy-and-water-sector-education-and-training-authority-ewseta",
+    "application_url": null,
+    "prospectus_url": null,
+    "nsfas_supported": null,
+    "distance_learning": null,
+    "accreditation": {
+      "dh et": null,
+      "saqa": null
+    },
+    "qualification_types": null
+  },
+  "profile": {},
+  "contact": {
+    "emails": [
+      "waronleaks@ewseta.org.za",
+      "tradetestreports@ewseta.org.za",
+      "o.wd@l.fq",
+      "ewseta@thehotline.co.za",
+      "tradetestapplications@ewseta.org.za",
+      "info@ewseta.org.za"
+    ],
+    "phone_numbers": [
+      "011 274 4700"
+    ],
+    "physical_address": "22 Wellington Road, Parktown, Johannesburg",
+    "postal_address": "PO Box 5983, Johannesburg, 2000",
+    "socials": {
+      "facebook": "https://www.facebook.com/EWSETA/",
+      "instagram": "https://www.instagram.com/EWSETA",
+      "linkedin": "https://za.linkedin.com/in/energy-and-water-seta-22a206184",
+      "x": "https://www.twitter.com/EWSETA",
+      "youtube": "https://www.youtube.com/channel/UCvRlfiRIhysBlJdqCgipGPQ"
+    }
+  },
+  "campuses": [],
+  "faculties": [],
+  "programmes": [],
+  "admission": {
+    "aps_name": null,
+    "aps_calculation_notes": null,
+    "minimum_aps_for_bachelors": null,
+    "minimum_aps_for_diplomas": null,
+    "minimum_entry_note": null,
+    "life_orientation_cap": null,
+    "aps_rules": [],
+    "programme_requirements": []
+  },
+  "sources": [
+    "generated/v3/institutions.enriched.json",
+    "institutions.json"
+  ],
+  "_stats": {
+    "campuses_count": 0,
+    "faculties_count": 0,
+    "programmes_count": 0,
+    "aps_rules_count": 0,
+    "adm_reqs_count": 0
+  }
+}

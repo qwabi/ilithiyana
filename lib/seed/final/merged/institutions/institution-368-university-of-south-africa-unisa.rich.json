@@ -1,0 +1,30 @@
+{
+  "institution": {
+    "institution_id": "368",
+    "name": "University of South Africa (UNISA)",
+    "institution_type": "university",
+    "city": "Sunnyside",
+    "province": "",
+    "official_website": "https://www.unisa.ac.za/sites/corporate/default",
+    "detail_source": "https://nationalgovernment.co.za/units/view/368/university-of-south-africa-unisa",
+    "source_paths": [
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

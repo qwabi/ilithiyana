@@ -1,0 +1,5 @@
+{"ts": 1779897504.2215612, "institutionId": "310", "event": "preprocess_done", "matched_files": ["/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/king-hintsa-tvet-college.pdf"], "chunks_created": 4, "skipped_chunk_reasons": []}
+{"ts": 1779897504.234158, "institutionId": "310", "event": "extract_done", "extracted_programmes_count": 3, "llm_calls": 0, "faculties_found": 0, "chunks_processed": 4}
+{"ts": 1779897504.234744, "institutionId": "310", "event": "normalize_done", "faculties": 0, "programmes": 3}
+{"ts": 1779897504.235214, "institutionId": "310", "event": "dedupe_done", "programmes_before": 3, "programmes_after": 1}
+{"ts": 1779897504.235601, "institutionId": "310", "event": "institution_pipeline_complete", "etlStatus": "ok", "total_llm_calls_institution": 0}

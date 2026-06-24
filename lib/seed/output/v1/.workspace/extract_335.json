@@ -1,0 +1,2609 @@
+{
+  "faculties": [],
+  "programmes": [
+    {
+      "id": "prog:335:NATED|3787633babc5|report 191",
+      "institutionId": "335",
+      "name": "Report 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 6896,
+        "char_end": 6906,
+        "excerpt": "Report 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:335:Diploma|739cf6bd2980|national diploma",
+      "institutionId": "335",
+      "name": "National Diploma",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 8007,
+        "char_end": 8023,
+        "excerpt": "National Diploma"
+      },
+      "normalization_key": "Diploma|739cf6bd2980|national diploma"
+    },
+    {
+      "id": "prog:335:NATED|3787633babc5|report 191",
+      "institutionId": "335",
+      "name": "Report 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 40,
+            "raw_span": "Physical Science, English at least 40%",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+              "char_start": 9184,
+              "char_end": 9222,
+              "excerpt": "Physical Science, English at least 40%"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 8855,
+        "char_end": 8865,
+        "excerpt": "Report 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:335:NATED|3787633babc5|report 191",
+      "institutionId": "335",
+      "name": "Report 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 40,
+            "raw_span": "Mathematics & Physical Science at least 40%",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+              "char_start": 11539,
+              "char_end": 11582,
+              "excerpt": "Mathematics & Physical Science at least 40%"
+            }
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 40,
+            "raw_span": "Physical Science at least 40%",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+              "char_start": 11553,
+              "char_end": 11582,
+              "excerpt": "Physical Science at least 40%"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 11234,
+        "char_end": 11244,
+        "excerpt": "Report 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:335:NATED|2991a6b8d1aa|n6 certificate",
+      "institutionId": "335",
+      "name": "N6 certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 16994,
+        "char_end": 17008,
+        "excerpt": "N6 certificate"
+      },
+      "normalization_key": "NATED|2991a6b8d1aa|n6 certificate"
+    },
+    {
+      "id": "prog:335:NATED|2991a6b8d1aa|n6 certificate",
+      "institutionId": "335",
+      "name": "N6 Certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 33935,
+        "char_end": 33949,
+        "excerpt": "N6 Certificate"
+      },
+      "normalization_key": "NATED|2991a6b8d1aa|n6 certificate"
+    },
+    {
+      "id": "prog:335:NATED|57d8fa0fea64|n4 certificate",
+      "institutionId": "335",
+      "name": "N4 Certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 33971,
+        "char_end": 33985,
+        "excerpt": "N4 Certificate"
+      },
+      "normalization_key": "NATED|57d8fa0fea64|n4 certificate"
+    },
+    {
+      "id": "prog:335:NATED|2991a6b8d1aa|n6 certificate",
+      "institutionId": "335",
+      "name": "N6 Certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 34327,
+        "char_end": 34341,
+        "excerpt": "N6 Certificate"
+      },
+      "normalization_key": "NATED|2991a6b8d1aa|n6 certificate"
+    },
+    {
+      "id": "prog:335:NATED|57d8fa0fea64|n4 certificate",
+      "institutionId": "335",
+      "name": "N4 Certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 4,
+            "raw_span": "Accounting N4\n",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+              "char_start": 35525,
+              "char_end": 35539,
+              "excerpt": "Accounting N4"
+            }
+          },
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 4,
+            "raw_span": "Accounting N4\n",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+              "char_start": 35552,
+              "char_end": 35566,
+              "excerpt": "Accounting N4"
+            }
+          },
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 5,
+            "raw_span": "Accounting N5 ",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+              "char_start": 35767,
+              "char_end": 35781,
+              "excerpt": "Accounting N5"
+            }
+          },
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 5,
+            "raw_span": "Accounting N5 ",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+              "char_start": 35972,
+              "char_end": 35986,
+              "excerpt": "Accounting N5"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 35439,
+        "char_end": 35453,
+        "excerpt": "N4 Certificate"
+      },
+      "normalization_key": "NATED|57d8fa0fea64|n4 certificate"
+    },
+    {
+      "id": "prog:335:NATED|062dadb07aaa|n5 certificate",
+      "institutionId": "335",
+      "name": "N5 Certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 4,
+            "raw_span": "Accounting N4\n",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+              "char_start": 35525,
+              "char_end": 35539,
+              "excerpt": "Accounting N4"
+            }
+          },
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 4,
+            "raw_span": "Accounting N4\n",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+              "char_start": 35552,
+              "char_end": 35566,
+              "excerpt": "Accounting N4"
+            }
+          },
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 5,
+            "raw_span": "Accounting N5 ",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+              "char_start": 35767,
+              "char_end": 35781,
+              "excerpt": "Accounting N5"
+            }
+          },
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 5,
+            "raw_span": "Accounting N5 ",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+              "char_start": 35972,
+              "char_end": 35986,
+              "excerpt": "Accounting N5"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 35624,
+        "char_end": 35638,
+        "excerpt": "N5 Certificate"
+      },
+      "normalization_key": "NATED|062dadb07aaa|n5 certificate"
+    },
+    {
+      "id": "prog:335:NATED|2991a6b8d1aa|n6 certificate",
+      "institutionId": "335",
+      "name": "N6 Certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 5,
+            "raw_span": "Accounting N5 ",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+              "char_start": 35767,
+              "char_end": 35781,
+              "excerpt": "Accounting N5"
+            }
+          },
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 5,
+            "raw_span": "Accounting N5 ",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+              "char_start": 35972,
+              "char_end": 35986,
+              "excerpt": "Accounting N5"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 35829,
+        "char_end": 35843,
+        "excerpt": "N6 Certificate"
+      },
+      "normalization_key": "NATED|2991a6b8d1aa|n6 certificate"
+    },
+    {
+      "id": "prog:335:Diploma|3186bbc7c62a|diploma in business management, a candidate must pass atleast one of the",
+      "institutionId": "335",
+      "name": "Diploma in Business Management, a candidate must pass atleast one of the",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 36065,
+        "char_end": 36137,
+        "excerpt": "Diploma in Business Management, a candidate must pass atleast one of the"
+      },
+      "normalization_key": "Diploma|3186bbc7c62a|diploma in business management, a candidate must pass atleast one of the"
+    },
+    {
+      "id": "prog:335:NATED|57d8fa0fea64|n4 certificate",
+      "institutionId": "335",
+      "name": "N4 Certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 36541,
+        "char_end": 36555,
+        "excerpt": "N4 Certificate"
+      },
+      "normalization_key": "NATED|57d8fa0fea64|n4 certificate"
+    },
+    {
+      "id": "prog:335:NATED|062dadb07aaa|n5 certificate",
+      "institutionId": "335",
+      "name": "N5 Certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 36724,
+        "char_end": 36738,
+        "excerpt": "N5 Certificate"
+      },
+      "normalization_key": "NATED|062dadb07aaa|n5 certificate"
+    },
+    {
+      "id": "prog:335:NATED|2991a6b8d1aa|n6 certificate",
+      "institutionId": "335",
+      "name": "N6 Certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 36886,
+        "char_end": 36900,
+        "excerpt": "N6 Certificate"
+      },
+      "normalization_key": "NATED|2991a6b8d1aa|n6 certificate"
+    },
+    {
+      "id": "prog:335:Diploma|ed5861972a58|diploma in marketing management, a candidate must pass atleast one of the",
+      "institutionId": "335",
+      "name": "Diploma in Marketing Management, a candidate must pass atleast one of the",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 37207,
+        "char_end": 37280,
+        "excerpt": "Diploma in Marketing Management, a candidate must pass atleast one of the"
+      },
+      "normalization_key": "Diploma|ed5861972a58|diploma in marketing management, a candidate must pass atleast one of the"
+    },
+    {
+      "id": "prog:335:NATED|57d8fa0fea64|n4 certificate",
+      "institutionId": "335",
+      "name": "N4 Certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 37548,
+        "char_end": 37562,
+        "excerpt": "N4 Certificate"
+      },
+      "normalization_key": "NATED|57d8fa0fea64|n4 certificate"
+    },
+    {
+      "id": "prog:335:NATED|062dadb07aaa|n5 certificate",
+      "institutionId": "335",
+      "name": "N5 Certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 37728,
+        "char_end": 37742,
+        "excerpt": "N5 Certificate"
+      },
+      "normalization_key": "NATED|062dadb07aaa|n5 certificate"
+    },
+    {
+      "id": "prog:335:NATED|2991a6b8d1aa|n6 certificate",
+      "institutionId": "335",
+      "name": "N6 Certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 37870,
+        "char_end": 37884,
+        "excerpt": "N6 Certificate"
+      },
+      "normalization_key": "NATED|2991a6b8d1aa|n6 certificate"
+    },
+    {
+      "id": "prog:335:Diploma|feebbc15f936|diploma in human resource management, a candidate must pass at least one of the ",
+      "institutionId": "335",
+      "name": "Diploma in Human Resource Management, a candidate must pass at least one of the following",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 38228,
+        "char_end": 38317,
+        "excerpt": "Diploma in Human Resource Management, a candidate must pass at least one of the following"
+      },
+      "normalization_key": "Diploma|feebbc15f936|diploma in human resource management, a candidate must pass at least one of the "
+    },
+    {
+      "id": "prog:335:NATED|57d8fa0fea64|n4 certificate",
+      "institutionId": "335",
+      "name": "N4 Certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 38578,
+        "char_end": 38592,
+        "excerpt": "N4 Certificate"
+      },
+      "normalization_key": "NATED|57d8fa0fea64|n4 certificate"
+    },
+    {
+      "id": "prog:335:NATED|062dadb07aaa|n5 certificate",
+      "institutionId": "335",
+      "name": "N5 Certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 38771,
+        "char_end": 38785,
+        "excerpt": "N5 Certificate"
+      },
+      "normalization_key": "NATED|062dadb07aaa|n5 certificate"
+    },
+    {
+      "id": "prog:335:NATED|2991a6b8d1aa|n6 certificate",
+      "institutionId": "335",
+      "name": "N6 Certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 38941,
+        "char_end": 38955,
+        "excerpt": "N6 Certificate"
+      },
+      "normalization_key": "NATED|2991a6b8d1aa|n6 certificate"
+    },
+    {
+      "id": "prog:335:Diploma|4b2ab7cea5c9|diploma in management assistant, a candidate must pass;",
+      "institutionId": "335",
+      "name": "Diploma in Management Assistant, a candidate must pass;",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 39276,
+        "char_end": 39331,
+        "excerpt": "Diploma in Management Assistant, a candidate must pass;"
+      },
+      "normalization_key": "Diploma|4b2ab7cea5c9|diploma in management assistant, a candidate must pass;"
+    },
+    {
+      "id": "prog:335:NCV|67e7d17759c8|nc(v) l2",
+      "institutionId": "335",
+      "name": "NC(V) L2",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "English",
+            "minimum_percentage": 50,
+            "raw_span": "English 50%",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+              "char_start": 40724,
+              "char_end": 40735,
+              "excerpt": "English 50%"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 40,
+            "raw_span": "Mathematics 40%",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+              "char_start": 40748,
+              "char_end": 40763,
+              "excerpt": "Mathematics 40%"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 40493,
+        "char_end": 40501,
+        "excerpt": "NC(V) L2"
+      },
+      "normalization_key": "NCV|67e7d17759c8|nc(v) l2"
+    },
+    {
+      "id": "prog:335:NCV|945ba99c071c|nc(v) l 2",
+      "institutionId": "335",
+      "name": "NC(V) L 2",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "English",
+            "minimum_percentage": 50,
+            "raw_span": "English 50%",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+              "char_start": 40724,
+              "char_end": 40735,
+              "excerpt": "English 50%"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 40,
+            "raw_span": "Mathematics 40%",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+              "char_start": 40748,
+              "char_end": 40763,
+              "excerpt": "Mathematics 40%"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 40599,
+        "char_end": 40608,
+        "excerpt": "NC(V) L 2"
+      },
+      "normalization_key": "NCV|945ba99c071c|nc(v) l 2"
+    },
+    {
+      "id": "prog:335:NATED|3787633babc5|report 191",
+      "institutionId": "335",
+      "name": "Report 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "English",
+            "minimum_percentage": 50,
+            "raw_span": "English 50%",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+              "char_start": 40724,
+              "char_end": 40735,
+              "excerpt": "English 50%"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 40,
+            "raw_span": "Mathematics 40%",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+              "char_start": 40748,
+              "char_end": 40763,
+              "excerpt": "Mathematics 40%"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 40687,
+        "char_end": 40697,
+        "excerpt": "Report 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:335:NATED|2fff8c32c4e1|n6 national certificate",
+      "institutionId": "335",
+      "name": "N6 National Certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 41041,
+        "char_end": 41064,
+        "excerpt": "N6 National Certificate"
+      },
+      "normalization_key": "NATED|2fff8c32c4e1|n6 national certificate"
+    },
+    {
+      "id": "prog:335:NATED|2fff8c32c4e1|n6 national certificate",
+      "institutionId": "335",
+      "name": "N6 National Certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 41091,
+        "char_end": 41114,
+        "excerpt": "N6 National Certificate"
+      },
+      "normalization_key": "NATED|2fff8c32c4e1|n6 national certificate"
+    },
+    {
+      "id": "prog:335:NATED|2fff8c32c4e1|n6 national certificate",
+      "institutionId": "335",
+      "name": "N6 National Certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 41143,
+        "char_end": 41166,
+        "excerpt": "N6 National Certificate"
+      },
+      "normalization_key": "NATED|2fff8c32c4e1|n6 national certificate"
+    },
+    {
+      "id": "prog:335:NATED|2fff8c32c4e1|n6 national certificate",
+      "institutionId": "335",
+      "name": "N6 National Certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 41260,
+        "char_end": 41283,
+        "excerpt": "N6 National Certificate"
+      },
+      "normalization_key": "NATED|2fff8c32c4e1|n6 national certificate"
+    },
+    {
+      "id": "prog:335:NATED|2fff8c32c4e1|n6 national certificate",
+      "institutionId": "335",
+      "name": "N6 National Certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 41318,
+        "char_end": 41341,
+        "excerpt": "N6 National Certificate"
+      },
+      "normalization_key": "NATED|2fff8c32c4e1|n6 national certificate"
+    },
+    {
+      "id": "prog:335:NATED|57d8fa0fea64|n4 certificate",
+      "institutionId": "335",
+      "name": "N4 Certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "raw_span": "Mathematics N4\n",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+              "char_start": 41773,
+              "char_end": 41788,
+              "excerpt": "Mathematics N4"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "raw_span": "Mathematics N5\n",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+              "char_start": 41884,
+              "char_end": 41899,
+              "excerpt": "Mathematics N5"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 6,
+            "raw_span": "Mathematics N6\n",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+              "char_start": 42006,
+              "char_end": 42021,
+              "excerpt": "Mathematics N6"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 41700,
+        "char_end": 41714,
+        "excerpt": "N4 Certificate"
+      },
+      "normalization_key": "NATED|57d8fa0fea64|n4 certificate"
+    },
+    {
+      "id": "prog:335:NATED|062dadb07aaa|n5 certificate",
+      "institutionId": "335",
+      "name": "N5 Certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "raw_span": "Mathematics N4\n",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+              "char_start": 41773,
+              "char_end": 41788,
+              "excerpt": "Mathematics N4"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "raw_span": "Mathematics N5\n",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+              "char_start": 41884,
+              "char_end": 41899,
+              "excerpt": "Mathematics N5"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 6,
+            "raw_span": "Mathematics N6\n",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+              "char_start": 42006,
+              "char_end": 42021,
+              "excerpt": "Mathematics N6"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 41811,
+        "char_end": 41825,
+        "excerpt": "N5 Certificate"
+      },
+      "normalization_key": "NATED|062dadb07aaa|n5 certificate"
+    },
+    {
+      "id": "prog:335:NATED|2991a6b8d1aa|n6 certificate",
+      "institutionId": "335",
+      "name": "N6 Certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "raw_span": "Mathematics N4\n",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+              "char_start": 41773,
+              "char_end": 41788,
+              "excerpt": "Mathematics N4"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "raw_span": "Mathematics N5\n",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+              "char_start": 41884,
+              "char_end": 41899,
+              "excerpt": "Mathematics N5"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 6,
+            "raw_span": "Mathematics N6\n",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+              "char_start": 42006,
+              "char_end": 42021,
+              "excerpt": "Mathematics N6"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 41922,
+        "char_end": 41936,
+        "excerpt": "N6 Certificate"
+      },
+      "normalization_key": "NATED|2991a6b8d1aa|n6 certificate"
+    },
+    {
+      "id": "prog:335:NATED|2991a6b8d1aa|n6 certificate",
+      "institutionId": "335",
+      "name": "N6 Certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 42195,
+        "char_end": 42209,
+        "excerpt": "N6 Certificate"
+      },
+      "normalization_key": "NATED|2991a6b8d1aa|n6 certificate"
+    },
+    {
+      "id": "prog:335:NATED|2991a6b8d1aa|n6 certificate",
+      "institutionId": "335",
+      "name": "N6 Certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 42467,
+        "char_end": 42481,
+        "excerpt": "N6 Certificate"
+      },
+      "normalization_key": "NATED|2991a6b8d1aa|n6 certificate"
+    },
+    {
+      "id": "prog:335:NATED|57d8fa0fea64|n4 certificate",
+      "institutionId": "335",
+      "name": "N4 Certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 42679,
+        "char_end": 42693,
+        "excerpt": "N4 Certificate"
+      },
+      "normalization_key": "NATED|57d8fa0fea64|n4 certificate"
+    },
+    {
+      "id": "prog:335:NATED|062dadb07aaa|n5 certificate",
+      "institutionId": "335",
+      "name": "N5 Certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 42837,
+        "char_end": 42851,
+        "excerpt": "N5 Certificate"
+      },
+      "normalization_key": "NATED|062dadb07aaa|n5 certificate"
+    },
+    {
+      "id": "prog:335:NATED|2991a6b8d1aa|n6 certificate",
+      "institutionId": "335",
+      "name": "N6 Certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 42995,
+        "char_end": 43009,
+        "excerpt": "N6 Certificate"
+      },
+      "normalization_key": "NATED|2991a6b8d1aa|n6 certificate"
+    },
+    {
+      "id": "prog:335:NATED|2991a6b8d1aa|n6 certificate",
+      "institutionId": "335",
+      "name": "N6 Certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 43375,
+        "char_end": 43389,
+        "excerpt": "N6 Certificate"
+      },
+      "normalization_key": "NATED|2991a6b8d1aa|n6 certificate"
+    },
+    {
+      "id": "prog:335:NATED|2991a6b8d1aa|n6 certificate",
+      "institutionId": "335",
+      "name": "N6 Certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "raw_span": "Mathematics N4 ",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+              "char_start": 43943,
+              "char_end": 43958,
+              "excerpt": "Mathematics N4"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "raw_span": "Mathematics N5\n",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+              "char_start": 44109,
+              "char_end": 44124,
+              "excerpt": "Mathematics N5"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 43647,
+        "char_end": 43661,
+        "excerpt": "N6 Certificate"
+      },
+      "normalization_key": "NATED|2991a6b8d1aa|n6 certificate"
+    },
+    {
+      "id": "prog:335:NATED|57d8fa0fea64|n4 certificate",
+      "institutionId": "335",
+      "name": "N4 Certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "raw_span": "Mathematics N4 ",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+              "char_start": 43943,
+              "char_end": 43958,
+              "excerpt": "Mathematics N4"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "raw_span": "Mathematics N5\n",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+              "char_start": 44109,
+              "char_end": 44124,
+              "excerpt": "Mathematics N5"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 6,
+            "raw_span": "Mathematics N6\n",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+              "char_start": 44275,
+              "char_end": 44290,
+              "excerpt": "Mathematics N6"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 43865,
+        "char_end": 43879,
+        "excerpt": "N4 Certificate"
+      },
+      "normalization_key": "NATED|57d8fa0fea64|n4 certificate"
+    },
+    {
+      "id": "prog:335:NATED|062dadb07aaa|n5 certificate",
+      "institutionId": "335",
+      "name": "N5 Certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "raw_span": "Mathematics N4 ",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+              "char_start": 43943,
+              "char_end": 43958,
+              "excerpt": "Mathematics N4"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "raw_span": "Mathematics N5\n",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+              "char_start": 44109,
+              "char_end": 44124,
+              "excerpt": "Mathematics N5"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 6,
+            "raw_span": "Mathematics N6\n",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+              "char_start": 44275,
+              "char_end": 44290,
+              "excerpt": "Mathematics N6"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 44031,
+        "char_end": 44045,
+        "excerpt": "N5 Certificate"
+      },
+      "normalization_key": "NATED|062dadb07aaa|n5 certificate"
+    },
+    {
+      "id": "prog:335:NATED|2991a6b8d1aa|n6 certificate",
+      "institutionId": "335",
+      "name": "N6 Certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "raw_span": "Mathematics N5\n",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+              "char_start": 44109,
+              "char_end": 44124,
+              "excerpt": "Mathematics N5"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 6,
+            "raw_span": "Mathematics N6\n",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+              "char_start": 44275,
+              "char_end": 44290,
+              "excerpt": "Mathematics N6"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 44197,
+        "char_end": 44211,
+        "excerpt": "N6 Certificate"
+      },
+      "normalization_key": "NATED|2991a6b8d1aa|n6 certificate"
+    },
+    {
+      "id": "prog:335:NATED|57d8fa0fea64|n4 certificate",
+      "institutionId": "335",
+      "name": "N4 Certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "raw_span": "Mathematics N4\n",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+              "char_start": 45222,
+              "char_end": 45237,
+              "excerpt": "Mathematics N4"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "raw_span": "Mathematics N5\n",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+              "char_start": 45394,
+              "char_end": 45409,
+              "excerpt": "Mathematics N5"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 6,
+            "raw_span": "Mathematics N6\n",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+              "char_start": 45566,
+              "char_end": 45581,
+              "excerpt": "Mathematics N6"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 45137,
+        "char_end": 45151,
+        "excerpt": "N4 Certificate"
+      },
+      "normalization_key": "NATED|57d8fa0fea64|n4 certificate"
+    },
+    {
+      "id": "prog:335:NATED|062dadb07aaa|n5 certificate",
+      "institutionId": "335",
+      "name": "N5 Certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "raw_span": "Mathematics N4\n",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+              "char_start": 45222,
+              "char_end": 45237,
+              "excerpt": "Mathematics N4"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "raw_span": "Mathematics N5\n",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+              "char_start": 45394,
+              "char_end": 45409,
+              "excerpt": "Mathematics N5"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 6,
+            "raw_span": "Mathematics N6\n",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+              "char_start": 45566,
+              "char_end": 45581,
+              "excerpt": "Mathematics N6"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 45310,
+        "char_end": 45324,
+        "excerpt": "N5 Certificate"
+      },
+      "normalization_key": "NATED|062dadb07aaa|n5 certificate"
+    },
+    {
+      "id": "prog:335:NATED|2991a6b8d1aa|n6 certificate",
+      "institutionId": "335",
+      "name": "N6 Certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "raw_span": "Mathematics N5\n",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+              "char_start": 45394,
+              "char_end": 45409,
+              "excerpt": "Mathematics N5"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 6,
+            "raw_span": "Mathematics N6\n",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+              "char_start": 45566,
+              "char_end": 45581,
+              "excerpt": "Mathematics N6"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 45482,
+        "char_end": 45496,
+        "excerpt": "N6 Certificate"
+      },
+      "normalization_key": "NATED|2991a6b8d1aa|n6 certificate"
+    },
+    {
+      "id": "prog:335:NATED|57d8fa0fea64|n4 certificate",
+      "institutionId": "335",
+      "name": "N4 Certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "raw_span": "Mathematics N4\n",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+              "char_start": 46525,
+              "char_end": 46540,
+              "excerpt": "Mathematics N4"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "raw_span": "Mathematics N5\n",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+              "char_start": 46665,
+              "char_end": 46680,
+              "excerpt": "Mathematics N5"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 6,
+            "raw_span": "Mathematics N6\n",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+              "char_start": 46860,
+              "char_end": 46875,
+              "excerpt": "Mathematics N6"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 46448,
+        "char_end": 46462,
+        "excerpt": "N4 Certificate"
+      },
+      "normalization_key": "NATED|57d8fa0fea64|n4 certificate"
+    },
+    {
+      "id": "prog:335:NATED|062dadb07aaa|n5 certificate",
+      "institutionId": "335",
+      "name": "N5 Certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "raw_span": "Mathematics N4\n",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+              "char_start": 46525,
+              "char_end": 46540,
+              "excerpt": "Mathematics N4"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "raw_span": "Mathematics N5\n",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+              "char_start": 46665,
+              "char_end": 46680,
+              "excerpt": "Mathematics N5"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 6,
+            "raw_span": "Mathematics N6\n",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+              "char_start": 46860,
+              "char_end": 46875,
+              "excerpt": "Mathematics N6"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 46613,
+        "char_end": 46627,
+        "excerpt": "N5 Certificate"
+      },
+      "normalization_key": "NATED|062dadb07aaa|n5 certificate"
+    },
+    {
+      "id": "prog:335:NATED|2991a6b8d1aa|n6 certificate",
+      "institutionId": "335",
+      "name": "N6 Certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5,
+            "raw_span": "Mathematics N5\n",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+              "char_start": 46665,
+              "char_end": 46680,
+              "excerpt": "Mathematics N5"
+            }
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 6,
+            "raw_span": "Mathematics N6\n",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+              "char_start": 46860,
+              "char_end": 46875,
+              "excerpt": "Mathematics N6"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 46808,
+        "char_end": 46822,
+        "excerpt": "N6 Certificate"
+      },
+      "normalization_key": "NATED|2991a6b8d1aa|n6 certificate"
+    },
+    {
+      "id": "prog:335:NATED|2991a6b8d1aa|n6 certificate",
+      "institutionId": "335",
+      "name": "N6 Certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 47553,
+        "char_end": 47567,
+        "excerpt": "N6 Certificate"
+      },
+      "normalization_key": "NATED|2991a6b8d1aa|n6 certificate"
+    },
+    {
+      "id": "prog:335:NATED|2991a6b8d1aa|n6 certificate",
+      "institutionId": "335",
+      "name": "N6 Certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 47825,
+        "char_end": 47839,
+        "excerpt": "N6 Certificate"
+      },
+      "normalization_key": "NATED|2991a6b8d1aa|n6 certificate"
+    },
+    {
+      "id": "prog:335:Diploma|739cf6bd2980|national diploma",
+      "institutionId": "335",
+      "name": "National Diploma",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 55953,
+        "char_end": 55969,
+        "excerpt": "National Diploma"
+      },
+      "normalization_key": "Diploma|739cf6bd2980|national diploma"
+    },
+    {
+      "id": "prog:335:NATED|3787633babc5|report 191",
+      "institutionId": "335",
+      "name": "Report 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 56323,
+        "char_end": 56333,
+        "excerpt": "Report 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:335:NATED|3787633babc5|report 191",
+      "institutionId": "335",
+      "name": "Report 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 57853,
+        "char_end": 57863,
+        "excerpt": "Report 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:335:NATED|3787633babc5|report 191",
+      "institutionId": "335",
+      "name": "Report 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 59151,
+        "char_end": 59161,
+        "excerpt": "Report 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:335:NATED|2991a6b8d1aa|n6 certificate",
+      "institutionId": "335",
+      "name": "N6 certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+        "char_start": 62995,
+        "char_end": 63009,
+        "excerpt": "N6 certificate"
+      },
+      "normalization_key": "NATED|2991a6b8d1aa|n6 certificate"
+    }
+  ],
+  "admissions_rules": [
+    {
+      "id": "adm:335:NATED|3787633babc5|report 191:subjects",
+      "institutionId": "335",
+      "programmeId": "prog:335:NATED|3787633babc5|report 191",
+      "ruleType": "subject_requirements",
+      "detail": "Physical Sciences >= 40%",
+      "subjects": [
+        {
+          "subject": "Physical Sciences",
+          "minimum_percentage": 40,
+          "raw_span": "Physical Science, English at least 40%",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+            "char_start": 9184,
+            "char_end": 9222,
+            "excerpt": "Physical Science, English at least 40%"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/"
+    },
+    {
+      "id": "adm:335:NATED|3787633babc5|report 191:subjects",
+      "institutionId": "335",
+      "programmeId": "prog:335:NATED|3787633babc5|report 191",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 40%; Physical Sciences >= 40%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 40,
+          "raw_span": "Mathematics & Physical Science at least 40%",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+            "char_start": 11539,
+            "char_end": 11582,
+            "excerpt": "Mathematics & Physical Science at least 40%"
+          }
+        },
+        {
+          "subject": "Physical Sciences",
+          "minimum_percentage": 40,
+          "raw_span": "Physical Science at least 40%",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+            "char_start": 11553,
+            "char_end": 11582,
+            "excerpt": "Physical Science at least 40%"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/"
+    },
+    {
+      "id": "adm:335:NATED|57d8fa0fea64|n4 certificate:subjects",
+      "institutionId": "335",
+      "programmeId": "prog:335:NATED|57d8fa0fea64|n4 certificate",
+      "ruleType": "subject_requirements",
+      "detail": "Accounting >= 4%; Accounting >= 4%; Accounting >= 5%; Accounting >= 5%",
+      "subjects": [
+        {
+          "subject": "Accounting",
+          "minimum_percentage": 4,
+          "raw_span": "Accounting N4\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+            "char_start": 35525,
+            "char_end": 35539,
+            "excerpt": "Accounting N4"
+          }
+        },
+        {
+          "subject": "Accounting",
+          "minimum_percentage": 4,
+          "raw_span": "Accounting N4\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+            "char_start": 35552,
+            "char_end": 35566,
+            "excerpt": "Accounting N4"
+          }
+        },
+        {
+          "subject": "Accounting",
+          "minimum_percentage": 5,
+          "raw_span": "Accounting N5 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+            "char_start": 35767,
+            "char_end": 35781,
+            "excerpt": "Accounting N5"
+          }
+        },
+        {
+          "subject": "Accounting",
+          "minimum_percentage": 5,
+          "raw_span": "Accounting N5 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+            "char_start": 35972,
+            "char_end": 35986,
+            "excerpt": "Accounting N5"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/"
+    },
+    {
+      "id": "adm:335:NATED|062dadb07aaa|n5 certificate:subjects",
+      "institutionId": "335",
+      "programmeId": "prog:335:NATED|062dadb07aaa|n5 certificate",
+      "ruleType": "subject_requirements",
+      "detail": "Accounting >= 4%; Accounting >= 4%; Accounting >= 5%; Accounting >= 5%",
+      "subjects": [
+        {
+          "subject": "Accounting",
+          "minimum_percentage": 4,
+          "raw_span": "Accounting N4\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+            "char_start": 35525,
+            "char_end": 35539,
+            "excerpt": "Accounting N4"
+          }
+        },
+        {
+          "subject": "Accounting",
+          "minimum_percentage": 4,
+          "raw_span": "Accounting N4\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+            "char_start": 35552,
+            "char_end": 35566,
+            "excerpt": "Accounting N4"
+          }
+        },
+        {
+          "subject": "Accounting",
+          "minimum_percentage": 5,
+          "raw_span": "Accounting N5 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+            "char_start": 35767,
+            "char_end": 35781,
+            "excerpt": "Accounting N5"
+          }
+        },
+        {
+          "subject": "Accounting",
+          "minimum_percentage": 5,
+          "raw_span": "Accounting N5 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+            "char_start": 35972,
+            "char_end": 35986,
+            "excerpt": "Accounting N5"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/"
+    },
+    {
+      "id": "adm:335:NATED|2991a6b8d1aa|n6 certificate:subjects",
+      "institutionId": "335",
+      "programmeId": "prog:335:NATED|2991a6b8d1aa|n6 certificate",
+      "ruleType": "subject_requirements",
+      "detail": "Accounting >= 5%; Accounting >= 5%",
+      "subjects": [
+        {
+          "subject": "Accounting",
+          "minimum_percentage": 5,
+          "raw_span": "Accounting N5 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+            "char_start": 35767,
+            "char_end": 35781,
+            "excerpt": "Accounting N5"
+          }
+        },
+        {
+          "subject": "Accounting",
+          "minimum_percentage": 5,
+          "raw_span": "Accounting N5 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+            "char_start": 35972,
+            "char_end": 35986,
+            "excerpt": "Accounting N5"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/"
+    },
+    {
+      "id": "adm:335:NCV|67e7d17759c8|nc(v) l2:subjects",
+      "institutionId": "335",
+      "programmeId": "prog:335:NCV|67e7d17759c8|nc(v) l2",
+      "ruleType": "subject_requirements",
+      "detail": "English >= 50%; Mathematics >= 40%",
+      "subjects": [
+        {
+          "subject": "English",
+          "minimum_percentage": 50,
+          "raw_span": "English 50%",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+            "char_start": 40724,
+            "char_end": 40735,
+            "excerpt": "English 50%"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 40,
+          "raw_span": "Mathematics 40%",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+            "char_start": 40748,
+            "char_end": 40763,
+            "excerpt": "Mathematics 40%"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/"
+    },
+    {
+      "id": "adm:335:NCV|945ba99c071c|nc(v) l 2:subjects",
+      "institutionId": "335",
+      "programmeId": "prog:335:NCV|945ba99c071c|nc(v) l 2",
+      "ruleType": "subject_requirements",
+      "detail": "English >= 50%; Mathematics >= 40%",
+      "subjects": [
+        {
+          "subject": "English",
+          "minimum_percentage": 50,
+          "raw_span": "English 50%",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+            "char_start": 40724,
+            "char_end": 40735,
+            "excerpt": "English 50%"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 40,
+          "raw_span": "Mathematics 40%",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+            "char_start": 40748,
+            "char_end": 40763,
+            "excerpt": "Mathematics 40%"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/"
+    },
+    {
+      "id": "adm:335:NATED|3787633babc5|report 191:subjects",
+      "institutionId": "335",
+      "programmeId": "prog:335:NATED|3787633babc5|report 191",
+      "ruleType": "subject_requirements",
+      "detail": "English >= 50%; Mathematics >= 40%",
+      "subjects": [
+        {
+          "subject": "English",
+          "minimum_percentage": 50,
+          "raw_span": "English 50%",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+            "char_start": 40724,
+            "char_end": 40735,
+            "excerpt": "English 50%"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 40,
+          "raw_span": "Mathematics 40%",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+            "char_start": 40748,
+            "char_end": 40763,
+            "excerpt": "Mathematics 40%"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/"
+    },
+    {
+      "id": "adm:335:NATED|57d8fa0fea64|n4 certificate:subjects",
+      "institutionId": "335",
+      "programmeId": "prog:335:NATED|57d8fa0fea64|n4 certificate",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 4%; Mathematics >= 5%; Mathematics >= 6%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 4,
+          "raw_span": "Mathematics N4\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+            "char_start": 41773,
+            "char_end": 41788,
+            "excerpt": "Mathematics N4"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 5,
+          "raw_span": "Mathematics N5\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+            "char_start": 41884,
+            "char_end": 41899,
+            "excerpt": "Mathematics N5"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 6,
+          "raw_span": "Mathematics N6\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+            "char_start": 42006,
+            "char_end": 42021,
+            "excerpt": "Mathematics N6"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/"
+    },
+    {
+      "id": "adm:335:NATED|062dadb07aaa|n5 certificate:subjects",
+      "institutionId": "335",
+      "programmeId": "prog:335:NATED|062dadb07aaa|n5 certificate",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 4%; Mathematics >= 5%; Mathematics >= 6%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 4,
+          "raw_span": "Mathematics N4\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+            "char_start": 41773,
+            "char_end": 41788,
+            "excerpt": "Mathematics N4"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 5,
+          "raw_span": "Mathematics N5\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+            "char_start": 41884,
+            "char_end": 41899,
+            "excerpt": "Mathematics N5"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 6,
+          "raw_span": "Mathematics N6\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+            "char_start": 42006,
+            "char_end": 42021,
+            "excerpt": "Mathematics N6"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/"
+    },
+    {
+      "id": "adm:335:NATED|2991a6b8d1aa|n6 certificate:subjects",
+      "institutionId": "335",
+      "programmeId": "prog:335:NATED|2991a6b8d1aa|n6 certificate",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 4%; Mathematics >= 5%; Mathematics >= 6%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 4,
+          "raw_span": "Mathematics N4\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+            "char_start": 41773,
+            "char_end": 41788,
+            "excerpt": "Mathematics N4"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 5,
+          "raw_span": "Mathematics N5\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+            "char_start": 41884,
+            "char_end": 41899,
+            "excerpt": "Mathematics N5"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 6,
+          "raw_span": "Mathematics N6\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+            "char_start": 42006,
+            "char_end": 42021,
+            "excerpt": "Mathematics N6"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/"
+    },
+    {
+      "id": "adm:335:NATED|2991a6b8d1aa|n6 certificate:subjects",
+      "institutionId": "335",
+      "programmeId": "prog:335:NATED|2991a6b8d1aa|n6 certificate",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 4%; Mathematics >= 5%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 4,
+          "raw_span": "Mathematics N4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+            "char_start": 43943,
+            "char_end": 43958,
+            "excerpt": "Mathematics N4"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 5,
+          "raw_span": "Mathematics N5\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+            "char_start": 44109,
+            "char_end": 44124,
+            "excerpt": "Mathematics N5"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/"
+    },
+    {
+      "id": "adm:335:NATED|57d8fa0fea64|n4 certificate:subjects",
+      "institutionId": "335",
+      "programmeId": "prog:335:NATED|57d8fa0fea64|n4 certificate",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 4%; Mathematics >= 5%; Mathematics >= 6%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 4,
+          "raw_span": "Mathematics N4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+            "char_start": 43943,
+            "char_end": 43958,
+            "excerpt": "Mathematics N4"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 5,
+          "raw_span": "Mathematics N5\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+            "char_start": 44109,
+            "char_end": 44124,
+            "excerpt": "Mathematics N5"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 6,
+          "raw_span": "Mathematics N6\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+            "char_start": 44275,
+            "char_end": 44290,
+            "excerpt": "Mathematics N6"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/"
+    },
+    {
+      "id": "adm:335:NATED|062dadb07aaa|n5 certificate:subjects",
+      "institutionId": "335",
+      "programmeId": "prog:335:NATED|062dadb07aaa|n5 certificate",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 4%; Mathematics >= 5%; Mathematics >= 6%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 4,
+          "raw_span": "Mathematics N4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+            "char_start": 43943,
+            "char_end": 43958,
+            "excerpt": "Mathematics N4"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 5,
+          "raw_span": "Mathematics N5\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+            "char_start": 44109,
+            "char_end": 44124,
+            "excerpt": "Mathematics N5"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 6,
+          "raw_span": "Mathematics N6\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+            "char_start": 44275,
+            "char_end": 44290,
+            "excerpt": "Mathematics N6"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/"
+    },
+    {
+      "id": "adm:335:NATED|2991a6b8d1aa|n6 certificate:subjects",
+      "institutionId": "335",
+      "programmeId": "prog:335:NATED|2991a6b8d1aa|n6 certificate",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 5%; Mathematics >= 6%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 5,
+          "raw_span": "Mathematics N5\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+            "char_start": 44109,
+            "char_end": 44124,
+            "excerpt": "Mathematics N5"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 6,
+          "raw_span": "Mathematics N6\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+            "char_start": 44275,
+            "char_end": 44290,
+            "excerpt": "Mathematics N6"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/"
+    },
+    {
+      "id": "adm:335:NATED|57d8fa0fea64|n4 certificate:subjects",
+      "institutionId": "335",
+      "programmeId": "prog:335:NATED|57d8fa0fea64|n4 certificate",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 4%; Mathematics >= 5%; Mathematics >= 6%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 4,
+          "raw_span": "Mathematics N4\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+            "char_start": 45222,
+            "char_end": 45237,
+            "excerpt": "Mathematics N4"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 5,
+          "raw_span": "Mathematics N5\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+            "char_start": 45394,
+            "char_end": 45409,
+            "excerpt": "Mathematics N5"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 6,
+          "raw_span": "Mathematics N6\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+            "char_start": 45566,
+            "char_end": 45581,
+            "excerpt": "Mathematics N6"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/"
+    },
+    {
+      "id": "adm:335:NATED|062dadb07aaa|n5 certificate:subjects",
+      "institutionId": "335",
+      "programmeId": "prog:335:NATED|062dadb07aaa|n5 certificate",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 4%; Mathematics >= 5%; Mathematics >= 6%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 4,
+          "raw_span": "Mathematics N4\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+            "char_start": 45222,
+            "char_end": 45237,
+            "excerpt": "Mathematics N4"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 5,
+          "raw_span": "Mathematics N5\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+            "char_start": 45394,
+            "char_end": 45409,
+            "excerpt": "Mathematics N5"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 6,
+          "raw_span": "Mathematics N6\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+            "char_start": 45566,
+            "char_end": 45581,
+            "excerpt": "Mathematics N6"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/"
+    },
+    {
+      "id": "adm:335:NATED|2991a6b8d1aa|n6 certificate:subjects",
+      "institutionId": "335",
+      "programmeId": "prog:335:NATED|2991a6b8d1aa|n6 certificate",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 5%; Mathematics >= 6%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 5,
+          "raw_span": "Mathematics N5\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+            "char_start": 45394,
+            "char_end": 45409,
+            "excerpt": "Mathematics N5"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 6,
+          "raw_span": "Mathematics N6\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+            "char_start": 45566,
+            "char_end": 45581,
+            "excerpt": "Mathematics N6"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/"
+    },
+    {
+      "id": "adm:335:NATED|57d8fa0fea64|n4 certificate:subjects",
+      "institutionId": "335",
+      "programmeId": "prog:335:NATED|57d8fa0fea64|n4 certificate",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 4%; Mathematics >= 5%; Mathematics >= 6%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 4,
+          "raw_span": "Mathematics N4\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+            "char_start": 46525,
+            "char_end": 46540,
+            "excerpt": "Mathematics N4"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 5,
+          "raw_span": "Mathematics N5\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+            "char_start": 46665,
+            "char_end": 46680,
+            "excerpt": "Mathematics N5"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 6,
+          "raw_span": "Mathematics N6\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+            "char_start": 46860,
+            "char_end": 46875,
+            "excerpt": "Mathematics N6"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/"
+    },
+    {
+      "id": "adm:335:NATED|062dadb07aaa|n5 certificate:subjects",
+      "institutionId": "335",
+      "programmeId": "prog:335:NATED|062dadb07aaa|n5 certificate",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 4%; Mathematics >= 5%; Mathematics >= 6%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 4,
+          "raw_span": "Mathematics N4\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+            "char_start": 46525,
+            "char_end": 46540,
+            "excerpt": "Mathematics N4"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 5,
+          "raw_span": "Mathematics N5\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+            "char_start": 46665,
+            "char_end": 46680,
+            "excerpt": "Mathematics N5"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 6,
+          "raw_span": "Mathematics N6\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+            "char_start": 46860,
+            "char_end": 46875,
+            "excerpt": "Mathematics N6"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/"
+    },
+    {
+      "id": "adm:335:NATED|2991a6b8d1aa|n6 certificate:subjects",
+      "institutionId": "335",
+      "programmeId": "prog:335:NATED|2991a6b8d1aa|n6 certificate",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 5%; Mathematics >= 6%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 5,
+          "raw_span": "Mathematics N5\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+            "char_start": 46665,
+            "char_end": 46680,
+            "excerpt": "Mathematics N5"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 6,
+          "raw_span": "Mathematics N6\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+            "char_start": 46860,
+            "char_end": 46875,
+            "excerpt": "Mathematics N6"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/flavius-mareka-tvet-college.pdf",
+      "sourceUrl": "https://www.flaviusmareka.net/"
+    }
+  ],
+  "aps_rules": [],
+  "llm_calls": 0
+}

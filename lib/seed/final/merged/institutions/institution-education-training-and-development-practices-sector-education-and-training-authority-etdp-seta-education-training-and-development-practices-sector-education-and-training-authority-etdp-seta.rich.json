@@ -1,0 +1,55 @@
+{
+  "institution": {
+    "id": "institution:education-training-and-development-practices-sector-education-and-training-authority-etdp-seta",
+    "slug": "education-training-and-development-practices-sector-education-and-training-authority-etdp-seta",
+    "institution_id_raw": "221",
+    "name": "Education, Training and Development Practices Sector Education and Training Authority (ETDP SETA)",
+    "institution_type": "seta",
+    "city": "Johannesburg",
+    "province": "Gauteng",
+    "official_website": "https://www.etdpseta.org.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/221/education-training-and-development-practices-sector-education-and-training-authority-etdp-seta",
+    "source_paths": [
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "sector": "training",
+      "province": "Gauteng",
+      "city": "Johannesburg",
+      "physical_address": "Hosken’s House, 45 Mooi Street, Johannesburg",
+      "postal_address": "Private Bag X105, Melville, 2109",
+      "contact_phone_numbers": [
+        "011 372 3300"
+      ],
+      "socials": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": "",
+        "x": "",
+        "youtube": ""
+      },
+      "accreditation": {
+        "dh et": null,
+        "saqa": null
+      },
+      "sources": [
+        "https://nationalgovernment.co.za/units/view/221/education-training-and-development-practices-sector-education-and-training-authority-etdp-seta",
+        "https://www.etdpseta.org.za/"
+      ],
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

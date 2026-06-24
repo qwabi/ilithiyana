@@ -1,0 +1,547 @@
+{
+  "chunks": [
+    {
+      "type": "aps",
+      "text": "• Minimum Admission Point Score:\n24 with Mathematics or 25 with\nMathematical Literacy",
+      "institutionId": "412",
+      "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "start_char": 140,
+      "end_char": 225
+    },
+    {
+      "type": "programme",
+      "text": "• Diploma Endorsement\n• English (Home or First Additional\nLanguage): Level 4\n• Mathematics: Level 3\n• Mathematical Literacy: Level 4\n• One Additional Language\n• Any other Four Subjects",
+      "institutionId": "412",
+      "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "start_char": 226,
+      "end_char": 410
+    },
+    {
+      "type": "aps",
+      "text": "• Minimum Admission Point Score: 32\n• English (Home or First Additional\nLanguage): Level 4\n• Mathematics: Level 2 or\nMathematical Literacy: Level 3\n• Geography/History and One Other\nSocial or Commercial Subject\n• Sciences: Level 4\nHIGHER CERTIFICATE IN\nEVENT MANAGEMENT\n1 Year | 120 Credit Qualification",
+      "institutionId": "412",
+      "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "start_char": 501,
+      "end_char": 804
+    },
+    {
+      "type": "aps",
+      "text": "• Minimum Admission Point Score:\n19 with Mathematics or 21 with\nMathematical Literacy or Technical\nMathematics",
+      "institutionId": "412",
+      "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "start_char": 829,
+      "end_char": 939
+    },
+    {
+      "type": "programme",
+      "text": "• Diploma/Higher Certificate\nEndorsement\n• English (Home or First Additional\nLanguage): Level 4\n• Mathematics: Level 2\n• Mathematical Literacy or Technical\nMathematics: Level 4\n• Any three Additional Vocational\nSubjects: Level 2\nNational Certificate (Vocational):",
+      "institutionId": "412",
+      "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "start_char": 940,
+      "end_char": 1203
+    },
+    {
+      "type": "programme",
+      "text": "• NCV level 4 with the following\nrecommended subject(s): Business\nStudies, Hospitality Studies, and\nTourism Discipline",
+      "institutionId": "412",
+      "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "start_char": 1204,
+      "end_char": 1322
+    },
+    {
+      "type": "aps",
+      "text": "• Minimum Admission Point Score: 32\n• English (Home or First Additional\nLanguage): Level 4\n• Mathematics: Level 2 or\nMathematical Literacy: Level 3",
+      "institutionId": "412",
+      "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "start_char": 1405,
+      "end_char": 1552
+    },
+    {
+      "type": "aps",
+      "text": "• Minimum Admission Point Score: 28\n• English (Home or First Additional\nLanguage): Level 4\n• Mathematics: Level 2 or\nMathematical Literacy: Level 3",
+      "institutionId": "412",
+      "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "start_char": 1638,
+      "end_char": 1785
+    },
+    {
+      "type": "programme",
+      "text": "• Bachelor Endorsement\n• English (Home or First Additional\nLanguage): Level 4\n• Additional Language: Level 4\n• Mathematics: Level 3 or\nMathematical Literacy: Level 4\nSelection will occur monthly. Applicants\nwho exceed the minimum admission\nrequirements and completed their\nNSC or equivalent will be made\nconditional offers. Those who meet\nthe requirements will be placed on\nhold. Each month the new applicants\nwill be considered along with those\nplaced on hold.\nAt least 50% of places will be\nreserved for applicants completing\nthe NSC or equivalent.",
+      "institutionId": "412",
+      "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "start_char": 1897,
+      "end_char": 2447
+    },
+    {
+      "type": "aps",
+      "text": "• Minimum Admission Point Score: 30\n• English (Home or First Additional\nLanguage): Level 4\n• Mathematics: Level 4\n• Mathematical Literacy is\nnot Accepted",
+      "institutionId": "412",
+      "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "start_char": 2537,
+      "end_char": 2690
+    },
+    {
+      "type": "aps",
+      "text": "• Minimum Admission Point Score: 32\n• English (Home or First Additional\nLanguage): Level 4\n• Second Language: Level 4\n• Mathematics: Level 2 or\nMathematical Literacy: Level 3\n• Students who wish to take\nEconomics as an elective must\nhave Mathematics: Level 4\n• Mathematical Literacy: Level 4\n• Agriculture, Geography or Life\nScience: Level 4\nNational Certificate (Vocational):",
+      "institutionId": "412",
+      "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "start_char": 2776,
+      "end_char": 3152
+    },
+    {
+      "type": "programme",
+      "text": "• NCV level 4 in Primary Agriculture\nwith at least 50% for English\n(Home language or First Additional\nLanguage), 40% for Mathematics or\n70% for Mathematical Literacy",
+      "institutionId": "412",
+      "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "start_char": 3153,
+      "end_char": 3318
+    },
+    {
+      "type": "aps",
+      "text": "• Minimum Admission Point Score: 30\n• English (Home or First Additional\nLanguage): Level 4\n• Mathematics: Level 2 or\nMathematical Literacy: Level 3\n• Recommended Subjects: Life\nSciences and Geography: Level 4\nNational Certificate (Vocational):",
+      "institutionId": "412",
+      "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "start_char": 3408,
+      "end_char": 3651
+    },
+    {
+      "type": "programme",
+      "text": "• NCV level 4 in Primary Agriculture\nwith at least 50% for English (Home\nLanguage or First Additional\nLanguage), 30% for Mathematics or\n40% for Mathematical Literacy\nStudents will be considered on a\nmonthly basis and students who meet\nor exceed the minimum entrance\nrequirements will be offered places.\nHIGHER CERTIFICATE IN\nICT IN USER SUPPORT\n1 Year | 120 Credit Qualification",
+      "institutionId": "412",
+      "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "start_char": 3652,
+      "end_char": 4030
+    },
+    {
+      "type": "aps",
+      "text": "• Minimum Admission Point Score:\n20 with Mathematics or 22 with\nMathematical Literacy\n• English (Home or First Additional\nLanguage): Level 4\n• Mathematics: Level 2\n• Mathematical Literacy: Level 4\n• Any other Three Content\nSubjects: Level 2",
+      "institutionId": "412",
+      "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "start_char": 4055,
+      "end_char": 4295
+    },
+    {
+      "type": "programme",
+      "text": "• Diploma and/or Higher Certificate\nEndorsement\nNational Certificate (Vocational):\n• Applicants must have completed",
+      "institutionId": "412",
+      "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "start_char": 4296,
+      "end_char": 4411
+    },
+    {
+      "type": "programme",
+      "text": "an NCV level 4 in Information\nTechnology and or a Computer\nScience/Studies Discipline",
+      "institutionId": "412",
+      "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "start_char": 4412,
+      "end_char": 4497
+    },
+    {
+      "type": "aps",
+      "text": "• Minimum Admission Point Score:\n23 with Mathematics or 24 with\nMathematical Literacy\n• English (Home or First Additional\nLanguage): Level 4\n• Mathematics: Level 3",
+      "institutionId": "412",
+      "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "start_char": 4600,
+      "end_char": 4763
+    },
+    {
+      "type": "aps",
+      "text": "• Minimum Admission Point Score: 30\n• English (Home or First Additional\nLanguage): Level 4\n• Mathematics: Level 4 or\nMathematical Literacy: Level 6\n• Life Sciences, Biology or\nAgriculture: Level 4\n• Physical Sciences: Level 4\n• Any other Relevant Subjects: Level 4",
+      "institutionId": "412",
+      "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "start_char": 4858,
+      "end_char": 5122
+    },
+    {
+      "type": "programme",
+      "text": "Bachelor Pass\n• English (Home or First Additional\nLanguage): Level 4\n• Mathematics: Level 4\n• Physical Science: Level 4\n• Two of Life Science, Agricultural\nScience or Geography: Level 4",
+      "institutionId": "412",
+      "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "start_char": 5281,
+      "end_char": 5466
+    },
+    {
+      "type": "aps",
+      "text": "• Minimum Admission Point Score:\n24 with Mathematics or 27 with\nMathematical Literacy\n• English (Home or First Additional\nLanguage): Level 4\n• Mathematics: Level 3\n• Mathematical Literacy: Level 6\n• Physical Science: Level 3\n• Life Sciences or\nAgriculture: Level 4\nNational Certificate (Vocational):",
+      "institutionId": "412",
+      "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "start_char": 5554,
+      "end_char": 5853
+    },
+    {
+      "type": "programme",
+      "text": "• NCV level 4 in Primary Agriculture\nwith at least 50% for English (Home\nLanguage or First Additional\nLanguage), 40% for Mathematics\nor 70% for Mathematical Literacy",
+      "institutionId": "412",
+      "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "start_char": 5854,
+      "end_char": 6019
+    },
+    {
+      "type": "programme",
+      "text": "BACHELOR OF AGRICUL TURE\nIN AGRICUL TURAL EXTENSION\nAND RURAL RESOURCE\nMANAGEMENT\n3 Year | 360 Credit Qualification",
+      "institutionId": "412",
+      "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "start_char": 6020,
+      "end_char": 6135
+    },
+    {
+      "type": "aps",
+      "text": "• Minimum Admission Point Score:\n26 with Mathematics or 28 with\nMathematical Literacy\n• English (Home or First Additional\nLanguage): Level 4\n• Mathematics: Level 4\n• Mathematical Literacy: Level 6\n• Agriculture or Life Science: Level 4\n• Physical Science: Level 4",
+      "institutionId": "412",
+      "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "start_char": 6160,
+      "end_char": 6423
+    },
+    {
+      "type": "aps",
+      "text": "• Minimum Admission Point Score: 30\n• English (Home or First Additional\nLanguage): Level 4\n• Mathematics: Level 4 or\nMathematical Literacy: Level 6\n• Two of Life Science, Physical\nScience or Geography: Level 4\nSouth African students who have\nwritten under another examination\nboard and international students must\nhave similar scores for the same, or\nrelated subjects will be considered.\nStudents who have completed a",
+      "institutionId": "412",
+      "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "start_char": 6527,
+      "end_char": 6944
+    },
+    {
+      "type": "programme",
+      "text": "360 credit Diploma in an appropriate\nfield such as conservation will be\nconsidered for this degree. Students\nwill be considered monthly, and\nstudents who meet or exceed the\nminimum entrance requirements will\nbe offered places.",
+      "institutionId": "412",
+      "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "start_char": 6945,
+      "end_char": 7171
+    },
+    {
+      "type": "aps",
+      "text": "• Minimum Admission Point Score: 30\n• English (Home or First Additional\nLanguage): Level 4\n• Mathematics: Level 4 or\nMathematical Literacy: Level 6\n• Life Science, Physical Science or\nGeography: Level 4\nSouth African students who have written\nunder another examination board\nand international students must have\nsimilar scores for the same or similar\nsubjects to be considered. Students\nwho have completed a 360 credit",
+      "institutionId": "412",
+      "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "start_char": 7257,
+      "end_char": 7675
+    },
+    {
+      "type": "programme",
+      "text": "Diploma in an appropriate field such as\nconservation will be considered for this\ndegree. Students will also be considered\non a monthly basis and students who\nmeet or exceed the minimum entrance\nrequirements will be offered places.",
+      "institutionId": "412",
+      "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "start_char": 7676,
+      "end_char": 7906
+    },
+    {
+      "type": "programme",
+      "text": "• Diploma Endorsement\n• English (Home or First Additional\nLanguage): Level 4\n• One Additional Language\n• Mathematics: Level 4\n• Any other Four Modules",
+      "institutionId": "412",
+      "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "start_char": 8044,
+      "end_char": 8194
+    },
+    {
+      "type": "aps",
+      "text": "• Minimum Admission Point Score: 32\n• English (Home or First Additional\nLanguage): Level 4\n• Mathematics: Level 4",
+      "institutionId": "412",
+      "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "start_char": 8269,
+      "end_char": 8382
+    },
+    {
+      "type": "programme",
+      "text": "• NCV level 4 in fundamental subjects\nwith at least 60% for English, 60%\nfor Mathematics and 70% in four\nvocational subjects relevant to the\nfield of Information Technology.\nStudents with a Higher Certificate",
+      "institutionId": "412",
+      "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "start_char": 8441,
+      "end_char": 8649
+    },
+    {
+      "type": "programme",
+      "text": "or Diploma in a relevant ICT Course\nmay be able to progress or articulate\ninto the BICT in some cases.",
+      "institutionId": "412",
+      "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "start_char": 8650,
+      "end_char": 8752
+    },
+    {
+      "type": "programme",
+      "text": "BACHELOR OF EDUCATION\nIN FOUNDATION PHASE\nTEACHING\n4 Year | 480 Credit Qualification",
+      "institutionId": "412",
+      "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "start_char": 8753,
+      "end_char": 8837
+    },
+    {
+      "type": "aps",
+      "text": "• Minimum Admission Point Score:\n26 with Mathematics or 27 with\nMathematical Literacy\n• Preliminary admission is based\non the final Grade 11 examination\nresults. Final admission is based\non the final Grade 12 results.\n• The prescribed seven subjects\nare the subjects to be used in",
+      "institutionId": "412",
+      "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "start_char": 8862,
+      "end_char": 9142
+    },
+    {
+      "type": "aps",
+      "text": "in the calculation of the APS.\n• If an applicant included more than\nthe minimum of three electives\nin the applicant’s NSC, the four\ncompulsories and the three best\nof the electives will be used.\nStudy with us!\nFor more details on subjects and levels required for each\nof our courses, please visit www.ump.ac.za\nGeneral Enquiries (Switchboard):\nPrivate Bag X 11283, Mbombela, 1200\nc/o D725 and R40, Riverside, Mbombela,\nSouth Africa, 1200\nT el: +27 (0)13 002 0001 / E-mail: info@ump.ac.za",
+      "institutionId": "412",
+      "source_file": "lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "start_char": 9231,
+      "end_char": 9718
+    }
+  ],
+  "matched_files": [
+    "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-mpumalanga.pdf"
+  ],
+  "skipped_chunks": [
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "chunk_index": 0,
+      "chars": 47
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "chunk_index": 1,
+      "chars": 67
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "chunk_index": 2,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "chunk_index": 5,
+      "chars": 65
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "chunk_index": 6,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "chunk_index": 8,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "chunk_index": 12,
+      "chars": 57
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "chunk_index": 13,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "chunk_index": 15,
+      "chars": 60
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "chunk_index": 16,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "chunk_index": 18,
+      "chars": 50
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "chunk_index": 19,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "chunk_index": 20,
+      "chars": 35
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "chunk_index": 22,
+      "chars": 64
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "chunk_index": 23,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "chunk_index": 25,
+      "chars": 60
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "chunk_index": 26,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "chunk_index": 29,
+      "chars": 64
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "chunk_index": 30,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "chunk_index": 33,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "chunk_index": 37,
+      "chars": 77
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "chunk_index": 38,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "chunk_index": 40,
+      "chars": 69
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "chunk_index": 41,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "chunk_index": 43,
+      "chars": 65
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "chunk_index": 44,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "chunk_index": 45,
+      "chars": 67
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "chunk_index": 47,
+      "chars": 62
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "chunk_index": 48,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "chunk_index": 52,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "chunk_index": 54,
+      "chars": 78
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "chunk_index": 55,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "chunk_index": 58,
+      "chars": 60
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "chunk_index": 59,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "chunk_index": 62,
+      "chars": 76
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "chunk_index": 63,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "chunk_index": 64,
+      "chars": 35
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "chunk_index": 66,
+      "chars": 49
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "chunk_index": 67,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "chunk_index": 69,
+      "chars": 57
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "chunk_index": 73,
+      "chars": 23
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "chunk_index": 75,
+      "chars": 20
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/university-of-mpumalanga.pdf",
+      "chunk_index": 76,
+      "chars": 66
+    }
+  ]
+}

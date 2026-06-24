@@ -1,0 +1,89 @@
+{
+  "faculties": [],
+  "programmes": [
+    {
+      "id": "prog:375:Advanced Diploma|da750ccd643e|advanced diploma",
+      "institutionId": "375",
+      "name": "Advanced Diploma",
+      "qualification_type": "Advanced Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/vaal-university-of-technology.pdf",
+      "sourceUrl": "https://vut.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/vaal-university-of-technology.pdf",
+        "char_start": 289,
+        "char_end": 305,
+        "excerpt": "Advanced Diploma"
+      },
+      "normalization_key": "Advanced Diploma|da750ccd643e|advanced diploma",
+      "campuses": [],
+      "merged_from": [
+        "prog:375:Advanced Diploma|da750ccd643e|advanced diploma"
+      ],
+      "source_refs": [
+        "https://vut.ac.za/"
+      ]
+    },
+    {
+      "id": "prog:375:Degree|2c3bbd231bb4|btech",
+      "institutionId": "375",
+      "name": "BTech",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/vaal-university-of-technology.pdf",
+      "sourceUrl": "https://vut.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/vaal-university-of-technology.pdf",
+        "char_start": 280,
+        "char_end": 285,
+        "excerpt": "BTech"
+      },
+      "normalization_key": "Degree|2c3bbd231bb4|btech",
+      "campuses": [],
+      "merged_from": [
+        "prog:375:Degree|2c3bbd231bb4|btech"
+      ],
+      "source_refs": [
+        "https://vut.ac.za/"
+      ]
+    },
+    {
+      "id": "prog:375:Diploma|739cf6bd2980|national diploma",
+      "institutionId": "375",
+      "name": "National Diploma",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/vaal-university-of-technology.pdf",
+      "sourceUrl": "https://vut.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/vaal-university-of-technology.pdf",
+        "char_start": 212,
+        "char_end": 228,
+        "excerpt": "National Diploma"
+      },
+      "normalization_key": "Diploma|739cf6bd2980|national diploma",
+      "campuses": [],
+      "merged_from": [
+        "prog:375:Diploma|739cf6bd2980|national diploma"
+      ],
+      "source_refs": [
+        "https://vut.ac.za/"
+      ]
+    }
+  ],
+  "admissions_rules": [],
+  "aps_rules": [],
+  "llm_calls": 0
+}

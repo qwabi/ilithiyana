@@ -28,6 +28,7 @@ import {
   UserCheck,
   Banknote,
   FileText,
+  Megaphone,
 } from 'lucide-react';
 import { logoutAdmin } from '@/app/actions/admin-actions';
 
@@ -35,6 +36,7 @@ const menuItems = [
   { name: 'Dashboard', icon: LayoutDashboard, href: '/admin/dashboard' },
   { name: 'Applications', icon: GraduationCap, href: '/admin/dashboard/applications' },
   { name: 'Prospective parents', icon: UserPlus, href: '/admin/dashboard/leads' },
+  { name: 'Parent outreach', icon: Megaphone, href: '/admin/dashboard/outreach' },
   { name: 'Learners', icon: Users, href: '/admin/dashboard/learners' },
   { name: 'Parents', icon: UserCircle, href: '/admin/dashboard/parents' },
   { name: 'Tutors', icon: UserCheck, href: '/admin/dashboard/tutors' },

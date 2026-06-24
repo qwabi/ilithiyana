@@ -1,0 +1,13 @@
+{
+  "institutions": 96,
+  "faculties": 123,
+  "programmes": 1252,
+  "admissions_rules": 424,
+  "aps_rules": 19,
+  "llm_calls_total": 0,
+  "etl_status_counts": {
+    "ok": 31,
+    "no_programmes_extracted": 29,
+    "no_matched_file": 36
+  }
+}

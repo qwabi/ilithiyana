@@ -67,6 +67,7 @@ export function ReportsStepClient() {
         {learners.map((learner) => (
           <ReportEntryInline
             key={learner.id}
+            sessionId={sessionId}
             learnerId={learner.id}
             learnerName={`${learner.first_name} ${learner.last_name}`}
             grade={learner.grade}

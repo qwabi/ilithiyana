@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "institution_id": "368",
+    "slug": "university-of-south-africa-unisa",
+    "name": "University of South Africa (UNISA)",
+    "institution_type": "university",
+    "province": null,
+    "city": "Sunnyside",
+    "official_website": "https://www.unisa.ac.za/sites/corporate/default",
+    "detail_source": "https://nationalgovernment.co.za/units/view/368/university-of-south-africa-unisa",
+    "application_url": "https://www.unisa.ac.za/sites/corporate/default/Register-to-study-through-Unisa",
+    "prospectus_url": null,
+    "nsfas_supported": null,
+    "distance_learning": null,
+    "accreditation": {
+      "dh et": "Accredited",
+      "saqa": "Registered"
+    },
+    "qualification_types": [
+      "Undergraduate",
+      "Postgraduate",
+      "Diploma",
+      "Certificate"
+    ]
+  },
+  "profile": {
+    "short_name": "UNISA",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/3/36/University_of_South_Africa_logo.svg",
+    "motto": "Learn to serve",
+    "colors": [
+      "Blue",
+      "Red",
+      "Black"
+    ],
+    "languages": [
+      "English"
+    ],
+    "student_count": "370,000+"
+  },
+  "contact": {
+    "emails": [
+      "uclregistrations@unisa.ac.za",
+      "ucl@unisa.ac.za",
+      "enquire@unisa.ac.za"
+    ],
+    "phone_numbers": [
+      "012 429 4150",
+      "0800 00 1870"
+    ],
+    "physical_address": "Building 14, Sunnyside Campus, Cnr Justice Mahomed & Steve Biko Streets, Sunnyside",
+    "postal_address": "PO Box 392, Unisa, 0003",
+    "socials": {
+      "facebook": "https://www.facebook.com/UniversityOfSouthAfrica",
+      "instagram": "https://www.instagram.com/unisa_universityofsouthafrica/",
+      "linkedin": "https://www.linkedin.com/company/unisa",
+      "x": "https://twitter.com/unisa",
+      "youtube": "https://www.youtube.com/user/UnisaVideos"
+    }
+  },
+  "campuses": [
+    {
+      "name": "Muckleneuk Campus",
+      "city": "Pretoria",
+      "province": "Gauteng",
+      "is_main": null,
+      "type": "Main administrative campus",
+      "address": null,
+      "coordinates": {
+        "lat": -25.7667,
+        "lng": 28.1975
+      },
+      "contact": null
+    },
+    {
+      "name": "Sunnyside Campus",
+      "city": "Pretoria",
+      "province": "Gauteng",
+      "is_main": null,
+      "type": "Student service centre",
+      "address": null,
+      "coordinates": {
+        "lat": null,
+        "lng": null
+      },
+      "contact": null
+    },
+    {
+      "name": "Florida Campus",
+      "city": "Johannesburg",
+      "province": "Gauteng",
+      "is_main": null,
+      "type": "Science and Agriculture",
+      "address": null,
+      "coordinates": {
+        "lat": null,
+        "lng": null
+      },
+      "contact": null
+    }
+  ],
+  "faculties": [
+    {
+      "id": null,
+      "name": "Business Leadership",
+      "overview": null,
+      "kind": null
+    }
+  ],
+  "programmes": [],
+  "admission": {
+    "aps_name": null,
+    "aps_calculation_notes": null,
+    "minimum_aps_for_bachelors": null,
+    "minimum_aps_for_diplomas": null,
+    "minimum_entry_note": null,
+    "life_orientation_cap": null,
+    "aps_rules": [],
+    "programme_requirements": []
+  },
+  "sources": [
+    "enriched_universities.json",
+    "institutions.json"
+  ],
+  "_stats": {
+    "campuses_count": 3,
+    "faculties_count": 1,
+    "programmes_count": 0,
+    "aps_rules_count": 0,
+    "adm_reqs_count": 0
+  }
+}

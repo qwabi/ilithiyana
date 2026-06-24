@@ -1,0 +1,229 @@
+{
+  "institution": {
+    "id": "institution:university-of-the-western-cape",
+    "slug": "university-of-the-western-cape",
+    "institution_id_raw": "371",
+    "name": "University of the Western Cape",
+    "institution_type": "university",
+    "city": "Cape Town",
+    "province": "Western Cape",
+    "official_website": "https://www.uwc.ac.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/371/university-of-the-western-cape",
+    "source_paths": [
+      "enriched_universities.json",
+      "generated/v3/institutions.enriched.json",
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "sector": "higher education",
+      "province": "Western Cape",
+      "city": "Cape Town",
+      "physical_address": "Robert Sobukwe Road, Bellville, Cape Town, 7535",
+      "postal_address": "Private Bag X17, Bellville, 7535",
+      "contact_emails": [
+        "arts@uwc.ac.za",
+        "lawundergradenq@uwc.ac.za",
+        "oswd@uwc.ac.za",
+        "admissions@uwc.ac.za",
+        "edumed-phd@uwc.ac.za",
+        "eduhonours@uwc.ac.za",
+        "orientation@uwc.ac.za",
+        "bmaart@uwc.ac.za",
+        "accounting@uwc.ac.za",
+        "hod-management@uwc.ac.za",
+        "zsmith@uwc.ac.za",
+        "educundergraduate@uwc.ac.za",
+        "chshelpdesk@uwc.ac.za",
+        "artspostgrad@uwc.ac.za",
+        "finaid@uwc.ac.za",
+        "info@uwc.ac.za",
+        "fye@uwc.ac.za",
+        "cdilgee@uwc.ac.za",
+        "studaccount@uwc.ac.za",
+        "isd@uwc.ac.za",
+        "fpetersen@uwc.ac.za",
+        "emsadmin@uwc.ac.za",
+        "edupgce@uwc.ac.za",
+        "chenry@uwc.ac.za",
+        "mamarais@uwc.ac.za",
+        "lawpostgradenq@uwc.ac.za",
+        "scm@uwc.ac.za",
+        "science-postgrad@uwc.ac.za",
+        "naid@uwc.ac.za",
+        "studentnumber@myuwc.ac.za",
+        "dentistry-postgrad@uwc.ac.za",
+        "arooks@uwc.ac.za",
+        "science-undergrad@uwc.ac.za"
+      ],
+      "contact_phone_numbers": [
+        "021 959 3291",
+        "021 959 3164",
+        "021 959 2852",
+        "021 959 2152",
+        "021 959 2276",
+        "021959 3558",
+        "021 959 3900",
+        "021 959 3900/1",
+        "021 959 3426",
+        "021 937 3000"
+      ],
+      "application_url": "https://www.uwc.ac.za/apply-now",
+      "socials": {
+        "facebook": "https://www.facebook.com/pages/UWC-Online/194989287319013",
+        "instagram": "https://www.instagram.com/uwconline",
+        "linkedin": "https://www.linkedin.com/school/uwc/",
+        "x": "https://twitter.com/UWCONLINE",
+        "youtube": ""
+      },
+      "accreditation": {
+        "dh et": "Accredited",
+        "saqa": "Registered"
+      },
+      "sources": [
+        "https://nationalgovernment.co.za/units/view/371/university-of-the-western-cape",
+        "https://www.uwc.ac.za/"
+      ],
+      "qualification_types": [
+        "Undergraduate",
+        "Postgraduate",
+        "Diploma",
+        "Certificate"
+      ],
+      "nsfas_supported": true,
+      "student_accommodation": true,
+      "short_name": "UWC",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/7/71/University_of_the_Western_Cape_logo.png",
+      "colors": [
+        "Blue",
+        "Yellow"
+      ],
+      "motto": "Respice Prospice",
+      "type": "Comprehensive University",
+      "languages": [
+        "English",
+        "Afrikaans",
+        "isiXhosa"
+      ],
+      "student_estimate": "23,000+",
+      "nickname": "Bush",
+      "mascot": "Bushie",
+      "sports_affiliations": []
+    }
+  },
+  "campuses": [
+    {
+      "id": "campus:university-of-the-western-cape--main-campus",
+      "institution_slug": "university-of-the-western-cape",
+      "name": "Main Campus",
+      "city": "Bellville",
+      "province": "Western Cape",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:university-of-the-western-cape--tygerberg-campus",
+      "institution_slug": "university-of-the-western-cape",
+      "name": "Tygerberg Campus",
+      "city": "Bellville",
+      "province": "Western Cape",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    }
+  ],
+  "faculties_best": [
+    {
+      "id": "faculty:university-of-the-western-cape--dentistry--faculty",
+      "institution_slug": "university-of-the-western-cape",
+      "institution_name": "University of the Western Cape",
+      "name": "Dentistry",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "Faculty of Dentistry",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:university-of-the-western-cape--education--faculty",
+      "institution_slug": "university-of-the-western-cape",
+      "institution_name": "University of the Western Cape",
+      "name": "Education",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "Faculty of Education",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:university-of-the-western-cape--natural-sciences--faculty",
+      "institution_slug": "university-of-the-western-cape",
+      "institution_name": "University of the Western Cape",
+      "name": "Natural Sciences",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "Faculty of Natural Sciences",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    }
+  ],
+  "faculties_all": [
+    {
+      "id": "faculty:university-of-the-western-cape--dentistry--faculty",
+      "institution_slug": "university-of-the-western-cape",
+      "institution_name": "University of the Western Cape",
+      "name": "Dentistry",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "Faculty of Dentistry",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:university-of-the-western-cape--education--faculty",
+      "institution_slug": "university-of-the-western-cape",
+      "institution_name": "University of the Western Cape",
+      "name": "Education",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "Faculty of Education",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:university-of-the-western-cape--natural-sciences--faculty",
+      "institution_slug": "university-of-the-western-cape",
+      "institution_name": "University of the Western Cape",
+      "name": "Natural Sciences",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "Faculty of Natural Sciences",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    }
+  ],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 2,
+    "faculties_best": 3,
+    "faculties_all": 3,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

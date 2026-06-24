@@ -1,0 +1,2927 @@
+{
+  "faculties": [
+    {
+      "institutionId": "365",
+      "name": "Medicine achieves this",
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 133926,
+        "char_end": 133958,
+        "excerpt": "School of Medicine achieves this"
+      },
+      "normalization_key": "faculty|medicine achieves this"
+    },
+    {
+      "institutionId": "365",
+      "name": "Tomorrow examination are not eligible",
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 143134,
+        "char_end": 143181,
+        "excerpt": "School of Tomorrow examination are not eligible"
+      },
+      "normalization_key": "faculty|tomorrow examination are not eligible"
+    }
+  ],
+  "programmes": [
+    {
+      "id": "prog:365:Degree|43985ee0d843|bed (foundation phase)",
+      "institutionId": "365",
+      "name": "BEd (Foundation Phase)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 33887,
+        "char_end": 33909,
+        "excerpt": "BEd (Foundation Phase)"
+      },
+      "normalization_key": "Degree|43985ee0d843|bed (foundation phase)"
+    },
+    {
+      "id": "prog:365:Degree|f8703e82a2dc|bed (senior phase/ further education & training)",
+      "institutionId": "365",
+      "name": "BEd (Senior Phase/ Further Education & Training)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 34189,
+        "char_end": 34237,
+        "excerpt": "BEd (Senior Phase/ Further Education & Training)"
+      },
+      "normalization_key": "Degree|f8703e82a2dc|bed (senior phase/ further education & training)"
+    },
+    {
+      "id": "prog:365:Degree|669ca5d2c547|ba (general studies)",
+      "institutionId": "365",
+      "name": "BA (General Studies)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 56111,
+        "char_end": 56131,
+        "excerpt": "BA (General Studies)"
+      },
+      "normalization_key": "Degree|669ca5d2c547|ba (general studies)"
+    },
+    {
+      "id": "prog:365:Degree|970f519c2cad|ba",
+      "institutionId": "365",
+      "name": "BA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 177570,
+        "char_end": 177572,
+        "excerpt": "BA"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:365:Degree|5b16a30ee5c4|ba in music* kn-h-bam nsc-deg with english and lo 4 28 3 yrs",
+      "institutionId": "365",
+      "name": "BA in Music* KN-H-BAM NSC-Deg with English and LO 4 28 3 yrs",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 34605,
+        "char_end": 34665,
+        "excerpt": "BA in Music* KN-H-BAM NSC-Deg with English and LO 4 28 3 yrs"
+      },
+      "normalization_key": "Degree|5b16a30ee5c4|ba in music* kn-h-bam nsc-deg with english and lo 4 28 3 yrs"
+    },
+    {
+      "id": "prog:365:Degree|1e5b6a6ebc4b|ba in music",
+      "institutionId": "365",
+      "name": "BA in Music",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 172544,
+        "char_end": 172555,
+        "excerpt": "BA in Music"
+      },
+      "normalization_key": "Degree|1e5b6a6ebc4b|ba in music"
+    },
+    {
+      "id": "prog:365:Degree|e6a0dec3de80|bachelor of audiology kn-w-bpa",
+      "institutionId": "365",
+      "name": "Bachelor of Audiology KN-W-BPA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 35483,
+        "char_end": 35513,
+        "excerpt": "Bachelor of Audiology KN-W-BPA"
+      },
+      "normalization_key": "Degree|e6a0dec3de80|bachelor of audiology kn-w-bpa"
+    },
+    {
+      "id": "prog:365:Degree|970f519c2cad|ba",
+      "institutionId": "365",
+      "name": "BA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 177570,
+        "char_end": 177572,
+        "excerpt": "BA"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:365:Degree|970f519c2cad|ba",
+      "institutionId": "365",
+      "name": "BA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 177570,
+        "char_end": 177572,
+        "excerpt": "BA"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:365:Degree|4e749992a1bf|bachelor of laws kn-h-bl1",
+      "institutionId": "365",
+      "name": "Bachelor of Laws KN-H-BL1",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 37582,
+        "char_end": 37607,
+        "excerpt": "Bachelor of Laws KN-H-BL1"
+      },
+      "normalization_key": "Degree|4e749992a1bf|bachelor of laws kn-h-bl1"
+    },
+    {
+      "id": "prog:365:Degree|f63dda361fb2|bachelor of administration kn-w-bad nsc-deg with engl & lo 4",
+      "institutionId": "365",
+      "name": "Bachelor of Administration KN-W-BAD NSC-Deg with Engl & LO 4",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 37725,
+        "char_end": 37785,
+        "excerpt": "Bachelor of Administration KN-W-BAD NSC-Deg with Engl & LO 4"
+      },
+      "normalization_key": "Degree|f63dda361fb2|bachelor of administration kn-w-bad nsc-deg with engl & lo 4"
+    },
+    {
+      "id": "prog:365:Degree|d8eb105039fa|bachelor of business science in",
+      "institutionId": "365",
+      "name": "Bachelor of Business Science in",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 6
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 38017,
+        "char_end": 38048,
+        "excerpt": "Bachelor of Business Science in"
+      },
+      "normalization_key": "Degree|d8eb105039fa|bachelor of business science in"
+    },
+    {
+      "id": "prog:365:Degree|d8eb105039fa|bachelor of business science in",
+      "institutionId": "365",
+      "name": "Bachelor of Business Science in",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 6
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 5
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 38017,
+        "char_end": 38048,
+        "excerpt": "Bachelor of Business Science in"
+      },
+      "normalization_key": "Degree|d8eb105039fa|bachelor of business science in"
+    },
+    {
+      "id": "prog:365:Degree|b9ac5a4d64c9|bachelor of science in",
+      "institutionId": "365",
+      "name": "BSc in",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 42611,
+        "char_end": 42633,
+        "excerpt": "Bachelor of Science in"
+      },
+      "normalization_key": "Degree|b9ac5a4d64c9|bachelor of science in"
+    },
+    {
+      "id": "prog:365:Degree|5f75057e98ee|bsc",
+      "institutionId": "365",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 44916,
+        "char_end": 44919,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:365:Degree|5f75057e98ee|bsc",
+      "institutionId": "365",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 44916,
+        "char_end": 44919,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:365:Degree|d86ccbe80b77|ba in music foundation",
+      "institutionId": "365",
+      "name": "BA in Music Foundation",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 46155,
+        "char_end": 46177,
+        "excerpt": "BA in Music Foundation"
+      },
+      "normalization_key": "Degree|d86ccbe80b77|ba in music foundation"
+    },
+    {
+      "id": "prog:365:Degree|d2e525b3023b|ba in music degree. the modules for this",
+      "institutionId": "365",
+      "name": "BA in Music degree. The modules for this",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 46909,
+        "char_end": 46949,
+        "excerpt": "BA in Music degree. The modules for this"
+      },
+      "normalization_key": "Degree|d2e525b3023b|ba in music degree. the modules for this"
+    },
+    {
+      "id": "prog:365:Degree|fbb944b1ed41|ba in music degree. usually",
+      "institutionId": "365",
+      "name": "BA in Music degree. Usually",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 47098,
+        "char_end": 47125,
+        "excerpt": "BA in Music degree. Usually"
+      },
+      "normalization_key": "Degree|fbb944b1ed41|ba in music degree. usually"
+    },
+    {
+      "id": "prog:365:Degree|f605db091bde|ba in music degree, candidates",
+      "institutionId": "365",
+      "name": "BA in Music degree, candidates",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 47209,
+        "char_end": 47239,
+        "excerpt": "BA in Music degree, candidates"
+      },
+      "normalization_key": "Degree|f605db091bde|ba in music degree, candidates"
+    },
+    {
+      "id": "prog:365:Degree|88b8bf4e2263|bachelor of commerce",
+      "institutionId": "365",
+      "name": "BCom",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 191484,
+        "char_end": 191504,
+        "excerpt": "Bachelor of Commerce"
+      },
+      "normalization_key": "Degree|88b8bf4e2263|bachelor of commerce"
+    },
+    {
+      "id": "prog:365:Degree|88b8bf4e2263|bachelor of commerce",
+      "institutionId": "365",
+      "name": "BCom",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 191484,
+        "char_end": 191504,
+        "excerpt": "Bachelor of Commerce"
+      },
+      "normalization_key": "Degree|88b8bf4e2263|bachelor of commerce"
+    },
+    {
+      "id": "prog:365:Degree|06b6dd708483|bed in residence.",
+      "institutionId": "365",
+      "name": "bed in residence.",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 50414,
+        "char_end": 50431,
+        "excerpt": "bed in residence."
+      },
+      "normalization_key": "Degree|06b6dd708483|bed in residence."
+    },
+    {
+      "id": "prog:365:Degree|f8a4af34e3a4|bed in residence and",
+      "institutionId": "365",
+      "name": "bed in residence and",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 54747,
+        "char_end": 54767,
+        "excerpt": "bed in residence and"
+      },
+      "normalization_key": "Degree|f8a4af34e3a4|bed in residence and"
+    },
+    {
+      "id": "prog:365:Degree|669ca5d2c547|ba (general studies)",
+      "institutionId": "365",
+      "name": "BA (General Studies)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 56111,
+        "char_end": 56131,
+        "excerpt": "BA (General Studies)"
+      },
+      "normalization_key": "Degree|669ca5d2c547|ba (general studies)"
+    },
+    {
+      "id": "prog:365:Postgraduate|95084bc691cd|honours leading diabetes researcher with fellowship – ukzn fellow, professor sha",
+      "institutionId": "365",
+      "name": "Honours Leading Diabetes Researcher with Fellowship – UKZN Fellow, Professor Shahidul Islam.",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 76566,
+        "char_end": 76658,
+        "excerpt": "Honours Leading Diabetes Researcher with Fellowship – UKZN Fellow, Professor Shahidul Islam."
+      },
+      "normalization_key": "Postgraduate|95084bc691cd|honours leading diabetes researcher with fellowship – ukzn fellow, professor sha"
+    },
+    {
+      "id": "prog:365:Postgraduate|1153244cd7de|doctorate for senior statistician – dr nobuhle mchunu",
+      "institutionId": "365",
+      "name": "Doctorate for Senior Statistician – Dr Nobuhle Mchunu",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 98968,
+        "char_end": 99021,
+        "excerpt": "Doctorate for Senior Statistician – Dr Nobuhle Mchunu"
+      },
+      "normalization_key": "Postgraduate|1153244cd7de|doctorate for senior statistician – dr nobuhle mchunu"
+    },
+    {
+      "id": "prog:365:Postgraduate|0ad1e2ef15cd|honours, masters and doctoral levels.",
+      "institutionId": "365",
+      "name": "Honours, Masters and Doctoral levels.",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 114240,
+        "char_end": 114277,
+        "excerpt": "Honours, Masters and Doctoral levels."
+      },
+      "normalization_key": "Postgraduate|0ad1e2ef15cd|honours, masters and doctoral levels."
+    },
+    {
+      "id": "prog:365:Degree|35137d0d81e3|bachelor of science in land surveying",
+      "institutionId": "365",
+      "name": "BSc in Land Surveying",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 114392,
+        "char_end": 114429,
+        "excerpt": "Bachelor of Science in Land Surveying"
+      },
+      "normalization_key": "Degree|35137d0d81e3|bachelor of science in land surveying"
+    },
+    {
+      "id": "prog:365:Degree|ff05542deb02|bachelor of science in land",
+      "institutionId": "365",
+      "name": "BSc in Land",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Life Orientation",
+            "minimum_percentage": 4
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 123189,
+        "char_end": 123216,
+        "excerpt": "Bachelor of Science in Land"
+      },
+      "normalization_key": "Degree|ff05542deb02|bachelor of science in land"
+    },
+    {
+      "id": "prog:365:Degree|3ec49eaee52b|bachelor of science in engineering",
+      "institutionId": "365",
+      "name": "BSc in Engineering",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 121642,
+        "char_end": 121676,
+        "excerpt": "Bachelor of Science in Engineering"
+      },
+      "normalization_key": "Degree|3ec49eaee52b|bachelor of science in engineering"
+    },
+    {
+      "id": "prog:365:Degree|ff05542deb02|bachelor of science in land",
+      "institutionId": "365",
+      "name": "BSc in Land",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 123189,
+        "char_end": 123216,
+        "excerpt": "Bachelor of Science in Land"
+      },
+      "normalization_key": "Degree|ff05542deb02|bachelor of science in land"
+    },
+    {
+      "id": "prog:365:Degree|95b4553d6562|bachelor of agriculture degrees are offered only",
+      "institutionId": "365",
+      "name": "Bachelor of Agriculture degrees are offered only",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 124334,
+        "char_end": 124382,
+        "excerpt": "Bachelor of Agriculture degrees are offered only"
+      },
+      "normalization_key": "Degree|95b4553d6562|bachelor of agriculture degrees are offered only"
+    },
+    {
+      "id": "prog:365:Degree|c3c71f7c6239|bachelor of science in dietetics",
+      "institutionId": "365",
+      "name": "BSc in Dietetics",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 124888,
+        "char_end": 124920,
+        "excerpt": "Bachelor of Science in Dietetics"
+      },
+      "normalization_key": "Degree|c3c71f7c6239|bachelor of science in dietetics"
+    },
+    {
+      "id": "prog:365:Degree|e990c9a58993|bachelor of science (augmented programme)",
+      "institutionId": "365",
+      "name": "BSc (Augmented Programme)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 125786,
+        "char_end": 125827,
+        "excerpt": "Bachelor of Science (Augmented Programme)"
+      },
+      "normalization_key": "Degree|e990c9a58993|bachelor of science (augmented programme)"
+    },
+    {
+      "id": "prog:365:Degree|78d183af166a|bachelor of science",
+      "institutionId": "365",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 127107,
+        "char_end": 127126,
+        "excerpt": "Bachelor of Science"
+      },
+      "normalization_key": "Degree|78d183af166a|bachelor of science"
+    },
+    {
+      "id": "prog:365:Degree|c67103e9fbe1|bachelor of science (b sc) runs over",
+      "institutionId": "365",
+      "name": "BSc (B Sc) runs over",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 127280,
+        "char_end": 127316,
+        "excerpt": "Bachelor of Science (B Sc) runs over"
+      },
+      "normalization_key": "Degree|c67103e9fbe1|bachelor of science (b sc) runs over"
+    },
+    {
+      "id": "prog:365:Degree|aaac907f08b9|bachelor of agricultural management, a pass in",
+      "institutionId": "365",
+      "name": "Bachelor of Agricultural Management, a pass in",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 128264,
+        "char_end": 128310,
+        "excerpt": "Bachelor of Agricultural Management, a pass in"
+      },
+      "normalization_key": "Degree|aaac907f08b9|bachelor of agricultural management, a pass in"
+    },
+    {
+      "id": "prog:365:Degree|9d1b7368441c|bachelor of agricultural management",
+      "institutionId": "365",
+      "name": "Bachelor of Agricultural Management",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 129263,
+        "char_end": 129298,
+        "excerpt": "Bachelor of Agricultural Management"
+      },
+      "normalization_key": "Degree|9d1b7368441c|bachelor of agricultural management"
+    },
+    {
+      "id": "prog:365:Degree|35ab17d242de|bachelor of agriculture is aimed at",
+      "institutionId": "365",
+      "name": "Bachelor of Agriculture is aimed at",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 129378,
+        "char_end": 129413,
+        "excerpt": "Bachelor of Agriculture is aimed at"
+      },
+      "normalization_key": "Degree|35ab17d242de|bachelor of agriculture is aimed at"
+    },
+    {
+      "id": "prog:365:Degree|0e18b34a173b|bachelor of agricultural",
+      "institutionId": "365",
+      "name": "Bachelor of Agricultural",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 129583,
+        "char_end": 129607,
+        "excerpt": "Bachelor of Agricultural"
+      },
+      "normalization_key": "Degree|0e18b34a173b|bachelor of agricultural"
+    },
+    {
+      "id": "prog:365:Degree|208024c5c2ef|bachelor of science in agriculture",
+      "institutionId": "365",
+      "name": "BSc in Agriculture",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 129986,
+        "char_end": 130020,
+        "excerpt": "Bachelor of Science in Agriculture"
+      },
+      "normalization_key": "Degree|208024c5c2ef|bachelor of science in agriculture"
+    },
+    {
+      "id": "prog:365:Degree|0010105862c4|bachelor of science in dietetics and",
+      "institutionId": "365",
+      "name": "BSc in Dietetics and",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 152751,
+        "char_end": 152787,
+        "excerpt": "Bachelor of Science in Dietetics and"
+      },
+      "normalization_key": "Degree|0010105862c4|bachelor of science in dietetics and"
+    },
+    {
+      "id": "prog:365:Degree|ad223ba63aff|bachelor of surgery",
+      "institutionId": "365",
+      "name": "Bachelor of Surgery",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 134348,
+        "char_end": 134367,
+        "excerpt": "Bachelor of Surgery"
+      },
+      "normalization_key": "Degree|ad223ba63aff|bachelor of surgery"
+    },
+    {
+      "id": "prog:365:Degree|21829e16502c|bachelor of nursing",
+      "institutionId": "365",
+      "name": "Bachelor of Nursing",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 135718,
+        "char_end": 135737,
+        "excerpt": "Bachelor of Nursing"
+      },
+      "normalization_key": "Degree|21829e16502c|bachelor of nursing"
+    },
+    {
+      "id": "prog:365:Degree|19d503ad6f75|bachelor of audiology",
+      "institutionId": "365",
+      "name": "Bachelor of Audiology",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 143260,
+        "char_end": 143281,
+        "excerpt": "Bachelor of Audiology"
+      },
+      "normalization_key": "Degree|19d503ad6f75|bachelor of audiology"
+    },
+    {
+      "id": "prog:365:Degree|ef51999f9095|bachelor of speech-language",
+      "institutionId": "365",
+      "name": "Bachelor of Speech-Language",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 144038,
+        "char_end": 144065,
+        "excerpt": "Bachelor of Speech-Language"
+      },
+      "normalization_key": "Degree|ef51999f9095|bachelor of speech-language"
+    },
+    {
+      "id": "prog:365:Degree|2f0f66c81ba7|bachelor of dental therapy",
+      "institutionId": "365",
+      "name": "Bachelor of Dental Therapy",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 145000,
+        "char_end": 145026,
+        "excerpt": "Bachelor of Dental Therapy"
+      },
+      "normalization_key": "Degree|2f0f66c81ba7|bachelor of dental therapy"
+    },
+    {
+      "id": "prog:365:Degree|5aafcbbaeb6f|bachelor of dental therapy degree",
+      "institutionId": "365",
+      "name": "Bachelor of Dental Therapy degree",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 145267,
+        "char_end": 145300,
+        "excerpt": "Bachelor of Dental Therapy degree"
+      },
+      "normalization_key": "Degree|5aafcbbaeb6f|bachelor of dental therapy degree"
+    },
+    {
+      "id": "prog:365:Degree|639afb36cf4b|bachelor of oral hygiene",
+      "institutionId": "365",
+      "name": "Bachelor of Oral Hygiene",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 146211,
+        "char_end": 146235,
+        "excerpt": "Bachelor of Oral Hygiene"
+      },
+      "normalization_key": "Degree|639afb36cf4b|bachelor of oral hygiene"
+    },
+    {
+      "id": "prog:365:Degree|30e796138a7e|bachelor of oral hygiene degree",
+      "institutionId": "365",
+      "name": "Bachelor of Oral Hygiene degree",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 146476,
+        "char_end": 146507,
+        "excerpt": "Bachelor of Oral Hygiene degree"
+      },
+      "normalization_key": "Degree|30e796138a7e|bachelor of oral hygiene degree"
+    },
+    {
+      "id": "prog:365:Degree|b0ccc970af6a|bachelor of occupational therapy",
+      "institutionId": "365",
+      "name": "Bachelor of Occupational Therapy",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 147421,
+        "char_end": 147453,
+        "excerpt": "Bachelor of Occupational Therapy"
+      },
+      "normalization_key": "Degree|b0ccc970af6a|bachelor of occupational therapy"
+    },
+    {
+      "id": "prog:365:Degree|a8076f1d4508|bachelor of occupational therapy, allows",
+      "institutionId": "365",
+      "name": "Bachelor of Occupational Therapy, allows",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 148833,
+        "char_end": 148873,
+        "excerpt": "Bachelor of Occupational Therapy, allows"
+      },
+      "normalization_key": "Degree|a8076f1d4508|bachelor of occupational therapy, allows"
+    },
+    {
+      "id": "prog:365:Degree|e70f0c623674|bachelor of optometry",
+      "institutionId": "365",
+      "name": "Bachelor of Optometry",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 149759,
+        "char_end": 149780,
+        "excerpt": "Bachelor of Optometry"
+      },
+      "normalization_key": "Degree|e70f0c623674|bachelor of optometry"
+    },
+    {
+      "id": "prog:365:Degree|e5d244cd2013|bachelor of pharmacy",
+      "institutionId": "365",
+      "name": "Bachelor of Pharmacy",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 150306,
+        "char_end": 150326,
+        "excerpt": "Bachelor of Pharmacy"
+      },
+      "normalization_key": "Degree|e5d244cd2013|bachelor of pharmacy"
+    },
+    {
+      "id": "prog:365:Degree|281dea65e79e|bachelor of pharmacy degree is designed to",
+      "institutionId": "365",
+      "name": "Bachelor of Pharmacy degree is designed to",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 150511,
+        "char_end": 150553,
+        "excerpt": "Bachelor of Pharmacy degree is designed to"
+      },
+      "normalization_key": "Degree|281dea65e79e|bachelor of pharmacy degree is designed to"
+    },
+    {
+      "id": "prog:365:Degree|f3e3530b9587|bachelor of physiotherapy",
+      "institutionId": "365",
+      "name": "Bachelor of Physiotherapy",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 151503,
+        "char_end": 151528,
+        "excerpt": "Bachelor of Physiotherapy"
+      },
+      "normalization_key": "Degree|f3e3530b9587|bachelor of physiotherapy"
+    },
+    {
+      "id": "prog:365:Degree|0010105862c4|bachelor of science in dietetics and",
+      "institutionId": "365",
+      "name": "BSc in Dietetics and",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 152751,
+        "char_end": 152787,
+        "excerpt": "Bachelor of Science in Dietetics and"
+      },
+      "normalization_key": "Degree|0010105862c4|bachelor of science in dietetics and"
+    },
+    {
+      "id": "prog:365:Degree|3a93937831cb|bachelor of sports science",
+      "institutionId": "365",
+      "name": "Bachelor of Sports Science",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 153179,
+        "char_end": 153205,
+        "excerpt": "Bachelor of Sports Science"
+      },
+      "normalization_key": "Degree|3a93937831cb|bachelor of sports science"
+    },
+    {
+      "id": "prog:365:Postgraduate|4791d8652bc6|hons)",
+      "institutionId": "365",
+      "name": "Hons)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 153990,
+        "char_end": 153995,
+        "excerpt": "Hons)"
+      },
+      "normalization_key": "Postgraduate|4791d8652bc6|hons)"
+    },
+    {
+      "id": "prog:365:Degree|06aebba52c82|bachelor of medical science",
+      "institutionId": "365",
+      "name": "Bachelor of Medical Science",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 156467,
+        "char_end": 156494,
+        "excerpt": "Bachelor of Medical Science"
+      },
+      "normalization_key": "Degree|06aebba52c82|bachelor of medical science"
+    },
+    {
+      "id": "prog:365:Degree|06aebba52c82|bachelor of medical science",
+      "institutionId": "365",
+      "name": "Bachelor of Medical Science",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 156467,
+        "char_end": 156494,
+        "excerpt": "Bachelor of Medical Science"
+      },
+      "normalization_key": "Degree|06aebba52c82|bachelor of medical science"
+    },
+    {
+      "id": "prog:365:Degree|133b87641b6d|bachelor of education undergraduate degree",
+      "institutionId": "365",
+      "name": "Bachelor of Education undergraduate degree",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 159813,
+        "char_end": 159855,
+        "excerpt": "Bachelor of Education undergraduate degree"
+      },
+      "normalization_key": "Degree|133b87641b6d|bachelor of education undergraduate degree"
+    },
+    {
+      "id": "prog:365:Postgraduate|a6c398e2adb1|honours, masters and doctoral study",
+      "institutionId": "365",
+      "name": "Honours, Masters and Doctoral study",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 159961,
+        "char_end": 159996,
+        "excerpt": "Honours, Masters and Doctoral study"
+      },
+      "normalization_key": "Postgraduate|a6c398e2adb1|honours, masters and doctoral study"
+    },
+    {
+      "id": "prog:365:Degree|12fe17ce28a9|bachelor of education",
+      "institutionId": "365",
+      "name": "Bachelor of Education",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Life Orientation",
+            "minimum_percentage": 4
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 161549,
+        "char_end": 161570,
+        "excerpt": "Bachelor of Education"
+      },
+      "normalization_key": "Degree|12fe17ce28a9|bachelor of education"
+    },
+    {
+      "id": "prog:365:Degree|c5052532c220|bed",
+      "institutionId": "365",
+      "name": "BEd",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Life Orientation",
+            "minimum_percentage": 4
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 161686,
+        "char_end": 161689,
+        "excerpt": "BEd"
+      },
+      "normalization_key": "Degree|c5052532c220|bed"
+    },
+    {
+      "id": "prog:365:Degree|c5052532c220|bed",
+      "institutionId": "365",
+      "name": "BEd",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Life Orientation",
+            "minimum_percentage": 4
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 161686,
+        "char_end": 161689,
+        "excerpt": "BEd"
+      },
+      "normalization_key": "Degree|c5052532c220|bed"
+    },
+    {
+      "id": "prog:365:Degree|fb8ecc7c7f73|bachelor of social science",
+      "institutionId": "365",
+      "name": "Bachelor of Social Science",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 177088,
+        "char_end": 177114,
+        "excerpt": "Bachelor of Social Science"
+      },
+      "normalization_key": "Degree|fb8ecc7c7f73|bachelor of social science"
+    },
+    {
+      "id": "prog:365:Degree|347b3f304210|bachelor of theology,",
+      "institutionId": "365",
+      "name": "Bachelor of Theology,",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 164356,
+        "char_end": 164377,
+        "excerpt": "Bachelor of Theology,"
+      },
+      "normalization_key": "Degree|347b3f304210|bachelor of theology,"
+    },
+    {
+      "id": "prog:365:Degree|970f519c2cad|ba",
+      "institutionId": "365",
+      "name": "BA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 177570,
+        "char_end": 177572,
+        "excerpt": "BA"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:365:Degree|5ba1fa15d773|ba (cultural and heritage tourism)",
+      "institutionId": "365",
+      "name": "BA (Cultural and Heritage Tourism)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 167694,
+        "char_end": 167728,
+        "excerpt": "BA (Cultural and Heritage Tourism)"
+      },
+      "normalization_key": "Degree|5ba1fa15d773|ba (cultural and heritage tourism)"
+    },
+    {
+      "id": "prog:365:Degree|cd090faf6bb0|ba (international studies)",
+      "institutionId": "365",
+      "name": "BA (International Studies)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 172328,
+        "char_end": 172354,
+        "excerpt": "BA (International Studies)"
+      },
+      "normalization_key": "Degree|cd090faf6bb0|ba (international studies)"
+    },
+    {
+      "id": "prog:365:Degree|e14564b1e092|ba (philosophy, politics and law)",
+      "institutionId": "365",
+      "name": "BA (Philosophy, Politics and Law)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 173233,
+        "char_end": 173266,
+        "excerpt": "BA (Philosophy, Politics and Law)"
+      },
+      "normalization_key": "Degree|e14564b1e092|ba (philosophy, politics and law)"
+    },
+    {
+      "id": "prog:365:Degree|f6a01ec2a83e|ba (visual art)",
+      "institutionId": "365",
+      "name": "BA (Visual Art)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 173824,
+        "char_end": 173839,
+        "excerpt": "BA (Visual Art)"
+      },
+      "normalization_key": "Degree|f6a01ec2a83e|ba (visual art)"
+    },
+    {
+      "id": "prog:365:Degree|970f519c2cad|ba",
+      "institutionId": "365",
+      "name": "BA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 177570,
+        "char_end": 177572,
+        "excerpt": "BA"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:365:Degree|970f519c2cad|ba",
+      "institutionId": "365",
+      "name": "BA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 177570,
+        "char_end": 177572,
+        "excerpt": "BA"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:365:Degree|5ba1fa15d773|ba (cultural and heritage tourism)",
+      "institutionId": "365",
+      "name": "BA (Cultural and Heritage Tourism)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 167694,
+        "char_end": 167728,
+        "excerpt": "BA (Cultural and Heritage Tourism)"
+      },
+      "normalization_key": "Degree|5ba1fa15d773|ba (cultural and heritage tourism)"
+    },
+    {
+      "id": "prog:365:Degree|5ba1fa15d773|ba (cultural and heritage tourism)",
+      "institutionId": "365",
+      "name": "BA (Cultural and Heritage Tourism)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 167694,
+        "char_end": 167728,
+        "excerpt": "BA (Cultural and Heritage Tourism)"
+      },
+      "normalization_key": "Degree|5ba1fa15d773|ba (cultural and heritage tourism)"
+    },
+    {
+      "id": "prog:365:Degree|9ec3f23682fa|bachelor of social science in housing. the degree",
+      "institutionId": "365",
+      "name": "Bachelor of Social Science in Housing. The degree",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 170474,
+        "char_end": 170523,
+        "excerpt": "Bachelor of Social Science in Housing. The degree"
+      },
+      "normalization_key": "Degree|9ec3f23682fa|bachelor of social science in housing. the degree"
+    },
+    {
+      "id": "prog:365:Postgraduate|08c37e18df45|phd research investigates radioactivity in materials used in sa’s building indus",
+      "institutionId": "365",
+      "name": "PhD Research Investigates Radioactivity in Materials used in SA’s Building Industry – Dr Olusegun Omogu",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 170809,
+        "char_end": 170912,
+        "excerpt": "PhD Research Investigates Radioactivity in Materials used in SA’s Building Industry – Dr Olusegun Omogu"
+      },
+      "normalization_key": "Postgraduate|08c37e18df45|phd research investigates radioactivity in materials used in sa’s building indus"
+    },
+    {
+      "id": "prog:365:Postgraduate|235b5ef052bc|masters in housing.",
+      "institutionId": "365",
+      "name": "Masters in Housing.",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 171402,
+        "char_end": 171421,
+        "excerpt": "Masters in Housing."
+      },
+      "normalization_key": "Postgraduate|235b5ef052bc|masters in housing."
+    },
+    {
+      "id": "prog:365:Degree|cd090faf6bb0|ba (international studies)",
+      "institutionId": "365",
+      "name": "BA (International Studies)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 172328,
+        "char_end": 172354,
+        "excerpt": "BA (International Studies)"
+      },
+      "normalization_key": "Degree|cd090faf6bb0|ba (international studies)"
+    },
+    {
+      "id": "prog:365:Degree|cd090faf6bb0|ba (international studies)",
+      "institutionId": "365",
+      "name": "BA (International Studies)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 172328,
+        "char_end": 172354,
+        "excerpt": "BA (International Studies)"
+      },
+      "normalization_key": "Degree|cd090faf6bb0|ba (international studies)"
+    },
+    {
+      "id": "prog:365:Degree|1e5b6a6ebc4b|ba in music",
+      "institutionId": "365",
+      "name": "BA in Music",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 172544,
+        "char_end": 172555,
+        "excerpt": "BA in Music"
+      },
+      "normalization_key": "Degree|1e5b6a6ebc4b|ba in music"
+    },
+    {
+      "id": "prog:365:Degree|4db4bfc37b3c|ba in music programme",
+      "institutionId": "365",
+      "name": "BA in Music programme",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 172576,
+        "char_end": 172597,
+        "excerpt": "BA in Music programme"
+      },
+      "normalization_key": "Degree|4db4bfc37b3c|ba in music programme"
+    },
+    {
+      "id": "prog:365:Degree|e14564b1e092|ba (philosophy, politics and law)",
+      "institutionId": "365",
+      "name": "BA (Philosophy, Politics and Law)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 173233,
+        "char_end": 173266,
+        "excerpt": "BA (Philosophy, Politics and Law)"
+      },
+      "normalization_key": "Degree|e14564b1e092|ba (philosophy, politics and law)"
+    },
+    {
+      "id": "prog:365:Degree|f6a01ec2a83e|ba (visual art)",
+      "institutionId": "365",
+      "name": "BA (Visual Art)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 173824,
+        "char_end": 173839,
+        "excerpt": "BA (Visual Art)"
+      },
+      "normalization_key": "Degree|f6a01ec2a83e|ba (visual art)"
+    },
+    {
+      "id": "prog:365:Degree|f6a01ec2a83e|ba (visual art)",
+      "institutionId": "365",
+      "name": "BA (Visual Art)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 173824,
+        "char_end": 173839,
+        "excerpt": "BA (Visual Art)"
+      },
+      "normalization_key": "Degree|f6a01ec2a83e|ba (visual art)"
+    },
+    {
+      "id": "prog:365:Degree|00463fb9479b|bachelor of architectural studies",
+      "institutionId": "365",
+      "name": "Bachelor of Architectural Studies",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 174314,
+        "char_end": 174347,
+        "excerpt": "Bachelor of Architectural Studies"
+      },
+      "normalization_key": "Degree|00463fb9479b|bachelor of architectural studies"
+    },
+    {
+      "id": "prog:365:Degree|d2888318e214|bachelor of theology structure",
+      "institutionId": "365",
+      "name": "Bachelor of Theology structure",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 176290,
+        "char_end": 176320,
+        "excerpt": "Bachelor of Theology structure"
+      },
+      "normalization_key": "Degree|d2888318e214|bachelor of theology structure"
+    },
+    {
+      "id": "prog:365:Degree|fb8ecc7c7f73|bachelor of social science",
+      "institutionId": "365",
+      "name": "Bachelor of Social Science",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 177088,
+        "char_end": 177114,
+        "excerpt": "Bachelor of Social Science"
+      },
+      "normalization_key": "Degree|fb8ecc7c7f73|bachelor of social science"
+    },
+    {
+      "id": "prog:365:Degree|970f519c2cad|ba",
+      "institutionId": "365",
+      "name": "BA",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 177570,
+        "char_end": 177572,
+        "excerpt": "BA"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:365:Degree|c7c6263d2d82|bachelor of laws (llb)",
+      "institutionId": "365",
+      "name": "Bachelor of Laws (LLB)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 181081,
+        "char_end": 181103,
+        "excerpt": "Bachelor of Laws (LLB)"
+      },
+      "normalization_key": "Degree|c7c6263d2d82|bachelor of laws (llb)"
+    },
+    {
+      "id": "prog:365:Degree|c7c6263d2d82|bachelor of laws (llb)",
+      "institutionId": "365",
+      "name": "Bachelor of Laws (LLB)",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 3
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 181081,
+        "char_end": 181103,
+        "excerpt": "Bachelor of Laws (LLB)"
+      },
+      "normalization_key": "Degree|c7c6263d2d82|bachelor of laws (llb)"
+    },
+    {
+      "id": "prog:365:Degree|8f3ad5f2d168|bachelor of arts or bachelor of",
+      "institutionId": "365",
+      "name": "BA or Bachelor of",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 181786,
+        "char_end": 181817,
+        "excerpt": "Bachelor of Arts or Bachelor of"
+      },
+      "normalization_key": "Degree|8f3ad5f2d168|bachelor of arts or bachelor of"
+    },
+    {
+      "id": "prog:365:Degree|6d86063eaf6f|bachelor of social science degree with",
+      "institutionId": "365",
+      "name": "Bachelor of Social Science degree with",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 182354,
+        "char_end": 182392,
+        "excerpt": "Bachelor of Social Science degree with"
+      },
+      "normalization_key": "Degree|6d86063eaf6f|bachelor of social science degree with"
+    },
+    {
+      "id": "prog:365:Degree|31f61e18eb90|bachelor of business administration,",
+      "institutionId": "365",
+      "name": "Bachelor of Business Administration,",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 183761,
+        "char_end": 183797,
+        "excerpt": "Bachelor of Business Administration,"
+      },
+      "normalization_key": "Degree|31f61e18eb90|bachelor of business administration,"
+    },
+    {
+      "id": "prog:365:Degree|b6f78cd72d99|bachelor of business science,",
+      "institutionId": "365",
+      "name": "Bachelor of Business Science,",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 183979,
+        "char_end": 184008,
+        "excerpt": "Bachelor of Business Science,"
+      },
+      "normalization_key": "Degree|b6f78cd72d99|bachelor of business science,"
+    },
+    {
+      "id": "prog:365:Degree|8615d60d8ee5|bachelor of administration require a minimum of",
+      "institutionId": "365",
+      "name": "Bachelor of Administration require a minimum of",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 184470,
+        "char_end": 184517,
+        "excerpt": "Bachelor of Administration require a minimum of"
+      },
+      "normalization_key": "Degree|8615d60d8ee5|bachelor of administration require a minimum of"
+    },
+    {
+      "id": "prog:365:Degree|b5508e98e435|bcom",
+      "institutionId": "365",
+      "name": "BCom",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": 28,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 191253,
+        "char_end": 191257,
+        "excerpt": "BCom"
+      },
+      "normalization_key": "Degree|b5508e98e435|bcom"
+    },
+    {
+      "id": "prog:365:Degree|8ceb344dfa96|bachelor of business administration",
+      "institutionId": "365",
+      "name": "Bachelor of Business Administration",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 185528,
+        "char_end": 185563,
+        "excerpt": "Bachelor of Business Administration"
+      },
+      "normalization_key": "Degree|8ceb344dfa96|bachelor of business administration"
+    },
+    {
+      "id": "prog:365:Degree|47aa9cb62685|bachelor of business",
+      "institutionId": "365",
+      "name": "Bachelor of Business",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4
+          },
+          {
+            "subject": "Life Orientation",
+            "minimum_percentage": 3
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 185701,
+        "char_end": 185721,
+        "excerpt": "Bachelor of Business"
+      },
+      "normalization_key": "Degree|47aa9cb62685|bachelor of business"
+    },
+    {
+      "id": "prog:365:Degree|88b8bf4e2263|bachelor of commerce",
+      "institutionId": "365",
+      "name": "BCom",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 191484,
+        "char_end": 191504,
+        "excerpt": "Bachelor of Commerce"
+      },
+      "normalization_key": "Degree|88b8bf4e2263|bachelor of commerce"
+    },
+    {
+      "id": "prog:365:Degree|14016cf972cc|bachelor of commerce in accounting",
+      "institutionId": "365",
+      "name": "BCom in Accounting",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 188214,
+        "char_end": 188248,
+        "excerpt": "Bachelor of Commerce in Accounting"
+      },
+      "normalization_key": "Degree|14016cf972cc|bachelor of commerce in accounting"
+    },
+    {
+      "id": "prog:365:Degree|984854d416f6|bachelor of business science",
+      "institutionId": "365",
+      "name": "Bachelor of Business Science",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 188770,
+        "char_end": 188798,
+        "excerpt": "Bachelor of Business Science"
+      },
+      "normalization_key": "Degree|984854d416f6|bachelor of business science"
+    },
+    {
+      "id": "prog:365:Degree|c102ca6f0d81|bachelor of commerce qualification, with a higher",
+      "institutionId": "365",
+      "name": "BCom qualification, with a higher",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 189366,
+        "char_end": 189415,
+        "excerpt": "Bachelor of Commerce qualification, with a higher"
+      },
+      "normalization_key": "Degree|c102ca6f0d81|bachelor of commerce qualification, with a higher"
+    },
+    {
+      "id": "prog:365:Degree|b5508e98e435|bcom",
+      "institutionId": "365",
+      "name": "BCom",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": 28,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 191253,
+        "char_end": 191257,
+        "excerpt": "BCom"
+      },
+      "normalization_key": "Degree|b5508e98e435|bcom"
+    },
+    {
+      "id": "prog:365:Degree|b5508e98e435|bcom",
+      "institutionId": "365",
+      "name": "BCom",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": 28,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 191253,
+        "char_end": 191257,
+        "excerpt": "BCom"
+      },
+      "normalization_key": "Degree|b5508e98e435|bcom"
+    },
+    {
+      "id": "prog:365:Degree|88b8bf4e2263|bachelor of commerce",
+      "institutionId": "365",
+      "name": "BCom",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 191484,
+        "char_end": 191504,
+        "excerpt": "Bachelor of Commerce"
+      },
+      "normalization_key": "Degree|88b8bf4e2263|bachelor of commerce"
+    }
+  ],
+  "admissions_rules": [
+    {
+      "id": "adm:365:Degree|43985ee0d843|bed (foundation phase):subjects",
+      "institutionId": "365",
+      "programmeId": "prog:365:Degree|43985ee0d843|bed (foundation phase)",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 3%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 3,
+          "raw_span": "Mathematical\nLiteracy or a rating of 3 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+            "char_start": 33973,
+            "char_end": 34012,
+            "excerpt": "Mathematical Literacy or a rating of 3"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf"
+    },
+    {
+      "id": "adm:365:Degree|970f519c2cad|ba:subjects",
+      "institutionId": "365",
+      "programmeId": "prog:365:Degree|970f519c2cad|ba",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 4%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 4,
+          "raw_span": "Maths L4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+            "char_start": 35123,
+            "char_end": 35132,
+            "excerpt": "Maths L4"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf"
+    },
+    {
+      "id": "adm:365:Degree|5b16a30ee5c4|ba in music* kn-h-bam nsc-deg with english and lo 4 28 3 yrs:subjects",
+      "institutionId": "365",
+      "programmeId": "prog:365:Degree|5b16a30ee5c4|ba in music* kn-h-bam nsc-deg with english and lo 4 28 3 yrs",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 4%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 4,
+          "raw_span": "Maths L4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+            "char_start": 35123,
+            "char_end": 35132,
+            "excerpt": "Maths L4"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf"
+    },
+    {
+      "id": "adm:365:Degree|1e5b6a6ebc4b|ba in music:subjects",
+      "institutionId": "365",
+      "programmeId": "prog:365:Degree|1e5b6a6ebc4b|ba in music",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 4%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 4,
+          "raw_span": "Maths L4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+            "char_start": 35123,
+            "char_end": 35132,
+            "excerpt": "Maths L4"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf"
+    },
+    {
+      "id": "adm:365:Degree|e6a0dec3de80|bachelor of audiology kn-w-bpa:subjects",
+      "institutionId": "365",
+      "programmeId": "prog:365:Degree|e6a0dec3de80|bachelor of audiology kn-w-bpa",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 3%; Mathematics >= 4%; Mathematics >= 3%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 3,
+          "raw_span": "Maths 3\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+            "char_start": 35725,
+            "char_end": 35733,
+            "excerpt": "Maths 3"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 4,
+          "raw_span": "Maths and Phys Sci 4\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+            "char_start": 35831,
+            "char_end": 35852,
+            "excerpt": "Maths and Phys Sci 4"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 3,
+          "raw_span": "Maths 3 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+            "char_start": 36005,
+            "char_end": 36013,
+            "excerpt": "Maths 3"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf"
+    },
+    {
+      "id": "adm:365:Degree|4e749992a1bf|bachelor of laws kn-h-bl1:subjects",
+      "institutionId": "365",
+      "programmeId": "prog:365:Degree|4e749992a1bf|bachelor of laws kn-h-bl1",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 3%; Mathematics >= 5%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 3,
+          "raw_span": "Maths 3",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+            "char_start": 37648,
+            "char_end": 37655,
+            "excerpt": "Maths 3"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 5,
+          "raw_span": "Maths Lit 5 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+            "char_start": 37656,
+            "char_end": 37668,
+            "excerpt": "Maths Lit 5"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf"
+    },
+    {
+      "id": "adm:365:Degree|f63dda361fb2|bachelor of administration kn-w-bad nsc-deg with engl & lo 4:subjects",
+      "institutionId": "365",
+      "programmeId": "prog:365:Degree|f63dda361fb2|bachelor of administration kn-w-bad nsc-deg with engl & lo 4",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 3%; Mathematics >= 3%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 3,
+          "raw_span": "Maths 3 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+            "char_start": 37788,
+            "char_end": 37796,
+            "excerpt": "Maths 3"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 3,
+          "raw_span": "Maths 3 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+            "char_start": 37907,
+            "char_end": 37915,
+            "excerpt": "Maths 3"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf"
+    },
+    {
+      "id": "adm:365:Degree|d8eb105039fa|bachelor of business science in:subjects",
+      "institutionId": "365",
+      "programmeId": "prog:365:Degree|d8eb105039fa|bachelor of business science in",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 6%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 6,
+          "raw_span": "Maths 6 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+            "char_start": 37983,
+            "char_end": 37991,
+            "excerpt": "Maths 6"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf"
+    },
+    {
+      "id": "adm:365:Degree|d8eb105039fa|bachelor of business science in:subjects",
+      "institutionId": "365",
+      "programmeId": "prog:365:Degree|d8eb105039fa|bachelor of business science in",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 6%; Mathematics >= 4%; Mathematics >= 5%; Mathematics >= 3%; Mathematics >= 4%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 6,
+          "raw_span": "Maths 6 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+            "char_start": 38091,
+            "char_end": 38099,
+            "excerpt": "Maths 6"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 4,
+          "raw_span": "Maths 4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+            "char_start": 38184,
+            "char_end": 38192,
+            "excerpt": "Maths 4"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 5,
+          "raw_span": "Maths 5 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+            "char_start": 38254,
+            "char_end": 38262,
+            "excerpt": "Maths 5"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 3,
+          "raw_span": "Maths 3",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+            "char_start": 38351,
+            "char_end": 38358,
+            "excerpt": "Maths 3"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 4,
+          "raw_span": "Maths 4",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+            "char_start": 38451,
+            "char_end": 38458,
+            "excerpt": "Maths 4"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf"
+    },
+    {
+      "id": "adm:365:Degree|ff05542deb02|bachelor of science in land:subjects",
+      "institutionId": "365",
+      "programmeId": "prog:365:Degree|ff05542deb02|bachelor of science in land",
+      "ruleType": "subject_requirements",
+      "detail": "Life Orientation >= 4%",
+      "subjects": [
+        {
+          "subject": "Life Orientation",
+          "minimum_percentage": 4,
+          "raw_span": "Life\nOrientation at a minimum of Level 4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+            "char_start": 115617,
+            "char_end": 115658,
+            "excerpt": "Life Orientation at a minimum of Level 4"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf"
+    },
+    {
+      "id": "adm:365:Degree|0010105862c4|bachelor of science in dietetics and:subjects",
+      "institutionId": "365",
+      "programmeId": "prog:365:Degree|0010105862c4|bachelor of science in dietetics and",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 4%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 4,
+          "raw_span": "Maths 4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+            "char_start": 153098,
+            "char_end": 153106,
+            "excerpt": "Maths 4"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf"
+    },
+    {
+      "id": "adm:365:Degree|12fe17ce28a9|bachelor of education:subjects",
+      "institutionId": "365",
+      "programmeId": "prog:365:Degree|12fe17ce28a9|bachelor of education",
+      "ruleType": "subject_requirements",
+      "detail": "Life Orientation >= 4%",
+      "subjects": [
+        {
+          "subject": "Life Orientation",
+          "minimum_percentage": 4,
+          "raw_span": "Life orientation L4\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+            "char_start": 161991,
+            "char_end": 162011,
+            "excerpt": "Life orientation L4"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf"
+    },
+    {
+      "id": "adm:365:Degree|c5052532c220|bed:subjects",
+      "institutionId": "365",
+      "programmeId": "prog:365:Degree|c5052532c220|bed",
+      "ruleType": "subject_requirements",
+      "detail": "Life Orientation >= 4%",
+      "subjects": [
+        {
+          "subject": "Life Orientation",
+          "minimum_percentage": 4,
+          "raw_span": "Life orientation L4\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+            "char_start": 161991,
+            "char_end": 162011,
+            "excerpt": "Life orientation L4"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf"
+    },
+    {
+      "id": "adm:365:Degree|c5052532c220|bed:subjects",
+      "institutionId": "365",
+      "programmeId": "prog:365:Degree|c5052532c220|bed",
+      "ruleType": "subject_requirements",
+      "detail": "Life Orientation >= 4%",
+      "subjects": [
+        {
+          "subject": "Life Orientation",
+          "minimum_percentage": 4,
+          "raw_span": "Life orientation L4\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+            "char_start": 161991,
+            "char_end": 162011,
+            "excerpt": "Life orientation L4"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf"
+    },
+    {
+      "id": "adm:365:Degree|c7c6263d2d82|bachelor of laws (llb):subjects",
+      "institutionId": "365",
+      "programmeId": "prog:365:Degree|c7c6263d2d82|bachelor of laws (llb)",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 3%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 3,
+          "raw_span": "Mathematics at Level 3",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+            "char_start": 181396,
+            "char_end": 181418,
+            "excerpt": "Mathematics at Level 3"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf"
+    },
+    {
+      "id": "adm:365:Degree|47aa9cb62685|bachelor of business:subjects",
+      "institutionId": "365",
+      "programmeId": "prog:365:Degree|47aa9cb62685|bachelor of business",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 4%; Life Orientation >= 3%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 4,
+          "raw_span": "Mathematics, Level 4 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+            "char_start": 185896,
+            "char_end": 185917,
+            "excerpt": "Mathematics, Level 4"
+          }
+        },
+        {
+          "subject": "Life Orientation",
+          "minimum_percentage": 3,
+          "raw_span": "Life Orientation), with Level 3\n",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+            "char_start": 185864,
+            "char_end": 185896,
+            "excerpt": "Life Orientation), with Level 3"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf"
+    },
+    {
+      "id": "adm:365:Degree|b5508e98e435|bcom:aps",
+      "institutionId": "365",
+      "programmeId": "prog:365:Degree|b5508e98e435|bcom",
+      "ruleType": "aps_minimum",
+      "detail": "APS 28+",
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf"
+    }
+  ],
+  "aps_rules": [
+    {
+      "id": "aps:365:aps|standalone|26|47763",
+      "institutionId": "365",
+      "programmeId": null,
+      "minAps": 26,
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 47763,
+        "char_end": 47769,
+        "excerpt": "APS 26"
+      }
+    },
+    {
+      "id": "aps:365:aps|standalone|28|48990",
+      "institutionId": "365",
+      "programmeId": null,
+      "minAps": 28,
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 48990,
+        "char_end": 48996,
+        "excerpt": "APS 28"
+      }
+    },
+    {
+      "id": "aps:365:aps|standalone|30|143846",
+      "institutionId": "365",
+      "programmeId": null,
+      "minAps": 30,
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 143846,
+        "char_end": 143852,
+        "excerpt": "APS 30"
+      }
+    },
+    {
+      "id": "aps:365:aps|standalone|30|144807",
+      "institutionId": "365",
+      "programmeId": null,
+      "minAps": 30,
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 144807,
+        "char_end": 144813,
+        "excerpt": "APS 30"
+      }
+    },
+    {
+      "id": "aps:365:aps|standalone|28|184877",
+      "institutionId": "365",
+      "programmeId": null,
+      "minAps": 28,
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 184877,
+        "char_end": 184883,
+        "excerpt": "APS 28"
+      }
+    },
+    {
+      "id": "aps:365:aps|standalone|35|188518",
+      "institutionId": "365",
+      "programmeId": null,
+      "minAps": 35,
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 188518,
+        "char_end": 188524,
+        "excerpt": "APS 35"
+      }
+    },
+    {
+      "id": "aps:365:aps|standalone|33|188889",
+      "institutionId": "365",
+      "programmeId": null,
+      "minAps": 33,
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 188889,
+        "char_end": 188895,
+        "excerpt": "APS 33"
+      }
+    },
+    {
+      "id": "aps:365:aps|standalone|37|189044",
+      "institutionId": "365",
+      "programmeId": null,
+      "minAps": 37,
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 189044,
+        "char_end": 189050,
+        "excerpt": "APS 37"
+      }
+    },
+    {
+      "id": "aps:365:aps|standalone|26|190871",
+      "institutionId": "365",
+      "programmeId": null,
+      "minAps": 26,
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+        "char_start": 190871,
+        "char_end": 190877,
+        "excerpt": "APS 26"
+      }
+    },
+    {
+      "id": "aps:365:Degree|b5508e98e435|bcom:28",
+      "institutionId": "365",
+      "programmeId": "prog:365:Degree|b5508e98e435|bcom",
+      "minAps": 28,
+      "sourceFile": "lib/seed/prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceUrl": "https://applications.ukzn.ac.za/wp-content/uploads/2025/11/2026-Undergraduate-prospectus-min.pdf"
+    }
+  ],
+  "llm_calls": 0
+}

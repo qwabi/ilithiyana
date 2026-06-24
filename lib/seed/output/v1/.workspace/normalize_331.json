@@ -1,0 +1,948 @@
+{
+  "faculties": [
+    {
+      "institutionId": "331",
+      "name": "Engineering 18",
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+      "sourceUrl": "https://eec.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+        "char_start": 568,
+        "char_end": 592,
+        "excerpt": "School Of Engineering 18"
+      },
+      "normalization_key": "faculty|engineering 18"
+    },
+    {
+      "institutionId": "331",
+      "name": "Engineering 28",
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+      "sourceUrl": "https://eec.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+        "char_start": 672,
+        "char_end": 696,
+        "excerpt": "School Of Engineering 28"
+      },
+      "normalization_key": "faculty|engineering 28"
+    },
+    {
+      "institutionId": "331",
+      "name": "ENGINEERING",
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+      "sourceUrl": "https://eec.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+        "char_start": 16956,
+        "char_end": 16977,
+        "excerpt": "SCHOOL OF ENGINEERING"
+      },
+      "normalization_key": "faculty|engineering"
+    },
+    {
+      "institutionId": "331",
+      "name": "ENGINEERING",
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+      "sourceUrl": "https://eec.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+        "char_start": 23009,
+        "char_end": 23030,
+        "excerpt": "SCHOOL OF ENGINEERING"
+      },
+      "normalization_key": "faculty|engineering"
+    }
+  ],
+  "programmes": [
+    {
+      "id": "prog:331:NATED|3787633babc5|report 191",
+      "institutionId": "331",
+      "name": "Report 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+      "sourceUrl": "https://eec.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+        "char_start": 8711,
+        "char_end": 8721,
+        "excerpt": "Report 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:331:NCV|b740b967f8a9|nc(v) level 4",
+      "institutionId": "331",
+      "name": "NC(V) Level 4",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+      "sourceUrl": "https://eec.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+        "char_start": 9951,
+        "char_end": 9964,
+        "excerpt": "NC(V) Level 4"
+      },
+      "normalization_key": "NCV|b740b967f8a9|nc(v) level 4"
+    },
+    {
+      "id": "prog:331:NATED|3787633babc5|report 191",
+      "institutionId": "331",
+      "name": "Report 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+      "sourceUrl": "https://eec.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+        "char_start": 8711,
+        "char_end": 8721,
+        "excerpt": "Report 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:331:NATED|3787633babc5|report 191",
+      "institutionId": "331",
+      "name": "Report 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+      "sourceUrl": "https://eec.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+        "char_start": 8711,
+        "char_end": 8721,
+        "excerpt": "Report 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:331:NATED|3787633babc5|report 191",
+      "institutionId": "331",
+      "name": "Report 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+      "sourceUrl": "https://eec.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+        "char_start": 8711,
+        "char_end": 8721,
+        "excerpt": "Report 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:331:NCV|b740b967f8a9|nc(v) level 4",
+      "institutionId": "331",
+      "name": "NC(V) Level 4",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+      "sourceUrl": "https://eec.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+        "char_start": 9951,
+        "char_end": 9964,
+        "excerpt": "NC(V) Level 4"
+      },
+      "normalization_key": "NCV|b740b967f8a9|nc(v) level 4"
+    },
+    {
+      "id": "prog:331:NATED|3787633babc5|report 191",
+      "institutionId": "331",
+      "name": "Report 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+      "sourceUrl": "https://eec.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+        "char_start": 8711,
+        "char_end": 8721,
+        "excerpt": "Report 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:331:NATED|3787633babc5|report 191",
+      "institutionId": "331",
+      "name": "Report 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+      "sourceUrl": "https://eec.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+        "char_start": 8711,
+        "char_end": 8721,
+        "excerpt": "Report 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:331:NCV|67e7d17759c8|nc(v) l2",
+      "institutionId": "331",
+      "name": "NC(V) L2",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+      "sourceUrl": "https://eec.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+        "char_start": 6227,
+        "char_end": 6235,
+        "excerpt": "NC(V) L2"
+      },
+      "normalization_key": "NCV|67e7d17759c8|nc(v) l2"
+    },
+    {
+      "id": "prog:331:NATED|3787633babc5|report 191",
+      "institutionId": "331",
+      "name": "Report 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+      "sourceUrl": "https://eec.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+        "char_start": 8711,
+        "char_end": 8721,
+        "excerpt": "Report 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:331:NCV|4dff7880f0af|nc(v) level 2",
+      "institutionId": "331",
+      "name": "NC(V) Level 2",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "English",
+            "minimum_percentage": 50
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 40
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+      "sourceUrl": "https://eec.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+        "char_start": 6197,
+        "char_end": 6210,
+        "excerpt": "NC(V) Level 2"
+      },
+      "normalization_key": "NCV|4dff7880f0af|nc(v) level 2"
+    },
+    {
+      "id": "prog:331:NCV|945ba99c071c|nc(v) l 2",
+      "institutionId": "331",
+      "name": "NC(V) L 2",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "English",
+            "minimum_percentage": 50
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 40
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+      "sourceUrl": "https://eec.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+        "char_start": 6211,
+        "char_end": 6220,
+        "excerpt": "NC(V) L 2"
+      },
+      "normalization_key": "NCV|945ba99c071c|nc(v) l 2"
+    },
+    {
+      "id": "prog:331:NCV|67e7d17759c8|nc(v) l2",
+      "institutionId": "331",
+      "name": "NC(V) L2",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "English",
+            "minimum_percentage": 50
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 40
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+      "sourceUrl": "https://eec.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+        "char_start": 6227,
+        "char_end": 6235,
+        "excerpt": "NC(V) L2"
+      },
+      "normalization_key": "NCV|67e7d17759c8|nc(v) l2"
+    },
+    {
+      "id": "prog:331:NATED|3787633babc5|report 191",
+      "institutionId": "331",
+      "name": "REPORT 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+      "sourceUrl": "https://eec.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+        "char_start": 8711,
+        "char_end": 8721,
+        "excerpt": "Report 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:331:NATED|3787633babc5|report 191",
+      "institutionId": "331",
+      "name": "Report 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+      "sourceUrl": "https://eec.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+        "char_start": 8711,
+        "char_end": 8721,
+        "excerpt": "Report 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:331:NCV|b740b967f8a9|nc(v) level 4",
+      "institutionId": "331",
+      "name": "NC(V) Level 4",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+      "sourceUrl": "https://eec.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+        "char_start": 9951,
+        "char_end": 9964,
+        "excerpt": "NC(V) Level 4"
+      },
+      "normalization_key": "NCV|b740b967f8a9|nc(v) level 4"
+    },
+    {
+      "id": "prog:331:NATED|3787633babc5|report 191",
+      "institutionId": "331",
+      "name": "Report 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "English",
+            "minimum_percentage": 50
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 60
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+      "sourceUrl": "https://eec.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+        "char_start": 8711,
+        "char_end": 8721,
+        "excerpt": "Report 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:331:NATED|3787633babc5|report 191",
+      "institutionId": "331",
+      "name": "Report 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "English",
+            "minimum_percentage": 50
+          },
+          {
+            "subject": "English",
+            "minimum_percentage": 50
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 60
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 50
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+      "sourceUrl": "https://eec.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+        "char_start": 8711,
+        "char_end": 8721,
+        "excerpt": "Report 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:331:NCV|b740b967f8a9|nc(v) level 4",
+      "institutionId": "331",
+      "name": "NC(V) Level 4",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "English",
+            "minimum_percentage": 50
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 50
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+      "sourceUrl": "https://eec.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+        "char_start": 9951,
+        "char_end": 9964,
+        "excerpt": "NC(V) Level 4"
+      },
+      "normalization_key": "NCV|b740b967f8a9|nc(v) level 4"
+    },
+    {
+      "id": "prog:331:NATED|3787633babc5|report 191",
+      "institutionId": "331",
+      "name": "Report 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "English",
+            "minimum_percentage": 50
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 50
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+      "sourceUrl": "https://eec.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+        "char_start": 8711,
+        "char_end": 8721,
+        "excerpt": "Report 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:331:NCV|b740b967f8a9|nc(v) level 4",
+      "institutionId": "331",
+      "name": "NC(V) Level 4",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "English",
+            "minimum_percentage": 50
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 50
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+      "sourceUrl": "https://eec.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+        "char_start": 9951,
+        "char_end": 9964,
+        "excerpt": "NC(V) Level 4"
+      },
+      "normalization_key": "NCV|b740b967f8a9|nc(v) level 4"
+    },
+    {
+      "id": "prog:331:NATED|3787633babc5|report 191",
+      "institutionId": "331",
+      "name": "Report 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+      "sourceUrl": "https://eec.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+        "char_start": 8711,
+        "char_end": 8721,
+        "excerpt": "Report 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:331:NCV|b740b967f8a9|nc(v) level 4",
+      "institutionId": "331",
+      "name": "NC(V) Level 4",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+      "sourceUrl": "https://eec.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+        "char_start": 9951,
+        "char_end": 9964,
+        "excerpt": "NC(V) Level 4"
+      },
+      "normalization_key": "NCV|b740b967f8a9|nc(v) level 4"
+    },
+    {
+      "id": "prog:331:NCV|b740b967f8a9|nc(v) level 4",
+      "institutionId": "331",
+      "name": "NC(V) Level 4",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+      "sourceUrl": "https://eec.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+        "char_start": 9951,
+        "char_end": 9964,
+        "excerpt": "NC(V) Level 4"
+      },
+      "normalization_key": "NCV|b740b967f8a9|nc(v) level 4"
+    },
+    {
+      "id": "prog:331:NATED|f7e6367a929b|n2 certificate",
+      "institutionId": "331",
+      "name": "N2 Certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+      "sourceUrl": "https://eec.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+        "char_start": 10336,
+        "char_end": 10350,
+        "excerpt": "N2 Certificate"
+      },
+      "normalization_key": "NATED|f7e6367a929b|n2 certificate"
+    },
+    {
+      "id": "prog:331:NATED|2991a6b8d1aa|n6 certificate",
+      "institutionId": "331",
+      "name": "N6 certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+      "sourceUrl": "https://eec.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+        "char_start": 10613,
+        "char_end": 10627,
+        "excerpt": "N6 certificate"
+      },
+      "normalization_key": "NATED|2991a6b8d1aa|n6 certificate"
+    }
+  ],
+  "admissions_rules": [
+    {
+      "id": "adm:331:NCV|4dff7880f0af|nc(v) level 2:subjects",
+      "institutionId": "331",
+      "programmeId": "prog:331:NCV|4dff7880f0af|nc(v) level 2",
+      "ruleType": "subject_requirements",
+      "detail": "English >= 50%; Mathematics >= 40%",
+      "subjects": [
+        {
+          "subject": "English",
+          "minimum_percentage": 50,
+          "raw_span": "English 50 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+            "char_start": 6259,
+            "char_end": 6270,
+            "excerpt": "English 50"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 40,
+          "raw_span": "Mathematics 40 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+            "char_start": 6276,
+            "char_end": 6291,
+            "excerpt": "Mathematics 40"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+      "sourceUrl": "https://eec.edu.za/"
+    },
+    {
+      "id": "adm:331:NCV|945ba99c071c|nc(v) l 2:subjects",
+      "institutionId": "331",
+      "programmeId": "prog:331:NCV|945ba99c071c|nc(v) l 2",
+      "ruleType": "subject_requirements",
+      "detail": "English >= 50%; Mathematics >= 40%",
+      "subjects": [
+        {
+          "subject": "English",
+          "minimum_percentage": 50,
+          "raw_span": "English 50 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+            "char_start": 6259,
+            "char_end": 6270,
+            "excerpt": "English 50"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 40,
+          "raw_span": "Mathematics 40 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+            "char_start": 6276,
+            "char_end": 6291,
+            "excerpt": "Mathematics 40"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+      "sourceUrl": "https://eec.edu.za/"
+    },
+    {
+      "id": "adm:331:NCV|67e7d17759c8|nc(v) l2:subjects",
+      "institutionId": "331",
+      "programmeId": "prog:331:NCV|67e7d17759c8|nc(v) l2",
+      "ruleType": "subject_requirements",
+      "detail": "English >= 50%; Mathematics >= 40%",
+      "subjects": [
+        {
+          "subject": "English",
+          "minimum_percentage": 50,
+          "raw_span": "English 50 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+            "char_start": 6259,
+            "char_end": 6270,
+            "excerpt": "English 50"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 40,
+          "raw_span": "Mathematics 40 ",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+            "char_start": 6276,
+            "char_end": 6291,
+            "excerpt": "Mathematics 40"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+      "sourceUrl": "https://eec.edu.za/"
+    },
+    {
+      "id": "adm:331:NATED|3787633babc5|report 191:subjects",
+      "institutionId": "331",
+      "programmeId": "prog:331:NATED|3787633babc5|report 191",
+      "ruleType": "subject_requirements",
+      "detail": "English >= 50%; Mathematics >= 60%",
+      "subjects": [
+        {
+          "subject": "English",
+          "minimum_percentage": 50,
+          "raw_span": "English 50 %",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+            "char_start": 8033,
+            "char_end": 8045,
+            "excerpt": "English 50 %"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 60,
+          "raw_span": "Mathematics 60%",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+            "char_start": 8046,
+            "char_end": 8061,
+            "excerpt": "Mathematics 60%"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+      "sourceUrl": "https://eec.edu.za/"
+    },
+    {
+      "id": "adm:331:NATED|3787633babc5|report 191:subjects",
+      "institutionId": "331",
+      "programmeId": "prog:331:NATED|3787633babc5|report 191",
+      "ruleType": "subject_requirements",
+      "detail": "English >= 50%; English >= 50%; Mathematics >= 60%; Mathematics >= 50%",
+      "subjects": [
+        {
+          "subject": "English",
+          "minimum_percentage": 50,
+          "raw_span": "English 50 %",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+            "char_start": 8033,
+            "char_end": 8045,
+            "excerpt": "English 50 %"
+          }
+        },
+        {
+          "subject": "English",
+          "minimum_percentage": 50,
+          "raw_span": "English 50%",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+            "char_start": 8506,
+            "char_end": 8517,
+            "excerpt": "English 50%"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 60,
+          "raw_span": "Mathematics 60%",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+            "char_start": 8046,
+            "char_end": 8061,
+            "excerpt": "Mathematics 60%"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 50,
+          "raw_span": "Mathematics 50%",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+            "char_start": 8518,
+            "char_end": 8533,
+            "excerpt": "Mathematics 50%"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+      "sourceUrl": "https://eec.edu.za/"
+    },
+    {
+      "id": "adm:331:NCV|b740b967f8a9|nc(v) level 4:subjects",
+      "institutionId": "331",
+      "programmeId": "prog:331:NCV|b740b967f8a9|nc(v) level 4",
+      "ruleType": "subject_requirements",
+      "detail": "English >= 50%; Mathematics >= 50%",
+      "subjects": [
+        {
+          "subject": "English",
+          "minimum_percentage": 50,
+          "raw_span": "English 50%",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+            "char_start": 8506,
+            "char_end": 8517,
+            "excerpt": "English 50%"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 50,
+          "raw_span": "Mathematics 50%",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+            "char_start": 8518,
+            "char_end": 8533,
+            "excerpt": "Mathematics 50%"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+      "sourceUrl": "https://eec.edu.za/"
+    },
+    {
+      "id": "adm:331:NATED|3787633babc5|report 191:subjects",
+      "institutionId": "331",
+      "programmeId": "prog:331:NATED|3787633babc5|report 191",
+      "ruleType": "subject_requirements",
+      "detail": "English >= 50%; Mathematics >= 50%",
+      "subjects": [
+        {
+          "subject": "English",
+          "minimum_percentage": 50,
+          "raw_span": "English 50%",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+            "char_start": 8506,
+            "char_end": 8517,
+            "excerpt": "English 50%"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 50,
+          "raw_span": "Mathematics 50%",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+            "char_start": 8518,
+            "char_end": 8533,
+            "excerpt": "Mathematics 50%"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+      "sourceUrl": "https://eec.edu.za/"
+    },
+    {
+      "id": "adm:331:NCV|b740b967f8a9|nc(v) level 4:subjects",
+      "institutionId": "331",
+      "programmeId": "prog:331:NCV|b740b967f8a9|nc(v) level 4",
+      "ruleType": "subject_requirements",
+      "detail": "English >= 50%; Mathematics >= 50%",
+      "subjects": [
+        {
+          "subject": "English",
+          "minimum_percentage": 50,
+          "raw_span": "English 50%",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+            "char_start": 8506,
+            "char_end": 8517,
+            "excerpt": "English 50%"
+          }
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 50,
+          "raw_span": "Mathematics 50%",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+            "char_start": 8518,
+            "char_end": 8533,
+            "excerpt": "Mathematics 50%"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/ekurhuleni-east-tvet-college.pdf",
+      "sourceUrl": "https://eec.edu.za/"
+    }
+  ],
+  "aps_rules": [],
+  "llm_calls": 0
+}

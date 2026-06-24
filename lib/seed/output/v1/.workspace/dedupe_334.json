@@ -1,0 +1,213 @@
+{
+  "faculties": [],
+  "programmes": [
+    {
+      "id": "prog:334:NATED|f7e6367a929b|n2 certificate",
+      "institutionId": "334",
+      "name": "N2 certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/false-bay-tvet-college.pdf",
+      "sourceUrl": "https://www.falsebaycollege.co.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/false-bay-tvet-college.pdf",
+        "char_start": 11067,
+        "char_end": 11081,
+        "excerpt": "N2 certificate"
+      },
+      "normalization_key": "NATED|f7e6367a929b|n2 certificate",
+      "campuses": [],
+      "merged_from": [
+        "prog:334:NATED|f7e6367a929b|n2 certificate"
+      ],
+      "source_refs": [
+        "https://www.falsebaycollege.co.za/"
+      ]
+    },
+    {
+      "id": "prog:334:NATED|ba8ace293004|nated n4",
+      "institutionId": "334",
+      "name": "Nated N4",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/false-bay-tvet-college.pdf",
+      "sourceUrl": "https://www.falsebaycollege.co.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/false-bay-tvet-college.pdf",
+        "char_start": 15465,
+        "char_end": 15473,
+        "excerpt": "Nated N4"
+      },
+      "normalization_key": "NATED|ba8ace293004|nated n4",
+      "campuses": [],
+      "merged_from": [
+        "prog:334:NATED|ba8ace293004|nated n4"
+      ],
+      "source_refs": [
+        "https://www.falsebaycollege.co.za/"
+      ]
+    },
+    {
+      "id": "prog:334:NCV|4dff7880f0af|nc(v) level 2",
+      "institutionId": "334",
+      "name": "NC(V) Level 2",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/false-bay-tvet-college.pdf",
+      "sourceUrl": "https://www.falsebaycollege.co.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/false-bay-tvet-college.pdf",
+        "char_start": 1040,
+        "char_end": 1053,
+        "excerpt": "NC(V) Level 2"
+      },
+      "normalization_key": "NCV|4dff7880f0af|nc(v) level 2",
+      "campuses": [],
+      "merged_from": [
+        "prog:334:NCV|4dff7880f0af|nc(v) level 2"
+      ],
+      "source_refs": [
+        "https://www.falsebaycollege.co.za/"
+      ]
+    },
+    {
+      "id": "prog:334:NCV|b740b967f8a9|nc(v) level 4",
+      "institutionId": "334",
+      "name": "NC(V) Level 4",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 60
+          },
+          {
+            "subject": "Physical Sciences",
+            "minimum_percentage": 40
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/false-bay-tvet-college.pdf",
+      "sourceUrl": "https://www.falsebaycollege.co.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/false-bay-tvet-college.pdf",
+        "char_start": 12418,
+        "char_end": 12431,
+        "excerpt": "NC(V) Level 4"
+      },
+      "normalization_key": "NCV|b740b967f8a9|nc(v) level 4",
+      "campuses": [],
+      "merged_from": [
+        "prog:334:NCV|b740b967f8a9|nc(v) level 4",
+        "prog:334:NCV|b740b967f8a9|nc(v) level 4",
+        "prog:334:NCV|b740b967f8a9|nc(v) level 4",
+        "prog:334:NCV|b740b967f8a9|nc(v) level 4",
+        "prog:334:NCV|b740b967f8a9|nc(v) level 4"
+      ],
+      "source_refs": [
+        "https://www.falsebaycollege.co.za/"
+      ]
+    },
+    {
+      "id": "prog:334:NATED|3787633babc5|report 191",
+      "institutionId": "334",
+      "name": "Report 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/false-bay-tvet-college.pdf",
+      "sourceUrl": "https://www.falsebaycollege.co.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/false-bay-tvet-college.pdf",
+        "char_start": 1742,
+        "char_end": 1752,
+        "excerpt": "Report 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191",
+      "campuses": [],
+      "merged_from": [
+        "prog:334:NATED|3787633babc5|report 191",
+        "prog:334:NATED|3787633babc5|report 191"
+      ],
+      "source_refs": [
+        "https://www.falsebaycollege.co.za/"
+      ]
+    }
+  ],
+  "admissions_rules": [
+    {
+      "id": "adm:334:NCV|b740b967f8a9|nc(v) level 4:subjects",
+      "institutionId": "334",
+      "programmeId": "prog:334:NCV|b740b967f8a9|nc(v) level 4",
+      "ruleType": "subject_requirements",
+      "detail": "Physical Sciences >= 40%",
+      "subjects": [
+        {
+          "subject": "Physical Sciences",
+          "minimum_percentage": 40,
+          "raw_span": "Physical Science at 40%",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/false-bay-tvet-college.pdf",
+            "char_start": 7203,
+            "char_end": 7226,
+            "excerpt": "Physical Science at 40%"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/false-bay-tvet-college.pdf",
+      "sourceUrl": "https://www.falsebaycollege.co.za/"
+    },
+    {
+      "id": "adm:334:NCV|b740b967f8a9|nc(v) level 4:subjects",
+      "institutionId": "334",
+      "programmeId": "prog:334:NCV|b740b967f8a9|nc(v) level 4",
+      "ruleType": "subject_requirements",
+      "detail": "Mathematics >= 60%; Physical Sciences >= 40%",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 60,
+          "raw_span": "Mathematics / 60%",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/false-bay-tvet-college.pdf",
+            "char_start": 8349,
+            "char_end": 8366,
+            "excerpt": "Mathematics / 60%"
+          }
+        },
+        {
+          "subject": "Physical Sciences",
+          "minimum_percentage": 40,
+          "raw_span": "Physical Science at 40%",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/false-bay-tvet-college.pdf",
+            "char_start": 7888,
+            "char_end": 7911,
+            "excerpt": "Physical Science at 40%"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/false-bay-tvet-college.pdf",
+      "sourceUrl": "https://www.falsebaycollege.co.za/"
+    }
+  ],
+  "aps_rules": [],
+  "llm_calls": 0
+}

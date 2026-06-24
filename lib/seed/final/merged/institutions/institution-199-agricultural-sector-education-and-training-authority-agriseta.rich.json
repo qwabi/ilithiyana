@@ -1,0 +1,31 @@
+{
+  "institution": {
+    "institution_id": "199",
+    "name": "Agricultural Sector Education and Training Authority (AgriSETA)",
+    "institution_type": "seta",
+    "city": "Pretoria",
+    "province": "Gauteng",
+    "official_website": "https://www.agriseta.co.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/199/agricultural-sector-education-and-training-authority-agriseta",
+    "source_paths": [
+      "generated/v3/institutions.enriched.json",
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

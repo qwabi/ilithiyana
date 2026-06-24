@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "institution_id": "318",
+    "slug": "orbit-tvet-college",
+    "name": "Orbit TVET College",
+    "institution_type": "tvet-college",
+    "province": "North West",
+    "city": "Rustenburg",
+    "official_website": "http://www.orbitcollege.co.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/318/orbit-tvet-college",
+    "application_url": "http://www.orbitcollege.co.za/apply.html",
+    "prospectus_url": null,
+    "nsfas_supported": true,
+    "distance_learning": null,
+    "accreditation": {
+      "dh et": "Accredited",
+      "saqa": null
+    },
+    "qualification_types": [
+      "NC(V)",
+      "Nated (Report 191)",
+      "Skills Programmes",
+      "Apprenticeships"
+    ]
+  },
+  "profile": {},
+  "contact": {
+    "emails": [
+      "info@orbitcollege.co.za"
+    ],
+    "phone_numbers": [
+      "014 592 7014 / 5500"
+    ],
+    "physical_address": "Fatima Bhayat Street, Rustenburg",
+    "postal_address": "Private Bag X82096, Rustenburg, 0300",
+    "socials": {
+      "facebook": "",
+      "instagram": "https://www.instagram.com/orbit_tvet_college/?hl=en",
+      "linkedin": "",
+      "x": "",
+      "youtube": ""
+    }
+  },
+  "campuses": [],
+  "faculties": [],
+  "programmes": [],
+  "admission": {
+    "aps_name": null,
+    "aps_calculation_notes": null,
+    "minimum_aps_for_bachelors": null,
+    "minimum_aps_for_diplomas": null,
+    "minimum_entry_note": null,
+    "life_orientation_cap": null,
+    "aps_rules": [],
+    "programme_requirements": []
+  },
+  "sources": [
+    "generated/v3/institutions.enriched.json",
+    "institutions.json"
+  ],
+  "_stats": {
+    "campuses_count": 0,
+    "faculties_count": 0,
+    "programmes_count": 0,
+    "aps_rules_count": 0,
+    "adm_reqs_count": 0
+  }
+}

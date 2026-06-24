@@ -1,0 +1,221 @@
+{
+  "meta": {
+    "institution_id": "329",
+    "slug": "durban-university-of-technology",
+    "name": "Durban University of Technology",
+    "institution_type": "university-of-technology",
+    "province": "KwaZulu-Natal",
+    "city": "Durban",
+    "official_website": "https://www.dut.ac.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/329/durban-university-of-technology",
+    "application_url": "https://www.dut.ac.za/wp-content/uploads/2025/06/How-to-Apply-2026.pdf",
+    "prospectus_url": null,
+    "nsfas_supported": true,
+    "distance_learning": null,
+    "accreditation": {
+      "dh et": "Accredited",
+      "saqa": "Registered"
+    },
+    "qualification_types": [
+      "National Diploma",
+      "BTech",
+      "Advanced Diploma",
+      "Postgraduate"
+    ]
+  },
+  "profile": {
+    "short_name": "DUT",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/e/e4/Durban_University_of_Technology_logo.png",
+    "motto": "Creative. Distinctive. Impactful.",
+    "colors": [
+      "Baby blue",
+      "purple",
+      "green",
+      "red",
+      "royal blue",
+      "light purple"
+    ],
+    "student_count": 31991
+  },
+  "contact": {
+    "emails": [
+      "debtorspmb@dut.ac.za",
+      "debtorsdbn@dut.ac.za",
+      "info@dut.ac.za"
+    ],
+    "phone_numbers": [
+      "031 373 5826",
+      "031 373 3134",
+      "031 373 6523",
+      "031 373 5164",
+      "033 845 8951",
+      "031 373 6031",
+      "031 373 2553",
+      "031 373 5152",
+      "033 845 8800",
+      "083 913 5006",
+      "031 373 2702",
+      "031 373 2000",
+      "031 373 3040",
+      "031 373 6040",
+      "031 373 2506",
+      "031 373 2446",
+      "031 373 2566",
+      "031 373 2186",
+      "031 373 6519",
+      "031 373 5441",
+      "033 845 8890",
+      "031 373 2718",
+      "031 373 2717",
+      "033 845 8815",
+      "031 373 2379",
+      "031 373 6521",
+      "031 373 6520"
+    ],
+    "physical_address": "Steve Biko Campus, Cnr Botanic Gardens & Steve Biko Roads, Berwyn Court, Durban",
+    "postal_address": "PO Box 1334, Durban, 4000",
+    "socials": {
+      "facebook": "https://www.facebook.com/DurbanUniversityofTechnology",
+      "instagram": "https://www.instagram.com/dut_official1/",
+      "linkedin": "",
+      "x": "https://twitter.com/dut_tweets",
+      "youtube": "https://www.youtube.com/user/DutCampusTv"
+    }
+  },
+  "campuses": [
+    {
+      "name": "Brickfield Campus",
+      "city": "Durban",
+      "province": null,
+      "is_main": null,
+      "type": null,
+      "address": null,
+      "coordinates": {
+        "lat": null,
+        "lng": null
+      },
+      "contact": null
+    },
+    {
+      "name": "City Campus",
+      "city": "Durban",
+      "province": null,
+      "is_main": null,
+      "type": null,
+      "address": null,
+      "coordinates": {
+        "lat": null,
+        "lng": null
+      },
+      "contact": null
+    },
+    {
+      "name": "Indumiso Campus",
+      "city": "Pietermaritzburg",
+      "province": null,
+      "is_main": null,
+      "type": null,
+      "address": null,
+      "coordinates": {
+        "lat": null,
+        "lng": null
+      },
+      "contact": null
+    },
+    {
+      "name": "ML Sultan Campus",
+      "city": "Durban",
+      "province": null,
+      "is_main": null,
+      "type": null,
+      "address": null,
+      "coordinates": {
+        "lat": null,
+        "lng": null
+      },
+      "contact": null
+    },
+    {
+      "name": "Ritson Campus",
+      "city": "Durban",
+      "province": null,
+      "is_main": null,
+      "type": null,
+      "address": null,
+      "coordinates": {
+        "lat": null,
+        "lng": null
+      },
+      "contact": null
+    },
+    {
+      "name": "Riverside Campus",
+      "city": "Pietermaritzburg",
+      "province": null,
+      "is_main": null,
+      "type": null,
+      "address": null,
+      "coordinates": {
+        "lat": null,
+        "lng": null
+      },
+      "contact": null
+    },
+    {
+      "name": "Steve Biko Campus",
+      "city": "Durban",
+      "province": null,
+      "is_main": null,
+      "type": null,
+      "address": null,
+      "coordinates": {
+        "lat": null,
+        "lng": null
+      },
+      "contact": null
+    }
+  ],
+  "faculties": [
+    {
+      "id": null,
+      "name": "Accounting",
+      "overview": null,
+      "kind": null
+    },
+    {
+      "id": null,
+      "name": "Applied Sciences",
+      "overview": null,
+      "kind": null
+    },
+    {
+      "id": null,
+      "name": "Entrepreneurial Studies",
+      "overview": null,
+      "kind": null
+    }
+  ],
+  "programmes": [],
+  "admission": {
+    "aps_name": null,
+    "aps_calculation_notes": null,
+    "minimum_aps_for_bachelors": null,
+    "minimum_aps_for_diplomas": null,
+    "minimum_entry_note": null,
+    "life_orientation_cap": null,
+    "aps_rules": [],
+    "programme_requirements": []
+  },
+  "sources": [
+    "enriched_universities.json",
+    "generated/v3/institutions.enriched.json",
+    "institutions.json"
+  ],
+  "_stats": {
+    "campuses_count": 7,
+    "faculties_count": 3,
+    "programmes_count": 0,
+    "aps_rules_count": 0,
+    "adm_reqs_count": 0
+  }
+}

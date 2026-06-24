@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "institution_id": "317",
+    "slug": "northlink-tvet-college",
+    "name": "Northlink TVET College",
+    "institution_type": "tvet-college",
+    "province": "Western Cape",
+    "city": "Bellville",
+    "official_website": "https://www.northlink.co.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/317/northlink-tvet-college",
+    "application_url": "https://www.northlink.co.za/apply/student-profiler-application-guide/",
+    "prospectus_url": null,
+    "nsfas_supported": true,
+    "distance_learning": null,
+    "accreditation": {
+      "dh et": "Accredited",
+      "saqa": null
+    },
+    "qualification_types": [
+      "NC(V)",
+      "Nated (Report 191)",
+      "Skills Programmes",
+      "Apprenticeships"
+    ]
+  },
+  "profile": {},
+  "contact": {
+    "phone_numbers": [
+      "021 970 9090",
+      "021 970 9000 / 0860 065 465"
+    ],
+    "physical_address": "80 Voortrekker Road, Bellville",
+    "postal_address": "Private Bag X1, Panorama, 7506",
+    "socials": {
+      "facebook": "https://www.facebook.com/northlink",
+      "instagram": "https://www.instagram.com/northlink_college/",
+      "linkedin": "https://www.linkedin.com/company/northlink-college/",
+      "x": "https://twitter.com/northlink",
+      "youtube": "https://www.youtube.com/channel/UCVyOPMgNqyUhOl2DdEfA1IQ"
+    }
+  },
+  "campuses": [],
+  "faculties": [],
+  "programmes": [],
+  "admission": {
+    "aps_name": null,
+    "aps_calculation_notes": null,
+    "minimum_aps_for_bachelors": null,
+    "minimum_aps_for_diplomas": null,
+    "minimum_entry_note": null,
+    "life_orientation_cap": null,
+    "aps_rules": [],
+    "programme_requirements": []
+  },
+  "sources": [
+    "generated/v3/institutions.enriched.json",
+    "institutions.json"
+  ],
+  "_stats": {
+    "campuses_count": 0,
+    "faculties_count": 0,
+    "programmes_count": 0,
+    "aps_rules_count": 0,
+    "adm_reqs_count": 0
+  }
+}

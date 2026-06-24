@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "institution_id": "291",
+    "slug": "transport-education-training-authority-teta",
+    "name": "Transport Education Training Authority (TETA)",
+    "institution_type": "seta",
+    "province": "Gauteng",
+    "city": "Randburg",
+    "official_website": "https://www.teta.org.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/291/transport-education-training-authority-teta",
+    "application_url": null,
+    "prospectus_url": null,
+    "nsfas_supported": null,
+    "distance_learning": null,
+    "accreditation": {
+      "dh et": null,
+      "saqa": null
+    },
+    "qualification_types": null
+  },
+  "profile": {},
+  "contact": {
+    "phone_numbers": [
+      "011 577 7000"
+    ],
+    "physical_address": "344 Pretoria Avenue, TETA House, Randburg, Gauteng",
+    "postal_address": "Private Bag X10016, Randburg, 2125",
+    "socials": {
+      "facebook": "https://www.facebook.com/Transport.Education.Training.Authority/",
+      "instagram": "",
+      "linkedin": "https://za.linkedin.com/organization-guest/company/transport-education-training-authority",
+      "x": "",
+      "youtube": "https://www.youtube.com/channel/UCkZMXGw3QwE9WMjHoG9fCcw"
+    }
+  },
+  "campuses": [],
+  "faculties": [],
+  "programmes": [],
+  "admission": {
+    "aps_name": null,
+    "aps_calculation_notes": null,
+    "minimum_aps_for_bachelors": null,
+    "minimum_aps_for_diplomas": null,
+    "minimum_entry_note": null,
+    "life_orientation_cap": null,
+    "aps_rules": [],
+    "programme_requirements": []
+  },
+  "sources": [
+    "institutions.json"
+  ],
+  "_stats": {
+    "campuses_count": 0,
+    "faculties_count": 0,
+    "programmes_count": 0,
+    "aps_rules_count": 0,
+    "adm_reqs_count": 0
+  }
+}

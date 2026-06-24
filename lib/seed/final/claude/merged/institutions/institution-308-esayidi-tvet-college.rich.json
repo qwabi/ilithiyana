@@ -1,0 +1,64 @@
+{
+  "meta": {
+    "institution_id": "308",
+    "slug": "esayidi-tvet-college",
+    "name": "Esayidi TVET College",
+    "institution_type": "tvet-college",
+    "province": null,
+    "city": "Port Shepstone",
+    "official_website": "https://esayiditvet.co.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/308/esayidi-tvet-college",
+    "application_url": null,
+    "prospectus_url": null,
+    "nsfas_supported": null,
+    "distance_learning": null,
+    "accreditation": {
+      "dh et": "Accredited",
+      "saqa": null
+    },
+    "qualification_types": [
+      "NC(V)",
+      "Nated (Report 191)",
+      "Skills Programmes",
+      "Apprenticeships"
+    ]
+  },
+  "profile": {},
+  "contact": {
+    "phone_numbers": [
+      "039 685 5482/3"
+    ],
+    "physical_address": "5 Nelson Mandela Drive, Port Shepstone, 4240",
+    "postal_address": "Private Bag 814, Port Shepstone, 4240",
+    "socials": {
+      "facebook": "https://web.facebook.com/EsayidiTVETCollege?_rdc=1&_rdr",
+      "instagram": "https://www.instagram.com/esayiditvetcollege/?hl=en",
+      "linkedin": "https://www.linkedin.com/in/esayidi-tvet-college-123a38361/",
+      "x": "",
+      "youtube": "https://www.youtube.com/@ESAYIDITVETCOLLEGE"
+    }
+  },
+  "campuses": [],
+  "faculties": [],
+  "programmes": [],
+  "admission": {
+    "aps_name": null,
+    "aps_calculation_notes": null,
+    "minimum_aps_for_bachelors": null,
+    "minimum_aps_for_diplomas": null,
+    "minimum_entry_note": null,
+    "life_orientation_cap": null,
+    "aps_rules": [],
+    "programme_requirements": []
+  },
+  "sources": [
+    "institutions.json"
+  ],
+  "_stats": {
+    "campuses_count": 0,
+    "faculties_count": 0,
+    "programmes_count": 0,
+    "aps_rules_count": 0,
+    "adm_reqs_count": 0
+  }
+}

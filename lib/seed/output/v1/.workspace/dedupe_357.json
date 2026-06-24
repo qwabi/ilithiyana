@@ -1,0 +1,98 @@
+{
+  "faculties": [],
+  "programmes": [
+    {
+      "id": "prog:357:NATED|d4617385071f|nated n1",
+      "institutionId": "357",
+      "name": "NATED N1",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/thekwini-tvet-college.pdf",
+      "sourceUrl": "https://www.thekwini.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/thekwini-tvet-college.pdf",
+        "char_start": 992,
+        "char_end": 1000,
+        "excerpt": "NATED N1"
+      },
+      "normalization_key": "NATED|d4617385071f|nated n1",
+      "campuses": [],
+      "merged_from": [
+        "prog:357:NATED|d4617385071f|nated n1",
+        "prog:357:NATED|d4617385071f|nated n1"
+      ],
+      "source_refs": [
+        "https://www.thekwini.edu.za/"
+      ]
+    },
+    {
+      "id": "prog:357:NATED|ba8ace293004|nated n4",
+      "institutionId": "357",
+      "name": "NATED N4",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/thekwini-tvet-college.pdf",
+      "sourceUrl": "https://www.thekwini.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/thekwini-tvet-college.pdf",
+        "char_start": 1546,
+        "char_end": 1554,
+        "excerpt": "NATED N4"
+      },
+      "normalization_key": "NATED|ba8ace293004|nated n4",
+      "campuses": [],
+      "merged_from": [
+        "prog:357:NATED|ba8ace293004|nated n4",
+        "prog:357:NATED|ba8ace293004|nated n4",
+        "prog:357:NATED|ba8ace293004|nated n4"
+      ],
+      "source_refs": [
+        "https://www.thekwini.edu.za/"
+      ]
+    },
+    {
+      "id": "prog:357:NATED|3787633babc5|report 191",
+      "institutionId": "357",
+      "name": "REPORT 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/thekwini-tvet-college.pdf",
+      "sourceUrl": "https://www.thekwini.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/thekwini-tvet-college.pdf",
+        "char_start": 6334,
+        "char_end": 6344,
+        "excerpt": "Report 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191",
+      "campuses": [],
+      "merged_from": [
+        "prog:357:NATED|3787633babc5|report 191",
+        "prog:357:NATED|3787633babc5|report 191",
+        "prog:357:NATED|3787633babc5|report 191",
+        "prog:357:NATED|3787633babc5|report 191",
+        "prog:357:NATED|3787633babc5|report 191",
+        "prog:357:NATED|3787633babc5|report 191",
+        "prog:357:NATED|3787633babc5|report 191"
+      ],
+      "source_refs": [
+        "https://www.thekwini.edu.za/"
+      ]
+    }
+  ],
+  "admissions_rules": [],
+  "aps_rules": [],
+  "llm_calls": 0
+}

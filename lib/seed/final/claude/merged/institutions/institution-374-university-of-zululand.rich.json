@@ -1,0 +1,616 @@
+{
+  "meta": {
+    "institution_id": "374",
+    "slug": "university-of-zululand",
+    "name": "University of Zululand",
+    "institution_type": "university",
+    "province": null,
+    "city": "KwaDlangezwa",
+    "official_website": "https://www.unizulu.ac.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/374/university-of-zululand",
+    "application_url": null,
+    "prospectus_url": null,
+    "nsfas_supported": null,
+    "distance_learning": null,
+    "accreditation": {
+      "dh et": "Accredited",
+      "saqa": "Registered"
+    },
+    "qualification_types": [
+      "Undergraduate",
+      "Postgraduate",
+      "Diploma",
+      "Certificate"
+    ]
+  },
+  "profile": {
+    "short_name": "UNIZULU",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/4/45/University_of_Zululand_logo.png"
+  },
+  "contact": {
+    "phone_numbers": [
+      "035 902 6000"
+    ],
+    "physical_address": "24 Main Road, Vulindlela, KwaDlangezwa",
+    "postal_address": "Private Bag X1001, KwaDlangezwa, 3886",
+    "socials": {
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "x": "",
+      "youtube": ""
+    }
+  },
+  "campuses": [],
+  "faculties": [
+    {
+      "id": "fac:99bef73e3c0c",
+      "name": "EDUCATION",
+      "overview": "FACULTY OF EDUCATION",
+      "kind": "faculty"
+    }
+  ],
+  "programmes": [
+    {
+      "id": "prog:75e1a3b16827",
+      "name": "BA in Drama, Theatre and Performance 3 yrs 26 NSC Deg with Engl 4 and Dramatic Art or",
+      "normalized_name": "BA in Drama, Theatre and Performance 3 yrs 26 NSC Deg with Engl 4 and Dramatic Art or",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:5635d1e628ab",
+      "name": "BA in Psychology 3 yrs 28 NSC Deg with Engl 4 and Social Sci (Geography/History) 4 and four",
+      "normalized_name": "BA in Psychology 3 yrs 28 NSC Deg with Engl 4 and Social Sci (Geography/History) 4 and four",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:53e5b8d25ccb",
+      "name": "Bachelor of Social Sciences in Political and International Studies",
+      "normalized_name": "Bachelor of Social Sciences in Political and International Studies",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:e8e5e14b96e5",
+      "name": "BEd in Foundation Phase",
+      "normalized_name": "BEd in Foundation Phase",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "EDUCATION",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:6e7c41c9a5e0",
+      "name": "BEd in Intermediate Phase",
+      "normalized_name": "BEd in Intermediate Phase",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": "EDUCATION",
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:4876053241f4",
+      "name": "Diploma in Media Studies 3 yrs 24 NSC Dip with Engl 4 and five 20 credit subjects",
+      "normalized_name": "Diploma in Media Studies 3 yrs 24 NSC Dip with Engl 4 and five 20 credit subjects",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:627d81b351ef",
+      "name": "Diploma in Public Relations Management 3 yrs 24 NSC Dip with Engl 4 and five 20 credit subjects",
+      "normalized_name": "Diploma in Public Relations Management 3 yrs 24 NSC Dip with Engl 4 and five 20 credit subjects",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:7251fe9d60d1",
+      "name": "Diploma in Tourism Management 3 yrs 24 NSC Dip with Engl 4 and (any five) subjects: Maths/Maths Lit, Tourism and/",
+      "normalized_name": "Diploma in Tourism Management 3 yrs 24 NSC Dip with Engl 4 and (any five) subjects: Maths/Maths Lit, Tourism and/",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:374:Degree|454ba1672c68|bachelor of education in foundation phase",
+      "name": "Bachelor of Education in Foundation Phase",
+      "normalized_name": null,
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    },
+    {
+      "id": "prog:374:Degree|028cb540a4c2|bachelor of education in intermediate phase",
+      "name": "Bachelor of Education in Intermediate Phase",
+      "normalized_name": null,
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "nqf_level": null,
+      "faculty_name": null,
+      "department": null,
+      "duration": null,
+      "study_mode": null,
+      "campus": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "min_aps": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "min_grade": null,
+      "selection_required": null,
+      "overview": null,
+      "career_outcomes": [],
+      "fees_per_year": null
+    }
+  ],
+  "admission": {
+    "aps_name": null,
+    "aps_calculation_notes": null,
+    "minimum_aps_for_bachelors": null,
+    "minimum_aps_for_diplomas": null,
+    "minimum_entry_note": null,
+    "life_orientation_cap": null,
+    "aps_rules": [],
+    "programme_requirements": [
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "Bachelor of Social Sciences in Political and International Studies",
+        "faculty_name": null,
+        "detail": "Subject requirements for Bachelor of Social Sciences in Political and International Studies",
+        "subjects_compulsory": [
+          {
+            "subject": "Economics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Economics/Math Literacy 4"
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Math Literacy 4"
+          },
+          {
+            "subject": "Tourism",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Tourism Studies 3 / Tourism or Geog 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Tourism",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Tourism Management 3"
+            }
+          ]
+        ],
+        "institution_id": "374",
+        "institution_name": "University of Zululand",
+        "source_file": "prospectuses/university-of-zululand.pdf",
+        "source_excerpt": "Bachelor of Social Sciences in Political and",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:34b33bcb31c7",
+        "institutionId": "374"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BA in Drama, Theatre and Performance 3 yrs 26 NSC Deg with Engl 4 and Dramatic Art or",
+        "faculty_name": null,
+        "detail": "Subject requirements for BA in Drama, Theatre and Performance 3 yrs 26 NSC Deg with Engl 4 and Dramatic Art or",
+        "subjects_compulsory": [
+          {
+            "subject": "Geography",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Geography/History) 4"
+          },
+          {
+            "subject": "History",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "History) 4"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "374",
+        "institution_name": "University of Zululand",
+        "source_file": "prospectuses/university-of-zululand.pdf",
+        "source_excerpt": "BA in Drama, Theatre and Performance 3 yrs 26 NSC Deg with Engl 4 and Dramatic Art or",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:36a7e33907ab",
+        "institutionId": "374"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "Diploma in Public Relations Management 3 yrs 24 NSC Dip with Engl 4 and five 20 credit subjects",
+        "faculty_name": null,
+        "detail": "Subject requirements for Diploma in Public Relations Management 3 yrs 24 NSC Dip with Engl 4 and five 20 credit subjects",
+        "subjects_compulsory": [
+          {
+            "subject": "Economics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Economics/Math Literacy 4"
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Math Literacy 4"
+          },
+          {
+            "subject": "Tourism",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Tourism Studies 3"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "374",
+        "institution_name": "University of Zululand",
+        "source_file": "prospectuses/university-of-zululand.pdf",
+        "source_excerpt": "Diploma in Public Relations Management 3 yrs 24 NSC Dip with Engl 4 and five 20 credit subjects",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:3f6866a1dd8c",
+        "institutionId": "374"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BA in Psychology 3 yrs 28 NSC Deg with Engl 4 and Social Sci (Geography/History) 4 and four",
+        "faculty_name": null,
+        "detail": "Subject requirements for BA in Psychology 3 yrs 28 NSC Deg with Engl 4 and Social Sci (Geography/History) 4 and four",
+        "subjects_compulsory": [
+          {
+            "subject": "Geography",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Geography/History) 4"
+          },
+          {
+            "subject": "History",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "History) 4"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "374",
+        "institution_name": "University of Zululand",
+        "source_file": "prospectuses/university-of-zululand.pdf",
+        "source_excerpt": "BA in Psychology 3 yrs 28 NSC Deg with Engl 4 and Social Sci (Geography/History) 4 and",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:89dfd44fb3fe",
+        "institutionId": "374"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "Diploma in Tourism Management 3 yrs 24 NSC Dip with Engl 4 and (any five) subjects: Maths/Maths Lit, Tourism and/",
+        "faculty_name": null,
+        "detail": "Subject requirements for Diploma in Tourism Management 3 yrs 24 NSC Dip with Engl 4 and (any five) subjects: Maths/Maths Lit, Tourism and/",
+        "subjects_compulsory": [
+          {
+            "subject": "Economics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Economics/Math Literacy 4"
+          },
+          {
+            "subject": "isiZulu",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "IsiZulu 4 / IsiZulu HL 4"
+          },
+          {
+            "subject": "Mathematical Literacy",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Math Literacy 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Maths 3 / Maths Lit 4"
+          },
+          {
+            "subject": "Tourism",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Tourism Studies 3 / Tourism or Geog 4"
+          }
+        ],
+        "subject_or_groups": [
+          [
+            {
+              "subject": "Tourism",
+              "minimum_percentage": 3,
+              "minimum_nsc_level": null,
+              "notes": "Tourism Management 3"
+            }
+          ]
+        ],
+        "institution_id": "374",
+        "institution_name": "University of Zululand",
+        "source_file": "prospectuses/university-of-zululand.pdf",
+        "source_excerpt": "Diploma in Tourism Management 3 yrs 24 NSC Dip with Engl 4 and (any five) subjects: Maths/Maths Lit, Tourism and/",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:8e94c26b02e8",
+        "institutionId": "374"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "Diploma in Media Studies 3 yrs 24 NSC Dip with Engl 4 and five 20 credit subjects",
+        "faculty_name": null,
+        "detail": "Subject requirements for Diploma in Media Studies 3 yrs 24 NSC Dip with Engl 4 and five 20 credit subjects",
+        "subjects_compulsory": [
+          {
+            "subject": "Geography",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Geography & History) 3 / Geography & Tourism) 3"
+          },
+          {
+            "subject": "History",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "History) 3 / History & IsiZulu) 3"
+          },
+          {
+            "subject": "isiZulu",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "IsiZulu) 3"
+          },
+          {
+            "subject": "Tourism",
+            "minimum_percentage": 3,
+            "minimum_nsc_level": null,
+            "notes": "Tourism) 3"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "374",
+        "institution_name": "University of Zululand",
+        "source_file": "prospectuses/university-of-zululand.pdf",
+        "source_excerpt": "Diploma in Media Studies 3 yrs 24 NSC Dip with Engl 4 and five 20 credit subjects",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:b3320be0892e",
+        "institutionId": "374"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BEd in Intermediate Phase",
+        "faculty_name": "EDUCATION",
+        "detail": "Subject requirements for BEd in Intermediate Phase",
+        "subjects_compulsory": [
+          {
+            "subject": "isiZulu",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "IsiZulu 4 / IsiZulu HL 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Maths 3 / Maths Lit 4"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "374",
+        "institution_name": "University of Zululand",
+        "source_file": "prospectuses/university-of-zululand.pdf",
+        "source_excerpt": "Bachelor of Education in Intermediate Phase",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:b569c349ddaa",
+        "institutionId": "374"
+      },
+      {
+        "rule_type": "subject_requirements",
+        "programme_name": "BEd in Foundation Phase",
+        "faculty_name": "EDUCATION",
+        "detail": "Subject requirements for BEd in Foundation Phase",
+        "subjects_compulsory": [
+          {
+            "subject": "isiZulu",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "IsiZulu 4 / IsiZulu HL 4"
+          },
+          {
+            "subject": "Mathematics",
+            "minimum_percentage": 4,
+            "minimum_nsc_level": null,
+            "notes": "Maths 3 / Maths Lit 4"
+          }
+        ],
+        "subject_or_groups": null,
+        "institution_id": "374",
+        "institution_name": "University of Zululand",
+        "source_file": "prospectuses/university-of-zululand.pdf",
+        "source_excerpt": "Bachelor of Education in Foundation Phase",
+        "extraction_confidence": 0.86,
+        "programme_id": null,
+        "programmeId": null,
+        "ruleType": "subject_requirements",
+        "id": "adm:cbccce89b59d",
+        "institutionId": "374"
+      }
+    ]
+  },
+  "sources": [
+    "enriched_universities.json",
+    "generated/v3/institutions.enriched.json",
+    "institutions.json"
+  ],
+  "_stats": {
+    "campuses_count": 0,
+    "faculties_count": 1,
+    "programmes_count": 10,
+    "aps_rules_count": 0,
+    "adm_reqs_count": 8
+  }
+}

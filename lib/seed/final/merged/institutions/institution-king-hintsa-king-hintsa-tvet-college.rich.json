@@ -1,0 +1,83 @@
+{
+  "institution": {
+    "institution_id": "king-hintsa",
+    "name": "King Hintsa TVET College",
+    "institution_type": "tvet-college",
+    "city": null,
+    "province": null,
+    "official_website": null,
+    "detail_source": null,
+    "source_paths": [
+      "workik/batch1/online/king-hintsa.json"
+    ],
+    "profile": {}
+  },
+  "campuses": [
+    {
+      "id": "camp:462fde058c667c0c",
+      "institution_id": "king-hintsa",
+      "name": "Msobomvu",
+      "city": "Butterworth",
+      "province": "Eastern Cape",
+      "is_main": true,
+      "source_paths": [
+        "workik/batch1/online/king-hintsa.json"
+      ]
+    },
+    {
+      "id": "camp:3a418f6dd9d9905d",
+      "institution_id": "king-hintsa",
+      "name": "Centane",
+      "city": "Centane",
+      "province": "Eastern Cape",
+      "is_main": false,
+      "source_paths": [
+        "workik/batch1/online/king-hintsa.json"
+      ]
+    },
+    {
+      "id": "camp:9963d9679433c223",
+      "institution_id": "king-hintsa",
+      "name": "Dutywa",
+      "city": "Idutywa",
+      "province": "Eastern Cape",
+      "is_main": false,
+      "source_paths": [
+        "workik/batch1/online/king-hintsa.json"
+      ]
+    },
+    {
+      "id": "camp:159612a65aebe4d9",
+      "institution_id": "king-hintsa",
+      "name": "Teko",
+      "city": "Butterworth",
+      "province": "Eastern Cape",
+      "is_main": false,
+      "source_paths": [
+        "workik/batch1/online/king-hintsa.json"
+      ]
+    },
+    {
+      "id": "camp:dbd8e222ca9d510c",
+      "institution_id": "king-hintsa",
+      "name": "Willowvale",
+      "city": "Willowvale",
+      "province": "Eastern Cape",
+      "is_main": false,
+      "source_paths": [
+        "workik/batch1/online/king-hintsa.json"
+      ]
+    }
+  ],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 5,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

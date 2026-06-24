@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "institution_id": "246",
+    "slug": "media-information-and-communication-technologies-sector-education-and-training-authority-mict-seta",
+    "name": "Media, Information and Communication Technologies Sector Education and Training Authority (MICT SETA)",
+    "institution_type": "seta",
+    "province": "Gauteng",
+    "city": "Midrand",
+    "official_website": "https://www.mict.org.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/246/media-information-and-communication-technologies-sector-education-and-training-authority-mict-seta",
+    "application_url": "https://www.mict.org.za/discretionary-grant-advertisement-programme-take-over/",
+    "prospectus_url": null,
+    "nsfas_supported": null,
+    "distance_learning": null,
+    "accreditation": {
+      "dh et": null,
+      "saqa": null
+    },
+    "qualification_types": null
+  },
+  "profile": {},
+  "contact": {
+    "emails": [
+      "helvy.ndlovu@mict.org.za",
+      "rochelle.vetman@mict.org.za",
+      "moderator@mict.org.za",
+      "cikizwa.roto@mict.org.za",
+      "natalie.nelson@mict.org.za",
+      "gugu.sema@mict.org.za",
+      "accreditation@mict.org.za",
+      "verification@mict.org.za",
+      "assessor@mict.org.za",
+      "andile.nene@mict.org.za",
+      "sors@mict.org.za",
+      "certification@mict.org.za",
+      "bontle.mokoena@mict.org.za",
+      "ernest.nemugavhini@mict.org.za",
+      "eos@mict.org.za",
+      "dgqueries@mict.org.za",
+      "reaccreditation@mict.org.za",
+      "dginvoices@mict.org.za"
+    ],
+    "phone_numbers": [
+      "010 055 7996",
+      "073 204 1514",
+      "083 239 6952",
+      "061 583 7742",
+      "082 773 4735",
+      "011 207 2600/3",
+      "064 908 2906",
+      "082 837 4471"
+    ],
+    "physical_address": "Gallagher House, Gallagher Convention Centre, 19 Richards Drive, Halfway House, Midrand, 1685",
+    "postal_address": "PO Box 5585, Halfway House, 1685",
+    "socials": {
+      "facebook": "https://www.facebook.com/pages/category/Government-Organization/MICT-SETA-545956098931826/",
+      "instagram": "https://www.instagram.com/mictseta/?hl=en",
+      "linkedin": "https://www.linkedin.com/company/mict-seta",
+      "x": "https://twitter.com/MictSeta?ref_src=twsrcgoogletwcampserptwgrauthor",
+      "youtube": "https://www.youtube.com/channel/UCc8d3PUBlFFjG4coxJErJxg"
+    }
+  },
+  "campuses": [],
+  "faculties": [],
+  "programmes": [],
+  "admission": {
+    "aps_name": null,
+    "aps_calculation_notes": null,
+    "minimum_aps_for_bachelors": null,
+    "minimum_aps_for_diplomas": null,
+    "minimum_entry_note": null,
+    "life_orientation_cap": null,
+    "aps_rules": [],
+    "programme_requirements": []
+  },
+  "sources": [
+    "institutions.json"
+  ],
+  "_stats": {
+    "campuses_count": 0,
+    "faculties_count": 0,
+    "programmes_count": 0,
+    "aps_rules_count": 0,
+    "adm_reqs_count": 0
+  }
+}

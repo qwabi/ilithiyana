@@ -1,0 +1,14 @@
+{
+  "chunks": [],
+  "matched_files": [
+    "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/buffalo-city-tvet-college-web.txt"
+  ],
+  "skipped_chunks": [
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/buffalo-city-tvet-college-web.txt",
+      "chunk_index": 0,
+      "chars": 50
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{"ts": 1779893412.209138, "institutionId": "228", "event": "preprocess_no_file", "matched_files": [], "chunks_created": 0, "skipped_chunk_reasons": [{"reason": "no_matched_file"}]}
+{"ts": 1779893412.2094662, "institutionId": "228", "event": "extract_done", "extracted_programmes_count": 0, "llm_calls": 0, "faculties_found": 0, "chunks_processed": 0}
+{"ts": 1779893412.209889, "institutionId": "228", "event": "normalize_done", "faculties": 0, "programmes": 0}
+{"ts": 1779893412.210368, "institutionId": "228", "event": "dedupe_done", "programmes_before": 0, "programmes_after": 0}
+{"ts": 1779893412.210968, "institutionId": "228", "event": "institution_pipeline_complete", "etlStatus": "no_matched_file", "total_llm_calls_institution": 0}

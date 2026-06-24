@@ -1,0 +1,31 @@
+{
+  "institution": {
+    "institution_id": "299",
+    "name": "Wholesale and Retail Sector Education and Training Authority (W&RSETA)",
+    "institution_type": "seta",
+    "city": "Pretoria",
+    "province": "Gauteng",
+    "official_website": "https://www.wrseta.org.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/299/wholesale-and-retail-sector-education-and-training-authority-w-rseta",
+    "source_paths": [
+      "generated/v3/institutions.enriched.json",
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

@@ -1,0 +1,446 @@
+{
+  "institution": {
+    "id": "institution:western-college-for-tvet",
+    "slug": "western-college-for-tvet",
+    "institution_id_raw": "321",
+    "name": "Western College for TVET",
+    "institution_type": "tvet-college",
+    "city": "Randfontein",
+    "province": "",
+    "official_website": "https://www.westcol.co.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/321/western-college-for-tvet",
+    "source_paths": [
+      "generated/v3/institutions.enriched.json",
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "sector": "higher education",
+      "city": "Randfontein",
+      "physical_address": "42 Johnstone Street, Randfontein, 1759",
+      "contact_emails": [
+        "support@velomentgroup.com",
+        "info@westcol.co.za"
+      ],
+      "contact_phone_numbers": [
+        "011 692 4004",
+        "062 117 6455",
+        "011 692 4004/82"
+      ],
+      "application_url": "https://westcol.co.za/how-to-apply/",
+      "prospectus_url": "https://westcol.co.za/view-prospectus/",
+      "socials": {
+        "facebook": "https://www.facebook.com/",
+        "instagram": "https://www.instagram.com/westerntvet_college/",
+        "linkedin": "https://www.linkedin.com/company/western-tvet-college/",
+        "x": "",
+        "youtube": ""
+      },
+      "accreditation": {
+        "dh et": "Accredited",
+        "saqa": null
+      },
+      "sources": [
+        "https://nationalgovernment.co.za/units/view/321/western-college-for-tvet",
+        "https://www.westcol.co.za/"
+      ],
+      "qualification_types": [
+        "NC(V)",
+        "Nated (Report 191)",
+        "Skills Programmes",
+        "Apprenticeships"
+      ],
+      "nsfas_supported": true,
+      "student_accommodation": true,
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [
+    {
+      "id": "programme:western-college-for-tvet--n2-certificate",
+      "institution_slug": "western-college-for-tvet",
+      "institution_name": "Western College for TVET",
+      "name": "N2 certificate",
+      "normalized_name": "N2 certificate",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "N2 certificate",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:western-college-for-tvet--n4-certificate",
+      "institution_slug": "western-college-for-tvet",
+      "institution_name": "Western College for TVET",
+      "name": "N4 Certificate",
+      "normalized_name": "N4 Certificate",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "N4 Certificate",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:western-college-for-tvet--n5-certificate",
+      "institution_slug": "western-college-for-tvet",
+      "institution_name": "Western College for TVET",
+      "name": "N5 Certificate",
+      "normalized_name": "N5 Certificate",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "N5 Certificate",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:western-college-for-tvet--nc-v-l4",
+      "institution_slug": "western-college-for-tvet",
+      "institution_name": "Western College for TVET",
+      "name": "NC (V) L4",
+      "normalized_name": "NC (V) L4",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": 20,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NC (V) L4",
+      "extraction_confidence": 0.83,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:western-college-for-tvet--nc-v-l2",
+      "institution_slug": "western-college-for-tvet",
+      "institution_name": "Western College for TVET",
+      "name": "NC(V) L2",
+      "normalized_name": "NC(V) L2",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": 24,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NC(V) L2",
+      "extraction_confidence": 0.91,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:western-college-for-tvet--nc-v-l3",
+      "institution_slug": "western-college-for-tvet",
+      "institution_name": "Western College for TVET",
+      "name": "NC(V) L3",
+      "normalized_name": "NC(V) L3",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": 20,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NC(V) L3",
+      "extraction_confidence": 0.91,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:western-college-for-tvet--nc-v-l4",
+      "institution_slug": "western-college-for-tvet",
+      "institution_name": "Western College for TVET",
+      "name": "NC(V) L4",
+      "normalized_name": "NC(V) L4",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": 22,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NC(V) L4",
+      "extraction_confidence": 0.83,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:western-college-for-tvet--nc-v-level-4",
+      "institution_slug": "western-college-for-tvet",
+      "institution_name": "Western College for TVET",
+      "name": "NC(V) Level 4",
+      "normalized_name": "NC(V) Level 4",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NC(V) Level 4",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    }
+  ],
+  "programmes_all": [
+    {
+      "id": "programme:western-college-for-tvet--n2-certificate",
+      "institution_slug": "western-college-for-tvet",
+      "institution_name": "Western College for TVET",
+      "name": "N2 certificate",
+      "normalized_name": "N2 certificate",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "N2 certificate",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:western-college-for-tvet--n4-certificate",
+      "institution_slug": "western-college-for-tvet",
+      "institution_name": "Western College for TVET",
+      "name": "N4 Certificate",
+      "normalized_name": "N4 Certificate",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "N4 Certificate",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:western-college-for-tvet--n5-certificate",
+      "institution_slug": "western-college-for-tvet",
+      "institution_name": "Western College for TVET",
+      "name": "N5 Certificate",
+      "normalized_name": "N5 Certificate",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "N5 Certificate",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:western-college-for-tvet--nc-v-l4",
+      "institution_slug": "western-college-for-tvet",
+      "institution_name": "Western College for TVET",
+      "name": "NC (V) L4",
+      "normalized_name": "NC (V) L4",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": 20,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NC (V) L4",
+      "extraction_confidence": 0.83,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:western-college-for-tvet--nc-v-l2",
+      "institution_slug": "western-college-for-tvet",
+      "institution_name": "Western College for TVET",
+      "name": "NC(V) L2",
+      "normalized_name": "NC(V) L2",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": 24,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NC(V) L2",
+      "extraction_confidence": 0.91,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:western-college-for-tvet--nc-v-l3",
+      "institution_slug": "western-college-for-tvet",
+      "institution_name": "Western College for TVET",
+      "name": "NC(V) L3",
+      "normalized_name": "NC(V) L3",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": 20,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NC(V) L3",
+      "extraction_confidence": 0.91,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:western-college-for-tvet--nc-v-l4",
+      "institution_slug": "western-college-for-tvet",
+      "institution_name": "Western College for TVET",
+      "name": "NC(V) L4",
+      "normalized_name": "NC(V) L4",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": 22,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NC(V) L4",
+      "extraction_confidence": 0.83,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:western-college-for-tvet--nc-v-level-4",
+      "institution_slug": "western-college-for-tvet",
+      "institution_name": "Western College for TVET",
+      "name": "NC(V) Level 4",
+      "normalized_name": "NC(V) Level 4",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NC(V) Level 4",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:western-college-for-tvet--ncv-level-4",
+      "institution_slug": "western-college-for-tvet",
+      "institution_name": "Western College for TVET",
+      "name": "NCV Level 4",
+      "normalized_name": "NCV Level 4",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NCV Level 4",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    }
+  ],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 8,
+    "programmes_all": 9
+  }
+}

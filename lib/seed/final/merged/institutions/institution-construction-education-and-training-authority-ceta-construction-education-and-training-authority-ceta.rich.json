@@ -1,0 +1,66 @@
+{
+  "institution": {
+    "id": "institution:construction-education-and-training-authority-ceta",
+    "slug": "construction-education-and-training-authority-ceta",
+    "institution_id_raw": "209",
+    "name": "Construction Education and Training Authority (CETA)",
+    "institution_type": "seta",
+    "city": "Midrand",
+    "province": "Gauteng",
+    "official_website": "https://www.ceta.org.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/209/construction-education-and-training-authority-ceta",
+    "source_paths": [
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "sector": "training",
+      "province": "Gauteng",
+      "city": "Midrand",
+      "physical_address": "52 14th Road, Noordwyk, Midrand, 1687",
+      "postal_address": "PO Box 1955, Halfway House, 1685",
+      "contact_phone_numbers": [
+        "083 6571599",
+        "069 008 5876",
+        "078 338 1768",
+        "071 864 5690",
+        "083 938 3201",
+        "060 565 3626",
+        "071 864 4423",
+        "073 352 0153",
+        "071 864 4489",
+        "011 265 5900/1",
+        "083 577 3815",
+        "083 577 2697"
+      ],
+      "socials": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": "",
+        "x": "",
+        "youtube": ""
+      },
+      "accreditation": {
+        "dh et": null,
+        "saqa": null
+      },
+      "sources": [
+        "https://nationalgovernment.co.za/units/view/209/construction-education-and-training-authority-ceta",
+        "https://www.ceta.org.za/"
+      ],
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

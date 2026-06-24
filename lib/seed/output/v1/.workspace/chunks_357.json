@@ -1,0 +1,163 @@
+{
+  "chunks": [
+    {
+      "type": "programme",
+      "text": "NATIONAL CERTIFICATE VOCATIONAL (NCV)\n(Annual)\nPROGRAMME CAMPUS FEES\nElectrical Infrastructure\nConstruction\nCato\nManor\n15 066\nEngineering and Related Design\n(Automotive repairs and\nMaintenance/Fitting and\nTurning/Boiler making)\nSpringfield 19 760\nHospitality Cato\nManor\n18 488\nInfo Technology; and Computer\nScience\nMelbourne 14 875\nOffice Admin Centec 9 699\nEducation and Development Asherville 10 563\nTransport and Logistics Umbilo 10 306\nTourism Centec 14 103\nPre-vocational Learning\nProgramme\nCato\nManor/\nSpringfield\n5 569",
+      "institutionId": "357",
+      "source_file": "lib/seed/prospectuses/thekwini-tvet-college.pdf",
+      "start_char": 0,
+      "end_char": 525
+    },
+    {
+      "type": "programme",
+      "text": "NCV Rewrites-New ICASS mark assessments per\nsubject only for ICASS mark generation",
+      "institutionId": "357",
+      "source_file": "lib/seed/prospectuses/thekwini-tvet-college.pdf",
+      "start_char": 526,
+      "end_char": 608
+    },
+    {
+      "type": "programme",
+      "text": "REPORT 191: NATED N1 – N3\nENGINEERING STUDIES (Trimester)\nCivil Melbourne 1 999 67\nElectrical (N1 only) Cato Manor 1 999 67\nElectrical(N2-N3 Only) Melbourne 1 999 67\nMechanical Springfield 1 999 67",
+      "institutionId": "357",
+      "source_file": "lib/seed/prospectuses/thekwini-tvet-college.pdf",
+      "start_char": 609,
+      "end_char": 806
+    },
+    {
+      "type": "programme",
+      "text": "REPORT 191: NATED N4 – N6\nENGINEERING STUDIES (Trimester)\nCivil Melbourne 2 333\nElectrical Melbourne 2 333\nMechanical\n(Motor/ diesel/\nboilermaking/fitting\nSpringfield 2 333",
+      "institutionId": "357",
+      "source_file": "lib/seed/prospectuses/thekwini-tvet-college.pdf",
+      "start_char": 807,
+      "end_char": 979
+    },
+    {
+      "type": "programme",
+      "text": "REPORT 191: NATED N1 – N6\nENGINEERING STUDIES –PART-TIME\nN1- N3 fee per subject 1 340\nN4- N6 fee per subject 1 465\nExam fee per subject 416\nInstallation Rules/Special Installation\nRules\n(exam only)",
+      "institutionId": "357",
+      "source_file": "lib/seed/prospectuses/thekwini-tvet-college.pdf",
+      "start_char": 980,
+      "end_char": 1177
+    },
+    {
+      "type": "programme",
+      "text": "REPORT 191: NATED N4 – N6\nBUSINESS & GENERAL STUDIES (Semester)\nPROGRAMME CAMPUS FEES\nMarketing Man. Springfield 2 962 80\nPublic Relations Springfield 2 962 80\nBusiness Management Springfield 2 962 80\nPublic Management Asherville 2 962 80\nFinancial Management Centec 2 962 80\nHospitality Centec 6 684 20\nTourism Centec 6 512 80\nEducare Asherville 3 599 20",
+      "institutionId": "357",
+      "source_file": "lib/seed/prospectuses/thekwini-tvet-college.pdf",
+      "start_char": 1178,
+      "end_char": 1533
+    },
+    {
+      "type": "programme",
+      "text": "REPORT 191: NATED N4 – N6\nBUSINESS & GENERAL STUDIES- PART TIME\nPROGRAMME FEES\nHuman Resources Management 7 192\nFinancial Management 8 260\nPublic Management 7 192\nBusiness Management 7 192\nTourism 6 596\n(Errors and Omissions Excepted)\nSHORT-SKILLS\nPROGRAMMES\nFEES\nBricklaying 4 459\nElectrical 8 793\nPlumbing 4 459\nNSFAS-BURSARIES\nAll NSFAS Bursary applications to be done online.\nNSFAS WEBSITE: www.nsfas.org.za\nEmail: apply@nsfas.org.za\n(sharecall) : 0860067327\nCAMPUS\nCONTACT DETAILS\nASHERVILLE CAMPUS\n262 D’Aintree Avenue\nAsherville\n031 250 8200\nCATO MANOR CAMPUS\nCorner Harry Gwala\n&Ridgeview Roads\nCato Manor\n031 273 3650\nCENTEC CAMPUS\n75 Earl Haig Road\nRoseglen\n031 203 5500\nMELBOURNE CAMPUS\n70 Sydney Road\nDalbridge\n031 327 5700\nSPRINGFIELD CAMPUS\n2 Bisasar Road\n(off Electron Rd)\nSpringfield Flats\n031 263 7700\nUMBILO CAMPUS\n351 Umbilo Road\nUmbilo\n031 274 0300\nSKILLS DEVELOPMENT\nCENTRE\n262 D’Aintree Avenue\nAsherville\n031 023 0189\nSTUDENT SUPPORT\nSERVICES/NSFAS\nBURSARIES\n262 D’Aintree Avenue\nAsherville\n031 -250 4502\nFOR FURTHER ENQUIRIES\nCONTACT\nCENTRAL OFFICE\nTel: 031-250 8400\nPhysical Address\n262 D’Aintree Avenue, Asherville,\nDurban\nPostal Address\nPrivate Bag X06, Dormerton,\nDurban\nEmail: info@thekwini.edu.za\nWebsite: www.thekwini.edu.za\nTHEKWINI\n(TVET) COLLEGE\n@thekwinitvetcollege",
+      "institutionId": "357",
+      "source_file": "lib/seed/prospectuses/thekwini-tvet-college.pdf",
+      "start_char": 1534,
+      "end_char": 2833
+    },
+    {
+      "type": "programme",
+      "text": "The National Certificate Vocational “NCV” is a programme at each of the National Qualification\nFramework (NQF) levels of study. It will take three years to complete the full (NQF L2/3/4)\nqualification. Designed as high quality, high knowledge programmes to provide the out of school\nyouth and post grade 9 learners with the option to jumpstart their careers by beginning at (Grade",
+      "institutionId": "357",
+      "source_file": "lib/seed/prospectuses/thekwini-tvet-college.pdf",
+      "start_char": 2872,
+      "end_char": 3252
+    },
+    {
+      "type": "programme",
+      "text": "10) Level 2. The NCV qualifications will involve practical and workshop type training. Students who",
+      "institutionId": "357",
+      "source_file": "lib/seed/prospectuses/thekwini-tvet-college.pdf",
+      "start_char": 3253,
+      "end_char": 3352
+    },
+    {
+      "type": "programme",
+      "text": "have completed an NCV qualification will be eligible for employment in their chosen fields of study\nor articulation to Higher Education institutions.",
+      "institutionId": "357",
+      "source_file": "lib/seed/prospectuses/thekwini-tvet-college.pdf",
+      "start_char": 3353,
+      "end_char": 3502
+    },
+    {
+      "type": "admission",
+      "text": "MINIMUM ENTRY REQUIREMENTS:\n16 years or older and a pass in Grade 9 or higher or an NQF level 1 qualification.\nCOURSES OFFERED\nEngineering & Related Design: Automotive Repair And Maintenance\nThis deals with the fundamentals of vehicle technology and equips students with the necessary\nconfidence to perform tasks related to vehicle components-engines, gearboxes, fuel systems,\nbody components and electronics.\nElectrical Infrastructure Construction\nThis programme covers both heavy and light current fields. Learners are eligible to access careers\nin Electrical Engineering, domestic/Industrial/electrical maintenance, digital electronics,\ninstrumentation and self-supporting enterprises.\nEngineering & Related Design: Fitting & Turning\nFitting and turning deals with the various processes involved in making or producing components\nrequired in the manufacturing, engineering and technological environment.\nEngineering & Related Design: Fabrication\nEngineering Fabrication involves making or producing steel components required in the\nmanufacturing, engineering and technological environments.\nInformation Technology and Computer Science\nInformation technology and computer science programme covers the interpretation of software\napplications, networking, I.T principles and data processing.\nHospitality\nThis learning programme covers sectors of the tourism and hospitality industries. It provides\nlearners with marketable skills to enter the hospitality industry placing emphasis on the importance\nof client satisfaction for revenue generation.\nTourism\nCovers skills such as map reading, forex conversions and tour guidance. It also concepts such as\nsustainability, heritage and conservation and helps to form the foundation of successful tourism\npractice.\nTransport & Logistics\nLogistics is the planning, organisation, management, execution and control of freight transport\noperations. It integrates individual transport acts to door-to-door supply chains, determining the\nefficiency of freight transport.\nOffice Administration\nThis programme involves planning, organizing and the execution of office duties and\nadministration the business environment.\nEducational and Development\nThis qualification is designed to provide both the theory and practice of Education and\nDevelopment. It will provide students with the practical component of study which may be offered\nin a real work space environment.\nPRE-VOCATIONAL LEARNING PROGRAMME",
+      "institutionId": "357",
+      "source_file": "lib/seed/prospectuses/thekwini-tvet-college.pdf",
+      "start_char": 3503,
+      "end_char": 5938
+    },
+    {
+      "type": "aps",
+      "text": "This programme is designed to assist candidates/learners who do not meeti the minimum APS\nrequired for entry into the NC(V) Programmes. Candidates are referred to study PLP in order to\nimprove their subject achievement levels. ( This is a one year programme- Subjects are\nEnglish,Mathematics, Science, Life Skills- including Technology)\nREPORT 191 (‘N’ COURSES) AND OTHER PROGRAMMES",
+      "institutionId": "357",
+      "source_file": "lib/seed/prospectuses/thekwini-tvet-college.pdf",
+      "start_char": 5939,
+      "end_char": 6321
+    },
+    {
+      "type": "faculty",
+      "text": "The NATED / Report 191 programmes are delivered under the auspices of the Department of\nHigher Education and Training and quality assured by Umalusi. The programmes consist of 18\nmonths theoretical studies at a TVET College and 18 months relevant practical application in work\nplaces. Engineering studies range from N1-N6 while Business and Utility Studies range from\nN4-N6.\n*Engineering Study Courses are trimester programmes (3 months per level)\n*Business Study Courses are semester programmes (6 months per level)\nDURATION: 1 Year for N1 – N3 Engineering Studies / 1 Year for\nN4 – N6 Engineering Studies\n3 Years (18 months theoretical studies + 18 months’ workplace application) for\nN4 – N6 Business and Utility Studies",
+      "institutionId": "357",
+      "source_file": "lib/seed/prospectuses/thekwini-tvet-college.pdf",
+      "start_char": 6322,
+      "end_char": 7044
+    },
+    {
+      "type": "admission",
+      "text": "ADMISSION REQUIREMENTS:\nEngineering Studies- Grade 12 pass (N2/N3 admission- dependent on Mathematics and Science\nmarks)\nBusiness Studies-Grade 12 pass for N4 admission.\nBursaries: are available for financially and academically qualifying students.",
+      "institutionId": "357",
+      "source_file": "lib/seed/prospectuses/thekwini-tvet-college.pdf",
+      "start_char": 7071,
+      "end_char": 7319
+    },
+    {
+      "type": "admission",
+      "text": "Terms and Conditions apply to all Admission Requirements, Bursaries and other enrolment and\nregistration procedures.\nFULL AND PART-TIME PROGRAMMES",
+      "institutionId": "357",
+      "source_file": "lib/seed/prospectuses/thekwini-tvet-college.pdf",
+      "start_char": 7320,
+      "end_char": 7466
+    },
+    {
+      "type": "programme",
+      "text": "NATED: GENERAL STUDIES:\nN4-N6\nPROGRAMMES\nHospitality\nElectrical (Heavy & Light Current) Tourism\nCivil Engineering\nMechanical (Automotive,\nFitting,Diesel,Boilermaking)\nSKILLS PROGRAMMES\nWireman’s license-Exam Entries only Wholsale and Retail\nSkills courses\nare offered\nwhen funding\nis available.\nContact the\nSkills Unit on\n031 023 0189\nGovernment Certificate of Competency\n(Government Ticket)- Subject Entries Only.\nBricklaying\nElectrical",
+      "institutionId": "357",
+      "source_file": "lib/seed/prospectuses/thekwini-tvet-college.pdf",
+      "start_char": 7501,
+      "end_char": 7938
+    },
+    {
+      "type": "programme",
+      "text": "NATED: BUSINESS STUDIES: N4-N6 Plumbing\nBusiness Management Boiler-making\nMarketing Management Welding\nFinancial Management Motor Mechanics\nHuman Resources Management (Part-Time Only) Assistant Chefs\nPublic Management Basic End User Computing\nPublic Relations\nEducare",
+      "institutionId": "357",
+      "source_file": "lib/seed/prospectuses/thekwini-tvet-college.pdf",
+      "start_char": 7939,
+      "end_char": 8206
+    }
+  ],
+  "matched_files": [
+    "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/thekwini-tvet-college.pdf"
+  ],
+  "skipped_chunks": [
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/thekwini-tvet-college.pdf",
+      "chunk_index": 7,
+      "chars": 37
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/thekwini-tvet-college.pdf",
+      "chunk_index": 14,
+      "chars": 25
+    },
+    {
+      "reason": "chunk_too_small",
+      "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/thekwini-tvet-college.pdf",
+      "chunk_index": 17,
+      "chars": 33
+    }
+  ]
+}

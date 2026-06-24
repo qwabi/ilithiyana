@@ -1,0 +1,8 @@
+SOURCE: https://fundiconnect.co.za/institutions/tshwane-south-tvet-college/
+INSTITUTION: Tshwane South TVET College
+SLUG: tshwane-south-tvet-college
+SCRAPED: 2026-05-27
+NOTE: Web-scraped programme and admission info. No official PDF exists.
+======================================================================
+
+Tshwane South TVET College - Fees & Admissions 2026

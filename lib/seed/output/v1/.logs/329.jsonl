@@ -1,0 +1,5 @@
+{"ts": 1779893384.147701, "institutionId": "329", "event": "preprocess_done", "matched_files": ["/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/durban-university-of-technology.pdf"], "chunks_created": 7, "skipped_chunk_reasons": [{"reason": "chunk_too_small", "path": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/durban-university-of-technology.pdf", "chunk_index": 4, "chars": 14}]}
+{"ts": 1779893384.149187, "institutionId": "329", "event": "extract_done", "extracted_programmes_count": 0, "llm_calls": 0, "faculties_found": 0, "chunks_processed": 7}
+{"ts": 1779893384.1496, "institutionId": "329", "event": "normalize_done", "faculties": 0, "programmes": 0}
+{"ts": 1779893384.149981, "institutionId": "329", "event": "dedupe_done", "programmes_before": 0, "programmes_after": 0}
+{"ts": 1779893384.150367, "institutionId": "329", "event": "institution_pipeline_complete", "etlStatus": "no_programmes_extracted", "total_llm_calls_institution": 0}

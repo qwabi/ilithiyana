@@ -1,0 +1,15 @@
+{
+  "faculties": [
+    {
+      "id": "fac:359:044d9fd8bf57",
+      "institutionId": "359",
+      "name": "Science Part 8",
+      "sourceFile": "lib/seed/prospectuses/tshwane-university-of-technology.pdf",
+      "sourceUrl": "https://www.tut.ac.za/"
+    }
+  ],
+  "programmes": [],
+  "admissions_rules": [],
+  "aps_rules": [],
+  "llm_calls": 0
+}

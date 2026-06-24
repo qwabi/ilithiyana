@@ -1,0 +1,24 @@
+{
+  "chunks": [
+    {
+      "type": "other",
+      "text": "WorldSkills International\nCompetition Lyon, France 2024\nWho can Apply?\nA student in an apprenticeship or learnership programme;\nA student undertaking studies towards a qualification at a TVET College\nor a Technical High School;",
+      "institutionId": "199",
+      "source_file": "lib/seed/prospectuses/agricultural-sector-education-and-training-authority-agriseta.pdf",
+      "start_char": 0,
+      "end_char": 227
+    },
+    {
+      "type": "programme",
+      "text": "A student undertaking studies towards a Diploma at a University of Technology for one of the\nfollowing Skills: Mobile Robotics, CNC Turning, Health and Social Care, Mechatronics, and\nFashion Technology.\n24 Skill Areas24 Skill Areas\nApply Here:Apply Here:\nApplications Close:\n20 March 2023\nwww.worldskillsza.dhet.gov.za/Applications\nAircraft Maintenance Automobile Technology Autobody Repair\nBakery Beauty Therapy Bricklaying\nCar Painting CNC Turning Cooking\nElectrical Installations Fashion Technology Graphic Design Technology\nHairdressing Health and Social Care IT Network Systems Administrator\nIT Software Solutions for Business Mechanical CAD Mechatronics\nMobile Robotics Plumbing and Heating Refrigeration and Air-Conditioning\nRestaurant Services Water Technology Welding\nAPPLY NOW !",
+      "institutionId": "199",
+      "source_file": "lib/seed/prospectuses/agricultural-sector-education-and-training-authority-agriseta.pdf",
+      "start_char": 228,
+      "end_char": 1016
+    }
+  ],
+  "matched_files": [
+    "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/agricultural-sector-education-and-training-authority-agriseta.pdf"
+  ],
+  "skipped_chunks": []
+}

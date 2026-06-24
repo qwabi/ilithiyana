@@ -1,0 +1,3076 @@
+{
+  "faculties": [
+    {
+      "id": "fac:36b49827888f",
+      "institution_id": "307",
+      "institutionId": "307",
+      "name": "BUSINESS",
+      "kind": "faculty",
+      "institution_name": "Eastcape Midlands TVET College",
+      "source_file": "prospectuses/eastcape-midlands-tvet-college.pdf",
+      "sourceFile": "prospectuses/eastcape-midlands-tvet-college.pdf",
+      "source_excerpt": "SCHOOL OF BUSINESS",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "BUSINESS"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:9fc2e3cf02ba",
+      "institution_id": "324",
+      "institutionId": "324",
+      "name": "Faculty of Applied Sciences",
+      "kind": "faculty",
+      "institution_name": "Cape Peninsula University of Technology",
+      "source_file": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "source_excerpt": "FACULTY OF APPLIED SCIENCES",
+      "extraction_confidence": 0.95,
+      "merged_from": [
+        "Faculty of Applied Sciences"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:6f4db77e782a",
+      "institution_id": "324",
+      "institutionId": "324",
+      "name": "Faculty of Business & Management Sciences",
+      "kind": "faculty",
+      "institution_name": "Cape Peninsula University of Technology",
+      "source_file": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "source_excerpt": "FACULTY OF BUSINESS & MANAGEMENT SCIENCES",
+      "extraction_confidence": 0.95,
+      "merged_from": [
+        "Faculty of Business & Management Sciences"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:6105be40d817",
+      "institution_id": "324",
+      "institutionId": "324",
+      "name": "Faculty of Education",
+      "kind": "faculty",
+      "institution_name": "Cape Peninsula University of Technology",
+      "source_file": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "source_excerpt": "FACULTY OF EDUCATION",
+      "extraction_confidence": 0.95,
+      "merged_from": [
+        "Faculty of Education"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:c72c8523a923",
+      "institution_id": "324",
+      "institutionId": "324",
+      "name": "Faculty of Engineering & the Built Environment",
+      "kind": "faculty",
+      "institution_name": "Cape Peninsula University of Technology",
+      "source_file": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "source_excerpt": "FACULTY OF ENGINEERING & THE BUILT ENVIRONMENT",
+      "extraction_confidence": 0.95,
+      "merged_from": [
+        "Faculty of Engineering & the Built Environment"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:801a62d3d0f8",
+      "institution_id": "324",
+      "institutionId": "324",
+      "name": "Faculty of Health & Wellness Sciences",
+      "kind": "faculty",
+      "institution_name": "Cape Peninsula University of Technology",
+      "source_file": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "source_excerpt": "FACULTY OF HEALTH & WELLNESS SCIENCES",
+      "extraction_confidence": 0.95,
+      "merged_from": [
+        "Faculty of Health & Wellness Sciences"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:018410f44634",
+      "institution_id": "324",
+      "institutionId": "324",
+      "name": "Faculty of Informatics & Design",
+      "kind": "faculty",
+      "institution_name": "Cape Peninsula University of Technology",
+      "source_file": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "sourceFile": "lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf",
+      "source_excerpt": "FACULTY OF INFORMATICS & DESIGN",
+      "extraction_confidence": 0.95,
+      "merged_from": [
+        "Faculty of Informatics & Design"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:8678f6d16c6d",
+      "institution_id": "326",
+      "institutionId": "326",
+      "name": "Accounting and Auditing",
+      "kind": "department",
+      "institution_name": "Central University of Technology, Free State",
+      "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "source_excerpt": "Faculty of Management Sciences — Accounting and Auditing",
+      "extraction_confidence": 0.92,
+      "merged_from": [
+        "Accounting and Auditing"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:431a23a26a6c",
+      "institution_id": "326",
+      "institutionId": "326",
+      "name": "Agriculture",
+      "kind": "department",
+      "institution_name": "Central University of Technology, Free State",
+      "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "source_excerpt": "Faculty of Health and Environmental Sciences — Agriculture",
+      "extraction_confidence": 0.92,
+      "merged_from": [
+        "Agriculture"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:73d86d50f588",
+      "institution_id": "326",
+      "institutionId": "326",
+      "name": "Built Environment",
+      "kind": "department",
+      "institution_name": "Central University of Technology, Free State",
+      "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "source_excerpt": "Faculty of Engineering, Built Environment and Information Technology — Built Environment",
+      "extraction_confidence": 0.92,
+      "merged_from": [
+        "Built Environment"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:9a8e055131ea",
+      "institution_id": "326",
+      "institutionId": "326",
+      "name": "Business Management",
+      "kind": "department",
+      "institution_name": "Central University of Technology, Free State",
+      "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "source_excerpt": "Faculty of Management Sciences — Business Management",
+      "extraction_confidence": 0.92,
+      "merged_from": [
+        "Business Management"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:eaa0164b91af",
+      "institution_id": "326",
+      "institutionId": "326",
+      "name": "Business Support Studies",
+      "kind": "department",
+      "institution_name": "Central University of Technology, Free State",
+      "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "source_excerpt": "Faculty of Management Sciences — Business Support Studies",
+      "extraction_confidence": 0.92,
+      "merged_from": [
+        "Business Support Studies"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:bedbcfe79cd3",
+      "institution_id": "326",
+      "institutionId": "326",
+      "name": "Centre for Applied Food Sustainability and -Biotechnology (CAFSaB)",
+      "kind": "department",
+      "institution_name": "Central University of Technology, Free State",
+      "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "source_excerpt": "Faculty of Health and Environmental Sciences — Centre for Applied Food Sustainability and -Biotechnology (CAFSaB)",
+      "extraction_confidence": 0.92,
+      "merged_from": [
+        "Centre for Applied Food Sustainability and -Biotechnology (CAFSaB)"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:2f9bdf2fbc0e",
+      "institution_id": "326",
+      "institutionId": "326",
+      "name": "Centre for Enterprise and Entrepreneurship Studies",
+      "kind": "department",
+      "institution_name": "Central University of Technology, Free State",
+      "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "source_excerpt": "Faculty of Management Sciences — Centre for Enterprise and Entrepreneurship Studies",
+      "extraction_confidence": 0.92,
+      "merged_from": [
+        "Centre for Enterprise and Entrepreneurship Studies"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:1b91242d766b",
+      "institution_id": "326",
+      "institutionId": "326",
+      "name": "Centre for Innovation in Learning and Teaching (CILT)",
+      "kind": "department",
+      "institution_name": "Central University of Technology, Free State",
+      "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "source_excerpt": "Faculty of Teaching and Learning — Centre for Innovation in Learning and Teaching (CILT)",
+      "extraction_confidence": 0.92,
+      "merged_from": [
+        "Centre for Innovation in Learning and Teaching (CILT)"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:37e23a13aa35",
+      "institution_id": "326",
+      "institutionId": "326",
+      "name": "Centre for Quality of Health and Living (CQHL)",
+      "kind": "department",
+      "institution_name": "Central University of Technology, Free State",
+      "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "source_excerpt": "Faculty of Health and Environmental Sciences — Centre for Quality of Health and Living (CQHL)",
+      "extraction_confidence": 0.92,
+      "merged_from": [
+        "Centre for Quality of Health and Living (CQHL)"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:c9183e40d69c",
+      "institution_id": "326",
+      "institutionId": "326",
+      "name": "Civil Engineering",
+      "kind": "department",
+      "institution_name": "Central University of Technology, Free State",
+      "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "source_excerpt": "Faculty of Engineering, Built Environment and Information Technology — Civil Engineering",
+      "extraction_confidence": 0.92,
+      "merged_from": [
+        "Civil Engineering"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:fb9602863676",
+      "institution_id": "326",
+      "institutionId": "326",
+      "name": "Clinical Sciences",
+      "kind": "department",
+      "institution_name": "Central University of Technology, Free State",
+      "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "source_excerpt": "Faculty of Health and Environmental Sciences — Clinical Sciences",
+      "extraction_confidence": 0.92,
+      "merged_from": [
+        "Clinical Sciences"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:215dc70b3c52",
+      "institution_id": "326",
+      "institutionId": "326",
+      "name": "Communication Sciences",
+      "kind": "department",
+      "institution_name": "Central University of Technology, Free State",
+      "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "source_excerpt": "Faculty of Humanities — Communication Sciences",
+      "extraction_confidence": 0.92,
+      "merged_from": [
+        "Communication Sciences"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:aa3d0b4d1055",
+      "institution_id": "326",
+      "institutionId": "326",
+      "name": "Design and Studio Art",
+      "kind": "department",
+      "institution_name": "Central University of Technology, Free State",
+      "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "source_excerpt": "Faculty of Humanities — Design and Studio Art",
+      "extraction_confidence": 0.92,
+      "merged_from": [
+        "Design and Studio Art"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:4665ab8a27dc",
+      "institution_id": "326",
+      "institutionId": "326",
+      "name": "Disability Unit",
+      "kind": "department",
+      "institution_name": "Central University of Technology, Free State",
+      "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "source_excerpt": "Faculty of Teaching and Learning — Disability Unit",
+      "extraction_confidence": 0.92,
+      "merged_from": [
+        "Disability Unit"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:9fec9e634479",
+      "institution_id": "326",
+      "institutionId": "326",
+      "name": "Educational and Professional Studies",
+      "kind": "department",
+      "institution_name": "Central University of Technology, Free State",
+      "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "source_excerpt": "Faculty of Humanities — Educational and Professional Studies",
+      "extraction_confidence": 0.92,
+      "merged_from": [
+        "Educational and Professional Studies"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:55fee362dcf7",
+      "institution_id": "326",
+      "institutionId": "326",
+      "name": "Electrical, Electronic and Computer Engineering",
+      "kind": "department",
+      "institution_name": "Central University of Technology, Free State",
+      "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "source_excerpt": "Faculty of Engineering, Built Environment and Information Technology — Electrical, Electronic and Computer Engineering",
+      "extraction_confidence": 0.92,
+      "merged_from": [
+        "Electrical, Electronic and Computer Engineering"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:9cefc3c5ab23",
+      "institution_id": "326",
+      "institutionId": "326",
+      "name": "Entrepreneurship Development Unit",
+      "kind": "department",
+      "institution_name": "Central University of Technology, Free State",
+      "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "source_excerpt": "Faculty of Management Sciences — Entrepreneurship Development Unit",
+      "extraction_confidence": 0.92,
+      "merged_from": [
+        "Entrepreneurship Development Unit"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:18ab78dedb2c",
+      "institution_id": "326",
+      "institutionId": "326",
+      "name": "Faculty of Engineering, Built Environment and Information Technology",
+      "kind": "faculty",
+      "institution_name": "Central University of Technology, Free State",
+      "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "source_excerpt": "Faculty of Engineering, Built Environment and Information Technology",
+      "extraction_confidence": 0.92,
+      "merged_from": [
+        "Faculty of Engineering, Built Environment and Information Technology"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:03480c876971",
+      "institution_id": "326",
+      "institutionId": "326",
+      "name": "Faculty of Health and Environmental Sciences",
+      "kind": "faculty",
+      "institution_name": "Central University of Technology, Free State",
+      "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "source_excerpt": "Faculty of Health and Environmental Sciences",
+      "extraction_confidence": 0.92,
+      "merged_from": [
+        "Faculty of Health and Environmental Sciences"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:de3e600ecc72",
+      "institution_id": "326",
+      "institutionId": "326",
+      "name": "Faculty of Humanities",
+      "kind": "faculty",
+      "institution_name": "Central University of Technology, Free State",
+      "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "source_excerpt": "Faculty of Humanities",
+      "extraction_confidence": 0.92,
+      "merged_from": [
+        "Faculty of Humanities"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:1f1ba6a7548f",
+      "institution_id": "326",
+      "institutionId": "326",
+      "name": "Faculty of Management Sciences",
+      "kind": "faculty",
+      "institution_name": "Central University of Technology, Free State",
+      "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "source_excerpt": "Faculty of Management Sciences",
+      "extraction_confidence": 0.92,
+      "merged_from": [
+        "Faculty of Management Sciences"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:a2f537e3247a",
+      "institution_id": "326",
+      "institutionId": "326",
+      "name": "Faculty of Teaching and Learning",
+      "kind": "faculty",
+      "institution_name": "Central University of Technology, Free State",
+      "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "source_excerpt": "Faculty of Teaching and Learning",
+      "extraction_confidence": 0.92,
+      "merged_from": [
+        "Faculty of Teaching and Learning"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:b13bc8c73f40",
+      "institution_id": "326",
+      "institutionId": "326",
+      "name": "Government Management",
+      "kind": "department",
+      "institution_name": "Central University of Technology, Free State",
+      "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "source_excerpt": "Faculty of Management Sciences — Government Management",
+      "extraction_confidence": 0.92,
+      "merged_from": [
+        "Government Management"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:c313bcf9e1fc",
+      "institution_id": "326",
+      "institutionId": "326",
+      "name": "Graduate School",
+      "kind": "school",
+      "institution_name": "Central University of Technology, Free State",
+      "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "source_excerpt": "Postgraduate Students — Graduate School",
+      "extraction_confidence": 0.75,
+      "merged_from": [
+        "Graduate School"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:943ec10878f5",
+      "institution_id": "326",
+      "institutionId": "326",
+      "name": "Health Sciences",
+      "kind": "department",
+      "institution_name": "Central University of Technology, Free State",
+      "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "source_excerpt": "Faculty of Health and Environmental Sciences — Health Sciences",
+      "extraction_confidence": 0.92,
+      "merged_from": [
+        "Health Sciences"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:63905d4b32f4",
+      "institution_id": "326",
+      "institutionId": "326",
+      "name": "Hospitality Management",
+      "kind": "department",
+      "institution_name": "Central University of Technology, Free State",
+      "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "source_excerpt": "Faculty of Management Sciences — Hospitality Management",
+      "extraction_confidence": 0.92,
+      "merged_from": [
+        "Hospitality Management"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:64d7debf7750",
+      "institution_id": "326",
+      "institutionId": "326",
+      "name": "Information Technology",
+      "kind": "department",
+      "institution_name": "Central University of Technology, Free State",
+      "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "source_excerpt": "Faculty of Engineering, Built Environment and Information Technology — Information Technology",
+      "extraction_confidence": 0.92,
+      "merged_from": [
+        "Information Technology"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:14bb7b2ebe7d",
+      "institution_id": "326",
+      "institutionId": "326",
+      "name": "Language and Social Sciences Education",
+      "kind": "department",
+      "institution_name": "Central University of Technology, Free State",
+      "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "source_excerpt": "Faculty of Humanities — Language and Social Sciences Education",
+      "extraction_confidence": 0.92,
+      "merged_from": [
+        "Language and Social Sciences Education"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:e1b630900e74",
+      "institution_id": "326",
+      "institutionId": "326",
+      "name": "Life Sciences",
+      "kind": "department",
+      "institution_name": "Central University of Technology, Free State",
+      "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "source_excerpt": "Faculty of Health and Environmental Sciences — Life Sciences",
+      "extraction_confidence": 0.92,
+      "merged_from": [
+        "Life Sciences"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:319c9ec20ebe",
+      "institution_id": "326",
+      "institutionId": "326",
+      "name": "Mathematical and Physical Sciences",
+      "kind": "department",
+      "institution_name": "Central University of Technology, Free State",
+      "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "source_excerpt": "Faculty of Engineering, Built Environment and Information Technology — Mathematical and Physical Sciences",
+      "extraction_confidence": 0.92,
+      "merged_from": [
+        "Mathematical and Physical Sciences"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:e2d91cbdef34",
+      "institution_id": "326",
+      "institutionId": "326",
+      "name": "Mathematics, Science and Technology Education",
+      "kind": "department",
+      "institution_name": "Central University of Technology, Free State",
+      "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "source_excerpt": "Faculty of Humanities — Mathematics, Science and Technology Education",
+      "extraction_confidence": 0.92,
+      "merged_from": [
+        "Mathematics, Science and Technology Education"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:a394677fb88f",
+      "institution_id": "326",
+      "institutionId": "326",
+      "name": "Mechanical and Mechatronic Engineering",
+      "kind": "department",
+      "institution_name": "Central University of Technology, Free State",
+      "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "source_excerpt": "Faculty of Engineering, Built Environment and Information Technology — Mechanical and Mechatronic Engineering",
+      "extraction_confidence": 0.92,
+      "merged_from": [
+        "Mechanical and Mechatronic Engineering"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:4ae14d12adfa",
+      "institution_id": "326",
+      "institutionId": "326",
+      "name": "Post Graduate Studies in Education",
+      "kind": "department",
+      "institution_name": "Central University of Technology, Free State",
+      "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "source_excerpt": "Faculty of Humanities — Post Graduate Studies in Education",
+      "extraction_confidence": 0.92,
+      "merged_from": [
+        "Post Graduate Studies in Education"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:15923b2deb76",
+      "institution_id": "326",
+      "institutionId": "326",
+      "name": "Tourism and Event Management",
+      "kind": "department",
+      "institution_name": "Central University of Technology, Free State",
+      "source_file": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "sourceFile": "/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/central-university-of-technology-prospectus.htm",
+      "source_excerpt": "Faculty of Management Sciences — Tourism and Event Management",
+      "extraction_confidence": 0.92,
+      "merged_from": [
+        "Tourism and Event Management"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:b787111fdebd",
+      "institution_id": "331",
+      "institutionId": "331",
+      "name": "ENGINEERING",
+      "kind": "faculty",
+      "institution_name": "Ekurhuleni East TVET College",
+      "source_file": "prospectuses/ekurhuleni-east-tvet-college.pdf",
+      "sourceFile": "prospectuses/ekurhuleni-east-tvet-college.pdf",
+      "source_excerpt": "SCHOOL OF ENGINEERING",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "ENGINEERING"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:d727b4b30b6c",
+      "institution_id": "342",
+      "institutionId": "342",
+      "name": "ENGINEERING",
+      "kind": "faculty",
+      "institution_name": "Mangosuthu University of Technology",
+      "source_file": "prospectuses/mangosuthu-university-of-technology.pdf",
+      "sourceFile": "prospectuses/mangosuthu-university-of-technology.pdf",
+      "source_excerpt": "FACULTY OF ENGINEERING",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "ENGINEERING"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:ebea5fa6c68c",
+      "institution_id": "342",
+      "institutionId": "342",
+      "name": "MANAGEMENT SCIENCES",
+      "kind": "faculty",
+      "institution_name": "Mangosuthu University of Technology",
+      "source_file": "prospectuses/mangosuthu-university-of-technology.pdf",
+      "sourceFile": "prospectuses/mangosuthu-university-of-technology.pdf",
+      "source_excerpt": "FACULTY OF MANAGEMENT SCIENCES",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "MANAGEMENT SCIENCES"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:9ba23c1da93b",
+      "institution_id": "347",
+      "institutionId": "347",
+      "name": "Accounting",
+      "kind": "faculty",
+      "institution_name": "Nelson Mandela Metropolitan University",
+      "source_file": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "source_excerpt": "School of Accounting",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Accounting"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:fc1121c01f0a",
+      "institution_id": "347",
+      "institutionId": "347",
+      "name": "Architecture",
+      "kind": "faculty",
+      "institution_name": "Nelson Mandela Metropolitan University",
+      "source_file": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "source_excerpt": "School of Architecture",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Architecture"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:db26fa6c5d04",
+      "institution_id": "347",
+      "institutionId": "347",
+      "name": "Behavioural and Lifestyle Sciences",
+      "kind": "faculty",
+      "institution_name": "Nelson Mandela Metropolitan University",
+      "source_file": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "source_excerpt": "School of Behavioural and Lifestyle Sciences",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Behavioural and Lifestyle Sciences"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:e88be778bc3b",
+      "institution_id": "347",
+      "institutionId": "347",
+      "name": "Business & Economic Sciences",
+      "kind": "faculty",
+      "institution_name": "Nelson Mandela Metropolitan University",
+      "source_file": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "source_excerpt": "Faculty of Business & Economic Sciences",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Business & Economic Sciences"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:55e22eac4459",
+      "institution_id": "347",
+      "institutionId": "347",
+      "name": "Clinical Care and Medicinal Sciences",
+      "kind": "faculty",
+      "institution_name": "Nelson Mandela Metropolitan University",
+      "source_file": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "source_excerpt": "School of Clinical Care and Medicinal Sciences",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Clinical Care and Medicinal Sciences"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:0124df25c88f",
+      "institution_id": "347",
+      "institutionId": "347",
+      "name": "EDUCATION",
+      "kind": "faculty",
+      "institution_name": "Nelson Mandela Metropolitan University",
+      "source_file": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "source_excerpt": "FACULTY OF EDUCATION",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "EDUCATION"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:a082af0b0505",
+      "institution_id": "347",
+      "institutionId": "347",
+      "name": "ENGINEERING",
+      "kind": "faculty",
+      "institution_name": "Nelson Mandela Metropolitan University",
+      "source_file": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "source_excerpt": "FACULTY OF ENGINEERING,",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "ENGINEERING"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:ce52f589b023",
+      "institution_id": "347",
+      "institutionId": "347",
+      "name": "Engineering, the Built Environment",
+      "kind": "faculty",
+      "institution_name": "Nelson Mandela Metropolitan University",
+      "source_file": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "source_excerpt": "Faculty of Engineering, the Built Environment",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Engineering, the Built Environment"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:1a1d246d0613",
+      "institution_id": "347",
+      "institutionId": "347",
+      "name": "Engineering, the Built Environment & Technology",
+      "kind": "faculty",
+      "institution_name": "Nelson Mandela Metropolitan University",
+      "source_file": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "source_excerpt": "Faculty of Engineering, the Built Environment & Technology",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Engineering, the Built Environment & Technology"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:b26aa5a247c1",
+      "institution_id": "347",
+      "institutionId": "347",
+      "name": "Governmental and Social Sciences",
+      "kind": "faculty",
+      "institution_name": "Nelson Mandela Metropolitan University",
+      "source_file": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "source_excerpt": "School of Governmental and Social Sciences",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Governmental and Social Sciences"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:11b5cfdde5a1",
+      "institution_id": "347",
+      "institutionId": "347",
+      "name": "HEALTH SCIENCES",
+      "kind": "faculty",
+      "institution_name": "Nelson Mandela Metropolitan University",
+      "source_file": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "source_excerpt": "FACULTY OF HEALTH SCIENCES",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "HEALTH SCIENCES"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:20ba9bd3a321",
+      "institution_id": "347",
+      "institutionId": "347",
+      "name": "HUMANITIES",
+      "kind": "faculty",
+      "institution_name": "Nelson Mandela Metropolitan University",
+      "source_file": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "source_excerpt": "FACULTY OF HUMANITIES",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "HUMANITIES"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:5df33564918e",
+      "institution_id": "347",
+      "institutionId": "347",
+      "name": "Industrial Psychology and Human Resources",
+      "kind": "faculty",
+      "institution_name": "Nelson Mandela Metropolitan University",
+      "source_file": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "source_excerpt": "School of Industrial Psychology and Human Resources",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Industrial Psychology and Human Resources"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:450e0b752cf8",
+      "institution_id": "347",
+      "institutionId": "347",
+      "name": "Information Technology",
+      "kind": "faculty",
+      "institution_name": "Nelson Mandela Metropolitan University",
+      "source_file": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "source_excerpt": "School of Information Technology",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Information Technology"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:35a349f54ac4",
+      "institution_id": "347",
+      "institutionId": "347",
+      "name": "Language, Media and Communication",
+      "kind": "faculty",
+      "institution_name": "Nelson Mandela Metropolitan University",
+      "source_file": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "source_excerpt": "School of Language, Media and Communication",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Language, Media and Communication"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:903df2eadfc7",
+      "institution_id": "347",
+      "institutionId": "347",
+      "name": "Management Sciences",
+      "kind": "faculty",
+      "institution_name": "Nelson Mandela Metropolitan University",
+      "source_file": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "source_excerpt": "School of Management Sciences",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Management Sciences"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:22b3bb5e1cf5",
+      "institution_id": "347",
+      "institutionId": "347",
+      "name": "Medicine",
+      "kind": "faculty",
+      "institution_name": "Nelson Mandela Metropolitan University",
+      "source_file": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "source_excerpt": "School of Medicine",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Medicine"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:72caee60ce8f",
+      "institution_id": "347",
+      "institutionId": "347",
+      "name": "SCIENCE",
+      "kind": "faculty",
+      "institution_name": "Nelson Mandela Metropolitan University",
+      "source_file": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "source_excerpt": "FACULTY OF SCIENCE",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "SCIENCE"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:a85d06a2aa08",
+      "institution_id": "347",
+      "institutionId": "347",
+      "name": "the Built Environment and Civil Engineering",
+      "kind": "faculty",
+      "institution_name": "Nelson Mandela Metropolitan University",
+      "source_file": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "source_excerpt": "School of the Built Environment and Civil Engineering",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "the Built Environment and Civil Engineering"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:e259ed86e880",
+      "institution_id": "347",
+      "institutionId": "347",
+      "name": "Visual and Performing Arts",
+      "kind": "faculty",
+      "institution_name": "Nelson Mandela Metropolitan University",
+      "source_file": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "sourceFile": "prospectuses/nelson-mandela-metropolitan-university.pdf",
+      "source_excerpt": "School of Visual and Performing Arts",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Visual and Performing Arts"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:4ab9d69980b9",
+      "institution_id": "349",
+      "institutionId": "349",
+      "name": "ACCOUNTING SCIENCES",
+      "kind": "faculty",
+      "institution_name": "North-West University",
+      "source_file": "prospectuses/north-west-university.pdf",
+      "sourceFile": "prospectuses/north-west-university.pdf",
+      "source_excerpt": "SCHOOL OF ACCOUNTING SCIENCES",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "ACCOUNTING SCIENCES"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:2e55c1d1f6d3",
+      "institution_id": "349",
+      "institutionId": "349",
+      "name": "COMMUNICATION",
+      "kind": "faculty",
+      "institution_name": "North-West University",
+      "source_file": "prospectuses/north-west-university.pdf",
+      "sourceFile": "prospectuses/north-west-university.pdf",
+      "source_excerpt": "SCHOOL OF COMMUNICATION",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "COMMUNICATION"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:caf0df3ace16",
+      "institution_id": "349",
+      "institutionId": "349",
+      "name": "ECONOMIC SCIENCES",
+      "kind": "faculty",
+      "institution_name": "North-West University",
+      "source_file": "prospectuses/north-west-university.pdf",
+      "sourceFile": "prospectuses/north-west-university.pdf",
+      "source_excerpt": "SCHOOL OF ECONOMIC SCIENCES",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "ECONOMIC SCIENCES"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:5671113d0a21",
+      "institution_id": "349",
+      "institutionId": "349",
+      "name": "EDUCATION",
+      "kind": "faculty",
+      "institution_name": "North-West University",
+      "source_file": "prospectuses/north-west-university.pdf",
+      "sourceFile": "prospectuses/north-west-university.pdf",
+      "source_excerpt": "FACULTY OF EDUCATION",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "EDUCATION"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:0c3cb53051a4",
+      "institution_id": "349",
+      "institutionId": "349",
+      "name": "ENGINEERING",
+      "kind": "faculty",
+      "institution_name": "North-West University",
+      "source_file": "prospectuses/north-west-university.pdf",
+      "sourceFile": "prospectuses/north-west-university.pdf",
+      "source_excerpt": "FACULTY OF ENGINEERING",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "ENGINEERING"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:8c16dd65e1e8",
+      "institution_id": "349",
+      "institutionId": "349",
+      "name": "GOVERNMENT STUDIES",
+      "kind": "faculty",
+      "institution_name": "North-West University",
+      "source_file": "prospectuses/north-west-university.pdf",
+      "sourceFile": "prospectuses/north-west-university.pdf",
+      "source_excerpt": "SCHOOL OF GOVERNMENT STUDIES",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "GOVERNMENT STUDIES"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:e93ef9fdc0e3",
+      "institution_id": "349",
+      "institutionId": "349",
+      "name": "HEALTH",
+      "kind": "faculty",
+      "institution_name": "North-West University",
+      "source_file": "prospectuses/north-west-university.pdf",
+      "sourceFile": "prospectuses/north-west-university.pdf",
+      "source_excerpt": "FACULTY OF HEALTH",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "HEALTH"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:513ac6190b2b",
+      "institution_id": "349",
+      "institutionId": "349",
+      "name": "HUMANITIES",
+      "kind": "faculty",
+      "institution_name": "North-West University",
+      "source_file": "prospectuses/north-west-university.pdf",
+      "sourceFile": "prospectuses/north-west-university.pdf",
+      "source_excerpt": "FACULTY OF HUMANITIES",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "HUMANITIES"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:ef0650bdb757",
+      "institution_id": "349",
+      "institutionId": "349",
+      "name": "LANGUAGES",
+      "kind": "faculty",
+      "institution_name": "North-West University",
+      "source_file": "prospectuses/north-west-university.pdf",
+      "sourceFile": "prospectuses/north-west-university.pdf",
+      "source_excerpt": "SCHOOL OF LANGUAGES",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "LANGUAGES"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:5628dfd339ca",
+      "institution_id": "349",
+      "institutionId": "349",
+      "name": "MANAGEMENT SCIENCES",
+      "kind": "faculty",
+      "institution_name": "North-West University",
+      "source_file": "prospectuses/north-west-university.pdf",
+      "sourceFile": "prospectuses/north-west-university.pdf",
+      "source_excerpt": "SCHOOL OF MANAGEMENT SCIENCES",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "MANAGEMENT SCIENCES"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:07129307b4dc",
+      "institution_id": "349",
+      "institutionId": "349",
+      "name": "MUSIC",
+      "kind": "faculty",
+      "institution_name": "North-West University",
+      "source_file": "prospectuses/north-west-university.pdf",
+      "sourceFile": "prospectuses/north-west-university.pdf",
+      "source_excerpt": "SCHOOL OF MUSIC",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "MUSIC"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:6e78adfa6439",
+      "institution_id": "349",
+      "institutionId": "349",
+      "name": "NURSING",
+      "kind": "faculty",
+      "institution_name": "North-West University",
+      "source_file": "prospectuses/north-west-university.pdf",
+      "sourceFile": "prospectuses/north-west-university.pdf",
+      "source_excerpt": "SCHOOL OF NURSING",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "NURSING"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:c72e59321677",
+      "institution_id": "349",
+      "institutionId": "349",
+      "name": "PHARMACY",
+      "kind": "faculty",
+      "institution_name": "North-West University",
+      "source_file": "prospectuses/north-west-university.pdf",
+      "sourceFile": "prospectuses/north-west-university.pdf",
+      "source_excerpt": "SCHOOL OF PHARMACY",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "PHARMACY"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:0f7c3ecb9ee5",
+      "institution_id": "349",
+      "institutionId": "349",
+      "name": "PHILOSOPHY",
+      "kind": "faculty",
+      "institution_name": "North-West University",
+      "source_file": "prospectuses/north-west-university.pdf",
+      "sourceFile": "prospectuses/north-west-university.pdf",
+      "source_excerpt": "SCHOOL OF PHILOSOPHY",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "PHILOSOPHY"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:d71be59ef867",
+      "institution_id": "349",
+      "institutionId": "349",
+      "name": "PSYCHOSOCIAL HEALTH",
+      "kind": "faculty",
+      "institution_name": "North-West University",
+      "source_file": "prospectuses/north-west-university.pdf",
+      "sourceFile": "prospectuses/north-west-university.pdf",
+      "source_excerpt": "SCHOOL OF PSYCHOSOCIAL HEALTH",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "PSYCHOSOCIAL HEALTH"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:2c228f85862b",
+      "institution_id": "349",
+      "institutionId": "349",
+      "name": "SOCIAL SCIENCES",
+      "kind": "faculty",
+      "institution_name": "North-West University",
+      "source_file": "prospectuses/north-west-university.pdf",
+      "sourceFile": "prospectuses/north-west-university.pdf",
+      "source_excerpt": "SCHOOL OF SOCIAL SCIENCES",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "SOCIAL SCIENCES"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:1c3f23022ff8",
+      "institution_id": "349",
+      "institutionId": "349",
+      "name": "THEOLOGY",
+      "kind": "faculty",
+      "institution_name": "North-West University",
+      "source_file": "prospectuses/north-west-university.pdf",
+      "sourceFile": "prospectuses/north-west-university.pdf",
+      "source_excerpt": "FACULTY OF THEOLOGY",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "THEOLOGY"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:385b9048dd2b",
+      "institution_id": "349",
+      "institutionId": "349",
+      "name": "TOURISM MANAGEMENT",
+      "kind": "faculty",
+      "institution_name": "North-West University",
+      "source_file": "prospectuses/north-west-university.pdf",
+      "sourceFile": "prospectuses/north-west-university.pdf",
+      "source_excerpt": "SCHOOL OF TOURISM MANAGEMENT",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "TOURISM MANAGEMENT"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:e31753ccadd4",
+      "institution_id": "354",
+      "institutionId": "354",
+      "name": "Business Studies",
+      "kind": "school",
+      "institution_name": "Sekhukhune TVET College",
+      "source_file": "prospectuses/sekhukhune-tvet-college-web.txt",
+      "sourceFile": "prospectuses/sekhukhune-tvet-college-web.txt",
+      "source_excerpt": "WE OFFER THE FOLLOWING BUSINESS STUDIES",
+      "extraction_confidence": 0.88,
+      "merged_from": [
+        "Business Studies"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:488a72c6ca13",
+      "institution_id": "354",
+      "institutionId": "354",
+      "name": "Cn Phatudi Campus",
+      "kind": "campus",
+      "institution_name": "Sekhukhune TVET College",
+      "source_file": "prospectuses/sekhukhune-tvet-college-web.txt",
+      "sourceFile": "prospectuses/sekhukhune-tvet-college-web.txt",
+      "source_excerpt": "CN PHATUDI CAMPUS (",
+      "extraction_confidence": 0.85,
+      "merged_from": [
+        "Cn Phatudi Campus"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:61ea8aad0945",
+      "institution_id": "354",
+      "institutionId": "354",
+      "name": "Cs Barlow Campus",
+      "kind": "campus",
+      "institution_name": "Sekhukhune TVET College",
+      "source_file": "prospectuses/sekhukhune-tvet-college-web.txt",
+      "sourceFile": "prospectuses/sekhukhune-tvet-college-web.txt",
+      "source_excerpt": "CS BARLOW CAMPUS (",
+      "extraction_confidence": 0.85,
+      "merged_from": [
+        "Cs Barlow Campus"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:1e3e65ce1021",
+      "institution_id": "354",
+      "institutionId": "354",
+      "name": "Engineering Studies",
+      "kind": "school",
+      "institution_name": "Sekhukhune TVET College",
+      "source_file": "prospectuses/sekhukhune-tvet-college-web.txt",
+      "sourceFile": "prospectuses/sekhukhune-tvet-college-web.txt",
+      "source_excerpt": "WE OFFER THE FOLLOWING ENGINEERING STUDIES",
+      "extraction_confidence": 0.88,
+      "merged_from": [
+        "Engineering Studies"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:31633a75226d",
+      "institution_id": "354",
+      "institutionId": "354",
+      "name": "NCV",
+      "kind": "college",
+      "institution_name": "Sekhukhune TVET College",
+      "source_file": "prospectuses/sekhukhune-tvet-college-web.txt",
+      "sourceFile": "prospectuses/sekhukhune-tvet-college-web.txt",
+      "source_excerpt": "WE OFFER THE FOLLOWING NCV",
+      "extraction_confidence": 0.88,
+      "merged_from": [
+        "NCV"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:3e2a5c8987bf",
+      "institution_id": "362",
+      "institutionId": "362",
+      "name": "COMMERCE",
+      "kind": "faculty",
+      "institution_name": "University of Cape Town",
+      "source_file": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "source_excerpt": "FACULTY OF COMMERCE",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "COMMERCE"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:638a773266bc",
+      "institution_id": "362",
+      "institutionId": "362",
+      "name": "Commerce for the year of application",
+      "kind": "faculty",
+      "institution_name": "University of Cape Town",
+      "source_file": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "source_excerpt": "Faculty of Commerce for the year of application",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Commerce for the year of application"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:7eceb87fb137",
+      "institution_id": "362",
+      "institutionId": "362",
+      "name": "HEALTH",
+      "kind": "faculty",
+      "institution_name": "University of Cape Town",
+      "source_file": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "source_excerpt": "FACULTY OF HEALTH",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "HEALTH"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:14828e60bfe9",
+      "institution_id": "362",
+      "institutionId": "362",
+      "name": "Health Sciences, from 0% to 20%)",
+      "kind": "faculty",
+      "institution_name": "University of Cape Town",
+      "source_file": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "source_excerpt": "Faculty of Health Sciences, from 0% to 20%).",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Health Sciences, from 0% to 20%)"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:c456c9c1b334",
+      "institution_id": "362",
+      "institutionId": "362",
+      "name": "Health Sciences, the National Benchmark Test",
+      "kind": "faculty",
+      "institution_name": "University of Cape Town",
+      "source_file": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "source_excerpt": "Faculty of Health Sciences, the National Benchmark Test",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Health Sciences, the National Benchmark Test"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:41522d807ea7",
+      "institution_id": "362",
+      "institutionId": "362",
+      "name": "HUMANITIES",
+      "kind": "faculty",
+      "institution_name": "University of Cape Town",
+      "source_file": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "source_excerpt": "FACULTY OF HUMANITIES",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "HUMANITIES"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:ce1b9cb78844",
+      "institution_id": "362",
+      "institutionId": "362",
+      "name": "Humanities attracts students and academics",
+      "kind": "faculty",
+      "institution_name": "University of Cape Town",
+      "source_file": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "source_excerpt": "Faculty of Humanities attracts students and academics",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Humanities attracts students and academics"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:faa31ff1fce6",
+      "institution_id": "362",
+      "institutionId": "362",
+      "name": "SCIENCE",
+      "kind": "faculty",
+      "institution_name": "University of Cape Town",
+      "source_file": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "source_excerpt": "FACULTY OF SCIENCE",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "SCIENCE"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:01f420e8e645",
+      "institution_id": "362",
+      "institutionId": "362",
+      "name": "Science section in this prospectus for specific",
+      "kind": "faculty",
+      "institution_name": "University of Cape Town",
+      "source_file": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "sourceFile": "prospectuses/university-of-capetown-ug-prospectus-2026.pdf",
+      "source_excerpt": "Faculty of Science section in this prospectus for specific",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Science section in this prospectus for specific"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:bc2c96d2d88e",
+      "institution_id": "364",
+      "institutionId": "364",
+      "name": "Accountancy",
+      "kind": "faculty",
+      "institution_name": "University of Johannesburg",
+      "source_file": "prospectuses/university-of-johannesburg.pdf",
+      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
+      "source_excerpt": "School of Accountancy",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Accountancy"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:df5aeffd0e6b",
+      "institution_id": "364",
+      "institutionId": "364",
+      "name": "Art, Design",
+      "kind": "faculty",
+      "institution_name": "University of Johannesburg",
+      "source_file": "prospectuses/university-of-johannesburg.pdf",
+      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
+      "source_excerpt": "Faculty of Art, Design",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Art, Design"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:d0433d82c72c",
+      "institution_id": "364",
+      "institutionId": "364",
+      "name": "Consumer Intelligence and Information Systems",
+      "kind": "faculty",
+      "institution_name": "University of Johannesburg",
+      "source_file": "prospectuses/university-of-johannesburg.pdf",
+      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
+      "source_excerpt": "School of Consumer Intelligence and Information Systems",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Consumer Intelligence and Information Systems"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:6e8ae1df3ffc",
+      "institution_id": "364",
+      "institutionId": "364",
+      "name": "Economics",
+      "kind": "faculty",
+      "institution_name": "University of Johannesburg",
+      "source_file": "prospectuses/university-of-johannesburg.pdf",
+      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
+      "source_excerpt": "School of Economics",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Economics"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:7b67d0bc538b",
+      "institution_id": "364",
+      "institutionId": "364",
+      "name": "Education",
+      "kind": "faculty",
+      "institution_name": "University of Johannesburg",
+      "source_file": "prospectuses/university-of-johannesburg.pdf",
+      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
+      "source_excerpt": "Faculty of Education",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Education"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:000ad3c18fcf",
+      "institution_id": "364",
+      "institutionId": "364",
+      "name": "Education. Thus for both the NASCA and SC(a) for",
+      "kind": "faculty",
+      "institution_name": "University of Johannesburg",
+      "source_file": "prospectuses/university-of-johannesburg.pdf",
+      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
+      "source_excerpt": "Faculty of Education. Thus for both the NASCA and SC(a) for",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Education. Thus for both the NASCA and SC(a) for"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:56c050cf37fd",
+      "institution_id": "364",
+      "institutionId": "364",
+      "name": "Health Sciences",
+      "kind": "faculty",
+      "institution_name": "University of Johannesburg",
+      "source_file": "prospectuses/university-of-johannesburg.pdf",
+      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
+      "source_excerpt": "Faculty of Health Sciences",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Health Sciences"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:4c3f10bdb0aa",
+      "institution_id": "364",
+      "institutionId": "364",
+      "name": "Humanities",
+      "kind": "faculty",
+      "institution_name": "University of Johannesburg",
+      "source_file": "prospectuses/university-of-johannesburg.pdf",
+      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
+      "source_excerpt": "Faculty of Humanities",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Humanities"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:b3b5c29fa03f",
+      "institution_id": "364",
+      "institutionId": "364",
+      "name": "Management",
+      "kind": "faculty",
+      "institution_name": "University of Johannesburg",
+      "source_file": "prospectuses/university-of-johannesburg.pdf",
+      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
+      "source_excerpt": "School of Management",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Management"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:d79229520698",
+      "institution_id": "364",
+      "institutionId": "364",
+      "name": "Public Management, Governance and Public Policy",
+      "kind": "faculty",
+      "institution_name": "University of Johannesburg",
+      "source_file": "prospectuses/university-of-johannesburg.pdf",
+      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
+      "source_excerpt": "School of Public Management, Governance and Public Policy",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Public Management, Governance and Public Policy"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:658ff56becd1",
+      "institution_id": "364",
+      "institutionId": "364",
+      "name": "Science",
+      "kind": "faculty",
+      "institution_name": "University of Johannesburg",
+      "source_file": "prospectuses/university-of-johannesburg.pdf",
+      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
+      "source_excerpt": "Faculty of Science",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Science"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:b09a292d6455",
+      "institution_id": "364",
+      "institutionId": "364",
+      "name": "Tourism and Hospitality",
+      "kind": "faculty",
+      "institution_name": "University of Johannesburg",
+      "source_file": "prospectuses/university-of-johannesburg.pdf",
+      "sourceFile": "prospectuses/university-of-johannesburg.pdf",
+      "source_excerpt": "School of Tourism and Hospitality",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Tourism and Hospitality"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:a0b05962177e",
+      "institution_id": "365",
+      "institutionId": "365",
+      "name": "Nursing and Public",
+      "kind": "faculty",
+      "institution_name": "University of KwaZulu-Natal",
+      "source_file": "prospectuses/university-of-kwazulu-natal.pdf",
+      "sourceFile": "prospectuses/university-of-kwazulu-natal.pdf",
+      "source_excerpt": "School of Nursing and Public",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Nursing and Public"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:130e32ffb8fb",
+      "institution_id": "366",
+      "institutionId": "366",
+      "name": "ACCOUNTANCY",
+      "kind": "faculty",
+      "institution_name": "University of Limpopo",
+      "source_file": "prospectuses/university-of-limpopo.pdf",
+      "sourceFile": "prospectuses/university-of-limpopo.pdf",
+      "source_excerpt": "SCHOOL OF ACCOUNTANCY",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "ACCOUNTANCY"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:d89dc59aecd8",
+      "institution_id": "366",
+      "institutionId": "366",
+      "name": "ECONOMICS & MANAGEMENT",
+      "kind": "faculty",
+      "institution_name": "University of Limpopo",
+      "source_file": "prospectuses/university-of-limpopo.pdf",
+      "sourceFile": "prospectuses/university-of-limpopo.pdf",
+      "source_excerpt": "SCHOOL OF ECONOMICS & MANAGEMENT",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "ECONOMICS & MANAGEMENT"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:06167160ec8b",
+      "institution_id": "366",
+      "institutionId": "366",
+      "name": "EDUCATION",
+      "kind": "faculty",
+      "institution_name": "University of Limpopo",
+      "source_file": "prospectuses/university-of-limpopo.pdf",
+      "sourceFile": "prospectuses/university-of-limpopo.pdf",
+      "source_excerpt": "SCHOOL OF EDUCATION",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "EDUCATION"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:b560216d6ada",
+      "institution_id": "366",
+      "institutionId": "366",
+      "name": "HEALTH CARE SCIENCES",
+      "kind": "faculty",
+      "institution_name": "University of Limpopo",
+      "source_file": "prospectuses/university-of-limpopo.pdf",
+      "sourceFile": "prospectuses/university-of-limpopo.pdf",
+      "source_excerpt": "SCHOOL OF HEALTH CARE SCIENCES",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "HEALTH CARE SCIENCES"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:f2c6e5feae3c",
+      "institution_id": "366",
+      "institutionId": "366",
+      "name": "HUMANITIES",
+      "kind": "faculty",
+      "institution_name": "University of Limpopo",
+      "source_file": "prospectuses/university-of-limpopo.pdf",
+      "sourceFile": "prospectuses/university-of-limpopo.pdf",
+      "source_excerpt": "FACULTY OF HUMANITIES",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "HUMANITIES"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:8019aef06956",
+      "institution_id": "366",
+      "institutionId": "366",
+      "name": "MANAGEMENT AND LAW",
+      "kind": "faculty",
+      "institution_name": "University of Limpopo",
+      "source_file": "prospectuses/university-of-limpopo.pdf",
+      "sourceFile": "prospectuses/university-of-limpopo.pdf",
+      "source_excerpt": "FACULTY OF MANAGEMENT & LAW",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "MANAGEMENT AND LAW"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:980504b48cd3",
+      "institution_id": "366",
+      "institutionId": "366",
+      "name": "MEDICINE",
+      "kind": "faculty",
+      "institution_name": "University of Limpopo",
+      "source_file": "prospectuses/university-of-limpopo.pdf",
+      "sourceFile": "prospectuses/university-of-limpopo.pdf",
+      "source_excerpt": "SCHOOL OF MEDICINE",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "MEDICINE"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:bd1847cad6a0",
+      "institution_id": "366",
+      "institutionId": "366",
+      "name": "Molecular and Life",
+      "kind": "faculty",
+      "institution_name": "University of Limpopo",
+      "source_file": "prospectuses/university-of-limpopo.pdf",
+      "sourceFile": "prospectuses/university-of-limpopo.pdf",
+      "source_excerpt": "School of Molecular and Life",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Molecular and Life"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:d7f52b4d009e",
+      "institution_id": "366",
+      "institutionId": "366",
+      "name": "Physical and Mineral",
+      "kind": "faculty",
+      "institution_name": "University of Limpopo",
+      "source_file": "prospectuses/university-of-limpopo.pdf",
+      "sourceFile": "prospectuses/university-of-limpopo.pdf",
+      "source_excerpt": "School of Physical and Mineral",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Physical and Mineral"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:cfbfcd9c05b1",
+      "institution_id": "366",
+      "institutionId": "366",
+      "name": "SCIENCE & AGRICULTURE",
+      "kind": "faculty",
+      "institution_name": "University of Limpopo",
+      "source_file": "prospectuses/university-of-limpopo.pdf",
+      "sourceFile": "prospectuses/university-of-limpopo.pdf",
+      "source_excerpt": "FACULTY OF SCIENCE & AGRICULTURE",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "SCIENCE & AGRICULTURE"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:efce43d6569e",
+      "institution_id": "366",
+      "institutionId": "366",
+      "name": "SOCIAL SCIENCES",
+      "kind": "faculty",
+      "institution_name": "University of Limpopo",
+      "source_file": "prospectuses/university-of-limpopo.pdf",
+      "sourceFile": "prospectuses/university-of-limpopo.pdf",
+      "source_excerpt": "SCHOOL OF SOCIAL SCIENCES",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "SOCIAL SCIENCES"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:7eb219f31436",
+      "institution_id": "367",
+      "institutionId": "367",
+      "name": "Dentistry",
+      "kind": "faculty",
+      "institution_name": "University of Pretoria",
+      "source_file": "prospectuses/university-of-pretoria.pdf",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "source_excerpt": "School of Dentistry",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Dentistry"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:56cdf20d168e",
+      "institution_id": "367",
+      "institutionId": "367",
+      "name": "Economic and Management",
+      "kind": "faculty",
+      "institution_name": "University of Pretoria",
+      "source_file": "prospectuses/university-of-pretoria.pdf",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "source_excerpt": "Faculty of Economic and Management",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Economic and Management"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:bf5e11a3d2fa",
+      "institution_id": "367",
+      "institutionId": "367",
+      "name": "Education",
+      "kind": "faculty",
+      "institution_name": "University of Pretoria",
+      "source_file": "prospectuses/university-of-pretoria.pdf",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "source_excerpt": "Faculty of Education",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Education"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:3eb1e867d878",
+      "institution_id": "367",
+      "institutionId": "367",
+      "name": "ENGINEERING",
+      "kind": "faculty",
+      "institution_name": "University of Pretoria",
+      "source_file": "prospectuses/university-of-pretoria.pdf",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "source_excerpt": "SCHOOL OF ENGINEERING",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "ENGINEERING"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:7424bfd5e5c2",
+      "institution_id": "367",
+      "institutionId": "367",
+      "name": "Engineering will be determined by the Grade 12 results",
+      "kind": "faculty",
+      "institution_name": "University of Pretoria",
+      "source_file": "prospectuses/university-of-pretoria.pdf",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "source_excerpt": "School of Engineering will be determined by the Grade 12 results.",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Engineering will be determined by the Grade 12 results"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:aefad136baf2",
+      "institution_id": "367",
+      "institutionId": "367",
+      "name": "Engineering, Built Environment",
+      "kind": "faculty",
+      "institution_name": "University of Pretoria",
+      "source_file": "prospectuses/university-of-pretoria.pdf",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "source_excerpt": "Faculty of Engineering, Built Environment",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Engineering, Built Environment"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:bbce06ca30e6",
+      "institution_id": "367",
+      "institutionId": "367",
+      "name": "Engineering, Built Environment and Information",
+      "kind": "faculty",
+      "institution_name": "University of Pretoria",
+      "source_file": "prospectuses/university-of-pretoria.pdf",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "source_excerpt": "Faculty of Engineering, Built Environment and Information",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Engineering, Built Environment and Information"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:191f435f5965",
+      "institution_id": "367",
+      "institutionId": "367",
+      "name": "Healthcare Sciences",
+      "kind": "faculty",
+      "institution_name": "University of Pretoria",
+      "source_file": "prospectuses/university-of-pretoria.pdf",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "source_excerpt": "Faculty of Health Sciences",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Healthcare Sciences"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:fa6253eb06f8",
+      "institution_id": "367",
+      "institutionId": "367",
+      "name": "Humanities",
+      "kind": "faculty",
+      "institution_name": "University of Pretoria",
+      "source_file": "prospectuses/university-of-pretoria.pdf",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "source_excerpt": "Faculty of Humanities",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Humanities"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:7d00c86fbf4c",
+      "institution_id": "367",
+      "institutionId": "367",
+      "name": "Medicine",
+      "kind": "faculty",
+      "institution_name": "University of Pretoria",
+      "source_file": "prospectuses/university-of-pretoria.pdf",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "source_excerpt": "School of Medicine",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Medicine"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:fca89417bd83",
+      "institution_id": "367",
+      "institutionId": "367",
+      "name": "Natural and Agricultural",
+      "kind": "faculty",
+      "institution_name": "University of Pretoria",
+      "source_file": "prospectuses/university-of-pretoria.pdf",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "source_excerpt": "Faculty of Natural and Agricultural",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Natural and Agricultural"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:62fbc3fde4e1",
+      "institution_id": "367",
+      "institutionId": "367",
+      "name": "Natural and Agricultural Sciences",
+      "kind": "faculty",
+      "institution_name": "University of Pretoria",
+      "source_file": "prospectuses/university-of-pretoria.pdf",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "source_excerpt": "Faculty of Natural and Agricultural Sciences",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Natural and Agricultural Sciences"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:2affbf6dfde8",
+      "institution_id": "367",
+      "institutionId": "367",
+      "name": "Theology and Religion",
+      "kind": "faculty",
+      "institution_name": "University of Pretoria",
+      "source_file": "prospectuses/university-of-pretoria.pdf",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "source_excerpt": "Faculty of Theology and Religion",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Theology and Religion"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:6c85603b7d2e",
+      "institution_id": "367",
+      "institutionId": "367",
+      "name": "Veterinary Science",
+      "kind": "faculty",
+      "institution_name": "University of Pretoria",
+      "source_file": "prospectuses/university-of-pretoria.pdf",
+      "sourceFile": "prospectuses/university-of-pretoria.pdf",
+      "source_excerpt": "Faculty of Veterinary Science",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Veterinary Science"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:302fc317997e",
+      "institution_id": "369",
+      "institutionId": "369",
+      "name": "AGRISCIENCES",
+      "kind": "faculty",
+      "institution_name": "Stellenbosch University",
+      "source_file": "prospectuses/stellenbosch-university.pdf",
+      "sourceFile": "prospectuses/stellenbosch-university.pdf",
+      "source_excerpt": "FACULTY OF AGRISCIENCES",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "AGRISCIENCES"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:ef44579258df",
+      "institution_id": "369",
+      "institutionId": "369",
+      "name": "EDUCATION",
+      "kind": "faculty",
+      "institution_name": "Stellenbosch University",
+      "source_file": "prospectuses/stellenbosch-university.pdf",
+      "sourceFile": "prospectuses/stellenbosch-university.pdf",
+      "source_excerpt": "FACULTY OF EDUCATION",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "EDUCATION"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:31c17f8b1447",
+      "institution_id": "369",
+      "institutionId": "369",
+      "name": "ENGINEERING",
+      "kind": "faculty",
+      "institution_name": "Stellenbosch University",
+      "source_file": "prospectuses/stellenbosch-university.pdf",
+      "sourceFile": "prospectuses/stellenbosch-university.pdf",
+      "source_excerpt": "FACULTY OF ENGINEERING",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "ENGINEERING"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:cb976c2e6f19",
+      "institution_id": "369",
+      "institutionId": "369",
+      "name": "MEDICINE",
+      "kind": "faculty",
+      "institution_name": "Stellenbosch University",
+      "source_file": "prospectuses/stellenbosch-university.pdf",
+      "sourceFile": "prospectuses/stellenbosch-university.pdf",
+      "source_excerpt": "FACULTY OF MEDICINE",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "MEDICINE"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:61f1201c02c3",
+      "institution_id": "369",
+      "institutionId": "369",
+      "name": "SCIENCE",
+      "kind": "faculty",
+      "institution_name": "Stellenbosch University",
+      "source_file": "prospectuses/stellenbosch-university.pdf",
+      "sourceFile": "prospectuses/stellenbosch-university.pdf",
+      "source_excerpt": "FACULTY OF SCIENCE",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "SCIENCE"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:93b4e8a3612d",
+      "institution_id": "369",
+      "institutionId": "369",
+      "name": "THEOLOGY",
+      "kind": "faculty",
+      "institution_name": "Stellenbosch University",
+      "source_file": "prospectuses/stellenbosch-university.pdf",
+      "sourceFile": "prospectuses/stellenbosch-university.pdf",
+      "source_excerpt": "FACULTY OF THEOLOGY",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "THEOLOGY"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:1d57e2486ce6",
+      "institution_id": "370",
+      "institutionId": "370",
+      "name": "Faculty of Economic and Management Sciences",
+      "kind": "faculty",
+      "institution_name": "University of the Free State",
+      "source_file": "prospectuses/university-of-the-free-state.pdf",
+      "sourceFile": "prospectuses/university-of-the-free-state.pdf",
+      "source_excerpt": "FACULTY OF ECONOMIC AND MANAGEMENT SCIENCES Against the background of our mission to be a dynamic, innovative, and quality-driven faculty, the Faculty of Economic and Management Sciences covers a diverse academic spectrum – from public and private sector management to specialised education for aspirant professional accountants on undergraduate le",
+      "extraction_confidence": 0.92,
+      "merged_from": [
+        "Faculty of Economic and Management Sciences"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:e09582f7c98d",
+      "institution_id": "370",
+      "institutionId": "370",
+      "name": "Faculty of Education",
+      "kind": "faculty",
+      "institution_name": "University of the Free State",
+      "source_file": "prospectuses/university-of-the-free-state.pdf",
+      "sourceFile": "prospectuses/university-of-the-free-state.pdf",
+      "source_excerpt": "FACULTY OF EDUCATION The Faculty of Education educates teachers in several disciplines. Our primary focus is to prepare you as pre- service teachers for your work in schools, ensuring that you have a strong disciplinary base for your professional work. In our undergraduate Bachelor of Education degree (offered in Foundation, Intermediate, or Senio",
+      "extraction_confidence": 0.92,
+      "merged_from": [
+        "Faculty of Education"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:8c9142df5323",
+      "institution_id": "370",
+      "institutionId": "370",
+      "name": "Faculty of Health Sciences",
+      "kind": "faculty",
+      "institution_name": "University of the Free State",
+      "source_file": "prospectuses/university-of-the-free-state.pdf",
+      "sourceFile": "prospectuses/university-of-the-free-state.pdf",
+      "source_excerpt": "FACULTY OF HEALTH SCIENCES The School of Clinical Medicine, School of Pathology, School of Biomedical Sciences, School of Nursing, and the School of Health and Rehabilitation Sciences are proud to offer you opportunities to obtain world-class qualifications in the health-care environment. Students in the Faculty of Health Sciences must be highly",
+      "extraction_confidence": 0.92,
+      "merged_from": [
+        "Faculty of Health Sciences"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:193e8d786bc4",
+      "institution_id": "370",
+      "institutionId": "370",
+      "name": "Faculty of Law",
+      "kind": "faculty",
+      "institution_name": "University of the Free State",
+      "source_file": "prospectuses/university-of-the-free-state.pdf",
+      "sourceFile": "prospectuses/university-of-the-free-state.pdf",
+      "source_excerpt": "Bachelor of Laws (LLB) – four years BC340000 33 6 (70%) 4 (50%) 6 (70%) NOTE: Either Mathematics (50%) or Mathematical Literacy (70%) is required. 2323 UNIVERSITY OF THE FREE STATE | UNDERGRADUATE PROSPECTUS 202722 #Future Focused NATURAL SCIENCES Here, we constantly shift the frontiers of knowledge through fundamental research, innovation, and ne",
+      "extraction_confidence": 0.92,
+      "merged_from": [
+        "Faculty of Law"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:1b8f63a87725",
+      "institution_id": "370",
+      "institutionId": "370",
+      "name": "Faculty of Natural and Agricultural Sciences",
+      "kind": "faculty",
+      "institution_name": "University of the Free State",
+      "source_file": "prospectuses/university-of-the-free-state.pdf",
+      "sourceFile": "prospectuses/university-of-the-free-state.pdf",
+      "source_excerpt": "FACULTY OF NATURAL AND AGRICULTURAL SCIENCES The Faculty of Natural and Agricultural Sciences is a vibrant faculty attracting both national and international students due to its stimulating curriculum and exciting research agenda. We are an engaged faculty whose interactions with its community are integrated with research and teaching. The facult",
+      "extraction_confidence": 0.92,
+      "merged_from": [
+        "Faculty of Natural and Agricultural Sciences"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:9d82737eab97",
+      "institution_id": "370",
+      "institutionId": "370",
+      "name": "Faculty of The Humanities",
+      "kind": "faculty",
+      "institution_name": "University of the Free State",
+      "source_file": "prospectuses/university-of-the-free-state.pdf",
+      "sourceFile": "prospectuses/university-of-the-free-state.pdf",
+      "source_excerpt": "FACULTY OF THE HUMANITIES The primary purpose of a Humanities education is to give you access to critical thinking skills, appreciation of literature, understanding of cultures, the use of power, the mysteries of the mind, the organisation of societies, the complexities of leadership, the art of communication, and the challenge of change. All of",
+      "extraction_confidence": 0.92,
+      "merged_from": [
+        "Faculty of The Humanities"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:3113ff7eb593",
+      "institution_id": "370",
+      "institutionId": "370",
+      "name": "Faculty of Theology and Religion",
+      "kind": "faculty",
+      "institution_name": "University of the Free State",
+      "source_file": "prospectuses/university-of-the-free-state.pdf",
+      "sourceFile": "prospectuses/university-of-the-free-state.pdf",
+      "source_excerpt": "FACULTY OF THEOLOGY AND RELIGION UNIVERSITY OF THE FREE STATE | UNDERGRADUATE PROSPECTUS 202738 3939#Future Focused 4141 UNIVERSITY OF THE FREE STATE | UNDERGRADUATE PROSPECTUS 202740 #Future Focused GENERAL INFORMATION PROGRAMME NAME COST DURATION ACADEMIC LEVEL ADMISSION REQUIREMENTS ‘I AM’ EMPLOYEE WELLNESS R11 700 8 weeks 5 Admission requir",
+      "extraction_confidence": 0.92,
+      "merged_from": [
+        "Faculty of Theology and Religion"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:d93cc371f062",
+      "institution_id": "370",
+      "institutionId": "370",
+      "name": "Kovsie Phahamisa Academy",
+      "kind": "school",
+      "institution_name": "University of the Free State",
+      "source_file": "prospectuses/university-of-the-free-state.pdf",
+      "sourceFile": "prospectuses/university-of-the-free-state.pdf",
+      "source_excerpt": "KOVSIE PHAHAMISA ACADEMY SHORT LEARNING PROGRAMMES 4343#Future Focused TO APPLY kpha.ufs.ac.za Programmes become available for registration prior to commencement; please keep an eye on the system for the relevant programmes. MODE OF DELIVERY: Programmes are offered via various modes, including distance, face-to-face, and blended. Contact Kovsie",
+      "extraction_confidence": 0.92,
+      "merged_from": [
+        "Kovsie Phahamisa Academy"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:28122477e504",
+      "institution_id": "370",
+      "institutionId": "370",
+      "name": "School of Biomedical Sciences",
+      "kind": "school",
+      "institution_name": "University of the Free State",
+      "source_file": "prospectuses/university-of-the-free-state.pdf",
+      "sourceFile": "prospectuses/university-of-the-free-state.pdf",
+      "source_excerpt": "SCHOOL OF BIOMEDICAL SCIENCES PROGRAMME DESCRIPTION MINIMUM ADMISSION REQUIREMENTS PROGRAMME ACADEMIC PLAN CODE AP ENGLISH MATHEMATICS LIFE SCIENCES PHYSICAL SCIENCES SUBJECT TO SELECTION Bachelor of Medical Science with specialisation in Radiation Science (BMedSc) BC831000 30 5 (60%) 5 (60%) 5 (60%) 5 (60%) Yes Bachelor of Medicine and Bachelo",
+      "extraction_confidence": 0.92,
+      "merged_from": [
+        "School of Biomedical Sciences"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:168cbea30984",
+      "institution_id": "370",
+      "institutionId": "370",
+      "name": "School of Clinical Medicine",
+      "kind": "school",
+      "institution_name": "University of the Free State",
+      "source_file": "prospectuses/university-of-the-free-state.pdf",
+      "sourceFile": "prospectuses/university-of-the-free-state.pdf",
+      "source_excerpt": "SCHOOL OF CLINICAL MEDICINE II SCHOOL OF PATHOLOGY II SCHOOL OF BIOMEDICAL SCIENCES PROGRAMME DESCRIPTION MINIMUM ADMISSION REQUIREMENTS PROGRAMME ACADEMIC PLAN CODE AP ENGLISH MATHEMATICS LIFE SCIENCES PHYSICAL SCIENCES SUBJECT TO SELECTION Bachelor of Medical Science with specialisation in Radiation Science (BMedSc) BC831000 30 5",
+      "extraction_confidence": 0.92,
+      "merged_from": [
+        "School of Clinical Medicine"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:4d110a822552",
+      "institution_id": "370",
+      "institutionId": "370",
+      "name": "School of Health and Rehabilitation Sciences",
+      "kind": "school",
+      "institution_name": "University of the Free State",
+      "source_file": "prospectuses/university-of-the-free-state.pdf",
+      "sourceFile": "prospectuses/university-of-the-free-state.pdf",
+      "source_excerpt": "SCHOOL OF HEALTH AND REHABILITATION SCIENCES PROGRAMME DESCRIPTION MINIMUM ADMISSION REQUIREMENTS PROGRAMME ACADEMIC PLAN CODE AP ENGLISH MATHEMATICS LIFE SCIENCES PHYSICAL SCIENCES SUBJECT TO SELECTION Bachelor of Optometry (BOptom) BC8413033 33 5 (60%) 4 (50%) 5 (60%) 5 (60%) Yes Bachelor of Science in Physiotherapy BSc (Physiotherapy) BC8420",
+      "extraction_confidence": 0.92,
+      "merged_from": [
+        "School of Health and Rehabilitation Sciences"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:c3f3bb30c55b",
+      "institution_id": "370",
+      "institutionId": "370",
+      "name": "School of Nursing",
+      "kind": "school",
+      "institution_name": "University of the Free State",
+      "source_file": "prospectuses/university-of-the-free-state.pdf",
+      "sourceFile": "prospectuses/university-of-the-free-state.pdf",
+      "source_excerpt": "SCHOOL OF NURSING PROGRAMME DESCRIPTION MINIMUM ADMISSION REQUIREMENTS PROGRAMME ACADEMIC PLAN CODE AP ENGLISH MATHEMATICS MATHEMATICAL LITERACY LIFE SCIENCES PHYSICAL SCIENCES SUBJECT TO SELECTION Bachelor of Nursing BC849000 30 4 (50%) 3 (40%) 6 (70%) 5 (60%) 4 (50%) Yes \u001f Either Mathematics or Mathematical Literacy is required. Either Life",
+      "extraction_confidence": 0.92,
+      "merged_from": [
+        "School of Nursing"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:251a4a087636",
+      "institution_id": "370",
+      "institutionId": "370",
+      "name": "School of Pathology",
+      "kind": "school",
+      "institution_name": "University of the Free State",
+      "source_file": "prospectuses/university-of-the-free-state.pdf",
+      "sourceFile": "prospectuses/university-of-the-free-state.pdf",
+      "source_excerpt": "SCHOOL OF PATHOLOGY II SCHOOL OF BIOMEDICAL SCIENCES PROGRAMME DESCRIPTION MINIMUM ADMISSION REQUIREMENTS PROGRAMME ACADEMIC PLAN CODE AP ENGLISH MATHEMATICS LIFE SCIENCES PHYSICAL SCIENCES SUBJECT TO SELECTION Bachelor of Medical Science with specialisation in Radiation Science (BMedSc) BC831000 30 5 (60%) 5 (60%) 5 (60%) 5 (60%) Yes Bac",
+      "extraction_confidence": 0.92,
+      "merged_from": [
+        "School of Pathology"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:1f91d273b3b3",
+      "institution_id": "371",
+      "institutionId": "371",
+      "name": "Dentistry",
+      "kind": "faculty",
+      "institution_name": "University of the Western Cape",
+      "source_file": "prospectuses/university-of-the-western-cape.pdf",
+      "sourceFile": "prospectuses/university-of-the-western-cape.pdf",
+      "source_excerpt": "Faculty of Dentistry",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Dentistry"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:8410e93b78d1",
+      "institution_id": "371",
+      "institutionId": "371",
+      "name": "Education",
+      "kind": "faculty",
+      "institution_name": "University of the Western Cape",
+      "source_file": "prospectuses/university-of-the-western-cape.pdf",
+      "sourceFile": "prospectuses/university-of-the-western-cape.pdf",
+      "source_excerpt": "Faculty of Education",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Education"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:b08e6e56584b",
+      "institution_id": "371",
+      "institutionId": "371",
+      "name": "Natural Sciences",
+      "kind": "faculty",
+      "institution_name": "University of the Western Cape",
+      "source_file": "prospectuses/university-of-the-western-cape.pdf",
+      "sourceFile": "prospectuses/university-of-the-western-cape.pdf",
+      "source_excerpt": "Faculty of Natural Sciences",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Natural Sciences"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:4571ccac81f4",
+      "institution_id": "372",
+      "institutionId": "372",
+      "name": "Architecture and Planning",
+      "kind": "faculty",
+      "institution_name": "University of the Witwatersrand",
+      "source_file": "prospectuses/university-of-witwatersrand-wits-prospectus-2027.pdf",
+      "sourceFile": "prospectuses/university-of-witwatersrand-wits-prospectus-2027.pdf",
+      "source_excerpt": "School of Architecture and Planning",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Architecture and Planning"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:e426cdd67432",
+      "institution_id": "372",
+      "institutionId": "372",
+      "name": "Architecture and Planning, which is monitored",
+      "kind": "faculty",
+      "institution_name": "University of the Witwatersrand",
+      "source_file": "prospectuses/university-of-witwatersrand-wits-prospectus-2027.pdf",
+      "sourceFile": "prospectuses/university-of-witwatersrand-wits-prospectus-2027.pdf",
+      "source_excerpt": "School of Architecture and Planning, which is monitored",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Architecture and Planning, which is monitored"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:a1f12fa03c02",
+      "institution_id": "372",
+      "institutionId": "372",
+      "name": "Business Sciences",
+      "kind": "faculty",
+      "institution_name": "University of the Witwatersrand",
+      "source_file": "prospectuses/university-of-witwatersrand-wits-prospectus-2027.pdf",
+      "sourceFile": "prospectuses/university-of-witwatersrand-wits-prospectus-2027.pdf",
+      "source_excerpt": "School of Business Sciences",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Business Sciences"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:a804df91d2ce",
+      "institution_id": "372",
+      "institutionId": "372",
+      "name": "Chemical and Metallurgical Engineering",
+      "kind": "faculty",
+      "institution_name": "University of the Witwatersrand",
+      "source_file": "prospectuses/university-of-witwatersrand-wits-prospectus-2027.pdf",
+      "sourceFile": "prospectuses/university-of-witwatersrand-wits-prospectus-2027.pdf",
+      "source_excerpt": "School of Chemical and Metallurgical Engineering",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Chemical and Metallurgical Engineering"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:00aff85cf7cf",
+      "institution_id": "372",
+      "institutionId": "372",
+      "name": "Civil and Environmental Engineering",
+      "kind": "faculty",
+      "institution_name": "University of the Witwatersrand",
+      "source_file": "prospectuses/university-of-witwatersrand-wits-prospectus-2027.pdf",
+      "sourceFile": "prospectuses/university-of-witwatersrand-wits-prospectus-2027.pdf",
+      "source_excerpt": "School of Civil and Environmental Engineering",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Civil and Environmental Engineering"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:6f327580c244",
+      "institution_id": "372",
+      "institutionId": "372",
+      "name": "Commerce",
+      "kind": "faculty",
+      "institution_name": "University of the Witwatersrand",
+      "source_file": "prospectuses/university-of-witwatersrand-wits-prospectus-2027.pdf",
+      "sourceFile": "prospectuses/university-of-witwatersrand-wits-prospectus-2027.pdf",
+      "source_excerpt": "Faculty of Commerce,",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Commerce"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:bc05f788d8aa",
+      "institution_id": "372",
+      "institutionId": "372",
+      "name": "Commerce, Law and Management",
+      "kind": "faculty",
+      "institution_name": "University of the Witwatersrand",
+      "source_file": "prospectuses/university-of-witwatersrand-wits-prospectus-2027.pdf",
+      "sourceFile": "prospectuses/university-of-witwatersrand-wits-prospectus-2027.pdf",
+      "source_excerpt": "Faculty of Commerce, Law and Management",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Commerce, Law and Management"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:29fffe64a7f7",
+      "institution_id": "372",
+      "institutionId": "372",
+      "name": "Construction Economics",
+      "kind": "faculty",
+      "institution_name": "University of the Witwatersrand",
+      "source_file": "prospectuses/university-of-witwatersrand-wits-prospectus-2027.pdf",
+      "sourceFile": "prospectuses/university-of-witwatersrand-wits-prospectus-2027.pdf",
+      "source_excerpt": "School of Construction Economics",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Construction Economics"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:002f02c05e6a",
+      "institution_id": "372",
+      "institutionId": "372",
+      "name": "Construction Economics and Management",
+      "kind": "faculty",
+      "institution_name": "University of the Witwatersrand",
+      "source_file": "prospectuses/university-of-witwatersrand-wits-prospectus-2027.pdf",
+      "sourceFile": "prospectuses/university-of-witwatersrand-wits-prospectus-2027.pdf",
+      "source_excerpt": "School of Construction Economics and Management",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Construction Economics and Management"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:955398480f54",
+      "institution_id": "372",
+      "institutionId": "372",
+      "name": "Economics and Finance",
+      "kind": "faculty",
+      "institution_name": "University of the Witwatersrand",
+      "source_file": "prospectuses/university-of-witwatersrand-wits-prospectus-2027.pdf",
+      "sourceFile": "prospectuses/university-of-witwatersrand-wits-prospectus-2027.pdf",
+      "source_excerpt": "School of Economics and Finance",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Economics and Finance"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:0a3a15e38620",
+      "institution_id": "372",
+      "institutionId": "372",
+      "name": "Electrical and Information Engineering",
+      "kind": "faculty",
+      "institution_name": "University of the Witwatersrand",
+      "source_file": "prospectuses/university-of-witwatersrand-wits-prospectus-2027.pdf",
+      "sourceFile": "prospectuses/university-of-witwatersrand-wits-prospectus-2027.pdf",
+      "source_excerpt": "School of Electrical and Information Engineering",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Electrical and Information Engineering"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:d8b7cc362f95",
+      "institution_id": "372",
+      "institutionId": "372",
+      "name": "Engineering and the Built",
+      "kind": "faculty",
+      "institution_name": "University of the Witwatersrand",
+      "source_file": "prospectuses/university-of-witwatersrand-wits-prospectus-2027.pdf",
+      "sourceFile": "prospectuses/university-of-witwatersrand-wits-prospectus-2027.pdf",
+      "source_excerpt": "Faculty of Engineering and the",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Engineering and the Built"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:1e8a322f4c2e",
+      "institution_id": "372",
+      "institutionId": "372",
+      "name": "Engineering and the Built Environment",
+      "kind": "faculty",
+      "institution_name": "University of the Witwatersrand",
+      "source_file": "prospectuses/university-of-witwatersrand-wits-prospectus-2027.pdf",
+      "sourceFile": "prospectuses/university-of-witwatersrand-wits-prospectus-2027.pdf",
+      "source_excerpt": "Faculty of Engineering and the Built Environment",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Engineering and the Built Environment"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:c613f713783a",
+      "institution_id": "372",
+      "institutionId": "372",
+      "name": "Health Sciences",
+      "kind": "faculty",
+      "institution_name": "University of the Witwatersrand",
+      "source_file": "prospectuses/university-of-witwatersrand-wits-prospectus-2027.pdf",
+      "sourceFile": "prospectuses/university-of-witwatersrand-wits-prospectus-2027.pdf",
+      "source_excerpt": "Faculty of Health Science",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Health Sciences"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:e047c8c48cd5",
+      "institution_id": "372",
+      "institutionId": "372",
+      "name": "Health Sciences Applicants who present with an NCV will not be considered",
+      "kind": "faculty",
+      "institution_name": "University of the Witwatersrand",
+      "source_file": "prospectuses/university-of-witwatersrand-wits-prospectus-2027.pdf",
+      "sourceFile": "prospectuses/university-of-witwatersrand-wits-prospectus-2027.pdf",
+      "source_excerpt": "Faculty of Health Sciences Applicants who present with an NCV will not be considered.",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Health Sciences Applicants who present with an NCV will not be considered"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:86acf9bf94a1",
+      "institution_id": "372",
+      "institutionId": "372",
+      "name": "Health Sciences are equipped with the relevant skills in order to",
+      "kind": "faculty",
+      "institution_name": "University of the Witwatersrand",
+      "source_file": "prospectuses/university-of-witwatersrand-wits-prospectus-2027.pdf",
+      "sourceFile": "prospectuses/university-of-witwatersrand-wits-prospectus-2027.pdf",
+      "source_excerpt": "Faculty of Health Sciences are equipped with the relevant skills in order to",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Health Sciences are equipped with the relevant skills in order to"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:2df1c8e827f0",
+      "institution_id": "372",
+      "institutionId": "372",
+      "name": "Human and Community Development (SHCD)",
+      "kind": "faculty",
+      "institution_name": "University of the Witwatersrand",
+      "source_file": "prospectuses/university-of-witwatersrand-wits-prospectus-2027.pdf",
+      "sourceFile": "prospectuses/university-of-witwatersrand-wits-prospectus-2027.pdf",
+      "source_excerpt": "School of Human and Community Development",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Human and Community Development (SHCD)"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:87dbdedcd48e",
+      "institution_id": "372",
+      "institutionId": "372",
+      "name": "Humanities",
+      "kind": "faculty",
+      "institution_name": "University of the Witwatersrand",
+      "source_file": "prospectuses/university-of-witwatersrand-wits-prospectus-2027.pdf",
+      "sourceFile": "prospectuses/university-of-witwatersrand-wits-prospectus-2027.pdf",
+      "source_excerpt": "Faculty of Humanities",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Humanities"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:4b7ae0ff658b",
+      "institution_id": "372",
+      "institutionId": "372",
+      "name": "Law and place availability. Applicants who have",
+      "kind": "faculty",
+      "institution_name": "University of the Witwatersrand",
+      "source_file": "prospectuses/university-of-witwatersrand-wits-prospectus-2027.pdf",
+      "sourceFile": "prospectuses/university-of-witwatersrand-wits-prospectus-2027.pdf",
+      "source_excerpt": "School of Law and place availability. Applicants who have",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Law and place availability. Applicants who have"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:48fe135aa769",
+      "institution_id": "372",
+      "institutionId": "372",
+      "name": "Mathematics, the School of Computer Science and",
+      "kind": "faculty",
+      "institution_name": "University of the Witwatersrand",
+      "source_file": "prospectuses/university-of-witwatersrand-wits-prospectus-2027.pdf",
+      "sourceFile": "prospectuses/university-of-witwatersrand-wits-prospectus-2027.pdf",
+      "source_excerpt": "School of Mathematics, the School of Computer Science and",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Mathematics, the School of Computer Science and"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:c4ed0b596d66",
+      "institution_id": "372",
+      "institutionId": "372",
+      "name": "Mechanical, Industrial",
+      "kind": "faculty",
+      "institution_name": "University of the Witwatersrand",
+      "source_file": "prospectuses/university-of-witwatersrand-wits-prospectus-2027.pdf",
+      "sourceFile": "prospectuses/university-of-witwatersrand-wits-prospectus-2027.pdf",
+      "source_excerpt": "School of Mechanical, Industrial",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Mechanical, Industrial"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:0191722eae10",
+      "institution_id": "372",
+      "institutionId": "372",
+      "name": "Mechanical, Industrial and Aeronautical Engineering",
+      "kind": "faculty",
+      "institution_name": "University of the Witwatersrand",
+      "source_file": "prospectuses/university-of-witwatersrand-wits-prospectus-2027.pdf",
+      "sourceFile": "prospectuses/university-of-witwatersrand-wits-prospectus-2027.pdf",
+      "source_excerpt": "School of Mechanical, Industrial and Aeronautical Engineering",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Mechanical, Industrial and Aeronautical Engineering"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:f8fd2ec89f9a",
+      "institution_id": "372",
+      "institutionId": "372",
+      "name": "Mining Engineering",
+      "kind": "faculty",
+      "institution_name": "University of the Witwatersrand",
+      "source_file": "prospectuses/university-of-witwatersrand-wits-prospectus-2027.pdf",
+      "sourceFile": "prospectuses/university-of-witwatersrand-wits-prospectus-2027.pdf",
+      "source_excerpt": "School of Mining Engineering",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Mining Engineering"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:d8ac099981ba",
+      "institution_id": "372",
+      "institutionId": "372",
+      "name": "Science",
+      "kind": "faculty",
+      "institution_name": "University of the Witwatersrand",
+      "source_file": "prospectuses/university-of-witwatersrand-wits-prospectus-2027.pdf",
+      "sourceFile": "prospectuses/university-of-witwatersrand-wits-prospectus-2027.pdf",
+      "source_excerpt": "Faculty of Science",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Science"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:9a0c7aec1f02",
+      "institution_id": "372",
+      "institutionId": "372",
+      "name": "Science (minimum of 144 credits)",
+      "kind": "faculty",
+      "institution_name": "University of the Witwatersrand",
+      "source_file": "prospectuses/university-of-witwatersrand-wits-prospectus-2027.pdf",
+      "sourceFile": "prospectuses/university-of-witwatersrand-wits-prospectus-2027.pdf",
+      "source_excerpt": "Faculty of Science (minimum of 144 credits)",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Science (minimum of 144 credits)"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:776c78aa7289",
+      "institution_id": "373",
+      "institutionId": "373",
+      "name": "HEAL TH SCIENCES",
+      "kind": "faculty",
+      "institution_name": "University of Venda",
+      "source_file": "prospectuses/university-of-venda.pdf",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "source_excerpt": "FACULTY OF HEAL TH SCIENCES",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "HEAL TH SCIENCES"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:111bd11a9fc7",
+      "institution_id": "373",
+      "institutionId": "373",
+      "name": "HEALTH",
+      "kind": "faculty",
+      "institution_name": "University of Venda",
+      "source_file": "prospectuses/university-of-venda.pdf",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "source_excerpt": "FACULTY OF HEALTH",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "HEALTH"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:2a9a6c56f07c",
+      "institution_id": "373",
+      "institutionId": "373",
+      "name": "HUMANITIES",
+      "kind": "faculty",
+      "institution_name": "University of Venda",
+      "source_file": "prospectuses/university-of-venda.pdf",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "source_excerpt": "FACULTY OF HUMANITIES,",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "HUMANITIES"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:379747a90b5d",
+      "institution_id": "373",
+      "institutionId": "373",
+      "name": "HUMANITIES, SOCIAL",
+      "kind": "faculty",
+      "institution_name": "University of Venda",
+      "source_file": "prospectuses/university-of-venda.pdf",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "source_excerpt": "FACULTY OF HUMANITIES, SOCIAL",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "HUMANITIES, SOCIAL"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:2ccfe6c50f30",
+      "institution_id": "373",
+      "institutionId": "373",
+      "name": "MANAGEMENT",
+      "kind": "faculty",
+      "institution_name": "University of Venda",
+      "source_file": "prospectuses/university-of-venda.pdf",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "source_excerpt": "FACULTY OF MANAGEMENT,",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "MANAGEMENT"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:cd7f43da3eda",
+      "institution_id": "373",
+      "institutionId": "373",
+      "name": "SCIENCE",
+      "kind": "faculty",
+      "institution_name": "University of Venda",
+      "source_file": "prospectuses/university-of-venda.pdf",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "source_excerpt": "FACULTY OF SCIENCE,",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "SCIENCE"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:f187cc6dc249",
+      "institution_id": "373",
+      "institutionId": "373",
+      "name": "Science, Engineering and Agriculture; Faculty of",
+      "kind": "faculty",
+      "institution_name": "University of Venda",
+      "source_file": "prospectuses/university-of-venda.pdf",
+      "sourceFile": "prospectuses/university-of-venda.pdf",
+      "source_excerpt": "Faculty of Science, Engineering and Agriculture; Faculty of",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Science, Engineering and Agriculture; Faculty of"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:99bef73e3c0c",
+      "institution_id": "374",
+      "institutionId": "374",
+      "name": "EDUCATION",
+      "kind": "faculty",
+      "institution_name": "University of Zululand",
+      "source_file": "prospectuses/university-of-zululand.pdf",
+      "sourceFile": "prospectuses/university-of-zululand.pdf",
+      "source_excerpt": "FACULTY OF EDUCATION",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "EDUCATION"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:b51f4efd7e95",
+      "institution_id": "411",
+      "institutionId": "411",
+      "name": "EDUCATION",
+      "kind": "faculty",
+      "institution_name": "Sol Plaatje University",
+      "source_file": "prospectuses/sol-platjie-university-Prospectus-Brochure.pdf",
+      "sourceFile": "prospectuses/sol-platjie-university-Prospectus-Brochure.pdf",
+      "source_excerpt": "SCHOOL OF EDUCATION",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "EDUCATION"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:4bfd2db429e6",
+      "institution_id": "411",
+      "institutionId": "411",
+      "name": "HUMANITIES",
+      "kind": "faculty",
+      "institution_name": "Sol Plaatje University",
+      "source_file": "prospectuses/sol-platjie-university-Prospectus-Brochure.pdf",
+      "sourceFile": "prospectuses/sol-platjie-university-Prospectus-Brochure.pdf",
+      "source_excerpt": "SCHOOL OF HUMANITIES",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "HUMANITIES"
+      ],
+      "source_refs": []
+    },
+    {
+      "id": "fac:fbb5fed936db",
+      "institution_id": "413",
+      "institutionId": "413",
+      "name": "Pharmacy",
+      "kind": "faculty",
+      "institution_name": "Sefako Makgatho Health Sciences University",
+      "source_file": "prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "sourceFile": "prospectuses/sefako-makgatho-health-sciences-university.pdf",
+      "source_excerpt": "School of Pharmacy",
+      "extraction_confidence": 0.82,
+      "merged_from": [
+        "Pharmacy"
+      ],
+      "source_refs": []
+    }
+  ]
+}

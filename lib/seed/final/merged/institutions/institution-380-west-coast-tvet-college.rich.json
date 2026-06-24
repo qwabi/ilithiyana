@@ -1,0 +1,31 @@
+{
+  "institution": {
+    "institution_id": "380",
+    "name": "West Coast TVET College",
+    "institution_type": "tvet-college",
+    "city": "Malmesbury",
+    "province": "",
+    "official_website": "https://www.westcoastcollege.co.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/380/west-coast-tvet-college",
+    "source_paths": [
+      "generated/v3/institutions.enriched.json",
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

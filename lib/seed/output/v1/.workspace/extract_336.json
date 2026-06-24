@@ -1,0 +1,403 @@
+{
+  "faculties": [],
+  "programmes": [
+    {
+      "id": "prog:336:NATED|3787633babc5|report 191",
+      "institutionId": "336",
+      "name": "Report 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/gert-sibande-tvet-college.pdf",
+      "sourceUrl": "https://gscollege.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/gert-sibande-tvet-college.pdf",
+        "char_start": 15843,
+        "char_end": 15853,
+        "excerpt": "Report 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:336:NATED|3787633babc5|report 191",
+      "institutionId": "336",
+      "name": "Report 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/gert-sibande-tvet-college.pdf",
+      "sourceUrl": "https://gscollege.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/gert-sibande-tvet-college.pdf",
+        "char_start": 20281,
+        "char_end": 20291,
+        "excerpt": "Report 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:336:NATED|3787633babc5|report 191",
+      "institutionId": "336",
+      "name": "Report 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/gert-sibande-tvet-college.pdf",
+      "sourceUrl": "https://gscollege.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/gert-sibande-tvet-college.pdf",
+        "char_start": 20722,
+        "char_end": 20732,
+        "excerpt": "Report 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:336:NATED|3787633babc5|report 191",
+      "institutionId": "336",
+      "name": "Report 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/gert-sibande-tvet-college.pdf",
+      "sourceUrl": "https://gscollege.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/gert-sibande-tvet-college.pdf",
+        "char_start": 21218,
+        "char_end": 21228,
+        "excerpt": "Report 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:336:NATED|3787633babc5|report 191",
+      "institutionId": "336",
+      "name": "Report 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/gert-sibande-tvet-college.pdf",
+      "sourceUrl": "https://gscollege.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/gert-sibande-tvet-college.pdf",
+        "char_start": 21395,
+        "char_end": 21405,
+        "excerpt": "Report 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:336:NATED|3787633babc5|report 191",
+      "institutionId": "336",
+      "name": "Report 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/gert-sibande-tvet-college.pdf",
+      "sourceUrl": "https://gscollege.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/gert-sibande-tvet-college.pdf",
+        "char_start": 21474,
+        "char_end": 21484,
+        "excerpt": "Report 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:336:NCV|0b8628209db7|nc(v) l4",
+      "institutionId": "336",
+      "name": "NC(V) L4",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/gert-sibande-tvet-college.pdf",
+      "sourceUrl": "https://gscollege.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/gert-sibande-tvet-college.pdf",
+        "char_start": 21593,
+        "char_end": 21601,
+        "excerpt": "NC(V) L4"
+      },
+      "normalization_key": "NCV|0b8628209db7|nc(v) l4"
+    },
+    {
+      "id": "prog:336:NATED|3787633babc5|report 191",
+      "institutionId": "336",
+      "name": "Report 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/gert-sibande-tvet-college.pdf",
+      "sourceUrl": "https://gscollege.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/gert-sibande-tvet-college.pdf",
+        "char_start": 21712,
+        "char_end": 21722,
+        "excerpt": "Report 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:336:NCV|b740b967f8a9|nc(v) level 4",
+      "institutionId": "336",
+      "name": "NC(V) Level 4",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/gert-sibande-tvet-college.pdf",
+      "sourceUrl": "https://gscollege.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/gert-sibande-tvet-college.pdf",
+        "char_start": 21850,
+        "char_end": 21863,
+        "excerpt": "NC(V) Level 4"
+      },
+      "normalization_key": "NCV|b740b967f8a9|nc(v) level 4"
+    },
+    {
+      "id": "prog:336:NATED|3787633babc5|report 191",
+      "institutionId": "336",
+      "name": "Report 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/gert-sibande-tvet-college.pdf",
+      "sourceUrl": "https://gscollege.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/gert-sibande-tvet-college.pdf",
+        "char_start": 21932,
+        "char_end": 21942,
+        "excerpt": "Report 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:336:NCV|b740b967f8a9|nc(v) level 4",
+      "institutionId": "336",
+      "name": "NC(V) level 4",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/gert-sibande-tvet-college.pdf",
+      "sourceUrl": "https://gscollege.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/gert-sibande-tvet-college.pdf",
+        "char_start": 28431,
+        "char_end": 28444,
+        "excerpt": "NC(V) level 4"
+      },
+      "normalization_key": "NCV|b740b967f8a9|nc(v) level 4"
+    },
+    {
+      "id": "prog:336:NATED|3787633babc5|report 191",
+      "institutionId": "336",
+      "name": "REPORT 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/gert-sibande-tvet-college.pdf",
+      "sourceUrl": "https://gscollege.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/gert-sibande-tvet-college.pdf",
+        "char_start": 29116,
+        "char_end": 29126,
+        "excerpt": "REPORT 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:336:NATED|3787633babc5|report 191",
+      "institutionId": "336",
+      "name": "Report 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/gert-sibande-tvet-college.pdf",
+      "sourceUrl": "https://gscollege.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/gert-sibande-tvet-college.pdf",
+        "char_start": 30186,
+        "char_end": 30196,
+        "excerpt": "Report 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:336:NATED|3787633babc5|report 191",
+      "institutionId": "336",
+      "name": "Report 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/gert-sibande-tvet-college.pdf",
+      "sourceUrl": "https://gscollege.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/gert-sibande-tvet-college.pdf",
+        "char_start": 33845,
+        "char_end": 33855,
+        "excerpt": "Report 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:336:NATED|3787633babc5|report 191",
+      "institutionId": "336",
+      "name": "Report 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/gert-sibande-tvet-college.pdf",
+      "sourceUrl": "https://gscollege.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/gert-sibande-tvet-college.pdf",
+        "char_start": 35045,
+        "char_end": 35055,
+        "excerpt": "Report 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:336:NATED|3787633babc5|report 191",
+      "institutionId": "336",
+      "name": "Report 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 5,
+            "raw_span": "Accounting (N5",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/gert-sibande-tvet-college.pdf",
+              "char_start": 38321,
+              "char_end": 38335,
+              "excerpt": "Accounting (N5"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/gert-sibande-tvet-college.pdf",
+      "sourceUrl": "https://gscollege.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/gert-sibande-tvet-college.pdf",
+        "char_start": 38431,
+        "char_end": 38441,
+        "excerpt": "Report 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:336:NATED|3787633babc5|report 191",
+      "institutionId": "336",
+      "name": "Report 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/gert-sibande-tvet-college.pdf",
+      "sourceUrl": "https://gscollege.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/gert-sibande-tvet-college.pdf",
+        "char_start": 38518,
+        "char_end": 38528,
+        "excerpt": "Report 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:336:NATED|3787633babc5|report 191",
+      "institutionId": "336",
+      "name": "Report 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/gert-sibande-tvet-college.pdf",
+      "sourceUrl": "https://gscollege.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/gert-sibande-tvet-college.pdf",
+        "char_start": 39404,
+        "char_end": 39414,
+        "excerpt": "Report 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    }
+  ],
+  "admissions_rules": [
+    {
+      "id": "adm:336:NATED|3787633babc5|report 191:subjects",
+      "institutionId": "336",
+      "programmeId": "prog:336:NATED|3787633babc5|report 191",
+      "ruleType": "subject_requirements",
+      "detail": "Accounting >= 5%",
+      "subjects": [
+        {
+          "subject": "Accounting",
+          "minimum_percentage": 5,
+          "raw_span": "Accounting (N5",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/gert-sibande-tvet-college.pdf",
+            "char_start": 38321,
+            "char_end": 38335,
+            "excerpt": "Accounting (N5"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/gert-sibande-tvet-college.pdf",
+      "sourceUrl": "https://gscollege.edu.za/"
+    }
+  ],
+  "aps_rules": [],
+  "llm_calls": 0
+}

@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "institution_id": "356",
+    "slug": "taletso-tvet-college",
+    "name": "Taletso TVET College",
+    "institution_type": "tvet-college",
+    "province": "North West",
+    "city": "Mahikeng",
+    "official_website": "https://taletso.edu.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/356/taletso-tvet-college",
+    "application_url": "https://ienabler.taletsofetcollege.co.za/pls/prodi41/w99pkg.mi_login",
+    "prospectus_url": null,
+    "nsfas_supported": true,
+    "distance_learning": null,
+    "accreditation": {
+      "dh et": "Accredited",
+      "saqa": null
+    },
+    "qualification_types": [
+      "NC(V)",
+      "Nated (Report 191)",
+      "Skills Programmes",
+      "Apprenticeships"
+    ]
+  },
+  "profile": {},
+  "contact": {
+    "emails": [
+      "info@taletsocollege.co.za",
+      "info@taletso.edu.za"
+    ],
+    "phone_numbers": [
+      "018 384 2349",
+      "018 384 2341",
+      "018 363 3170",
+      "0183842341",
+      "018 632 4317"
+    ],
+    "physical_address": "761 Setlogelo Drive, Montshiwa Unit 2, Mahikeng, 2790",
+    "postal_address": "Private Bag X128, Mmabatho, 2735",
+    "socials": {
+      "facebook": "https://www.facebook.com/taletsotvetcollege",
+      "instagram": "https://instagram.com/taletsotvetcollege?igshid=YmMyMTA2M2Y=",
+      "linkedin": "",
+      "x": "https://twitter.com/TaletsoTVET?t=OY9dj12Gd4jZ7FJDvJfo7w...",
+      "youtube": ""
+    }
+  },
+  "campuses": [],
+  "faculties": [],
+  "programmes": [],
+  "admission": {
+    "aps_name": null,
+    "aps_calculation_notes": null,
+    "minimum_aps_for_bachelors": null,
+    "minimum_aps_for_diplomas": null,
+    "minimum_entry_note": null,
+    "life_orientation_cap": null,
+    "aps_rules": [],
+    "programme_requirements": []
+  },
+  "sources": [
+    "generated/v3/institutions.enriched.json",
+    "institutions.json"
+  ],
+  "_stats": {
+    "campuses_count": 0,
+    "faculties_count": 0,
+    "programmes_count": 0,
+    "aps_rules_count": 0,
+    "adm_reqs_count": 0
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "institution_id": "360",
+    "slug": "umfolozi-tvet-college",
+    "name": "Umfolozi TVET College",
+    "institution_type": "tvet-college",
+    "province": "KwaZulu-Natal",
+    "city": "Richards Bay",
+    "official_website": "https://umfolozicollege.co.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/360/umfolozi-tvet-college",
+    "application_url": "https://umfolozi.coltech.co.za/Student/Login?ReturnUrl=/Student/Dashboard",
+    "prospectus_url": null,
+    "nsfas_supported": true,
+    "distance_learning": null,
+    "accreditation": {
+      "dh et": "Accredited",
+      "saqa": null
+    },
+    "qualification_types": [
+      "NC(V)",
+      "Nated (Report 191)",
+      "Skills Programmes",
+      "Apprenticeships"
+    ]
+  },
+  "profile": {},
+  "contact": {
+    "emails": [
+      "3900info@umfolozi.edu.zacentral",
+      "info@umfolozi.edu.za"
+    ],
+    "phone_numbers": [
+      "035 902 9501",
+      "035 902 9723",
+      "035 796 0803",
+      "035 795 1482",
+      "000 000 0000",
+      "032 459 2954",
+      "035 474 4022"
+    ],
+    "physical_address": "58 Naboomnek, Arboretum, Richards Bay, 3900",
+    "postal_address": "he postal address is Private Bag X 5023 Richards Bay, 3900",
+    "socials": {
+      "facebook": "https://www.facebook.com/umfolozitvetcollege/?_rdc=2&_rdr",
+      "instagram": "https://www.instagram.com/umfolozicollege/",
+      "linkedin": "",
+      "x": "https://twitter.com/umfolozicollege?lang=en",
+      "youtube": "https://www.youtube.com/channel/UCVOlqYd-FGReVT2fIoIDjIw"
+    }
+  },
+  "campuses": [],
+  "faculties": [
+    {
+      "id": null,
+      "name": "Higher EducationStart datesThis course has",
+      "overview": null,
+      "kind": null
+    },
+    {
+      "id": null,
+      "name": "Higher Education Start datesThis course has",
+      "overview": null,
+      "kind": null
+    }
+  ],
+  "programmes": [],
+  "admission": {
+    "aps_name": null,
+    "aps_calculation_notes": null,
+    "minimum_aps_for_bachelors": null,
+    "minimum_aps_for_diplomas": null,
+    "minimum_entry_note": null,
+    "life_orientation_cap": null,
+    "aps_rules": [],
+    "programme_requirements": []
+  },
+  "sources": [
+    "generated/v3/institutions.enriched.json",
+    "institutions.json"
+  ],
+  "_stats": {
+    "campuses_count": 0,
+    "faculties_count": 2,
+    "programmes_count": 0,
+    "aps_rules_count": 0,
+    "adm_reqs_count": 0
+  }
+}

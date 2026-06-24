@@ -1,0 +1,72 @@
+{
+  "institution": {
+    "id": "institution:waterberg-tvet-college",
+    "slug": "waterberg-tvet-college",
+    "institution_id_raw": "379",
+    "name": "Waterberg TVET College",
+    "institution_type": "tvet-college",
+    "city": "Mokopane",
+    "province": "",
+    "official_website": "https://www.waterbergcollege.co.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/379/waterberg-tvet-college",
+    "source_paths": [
+      "generated/v3/institutions.enriched.json",
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "sector": "higher education",
+      "city": "Mokopane",
+      "physical_address": "C/o Totius & Hooge Street, Mokopane",
+      "postal_address": "Private Bag X2449, Mokopane, 0600",
+      "contact_emails": [
+        "thabdata@waterbergcollege.co.za",
+        "mokopane@waterbergcollege.co.za",
+        "lebowakgomo@waterbergcollege.co.za",
+        "ttg@q0.ou",
+        "marketing@waterbergcollege.co.za",
+        "mahwelereng@waterbergcollege.co.za",
+        "d@sfkz.viktefyz"
+      ],
+      "contact_phone_numbers": [
+        "015 492 9000"
+      ],
+      "application_url": "https://waterbergcollege.co.za/application_process.php",
+      "socials": {
+        "facebook": "https://www.facebook.com/Waterberg-TVET-College-295966217197828/",
+        "instagram": "",
+        "linkedin": "",
+        "x": "",
+        "youtube": "https://www.youtube.com/channel/UCC83ZnitYF34XLjhfzg2WTg?view_as=subscriber"
+      },
+      "accreditation": {
+        "dh et": "Accredited",
+        "saqa": null
+      },
+      "sources": [
+        "https://nationalgovernment.co.za/units/view/379/waterberg-tvet-college",
+        "https://www.waterbergcollege.co.za/"
+      ],
+      "qualification_types": [
+        "NC(V)",
+        "Nated (Report 191)",
+        "Skills Programmes",
+        "Apprenticeships"
+      ],
+      "nsfas_supported": true,
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

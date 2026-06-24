@@ -1,0 +1,8 @@
+SOURCE: https://fundiconnect.co.za/institutions/vuselela-tvet-college/
+INSTITUTION: Vuselela TVET College
+SLUG: vuselela-tvet-college
+SCRAPED: 2026-05-27
+NOTE: Web-scraped programme and admission info. No official PDF exists.
+======================================================================
+
+Vuselela TVET College - Programs, Fees & NSFAS Funding 2026

@@ -1,0 +1,55 @@
+{
+  "institution": {
+    "id": "institution:culture-arts-tourism-hospitality-and-sport-sector-education-and-training-authority-cathsseta",
+    "slug": "culture-arts-tourism-hospitality-and-sport-sector-education-and-training-authority-cathsseta",
+    "institution_id_raw": "215",
+    "name": "Culture, Arts, Tourism, Hospitality and Sport Sector Education and Training Authority (CATHSSETA)",
+    "institution_type": "seta",
+    "city": "Midrand",
+    "province": "Gauteng",
+    "official_website": "https://cathsseta.org.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/215/culture-arts-tourism-hospitality-and-sport-sector-education-and-training-authority-cathsseta",
+    "source_paths": [
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "sector": "training",
+      "province": "Gauteng",
+      "city": "Midrand",
+      "physical_address": "270 George Road, Noordwyk, Midrand 1687",
+      "postal_address": "PO Box 1329, Rivonia, 2128",
+      "contact_phone_numbers": [
+        "011 217 0600"
+      ],
+      "socials": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": "",
+        "x": "",
+        "youtube": ""
+      },
+      "accreditation": {
+        "dh et": null,
+        "saqa": null
+      },
+      "sources": [
+        "https://nationalgovernment.co.za/units/view/215/culture-arts-tourism-hospitality-and-sport-sector-education-and-training-authority-cathsseta",
+        "https://cathsseta.org.za/"
+      ],
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

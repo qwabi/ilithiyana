@@ -1,0 +1,31 @@
+{
+  "institution": {
+    "institution_id": "243",
+    "name": "Manufacturing, Engineering and Related Services Sector Education and Training Authority (merSETA)",
+    "institution_type": "seta",
+    "city": "Johannesburg",
+    "province": "Gauteng",
+    "official_website": "https://www.merseta.org.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/243/manufacturing-engineering-and-related-services-sector-education-and-training-authority-merseta",
+    "source_paths": [
+      "generated/v3/institutions.enriched.json",
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

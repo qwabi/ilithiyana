@@ -1,0 +1,5 @@
+{"ts": 1779893371.916058, "institutionId": "324", "event": "preprocess_done", "matched_files": ["/Users/nonwork/dev/seo/ilithiyana/lib/seed/prospectuses/cape-peninsula-university-of-technology.pdf"], "chunks_created": 1, "skipped_chunk_reasons": []}
+{"ts": 1779893371.917491, "institutionId": "324", "event": "extract_done", "extracted_programmes_count": 0, "llm_calls": 0, "faculties_found": 0, "chunks_processed": 1}
+{"ts": 1779893371.9179351, "institutionId": "324", "event": "normalize_done", "faculties": 0, "programmes": 0}
+{"ts": 1779893371.9183218, "institutionId": "324", "event": "dedupe_done", "programmes_before": 0, "programmes_after": 0}
+{"ts": 1779893371.918711, "institutionId": "324", "event": "institution_pipeline_complete", "etlStatus": "no_programmes_extracted", "total_llm_calls_institution": 0}

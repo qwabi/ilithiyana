@@ -1,0 +1,2786 @@
+{
+  "institution": {
+    "id": "institution:ikhala-tvet-college",
+    "slug": "ikhala-tvet-college",
+    "institution_id_raw": "309",
+    "name": "Ikhala TVET College",
+    "institution_type": "tvet-college",
+    "city": "Queenstown",
+    "province": "Eastern Cape",
+    "official_website": "https://ikhala.edu.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/309/ikhala-tvet-college",
+    "source_paths": [
+      "generated/v3/institutions.enriched.json",
+      "institutions.json",
+      "result.json",
+      "workik/batch1/cursor/institution-309-ikhala-tvet-college.json",
+      "workik/batch1/online/ikhala.json",
+      "workik/batch1/online/ikhala2.json"
+    ],
+    "profile": {
+      "sector": "higher education",
+      "province": "Eastern Cape",
+      "city": "Queenstown",
+      "physical_address": "Zone D, Gwadana Drive, Ezibeleni, Queenstown, Eastern Cape, 5326",
+      "postal_address": "Private Bag X7110, Queenstown, 5320",
+      "contact_emails": [
+        "hr@ikhala.edu.za",
+        "palesa.beja@ikhala.edu.za",
+        "tvetmis1@ikhala.edu.za"
+      ],
+      "contact_phone_numbers": [
+        "045 873 8800",
+        "047 873 8900"
+      ],
+      "application_url": "https://ikhala.edu.za/students/re-admission-form-returning-students/",
+      "socials": {
+        "facebook": "https://www.facebook.com/profile.php?id=100063465323869",
+        "instagram": "https://www.instagram.com/ikhalatvetcollege?igsh=MXdhZGM5ZjlwdGxleA%3D%3D&utm_source=qr",
+        "linkedin": "https://www.linkedin.com/company/ikhala-public-tvet-college/",
+        "x": "https://x.com/IkhalaTVET",
+        "youtube": ""
+      },
+      "accreditation": {
+        "dh et": "Accredited",
+        "saqa": null
+      },
+      "sources": [
+        "https://nationalgovernment.co.za/units/view/309/ikhala-tvet-college",
+        "https://ikhala.edu.za/"
+      ],
+      "qualification_types": [
+        "NC(V)",
+        "Nated (Report 191)",
+        "Skills Programmes",
+        "Apprenticeships"
+      ],
+      "nsfas_supported": true,
+      "student_accommodation": true,
+      "short_name": ""
+    }
+  },
+  "campuses": [
+    {
+      "id": "campus:ikhala-tvet-college--ezibeleni",
+      "institution_slug": "ikhala-tvet-college",
+      "name": "Ezibeleni",
+      "city": "Queenstown",
+      "province": "Eastern Cape",
+      "is_main": true,
+      "source_paths": [
+        "workik/batch1/online/ikhala.json",
+        "workik/batch1/online/ikhala2.json"
+      ]
+    },
+    {
+      "id": "campus:ikhala-tvet-college--aliwal-north",
+      "institution_slug": "ikhala-tvet-college",
+      "name": "Aliwal North",
+      "city": "Aliwal North",
+      "province": "Eastern Cape",
+      "is_main": false,
+      "source_paths": [
+        "workik/batch1/online/ikhala.json",
+        "workik/batch1/online/ikhala2.json"
+      ]
+    },
+    {
+      "id": "campus:ikhala-tvet-college--komani",
+      "institution_slug": "ikhala-tvet-college",
+      "name": "Komani",
+      "city": "Queenstown",
+      "province": "Eastern Cape",
+      "is_main": false,
+      "source_paths": [
+        "workik/batch1/online/ikhala2.json"
+      ]
+    },
+    {
+      "id": "campus:ikhala-tvet-college--queen-nonesi",
+      "institution_slug": "ikhala-tvet-college",
+      "name": "Queen Nonesi",
+      "city": "Lady Frere",
+      "province": "Eastern Cape",
+      "is_main": false,
+      "source_paths": [
+        "workik/batch1/online/ikhala2.json"
+      ]
+    },
+    {
+      "id": "campus:ikhala-tvet-college--sterkspruit",
+      "institution_slug": "ikhala-tvet-college",
+      "name": "Sterkspruit",
+      "city": "Sterkspruit",
+      "province": "Eastern Cape",
+      "is_main": false,
+      "source_paths": [
+        "workik/batch1/online/ikhala2.json"
+      ]
+    }
+  ],
+  "faculties_best": [
+    {
+      "id": "faculty:ikhala-tvet-college--business-studies",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "Business Studies",
+      "kind": null,
+      "overview": "Focuses on NATED N4-N6 and NCV Business Management, Finance, and HR.",
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/ikhala2.json"
+      ]
+    },
+    {
+      "id": "faculty:ikhala-tvet-college--engineering-studies",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "Engineering Studies",
+      "kind": null,
+      "overview": "Includes NCV and NATED Electrical, Civil, and Mechanical Engineering.",
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/ikhala2.json"
+      ]
+    },
+    {
+      "id": "faculty:ikhala-tvet-college--utility-social-studies",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "Utility & Social Studies",
+      "kind": null,
+      "overview": "Covers Hospitality, Tourism, and Consumer Science.",
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/ikhala2.json"
+      ]
+    },
+    {
+      "id": "faculty:ikhala-tvet-college--occupational-training",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "Occupational Training",
+      "kind": null,
+      "overview": "Specialized skill-bearing certificates and workplace-integrated learning.",
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/ikhala2.json"
+      ]
+    }
+  ],
+  "faculties_all": [
+    {
+      "id": "faculty:ikhala-tvet-college--business-studies",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "Business Studies",
+      "kind": null,
+      "overview": "Focuses on NATED N4-N6 and NCV Business Management, Finance, and HR.",
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/ikhala2.json"
+      ]
+    },
+    {
+      "id": "faculty:ikhala-tvet-college--engineering-studies",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "Engineering Studies",
+      "kind": null,
+      "overview": "Includes NCV and NATED Electrical, Civil, and Mechanical Engineering.",
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/ikhala2.json"
+      ]
+    },
+    {
+      "id": "faculty:ikhala-tvet-college--utility-social-studies",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "Utility & Social Studies",
+      "kind": null,
+      "overview": "Covers Hospitality, Tourism, and Consumer Science.",
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/ikhala2.json"
+      ]
+    },
+    {
+      "id": "faculty:ikhala-tvet-college--occupational-training",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "Occupational Training",
+      "kind": null,
+      "overview": "Specialized skill-bearing certificates and workplace-integrated learning.",
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/ikhala2.json"
+      ]
+    }
+  ],
+  "programmes_best": [
+    {
+      "id": "programme:ikhala-tvet-college--report-191",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "Report 191",
+      "normalized_name": "Report 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Report 191",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--national-diploma",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "National Diploma",
+      "normalized_name": "National Diploma",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "National Diploma",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--ncv-level-4",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "NCV Level 4",
+      "normalized_name": "NCV Level 4",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NCV Level 4",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--nc-v-civil-engineering-and-building-construction",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "NC(V) Civil Engineering and Building Construction",
+      "normalized_name": "NC(V) Civil Engineering and Building Construction",
+      "qualification_type": "NC(V)",
+      "qualification_level": "NCV Level 2",
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 40
+        },
+        {
+          "subject": "English",
+          "minimum_percentage": 40
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": 0.9,
+      "source_paths": [
+        "workik/batch1/online/ikhala.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--business-management-n4-n6",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "Business Management N4-N6",
+      "normalized_name": "Business Management N4-N6",
+      "qualification_type": "NATED N1-N6",
+      "qualification_level": "N4",
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": 0.9,
+      "source_paths": [
+        "workik/batch1/online/ikhala.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--nc-v-civil-engineering-building-construction--ezibeleni",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "NC(V) Civil Engineering & Building Construction",
+      "normalized_name": "NC(V) Civil Engineering & Building Construction",
+      "qualification_type": "NC(V)",
+      "qualification_level": "NQF 2-4",
+      "faculty_name": null,
+      "campus": "Ezibeleni",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 40
+        },
+        {
+          "subject": "English",
+          "minimum_percentage": 40
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/ikhala2.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--nated-business-management--aliwal-north-komani",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "NATED Business Management",
+      "normalized_name": "NATED Business Management",
+      "qualification_type": "NATED",
+      "qualification_level": "N4-N6",
+      "faculty_name": null,
+      "campus": "Aliwal North / Komani",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "Accounting",
+          "notes": "Compulsory at Grade 12 level."
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/ikhala2.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--nc-v-electrical-infrastructure-construction--ezibeleni",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "NC(V) Electrical Infrastructure Construction",
+      "normalized_name": "NC(V) Electrical Infrastructure Construction",
+      "qualification_type": "NC(V)",
+      "qualification_level": "NQF 2-4",
+      "faculty_name": null,
+      "campus": "Ezibeleni",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 40
+        },
+        {
+          "subject": "English",
+          "minimum_percentage": 40
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/ikhala2.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--nated-farming-management-mechanization--queen-nonesi",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "NATED Farming Management & Mechanization",
+      "normalized_name": "NATED Farming Management & Mechanization",
+      "qualification_type": "NATED",
+      "qualification_level": "N4-N6",
+      "faculty_name": null,
+      "campus": "Queen Nonesi",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "Agriculture",
+          "notes": "Grade 12 Level required."
+        },
+        {
+          "subject": "Mathematics",
+          "notes": "Or Mathematical Literacy."
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/ikhala2.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--nc-v-finance-economics-accounting--ezibeleni",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "NC(V) Finance, Economics & Accounting",
+      "normalized_name": "NC(V) Finance, Economics & Accounting",
+      "qualification_type": "NC(V)",
+      "qualification_level": "NQF 2-4",
+      "faculty_name": null,
+      "campus": "Ezibeleni",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/ikhala2.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--nated-human-resource-management--aliwal-north-komani",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "NATED Human Resource Management",
+      "normalized_name": "NATED Human Resource Management",
+      "qualification_type": "NATED",
+      "qualification_level": "N4-N6",
+      "faculty_name": null,
+      "campus": "Aliwal North / Komani",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/ikhala2.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--nc-v-information-technology-computer-science--aliwal-north-ezibeleni-komani",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "NC(V) Information Technology & Computer Science",
+      "normalized_name": "NC(V) Information Technology & Computer Science",
+      "qualification_type": "NC(V)",
+      "qualification_level": "NQF 2-4",
+      "faculty_name": null,
+      "campus": "Aliwal North / Ezibeleni / Komani",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/ikhala2.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--nated-tourism--queen-nonesi",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "NATED Tourism",
+      "normalized_name": "NATED Tourism",
+      "qualification_type": "NATED",
+      "qualification_level": "N4-N6",
+      "faculty_name": null,
+      "campus": "Queen Nonesi",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/ikhala2.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--nc-v-hospitality--aliwal-north",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "NC(V) Hospitality",
+      "normalized_name": "NC(V) Hospitality",
+      "qualification_type": "NC(V)",
+      "qualification_level": "NQF 2-4",
+      "faculty_name": null,
+      "campus": "Aliwal North",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/ikhala2.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--nated-public-management--aliwal-north-komani-sterkspruit",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "NATED Public Management",
+      "normalized_name": "NATED Public Management",
+      "qualification_type": "NATED",
+      "qualification_level": "N4-N6",
+      "faculty_name": null,
+      "campus": "Aliwal North / Komani / Sterkspruit",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/ikhala2.json"
+      ]
+    }
+  ],
+  "programmes_all": [
+    {
+      "id": "programme:ikhala-tvet-college--report-191",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "Report 191",
+      "normalized_name": "Report 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Report 191",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--national-diploma",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "National Diploma",
+      "normalized_name": "National Diploma",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "National Diploma",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--report-191",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "Report 191",
+      "normalized_name": "Report 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Report 191",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--national-diploma",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "NATIONAL DIPLOMA",
+      "normalized_name": "NATIONAL DIPLOMA",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NATIONAL DIPLOMA",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--report-191",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "REPORT 191",
+      "normalized_name": "REPORT 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "REPORT 191",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--national-diploma",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "National Diploma",
+      "normalized_name": "National Diploma",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "National Diploma",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--report-191",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "Report 191",
+      "normalized_name": "Report 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Report 191",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--national-diploma",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "National Diploma",
+      "normalized_name": "National Diploma",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "National Diploma",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--report-191",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "Report 191",
+      "normalized_name": "Report 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Report 191",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--ncv-level-4",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "NCV Level 4",
+      "normalized_name": "NCV Level 4",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NCV Level 4",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--ncv-level-4",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "NCV Level 4",
+      "normalized_name": "NCV Level 4",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NCV Level 4",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--national-diploma",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "National Diploma",
+      "normalized_name": "National Diploma",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "National Diploma",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--report-191",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "Report 191",
+      "normalized_name": "Report 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Report 191",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--ncv-level-4",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "NCV Level 4",
+      "normalized_name": "NCV Level 4",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NCV Level 4",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--national-diploma",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "National Diploma",
+      "normalized_name": "National Diploma",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "National Diploma",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--report-191",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "Report 191",
+      "normalized_name": "Report 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Report 191",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--national-diploma",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "National Diploma",
+      "normalized_name": "National Diploma",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "National Diploma",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--report-191",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "Report 191",
+      "normalized_name": "Report 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Report 191",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--ncv-level-4",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "NCV Level 4",
+      "normalized_name": "NCV Level 4",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NCV Level 4",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--national-diploma",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "National Diploma",
+      "normalized_name": "National Diploma",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "National Diploma",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--report-191",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "Report 191",
+      "normalized_name": "Report 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Report 191",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--national-diploma",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "National Diploma",
+      "normalized_name": "National Diploma",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "National Diploma",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--report-191",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "Report 191",
+      "normalized_name": "Report 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Report 191",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--report-191",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "Report 191",
+      "normalized_name": "Report 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Report 191",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--national-diploma",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "National Diploma",
+      "normalized_name": "National Diploma",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "National Diploma",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--report-191",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "Report 191",
+      "normalized_name": "Report 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Report 191",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--national-diploma",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "National Diploma",
+      "normalized_name": "National Diploma",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "National Diploma",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--report-191",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "Report 191",
+      "normalized_name": "Report 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Report 191",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--national-diploma",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "National Diploma",
+      "normalized_name": "National Diploma",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "National Diploma",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--report-191",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "Report 191",
+      "normalized_name": "Report 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Report 191",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--national-diploma",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "National Diploma",
+      "normalized_name": "National Diploma",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "National Diploma",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--report-191",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "Report 191",
+      "normalized_name": "Report 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Report 191",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--national-diploma",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "National Diploma",
+      "normalized_name": "National Diploma",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "National Diploma",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--report-191",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "Report 191",
+      "normalized_name": "Report 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Report 191",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--national-diploma",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "National Diploma",
+      "normalized_name": "National Diploma",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "National Diploma",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--report-191",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "Report 191",
+      "normalized_name": "Report 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Report 191",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--national-diploma",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "NATIONAL DIPLOMA",
+      "normalized_name": "NATIONAL DIPLOMA",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NATIONAL DIPLOMA",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--national-diploma",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "National Diploma",
+      "normalized_name": "National Diploma",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "National Diploma",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--report-191",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "Report 191",
+      "normalized_name": "Report 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Report 191",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--national-diploma",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "National Diploma",
+      "normalized_name": "National Diploma",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "National Diploma",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--report-191",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "Report 191",
+      "normalized_name": "Report 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Report 191",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--national-diploma",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "National Diploma",
+      "normalized_name": "National Diploma",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "National Diploma",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--report-191",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "Report 191",
+      "normalized_name": "Report 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Report 191",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--national-diploma",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "National Diploma",
+      "normalized_name": "National Diploma",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "National Diploma",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--national-diploma",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "National Diploma",
+      "normalized_name": "National Diploma",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "National Diploma",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--report-191",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "Report 191",
+      "normalized_name": "Report 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Report 191",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--report-191",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "Report 191",
+      "normalized_name": "Report 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Report 191",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--national-diploma",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "National Diploma",
+      "normalized_name": "National Diploma",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "National Diploma",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--report-191",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "Report 191",
+      "normalized_name": "Report 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Report 191",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--national-diploma",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "National Diploma",
+      "normalized_name": "National Diploma",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "National Diploma",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--report-191",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "Report 191",
+      "normalized_name": "Report 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Report 191",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--national-diploma",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "National Diploma",
+      "normalized_name": "National Diploma",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "National Diploma",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--report-191",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "Report 191",
+      "normalized_name": "Report 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Report 191",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--national-diploma",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "National Diploma",
+      "normalized_name": "National Diploma",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "National Diploma",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--report-191",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "Report 191",
+      "normalized_name": "Report 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Report 191",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--national-diploma",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "National Diploma",
+      "normalized_name": "National Diploma",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "National Diploma",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--report-191",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "Report 191",
+      "normalized_name": "Report 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Report 191",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--national-diploma",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "National Diploma",
+      "normalized_name": "National Diploma",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "National Diploma",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--report-191",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "Report 191",
+      "normalized_name": "Report 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Report 191",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--national-diploma",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "NATIONAL DIPLOMA",
+      "normalized_name": "NATIONAL DIPLOMA",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "NATIONAL DIPLOMA",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--report-191",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "REPORT 191",
+      "normalized_name": "REPORT 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "REPORT 191",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--national-diploma",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "National Diploma",
+      "normalized_name": "National Diploma",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "National Diploma",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--report-191",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "Report 191",
+      "normalized_name": "Report 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Report 191",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--national-diploma",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "National Diploma",
+      "normalized_name": "National Diploma",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "National Diploma",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--report-191",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "Report 191",
+      "normalized_name": "Report 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Report 191",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--report-191",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "REPORT 191",
+      "normalized_name": "REPORT 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "REPORT 191",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--national-diploma",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "National Diploma",
+      "normalized_name": "National Diploma",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "National Diploma",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--report-191",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "Report 191",
+      "normalized_name": "Report 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Report 191",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--national-diploma",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "National Diploma",
+      "normalized_name": "National Diploma",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "National Diploma",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--report-191",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "Report 191",
+      "normalized_name": "Report 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Report 191",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--national-diploma",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "National Diploma",
+      "normalized_name": "National Diploma",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "National Diploma",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--report-191",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "Report 191",
+      "normalized_name": "Report 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Report 191",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--report-191",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "Report 191",
+      "normalized_name": "Report 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Report 191",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--national-diploma",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "National Diploma",
+      "normalized_name": "National Diploma",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "National Diploma",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--report-191",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "Report 191",
+      "normalized_name": "Report 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Report 191",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--national-diploma",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "National Diploma",
+      "normalized_name": "National Diploma",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "National Diploma",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--report-191",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "Report 191",
+      "normalized_name": "Report 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Report 191",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--national-diploma",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "National Diploma",
+      "normalized_name": "National Diploma",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "National Diploma",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--report-191",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "Report 191",
+      "normalized_name": "Report 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Report 191",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--national-diploma",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "National Diploma",
+      "normalized_name": "National Diploma",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "National Diploma",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--report-191",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "Report 191",
+      "normalized_name": "Report 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Report 191",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--national-diploma",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "National Diploma",
+      "normalized_name": "National Diploma",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "National Diploma",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--report-191",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "Report 191",
+      "normalized_name": "Report 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Report 191",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--national-diploma",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "National Diploma",
+      "normalized_name": "National Diploma",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "National Diploma",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--report-191",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "Report 191",
+      "normalized_name": "Report 191",
+      "qualification_type": "NATED",
+      "qualification_level": null,
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Report 191",
+      "extraction_confidence": 0.72,
+      "source_paths": [
+        "workik/batch1/cursor/institution-309-ikhala-tvet-college.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--nc-v-civil-engineering-and-building-construction",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "NC(V) Civil Engineering and Building Construction",
+      "normalized_name": "NC(V) Civil Engineering and Building Construction",
+      "qualification_type": "NC(V)",
+      "qualification_level": "NCV Level 2",
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 40
+        },
+        {
+          "subject": "English",
+          "minimum_percentage": 40
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": 0.9,
+      "source_paths": [
+        "workik/batch1/online/ikhala.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--business-management-n4-n6",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "Business Management N4-N6",
+      "normalized_name": "Business Management N4-N6",
+      "qualification_type": "NATED N1-N6",
+      "qualification_level": "N4",
+      "faculty_name": null,
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": 0.9,
+      "source_paths": [
+        "workik/batch1/online/ikhala.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--nc-v-civil-engineering-building-construction--ezibeleni",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "NC(V) Civil Engineering & Building Construction",
+      "normalized_name": "NC(V) Civil Engineering & Building Construction",
+      "qualification_type": "NC(V)",
+      "qualification_level": "NQF 2-4",
+      "faculty_name": null,
+      "campus": "Ezibeleni",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 40
+        },
+        {
+          "subject": "English",
+          "minimum_percentage": 40
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/ikhala2.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--nated-business-management--aliwal-north-komani",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "NATED Business Management",
+      "normalized_name": "NATED Business Management",
+      "qualification_type": "NATED",
+      "qualification_level": "N4-N6",
+      "faculty_name": null,
+      "campus": "Aliwal North / Komani",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "Accounting",
+          "notes": "Compulsory at Grade 12 level."
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/ikhala2.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--nc-v-electrical-infrastructure-construction--ezibeleni",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "NC(V) Electrical Infrastructure Construction",
+      "normalized_name": "NC(V) Electrical Infrastructure Construction",
+      "qualification_type": "NC(V)",
+      "qualification_level": "NQF 2-4",
+      "faculty_name": null,
+      "campus": "Ezibeleni",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "Mathematics",
+          "minimum_percentage": 40
+        },
+        {
+          "subject": "English",
+          "minimum_percentage": 40
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/ikhala2.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--nated-farming-management-mechanization--queen-nonesi",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "NATED Farming Management & Mechanization",
+      "normalized_name": "NATED Farming Management & Mechanization",
+      "qualification_type": "NATED",
+      "qualification_level": "N4-N6",
+      "faculty_name": null,
+      "campus": "Queen Nonesi",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [
+        {
+          "subject": "Agriculture",
+          "notes": "Grade 12 Level required."
+        },
+        {
+          "subject": "Mathematics",
+          "notes": "Or Mathematical Literacy."
+        }
+      ],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/ikhala2.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--nc-v-finance-economics-accounting--ezibeleni",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "NC(V) Finance, Economics & Accounting",
+      "normalized_name": "NC(V) Finance, Economics & Accounting",
+      "qualification_type": "NC(V)",
+      "qualification_level": "NQF 2-4",
+      "faculty_name": null,
+      "campus": "Ezibeleni",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/ikhala2.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--nated-human-resource-management--aliwal-north-komani",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "NATED Human Resource Management",
+      "normalized_name": "NATED Human Resource Management",
+      "qualification_type": "NATED",
+      "qualification_level": "N4-N6",
+      "faculty_name": null,
+      "campus": "Aliwal North / Komani",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/ikhala2.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--nc-v-information-technology-computer-science--aliwal-north-ezibeleni-komani",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "NC(V) Information Technology & Computer Science",
+      "normalized_name": "NC(V) Information Technology & Computer Science",
+      "qualification_type": "NC(V)",
+      "qualification_level": "NQF 2-4",
+      "faculty_name": null,
+      "campus": "Aliwal North / Ezibeleni / Komani",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/ikhala2.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--nated-tourism--queen-nonesi",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "NATED Tourism",
+      "normalized_name": "NATED Tourism",
+      "qualification_type": "NATED",
+      "qualification_level": "N4-N6",
+      "faculty_name": null,
+      "campus": "Queen Nonesi",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/ikhala2.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--nc-v-hospitality--aliwal-north",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "NC(V) Hospitality",
+      "normalized_name": "NC(V) Hospitality",
+      "qualification_type": "NC(V)",
+      "qualification_level": "NQF 2-4",
+      "faculty_name": null,
+      "campus": "Aliwal North",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/ikhala2.json"
+      ]
+    },
+    {
+      "id": "programme:ikhala-tvet-college--nated-public-management--aliwal-north-komani-sterkspruit",
+      "institution_slug": "ikhala-tvet-college",
+      "institution_name": "Ikhala TVET College",
+      "name": "NATED Public Management",
+      "normalized_name": "NATED Public Management",
+      "qualification_type": "NATED",
+      "qualification_level": "N4-N6",
+      "faculty_name": null,
+      "campus": "Aliwal North / Komani / Sterkspruit",
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": null,
+      "extraction_confidence": null,
+      "source_paths": [
+        "workik/batch1/online/ikhala2.json"
+      ]
+    }
+  ],
+  "counts": {
+    "campuses": 5,
+    "faculties_best": 4,
+    "faculties_all": 4,
+    "programmes_best": 15,
+    "programmes_all": 97
+  }
+}

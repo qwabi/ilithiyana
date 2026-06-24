@@ -1,0 +1,74 @@
+{
+  "institution": {
+    "id": "institution:services-sector-education-and-training-authority-sseta",
+    "slug": "services-sector-education-and-training-authority-sseta",
+    "institution_id_raw": "277",
+    "name": "Services Sector Education and Training Authority (SSETA)",
+    "institution_type": "seta",
+    "city": "Johannesburg",
+    "province": "Gauteng",
+    "official_website": "https://www.servicesseta.org.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/277/services-sector-education-and-training-authority-sseta",
+    "source_paths": [
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "sector": "training",
+      "province": "Gauteng",
+      "city": "Johannesburg",
+      "physical_address": "15 Sherborne Road, Parktown, Johannesburg",
+      "postal_address": "PO Box 3322, Houghton, Johannesburg, 2193",
+      "contact_emails": [
+        "08mary-annp@serviceseta.org.za",
+        "2792hlengiwed@serviceseta.org.za",
+        "2282melisac@serviceseta.org.za",
+        "2266ecprovince@serviceseta.org.za",
+        "customercare@serviceseta.org.za",
+        "wspdocs@serviceseta.org.za",
+        "2644roelofvr@serviceseta.org.za",
+        "gautengpo@serviceseta.org.za",
+        "roelofvr@serviceseta.org.za",
+        "serviceseta.org.zawspdocs@serviceseta.org.zawspdocs",
+        "wspdocs@serviceseta.org.zawspdocs",
+        "2639melisac@serviceseta.org.za",
+        "ecprovince@serviceseta.org.za"
+      ],
+      "contact_phone_numbers": [
+        "0872832802",
+        "0116948681",
+        "011 276 9600",
+        "0112769647"
+      ],
+      "application_url": "https://dgportal.servicesseta.org.za/dg/",
+      "socials": {
+        "facebook": "https://www.facebook.com/ServicesSETA?mibextid=LQQJ4d",
+        "instagram": "https://www.instagram.com/servicesseta_/",
+        "linkedin": "https://za.linkedin.com/company/services-seta",
+        "x": "https://twitter.com/serviceseta?lang=en",
+        "youtube": "https://www.youtube.com/channel/UCIQ6dfIcFXBNtUUqiKdM85g"
+      },
+      "accreditation": {
+        "dh et": null,
+        "saqa": null
+      },
+      "sources": [
+        "https://nationalgovernment.co.za/units/view/277/services-sector-education-and-training-authority-sseta",
+        "https://www.servicesseta.org.za/"
+      ],
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

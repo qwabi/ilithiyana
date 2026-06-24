@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "institution_id": "340",
+    "slug": "lephalale-tvet-college",
+    "name": "Lephalale TVET College",
+    "institution_type": "tvet-college",
+    "province": null,
+    "city": "Onverwacht",
+    "official_website": "http://leptvetcol.edu.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/340/lephalale-tvet-college",
+    "application_url": null,
+    "prospectus_url": null,
+    "nsfas_supported": null,
+    "distance_learning": null,
+    "accreditation": {
+      "dh et": "Accredited",
+      "saqa": null
+    },
+    "qualification_types": [
+      "NC(V)",
+      "Nated (Report 191)",
+      "Skills Programmes",
+      "Apprenticeships"
+    ]
+  },
+  "profile": {},
+  "contact": {
+    "phone_numbers": [
+      "014 763 2252/1014"
+    ],
+    "physical_address": "Cnr Nelson Mandela & Ngwako Ramatlhodi Street, Onverwacht",
+    "postal_address": "Private Bag X210, Lephalale, 0555",
+    "socials": {
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "x": "",
+      "youtube": ""
+    }
+  },
+  "campuses": [],
+  "faculties": [],
+  "programmes": [],
+  "admission": {
+    "aps_name": null,
+    "aps_calculation_notes": null,
+    "minimum_aps_for_bachelors": null,
+    "minimum_aps_for_diplomas": null,
+    "minimum_entry_note": null,
+    "life_orientation_cap": null,
+    "aps_rules": [],
+    "programme_requirements": []
+  },
+  "sources": [
+    "generated/v3/institutions.enriched.json",
+    "institutions.json"
+  ],
+  "_stats": {
+    "campuses_count": 0,
+    "faculties_count": 0,
+    "programmes_count": 0,
+    "aps_rules_count": 0,
+    "adm_reqs_count": 0
+  }
+}

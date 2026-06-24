@@ -1,0 +1,88 @@
+{
+  "institution_id": "wsu",
+  "institution_name": "Walter Sisulu University",
+  "faculties": [
+    {
+      "name": "Economic & Financial Sciences",
+      "overview": "Focuses on accounting, auditing, and management accounting (SAICA accredited)."
+    },
+    {
+      "name": "Engineering, Built Environment & IT",
+      "overview": "Offers diplomas and advanced diplomas in core engineering and ICT fields."
+    },
+    {
+      "name": "Education",
+      "overview": "The largest faculty, preparing teachers for Foundation to FET phases."
+    },
+    {
+      "name": "Law, Humanities & Social Sciences",
+      "overview": "Covers Law (LLB), Social Work, Psychology, and Visual Arts."
+    },
+    {
+      "name": "Medicine & Health Sciences",
+      "overview": "Offers MBChB, Nursing, and Medical Orthotics."
+    }
+  ],
+  "programmes": [
+    {
+      "name": "Bachelor of Accounting Science",
+      "code": "W63009",
+      "min_aps": 27,
+      "subjects": "English (5), Math (4)"
+    },
+    {
+      "name": "Diploma in Civil Engineering",
+      "code": "W60003",
+      "min_aps": 24,
+      "subjects": "English (4), Math (4), PhysSci (4)"
+    },
+    {
+      "name": "Bachelor of Laws (LLB)",
+      "code": "W66021",
+      "min_aps": 26,
+      "subjects": "English (5), Math (3) or ML (4)"
+    },
+    {
+      "name": "Bachelor of Education (Foundation Phase)",
+      "code": "W62006",
+      "min_aps": 24,
+      "subjects": "IsiXhosa (4), English (4), Math (2) or ML (4)"
+    },
+    {
+      "name": "Bachelor of Medicine & Bachelor of Surgery (MBChB)",
+      "code": "W65006",
+      "min_aps": 30,
+      "subjects": "English, Math, PhysSci, LifeSci (all level 5)"
+    },
+    {
+      "name": "Diploma in Information Technology (App Dev)",
+      "code": "W60009",
+      "min_aps": 22,
+      "subjects": "English (4), Math (3) or ML (5)"
+    },
+    {
+      "name": "Bachelor of Social Work",
+      "code": "W66023",
+      "min_aps": 26,
+      "subjects": "English (4), African Lang (5), LifeSci (4)"
+    },
+    {
+      "name": "Diploma in Hospitality Management",
+      "code": "W61003",
+      "min_aps": 21,
+      "subjects": "English (4), Math (3) or ML (4)"
+    },
+    {
+      "name": "Bachelor of Nursing",
+      "code": "W65004",
+      "min_aps": 24,
+      "subjects": "English (4), Math (4), PhysSci (4), LifeSci (4)"
+    },
+    {
+      "name": "BSc in Computer Science",
+      "code": "W64015",
+      "min_aps": 25,
+      "subjects": "English (4), Math (5), PhysSci (4)"
+    }
+  ]
+}

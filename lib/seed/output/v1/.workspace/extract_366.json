@@ -1,0 +1,4254 @@
+{
+  "faculties": [
+    {
+      "institutionId": "366",
+      "name": "HEALTH SCIENCES ........................................................................................................... 11",
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 1233,
+        "char_end": 1370,
+        "excerpt": "FACULTY OF HEALTH SCIENCES ........................................................................................................... 11"
+      },
+      "normalization_key": "faculty|health sciences ........................................................................................................... 11"
+    },
+    {
+      "institutionId": "366",
+      "name": "HEALTH CARE SCIENCES ............................................................................................................ 11",
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 1371,
+        "char_end": 1513,
+        "excerpt": "SCHOOL OF HEALTH CARE SCIENCES ............................................................................................................ 11"
+      },
+      "normalization_key": "faculty|health care sciences ............................................................................................................ 11"
+    },
+    {
+      "institutionId": "366",
+      "name": "MEDICINE .................................................................................................................................. 16",
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 1514,
+        "char_end": 1666,
+        "excerpt": "SCHOOL OF MEDICINE .................................................................................................................................. 16"
+      },
+      "normalization_key": "faculty|medicine .................................................................................................................................. 16"
+    },
+    {
+      "institutionId": "366",
+      "name": "HUMANITIES .................................................................................................................. 20",
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 1667,
+        "char_end": 1806,
+        "excerpt": "FACULTY OF HUMANITIES .................................................................................................................. 20"
+      },
+      "normalization_key": "faculty|humanities .................................................................................................................. 20"
+    },
+    {
+      "institutionId": "366",
+      "name": "EDUCATION ............................................................................................................................... 20",
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 1807,
+        "char_end": 1957,
+        "excerpt": "SCHOOL OF EDUCATION ............................................................................................................................... 20"
+      },
+      "normalization_key": "faculty|education ............................................................................................................................... 20"
+    },
+    {
+      "institutionId": "366",
+      "name": "LANGUAGES & COMMUNICATION STUDIES ............................................................................. 28",
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 1958,
+        "char_end": 2082,
+        "excerpt": "SCHOOL OF LANGUAGES & COMMUNICATION STUDIES ............................................................................. 28"
+      },
+      "normalization_key": "faculty|languages & communication studies ............................................................................. 28"
+    },
+    {
+      "institutionId": "366",
+      "name": "SOCIAL SCIENCES ....................................................................................................................... 32",
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 2083,
+        "char_end": 2231,
+        "excerpt": "SCHOOL OF SOCIAL SCIENCES ....................................................................................................................... 32"
+      },
+      "normalization_key": "faculty|social sciences ....................................................................................................................... 32"
+    },
+    {
+      "institutionId": "366",
+      "name": "MANAGEMENT & LAW.................................................................................................... 35",
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 2232,
+        "char_end": 2362,
+        "excerpt": "FACULTY OF MANAGEMENT & LAW.................................................................................................... 35"
+      },
+      "normalization_key": "faculty|management & law.................................................................................................... 35"
+    },
+    {
+      "institutionId": "366",
+      "name": "ACCOUNTANCY .......................................................................................................................... 35",
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 2363,
+        "char_end": 2510,
+        "excerpt": "SCHOOL OF ACCOUNTANCY .......................................................................................................................... 35"
+      },
+      "normalization_key": "faculty|accountancy .......................................................................................................................... 35"
+    },
+    {
+      "institutionId": "366",
+      "name": "ECONOMICS & MANAGEMENT ................................................................................................. 37",
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 2511,
+        "char_end": 2644,
+        "excerpt": "SCHOOL OF ECONOMICS & MANAGEMENT ................................................................................................. 37"
+      },
+      "normalization_key": "faculty|economics & management ................................................................................................. 37"
+    },
+    {
+      "institutionId": "366",
+      "name": "LAW ........................................................................................................................................... 41",
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 2645,
+        "char_end": 2801,
+        "excerpt": "SCHOOL OF LAW ........................................................................................................................................... 41"
+      },
+      "normalization_key": "faculty|law ........................................................................................................................................... 41"
+    },
+    {
+      "institutionId": "366",
+      "name": "SCIENCE & AGRICULTURE ................................................................................................ 45",
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 2934,
+        "char_end": 3066,
+        "excerpt": "FACULTY OF SCIENCE & AGRICULTURE ................................................................................................ 45"
+      },
+      "normalization_key": "faculty|science & agriculture ................................................................................................ 45"
+    },
+    {
+      "institutionId": "366",
+      "name": "AGRICULTURAL & ENVIRONMENTAL SCIENCES ........................................................................ 45",
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 3067,
+        "char_end": 3190,
+        "excerpt": "SCHOOL OF AGRICULTURAL & ENVIRONMENTAL SCIENCES ........................................................................ 45"
+      },
+      "normalization_key": "faculty|agricultural & environmental sciences ........................................................................ 45"
+    },
+    {
+      "institutionId": "366",
+      "name": "MATHEMATICAL & COMPUTER SCIENCES ................................................................................ 50",
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 3191,
+        "char_end": 3317,
+        "excerpt": "SCHOOL OF MATHEMATICAL & COMPUTER SCIENCES ................................................................................ 50"
+      },
+      "normalization_key": "faculty|mathematical & computer sciences ................................................................................ 50"
+    },
+    {
+      "institutionId": "366",
+      "name": "MOLECULAR & LIFE SCIENCES ................................................................................................... 53",
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 3318,
+        "char_end": 3456,
+        "excerpt": "SCHOOL OF MOLECULAR & LIFE SCIENCES ................................................................................................... 53"
+      },
+      "normalization_key": "faculty|molecular & life sciences ................................................................................................... 53"
+    },
+    {
+      "institutionId": "366",
+      "name": "PHYSICAL & MINERAL SCIENCES ............................................................................................... 55",
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 3457,
+        "char_end": 3593,
+        "excerpt": "SCHOOL OF PHYSICAL & MINERAL SCIENCES ............................................................................................... 55"
+      },
+      "normalization_key": "faculty|physical & mineral sciences ............................................................................................... 55"
+    },
+    {
+      "institutionId": "366",
+      "name": "MANAGEMENT AND LAW",
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 5274,
+        "char_end": 5303,
+        "excerpt": "FACULTY OF MANAGEMENT AND LAW"
+      },
+      "normalization_key": "faculty|management and law"
+    },
+    {
+      "institutionId": "366",
+      "name": "SCIENCE AND AGRICULTURE",
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 5734,
+        "char_end": 5768,
+        "excerpt": "FACULTY OF SCIENCE AND AGRICULTURE"
+      },
+      "normalization_key": "faculty|science and agriculture"
+    },
+    {
+      "institutionId": "366",
+      "name": "Agricultural and",
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 5894,
+        "char_end": 5920,
+        "excerpt": "School of Agricultural and"
+      },
+      "normalization_key": "faculty|agricultural and"
+    },
+    {
+      "institutionId": "366",
+      "name": "Computational and",
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 5984,
+        "char_end": 6011,
+        "excerpt": "School of Computational and"
+      },
+      "normalization_key": "faculty|computational and"
+    },
+    {
+      "institutionId": "366",
+      "name": "HEALTH SCIENCES",
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 6234,
+        "char_end": 6260,
+        "excerpt": "FACULTY OF HEALTH SCIENCES"
+      },
+      "normalization_key": "faculty|health sciences"
+    },
+    {
+      "institutionId": "366",
+      "name": "Health Care Sciences +27 (015) 268 4311 / 2349 SHCS@ul.ac.za",
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 6453,
+        "char_end": 6523,
+        "excerpt": "School of Health Care Sciences +27 (015) 268 4311 / 2349 SHCS@ul.ac.za"
+      },
+      "normalization_key": "faculty|health care sciences +27 (015) 268 4311 / 2349 shcs@ul.ac.za"
+    },
+    {
+      "institutionId": "366",
+      "name": "MEDICINE",
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 22516,
+        "char_end": 22534,
+        "excerpt": "SCHOOL OF MEDICINE"
+      },
+      "normalization_key": "faculty|medicine"
+    },
+    {
+      "institutionId": "366",
+      "name": "SOCIAL SCIENCES",
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 42633,
+        "char_end": 42658,
+        "excerpt": "SCHOOL OF SOCIAL SCIENCES"
+      },
+      "normalization_key": "faculty|social sciences"
+    },
+    {
+      "institutionId": "366",
+      "name": "MATHEMATICAL & COMPUTER SCIENCES",
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 63144,
+        "char_end": 63186,
+        "excerpt": "SCHOOL OF MATHEMATICAL & COMPUTER SCIENCES"
+      },
+      "normalization_key": "faculty|mathematical & computer sciences"
+    }
+  ],
+  "programmes": [
+    {
+      "id": "prog:366:Postgraduate|c9e180444e22|honours or postgraduate diploma level",
+      "institutionId": "366",
+      "name": "Honours or Postgraduate Diploma level",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 8481,
+        "char_end": 8518,
+        "excerpt": "Honours or Postgraduate Diploma level"
+      },
+      "normalization_key": "Postgraduate|c9e180444e22|honours or postgraduate diploma level"
+    },
+    {
+      "id": "prog:366:Postgraduate|fde3b63130bc|honours degree studies",
+      "institutionId": "366",
+      "name": "HONOURS DEGREE STUDIES",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 12588,
+        "char_end": 12610,
+        "excerpt": "HONOURS DEGREE STUDIES"
+      },
+      "normalization_key": "Postgraduate|fde3b63130bc|honours degree studies"
+    },
+    {
+      "id": "prog:366:Postgraduate|f700a2de8cad|honours bachelor’s degree or equivalent.",
+      "institutionId": "366",
+      "name": "honours bachelor’s degree or equivalent.",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 13236,
+        "char_end": 13276,
+        "excerpt": "honours bachelor’s degree or equivalent."
+      },
+      "normalization_key": "Postgraduate|f700a2de8cad|honours bachelor’s degree or equivalent."
+    },
+    {
+      "id": "prog:366:Postgraduate|f0d5eaee1f4b|honours degree.",
+      "institutionId": "366",
+      "name": "honours degree.",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 13612,
+        "char_end": 13627,
+        "excerpt": "honours degree."
+      },
+      "normalization_key": "Postgraduate|f0d5eaee1f4b|honours degree."
+    },
+    {
+      "id": "prog:366:Postgraduate|8a5c7a97b36b|honours levels.",
+      "institutionId": "366",
+      "name": "Honours levels.",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 14713,
+        "char_end": 14728,
+        "excerpt": "Honours levels."
+      },
+      "normalization_key": "Postgraduate|8a5c7a97b36b|honours levels."
+    },
+    {
+      "id": "prog:366:Postgraduate|0c1b8de468e4|honours and postgraduate diploma/certificate students",
+      "institutionId": "366",
+      "name": "Honours and Postgraduate Diploma/Certificate students",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 16028,
+        "char_end": 16081,
+        "excerpt": "Honours and Postgraduate Diploma/Certificate students"
+      },
+      "normalization_key": "Postgraduate|0c1b8de468e4|honours and postgraduate diploma/certificate students"
+    },
+    {
+      "id": "prog:366:Diploma|35935b68aca9|diploma in health promotion (pgdip (health promotion))",
+      "institutionId": "366",
+      "name": "Diploma in Health Promotion (PGDip (Health Promotion))",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 16760,
+        "char_end": 16814,
+        "excerpt": "Diploma in Health Promotion (PGDip (Health Promotion))"
+      },
+      "normalization_key": "Diploma|35935b68aca9|diploma in health promotion (pgdip (health promotion))"
+    },
+    {
+      "id": "prog:366:Diploma|03aa3fbf323f|diploma in health promotion is an action-learning based full-time one-year",
+      "institutionId": "366",
+      "name": "Diploma in Health Promotion is an action-learning based full-time one-year",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 17601,
+        "char_end": 17675,
+        "excerpt": "Diploma in Health Promotion is an action-learning based full-time one-year"
+      },
+      "normalization_key": "Diploma|03aa3fbf323f|diploma in health promotion is an action-learning based full-time one-year"
+    },
+    {
+      "id": "prog:366:Postgraduate|9c1193af5b7b|master of nursing (mnurs)",
+      "institutionId": "366",
+      "name": "Master of Nursing (MNurs)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 18568,
+        "char_end": 18593,
+        "excerpt": "Master of Nursing (MNurs)"
+      },
+      "normalization_key": "Postgraduate|9c1193af5b7b|master of nursing (mnurs)"
+    },
+    {
+      "id": "prog:366:Postgraduate|450d435aa16c|honours degree in nursing (or equivalent).",
+      "institutionId": "366",
+      "name": "Honours degree in nursing (or equivalent).",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 18882,
+        "char_end": 18924,
+        "excerpt": "Honours degree in nursing (or equivalent)."
+      },
+      "normalization_key": "Postgraduate|450d435aa16c|honours degree in nursing (or equivalent)."
+    },
+    {
+      "id": "prog:366:Postgraduate|2506e5b00a3f|master of science in dietetics (msc (dietetics))",
+      "institutionId": "366",
+      "name": "Master of Science in Dietetics (MSc (Dietetics))",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 19386,
+        "char_end": 19434,
+        "excerpt": "Master of Science in Dietetics (MSc (Dietetics))"
+      },
+      "normalization_key": "Postgraduate|2506e5b00a3f|master of science in dietetics (msc (dietetics))"
+    },
+    {
+      "id": "prog:366:Postgraduate|9d025d501242|master of optometry (moptom)",
+      "institutionId": "366",
+      "name": "Master of Optometry (MOptom)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 20032,
+        "char_end": 20060,
+        "excerpt": "Master of Optometry (MOptom)"
+      },
+      "normalization_key": "Postgraduate|9d025d501242|master of optometry (moptom)"
+    },
+    {
+      "id": "prog:366:Degree|b68c57dc47ee|bachelor of optom etry",
+      "institutionId": "366",
+      "name": "Bachelor of Optom etry",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 20278,
+        "char_end": 20300,
+        "excerpt": "Bachelor of Optom etry"
+      },
+      "normalization_key": "Degree|b68c57dc47ee|bachelor of optom etry"
+    },
+    {
+      "id": "prog:366:Postgraduate|a73b8c7a3d31|master of pharmacy (mpharm)",
+      "institutionId": "366",
+      "name": "Master of Pharmacy (MPharm)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 20637,
+        "char_end": 20664,
+        "excerpt": "Master of Pharmacy (MPharm)"
+      },
+      "normalization_key": "Postgraduate|a73b8c7a3d31|master of pharmacy (mpharm)"
+    },
+    {
+      "id": "prog:366:Postgraduate|eedea9d9de12|phd)",
+      "institutionId": "366",
+      "name": "PhD)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 21297,
+        "char_end": 21301,
+        "excerpt": "PhD)"
+      },
+      "normalization_key": "Postgraduate|eedea9d9de12|phd)"
+    },
+    {
+      "id": "prog:366:Postgraduate|fe5ff7ffe334|master of science in medical sciences (msc (medical sciences))",
+      "institutionId": "366",
+      "name": "Master of Science in Medical Sciences (MSc (Medical Sciences))",
+      "qualification_type": "Postgraduate",
+      "faculty": "MEDICINE",
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 22535,
+        "char_end": 22597,
+        "excerpt": "Master of Science in Medical Sciences (MSc (Medical Sciences))"
+      },
+      "normalization_key": "Postgraduate|fe5ff7ffe334|master of science in medical sciences (msc (medical sciences))"
+    },
+    {
+      "id": "prog:366:Postgraduate|dd2a51877037|master of public health (mph)",
+      "institutionId": "366",
+      "name": "Master of Public Health (MPH)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 23105,
+        "char_end": 23134,
+        "excerpt": "Master of Public Health (MPH)"
+      },
+      "normalization_key": "Postgraduate|dd2a51877037|master of public health (mph)"
+    },
+    {
+      "id": "prog:366:Postgraduate|4492c34ce0ef|honours degree or equivalent.",
+      "institutionId": "366",
+      "name": "Honours degree or equivalent.",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 23347,
+        "char_end": 23376,
+        "excerpt": "Honours degree or equivalent."
+      },
+      "normalization_key": "Postgraduate|4492c34ce0ef|honours degree or equivalent."
+    },
+    {
+      "id": "prog:366:Postgraduate|68127c54a5a3|master of public health, any of the following may be admitted as",
+      "institutionId": "366",
+      "name": "Master of Public Health, any of the following may be admitted as",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 23547,
+        "char_end": 23611,
+        "excerpt": "Master of Public Health, any of the following may be admitted as"
+      },
+      "normalization_key": "Postgraduate|68127c54a5a3|master of public health, any of the following may be admitted as"
+    },
+    {
+      "id": "prog:366:Postgraduate|2cd3b807427c|bachelor of arts or sciences with honours in nursing,",
+      "institutionId": "366",
+      "name": "Bachelor of Arts or Sciences with Honours in Nursing,",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 23655,
+        "char_end": 23708,
+        "excerpt": "Bachelor of Arts or Sciences with Honours in Nursing,"
+      },
+      "normalization_key": "Postgraduate|2cd3b807427c|bachelor of arts or sciences with honours in nursing,"
+    },
+    {
+      "id": "prog:366:Postgraduate|13facf723645|master of medicine",
+      "institutionId": "366",
+      "name": "MASTER OF MEDICINE",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 24491,
+        "char_end": 24509,
+        "excerpt": "MASTER OF MEDICINE"
+      },
+      "normalization_key": "Postgraduate|13facf723645|master of medicine"
+    },
+    {
+      "id": "prog:366:Postgraduate|365b8b080062|master of medicine in anaesthesiology (mmed (anaesthesiology))",
+      "institutionId": "366",
+      "name": "Master of Medicine in Anaesthesiology (MMed (Anaesthesiology))",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 24536,
+        "char_end": 24598,
+        "excerpt": "Master of Medicine in Anaesthesiology (MMed (Anaesthesiology))"
+      },
+      "normalization_key": "Postgraduate|365b8b080062|master of medicine in anaesthesiology (mmed (anaesthesiology))"
+    },
+    {
+      "id": "prog:366:Postgraduate|dfc3f11b7159|master of medicine in dermatology (mmed (dermatology))",
+      "institutionId": "366",
+      "name": "Master of Medicine in Dermatology (MMed (Dermatology))",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 24599,
+        "char_end": 24653,
+        "excerpt": "Master of Medicine in Dermatology (MMed (Dermatology))"
+      },
+      "normalization_key": "Postgraduate|dfc3f11b7159|master of medicine in dermatology (mmed (dermatology))"
+    },
+    {
+      "id": "prog:366:Postgraduate|ccde111972d6|master of medicine in diagnostic radiography (mmed (diagnostic radiography))",
+      "institutionId": "366",
+      "name": "Master of Medicine in Diagnostic Radiography (MMed (Diagnostic Radiography))",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 24654,
+        "char_end": 24730,
+        "excerpt": "Master of Medicine in Diagnostic Radiography (MMed (Diagnostic Radiography))"
+      },
+      "normalization_key": "Postgraduate|ccde111972d6|master of medicine in diagnostic radiography (mmed (diagnostic radiography))"
+    },
+    {
+      "id": "prog:366:Postgraduate|2ec9b246b536|master of medicine in family medicine (mmed (family medicine))",
+      "institutionId": "366",
+      "name": "Master of Medicine in Family Medicine (MMed (Family Medicine))",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 24731,
+        "char_end": 24793,
+        "excerpt": "Master of Medicine in Family Medicine (MMed (Family Medicine))"
+      },
+      "normalization_key": "Postgraduate|2ec9b246b536|master of medicine in family medicine (mmed (family medicine))"
+    },
+    {
+      "id": "prog:366:Postgraduate|5f2576606986|master of medicine in forensic pathology (mmed (forensic pathology))",
+      "institutionId": "366",
+      "name": "Master of Medicine in Forensic Pathology (MMed (Forensic Pathology))",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 24794,
+        "char_end": 24862,
+        "excerpt": "Master of Medicine in Forensic Pathology (MMed (Forensic Pathology))"
+      },
+      "normalization_key": "Postgraduate|5f2576606986|master of medicine in forensic pathology (mmed (forensic pathology))"
+    },
+    {
+      "id": "prog:366:Postgraduate|d7b17d7f8fbf|master of medicine in internal medicine (mmed (internal medicine))",
+      "institutionId": "366",
+      "name": "Master of Medicine in Internal Medicine (MMed (Internal Medicine))",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 24863,
+        "char_end": 24929,
+        "excerpt": "Master of Medicine in Internal Medicine (MMed (Internal Medicine))"
+      },
+      "normalization_key": "Postgraduate|d7b17d7f8fbf|master of medicine in internal medicine (mmed (internal medicine))"
+    },
+    {
+      "id": "prog:366:Postgraduate|a58e2406e675|master of medicine in nuclear medicine (mmed (nuclear medicine))",
+      "institutionId": "366",
+      "name": "Master of Medicine in Nuclear Medicine (MMed (Nuclear Medicine))",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 24930,
+        "char_end": 24994,
+        "excerpt": "Master of Medicine in Nuclear Medicine (MMed (Nuclear Medicine))"
+      },
+      "normalization_key": "Postgraduate|a58e2406e675|master of medicine in nuclear medicine (mmed (nuclear medicine))"
+    },
+    {
+      "id": "prog:366:Postgraduate|ac1f07bed3c2|master of medicine in obstetrics & gynaecology (mmed (obstetrics & gynaecology))",
+      "institutionId": "366",
+      "name": "Master of Medicine in Obstetrics & Gynaecology (MMed (Obstetrics & Gynaecology))",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 24995,
+        "char_end": 25075,
+        "excerpt": "Master of Medicine in Obstetrics & Gynaecology (MMed (Obstetrics & Gynaecology))"
+      },
+      "normalization_key": "Postgraduate|ac1f07bed3c2|master of medicine in obstetrics & gynaecology (mmed (obstetrics & gynaecology))"
+    },
+    {
+      "id": "prog:366:Postgraduate|73ccb355ed59|master of medicine in ophthalmology (mmed (ophthalmology))",
+      "institutionId": "366",
+      "name": "Master of Medicine in Ophthalmology (MMed (Ophthalmology))",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 25076,
+        "char_end": 25134,
+        "excerpt": "Master of Medicine in Ophthalmology (MMed (Ophthalmology))"
+      },
+      "normalization_key": "Postgraduate|73ccb355ed59|master of medicine in ophthalmology (mmed (ophthalmology))"
+    },
+    {
+      "id": "prog:366:Postgraduate|a84f410f51a3|master of medicine in otorhinolaryngology (mmed (otorhinolaryngology))",
+      "institutionId": "366",
+      "name": "Master of Medicine in Otorhinolaryngology (MMed (Otorhinolaryngology))",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 25135,
+        "char_end": 25205,
+        "excerpt": "Master of Medicine in Otorhinolaryngology (MMed (Otorhinolaryngology))"
+      },
+      "normalization_key": "Postgraduate|a84f410f51a3|master of medicine in otorhinolaryngology (mmed (otorhinolaryngology))"
+    },
+    {
+      "id": "prog:366:Postgraduate|aca73249ecd4|master of medicine in paediatrics & child health (mmed (paediatrics & child heal",
+      "institutionId": "366",
+      "name": "Master of Medicine in Paediatrics & Child Health (MMed (Paediatrics & Child Health))",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 25206,
+        "char_end": 25290,
+        "excerpt": "Master of Medicine in Paediatrics & Child Health (MMed (Paediatrics & Child Health))"
+      },
+      "normalization_key": "Postgraduate|aca73249ecd4|master of medicine in paediatrics & child health (mmed (paediatrics & child heal"
+    },
+    {
+      "id": "prog:366:Postgraduate|a1bb26f546cb|master of medicine in psychiatry (mmed (psychiatry))",
+      "institutionId": "366",
+      "name": "Master of Medicine in Psychiatry (MMed (Psychiatry))",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 25291,
+        "char_end": 25343,
+        "excerpt": "Master of Medicine in Psychiatry (MMed (Psychiatry))"
+      },
+      "normalization_key": "Postgraduate|a1bb26f546cb|master of medicine in psychiatry (mmed (psychiatry))"
+    },
+    {
+      "id": "prog:366:Postgraduate|fcc578c12125|master of medicine in public health medicine (mmed (public health medicine))",
+      "institutionId": "366",
+      "name": "Master of Medicine in Public Health Medicine (MMed (Public Health Medicine))",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 25377,
+        "char_end": 25453,
+        "excerpt": "Master of Medicine in Public Health Medicine (MMed (Public Health Medicine))"
+      },
+      "normalization_key": "Postgraduate|fcc578c12125|master of medicine in public health medicine (mmed (public health medicine))"
+    },
+    {
+      "id": "prog:366:Postgraduate|c27e040b1bbe|master of medicine in radiation oncology (mmed (radiation oncology))",
+      "institutionId": "366",
+      "name": "Master of Medicine in Radiation Oncology (MMed (Radiation Oncology))",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 25454,
+        "char_end": 25522,
+        "excerpt": "Master of Medicine in Radiation Oncology (MMed (Radiation Oncology))"
+      },
+      "normalization_key": "Postgraduate|c27e040b1bbe|master of medicine in radiation oncology (mmed (radiation oncology))"
+    },
+    {
+      "id": "prog:366:Postgraduate|13facf723645|master of medicine",
+      "institutionId": "366",
+      "name": "MASTER OF MEDICINE",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 26196,
+        "char_end": 26214,
+        "excerpt": "MASTER OF MEDICINE"
+      },
+      "normalization_key": "Postgraduate|13facf723645|master of medicine"
+    },
+    {
+      "id": "prog:366:Postgraduate|74b27bb99c41|master of medicine in general surgery (mmed (general surgery))",
+      "institutionId": "366",
+      "name": "Master of Medicine in General Surgery (MMed (General Surgery))",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 26237,
+        "char_end": 26299,
+        "excerpt": "Master of Medicine in General Surgery (MMed (General Surgery))"
+      },
+      "normalization_key": "Postgraduate|74b27bb99c41|master of medicine in general surgery (mmed (general surgery))"
+    },
+    {
+      "id": "prog:366:Postgraduate|44db8706d853|master of medicine in orthopaedics (mmed (orthopaedics))",
+      "institutionId": "366",
+      "name": "Master of Medicine in Orthopaedics (MMed (Orthopaedics))",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 26300,
+        "char_end": 26356,
+        "excerpt": "Master of Medicine in Orthopaedics (MMed (Orthopaedics))"
+      },
+      "normalization_key": "Postgraduate|44db8706d853|master of medicine in orthopaedics (mmed (orthopaedics))"
+    },
+    {
+      "id": "prog:366:Postgraduate|6896312ddf0b|master of medicine in urology (mmed (urology))",
+      "institutionId": "366",
+      "name": "Master of Medicine in Urology (MMed (Urology))",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 26357,
+        "char_end": 26403,
+        "excerpt": "Master of Medicine in Urology (MMed (Urology))"
+      },
+      "normalization_key": "Postgraduate|6896312ddf0b|master of medicine in urology (mmed (urology))"
+    },
+    {
+      "id": "prog:366:Postgraduate|eedea9d9de12|phd)",
+      "institutionId": "366",
+      "name": "PhD)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 27235,
+        "char_end": 27239,
+        "excerpt": "PhD)"
+      },
+      "normalization_key": "Postgraduate|eedea9d9de12|phd)"
+    },
+    {
+      "id": "prog:366:Advanced Diploma|32171af9aab6|advanced diploma in adult and community education and training teaching (advdip ",
+      "institutionId": "366",
+      "name": "Advanced Diploma in Adult and Community Education and Training Teaching (AdvDip (Adult",
+      "qualification_type": "Advanced Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 28835,
+        "char_end": 28921,
+        "excerpt": "Advanced Diploma in Adult and Community Education and Training Teaching (AdvDip (Adult"
+      },
+      "normalization_key": "Advanced Diploma|32171af9aab6|advanced diploma in adult and community education and training teaching (advdip "
+    },
+    {
+      "id": "prog:366:Postgraduate|757e0b0883b4|bachelor of education honours in curriculum studies (bedhons (curriculum studies",
+      "institutionId": "366",
+      "name": "Bachelor of Education Honours in Curriculum Studies (BEdHons (Curriculum Studies))",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 30070,
+        "char_end": 30152,
+        "excerpt": "Bachelor of Education Honours in Curriculum Studies (BEdHons (Curriculum Studies))"
+      },
+      "normalization_key": "Postgraduate|757e0b0883b4|bachelor of education honours in curriculum studies (bedhons (curriculum studies"
+    },
+    {
+      "id": "prog:366:Postgraduate|029b6464e661|bachelor of education honours in educational management (bedhons (educational",
+      "institutionId": "366",
+      "name": "Bachelor of Education Honours in Educational Management (BEdHons (Educational",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 30643,
+        "char_end": 30720,
+        "excerpt": "Bachelor of Education Honours in Educational Management (BEdHons (Educational"
+      },
+      "normalization_key": "Postgraduate|029b6464e661|bachelor of education honours in educational management (bedhons (educational"
+    },
+    {
+      "id": "prog:366:Postgraduate|143e6dbe3c94|bachelor of education honours in educational studies (bedhons (educational studi",
+      "institutionId": "366",
+      "name": "Bachelor of Education Honours in Educational Studies (BEdHons (Educational Studies))",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 31257,
+        "char_end": 31341,
+        "excerpt": "Bachelor of Education Honours in Educational Studies (BEdHons (Educational Studies))"
+      },
+      "normalization_key": "Postgraduate|143e6dbe3c94|bachelor of education honours in educational studies (bedhons (educational studi"
+    },
+    {
+      "id": "prog:366:Postgraduate|1a65143deade|bachelor of education honours in language education (bedhons (language education",
+      "institutionId": "366",
+      "name": "Bachelor of Education Honours in Language Education (BEdHons (Language Education))",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 31831,
+        "char_end": 31913,
+        "excerpt": "Bachelor of Education Honours in Language Education (BEdHons (Language Education))"
+      },
+      "normalization_key": "Postgraduate|1a65143deade|bachelor of education honours in language education (bedhons (language education"
+    },
+    {
+      "id": "prog:366:Degree|c5052532c220|bed",
+      "institutionId": "366",
+      "name": "BEd",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 31985,
+        "char_end": 31988,
+        "excerpt": "BEd"
+      },
+      "normalization_key": "Degree|c5052532c220|bed"
+    },
+    {
+      "id": "prog:366:Postgraduate|eecf1351231d|hons degree, is a four -year professional",
+      "institutionId": "366",
+      "name": "Hons degree, is a four -year professional",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 31989,
+        "char_end": 32030,
+        "excerpt": "Hons degree, is a four -year professional"
+      },
+      "normalization_key": "Postgraduate|eecf1351231d|hons degree, is a four -year professional"
+    },
+    {
+      "id": "prog:366:Degree|c5052532c220|bed",
+      "institutionId": "366",
+      "name": "BEd",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 32389,
+        "char_end": 32392,
+        "excerpt": "BEd"
+      },
+      "normalization_key": "Degree|c5052532c220|bed"
+    },
+    {
+      "id": "prog:366:Postgraduate|4907dd64e419|bachelor of education honours in mathematics education (bedho ns (mathematics",
+      "institutionId": "366",
+      "name": "Bachelor of Education Honours in Mathematics Education (BEdHo ns (Mathematics",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 32551,
+        "char_end": 32628,
+        "excerpt": "Bachelor of Education Honours in Mathematics Education (BEdHo ns (Mathematics"
+      },
+      "normalization_key": "Postgraduate|4907dd64e419|bachelor of education honours in mathematics education (bedho ns (mathematics"
+    },
+    {
+      "id": "prog:366:Postgraduate|6930767d0eed|bachelor of education honours in science education (bedhons (science education))",
+      "institutionId": "366",
+      "name": "Bachelor of Education Honours in Science Education (BEdHons (Science Education))",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 33164,
+        "char_end": 33244,
+        "excerpt": "Bachelor of Education Honours in Science Education (BEdHons (Science Education))"
+      },
+      "normalization_key": "Postgraduate|6930767d0eed|bachelor of education honours in science education (bedhons (science education))"
+    },
+    {
+      "id": "prog:366:Postgraduate|0e1feac6e237|bachelor of education honours in technology education (bedhons (technology educa",
+      "institutionId": "366",
+      "name": "Bachelor of Education Honours in Technology Education (BEdHons (Technology Education)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 33734,
+        "char_end": 33819,
+        "excerpt": "Bachelor of Education Honours in Technology Education (BEdHons (Technology Education)"
+      },
+      "normalization_key": "Postgraduate|0e1feac6e237|bachelor of education honours in technology education (bedhons (technology educa"
+    },
+    {
+      "id": "prog:366:Postgraduate|19064dd41f2a|bachelor of education honours in adult and commun ity education and training (be",
+      "institutionId": "366",
+      "name": "Bachelor of Education Honours in Adult and Commun ity Education and Training (BEdHons",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 34343,
+        "char_end": 34428,
+        "excerpt": "Bachelor of Education Honours in Adult and Commun ity Education and Training (BEdHons"
+      },
+      "normalization_key": "Postgraduate|19064dd41f2a|bachelor of education honours in adult and commun ity education and training (be"
+    },
+    {
+      "id": "prog:366:Postgraduate|391b9d938060|master of education (med)",
+      "institutionId": "366",
+      "name": "Master of Education (MEd)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 34967,
+        "char_end": 34992,
+        "excerpt": "Master of Education (MEd)"
+      },
+      "normalization_key": "Postgraduate|391b9d938060|master of education (med)"
+    },
+    {
+      "id": "prog:366:Postgraduate|45ab391ab90b|bachelor of education honours degree or pgdip",
+      "institutionId": "366",
+      "name": "Bachelor of Education Honours degree or PGDip",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 35407,
+        "char_end": 35452,
+        "excerpt": "Bachelor of Education Honours degree or PGDip"
+      },
+      "normalization_key": "Postgraduate|45ab391ab90b|bachelor of education honours degree or pgdip"
+    },
+    {
+      "id": "prog:366:Postgraduate|1b6cf7b6bd5c|honours qualification.",
+      "institutionId": "366",
+      "name": "Honours qualification.",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 35614,
+        "char_end": 35636,
+        "excerpt": "Honours qualification."
+      },
+      "normalization_key": "Postgraduate|1b6cf7b6bd5c|honours qualification."
+    },
+    {
+      "id": "prog:366:Postgraduate|9d9a2cee52c1|master of education in mathematics education (med (mathematics education))",
+      "institutionId": "366",
+      "name": "Master of Education in Mathematics Education (MEd (Mathematics Education))",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 35725,
+        "char_end": 35799,
+        "excerpt": "Master of Education in Mathematics Education (MEd (Mathematics Education))"
+      },
+      "normalization_key": "Postgraduate|9d9a2cee52c1|master of education in mathematics education (med (mathematics education))"
+    },
+    {
+      "id": "prog:366:Degree|c5052532c220|bed",
+      "institutionId": "366",
+      "name": "BEd",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 35973,
+        "char_end": 35976,
+        "excerpt": "BEd"
+      },
+      "normalization_key": "Degree|c5052532c220|bed"
+    },
+    {
+      "id": "prog:366:Postgraduate|171da89572fe|honours in mathematics",
+      "institutionId": "366",
+      "name": "Honours in Mathematics",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 35977,
+        "char_end": 35999,
+        "excerpt": "Honours in Mathematics"
+      },
+      "normalization_key": "Postgraduate|171da89572fe|honours in mathematics"
+    },
+    {
+      "id": "prog:366:Postgraduate|1b6cf7b6bd5c|honours qualification.",
+      "institutionId": "366",
+      "name": "Honours qualification.",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 36154,
+        "char_end": 36176,
+        "excerpt": "Honours qualification."
+      },
+      "normalization_key": "Postgraduate|1b6cf7b6bd5c|honours qualification."
+    },
+    {
+      "id": "prog:366:Postgraduate|08eeee014a67|master of education in science education (med (science education))",
+      "institutionId": "366",
+      "name": "Master of Education in Science Education (MEd (Science Education))",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 36235,
+        "char_end": 36301,
+        "excerpt": "Master of Education in Science Education (MEd (Science Education))"
+      },
+      "normalization_key": "Postgraduate|08eeee014a67|master of education in science education (med (science education))"
+    },
+    {
+      "id": "prog:366:Degree|c5052532c220|bed",
+      "institutionId": "366",
+      "name": "BEd",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 36475,
+        "char_end": 36478,
+        "excerpt": "BEd"
+      },
+      "normalization_key": "Degree|c5052532c220|bed"
+    },
+    {
+      "id": "prog:366:Postgraduate|6c8df1a6de32|honours in physical science or biology.",
+      "institutionId": "366",
+      "name": "Honours in Physical Science or Biology.",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 36479,
+        "char_end": 36518,
+        "excerpt": "Honours in Physical Science or Biology."
+      },
+      "normalization_key": "Postgraduate|6c8df1a6de32|honours in physical science or biology."
+    },
+    {
+      "id": "prog:366:Postgraduate|1b6cf7b6bd5c|honours qualification.",
+      "institutionId": "366",
+      "name": "Honours qualification.",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 36548,
+        "char_end": 36570,
+        "excerpt": "Honours qualification."
+      },
+      "normalization_key": "Postgraduate|1b6cf7b6bd5c|honours qualification."
+    },
+    {
+      "id": "prog:366:Postgraduate|e96421dcdb9c|master of education in technology education (med (technology education))",
+      "institutionId": "366",
+      "name": "Master of Education in Technology Education (MEd (Technology Education))",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 36731,
+        "char_end": 36803,
+        "excerpt": "Master of Education in Technology Education (MEd (Technology Education))"
+      },
+      "normalization_key": "Postgraduate|e96421dcdb9c|master of education in technology education (med (technology education))"
+    },
+    {
+      "id": "prog:366:Postgraduate|1b6cf7b6bd5c|honours qualification.",
+      "institutionId": "366",
+      "name": "Honours qualification.",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 37042,
+        "char_end": 37064,
+        "excerpt": "Honours qualification."
+      },
+      "normalization_key": "Postgraduate|1b6cf7b6bd5c|honours qualification."
+    },
+    {
+      "id": "prog:366:Postgraduate|ec74dfaa0f65|master of education in language education (med (language education))",
+      "institutionId": "366",
+      "name": "Master of Education in Language Education (MEd (Language Education))",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 37290,
+        "char_end": 37358,
+        "excerpt": "Master of Education in Language Education (MEd (Language Education))"
+      },
+      "normalization_key": "Postgraduate|ec74dfaa0f65|master of education in language education (med (language education))"
+    },
+    {
+      "id": "prog:366:Postgraduate|1b6cf7b6bd5c|honours qualification.",
+      "institutionId": "366",
+      "name": "Honours qualification.",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 37557,
+        "char_end": 37579,
+        "excerpt": "Honours qualification."
+      },
+      "normalization_key": "Postgraduate|1b6cf7b6bd5c|honours qualification."
+    },
+    {
+      "id": "prog:366:Postgraduate|27aa9bd445f1|master of education in adult education (med (adult education))",
+      "institutionId": "366",
+      "name": "Master of Education in Adult Education (MEd (Adult Education))",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 37638,
+        "char_end": 37700,
+        "excerpt": "Master of Education in Adult Education (MEd (Adult Education))"
+      },
+      "normalization_key": "Postgraduate|27aa9bd445f1|master of education in adult education (med (adult education))"
+    },
+    {
+      "id": "prog:366:Postgraduate|1b6cf7b6bd5c|honours qualification.",
+      "institutionId": "366",
+      "name": "Honours qualification.",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 37910,
+        "char_end": 37932,
+        "excerpt": "Honours qualification."
+      },
+      "normalization_key": "Postgraduate|1b6cf7b6bd5c|honours qualification."
+    },
+    {
+      "id": "prog:366:Postgraduate|eedea9d9de12|phd)",
+      "institutionId": "366",
+      "name": "PhD)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 38050,
+        "char_end": 38054,
+        "excerpt": "PhD)"
+      },
+      "normalization_key": "Postgraduate|eedea9d9de12|phd)"
+    },
+    {
+      "id": "prog:366:Postgraduate|5b9fe67261c3|master of education degree or the bachelor of education honours",
+      "institutionId": "366",
+      "name": "Master of Education degree or the Bachelor of Education Honours",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 38517,
+        "char_end": 38580,
+        "excerpt": "Master of Education degree or the Bachelor of Education Honours"
+      },
+      "normalization_key": "Postgraduate|5b9fe67261c3|master of education degree or the bachelor of education honours"
+    },
+    {
+      "id": "prog:366:Postgraduate|d8448f1c8f27|bachelor of arts honours (bahons)",
+      "institutionId": "366",
+      "name": "Bachelor of Arts Honours (BAHons)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 39284,
+        "char_end": 39317,
+        "excerpt": "Bachelor of Arts Honours (BAHons)"
+      },
+      "normalization_key": "Postgraduate|d8448f1c8f27|bachelor of arts honours (bahons)"
+    },
+    {
+      "id": "prog:366:Postgraduate|377f27a33183|master of arts in african languages (ma (african languages))",
+      "institutionId": "366",
+      "name": "Master of Arts in African Languages (MA (African Languages))",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 39886,
+        "char_end": 39946,
+        "excerpt": "Master of Arts in African Languages (MA (African Languages))"
+      },
+      "normalization_key": "Postgraduate|377f27a33183|master of arts in african languages (ma (african languages))"
+    },
+    {
+      "id": "prog:366:Postgraduate|bd917bf1425c|honours degree in an african language with an average of 60%.",
+      "institutionId": "366",
+      "name": "Honours degree in an African Language with an average of 60%.",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 40086,
+        "char_end": 40147,
+        "excerpt": "Honours degree in an African Language with an average of 60%."
+      },
+      "normalization_key": "Postgraduate|bd917bf1425c|honours degree in an african language with an average of 60%."
+    },
+    {
+      "id": "prog:366:Postgraduate|daa918b21f6e|master of arts in english studies (ma (english studies))",
+      "institutionId": "366",
+      "name": "Master of Arts in English Studies (MA (English Studies))",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 40206,
+        "char_end": 40262,
+        "excerpt": "Master of Arts in English Studies (MA (English Studies))"
+      },
+      "normalization_key": "Postgraduate|daa918b21f6e|master of arts in english studies (ma (english studies))"
+    },
+    {
+      "id": "prog:366:Postgraduate|0fafd89e6b18|honours degree in english with an average of 60% in literature, language or the",
+      "institutionId": "366",
+      "name": "Honours degree in English with an average of 60% in Literature, Language or the",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 40474,
+        "char_end": 40553,
+        "excerpt": "Honours degree in English with an average of 60% in Literature, Language or the"
+      },
+      "normalization_key": "Postgraduate|0fafd89e6b18|honours degree in english with an average of 60% in literature, language or the"
+    },
+    {
+      "id": "prog:366:Postgraduate|c8eeeca22b4e|master of arts in translation studies & linguistics (ma (translation studies and",
+      "institutionId": "366",
+      "name": "Master of Arts in Translation Studies & Linguistics (MA (Translation Studies and Linguistics)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 40633,
+        "char_end": 40726,
+        "excerpt": "Master of Arts in Translation Studies & Linguistics (MA (Translation Studies and Linguistics)"
+      },
+      "normalization_key": "Postgraduate|c8eeeca22b4e|master of arts in translation studies & linguistics (ma (translation studies and"
+    },
+    {
+      "id": "prog:366:Postgraduate|be71b3738ce7|honours degree in a relevant subject with a mark",
+      "institutionId": "366",
+      "name": "Honours degree in a relevant subject with a mark",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 40907,
+        "char_end": 40955,
+        "excerpt": "Honours degree in a relevant subject with a mark"
+      },
+      "normalization_key": "Postgraduate|be71b3738ce7|honours degree in a relevant subject with a mark"
+    },
+    {
+      "id": "prog:366:Postgraduate|7a664f9ecea6|master of arts (ma)",
+      "institutionId": "366",
+      "name": "Master of Arts (MA)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 41082,
+        "char_end": 41101,
+        "excerpt": "Master of Arts (MA)"
+      },
+      "normalization_key": "Postgraduate|7a664f9ecea6|master of arts (ma)"
+    },
+    {
+      "id": "prog:366:Postgraduate|1b6cf7b6bd5c|honours qualification.",
+      "institutionId": "366",
+      "name": "Honours qualification.",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 41376,
+        "char_end": 41398,
+        "excerpt": "Honours qualification."
+      },
+      "normalization_key": "Postgraduate|1b6cf7b6bd5c|honours qualification."
+    },
+    {
+      "id": "prog:366:Postgraduate|a3bcf5569a87|master of information studies (minf)",
+      "institutionId": "366",
+      "name": "Master of Information Studies (MInf)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 41630,
+        "char_end": 41666,
+        "excerpt": "Master of Information Studies (MInf)"
+      },
+      "normalization_key": "Postgraduate|a3bcf5569a87|master of information studies (minf)"
+    },
+    {
+      "id": "prog:366:Postgraduate|1b6cf7b6bd5c|honours qualification.",
+      "institutionId": "366",
+      "name": "Honours qualification.",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 41931,
+        "char_end": 41953,
+        "excerpt": "Honours qualification."
+      },
+      "normalization_key": "Postgraduate|1b6cf7b6bd5c|honours qualification."
+    },
+    {
+      "id": "prog:366:Postgraduate|eedea9d9de12|phd)",
+      "institutionId": "366",
+      "name": "PhD)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 42038,
+        "char_end": 42042,
+        "excerpt": "PhD)"
+      },
+      "normalization_key": "Postgraduate|eedea9d9de12|phd)"
+    },
+    {
+      "id": "prog:366:Postgraduate|d8448f1c8f27|bachelor of arts honours (bahons)",
+      "institutionId": "366",
+      "name": "Bachelor of Arts Honours (BAHons)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 42890,
+        "char_end": 42923,
+        "excerpt": "Bachelor of Arts Honours (BAHons)"
+      },
+      "normalization_key": "Postgraduate|d8448f1c8f27|bachelor of arts honours (bahons)"
+    },
+    {
+      "id": "prog:366:Postgraduate|98358047dbe9|master of arts in folklore studies (ma (folklore studies))",
+      "institutionId": "366",
+      "name": "Master of Arts in Folklore Studies (MA (Folklore Studies))",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 43337,
+        "char_end": 43395,
+        "excerpt": "Master of Arts in Folklore Studies (MA (Folklore Studies))"
+      },
+      "normalization_key": "Postgraduate|98358047dbe9|master of arts in folklore studies (ma (folklore studies))"
+    },
+    {
+      "id": "prog:366:Postgraduate|1b6cf7b6bd5c|honours qualification.",
+      "institutionId": "366",
+      "name": "Honours qualification.",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 43619,
+        "char_end": 43641,
+        "excerpt": "Honours qualification."
+      },
+      "normalization_key": "Postgraduate|1b6cf7b6bd5c|honours qualification."
+    },
+    {
+      "id": "prog:366:Postgraduate|a457fc217bc0|master of arts in clinical psychology (ma (clinical psychology))",
+      "institutionId": "366",
+      "name": "Master of Arts in Clinical Psychology (MA (Clinical Psychology))",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 43736,
+        "char_end": 43800,
+        "excerpt": "Master of Arts in Clinical Psychology (MA (Clinical Psychology))"
+      },
+      "normalization_key": "Postgraduate|a457fc217bc0|master of arts in clinical psychology (ma (clinical psychology))"
+    },
+    {
+      "id": "prog:366:Postgraduate|1b6cf7b6bd5c|honours qualification.",
+      "institutionId": "366",
+      "name": "Honours qualification.",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 44064,
+        "char_end": 44086,
+        "excerpt": "Honours qualification."
+      },
+      "normalization_key": "Postgraduate|1b6cf7b6bd5c|honours qualification."
+    },
+    {
+      "id": "prog:366:Postgraduate|7a664f9ecea6|master of arts (ma)",
+      "institutionId": "366",
+      "name": "Master of Arts (MA)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 44148,
+        "char_end": 44167,
+        "excerpt": "Master of Arts (MA)"
+      },
+      "normalization_key": "Postgraduate|7a664f9ecea6|master of arts (ma)"
+    },
+    {
+      "id": "prog:366:Postgraduate|3718ea63ef2d|honours degree in a relevant subject.",
+      "institutionId": "366",
+      "name": "Honours degree in a relevant subject.",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 44603,
+        "char_end": 44640,
+        "excerpt": "Honours degree in a relevant subject."
+      },
+      "normalization_key": "Postgraduate|3718ea63ef2d|honours degree in a relevant subject."
+    },
+    {
+      "id": "prog:366:Postgraduate|f0d5eaee1f4b|honours degree.",
+      "institutionId": "366",
+      "name": "Honours degree.",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 44670,
+        "char_end": 44685,
+        "excerpt": "Honours degree."
+      },
+      "normalization_key": "Postgraduate|f0d5eaee1f4b|honours degree."
+    },
+    {
+      "id": "prog:366:Postgraduate|033722135361|master of social work (msw)",
+      "institutionId": "366",
+      "name": "Master of Social Work (MSW)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 44785,
+        "char_end": 44812,
+        "excerpt": "Master of Social Work (MSW)"
+      },
+      "normalization_key": "Postgraduate|033722135361|master of social work (msw)"
+    },
+    {
+      "id": "prog:366:Degree|8d135af6e5b3|bachelor of social work degree or equivalent at nqf",
+      "institutionId": "366",
+      "name": "Bachelor of Social Work degree or equivalent at NQF",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 45011,
+        "char_end": 45062,
+        "excerpt": "Bachelor of Social Work degree or equivalent at NQF"
+      },
+      "normalization_key": "Degree|8d135af6e5b3|bachelor of social work degree or equivalent at nqf"
+    },
+    {
+      "id": "prog:366:Postgraduate|1b6cf7b6bd5c|honours qualification.",
+      "institutionId": "366",
+      "name": "Honours qualification.",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 45101,
+        "char_end": 45123,
+        "excerpt": "Honours qualification."
+      },
+      "normalization_key": "Postgraduate|1b6cf7b6bd5c|honours qualification."
+    },
+    {
+      "id": "prog:366:Postgraduate|eedea9d9de12|phd)",
+      "institutionId": "366",
+      "name": "PhD)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 45212,
+        "char_end": 45216,
+        "excerpt": "PhD)"
+      },
+      "normalization_key": "Postgraduate|eedea9d9de12|phd)"
+    },
+    {
+      "id": "prog:366:Diploma|828ac6a99b31|diploma in accountancy (pgdip (accountancy))",
+      "institutionId": "366",
+      "name": "Diploma in Accountancy (PGDip (Accountancy))",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 45828,
+        "char_end": 45872,
+        "excerpt": "Diploma in Accountancy (PGDip (Accountancy))"
+      },
+      "normalization_key": "Diploma|828ac6a99b31|diploma in accountancy (pgdip (accountancy))"
+    },
+    {
+      "id": "prog:366:Postgraduate|35d19189ba88|bachelor of commerce honours in accountancy (bcomhons (accountancy))",
+      "institutionId": "366",
+      "name": "Bachelor of Commerce Honours in Accountancy (BComHons (Accountancy))",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 46250,
+        "char_end": 46318,
+        "excerpt": "Bachelor of Commerce Honours in Accountancy (BComHons (Accountancy))"
+      },
+      "normalization_key": "Postgraduate|35d19189ba88|bachelor of commerce honours in accountancy (bcomhons (accountancy))"
+    },
+    {
+      "id": "prog:366:Postgraduate|9617f6c7198f|master of commerce (mcom)",
+      "institutionId": "366",
+      "name": "Master of Commerce (MCom)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 46667,
+        "char_end": 46692,
+        "excerpt": "Master of Commerce (MCom)"
+      },
+      "normalization_key": "Postgraduate|9617f6c7198f|master of commerce (mcom)"
+    },
+    {
+      "id": "prog:366:Postgraduate|03030bf54dd2|honours degree or equivalent in accountancy or",
+      "institutionId": "366",
+      "name": "Honours degree or equivalent in Accountancy or",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 46977,
+        "char_end": 47023,
+        "excerpt": "Honours degree or equivalent in Accountancy or"
+      },
+      "normalization_key": "Postgraduate|03030bf54dd2|honours degree or equivalent in accountancy or"
+    },
+    {
+      "id": "prog:366:Postgraduate|1b6cf7b6bd5c|honours qualification.",
+      "institutionId": "366",
+      "name": "Honours qualification.",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 47114,
+        "char_end": 47136,
+        "excerpt": "Honours qualification."
+      },
+      "normalization_key": "Postgraduate|1b6cf7b6bd5c|honours qualification."
+    },
+    {
+      "id": "prog:366:Degree|05d6e2ac9e2e|bachelor of commerce hono urs in business management (bcomho ns (business",
+      "institutionId": "366",
+      "name": "Bachelor of Commerce Hono urs in Business Management (BComHo ns (Business",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 48066,
+        "char_end": 48139,
+        "excerpt": "Bachelor of Commerce Hono urs in Business Management (BComHo ns (Business"
+      },
+      "normalization_key": "Degree|05d6e2ac9e2e|bachelor of commerce hono urs in business management (bcomho ns (business"
+    },
+    {
+      "id": "prog:366:Degree|3e4373186f00|bachelor of commerce hono urs in human resource management (bcomho ns (human",
+      "institutionId": "366",
+      "name": "Bachelor of Commerce Hono urs in Human Resource Management (BComHo ns (Human",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 48405,
+        "char_end": 48481,
+        "excerpt": "Bachelor of Commerce Hono urs in Human Resource Management (BComHo ns (Human"
+      },
+      "normalization_key": "Degree|3e4373186f00|bachelor of commerce hono urs in human resource management (bcomho ns (human"
+    },
+    {
+      "id": "prog:366:Postgraduate|e560fe8d2999|bachelor of development honours in planning & management (bdevhons (planning &",
+      "institutionId": "366",
+      "name": "Bachelor of Development Honours in Planning & Management (BDevHons (Planning &",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 48800,
+        "char_end": 48878,
+        "excerpt": "Bachelor of Development Honours in Planning & Management (BDevHons (Planning &"
+      },
+      "normalization_key": "Postgraduate|e560fe8d2999|bachelor of development honours in planning & management (bdevhons (planning &"
+    },
+    {
+      "id": "prog:366:Degree|2ea9a97d1d03|bachelor of administr ation ho nours in public administration (badminhons",
+      "institutionId": "366",
+      "name": "Bachelor of Administr ation Ho nours in Public Administration (BAdminHons",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 49165,
+        "char_end": 49238,
+        "excerpt": "Bachelor of Administr ation Ho nours in Public Administration (BAdminHons"
+      },
+      "normalization_key": "Degree|2ea9a97d1d03|bachelor of administr ation ho nours in public administration (badminhons"
+    },
+    {
+      "id": "prog:366:Postgraduate|c23b0d990451|honours study.",
+      "institutionId": "366",
+      "name": "Honours study.",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 49446,
+        "char_end": 49460,
+        "excerpt": "Honours study."
+      },
+      "normalization_key": "Postgraduate|c23b0d990451|honours study."
+    },
+    {
+      "id": "prog:366:Postgraduate|9617f6c7198f|master of commerce (mcom)",
+      "institutionId": "366",
+      "name": "Master of Commerce (MCom)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 49523,
+        "char_end": 49548,
+        "excerpt": "Master of Commerce (MCom)"
+      },
+      "normalization_key": "Postgraduate|9617f6c7198f|master of commerce (mcom)"
+    },
+    {
+      "id": "prog:366:Postgraduate|152701b4a930|honours degree in the program that he/she intends to",
+      "institutionId": "366",
+      "name": "Honours degree in the program that he/she intends to",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 49897,
+        "char_end": 49949,
+        "excerpt": "Honours degree in the program that he/she intends to"
+      },
+      "normalization_key": "Postgraduate|152701b4a930|honours degree in the program that he/she intends to"
+    },
+    {
+      "id": "prog:366:Postgraduate|1b6cf7b6bd5c|honours qualification.",
+      "institutionId": "366",
+      "name": "Honours qualification.",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 49986,
+        "char_end": 50008,
+        "excerpt": "Honours qualification."
+      },
+      "normalization_key": "Postgraduate|1b6cf7b6bd5c|honours qualification."
+    },
+    {
+      "id": "prog:366:Postgraduate|58894f0d57e9|master of development in planning and management (mdev (planning & management))",
+      "institutionId": "366",
+      "name": "Master of Development in Planning and Management (MDev (Planning & Management))",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 50104,
+        "char_end": 50183,
+        "excerpt": "Master of Development in Planning and Management (MDev (Planning & Management))"
+      },
+      "normalization_key": "Postgraduate|58894f0d57e9|master of development in planning and management (mdev (planning & management))"
+    },
+    {
+      "id": "prog:366:Postgraduate|de1e620b499f|honours degree in the program that he/she",
+      "institutionId": "366",
+      "name": "honours degree in the program that he/she",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 50367,
+        "char_end": 50408,
+        "excerpt": "honours degree in the program that he/she"
+      },
+      "normalization_key": "Postgraduate|de1e620b499f|honours degree in the program that he/she"
+    },
+    {
+      "id": "prog:366:Postgraduate|1b6cf7b6bd5c|honours qualification.",
+      "institutionId": "366",
+      "name": "Honours qualification.",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 50456,
+        "char_end": 50478,
+        "excerpt": "Honours qualification."
+      },
+      "normalization_key": "Postgraduate|1b6cf7b6bd5c|honours qualification."
+    },
+    {
+      "id": "prog:366:Postgraduate|bbec96a83aa2|master of public administration and management (mpam)",
+      "institutionId": "366",
+      "name": "Master of Public Administration and Management (MPAM)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 50541,
+        "char_end": 50594,
+        "excerpt": "Master of Public Administration and Management (MPAM)"
+      },
+      "normalization_key": "Postgraduate|bbec96a83aa2|master of public administration and management (mpam)"
+    },
+    {
+      "id": "prog:366:Postgraduate|de1e620b499f|honours degree in the program that he/she",
+      "institutionId": "366",
+      "name": "Honours degree in the program that he/she",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 50778,
+        "char_end": 50819,
+        "excerpt": "Honours degree in the program that he/she"
+      },
+      "normalization_key": "Postgraduate|de1e620b499f|honours degree in the program that he/she"
+    },
+    {
+      "id": "prog:366:Postgraduate|1b6cf7b6bd5c|honours qualification.",
+      "institutionId": "366",
+      "name": "Honours qualification.",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 50867,
+        "char_end": 50889,
+        "excerpt": "Honours qualification."
+      },
+      "normalization_key": "Postgraduate|1b6cf7b6bd5c|honours qualification."
+    },
+    {
+      "id": "prog:366:Postgraduate|aebb4853e028|master of laws in labour law (llm (labour law))",
+      "institutionId": "366",
+      "name": "Master of Laws in Labour Law (LLM (Labour Law))",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 52619,
+        "char_end": 52666,
+        "excerpt": "Master of Laws in Labour Law (LLM (Labour Law))"
+      },
+      "normalization_key": "Postgraduate|aebb4853e028|master of laws in labour law (llm (labour law))"
+    },
+    {
+      "id": "prog:366:Postgraduate|82a40dd2d04e|master of laws in development and management law (llm (development & management",
+      "institutionId": "366",
+      "name": "Master of Laws in Development and Management Law (LLM (Development & Management",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 53050,
+        "char_end": 53129,
+        "excerpt": "Master of Laws in Development and Management Law (LLM (Development & Management"
+      },
+      "normalization_key": "Postgraduate|82a40dd2d04e|master of laws in development and management law (llm (development & management"
+    },
+    {
+      "id": "prog:366:Postgraduate|8eb482e47566|master of laws (llm) by research",
+      "institutionId": "366",
+      "name": "Master of Laws (LLM) by Research",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 53552,
+        "char_end": 53584,
+        "excerpt": "Master of Laws (LLM) by Research"
+      },
+      "normalization_key": "Postgraduate|8eb482e47566|master of laws (llm) by research"
+    },
+    {
+      "id": "prog:366:Postgraduate|4bcef939a730|master of business administration (mba)",
+      "institutionId": "366",
+      "name": "Master of Business Administration (MBA)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 55282,
+        "char_end": 55321,
+        "excerpt": "Master of Business Administration (MBA)"
+      },
+      "normalization_key": "Postgraduate|4bcef939a730|master of business administration (mba)"
+    },
+    {
+      "id": "prog:366:Postgraduate|c48f2a3a8d7a|mba programme is subject to strict evaluation and selection",
+      "institutionId": "366",
+      "name": "MBA Programme is subject to strict evaluation and selection",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 55452,
+        "char_end": 55511,
+        "excerpt": "MBA Programme is subject to strict evaluation and selection"
+      },
+      "normalization_key": "Postgraduate|c48f2a3a8d7a|mba programme is subject to strict evaluation and selection"
+    },
+    {
+      "id": "prog:366:Postgraduate|1b6cf7b6bd5c|honours qualification.",
+      "institutionId": "366",
+      "name": "Honours qualification.",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 55708,
+        "char_end": 55730,
+        "excerpt": "Honours qualification."
+      },
+      "normalization_key": "Postgraduate|1b6cf7b6bd5c|honours qualification."
+    },
+    {
+      "id": "prog:366:Postgraduate|895a99b1d104|mba applicants.",
+      "institutionId": "366",
+      "name": "MBA applicants.",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 55959,
+        "char_end": 55974,
+        "excerpt": "MBA applicants."
+      },
+      "normalization_key": "Postgraduate|895a99b1d104|mba applicants."
+    },
+    {
+      "id": "prog:366:Postgraduate|21838c2db92d|master of development in planning and management (mdev (planning and management)",
+      "institutionId": "366",
+      "name": "Master of Development in Planning and Management (MDev (Planning and Management))",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 56080,
+        "char_end": 56161,
+        "excerpt": "Master of Development in Planning and Management (MDev (Planning and Management))"
+      },
+      "normalization_key": "Postgraduate|21838c2db92d|master of development in planning and management (mdev (planning and management)"
+    },
+    {
+      "id": "prog:366:Postgraduate|1b6cf7b6bd5c|honours qualification.",
+      "institutionId": "366",
+      "name": "Honours qualification.",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 56616,
+        "char_end": 56638,
+        "excerpt": "Honours qualification."
+      },
+      "normalization_key": "Postgraduate|1b6cf7b6bd5c|honours qualification."
+    },
+    {
+      "id": "prog:366:Postgraduate|bbec96a83aa2|master of public administration and management (mpam)",
+      "institutionId": "366",
+      "name": "Master of Public Administration and Management (MPAM)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 56895,
+        "char_end": 56948,
+        "excerpt": "Master of Public Administration and Management (MPAM)"
+      },
+      "normalization_key": "Postgraduate|bbec96a83aa2|master of public administration and management (mpam)"
+    },
+    {
+      "id": "prog:366:Postgraduate|fae05876b72b|honours degree or equivalent nqf level 8 qualification in public administration ",
+      "institutionId": "366",
+      "name": "Honours degree or equivalent NQF level 8 qualification in Public Administration or",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 57301,
+        "char_end": 57383,
+        "excerpt": "Honours degree or equivalent NQF level 8 qualification in Public Administration or"
+      },
+      "normalization_key": "Postgraduate|fae05876b72b|honours degree or equivalent nqf level 8 qualification in public administration "
+    },
+    {
+      "id": "prog:366:Postgraduate|1b6cf7b6bd5c|honours qualification.",
+      "institutionId": "366",
+      "name": "Honours qualification.",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 57428,
+        "char_end": 57450,
+        "excerpt": "Honours qualification."
+      },
+      "normalization_key": "Postgraduate|1b6cf7b6bd5c|honours qualification."
+    },
+    {
+      "id": "prog:366:Postgraduate|d15e2cf8e8d0|bachelor of agricultural management honours (bagrmanhons)",
+      "institutionId": "366",
+      "name": "Bachelor of Agricultural Management Honours (BAgrManHons)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 57812,
+        "char_end": 57869,
+        "excerpt": "Bachelor of Agricultural Management Honours (BAgrManHons)"
+      },
+      "normalization_key": "Postgraduate|d15e2cf8e8d0|bachelor of agricultural management honours (bagrmanhons)"
+    },
+    {
+      "id": "prog:366:Postgraduate|13fe8a973402|honours degree programmes consist of a research project and four theory modules",
+      "institutionId": "366",
+      "name": "Honours degree programmes consist of a research project and four theory modules",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 58207,
+        "char_end": 58286,
+        "excerpt": "Honours degree programmes consist of a research project and four theory modules"
+      },
+      "normalization_key": "Postgraduate|13fe8a973402|honours degree programmes consist of a research project and four theory modules"
+    },
+    {
+      "id": "prog:366:Postgraduate|8b6efe0c950e|master of agricultural management (magricman)",
+      "institutionId": "366",
+      "name": "Master of Agricultural Management (MAgricMan)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 58590,
+        "char_end": 58635,
+        "excerpt": "Master of Agricultural Management (MAgricMan)"
+      },
+      "normalization_key": "Postgraduate|8b6efe0c950e|master of agricultural management (magricman)"
+    },
+    {
+      "id": "prog:366:Postgraduate|fc1811522b06|honours or a four-year equivalent nqf level 8 qualification degree",
+      "institutionId": "366",
+      "name": "Honours or a four-year equivalent NQF level 8 qualification degree",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 58927,
+        "char_end": 58993,
+        "excerpt": "Honours or a four-year equivalent NQF level 8 qualification degree"
+      },
+      "normalization_key": "Postgraduate|fc1811522b06|honours or a four-year equivalent nqf level 8 qualification degree"
+    },
+    {
+      "id": "prog:366:Postgraduate|54b770bff9e0|master of science in agricultural economics (msc (agricultural economics))",
+      "institutionId": "366",
+      "name": "Master of Science in Agricultural Economics (MSc (Agricultural Economics))",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 59136,
+        "char_end": 59210,
+        "excerpt": "Master of Science in Agricultural Economics (MSc (Agricultural Economics))"
+      },
+      "normalization_key": "Postgraduate|54b770bff9e0|master of science in agricultural economics (msc (agricultural economics))"
+    },
+    {
+      "id": "prog:366:Degree|5f75057e98ee|bsc",
+      "institutionId": "366",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 59358,
+        "char_end": 59361,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:366:Postgraduate|cf3060f7eefc|master of science in animal production (msc (animal production))",
+      "institutionId": "366",
+      "name": "Master of Science in Animal Production (MSc (Animal Production))",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 59596,
+        "char_end": 59660,
+        "excerpt": "Master of Science in Animal Production (MSc (Animal Production))"
+      },
+      "normalization_key": "Postgraduate|cf3060f7eefc|master of science in animal production (msc (animal production))"
+    },
+    {
+      "id": "prog:366:Degree|5f75057e98ee|bsc",
+      "institutionId": "366",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 59808,
+        "char_end": 59811,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:366:Postgraduate|9e28fc884e55|master of science in agronomy (msc (agronomy))",
+      "institutionId": "366",
+      "name": "Master of Science in Agronomy (MSc (Agronomy))",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 60046,
+        "char_end": 60092,
+        "excerpt": "Master of Science in Agronomy (MSc (Agronomy))"
+      },
+      "normalization_key": "Postgraduate|9e28fc884e55|master of science in agronomy (msc (agronomy))"
+    },
+    {
+      "id": "prog:366:Degree|5f75057e98ee|bsc",
+      "institutionId": "366",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 60240,
+        "char_end": 60243,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:366:Postgraduate|fecbd3fc9bf3|master of science in horticulture (msc (horticulture))",
+      "institutionId": "366",
+      "name": "Master of Science in Horticulture (MSc (Horticulture))",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 60444,
+        "char_end": 60498,
+        "excerpt": "Master of Science in Horticulture (MSc (Horticulture))"
+      },
+      "normalization_key": "Postgraduate|fecbd3fc9bf3|master of science in horticulture (msc (horticulture))"
+    },
+    {
+      "id": "prog:366:Degree|5f75057e98ee|bsc",
+      "institutionId": "366",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 60646,
+        "char_end": 60649,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:366:Postgraduate|905eb6a8c24a|master of science in pasture science (msc (pasture science))",
+      "institutionId": "366",
+      "name": "Master of Science in Pasture Science (MSc (Pasture Science))",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 60850,
+        "char_end": 60910,
+        "excerpt": "Master of Science in Pasture Science (MSc (Pasture Science))"
+      },
+      "normalization_key": "Postgraduate|905eb6a8c24a|master of science in pasture science (msc (pasture science))"
+    },
+    {
+      "id": "prog:366:Degree|5f75057e98ee|bsc",
+      "institutionId": "366",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 61058,
+        "char_end": 61061,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:366:Postgraduate|c08503ae4983|master of science in soil science (msc (soil science))",
+      "institutionId": "366",
+      "name": "Master of Science in Soil Science (MSc (Soil Science))",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 61302,
+        "char_end": 61356,
+        "excerpt": "Master of Science in Soil Science (MSc (Soil Science))"
+      },
+      "normalization_key": "Postgraduate|c08503ae4983|master of science in soil science (msc (soil science))"
+    },
+    {
+      "id": "prog:366:Degree|5f75057e98ee|bsc",
+      "institutionId": "366",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 61504,
+        "char_end": 61507,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:366:Postgraduate|3a9f3108378c|master of science in plant protection (msc (plant protection))",
+      "institutionId": "366",
+      "name": "Master of Science in Plant Protection (MSc (Plant Protection))",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 61704,
+        "char_end": 61766,
+        "excerpt": "Master of Science in Plant Protection (MSc (Plant Protection))"
+      },
+      "normalization_key": "Postgraduate|3a9f3108378c|master of science in plant protection (msc (plant protection))"
+    },
+    {
+      "id": "prog:366:Degree|5f75057e98ee|bsc",
+      "institutionId": "366",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 61914,
+        "char_end": 61917,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:366:Postgraduate|703bb674a15d|master of science (msc)",
+      "institutionId": "366",
+      "name": "Master of Science (MSc)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 62118,
+        "char_end": 62141,
+        "excerpt": "Master of Science (MSc)"
+      },
+      "normalization_key": "Postgraduate|703bb674a15d|master of science (msc)"
+    },
+    {
+      "id": "prog:366:Degree|5f75057e98ee|bsc",
+      "institutionId": "366",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 62363,
+        "char_end": 62366,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:366:Postgraduate|aea6cbae646c|hons degree or its equivalent at nqf level 8 in the appropriate disciplinary are",
+      "institutionId": "366",
+      "name": "Hons degree or its equivalent at NQF level 8 in the appropriate disciplinary area.",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 62367,
+        "char_end": 62449,
+        "excerpt": "Hons degree or its equivalent at NQF level 8 in the appropriate disciplinary area."
+      },
+      "normalization_key": "Postgraduate|aea6cbae646c|hons degree or its equivalent at nqf level 8 in the appropriate disciplinary are"
+    },
+    {
+      "id": "prog:366:Postgraduate|eedea9d9de12|phd)",
+      "institutionId": "366",
+      "name": "PhD)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 62601,
+        "char_end": 62605,
+        "excerpt": "PhD)"
+      },
+      "normalization_key": "Postgraduate|eedea9d9de12|phd)"
+    },
+    {
+      "id": "prog:366:Postgraduate|3e3b16a6de9d|honours, master's and",
+      "institutionId": "366",
+      "name": "Honours, Master's and",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 63357,
+        "char_end": 63378,
+        "excerpt": "Honours, Master's and"
+      },
+      "normalization_key": "Postgraduate|3e3b16a6de9d|honours, master's and"
+    },
+    {
+      "id": "prog:366:Postgraduate|13fe8a973402|honours degree programmes consist of a research project and four theory modules",
+      "institutionId": "366",
+      "name": "Honours degree programmes consist of a research project and four theory modules",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 63439,
+        "char_end": 63518,
+        "excerpt": "Honours degree programmes consist of a research project and four theory modules"
+      },
+      "normalization_key": "Postgraduate|13fe8a973402|honours degree programmes consist of a research project and four theory modules"
+    },
+    {
+      "id": "prog:366:Degree|5f75057e98ee|bsc",
+      "institutionId": "366",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 63673,
+        "char_end": 63676,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:366:Postgraduate|aea6cbae646c|hons degree or its equivalent at nqf level 8 in the appropriate disciplinary are",
+      "institutionId": "366",
+      "name": "Hons degree or its equivalent at NQF level 8 in the appropriate disciplinary area.",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 63677,
+        "char_end": 63759,
+        "excerpt": "Hons degree or its equivalent at NQF level 8 in the appropriate disciplinary area."
+      },
+      "normalization_key": "Postgraduate|aea6cbae646c|hons degree or its equivalent at nqf level 8 in the appropriate disciplinary are"
+    },
+    {
+      "id": "prog:366:Postgraduate|703bb674a15d|master of science (msc)",
+      "institutionId": "366",
+      "name": "Master of Science (MSc)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 63875,
+        "char_end": 63898,
+        "excerpt": "Master of Science (MSc)"
+      },
+      "normalization_key": "Postgraduate|703bb674a15d|master of science (msc)"
+    },
+    {
+      "id": "prog:366:Degree|5f75057e98ee|bsc",
+      "institutionId": "366",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 64166,
+        "char_end": 64169,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:366:Postgraduate|aea6cbae646c|hons degree or its equivalent at nqf level 8 in the appropriate disciplinary are",
+      "institutionId": "366",
+      "name": "Hons degree or its equivalent at NQF level 8 in the appropriate disciplinary area.",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 64170,
+        "char_end": 64252,
+        "excerpt": "Hons degree or its equivalent at NQF level 8 in the appropriate disciplinary area."
+      },
+      "normalization_key": "Postgraduate|aea6cbae646c|hons degree or its equivalent at nqf level 8 in the appropriate disciplinary are"
+    },
+    {
+      "id": "prog:366:Postgraduate|f0d5eaee1f4b|honours degree.",
+      "institutionId": "366",
+      "name": "Honours degree.",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 64291,
+        "char_end": 64306,
+        "excerpt": "Honours degree."
+      },
+      "normalization_key": "Postgraduate|f0d5eaee1f4b|honours degree."
+    },
+    {
+      "id": "prog:366:Postgraduate|ca07af37644b|master of science in escience (msc (escience))",
+      "institutionId": "366",
+      "name": "Master of Science in eScience (MSc (eScience))",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 64404,
+        "char_end": 64450,
+        "excerpt": "Master of Science in eScience (MSc (eScience))"
+      },
+      "normalization_key": "Postgraduate|ca07af37644b|master of science in escience (msc (escience))"
+    },
+    {
+      "id": "prog:366:Degree|5f75057e98ee|bsc",
+      "institutionId": "366",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 64663,
+        "char_end": 64666,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:366:Postgraduate|a6dc836ddc6b|hons degree or its equivalent, specialising in relevant disciplines such as",
+      "institutionId": "366",
+      "name": "Hons degree or its equivalent, specialising in relevant disciplines such as",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 64667,
+        "char_end": 64742,
+        "excerpt": "Hons degree or its equivalent, specialising in relevant disciplines such as"
+      },
+      "normalization_key": "Postgraduate|a6dc836ddc6b|hons degree or its equivalent, specialising in relevant disciplines such as"
+    },
+    {
+      "id": "prog:366:Postgraduate|f0d5eaee1f4b|honours degree.",
+      "institutionId": "366",
+      "name": "Honours degree.",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 64818,
+        "char_end": 64833,
+        "excerpt": "Honours degree."
+      },
+      "normalization_key": "Postgraduate|f0d5eaee1f4b|honours degree."
+    },
+    {
+      "id": "prog:366:Postgraduate|5b7fcbc67660|master of science in applied mathematics (msc (applied mathematics))",
+      "institutionId": "366",
+      "name": "Master of Science in Applied Mathematics (MSc (Applied Mathematics))",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 64898,
+        "char_end": 64966,
+        "excerpt": "Master of Science in Applied Mathematics (MSc (Applied Mathematics))"
+      },
+      "normalization_key": "Postgraduate|5b7fcbc67660|master of science in applied mathematics (msc (applied mathematics))"
+    },
+    {
+      "id": "prog:366:Degree|5f75057e98ee|bsc",
+      "institutionId": "366",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 65109,
+        "char_end": 65112,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:366:Postgraduate|1d0082663248|hons degree or its equivalent, specialising in applied mathematics.",
+      "institutionId": "366",
+      "name": "Hons degree or its equivalent, specialising in Applied Mathematics.",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 65113,
+        "char_end": 65180,
+        "excerpt": "Hons degree or its equivalent, specialising in Applied Mathematics."
+      },
+      "normalization_key": "Postgraduate|1d0082663248|hons degree or its equivalent, specialising in applied mathematics."
+    },
+    {
+      "id": "prog:366:Postgraduate|f0d5eaee1f4b|honours degree.",
+      "institutionId": "366",
+      "name": "Honours degree.",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 65210,
+        "char_end": 65225,
+        "excerpt": "Honours degree."
+      },
+      "normalization_key": "Postgraduate|f0d5eaee1f4b|honours degree."
+    },
+    {
+      "id": "prog:366:Postgraduate|d5a814433b53|master of science in mathematics (msc (mathematics))",
+      "institutionId": "366",
+      "name": "Master of Science in Mathematics (MSc (Mathematics))",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 65290,
+        "char_end": 65342,
+        "excerpt": "Master of Science in Mathematics (MSc (Mathematics))"
+      },
+      "normalization_key": "Postgraduate|d5a814433b53|master of science in mathematics (msc (mathematics))"
+    },
+    {
+      "id": "prog:366:Degree|5f75057e98ee|bsc",
+      "institutionId": "366",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 65480,
+        "char_end": 65483,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:366:Postgraduate|07e22765be3b|hons degree or its equivalent, specialising in mathematics",
+      "institutionId": "366",
+      "name": "Hons degree or its equivalent, specialising in Mathematics",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 65484,
+        "char_end": 65542,
+        "excerpt": "Hons degree or its equivalent, specialising in Mathematics"
+      },
+      "normalization_key": "Postgraduate|07e22765be3b|hons degree or its equivalent, specialising in mathematics"
+    },
+    {
+      "id": "prog:366:Postgraduate|7386a731a5c6|honours degree",
+      "institutionId": "366",
+      "name": "Honours degree",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 65572,
+        "char_end": 65586,
+        "excerpt": "Honours degree"
+      },
+      "normalization_key": "Postgraduate|7386a731a5c6|honours degree"
+    },
+    {
+      "id": "prog:366:Postgraduate|eedea9d9de12|phd)",
+      "institutionId": "366",
+      "name": "PhD)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 65706,
+        "char_end": 65710,
+        "excerpt": "PhD)"
+      },
+      "normalization_key": "Postgraduate|eedea9d9de12|phd)"
+    },
+    {
+      "id": "prog:366:Postgraduate|13fe8a973402|honours degree programmes consist of a research project and four theory modules",
+      "institutionId": "366",
+      "name": "Honours degree programmes consist of a research project and four theory modules",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 66260,
+        "char_end": 66339,
+        "excerpt": "Honours degree programmes consist of a research project and four theory modules"
+      },
+      "normalization_key": "Postgraduate|13fe8a973402|honours degree programmes consist of a research project and four theory modules"
+    },
+    {
+      "id": "prog:366:Degree|5f75057e98ee|bsc",
+      "institutionId": "366",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 66520,
+        "char_end": 66523,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:366:Postgraduate|aea6cbae646c|hons degree or its equivalent at nqf level 8 in the appropriate disciplinary are",
+      "institutionId": "366",
+      "name": "Hons degree or its equivalent at NQF level 8 in the appropriate disciplinary area.",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 66524,
+        "char_end": 66606,
+        "excerpt": "Hons degree or its equivalent at NQF level 8 in the appropriate disciplinary area."
+      },
+      "normalization_key": "Postgraduate|aea6cbae646c|hons degree or its equivalent at nqf level 8 in the appropriate disciplinary are"
+    },
+    {
+      "id": "prog:366:Postgraduate|703bb674a15d|master of science (msc)",
+      "institutionId": "366",
+      "name": "Master of Science (MSc)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 66722,
+        "char_end": 66745,
+        "excerpt": "Master of Science (MSc)"
+      },
+      "normalization_key": "Postgraduate|703bb674a15d|master of science (msc)"
+    },
+    {
+      "id": "prog:366:Degree|5f75057e98ee|bsc",
+      "institutionId": "366",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 67067,
+        "char_end": 67070,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:366:Postgraduate|e5f39f69faa0|hons degree in the discipline in which the student intends to do an msc degree",
+      "institutionId": "366",
+      "name": "Hons degree in the discipline in which the student intends to do an MSc degree",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 67071,
+        "char_end": 67149,
+        "excerpt": "Hons degree in the discipline in which the student intends to do an MSc degree"
+      },
+      "normalization_key": "Postgraduate|e5f39f69faa0|hons degree in the discipline in which the student intends to do an msc degree"
+    },
+    {
+      "id": "prog:366:Degree|5f75057e98ee|bsc",
+      "institutionId": "366",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 67191,
+        "char_end": 67194,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:366:Postgraduate|5b8f9027f711|hons degree.",
+      "institutionId": "366",
+      "name": "Hons degree.",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 67195,
+        "char_end": 67207,
+        "excerpt": "Hons degree."
+      },
+      "normalization_key": "Postgraduate|5b8f9027f711|hons degree."
+    },
+    {
+      "id": "prog:366:Postgraduate|eedea9d9de12|phd)",
+      "institutionId": "366",
+      "name": "PhD)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 67295,
+        "char_end": 67299,
+        "excerpt": "PhD)"
+      },
+      "normalization_key": "Postgraduate|eedea9d9de12|phd)"
+    },
+    {
+      "id": "prog:366:Postgraduate|5f937f98e44a|msc degree in the discipline in which the student intends to do a phd degree and",
+      "institutionId": "366",
+      "name": "MSc degree in the discipline in which the student intends to do a PhD degree and",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 67576,
+        "char_end": 67656,
+        "excerpt": "MSc degree in the discipline in which the student intends to do a PhD degree and"
+      },
+      "normalization_key": "Postgraduate|5f937f98e44a|msc degree in the discipline in which the student intends to do a phd degree and"
+    },
+    {
+      "id": "prog:366:Postgraduate|5bf9bea99176|msc degree.",
+      "institutionId": "366",
+      "name": "MSc degree.",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 67710,
+        "char_end": 67721,
+        "excerpt": "MSc degree."
+      },
+      "normalization_key": "Postgraduate|5bf9bea99176|msc degree."
+    },
+    {
+      "id": "prog:366:Postgraduate|13fe8a973402|honours degree programmes consist of a research project and four theory modules",
+      "institutionId": "366",
+      "name": "Honours degree programmes consist of a research project and four theory modules",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 67953,
+        "char_end": 68032,
+        "excerpt": "Honours degree programmes consist of a research project and four theory modules"
+      },
+      "normalization_key": "Postgraduate|13fe8a973402|honours degree programmes consist of a research project and four theory modules"
+    },
+    {
+      "id": "prog:366:Degree|5f75057e98ee|bsc",
+      "institutionId": "366",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 68152,
+        "char_end": 68155,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:366:Postgraduate|2cf9285e4c00|honours degree programme consists of a r esearch project and four theory modules",
+      "institutionId": "366",
+      "name": "Honours degree programme consists of a r esearch project and four theory modules.",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 68451,
+        "char_end": 68532,
+        "excerpt": "Honours degree programme consists of a r esearch project and four theory modules."
+      },
+      "normalization_key": "Postgraduate|2cf9285e4c00|honours degree programme consists of a r esearch project and four theory modules"
+    },
+    {
+      "id": "prog:366:Degree|5f75057e98ee|bsc",
+      "institutionId": "366",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 68563,
+        "char_end": 68566,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:366:Postgraduate|9b8e546a1f26|honours degree programme consists of a research project and four theory modules.",
+      "institutionId": "366",
+      "name": "Honours degree programme consists of a research project and four theory modules.",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 68866,
+        "char_end": 68946,
+        "excerpt": "Honours degree programme consists of a research project and four theory modules."
+      },
+      "normalization_key": "Postgraduate|9b8e546a1f26|honours degree programme consists of a research project and four theory modules."
+    },
+    {
+      "id": "prog:366:Degree|5f75057e98ee|bsc",
+      "institutionId": "366",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 68977,
+        "char_end": 68980,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:366:Postgraduate|bcc11cdb4587|bachelor of science honours in mineral processing and ore beneficiation",
+      "institutionId": "366",
+      "name": "Bachelor of Science Honours in Mineral Processing and Ore Beneficiation",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 69165,
+        "char_end": 69236,
+        "excerpt": "Bachelor of Science Honours in Mineral Processing and Ore Beneficiation"
+      },
+      "normalization_key": "Postgraduate|bcc11cdb4587|bachelor of science honours in mineral processing and ore beneficiation"
+    },
+    {
+      "id": "prog:366:Postgraduate|9b8e546a1f26|honours degree programme consists of a research project and four theory modules.",
+      "institutionId": "366",
+      "name": "Honours degree programme consists of a research project and four theory modules.",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 69294,
+        "char_end": 69374,
+        "excerpt": "Honours degree programme consists of a research project and four theory modules."
+      },
+      "normalization_key": "Postgraduate|9b8e546a1f26|honours degree programme consists of a research project and four theory modules."
+    },
+    {
+      "id": "prog:366:Degree|5f75057e98ee|bsc",
+      "institutionId": "366",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 69405,
+        "char_end": 69408,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:366:Postgraduate|703bb674a15d|master of science (msc)",
+      "institutionId": "366",
+      "name": "Master of Science (MSc)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 70176,
+        "char_end": 70199,
+        "excerpt": "Master of Science (MSc)"
+      },
+      "normalization_key": "Postgraduate|703bb674a15d|master of science (msc)"
+    },
+    {
+      "id": "prog:366:Degree|5f75057e98ee|bsc",
+      "institutionId": "366",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 70425,
+        "char_end": 70428,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:366:Postgraduate|aea6cbae646c|hons degree or its equivalent at nqf level 8 in the appropriate disciplinary are",
+      "institutionId": "366",
+      "name": "Hons degree or its equivalent at NQF level 8 in the appropriate disciplinary area.",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 70429,
+        "char_end": 70511,
+        "excerpt": "Hons degree or its equivalent at NQF level 8 in the appropriate disciplinary area."
+      },
+      "normalization_key": "Postgraduate|aea6cbae646c|hons degree or its equivalent at nqf level 8 in the appropriate disciplinary are"
+    },
+    {
+      "id": "prog:366:Postgraduate|f0d5eaee1f4b|honours degree.",
+      "institutionId": "366",
+      "name": "Honours degree.",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 70542,
+        "char_end": 70557,
+        "excerpt": "Honours degree."
+      },
+      "normalization_key": "Postgraduate|f0d5eaee1f4b|honours degree."
+    },
+    {
+      "id": "prog:366:Postgraduate|eedea9d9de12|phd)",
+      "institutionId": "366",
+      "name": "PhD)",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 70645,
+        "char_end": 70649,
+        "excerpt": "PhD)"
+      },
+      "normalization_key": "Postgraduate|eedea9d9de12|phd)"
+    },
+    {
+      "id": "prog:366:Postgraduate|5f937f98e44a|msc degree in the discipline in which the student intends to do a phd degree and",
+      "institutionId": "366",
+      "name": "MSc degree in the discipline in which the student intends to do a PhD degree and",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 70865,
+        "char_end": 70945,
+        "excerpt": "MSc degree in the discipline in which the student intends to do a PhD degree and"
+      },
+      "normalization_key": "Postgraduate|5f937f98e44a|msc degree in the discipline in which the student intends to do a phd degree and"
+    },
+    {
+      "id": "prog:366:Postgraduate|5bf9bea99176|msc degree.",
+      "institutionId": "366",
+      "name": "MSc degree.",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/university-of-limpopo.pdf",
+      "sourceUrl": "https://www.ul.ac.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/university-of-limpopo.pdf",
+        "char_start": 70999,
+        "char_end": 71010,
+        "excerpt": "MSc degree."
+      },
+      "normalization_key": "Postgraduate|5bf9bea99176|msc degree."
+    }
+  ],
+  "admissions_rules": [],
+  "aps_rules": [],
+  "llm_calls": 0
+}

@@ -1,0 +1,105 @@
+{
+  "institution_id": "wsu",
+  "institution_name": "Walter Sisulu University",
+  "institution_type": "university-of-technology",
+  "source_file": "batch1/wsu-2026-undergraduate-admission-requirements.pdf",
+  "campuses": [
+    {
+      "name": "Mthatha",
+      "city": "Mthatha",
+      "province": "Eastern Cape",
+      "is_main": true
+    },
+    {
+      "name": "Butterworth",
+      "city": "Butterworth",
+      "province": "Eastern Cape",
+      "is_main": false
+    },
+    {
+      "name": "Buffalo City",
+      "city": "East London",
+      "province": "Eastern Cape",
+      "is_main": false
+    },
+    {
+      "name": "Komani",
+      "city": "Queenstown",
+      "province": "Eastern Cape",
+      "is_main": false
+    }
+  ],
+  "admission_policy": {
+    "aps_name": "APS",
+    "aps_calculation_notes": "Calculated by adding point scores for best six subjects, excluding Life Orientation. Uses a specific conversion table where 80-100% = 7/8 points depending on NSC level.",
+    "minimum_aps_for_bachelors": 25,
+    "minimum_aps_for_diplomas": 21,
+    "minimum_entry_note": "Bachelor's endorsement required for degree programmes; Diploma endorsement for diploma programmes.",
+    "life_orientation_cap": 0,
+    "source_excerpt": "The APS is calculated by adding together the point scores for a student's best six subjects, excluding Life Orientation.",
+    "extraction_confidence": 0.95
+  },
+  "programmes": [
+    {
+      "name": "Bachelor of Accounting Science",
+      "normalized_name": "Bachelor of Accounting Science",
+      "qualification_type": "Bachelor",
+      "qualification_level": "NQF 7",
+      "faculty_name": "Faculty of Economic & Financial Sciences",
+      "campus": "Mthatha",
+      "duration": "4 years",
+      "programme_code": "W63009",
+      "saqa_code": "114813",
+      "min_aps": 27,
+      "min_aps_name": "APS",
+      "subjects_compulsory": [
+        {
+          "subject": "English",
+          "minimum_nsc_level": 5,
+          "minimum_percentage": 60,
+          "notes": "5 (60-69%)"
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_nsc_level": 4,
+          "minimum_percentage": 50,
+          "notes": "4 (50-59%)"
+        }
+      ],
+      "programme_overview": "Foundation for the Chartered Accountant (CA) route, preparing students for CTA programs.",
+      "extraction_confidence": 0.98
+    },
+    {
+      "name": "Diploma in Civil Engineering",
+      "normalized_name": "Diploma in Civil Engineering",
+      "qualification_type": "Diploma",
+      "qualification_level": "NQF 6",
+      "faculty_name": "Faculty of Engineering, Built Environment & Information Technology",
+      "campus": "Buffalo City / Butterworth",
+      "duration": "3 years",
+      "programme_code": "W60003",
+      "min_aps": 24,
+      "subjects_compulsory": [
+        {
+          "subject": "English",
+          "minimum_nsc_level": 4,
+          "minimum_percentage": 50,
+          "notes": "4 (50-59%)"
+        },
+        {
+          "subject": "Mathematics",
+          "minimum_nsc_level": 4,
+          "minimum_percentage": 50,
+          "notes": "4 (50-59%)"
+        },
+        {
+          "subject": "Physical Sciences",
+          "minimum_nsc_level": 4,
+          "minimum_percentage": 50,
+          "notes": "4 (50-59%)"
+        }
+      ],
+      "extraction_confidence": 0.95
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "generated_at": "2026-05-27T15:57:47.587578+00:00",
+  "min_score": 0.42,
+  "mappings": [
+    {
+      "institutionId": "306",
+      "files": [
+        "prospectuses/central-johannesburg-tvet-college-web.txt"
+      ]
+    },
+    {
+      "institutionId": "309",
+      "files": [
+        "prospectuses/ikhala-tvet-college-web.txt"
+      ]
+    },
+    {
+      "institutionId": "311",
+      "files": [
+        "prospectuses/letaba-tvet-college-web.txt"
+      ]
+    },
+    {
+      "institutionId": "320",
+      "files": [
+        "prospectuses/tshwane-south-tvet-college-web.txt"
+      ]
+    },
+    {
+      "institutionId": "323",
+      "files": [
+        "prospectuses/buffalo-city-tvet-college-web.txt"
+      ]
+    },
+    {
+      "institutionId": "341",
+      "files": [
+        "prospectuses/majuba-tvet-college-web.txt"
+      ]
+    },
+    {
+      "institutionId": "354",
+      "files": [
+        "prospectuses/sekhukhune-tvet-college-web.txt"
+      ]
+    },
+    {
+      "institutionId": "356",
+      "files": [
+        "prospectuses/taletso-tvet-college-web.txt"
+      ]
+    },
+    {
+      "institutionId": "360",
+      "files": [
+        "prospectuses/umfolozi-tvet-college-web.txt"
+      ]
+    },
+    {
+      "institutionId": "361",
+      "files": [
+        "prospectuses/umgungundlovu-tvet-college-web.txt"
+      ]
+    },
+    {
+      "institutionId": "377",
+      "files": [
+        "prospectuses/vuselela-tvet-college-web.txt"
+      ]
+    }
+  ],
+  "unmatched_files": [],
+  "checkpoint": "lib/seed/etl_loader_checkpoint.json",
+  "mapping_output": "lib/seed/prospectus_file_mapping.json"
+}

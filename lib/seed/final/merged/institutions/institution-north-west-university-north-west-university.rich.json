@@ -1,0 +1,3295 @@
+{
+  "institution": {
+    "id": "institution:north-west-university",
+    "slug": "north-west-university",
+    "institution_id_raw": "349",
+    "name": "North-West University",
+    "institution_type": "university",
+    "city": "Potchefstroom",
+    "province": "North West",
+    "official_website": "https://www.nwu.ac.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/349/north-west-university",
+    "source_paths": [
+      "enriched_universities.json",
+      "generated/v3/institutions.enriched.json",
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "sector": "higher education",
+      "province": "North West",
+      "city": "Potchefstroom",
+      "physical_address": "Building F1, 11 Hoffman Street, Potchefstroom, 2531",
+      "postal_address": "Private Bag X1290, Potchefstroom, 2520",
+      "contact_emails": [
+        "studies@nwu.ac.za",
+        "nwufundraising@nwu.ac.za"
+      ],
+      "contact_phone_numbers": [
+        "018 299 1111/2222"
+      ],
+      "application_url": "https://studies.nwu.ac.za/studies/apply",
+      "socials": {
+        "facebook": "https://www.facebook.com/people/North-West-University/61554160037445/",
+        "instagram": "https://www.instagram.com/my_nwu/",
+        "linkedin": "",
+        "x": "https://twitter.com/theNWU",
+        "youtube": "https://www.youtube.com/c/NWUNorthWestUniversity"
+      },
+      "accreditation": {
+        "dh et": "Accredited",
+        "saqa": "Registered"
+      },
+      "sources": [
+        "https://nationalgovernment.co.za/units/view/349/north-west-university",
+        "https://www.nwu.ac.za/"
+      ],
+      "qualification_types": [
+        "Undergraduate",
+        "Postgraduate",
+        "Diploma",
+        "Certificate"
+      ],
+      "nsfas_supported": true,
+      "student_accommodation": true,
+      "short_name": "NWU",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/0/02/North-West_University_logo.svg",
+      "colors": [
+        "Purple",
+        "turquoise",
+        "grey"
+      ],
+      "motto": "Dit Begin Alles Hier (Afrikaans)",
+      "type": "Comprehensive University",
+      "languages": [],
+      "student_estimate": 43642,
+      "nickname": "NWU",
+      "mascot": "Eagi (main mascot) Mafika, Pukki, Vuvu (siblings)",
+      "sports_affiliations": []
+    }
+  },
+  "campuses": [
+    {
+      "id": "campus:north-west-university--mahikeng-campus",
+      "institution_slug": "north-west-university",
+      "name": "Mahikeng Campus",
+      "city": "Mahikeng",
+      "province": "North West",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:north-west-university--potchefstroom-campus",
+      "institution_slug": "north-west-university",
+      "name": "Potchefstroom Campus",
+      "city": "Potchefstroom",
+      "province": "North West",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    },
+    {
+      "id": "campus:north-west-university--vanderbijlpark-campus",
+      "institution_slug": "north-west-university",
+      "name": "Vanderbijlpark Campus",
+      "city": "Vanderbijlpark",
+      "province": "Gauteng",
+      "is_main": false,
+      "source_paths": [
+        "enriched_universities.json"
+      ]
+    }
+  ],
+  "faculties_best": [
+    {
+      "id": "faculty:north-west-university--accounting-sciences--faculty",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "ACCOUNTING SCIENCES",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "SCHOOL OF ACCOUNTING SCIENCES",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:north-west-university--communication--faculty",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "COMMUNICATION",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "SCHOOL OF COMMUNICATION",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:north-west-university--economic-sciences--faculty",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "ECONOMIC SCIENCES",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "SCHOOL OF ECONOMIC SCIENCES",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:north-west-university--education--faculty",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "EDUCATION",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "FACULTY OF EDUCATION",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:north-west-university--engineering--faculty",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "ENGINEERING",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "FACULTY OF ENGINEERING",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:north-west-university--government-studies--faculty",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "GOVERNMENT STUDIES",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "SCHOOL OF GOVERNMENT STUDIES",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:north-west-university--health--faculty",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "HEALTH",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "FACULTY OF HEALTH",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:north-west-university--humanities--faculty",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "HUMANITIES",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "FACULTY OF HUMANITIES",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:north-west-university--languages--faculty",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "LANGUAGES",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "SCHOOL OF LANGUAGES",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:north-west-university--management-sciences--faculty",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "MANAGEMENT SCIENCES",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "SCHOOL OF MANAGEMENT SCIENCES",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:north-west-university--music--faculty",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "MUSIC",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "SCHOOL OF MUSIC",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:north-west-university--nursing--faculty",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "NURSING",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "SCHOOL OF NURSING",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:north-west-university--pharmacy--faculty",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "PHARMACY",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "SCHOOL OF PHARMACY",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:north-west-university--philosophy--faculty",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "PHILOSOPHY",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "SCHOOL OF PHILOSOPHY",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:north-west-university--psychosocial-health--faculty",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "PSYCHOSOCIAL HEALTH",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "SCHOOL OF PSYCHOSOCIAL HEALTH",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:north-west-university--social-sciences--faculty",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "SOCIAL SCIENCES",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "SCHOOL OF SOCIAL SCIENCES",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:north-west-university--theology--faculty",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "THEOLOGY",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "FACULTY OF THEOLOGY",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:north-west-university--tourism-management--faculty",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "TOURISM MANAGEMENT",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "SCHOOL OF TOURISM MANAGEMENT",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    }
+  ],
+  "faculties_all": [
+    {
+      "id": "faculty:north-west-university--accounting-sciences--faculty",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "ACCOUNTING SCIENCES",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "SCHOOL OF ACCOUNTING SCIENCES",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:north-west-university--communication--faculty",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "COMMUNICATION",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "SCHOOL OF COMMUNICATION",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:north-west-university--economic-sciences--faculty",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "ECONOMIC SCIENCES",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "SCHOOL OF ECONOMIC SCIENCES",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:north-west-university--education--faculty",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "EDUCATION",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "FACULTY OF EDUCATION",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:north-west-university--engineering--faculty",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "ENGINEERING",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "FACULTY OF ENGINEERING",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:north-west-university--government-studies--faculty",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "GOVERNMENT STUDIES",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "SCHOOL OF GOVERNMENT STUDIES",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:north-west-university--health--faculty",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "HEALTH",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "FACULTY OF HEALTH",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:north-west-university--humanities--faculty",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "HUMANITIES",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "FACULTY OF HUMANITIES",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:north-west-university--languages--faculty",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "LANGUAGES",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "SCHOOL OF LANGUAGES",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:north-west-university--management-sciences--faculty",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "MANAGEMENT SCIENCES",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "SCHOOL OF MANAGEMENT SCIENCES",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:north-west-university--music--faculty",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "MUSIC",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "SCHOOL OF MUSIC",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:north-west-university--nursing--faculty",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "NURSING",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "SCHOOL OF NURSING",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:north-west-university--pharmacy--faculty",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "PHARMACY",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "SCHOOL OF PHARMACY",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:north-west-university--philosophy--faculty",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "PHILOSOPHY",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "SCHOOL OF PHILOSOPHY",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:north-west-university--psychosocial-health--faculty",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "PSYCHOSOCIAL HEALTH",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "SCHOOL OF PSYCHOSOCIAL HEALTH",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:north-west-university--social-sciences--faculty",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "SOCIAL SCIENCES",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "SCHOOL OF SOCIAL SCIENCES",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:north-west-university--theology--faculty",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "THEOLOGY",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "FACULTY OF THEOLOGY",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    },
+    {
+      "id": "faculty:north-west-university--tourism-management--faculty",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "TOURISM MANAGEMENT",
+      "kind": "faculty",
+      "overview": null,
+      "source_excerpt": "SCHOOL OF TOURISM MANAGEMENT",
+      "extraction_confidence": 0.82,
+      "source_paths": [
+        "generated/v3/faculties.json"
+      ]
+    }
+  ],
+  "programmes_best": [
+    {
+      "id": "programme:north-west-university--ba",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BA",
+      "normalized_name": "BA",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "COMMUNICATION",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Arts",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--ba-ba",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BA (BA)",
+      "normalized_name": "BA (BA)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "COMMUNICATION",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Arts (BA)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--ba-ba-with-industrial-and-organisational-psychology",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BA (BA) with Industrial and Organisational Psychology",
+      "normalized_name": "BA (BA) with Industrial and Organisational Psychology",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "ECONOMIC SCIENCES",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Arts (BA) with Industrial and",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--ba-in-ancient-languages-as-first-qualification-ns-c-or-nc-v-for-degree-studies-or",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BA in Ancient Languages as first qualification • NS(C) or NC(V) for degree studies, or",
+      "normalized_name": "BA in Ancient Languages as first qualification • NS(C) or NC(V) for degree studies, or",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": "THEOLOGY",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "BA in Ancient Languages as first qualification • NS(C) or NC(V) for degree studies, or",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--ba-in-behavioural",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BA in Behavioural",
+      "normalized_name": "BA in Behavioural",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "PSYCHOSOCIAL HEALTH",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Arts in Behavioural",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--ba-in-law-ba-in-law",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BA in Law (BA in Law)",
+      "normalized_name": "BA in Law (BA in Law)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "ENGINEERING",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Arts in",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--ba-in-law",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BA in Law)",
+      "normalized_name": "BA in Law)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "ENGINEERING",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "BA in Law)",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--ba-in-pastoral-psychology-as-first",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BA in Pastoral Psychology as first",
+      "normalized_name": "BA in Pastoral Psychology as first",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "THEOLOGY",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "BA in Pastoral Psychology as first",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--ba-with-tourism-management-duration-3-years-22-mahikeng",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BA with Tourism Management • DURATION: 3 years 22 Mahikeng",
+      "normalized_name": "BA with Tourism Management • DURATION: 3 years 22 Mahikeng",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "TOURISM MANAGEMENT",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Arts with Tourism Management • DURATION: 3 years 22 Mahikeng",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bachelor-of-administration",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "Bachelor of Administration",
+      "normalized_name": "Bachelor of Administration",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "ECONOMIC SCIENCES",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Administration",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bachelor-of-administration-in-development-and",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "Bachelor of Administration in Development and",
+      "normalized_name": "Bachelor of Administration in Development and",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "GOVERNMENT STUDIES",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Administration in",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bachelor-of-administration-industrial-and-organisational-psychology",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "Bachelor of Administration Industrial and Organisational Psychology",
+      "normalized_name": "Bachelor of Administration Industrial and Organisational Psychology",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "ECONOMIC SCIENCES",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Administration Industrial and",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bachelor-of-consumer",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "Bachelor of Consumer",
+      "normalized_name": "Bachelor of Consumer",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "PHARMACY",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Consumer",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bachelor-of-divinity-bdiv",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "Bachelor of Divinity (BDiv)",
+      "normalized_name": "Bachelor of Divinity (BDiv)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "THEOLOGY",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Divinity (BDiv)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bachelor-of-health-sciences",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "Bachelor of Health Sciences",
+      "normalized_name": "Bachelor of Health Sciences",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "HEALTH",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Health Sciences",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bachelor-of-health-sciences-in-occupational-hygiene",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "Bachelor of Health Sciences in Occupational Hygiene",
+      "normalized_name": "Bachelor of Health Sciences in Occupational Hygiene",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "PHARMACY",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Health Sciences in",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bachelor-of-human-resource",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "Bachelor of Human Resource",
+      "normalized_name": "Bachelor of Human Resource",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "ECONOMIC SCIENCES",
+      "campus": null,
+      "min_aps": 22,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Human Resource",
+      "extraction_confidence": 0.91,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bachelor-of-philosophy-bphil",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "Bachelor of Philosophy (BPhil)",
+      "normalized_name": "Bachelor of Philosophy (BPhil)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "PHILOSOPHY",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Philosophy (BPhil)",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bachelor-of-social",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "Bachelor of Social",
+      "normalized_name": "Bachelor of Social",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "GOVERNMENT STUDIES",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Social",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bachelor-of-social-work-social-work-level-4-50-59-for-language-of-tuition",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "Bachelor of Social Work Social Work • Level 4 (50-59%) for language of tuition",
+      "normalized_name": "Bachelor of Social Work Social Work • Level 4 (50-59%) for language of tuition",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "PSYCHOSOCIAL HEALTH",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Social Work Social Work • Level 4 (50-59%) for language of tuition",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bcom-bcom",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BCom (BCom)",
+      "normalized_name": "BCom (BCom)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "ECONOMIC SCIENCES",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Commerce (BCom)",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bcom-bcom-human-resource",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BCom (BCom) Human Resource",
+      "normalized_name": "BCom (BCom) Human Resource",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "ECONOMIC SCIENCES",
+      "campus": null,
+      "min_aps": 22,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Commerce (BCom) Human Resource",
+      "extraction_confidence": 0.91,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bcom-bcom-in-accounting-mathematics-level-3-40-49",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BCom (BCom) in Accounting • Mathematics level 3 (40-49%)",
+      "normalized_name": "BCom (BCom) in Accounting • Mathematics level 3 (40-49%)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "ACCOUNTING SCIENCES",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Commerce (BCom) in Accounting • Mathematics level 3 (40-49%)",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bcom-bcom-in-chartered-accountancy-mathematics-level-5-60-59-if-the-student",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BCom (BCom) in Chartered Accountancy • Mathematics level 5 (60-59%) if the student",
+      "normalized_name": "BCom (BCom) in Chartered Accountancy • Mathematics level 5 (60-59%) if the student",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "ACCOUNTING SCIENCES",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Commerce (BCom) in Chartered Accountancy • Mathematics level 5 (60-59%) if the student",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bcom-bcom-in-chartered-accountancy-mathematics-level-5-60-69-if-the-student",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BCom (BCom) in Chartered Accountancy • Mathematics level 5 (60-69%) if the student",
+      "normalized_name": "BCom (BCom) in Chartered Accountancy • Mathematics level 5 (60-69%) if the student",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "ACCOUNTING SCIENCES",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Commerce (BCom) in Chartered Accountancy • Mathematics level 5 (60-69%) if the student",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bcom-bcom-in-financial-accountancy-mathematics-level-4-50-59",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BCom (BCom) in Financial Accountancy • Mathematics level 4 (50-59%)",
+      "normalized_name": "BCom (BCom) in Financial Accountancy • Mathematics level 4 (50-59%)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "ACCOUNTING SCIENCES",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Commerce (BCom) in Financial Accountancy • Mathematics level 4 (50-59%)",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bcom-bcom-in-forensic-accountancy-mathematics-level-5-60-69-if-the-student",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BCom (BCom) in Forensic Accountancy • Mathematics level 5 (60-69%) if the student",
+      "normalized_name": "BCom (BCom) in Forensic Accountancy • Mathematics level 5 (60-69%) if the student",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "ACCOUNTING SCIENCES",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Commerce (BCom) in Forensic Accountancy • Mathematics level 5 (60-69%) if the student",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bcom-bcom-in-industrial-and-organisational-psychology",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BCom (BCom) in Industrial and Organisational Psychology",
+      "normalized_name": "BCom (BCom) in Industrial and Organisational Psychology",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "ECONOMIC SCIENCES",
+      "campus": null,
+      "min_aps": 22,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Commerce (BCom) in Industrial and",
+      "extraction_confidence": 0.91,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bcom-bcom-in-management",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BCom (BCom) in Management",
+      "normalized_name": "BCom (BCom) in Management",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "ACCOUNTING SCIENCES",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Commerce (BCom) in Management",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bcom-bcom-in-operations-research-mathematics-level-4-50-59",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BCom (BCom) in Operations Research • Mathematics level 4 (50-59%)",
+      "normalized_name": "BCom (BCom) in Operations Research • Mathematics level 4 (50-59%)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "ECONOMIC SCIENCES",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Commerce (BCom) in Operations Research • Mathematics level 4 (50-59%)",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bcom-in-law",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BCom in Law",
+      "normalized_name": "BCom in Law",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "ENGINEERING",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Commerce in Law",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bed",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BEd",
+      "normalized_name": "BEd",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "EDUCATION",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Education",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bed-bed",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BEd (BEd)",
+      "normalized_name": "BEd (BEd)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "EDUCATION",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Education (BEd)",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bed-in-early",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BEd in Early",
+      "normalized_name": "BEd in Early",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "EDUCATION",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Education in Early",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--beng",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BEng",
+      "normalized_name": "BEng",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "ENGINEERING",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Engineering",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bnurs-nursing-physical-sciences-or-mathematics-or-life-sciences-on",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BNurs Nursing • Physical Sciences OR Mathematics OR Life Sciences on",
+      "normalized_name": "BNurs Nursing • Physical Sciences OR Mathematics OR Life Sciences on",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "NURSING",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Nursing Nursing • Physical Sciences OR Mathematics OR Life Sciences on",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bpharm",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BPharm",
+      "normalized_name": "BPharm",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "PHARMACY",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Pharmacy",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bsc-in-actuarial",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BSc in Actuarial",
+      "normalized_name": "BSc in Actuarial",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "EDUCATION",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Science in Actuarial",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bsc-in-agricultural-sciences",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BSc in Agricultural Sciences",
+      "normalized_name": "BSc in Agricultural Sciences",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "EDUCATION",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Science in",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bsc-in-biological",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BSc in Biological",
+      "normalized_name": "BSc in Biological",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "EDUCATION",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Science in Biological",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bsc-in-business",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BSc in Business",
+      "normalized_name": "BSc in Business",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "EDUCATION",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Science in Business",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bsc-in-business-analytics",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BSc in Business Analytics",
+      "normalized_name": "BSc in Business Analytics",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "EDUCATION",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Science in",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bsc-in-dietetics",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BSc in Dietetics",
+      "normalized_name": "BSc in Dietetics",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "PHARMACY",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Science in",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bsc-in-environmental-sciences",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BSc in Environmental Sciences",
+      "normalized_name": "BSc in Environmental Sciences",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "EDUCATION",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Science in",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bsc-in-financial",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BSc in Financial",
+      "normalized_name": "BSc in Financial",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "EDUCATION",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Science in Financial",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bsc-in-financial-mathematics",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BSc in Financial Mathematics",
+      "normalized_name": "BSc in Financial Mathematics",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "EDUCATION",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Science in",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bsc-in-indigenous-knowledge-systems",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BSc in Indigenous Knowledge Systems",
+      "normalized_name": "BSc in Indigenous Knowledge Systems",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "EDUCATION",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Science in",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bsc-in-information-technology",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BSc in Information Technology",
+      "normalized_name": "BSc in Information Technology",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "EDUCATION",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Science in",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bsc-in-mathematical-sciences",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BSc in Mathematical Sciences",
+      "normalized_name": "BSc in Mathematical Sciences",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "EDUCATION",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Science in",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bsc-in-quantitative-risk-management",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BSc in Quantitative Risk Management",
+      "normalized_name": "BSc in Quantitative Risk Management",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "EDUCATION",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Science in",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bsc-in-urban-and-regional-planning",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BSc in Urban and Regional Planning",
+      "normalized_name": "BSc in Urban and Regional Planning",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "EDUCATION",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Science in Urban and",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bsc-with-applied-mathematics-and-chemistry",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BSc with Applied Mathematics and Chemistry",
+      "normalized_name": "BSc with Applied Mathematics and Chemistry",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "EDUCATION",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Science with Applied Mathematics and Chemistry",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bsc-with-chemistry-and-physics",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BSc with Chemistry and Physics",
+      "normalized_name": "BSc with Chemistry and Physics",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "EDUCATION",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Science with Chemistry and Physics",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bsocsci-with-psychology-level-4-50-59-for-language-of-tuition",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BSocSci with Psychology • Level 4 (50-59%) for language of tuition",
+      "normalized_name": "BSocSci with Psychology • Level 4 (50-59%) for language of tuition",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "PSYCHOSOCIAL HEALTH",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Social Science with Psychology • Level 4 (50-59%) for language of tuition",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--diploma-in-animal",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "Diploma in Animal",
+      "normalized_name": "Diploma in Animal",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "EDUCATION",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Diploma in Animal",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--diploma-in-animal-health-english-level-3",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "Diploma in Animal Health • English level 3",
+      "normalized_name": "Diploma in Animal Health • English level 3",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "EDUCATION",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Diploma in Animal Health • English level 3",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--diploma-in-coaching",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "Diploma in Coaching",
+      "normalized_name": "Diploma in Coaching",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "HEALTH",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Diploma in Coaching",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--diploma-in-music",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "Diploma in Music",
+      "normalized_name": "Diploma in Music",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "MUSIC",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Diploma in Music",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--diploma-in-plant-science-english-level-3",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "Diploma in Plant Science • English level 3",
+      "normalized_name": "Diploma in Plant Science • English level 3",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "EDUCATION",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Diploma in Plant Science • English level 3",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--llb",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "LLB",
+      "normalized_name": "LLB",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "ENGINEERING",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Laws",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--llb-llb",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "LLB (LLB)",
+      "normalized_name": "LLB (LLB)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "ENGINEERING",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Laws (LLB)",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    }
+  ],
+  "programmes_all": [
+    {
+      "id": "programme:north-west-university--ba",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BA",
+      "normalized_name": "BA",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "COMMUNICATION",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Arts",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--ba-ba",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BA (BA)",
+      "normalized_name": "BA (BA)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "COMMUNICATION",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Arts (BA)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--ba-ba-with-industrial-and-organisational-psychology",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BA (BA) with Industrial and Organisational Psychology",
+      "normalized_name": "BA (BA) with Industrial and Organisational Psychology",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "ECONOMIC SCIENCES",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Arts (BA) with Industrial and",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--ba-in-ancient-languages-as-first-qualification-ns-c-or-nc-v-for-degree-studies-or",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BA in Ancient Languages as first qualification • NS(C) or NC(V) for degree studies, or",
+      "normalized_name": "BA in Ancient Languages as first qualification • NS(C) or NC(V) for degree studies, or",
+      "qualification_type": "NCV",
+      "qualification_level": null,
+      "faculty_name": "THEOLOGY",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "BA in Ancient Languages as first qualification • NS(C) or NC(V) for degree studies, or",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--ba-in-behavioural",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BA in Behavioural",
+      "normalized_name": "BA in Behavioural",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "PSYCHOSOCIAL HEALTH",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Arts in Behavioural",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--ba-in-law-ba-in-law",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BA in Law (BA in Law)",
+      "normalized_name": "BA in Law (BA in Law)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "ENGINEERING",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Arts in",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--ba-in-law",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BA in Law)",
+      "normalized_name": "BA in Law)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "ENGINEERING",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "BA in Law)",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--ba-in-pastoral-psychology-as-first",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BA in Pastoral Psychology as first",
+      "normalized_name": "BA in Pastoral Psychology as first",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "THEOLOGY",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "BA in Pastoral Psychology as first",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--ba-with-tourism-management-duration-3-years-22-mahikeng",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BA with Tourism Management • DURATION: 3 years 22 Mahikeng",
+      "normalized_name": "BA with Tourism Management • DURATION: 3 years 22 Mahikeng",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "TOURISM MANAGEMENT",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Arts with Tourism Management • DURATION: 3 years 22 Mahikeng",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bachelor-of-administration",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "Bachelor of Administration",
+      "normalized_name": "Bachelor of Administration",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "ECONOMIC SCIENCES",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Administration",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bachelor-of-administration-in-development-and",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "Bachelor of Administration in Development and",
+      "normalized_name": "Bachelor of Administration in Development and",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "GOVERNMENT STUDIES",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Administration in",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bachelor-of-administration-industrial-and-organisational-psychology",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "Bachelor of Administration Industrial and Organisational Psychology",
+      "normalized_name": "Bachelor of Administration Industrial and Organisational Psychology",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "ECONOMIC SCIENCES",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Administration Industrial and",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bachelor-of-consumer",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "Bachelor of Consumer",
+      "normalized_name": "Bachelor of Consumer",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "PHARMACY",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Consumer",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bachelor-of-divinity-bdiv",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "Bachelor of Divinity (BDiv)",
+      "normalized_name": "Bachelor of Divinity (BDiv)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "THEOLOGY",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Divinity (BDiv)",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bachelor-of-health-sciences",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "Bachelor of Health Sciences",
+      "normalized_name": "Bachelor of Health Sciences",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "HEALTH",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Health Sciences",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bachelor-of-health-sciences-in-occupational-hygiene",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "Bachelor of Health Sciences in Occupational Hygiene",
+      "normalized_name": "Bachelor of Health Sciences in Occupational Hygiene",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "PHARMACY",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Health Sciences in",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bachelor-of-human-resource",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "Bachelor of Human Resource",
+      "normalized_name": "Bachelor of Human Resource",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "ECONOMIC SCIENCES",
+      "campus": null,
+      "min_aps": 22,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Human Resource",
+      "extraction_confidence": 0.91,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bachelor-of-philosophy-bphil",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "Bachelor of Philosophy (BPhil)",
+      "normalized_name": "Bachelor of Philosophy (BPhil)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "PHILOSOPHY",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Philosophy (BPhil)",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bachelor-of-social",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "Bachelor of Social",
+      "normalized_name": "Bachelor of Social",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "GOVERNMENT STUDIES",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Social",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bachelor-of-social-work-social-work-level-4-50-59-for-language-of-tuition",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "Bachelor of Social Work Social Work • Level 4 (50-59%) for language of tuition",
+      "normalized_name": "Bachelor of Social Work Social Work • Level 4 (50-59%) for language of tuition",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "PSYCHOSOCIAL HEALTH",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Social Work Social Work • Level 4 (50-59%) for language of tuition",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bcom-bcom",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BCom (BCom)",
+      "normalized_name": "BCom (BCom)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "ECONOMIC SCIENCES",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Commerce (BCom)",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bcom-bcom-human-resource",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BCom (BCom) Human Resource",
+      "normalized_name": "BCom (BCom) Human Resource",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "ECONOMIC SCIENCES",
+      "campus": null,
+      "min_aps": 22,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Commerce (BCom) Human Resource",
+      "extraction_confidence": 0.91,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bcom-bcom-in-accounting-mathematics-level-3-40-49",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BCom (BCom) in Accounting • Mathematics level 3 (40-49%)",
+      "normalized_name": "BCom (BCom) in Accounting • Mathematics level 3 (40-49%)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "ACCOUNTING SCIENCES",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Commerce (BCom) in Accounting • Mathematics level 3 (40-49%)",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bcom-bcom-in-chartered-accountancy-mathematics-level-5-60-59-if-the-student",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BCom (BCom) in Chartered Accountancy • Mathematics level 5 (60-59%) if the student",
+      "normalized_name": "BCom (BCom) in Chartered Accountancy • Mathematics level 5 (60-59%) if the student",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "ACCOUNTING SCIENCES",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Commerce (BCom) in Chartered Accountancy • Mathematics level 5 (60-59%) if the student",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bcom-bcom-in-chartered-accountancy-mathematics-level-5-60-69-if-the-student",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BCom (BCom) in Chartered Accountancy • Mathematics level 5 (60-69%) if the student",
+      "normalized_name": "BCom (BCom) in Chartered Accountancy • Mathematics level 5 (60-69%) if the student",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "ACCOUNTING SCIENCES",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Commerce (BCom) in Chartered Accountancy • Mathematics level 5 (60-69%) if the student",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bcom-bcom-in-financial-accountancy-mathematics-level-4-50-59",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BCom (BCom) in Financial Accountancy • Mathematics level 4 (50-59%)",
+      "normalized_name": "BCom (BCom) in Financial Accountancy • Mathematics level 4 (50-59%)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "ACCOUNTING SCIENCES",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Commerce (BCom) in Financial Accountancy • Mathematics level 4 (50-59%)",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bcom-bcom-in-forensic-accountancy-mathematics-level-5-60-69-if-the-student",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BCom (BCom) in Forensic Accountancy • Mathematics level 5 (60-69%) if the student",
+      "normalized_name": "BCom (BCom) in Forensic Accountancy • Mathematics level 5 (60-69%) if the student",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "ACCOUNTING SCIENCES",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Commerce (BCom) in Forensic Accountancy • Mathematics level 5 (60-69%) if the student",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bcom-bcom-in-industrial-and-organisational-psychology",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BCom (BCom) in Industrial and Organisational Psychology",
+      "normalized_name": "BCom (BCom) in Industrial and Organisational Psychology",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "ECONOMIC SCIENCES",
+      "campus": null,
+      "min_aps": 22,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Commerce (BCom) in Industrial and",
+      "extraction_confidence": 0.91,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bcom-bcom-in-management",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BCom (BCom) in Management",
+      "normalized_name": "BCom (BCom) in Management",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "ACCOUNTING SCIENCES",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Commerce (BCom) in Management",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bcom-bcom-in-operations-research-mathematics-level-4-50-59",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BCom (BCom) in Operations Research • Mathematics level 4 (50-59%)",
+      "normalized_name": "BCom (BCom) in Operations Research • Mathematics level 4 (50-59%)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "ECONOMIC SCIENCES",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Commerce (BCom) in Operations Research • Mathematics level 4 (50-59%)",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bcom-in-law",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BCom in Law",
+      "normalized_name": "BCom in Law",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "ENGINEERING",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Commerce in Law",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bcom-in-law",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BCom in Law)",
+      "normalized_name": "BCom in Law)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "ENGINEERING",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "BCom in Law)",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bed",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BEd",
+      "normalized_name": "BEd",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "EDUCATION",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Education",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bed-bed",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BEd (BEd)",
+      "normalized_name": "BEd (BEd)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "EDUCATION",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Education (BEd)",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bed-in-early",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BEd in Early",
+      "normalized_name": "BEd in Early",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "EDUCATION",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Education in Early",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--beng",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BEng",
+      "normalized_name": "BEng",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "ENGINEERING",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Engineering",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bnurs-nursing-physical-sciences-or-mathematics-or-life-sciences-on",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BNurs Nursing • Physical Sciences OR Mathematics OR Life Sciences on",
+      "normalized_name": "BNurs Nursing • Physical Sciences OR Mathematics OR Life Sciences on",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "NURSING",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Nursing Nursing • Physical Sciences OR Mathematics OR Life Sciences on",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bpharm",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BPharm",
+      "normalized_name": "BPharm",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "PHARMACY",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Pharmacy",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bsc-in-actuarial",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BSc in Actuarial",
+      "normalized_name": "BSc in Actuarial",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "EDUCATION",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Science in Actuarial",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bsc-in-agricultural-sciences",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BSc in Agricultural Sciences",
+      "normalized_name": "BSc in Agricultural Sciences",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "EDUCATION",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Science in",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bsc-in-biological",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BSc in Biological",
+      "normalized_name": "BSc in Biological",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "EDUCATION",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Science in Biological",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bsc-in-business",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BSc in Business",
+      "normalized_name": "BSc in Business",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "EDUCATION",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Science in Business",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bsc-in-business-analytics",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BSc in Business Analytics",
+      "normalized_name": "BSc in Business Analytics",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "EDUCATION",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Science in",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bsc-in-dietetics",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BSc in Dietetics",
+      "normalized_name": "BSc in Dietetics",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "PHARMACY",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Science in",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bsc-in-environmental-sciences",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BSc in Environmental Sciences",
+      "normalized_name": "BSc in Environmental Sciences",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "EDUCATION",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Science in",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bsc-in-financial",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BSc in Financial",
+      "normalized_name": "BSc in Financial",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "EDUCATION",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Science in Financial",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bsc-in-financial-mathematics",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BSc in Financial Mathematics",
+      "normalized_name": "BSc in Financial Mathematics",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "EDUCATION",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Science in",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bsc-in-indigenous-knowledge-systems",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BSc in Indigenous Knowledge Systems",
+      "normalized_name": "BSc in Indigenous Knowledge Systems",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "EDUCATION",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Science in",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bsc-in-information-technology",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BSc in Information Technology",
+      "normalized_name": "BSc in Information Technology",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "EDUCATION",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Science in",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bsc-in-mathematical-sciences",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BSc in Mathematical Sciences",
+      "normalized_name": "BSc in Mathematical Sciences",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "EDUCATION",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Science in",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bsc-in-quantitative-risk-management",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BSc in Quantitative Risk Management",
+      "normalized_name": "BSc in Quantitative Risk Management",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "EDUCATION",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Science in",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bsc-in-urban-and-regional-planning",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BSc in Urban and Regional Planning",
+      "normalized_name": "BSc in Urban and Regional Planning",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "EDUCATION",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Science in Urban and",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bsc-with-applied-mathematics-and-chemistry",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BSc with Applied Mathematics and Chemistry",
+      "normalized_name": "BSc with Applied Mathematics and Chemistry",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "EDUCATION",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Science with Applied Mathematics and Chemistry",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bsc-with-chemistry-and-physics",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BSc with Chemistry and Physics",
+      "normalized_name": "BSc with Chemistry and Physics",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "EDUCATION",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Science with Chemistry and Physics",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--bsocsci-with-psychology-level-4-50-59-for-language-of-tuition",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "BSocSci with Psychology • Level 4 (50-59%) for language of tuition",
+      "normalized_name": "BSocSci with Psychology • Level 4 (50-59%) for language of tuition",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "PSYCHOSOCIAL HEALTH",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Social Science with Psychology • Level 4 (50-59%) for language of tuition",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--diploma-in-animal",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "Diploma in Animal",
+      "normalized_name": "Diploma in Animal",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "EDUCATION",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Diploma in Animal",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--diploma-in-animal-health-english-level-3",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "Diploma in Animal Health • English level 3",
+      "normalized_name": "Diploma in Animal Health • English level 3",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "EDUCATION",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Diploma in Animal Health • English level 3",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--diploma-in-coaching",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "Diploma in Coaching",
+      "normalized_name": "Diploma in Coaching",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "HEALTH",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Diploma in Coaching",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--diploma-in-music",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "Diploma in Music",
+      "normalized_name": "Diploma in Music",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "MUSIC",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Diploma in Music",
+      "extraction_confidence": 0.78,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--diploma-in-plant-science-english-level-3",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "Diploma in Plant Science • English level 3",
+      "normalized_name": "Diploma in Plant Science • English level 3",
+      "qualification_type": "Diploma",
+      "qualification_level": null,
+      "faculty_name": "EDUCATION",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Diploma in Plant Science • English level 3",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--llb",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "LLB",
+      "normalized_name": "LLB",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "ENGINEERING",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Laws",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    },
+    {
+      "id": "programme:north-west-university--llb-llb",
+      "institution_slug": "north-west-university",
+      "institution_name": "North-West University",
+      "name": "LLB (LLB)",
+      "normalized_name": "LLB (LLB)",
+      "qualification_type": "Degree",
+      "qualification_level": null,
+      "faculty_name": "ENGINEERING",
+      "campus": null,
+      "min_aps": null,
+      "programme_code": null,
+      "saqa_code": null,
+      "subjects_compulsory": [],
+      "subject_or_groups": [],
+      "fees_per_year": null,
+      "source_excerpt": "Bachelor of Laws (LLB)",
+      "extraction_confidence": 0.86,
+      "source_paths": [
+        "generated/v3/programmes.json"
+      ]
+    }
+  ],
+  "counts": {
+    "campuses": 3,
+    "faculties_best": 18,
+    "faculties_all": 18,
+    "programmes_best": 61,
+    "programmes_all": 62
+  }
+}

@@ -1,0 +1,423 @@
+{
+  "faculties": [],
+  "programmes": [
+    {
+      "id": "prog:337:NATED|3787633babc5|report 191",
+      "institutionId": "337",
+      "name": "REPORT 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 2,
+            "raw_span": "Accounting L2",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+              "char_start": 4565,
+              "char_end": 4578,
+              "excerpt": "Accounting L2"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+      "sourceUrl": "https://goldfieldstvet.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+        "char_start": 4478,
+        "char_end": 4488,
+        "excerpt": "REPORT 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:337:NCV|67e7d17759c8|nc(v) l2",
+      "institutionId": "337",
+      "name": "NC(V) L2",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+      "sourceUrl": "https://goldfieldstvet.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+        "char_start": 5353,
+        "char_end": 5361,
+        "excerpt": "NC(V) L2"
+      },
+      "normalization_key": "NCV|67e7d17759c8|nc(v) l2"
+    },
+    {
+      "id": "prog:337:NCV|b5644ec3803a|nc(v) l3",
+      "institutionId": "337",
+      "name": "NC(V) L3",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+      "sourceUrl": "https://goldfieldstvet.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+        "char_start": 5454,
+        "char_end": 5462,
+        "excerpt": "NC(V) L3"
+      },
+      "normalization_key": "NCV|b5644ec3803a|nc(v) l3"
+    },
+    {
+      "id": "prog:337:NCV|0b8628209db7|nc(v) l4",
+      "institutionId": "337",
+      "name": "NC(V) L4",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+      "sourceUrl": "https://goldfieldstvet.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+        "char_start": 5550,
+        "char_end": 5558,
+        "excerpt": "NC(V) L4"
+      },
+      "normalization_key": "NCV|0b8628209db7|nc(v) l4"
+    },
+    {
+      "id": "prog:337:NCV|0b8628209db7|nc(v) l4",
+      "institutionId": "337",
+      "name": "NC(V) L4",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+      "sourceUrl": "https://goldfieldstvet.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+        "char_start": 9252,
+        "char_end": 9260,
+        "excerpt": "NC(V) L4"
+      },
+      "normalization_key": "NCV|0b8628209db7|nc(v) l4"
+    },
+    {
+      "id": "prog:337:NCV|0b8628209db7|nc(v) l4",
+      "institutionId": "337",
+      "name": "NC(V) L4",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+      "sourceUrl": "https://goldfieldstvet.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+        "char_start": 10539,
+        "char_end": 10547,
+        "excerpt": "NC(V) L4"
+      },
+      "normalization_key": "NCV|0b8628209db7|nc(v) l4"
+    },
+    {
+      "id": "prog:337:NCV|0b8628209db7|nc(v) l4",
+      "institutionId": "337",
+      "name": "NC(V) L4",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+      "sourceUrl": "https://goldfieldstvet.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+        "char_start": 11676,
+        "char_end": 11684,
+        "excerpt": "NC(V) L4"
+      },
+      "normalization_key": "NCV|0b8628209db7|nc(v) l4"
+    },
+    {
+      "id": "prog:337:NCV|0b8628209db7|nc(v) l4",
+      "institutionId": "337",
+      "name": "NC(V) L4",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+      "sourceUrl": "https://goldfieldstvet.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+        "char_start": 13920,
+        "char_end": 13928,
+        "excerpt": "NC(V) L4"
+      },
+      "normalization_key": "NCV|0b8628209db7|nc(v) l4"
+    },
+    {
+      "id": "prog:337:NCV|0b8628209db7|nc(v) l4",
+      "institutionId": "337",
+      "name": "NC(V) L4",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+      "sourceUrl": "https://goldfieldstvet.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+        "char_start": 15012,
+        "char_end": 15020,
+        "excerpt": "NC(V) L4"
+      },
+      "normalization_key": "NCV|0b8628209db7|nc(v) l4"
+    },
+    {
+      "id": "prog:337:NATED|3787633babc5|report 191",
+      "institutionId": "337",
+      "name": "REPORT 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+      "sourceUrl": "https://goldfieldstvet.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+        "char_start": 16775,
+        "char_end": 16785,
+        "excerpt": "REPORT 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:337:NATED|3787633babc5|report 191",
+      "institutionId": "337",
+      "name": "REPORT 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+      "sourceUrl": "https://goldfieldstvet.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+        "char_start": 18396,
+        "char_end": 18406,
+        "excerpt": "REPORT 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:337:NATED|3787633babc5|report 191",
+      "institutionId": "337",
+      "name": "REPORT 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+      "sourceUrl": "https://goldfieldstvet.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+        "char_start": 18802,
+        "char_end": 18812,
+        "excerpt": "REPORT 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:337:NCV|67e7d17759c8|nc(v) l2",
+      "institutionId": "337",
+      "name": "NC(V) L2",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+      "sourceUrl": "https://goldfieldstvet.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+        "char_start": 19510,
+        "char_end": 19518,
+        "excerpt": "NC(V) L2"
+      },
+      "normalization_key": "NCV|67e7d17759c8|nc(v) l2"
+    },
+    {
+      "id": "prog:337:NCV|b5644ec3803a|nc(v) l3",
+      "institutionId": "337",
+      "name": "NC(V) L3",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+      "sourceUrl": "https://goldfieldstvet.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+        "char_start": 19675,
+        "char_end": 19683,
+        "excerpt": "NC(V) L3"
+      },
+      "normalization_key": "NCV|b5644ec3803a|nc(v) l3"
+    },
+    {
+      "id": "prog:337:NCV|0b8628209db7|nc(v) l4",
+      "institutionId": "337",
+      "name": "NC(V) L4",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+      "sourceUrl": "https://goldfieldstvet.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+        "char_start": 19823,
+        "char_end": 19831,
+        "excerpt": "NC(V) L4"
+      },
+      "normalization_key": "NCV|0b8628209db7|nc(v) l4"
+    },
+    {
+      "id": "prog:337:NCV|0b8628209db7|nc(v) l4",
+      "institutionId": "337",
+      "name": "NC(V) L4",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+      "sourceUrl": "https://goldfieldstvet.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+        "char_start": 20832,
+        "char_end": 20840,
+        "excerpt": "NC(V) L4"
+      },
+      "normalization_key": "NCV|0b8628209db7|nc(v) l4"
+    },
+    {
+      "id": "prog:337:NCV|67e7d17759c8|nc(v) l2",
+      "institutionId": "337",
+      "name": "NC(V) L2",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+      "sourceUrl": "https://goldfieldstvet.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+        "char_start": 23128,
+        "char_end": 23136,
+        "excerpt": "NC(V) L2"
+      },
+      "normalization_key": "NCV|67e7d17759c8|nc(v) l2"
+    },
+    {
+      "id": "prog:337:NCV|b5644ec3803a|nc(v) l3",
+      "institutionId": "337",
+      "name": "NC(V) L3",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+      "sourceUrl": "https://goldfieldstvet.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+        "char_start": 23292,
+        "char_end": 23300,
+        "excerpt": "NC(V) L3"
+      },
+      "normalization_key": "NCV|b5644ec3803a|nc(v) l3"
+    },
+    {
+      "id": "prog:337:NATED|3787633babc5|report 191",
+      "institutionId": "337",
+      "name": "REPORT 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+      "sourceUrl": "https://goldfieldstvet.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+        "char_start": 26999,
+        "char_end": 27009,
+        "excerpt": "REPORT 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    }
+  ],
+  "admissions_rules": [
+    {
+      "id": "adm:337:NATED|3787633babc5|report 191:subjects",
+      "institutionId": "337",
+      "programmeId": "prog:337:NATED|3787633babc5|report 191",
+      "ruleType": "subject_requirements",
+      "detail": "Accounting >= 2%",
+      "subjects": [
+        {
+          "subject": "Accounting",
+          "minimum_percentage": 2,
+          "raw_span": "Accounting L2",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+            "char_start": 4565,
+            "char_end": 4578,
+            "excerpt": "Accounting L2"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/goldfields-tvet-college.pdf",
+      "sourceUrl": "https://goldfieldstvet.edu.za/"
+    }
+  ],
+  "aps_rules": [],
+  "llm_calls": 0
+}

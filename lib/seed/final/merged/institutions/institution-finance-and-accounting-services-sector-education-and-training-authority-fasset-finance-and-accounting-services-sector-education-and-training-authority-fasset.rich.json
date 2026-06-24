@@ -1,0 +1,55 @@
+{
+  "institution": {
+    "id": "institution:finance-and-accounting-services-sector-education-and-training-authority-fasset",
+    "slug": "finance-and-accounting-services-sector-education-and-training-authority-fasset",
+    "institution_id_raw": "226",
+    "name": "Finance and Accounting Services Sector Education and Training Authority (FASSET)",
+    "institution_type": "seta",
+    "city": "Randburg",
+    "province": "Gauteng",
+    "official_website": "https://www.fasset.org.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/226/finance-and-accounting-services-sector-education-and-training-authority-fasset",
+    "source_paths": [
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "sector": "training",
+      "province": "Gauteng",
+      "city": "Randburg",
+      "physical_address": "1st Floor, 296 Kent Avenue, Ferndale, Randburg",
+      "postal_address": "PO Box 6801, Cresta, 2118",
+      "contact_phone_numbers": [
+        "011 476 8570 / 087 821 2680"
+      ],
+      "socials": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": "",
+        "x": "",
+        "youtube": ""
+      },
+      "accreditation": {
+        "dh et": null,
+        "saqa": null
+      },
+      "sources": [
+        "https://nationalgovernment.co.za/units/view/226/finance-and-accounting-services-sector-education-and-training-authority-fasset",
+        "https://www.fasset.org.za/"
+      ],
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "institution": {
+    "id": "institution:lovedale-tvet-college",
+    "slug": "lovedale-tvet-college",
+    "institution_id_raw": "312",
+    "name": "Lovedale TVET College",
+    "institution_type": "tvet-college",
+    "city": "King William's Town",
+    "province": "",
+    "official_website": "https://www.lovedale.edu.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/312/lovedale-tvet-college",
+    "source_paths": [
+      "generated/v3/institutions.enriched.json",
+      "institutions.json",
+      "result.json",
+      "workik/batch1/cursor/institution-312-lovedale-tvet-college.json"
+    ],
+    "profile": {
+      "sector": "higher education",
+      "city": "King William's Town",
+      "physical_address": "1 Amatola Row, King William's Town",
+      "postal_address": "PO Box 2156, King William's Town, 5600",
+      "contact_phone_numbers": [
+        "087 238 2223"
+      ],
+      "socials": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": "",
+        "x": "",
+        "youtube": ""
+      },
+      "accreditation": {
+        "dh et": "Accredited",
+        "saqa": null
+      },
+      "sources": [
+        "https://nationalgovernment.co.za/units/view/312/lovedale-tvet-college",
+        "https://www.lovedale.edu.za/"
+      ],
+      "qualification_types": [
+        "NC(V)",
+        "Nated (Report 191)",
+        "Skills Programmes",
+        "Apprenticeships"
+      ],
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

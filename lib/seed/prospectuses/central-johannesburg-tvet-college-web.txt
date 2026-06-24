@@ -1,0 +1,8 @@
+SOURCE: https://fundiconnect.co.za/institutions/central-johannesburg-tvet-college/
+INSTITUTION: Central Johannesburg TVET College
+SLUG: central-johannesburg-tvet-college
+SCRAPED: 2026-05-27
+NOTE: Web-scraped programme and admission info. No official PDF exists.
+======================================================================
+
+Central Johannesburg TVET College - Fees & Admissions 2026

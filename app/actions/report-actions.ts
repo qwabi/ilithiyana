@@ -23,6 +23,9 @@ import {
 } from '@/lib/email/templates';
 import { brand } from '@/lib/site-config';
 import { getLearnerForParentUser } from '@/lib/parent-learner-access';
+import { ensureParentRowFromAuthUser } from '@/lib/parent-profile';
+import { loadSessionForRequest } from '@/lib/onboarding/api-auth';
+import { persistManualReportForLearner } from '@/lib/reports/persist-manual-report';
 import { cascadeDeleteLearnerReport } from '@/lib/reports/delete-learner-report';
 import {
   getSubjectById,
@@ -44,6 +47,65 @@ export type ManualReportRow = {
   subjectId: string;
   percentage: number;
 };
+
+/** Onboarding reports step — session id proves ownership; no parent profile_id join required. */
+export async function saveOnboardingManualReport(input: {
+  sessionId: string;
+  learnerId: string;
+  term: string;
+  academicYear: number;
+  rows: ManualReportRow[];
+}): Promise<
+  { ok: true; reportId: string } | { ok: false; error: string }
+> {
+  const loaded = await loadSessionForRequest(input.sessionId);
+  if (!loaded.ok) {
+    return { ok: false, error: loaded.error };
+  }
+
+  const session = loaded.session;
+  if (session.payment_status !== 'complete') {
+    return {
+      ok: false,
+      error: 'Complete payment before adding school reports.',
+    };
+  }
+
+  const learnerIds = session.learner_ids ?? [];
+  if (!learnerIds.includes(input.learnerId)) {
+    return {
+      ok: false,
+      error: 'This child is not part of your current enrolment session.',
+    };
+  }
+
+  const confirmedBy =
+    session.user_id ?? loaded.auth.userId ?? null;
+  if (!confirmedBy) {
+    return {
+      ok: false,
+      error: 'Account link missing. Refresh the page or sign in again.',
+    };
+  }
+
+  if (session.parent_id && session.user_id) {
+    const service = createServiceClient();
+    await service
+      .from('parents')
+      .update({ profile_id: session.user_id })
+      .eq('id', session.parent_id)
+      .or(`profile_id.is.null,profile_id.eq.${session.user_id}`);
+  }
+
+  return persistManualReportForLearner({
+    learnerId: input.learnerId,
+    term: input.term,
+    academicYear: input.academicYear,
+    rows: input.rows,
+    confirmedByProfileId: confirmedBy,
+    runAllocation: true,
+  });
+}
 
 export async function saveManualReport(input: {
   learnerId: string;
@@ -70,13 +132,20 @@ export async function saveManualReport(input: {
     return { ok: false, error: 'Duplicate subjects are not allowed' };
   }
 
-  const { data: learner } = await supabase
+  let access = await getLearnerForParentUser(user.id, learnerId);
+  if (!access && user.email) {
+    await ensureParentRowFromAuthUser(user.id, user.email);
+    access = await getLearnerForParentUser(user.id, learnerId);
+  }
+  if (!access) {
+    return { ok: false, error: 'Learner not found' };
+  }
+
+  const service = createServiceClient();
+  const { data: learner } = await service
     .from('learners')
-    .select(
-      'id, first_name, last_name, grade, subjects, parents!inner(email, first_name, last_name, profile_id)'
-    )
+    .select('id, first_name, last_name, grade, subjects')
     .eq('id', learnerId)
-    .eq('parents.profile_id', user.id)
     .single();
 
   if (!learner) {
@@ -122,7 +191,6 @@ export async function saveManualReport(input: {
     });
   }
 
-  const service = createServiceClient();
   const now = new Date().toISOString();
 
   const { data: report, error: reportError } = await service

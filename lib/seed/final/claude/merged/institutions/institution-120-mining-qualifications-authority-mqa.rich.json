@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "institution_id": "120",
+    "slug": "mining-qualifications-authority-mqa",
+    "name": "Mining Qualifications Authority (MQA)",
+    "institution_type": "seta",
+    "province": null,
+    "city": "Parktown",
+    "official_website": "https://mqa.org.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/120/mining-qualifications-authority-mqa",
+    "application_url": null,
+    "prospectus_url": null,
+    "nsfas_supported": null,
+    "distance_learning": null,
+    "accreditation": {
+      "dh et": null,
+      "saqa": null
+    },
+    "qualification_types": null
+  },
+  "profile": {},
+  "contact": {
+    "emails": [
+      "info@mqa.org.za"
+    ],
+    "phone_numbers": [
+      "0000053578",
+      "0000053292",
+      "0000055462",
+      "011 547 2850",
+      "013 696 8121",
+      "0000055521",
+      "0000051851",
+      "0000055196",
+      "014 555 8860",
+      "0000052162",
+      "0000014377",
+      "013 696 8120",
+      "0000053835",
+      "0000059675",
+      "0000053017",
+      "0000055216",
+      "0000051873",
+      "0000059458",
+      "0000054792",
+      "0000018400",
+      "011 547 2812",
+      "0000052591",
+      "0000018129",
+      "0000000204",
+      "0000053854",
+      "053 723 0100",
+      "0000018419",
+      "0000011524",
+      "047 505 1063",
+      "011 547 2600",
+      "0000018150",
+      "0000059479",
+      "0000011503",
+      "0000021104",
+      "0000054773",
+      "0000053559",
+      "011 547 2851",
+      "0000000016",
+      "0000014397",
+      "0000053311",
+      "0000053037",
+      "0000021083",
+      "0000054503",
+      "0000054523",
+      "0000052143",
+      "0000052611",
+      "0000000000"
+    ],
+    "physical_address": "7 Anerley Road, Parktown",
+    "postal_address": "Private Bag X118, Marshalltown, 2107",
+    "socials": {
+      "facebook": "https://www.facebook.com/MiningQualificationsAuthority/",
+      "instagram": "https://www.instagram.com/mqa_sa/?hl=en",
+      "linkedin": "",
+      "x": "https://twitter.com/MQA_SA",
+      "youtube": "https://www.youtube.com/channel/UCU3zxFLL9wNGJ3GgUsx5UcA"
+    }
+  },
+  "campuses": [],
+  "faculties": [],
+  "programmes": [],
+  "admission": {
+    "aps_name": null,
+    "aps_calculation_notes": null,
+    "minimum_aps_for_bachelors": null,
+    "minimum_aps_for_diplomas": null,
+    "minimum_entry_note": null,
+    "life_orientation_cap": null,
+    "aps_rules": [],
+    "programme_requirements": []
+  },
+  "sources": [
+    "generated/v3/institutions.enriched.json",
+    "institutions.json"
+  ],
+  "_stats": {
+    "campuses_count": 0,
+    "faculties_count": 0,
+    "programmes_count": 0,
+    "aps_rules_count": 0,
+    "adm_reqs_count": 0
+  }
+}

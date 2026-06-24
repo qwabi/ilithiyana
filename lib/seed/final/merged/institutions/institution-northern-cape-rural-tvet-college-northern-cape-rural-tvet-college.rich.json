@@ -1,0 +1,65 @@
+{
+  "institution": {
+    "id": "institution:northern-cape-rural-tvet-college",
+    "slug": "northern-cape-rural-tvet-college",
+    "institution_id_raw": "350",
+    "name": "Northern Cape Rural TVET College",
+    "institution_type": "tvet-college",
+    "city": "Upington",
+    "province": "Northern Cape",
+    "official_website": "https://ncrtvet.com/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/350/northern-cape-rural-tvet-college",
+    "source_paths": [
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "sector": "higher education",
+      "province": "Northern Cape",
+      "city": "Upington",
+      "physical_address": "1 Steve Naude Street, Blydeville, Upington, 8800",
+      "postal_address": "16 Weideman Street, Upington, 8800",
+      "contact_phone_numbers": [
+        "0871882064",
+        "054 332 4711"
+      ],
+      "application_url": "https://ncrtvet.com/apply-now/",
+      "socials": {
+        "facebook": "https://www.facebook.com/ncrtvet",
+        "instagram": "",
+        "linkedin": "",
+        "x": "https://twitter.com/NCRTVET/",
+        "youtube": "https://www.youtube.com/watch?v=CuevkEPDGMc&t=48s"
+      },
+      "accreditation": {
+        "dh et": "Accredited",
+        "saqa": null
+      },
+      "sources": [
+        "https://nationalgovernment.co.za/units/view/350/northern-cape-rural-tvet-college",
+        "https://ncrtvet.com/"
+      ],
+      "qualification_types": [
+        "NC(V)",
+        "Nated (Report 191)",
+        "Skills Programmes",
+        "Apprenticeships"
+      ],
+      "nsfas_supported": true,
+      "student_accommodation": true,
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

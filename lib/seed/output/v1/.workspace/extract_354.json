@@ -1,0 +1,88 @@
+{
+  "faculties": [],
+  "programmes": [
+    {
+      "id": "prog:354:NATED|3787633babc5|report 191",
+      "institutionId": "354",
+      "name": "REPORT 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sekhukhune-tvet-college-web.txt",
+      "sourceUrl": "https://southafricaportal.com/sekhukhune-tvet-college-courses-prospectus-and-requirements/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sekhukhune-tvet-college-web.txt",
+        "char_start": 839,
+        "char_end": 849,
+        "excerpt": "REPORT 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:354:NCV|d3d35f445aa2|ncv level 2",
+      "institutionId": "354",
+      "name": "NCV LEVEL 2",
+      "qualification_type": "NCV",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sekhukhune-tvet-college-web.txt",
+      "sourceUrl": "https://southafricaportal.com/sekhukhune-tvet-college-courses-prospectus-and-requirements/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sekhukhune-tvet-college-web.txt",
+        "char_start": 2294,
+        "char_end": 2305,
+        "excerpt": "NCV LEVEL 2"
+      },
+      "normalization_key": "NCV|d3d35f445aa2|ncv level 2"
+    },
+    {
+      "id": "prog:354:Degree|5f75057e98ee|bsc",
+      "institutionId": "354",
+      "name": "BSc",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sekhukhune-tvet-college-web.txt",
+      "sourceUrl": "https://southafricaportal.com/sekhukhune-tvet-college-courses-prospectus-and-requirements/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sekhukhune-tvet-college-web.txt",
+        "char_start": 5984,
+        "char_end": 5987,
+        "excerpt": "BSc"
+      },
+      "normalization_key": "Degree|5f75057e98ee|bsc"
+    },
+    {
+      "id": "prog:354:Postgraduate|4ba774b4722c|msc degrees",
+      "institutionId": "354",
+      "name": "MSc Degrees",
+      "qualification_type": "Postgraduate",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/sekhukhune-tvet-college-web.txt",
+      "sourceUrl": "https://southafricaportal.com/sekhukhune-tvet-college-courses-prospectus-and-requirements/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/sekhukhune-tvet-college-web.txt",
+        "char_start": 5990,
+        "char_end": 6001,
+        "excerpt": "MSc Degrees"
+      },
+      "normalization_key": "Postgraduate|4ba774b4722c|msc degrees"
+    }
+  ],
+  "admissions_rules": [],
+  "aps_rules": [],
+  "llm_calls": 0
+}

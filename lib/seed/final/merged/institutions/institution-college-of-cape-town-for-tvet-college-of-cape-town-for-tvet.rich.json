@@ -1,0 +1,67 @@
+{
+  "institution": {
+    "id": "institution:college-of-cape-town-for-tvet",
+    "slug": "college-of-cape-town-for-tvet",
+    "institution_id_raw": "328",
+    "name": "College of Cape Town for TVET",
+    "institution_type": "tvet-college",
+    "city": "Cape Town",
+    "province": "Western Cape",
+    "official_website": "https://www.cct.edu.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/328/college-of-cape-town-for-tvet",
+    "source_paths": [
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "sector": "higher education",
+      "province": "Western Cape",
+      "city": "Cape Town",
+      "physical_address": "334 Albert Road, Salt River, Cape Town, 8000",
+      "postal_address": "PO Box 1054, Cape Town, 8000",
+      "contact_emails": [
+        "info@cct.edu.za"
+      ],
+      "contact_phone_numbers": [
+        "+27 021 407 6700",
+        "+27 086 010 3682",
+        "021 404 6700"
+      ],
+      "application_url": "https://www.mycct.co.za/Admissions/",
+      "socials": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": "",
+        "x": "",
+        "youtube": ""
+      },
+      "accreditation": {
+        "dh et": "Accredited",
+        "saqa": null
+      },
+      "sources": [
+        "https://nationalgovernment.co.za/units/view/328/college-of-cape-town-for-tvet",
+        "https://www.cct.edu.za/"
+      ],
+      "qualification_types": [
+        "NC(V)",
+        "Nated (Report 191)",
+        "Skills Programmes",
+        "Apprenticeships"
+      ],
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

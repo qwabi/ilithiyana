@@ -1,0 +1,66 @@
+{
+  "institution": {
+    "id": "institution:northlink-tvet-college",
+    "slug": "northlink-tvet-college",
+    "institution_id_raw": "317",
+    "name": "Northlink TVET College",
+    "institution_type": "tvet-college",
+    "city": "Bellville",
+    "province": "Western Cape",
+    "official_website": "https://www.northlink.co.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/317/northlink-tvet-college",
+    "source_paths": [
+      "generated/v3/institutions.enriched.json",
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "sector": "higher education",
+      "province": "Western Cape",
+      "city": "Bellville",
+      "physical_address": "80 Voortrekker Road, Bellville",
+      "postal_address": "Private Bag X1, Panorama, 7506",
+      "contact_phone_numbers": [
+        "021 970 9090",
+        "021 970 9000 / 0860 065 465"
+      ],
+      "application_url": "https://www.northlink.co.za/apply/student-profiler-application-guide/",
+      "socials": {
+        "facebook": "https://www.facebook.com/northlink",
+        "instagram": "https://www.instagram.com/northlink_college/",
+        "linkedin": "https://www.linkedin.com/company/northlink-college/",
+        "x": "https://twitter.com/northlink",
+        "youtube": "https://www.youtube.com/channel/UCVyOPMgNqyUhOl2DdEfA1IQ"
+      },
+      "accreditation": {
+        "dh et": "Accredited",
+        "saqa": null
+      },
+      "sources": [
+        "https://nationalgovernment.co.za/units/view/317/northlink-tvet-college",
+        "https://www.northlink.co.za/"
+      ],
+      "qualification_types": [
+        "NC(V)",
+        "Nated (Report 191)",
+        "Skills Programmes",
+        "Apprenticeships"
+      ],
+      "nsfas_supported": true,
+      "student_accommodation": true,
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

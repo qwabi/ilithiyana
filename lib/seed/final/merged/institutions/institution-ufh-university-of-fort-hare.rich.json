@@ -1,0 +1,65 @@
+{
+  "institution": {
+    "institution_id": "ufh",
+    "name": "University of Fort Hare",
+    "institution_type": "university",
+    "city": null,
+    "province": null,
+    "official_website": null,
+    "detail_source": null,
+    "source_paths": [
+      "workik/batch1/online/ufh.json",
+      "workik/batch1/online/ufh2.json",
+      "workik/batch1/online/ufh3.json"
+    ],
+    "profile": {}
+  },
+  "campuses": [
+    {
+      "id": "camp:5e2d7395b473b424",
+      "institution_id": "ufh",
+      "name": "Alice",
+      "city": "Alice",
+      "province": "Eastern Cape",
+      "is_main": true,
+      "source_paths": [
+        "workik/batch1/online/ufh.json",
+        "workik/batch1/online/ufh3.json"
+      ]
+    },
+    {
+      "id": "camp:93361b67bb93374d",
+      "institution_id": "ufh",
+      "name": "Bhisho",
+      "city": "Bhisho",
+      "province": "Eastern Cape",
+      "is_main": false,
+      "source_paths": [
+        "workik/batch1/online/ufh3.json"
+      ]
+    },
+    {
+      "id": "camp:1e640abb42fd0fda",
+      "institution_id": "ufh",
+      "name": "East London",
+      "city": "East London",
+      "province": "Eastern Cape",
+      "is_main": false,
+      "source_paths": [
+        "workik/batch1/online/ufh.json",
+        "workik/batch1/online/ufh3.json"
+      ]
+    }
+  ],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 3,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

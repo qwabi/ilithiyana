@@ -1,0 +1,65 @@
+{
+  "institution_id": "nmu",
+  "institution_name": "Nelson Mandela University",
+  "faculties": [
+    {
+      "name": "Business & Economic Sciences",
+      "overview": "Includes School of Accounting and School of Economics."
+    },
+    {
+      "name": "Engineering, Built Environment & Technology",
+      "overview": "Covers Mechatronics, Marine Engineering, and Architecture."
+    },
+    {
+      "name": "Science",
+      "overview": "Offers Geosciences, Biological Sciences, and Polymer Technology."
+    }
+  ],
+  "programmes": [
+    {
+      "name": "BCom: General (Accounting)",
+      "min_as": 390,
+      "subjects": "Math (50%)"
+    },
+    {
+      "name": "BEng (Mechatronics)",
+      "min_as": 410,
+      "subjects": "Math (65%), PhysSci (65%)"
+    },
+    {
+      "name": "BSc (Computer Science)",
+      "min_as": 390,
+      "subjects": "Math (60%)"
+    },
+    {
+      "name": "Diploma in Logistics",
+      "min_as": 330,
+      "subjects": "Math (40%) or ML (60%)"
+    },
+    {
+      "name": "Diploma in Tourism Management",
+      "min_as": 330,
+      "subjects": "Math (40%) or ML (60%)"
+    },
+    {
+      "name": "LLB (Law)",
+      "min_as": 390,
+      "subjects": "English (60%), Math (40%) or ML (60%)"
+    },
+    {
+      "name": "BCom: General (Economics)",
+      "min_as": 390,
+      "subjects": "Math (50%)"
+    },
+    {
+      "name": "Diploma in Agricultural Management",
+      "min_as": 310,
+      "subjects": "Math (35%) or ML (55%)"
+    },
+    {
+      "name": "Bachelor of Pharmacy (BPharm)",
+      "min_as": 410,
+      "subjects": "Math (60%), PhysSci (60%)"
+    }
+  ]
+}

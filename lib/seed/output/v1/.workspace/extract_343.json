@@ -1,0 +1,483 @@
+{
+  "faculties": [],
+  "programmes": [
+    {
+      "id": "prog:343:NATED|3787633babc5|report 191",
+      "institutionId": "343",
+      "name": "Report 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/mopani-south-tvet-college.pdf",
+      "sourceUrl": "https://mopanicollege.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/mopani-south-tvet-college.pdf",
+        "char_start": 1099,
+        "char_end": 1109,
+        "excerpt": "Report 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:343:NATED|3787633babc5|report 191",
+      "institutionId": "343",
+      "name": "Report 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/mopani-south-tvet-college.pdf",
+      "sourceUrl": "https://mopanicollege.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/mopani-south-tvet-college.pdf",
+        "char_start": 2111,
+        "char_end": 2121,
+        "excerpt": "Report 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:343:NATED|3787633babc5|report 191",
+      "institutionId": "343",
+      "name": "Report 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/mopani-south-tvet-college.pdf",
+      "sourceUrl": "https://mopanicollege.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/mopani-south-tvet-college.pdf",
+        "char_start": 3313,
+        "char_end": 3323,
+        "excerpt": "Report 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:343:Degree|970f519c2cad|ba",
+      "institutionId": "343",
+      "name": "Ba",
+      "qualification_type": "Degree",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/mopani-south-tvet-college.pdf",
+      "sourceUrl": "https://mopanicollege.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/mopani-south-tvet-college.pdf",
+        "char_start": 3536,
+        "char_end": 3538,
+        "excerpt": "Ba"
+      },
+      "normalization_key": "Degree|970f519c2cad|ba"
+    },
+    {
+      "id": "prog:343:NATED|3787633babc5|report 191",
+      "institutionId": "343",
+      "name": "Report 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/mopani-south-tvet-college.pdf",
+      "sourceUrl": "https://mopanicollege.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/mopani-south-tvet-college.pdf",
+        "char_start": 4638,
+        "char_end": 4648,
+        "excerpt": "Report 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:343:NATED|3787633babc5|report 191",
+      "institutionId": "343",
+      "name": "Report 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/mopani-south-tvet-college.pdf",
+      "sourceUrl": "https://mopanicollege.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/mopani-south-tvet-college.pdf",
+        "char_start": 5074,
+        "char_end": 5084,
+        "excerpt": "Report 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:343:NATED|3787633babc5|report 191",
+      "institutionId": "343",
+      "name": "Report 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/mopani-south-tvet-college.pdf",
+      "sourceUrl": "https://mopanicollege.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/mopani-south-tvet-college.pdf",
+        "char_start": 6473,
+        "char_end": 6483,
+        "excerpt": "Report 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:343:NATED|3787633babc5|report 191",
+      "institutionId": "343",
+      "name": "REPORT 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/mopani-south-tvet-college.pdf",
+      "sourceUrl": "https://mopanicollege.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/mopani-south-tvet-college.pdf",
+        "char_start": 17847,
+        "char_end": 17857,
+        "excerpt": "REPORT 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:343:NATED|3787633babc5|report 191",
+      "institutionId": "343",
+      "name": "Report 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/mopani-south-tvet-college.pdf",
+      "sourceUrl": "https://mopanicollege.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/mopani-south-tvet-college.pdf",
+        "char_start": 17882,
+        "char_end": 17892,
+        "excerpt": "Report 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:343:NATED|3787633babc5|report 191",
+      "institutionId": "343",
+      "name": "REPORT 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/mopani-south-tvet-college.pdf",
+      "sourceUrl": "https://mopanicollege.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/mopani-south-tvet-college.pdf",
+        "char_start": 18245,
+        "char_end": 18255,
+        "excerpt": "REPORT 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:343:NATED|3787633babc5|report 191",
+      "institutionId": "343",
+      "name": "REPORT 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/mopani-south-tvet-college.pdf",
+      "sourceUrl": "https://mopanicollege.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/mopani-south-tvet-college.pdf",
+        "char_start": 18504,
+        "char_end": 18514,
+        "excerpt": "REPORT 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:343:NATED|3787633babc5|report 191",
+      "institutionId": "343",
+      "name": "Report 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/mopani-south-tvet-college.pdf",
+      "sourceUrl": "https://mopanicollege.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/mopani-south-tvet-college.pdf",
+        "char_start": 18875,
+        "char_end": 18885,
+        "excerpt": "Report 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    },
+    {
+      "id": "prog:343:Diploma|31341fa725dc|diploma in accounting, level 6. (id 93597).",
+      "institutionId": "343",
+      "name": "Diploma in Accounting, Level 6. (ID 93597).",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": [
+          {
+            "subject": "Accounting",
+            "minimum_percentage": 6,
+            "raw_span": "Accounting, Level 6",
+            "trace": {
+              "source_file": "lib/seed/prospectuses/mopani-south-tvet-college.pdf",
+              "char_start": 37805,
+              "char_end": 37824,
+              "excerpt": "Accounting, Level 6"
+            }
+          }
+        ]
+      },
+      "sourceFile": "lib/seed/prospectuses/mopani-south-tvet-college.pdf",
+      "sourceUrl": "https://mopanicollege.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/mopani-south-tvet-college.pdf",
+        "char_start": 37794,
+        "char_end": 37837,
+        "excerpt": "Diploma in Accounting, Level 6. (ID 93597)."
+      },
+      "normalization_key": "Diploma|31341fa725dc|diploma in accounting, level 6. (id 93597)."
+    },
+    {
+      "id": "prog:343:Diploma|739cf6bd2980|national diploma",
+      "institutionId": "343",
+      "name": "National Diploma",
+      "qualification_type": "Diploma",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/mopani-south-tvet-college.pdf",
+      "sourceUrl": "https://mopanicollege.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/mopani-south-tvet-college.pdf",
+        "char_start": 56578,
+        "char_end": 56594,
+        "excerpt": "National Diploma"
+      },
+      "normalization_key": "Diploma|739cf6bd2980|national diploma"
+    },
+    {
+      "id": "prog:343:NATED|57d8fa0fea64|n4 certificate",
+      "institutionId": "343",
+      "name": "N4 Certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/mopani-south-tvet-college.pdf",
+      "sourceUrl": "https://mopanicollege.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/mopani-south-tvet-college.pdf",
+        "char_start": 65997,
+        "char_end": 66011,
+        "excerpt": "N4 Certificate"
+      },
+      "normalization_key": "NATED|57d8fa0fea64|n4 certificate"
+    },
+    {
+      "id": "prog:343:NATED|26e9fcbc1a8f|n3 certificate",
+      "institutionId": "343",
+      "name": "N3 Certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/mopani-south-tvet-college.pdf",
+      "sourceUrl": "https://mopanicollege.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/mopani-south-tvet-college.pdf",
+        "char_start": 66042,
+        "char_end": 66056,
+        "excerpt": "N3 Certificate"
+      },
+      "normalization_key": "NATED|26e9fcbc1a8f|n3 certificate"
+    },
+    {
+      "id": "prog:343:NATED|062dadb07aaa|n5 certificate",
+      "institutionId": "343",
+      "name": "N5 Certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/mopani-south-tvet-college.pdf",
+      "sourceUrl": "https://mopanicollege.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/mopani-south-tvet-college.pdf",
+        "char_start": 66491,
+        "char_end": 66505,
+        "excerpt": "N5 Certificate"
+      },
+      "normalization_key": "NATED|062dadb07aaa|n5 certificate"
+    },
+    {
+      "id": "prog:343:NATED|57d8fa0fea64|n4 certificate",
+      "institutionId": "343",
+      "name": "N4 Certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/mopani-south-tvet-college.pdf",
+      "sourceUrl": "https://mopanicollege.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/mopani-south-tvet-college.pdf",
+        "char_start": 66536,
+        "char_end": 66550,
+        "excerpt": "N4 Certificate"
+      },
+      "normalization_key": "NATED|57d8fa0fea64|n4 certificate"
+    },
+    {
+      "id": "prog:343:NATED|2991a6b8d1aa|n6 certificate",
+      "institutionId": "343",
+      "name": "N6 Certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/mopani-south-tvet-college.pdf",
+      "sourceUrl": "https://mopanicollege.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/mopani-south-tvet-college.pdf",
+        "char_start": 66587,
+        "char_end": 66601,
+        "excerpt": "N6 Certificate"
+      },
+      "normalization_key": "NATED|2991a6b8d1aa|n6 certificate"
+    },
+    {
+      "id": "prog:343:NATED|062dadb07aaa|n5 certificate",
+      "institutionId": "343",
+      "name": "N5 Certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/mopani-south-tvet-college.pdf",
+      "sourceUrl": "https://mopanicollege.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/mopani-south-tvet-college.pdf",
+        "char_start": 66632,
+        "char_end": 66646,
+        "excerpt": "N5 Certificate"
+      },
+      "normalization_key": "NATED|062dadb07aaa|n5 certificate"
+    },
+    {
+      "id": "prog:343:NATED|2991a6b8d1aa|n6 certificate",
+      "institutionId": "343",
+      "name": "N6 Certificate",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/mopani-south-tvet-college.pdf",
+      "sourceUrl": "https://mopanicollege.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/mopani-south-tvet-college.pdf",
+        "char_start": 66680,
+        "char_end": 66694,
+        "excerpt": "N6 Certificate"
+      },
+      "normalization_key": "NATED|2991a6b8d1aa|n6 certificate"
+    },
+    {
+      "id": "prog:343:NATED|3787633babc5|report 191",
+      "institutionId": "343",
+      "name": "report 191",
+      "qualification_type": "NATED",
+      "faculty": null,
+      "aps_minimum": null,
+      "requirements": {
+        "subjects": []
+      },
+      "sourceFile": "lib/seed/prospectuses/mopani-south-tvet-college.pdf",
+      "sourceUrl": "https://mopanicollege.edu.za/",
+      "trace": {
+        "source_file": "lib/seed/prospectuses/mopani-south-tvet-college.pdf",
+        "char_start": 69276,
+        "char_end": 69286,
+        "excerpt": "report 191"
+      },
+      "normalization_key": "NATED|3787633babc5|report 191"
+    }
+  ],
+  "admissions_rules": [
+    {
+      "id": "adm:343:Diploma|31341fa725dc|diploma in accounting, level 6. (id 93597).:subjects",
+      "institutionId": "343",
+      "programmeId": "prog:343:Diploma|31341fa725dc|diploma in accounting, level 6. (id 93597).",
+      "ruleType": "subject_requirements",
+      "detail": "Accounting >= 6%",
+      "subjects": [
+        {
+          "subject": "Accounting",
+          "minimum_percentage": 6,
+          "raw_span": "Accounting, Level 6",
+          "trace": {
+            "source_file": "lib/seed/prospectuses/mopani-south-tvet-college.pdf",
+            "char_start": 37805,
+            "char_end": 37824,
+            "excerpt": "Accounting, Level 6"
+          }
+        }
+      ],
+      "sourceFile": "lib/seed/prospectuses/mopani-south-tvet-college.pdf",
+      "sourceUrl": "https://mopanicollege.edu.za/"
+    }
+  ],
+  "aps_rules": [],
+  "llm_calls": 0
+}

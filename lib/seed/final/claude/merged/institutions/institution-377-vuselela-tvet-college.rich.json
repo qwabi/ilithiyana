@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "institution_id": "377",
+    "slug": "vuselela-tvet-college",
+    "name": "Vuselela TVET College",
+    "institution_type": "tvet-college",
+    "province": "North West",
+    "city": "Klerksdorp",
+    "official_website": "https://vuselelacollege.co.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/377/vuselela-tvet-college",
+    "application_url": "https://vuselelacollege.co.za/how-to-apply/",
+    "prospectus_url": null,
+    "nsfas_supported": true,
+    "distance_learning": null,
+    "accreditation": {
+      "dh et": "Accredited",
+      "saqa": null
+    },
+    "qualification_types": [
+      "NC(V)",
+      "Nated (Report 191)",
+      "Skills Programmes",
+      "Apprenticeships"
+    ]
+  },
+  "profile": {},
+  "contact": {
+    "emails": [
+      "info@vuselelacollege.co.za"
+    ],
+    "phone_numbers": [
+      "018 406 7800"
+    ],
+    "physical_address": "8 Bram Fischer Street, Klerksdorp, 2571",
+    "socials": {
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "x": "",
+      "youtube": "https://www.youtube.com/channel/UCNrdmCUiWMwiA2XzfVeJ_gA"
+    }
+  },
+  "campuses": [],
+  "faculties": [],
+  "programmes": [],
+  "admission": {
+    "aps_name": null,
+    "aps_calculation_notes": null,
+    "minimum_aps_for_bachelors": null,
+    "minimum_aps_for_diplomas": null,
+    "minimum_entry_note": null,
+    "life_orientation_cap": null,
+    "aps_rules": [],
+    "programme_requirements": []
+  },
+  "sources": [
+    "generated/v3/institutions.enriched.json",
+    "institutions.json"
+  ],
+  "_stats": {
+    "campuses_count": 0,
+    "faculties_count": 0,
+    "programmes_count": 0,
+    "aps_rules_count": 0,
+    "adm_reqs_count": 0
+  }
+}

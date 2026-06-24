@@ -1,0 +1,8 @@
+SOURCE: https://fundiconnect.co.za/institutions/umgungundlovu-tvet-college/
+INSTITUTION: Umgungundlovu TVET College
+SLUG: umgungundlovu-tvet-college
+SCRAPED: 2026-05-27
+NOTE: Web-scraped programme and admission info. No official PDF exists.
+======================================================================
+
+Umgungundlovu TVET College - Fees & Admissions 2026

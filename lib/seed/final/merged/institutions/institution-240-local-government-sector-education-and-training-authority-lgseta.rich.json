@@ -1,0 +1,30 @@
+{
+  "institution": {
+    "institution_id": "240",
+    "name": "Local Government Sector Education and Training Authority (LGSETA)",
+    "institution_type": "seta",
+    "city": "Bedfordview",
+    "province": "",
+    "official_website": "https://lgseta.org.za/",
+    "detail_source": "https://nationalgovernment.co.za/units/view/240/local-government-sector-education-and-training-authority-lgseta",
+    "source_paths": [
+      "institutions.json",
+      "result.json"
+    ],
+    "profile": {
+      "short_name": ""
+    }
+  },
+  "campuses": [],
+  "faculties_best": [],
+  "faculties_all": [],
+  "programmes_best": [],
+  "programmes_all": [],
+  "counts": {
+    "campuses": 0,
+    "faculties_best": 0,
+    "faculties_all": 0,
+    "programmes_best": 0,
+    "programmes_all": 0
+  }
+}

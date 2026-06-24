@@ -1,0 +1,22 @@
+{
+  "institutionId": "365",
+  "stages": {
+    "preprocess": {
+      "ok": true,
+      "artifact": ".workspace/chunks_365.json"
+    },
+    "extract": {
+      "ok": true,
+      "artifact": ".workspace/extract_365.json"
+    },
+    "normalize": {
+      "ok": true,
+      "artifact": ".workspace/normalize_365.json"
+    },
+    "dedupe": {
+      "ok": true,
+      "artifact": ".workspace/dedupe_365.json"
+    }
+  },
+  "version": 1
+}

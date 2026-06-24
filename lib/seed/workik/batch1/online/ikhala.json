@@ -1,0 +1,42 @@
+{
+  "institution_id": "ikhala",
+  "institution_name": "Ikhala TVET College",
+  "institution_type": "tvet-college",
+  "source_file": "batch1/National Certificate Courses - Ikhala TVET College.pdf",
+  "campuses": [
+    {
+      "name": "Aliwal North",
+      "city": "Aliwal North",
+      "province": "Eastern Cape",
+      "is_main": false
+    },
+    {
+      "name": "Ezibeleni",
+      "city": "Queenstown",
+      "province": "Eastern Cape",
+      "is_main": true
+    }
+  ],
+  "programmes": [
+    {
+      "name": "NC(V) Civil Engineering and Building Construction",
+      "normalized_name": "NC(V) Civil Engineering and Building Construction",
+      "qualification_type": "NC(V)",
+      "qualification_level": "NCV Level 2",
+      "minimum_grade_requirement": "Grade 9 pass with Mathematics (40%) and English (40%)",
+      "subjects_compulsory": [
+        { "subject": "Mathematics", "minimum_percentage": 40 },
+        { "subject": "English", "minimum_percentage": 40 }
+      ],
+      "extraction_confidence": 0.9
+    },
+    {
+      "name": "Business Management N4-N6",
+      "normalized_name": "Business Management N4-N6",
+      "qualification_type": "NATED N1-N6",
+      "qualification_level": "N4",
+      "minimum_grade_requirement": "Grade 12 with Accounting, or NCV Level 4 Management",
+      "extraction_confidence": 0.9
+    }
+  ]
+}
